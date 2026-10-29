@@ -76,6 +76,6 @@ Le [dossier du référentiel](curriculum/README.md) précise les sources, versio
 
 ## Publication et ouverture aux élèves
 
-Le workflow `.github/workflows/` prépare un déploiement GitHub Pages lors d’un push sur `main`. Les modifications actuelles n’ont pas été poussées ni publiées par l’agent. Vérifier la configuration Pages du dépôt avant publication.
+Le workflow `.github/workflows/` prépare un déploiement GitHub Pages lors d’un push sur `main`. La version `739cb76` a été publiée avec succès le 29 octobre 2026 : https://sigroupeimmo4-ux.github.io/UNKNOW/. Les nouvelles versions sont déployées par ce workflow.
 
 Le projet vise notamment des mineurs. Les règles de consentement et de confidentialité restent à définir avant l’ouverture publique des inscriptions aux élèves. Avant de stocker des profils ou résultats, créer les tables et leurs politiques Row Level Security et vérifier qu’un élève ne peut consulter ou modifier que ses propres données. La création des pages d’authentification ne réalise pas ces fonctions de base de données.

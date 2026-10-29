@@ -11,7 +11,8 @@ Les éléments prévus ci-dessous sont des propositions issues de l’analyse in
 - **Demande :** fournir un lien GitHub vers la version actuelle du site.
 - **Changement :** préparation de la landing page, des pages d’authentification et des évolutions précédentes pour le workflow GitHub Pages existant sur `main`.
 - **Vérifications :** site Pages existant accessible, branche distante au même commit de départ, autorisation d’écriture confirmée et absence d’erreur de format dans le diff. Les 30 tests Python et 2 tests JavaScript ont passé lors de la validation précédente.
-- **Limites :** les URL de retour Supabase et les parcours e-mail réels restent à vérifier ; le référentiel scolaire reste partiel. L’état du déploiement doit être confirmé par le workflow et les réponses du site après l’envoi.
+- **Publication confirmée :** commit `739cb76` envoyé sur `main`, workflow GitHub Pages `40884425338` réussi. Le site https://sigroupeimmo4-ux.github.io/UNKNOW/ sert la nouvelle version : accueil, connexion, inscription, application et fichier d’activité contrôlés en HTTP 200.
+- **Limites :** les URL de retour Supabase et les parcours e-mail réels restent à vérifier ; le référentiel scolaire reste partiel.
 
 ### 2026-10-29 — Landing page et pages d’authentification
 
