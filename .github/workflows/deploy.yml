@@ -1,4 +1,4 @@
-name: Deploy StudyWink to GitHub Pages
+name: Deploy StudyBeam to GitHub Pages
 on:
   push:
     branches: [main]

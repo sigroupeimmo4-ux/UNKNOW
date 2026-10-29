@@ -1,4 +1,4 @@
-# Référentiel français 2026-2027 — StudyBeam / StudyWink
+# Référentiel français 2026-2027 — StudyBeam
 
 ## État vérifié le 29 octobre 2026
 
@@ -16,7 +16,7 @@
 
 Ces chiffres ne signifient pas que toutes les matières sont couvertes. Les entrées peuvent désigner un groupe de matières ou une même référence reprise dans plusieurs classes. L’inventaire détaillé des langues, séries, options et diplômes professionnels reste à compléter et à vérifier.
 
-Le dépôt et l’interface portent encore le nom StudyWink. La demande utilise StudyBeam ; aucun changement de marque n’est appliqué dans ce chantier.
+Le produit et son interface portent le nom StudyBeam.
 
 ## Accès dans l’application
 

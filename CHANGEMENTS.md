@@ -1,10 +1,17 @@
-# Suivi des changements — StudyWink
+# Suivi des changements — StudyBeam
 
 Ce fichier centralise les changements du projet. Il sera mis à jour à chaque modification avec son objectif, les fichiers concernés et les vérifications effectuées.
 
 Les éléments prévus ci-dessous sont des propositions issues de l’analyse initiale. Leur état est indiqué dans le tableau.
 
 ## Changements réalisés
+
+### 2026-10-29 — Correction du nom en StudyBeam
+
+- **Changement :** remplacement du nom du produit par StudyBeam dans la landing page, l’application, toutes les pages d’authentification, les métadonnées, les textes accessibles, le logo SVG, le référentiel et la documentation courante. Le compagnon est désormais nommé Beam. Le workflow Pages porte également le nouveau nom.
+- **Compatibilité :** renommage cohérent des variables publiques de configuration Supabase dans la configuration et le client. Les données locales et le projet Supabase existant sont conservés.
+- **Historique :** les anciennes entrées de ce journal conservent les noms utilisés à leur date de rédaction. Les documents officiels archivés ne sont pas modifiés.
+- **Validation :** 30 tests Python et 2 tests JavaScript réussis. Vérification de l’absence de l’ancien nom dans les pages et ressources actives. Les URL des ressources portent une version `studybeam` pour renouveler le cache du logo et des scripts. Publication par le workflow GitHub Pages.
 
 ### 2026-10-29 — Préparation de la publication GitHub Pages
 

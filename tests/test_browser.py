@@ -13,7 +13,7 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 
-class StudyWinkTests(unittest.TestCase):
+class StudyBeamTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.server = ThreadingHTTPServer(('127.0.0.1', 0), partial(

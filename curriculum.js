@@ -143,7 +143,7 @@
       if (version !== requestVersion) return;
       const lesson = assetCache.get(path);
       if (lesson.program_id !== program.id || lesson.program_version !== program.version || lesson.chapter_id !== chapter.id) throw new Error('Version incohérente');
-      activity.append(node('h3', lesson.title), node('p','Découpage pédagogique StudyWink, relié au programme officiel ; il ne s’agit pas d’un intitulé imposé par le ministère.','small muted'));
+      activity.append(node('h3', lesson.title), node('p','Découpage pédagogique StudyBeam, relié au programme officiel ; il ne s’agit pas d’un intitulé imposé par le ministère.','small muted'));
       list(activity,'Objectifs de révision',lesson.learning_objectives);
       list(activity,'Connaissances et savoir-faire du programme',chapter.skills);
       activity.append(node('p', 'Source : ' + chapter.source_locator, 'small muted'));

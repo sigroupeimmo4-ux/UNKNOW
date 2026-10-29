@@ -1,6 +1,6 @@
-# StudyWink — Site statique et authentification Supabase
+# StudyBeam — Site statique et authentification Supabase
 
-StudyWink propose une présentation publique, un espace de révision accessible sans compte et des pages d’authentification par e-mail. Le site fonctionne sans compilation et peut être hébergé sur GitHub Pages.
+StudyBeam propose une présentation publique, un espace de révision accessible sans compte et des pages d’authentification par e-mail. Le site fonctionne sans compilation et peut être hébergé sur GitHub Pages.
 
 ## Pages
 

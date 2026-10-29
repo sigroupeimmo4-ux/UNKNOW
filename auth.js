@@ -131,8 +131,8 @@
   });
   async function init() {
     try {
-      if (!window.supabase || !window.STUDYWINK_SUPABASE_URL || !window.STUDYWINK_SUPABASE_ANON_KEY) throw new Error('Auth configuration unavailable');
-      client = window.supabase.createClient(window.STUDYWINK_SUPABASE_URL, window.STUDYWINK_SUPABASE_ANON_KEY, {
+      if (!window.supabase || !window.STUDYBEAM_SUPABASE_URL || !window.STUDYBEAM_SUPABASE_ANON_KEY) throw new Error('Auth configuration unavailable');
+      client = window.supabase.createClient(window.STUDYBEAM_SUPABASE_URL, window.STUDYBEAM_SUPABASE_ANON_KEY, {
         auth:{flowType:'pkce', detectSessionInUrl:true, persistSession:true, autoRefreshToken:true}
       });
       // Callback synchrone : ne pas attendre une autre méthode auth depuis cet événement.
