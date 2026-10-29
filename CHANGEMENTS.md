@@ -6,6 +6,12 @@ Les éléments prévus ci-dessous sont des propositions issues de l’analyse in
 
 ## Changements réalisés
 
+### 2026-10-29 — Intégration du logo au petit dragon
+
+- **Changement :** utilisation de l’image transparente fournie par lien partagé, conservée sans retouche dans `assets/studybeam-logo.webp` (512 × 512). Le logo est affiché dans les en-têtes et la landing page, et le dragon remplace le robot de démonstration. Les pages d’authentification reprennent la mascotte et les couleurs violet, bleu et doré.
+- **Fichiers concernés :** pages HTML, `site.css`, `assets/studybeam-logo.webp`, `CHANGEMENTS.md`.
+- **Validation :** 30 tests Python réussis, contrôle visuel de l’accueil et chargement du logo vérifié sur accueil, connexion et application. Aucun débordement à 390 px. Publication par le workflow GitHub Pages.
+
 ### 2026-10-29 — Correction du nom en StudyBeam
 
 - **Changement :** remplacement du nom du produit par StudyBeam dans la landing page, l’application, toutes les pages d’authentification, les métadonnées, les textes accessibles, le logo SVG, le référentiel et la documentation courante. Le compagnon est désormais nommé Beam. Le workflow Pages porte également le nouveau nom.
