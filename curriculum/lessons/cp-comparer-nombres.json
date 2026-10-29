@@ -1,0 +1,97 @@
+{
+  "id": "cp-comparer-nombres",
+  "title": "Comparer et ranger les nombres",
+  "chapter_id": "cp-comparer-nombres",
+  "program_id": "CP-mathematiques-commun",
+  "program_version": "cycle2-maths-2024-cp-v1",
+  "learning_objectives": [
+    "Comparer deux nombres jusqu’à cent.",
+    "Choisir le symbole =, < ou >.",
+    "Ranger des nombres dans l’ordre croissant ou décroissant."
+  ],
+  "skill_ids": [
+    "cp-comparer-nombres-skill",
+    "cp-comparer-nombres-order"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CP / Les nombres entiers, pages 3–4 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Comparer des quantités",
+      "text": "Dessine 23 objets et 32 objets en faisant des paquets de dix. La collection de 32 contient plus d’objets. On dit que 23 est plus petit que 32 et on écrit 23 < 32."
+    },
+    {
+      "title": "Regarder dizaines et unités",
+      "text": "Pour comparer 49 et 53, compare d’abord les dizaines : quatre dizaines, c’est moins que cinq dizaines. Donc 49 < 53. Si les dizaines sont les mêmes, compare les unités : 46 > 42 car six unités sont plus que deux."
+    },
+    {
+      "title": "Ranger les nombres",
+      "text": "L’ordre croissant va du plus petit au plus grand : 12, 25, 38. L’ordre décroissant va du plus grand au plus petit : 38, 25, 12. Deux écritures de la même quantité sont égales : 30 + 4 = 34."
+    }
+  ],
+  "revision_sheet": [
+    "< signifie « est plus petit que ».",
+    "> signifie « est plus grand que ».",
+    "= signifie « est égal à ».",
+    "Ordre croissant : du plus petit au plus grand."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel signe complète 49 … 53 ?",
+      "choices": [
+        ">",
+        "=",
+        "<"
+      ],
+      "correct_index": 2,
+      "explanation": "49 contient quatre dizaines, 53 en contient cinq : 49 < 53."
+    },
+    {
+      "prompt": "Quel rangement est croissant ?",
+      "choices": [
+        "38, 25, 12",
+        "12, 25, 38",
+        "25, 12, 38"
+      ],
+      "correct_index": 1,
+      "explanation": "12 est plus petit que 25, qui est plus petit que 38."
+    },
+    {
+      "prompt": "Quelle comparaison est vraie ?",
+      "choices": [
+        "46 < 42",
+        "46 = 42",
+        "46 > 42"
+      ],
+      "correct_index": 2,
+      "explanation": "Les dizaines sont identiques. Six unités sont plus que deux : 46 > 42."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Complète 27 … 72 avec <, > ou =.",
+      "solution": "27 < 72.",
+      "success_criterion": "Comparer les dizaines et choisir le symbole <."
+    },
+    {
+      "prompt": "Range 41, 14, 35 dans l’ordre croissant.",
+      "solution": "14, 35, 41.",
+      "success_criterion": "Placer les trois nombres du plus petit au plus grand."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Range 58, 52, 60, 25, 48 dans l’ordre croissant.",
+      "solution": "25, 48, 52, 58, 60.",
+      "success_criterion": "Ranger les cinq nombres sans omission."
+    },
+    {
+      "prompt": "Compare 34 et 30 + 4 et explique.",
+      "solution": "34 = 30 + 4 car les deux écritures représentent trois dizaines et quatre unités.",
+      "success_criterion": "Utiliser = et expliquer l’égalité des quantités."
+    }
+  ],
+  "audio_transcript": "Comparer des nombres, c’est chercher lequel représente la plus grande quantité. Quarante-neuf est plus petit que cinquante-trois. On compare les dizaines, puis les unités si les dizaines sont égales. Ranger dans l’ordre croissant, c’est aller du plus petit au plus grand.",
+  "guided_explanation": "Avec 49 jetons, tu as quatre paquets de dix et neuf jetons. Avec 53 jetons, tu as cinq paquets de dix et trois jetons. Même avec neuf unités, 49 n’atteint pas cinq dizaines. C’est pourquoi 49 est plus petit que 53."
+}

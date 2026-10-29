@@ -1,0 +1,1823 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <link rel="apple-touch-icon" href="/libraries/dsfr/dist/favicon/apple-touch-icon.png"><!-- 180×180 -->
+  <link rel="icon" href="/libraries/dsfr/dist/favicon/favicon.svg" type="image/svg+xml">
+  <link rel="shortcut icon" href="/libraries/dsfr/dist/favicon/favicon.ico" type="image/x-icon"><!-- 32×32 -->
+  <link rel="manifest" href="/libraries/dsfr/dist/favicon/manifest.webmanifest" crossorigin="use-credentials">
+  <meta charset="utf-8" />
+<meta name="description" content="Les programmes d&#039;enseignement et apprentissages de la maternelle au lycée." />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://www.education.gouv.fr/programmes-scolaires-41483" />
+<link rel="image_src" href="https://www.education.gouv.fr/sites/default/files/styles/social/public/2020-01/programmes-scolaires-117-scx0579564-447849.jpg?itok=yen9t7cI" />
+<meta name="google" content="uDwgotUTa081oGsJxMX3nKpLPT45LXrqOet1LKGX3yg" />
+<meta property="og:site_name" content="Ministère de l&#039;Education nationale" />
+<meta property="og:type" content="thematic_page" />
+<meta property="og:url" content="https://www.education.gouv.fr/programmes-scolaires-41483" />
+<meta property="og:title" content="Programmes scolaires" />
+<meta property="og:description" content="Les programmes scolaires fixent les connaissances et compétences que chaque élève doit acquérir de la maternelle au lycée. Ils donnent le cadre commun d’apprentissage et accompagnent les équipes enseignantes dans la construction de leurs enseignements." />
+<meta property="og:image:url" content="https://www.education.gouv.fr/sites/default/files/styles/social/public/2020-01/programmes-scolaires-117-scx0579564-447849.jpg?itok=yen9t7cI" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Les programmes scolaires fixent les connaissances et compétences que chaque élève doit acquérir de la maternelle au lycée. Ils donnent le cadre commun d’apprentissage et accompagnent les équipes enseignantes dans la construction de leurs enseignements." />
+<meta name="twitter:title" content="Programmes scolaires" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>window.dsfr = window.dsfr || {};
+window.dsfr.analytics = {
+  domain: "wrhv.education.gouv.fr",
+  site: {
+    entity: "Minist\u00e8re de l\u0027Education nationale"
+  },
+  page: {
+    template: "thematic_page"
+  }
+};</script>
+<link rel="alternate" hreflang="fr" href="https://www.education.gouv.fr/programmes-scolaires-41483" />
+
+  <title>Programmes scolaires | Ministère de l&#039;Education nationale</title>
+  <link rel="stylesheet" media="all" href="/sites/default/files/css/css_Durq7a3kUeLZjyEJHQuRLGzVenywTMSWIK-ROHA4lGE.css?delta=0&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFj8EKwzAMQ38obU77nuAkXhrqxMGOC_37FcZYb71JT0KgtGOuk-UVBlmpPQxIe6g9Y58hEqfd341LLOgTt8H9grpitsJ2hKxvWZY380R5KG0oHDaLD7UOR2jYzd2xT6aTmyM42WbIVRMfKKe_JhKTGyBQBMamPosNoPVPVuvDIlXdMDs9dWLzERTdhOth--4X4gi06Dyp9vKLSh7ib_oDPn16Hw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_uhVC3FK0zvxLBkLpPnxxjtrOQDrMOC-yb1_OioPpSV4.css?delta=1&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFj8EKwzAMQ38obU77nuAkXhrqxMGOC_37FcZYb71JT0KgtGOuk-UVBlmpPQxIe6g9Y58hEqfd341LLOgTt8H9grpitsJ2hKxvWZY380R5KG0oHDaLD7UOR2jYzd2xT6aTmyM42WbIVRMfKKe_JhKTGyBQBMamPosNoPVPVuvDIlXdMDs9dWLzERTdhOth--4X4gi06Dyp9vKLSh7ib_oDPn16Hw" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_lFJuqrBJuPD967tnROjsQvtwzw9booIFOUzdl55tQyU.css?delta=2&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFj8EKwzAMQ38obU77nuAkXhrqxMGOC_37FcZYb71JT0KgtGOuk-UVBlmpPQxIe6g9Y58hEqfd341LLOgTt8H9grpitsJ2hKxvWZY380R5KG0oHDaLD7UOR2jYzd2xT6aTmyM42WbIVRMfKKe_JhKTGyBQBMamPosNoPVPVuvDIlXdMDs9dWLzERTdhOth--4X4gi06Dyp9vKLSh7ib_oDPn16Hw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_vjcBIpWr9D2cytF-Hcwp_IvSXEBM87VXlVSa86HBQns.css?delta=3&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFj8EKwzAMQ38obU77nuAkXhrqxMGOC_37FcZYb71JT0KgtGOuk-UVBlmpPQxIe6g9Y58hEqfd341LLOgTt8H9grpitsJ2hKxvWZY380R5KG0oHDaLD7UOR2jYzd2xT6aTmyM42WbIVRMfKKe_JhKTGyBQBMamPosNoPVPVuvDIlXdMDs9dWLzERTdhOth--4X4gi06Dyp9vKLSh7ib_oDPn16Hw" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_N5EDBe35cbGk77JW3v0FfHnN-fcHqOehqU2KBrW1h-E.css?delta=4&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFj8EKwzAMQ38obU77nuAkXhrqxMGOC_37FcZYb71JT0KgtGOuk-UVBlmpPQxIe6g9Y58hEqfd341LLOgTt8H9grpitsJ2hKxvWZY380R5KG0oHDaLD7UOR2jYzd2xT6aTmyM42WbIVRMfKKe_JhKTGyBQBMamPosNoPVPVuvDIlXdMDs9dWLzERTdhOth--4X4gi06Dyp9vKLSh7ib_oDPn16Hw" />
+
+  <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+
+  <meta name="format-detection" content="telephone=no,date=no,address=no,email=no,url=no">
+</head>
+<body>
+  
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+    <div data-component-id="ui_suite_dsfr:skiplinks" class="fr-skiplinks">
+    <nav class="fr-container" role="navigation" aria-label="Skip links">
+      <ul class="fr-skiplinks__list">
+                          <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#main-content">
+  Contenu
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#page-header--menu">
+  Menu
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#search-block-form">
+  Rechercher
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#footer">
+  Pied de page
+</a>
+</li>
+              </ul>
+    </nav>
+  </div>
+
+
+        
+<header data-component-id="edugouv_dsfr:minisite_header" class="fr-header" role="banner">
+  <div class="fr-header__body">
+    <div class="fr-container">
+      <div class="fr-header__body-row">
+        <div class="fr-header__brand fr-enlarge-link">
+          <div class="fr-header__brand-top">
+                        <div class="fr-header__logo">
+                                            <p class="fr-logo">
+                                      MINISTÈRE<br />
+DE L’ÉDUCATION<br />
+NATIONALE
+                                  </p>
+                            </div>
+
+                                      <div class="fr-header__operator">
+                                <a href="/" title="Retour à l&#039;accueil du site - MINISTÈRE
+DE L’ÉDUCATION
+NATIONALE">
+                                    
+                                  </a>
+                              </div>
+            
+                                      <div class="fr-header__navbar">
+                                  <button class="fr-btn--search fr-btn" data-fr-opened="false" aria-controls="page-header--search" title="Rechercher" id="page-header--search-btn" type="button">
+                    Rechercher
+                  </button>
+                                                  <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="page-header--menu" aria-haspopup="dialog" title="Menu" id="page-header--mobile-menu-btn" type="button">
+                    Menu
+                  </button>
+                              </div>
+            
+
+
+          </div>
+
+                              
+                            </div>
+
+                          <div class="fr-header__tools">
+                                      <div class="fr-header__tools-links">
+                  <div>
+    <div id="block-edugouv-dsfr-quick-links">
+
+
+
+    <ul data-component-id="ui_suite_dsfr:link_group" class="fr-links-group">
+              <li>
+
+
+
+
+
+
+
+
+<a data-drupal-link-system-path="node/468278" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" class="fr-link" href="/espace-presse">
+  Espace presse
+</a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+<a data-drupal-link-system-path="taxonomy/term/115224" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" class="fr-link" href="/depp">
+  Études et statistiques
+</a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+<a target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" class="fr-link" href="https://www.parcoursup.gouv.fr/">
+  Parcoursup
+</a>
+</li>
+      </ul>
+
+
+</div>
+
+  </div>
+
+              </div>
+                                                  <div class="fr-header__search fr-modal" id="page-header--search" aria-labelledby="page-header--search-btn">
+                <div class="fr-container fr-container-lg--fluid">
+                  <button class="fr-btn fr-btn--close" aria-controls="page-header--search" title="Close search" type="button">Fermer</button>
+                    <div>
+    <div class="search-block-form" data-drupal-selector="search-block-form" id="block-edugouv-dsfr-search-bar" role="search">
+
+
+
+  <form action="/recherche" method="get" id="search-block-form" accept-charset="UTF-8" class="fr-search-bar">
+  
+  <label for="edit-keys" class="visually-hidden fr-label">Rechercher
+      </label>
+
+ 
+  <input title="Indiquer les termes à rechercher" placeholder="Rechercher" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search fr-input"> 
+
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+<button class="fr-btn button js-form-submit form-submit" data-twig-suggestion="search_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Rechercher">Rechercher</button>
+</div>
+
+</form>
+
+
+</div>
+
+  </div>
+
+                </div>
+              </div>
+                      </div>
+              </div>
+    </div>
+  </div>
+      <div class="fr-header__menu fr-modal" id="page-header--menu" aria-labelledby="page-header--mobile-menu-btn">
+      <div class="fr-container">
+        <button class="fr-btn fr-btn--close" aria-controls="page-header--menu" title="Fermer le menu" type="button">Fermer</button>
+        <div class="fr-header__menu-links"></div>
+          <div>
+    <div id="block-edugouv-dsfr-mainnavigation">
+
+
+
+      <nav data-component-id="edugouv_dsfr:nav_menu" class="fr-nav" role="navigation" aria-label="" id="main-menu-1298190669">
+    <ul class="fr-nav__list">
+                                                  <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-1298190669-1">
+              Ministère
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-1298190669-1">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/467601" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-ministre-de-l-education-nationale-467601">Ministre de l'Éducation nationale</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/470402" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/la-ministre-deleguee-chargee-de-l-enseignement-et-de-la-formation-professionnels-et-de-l-470402">Ministre déléguée chargée de l’Enseignement et de la Formation professionnels et de l’Apprentissage</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/6557" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/les-regions-academiques-academies-et-services-departementaux-de-l-education-nationale-6557">Académies</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115274" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/toute-l-actualite">Actualités</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41528" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-mediateur-de-l-education-nationale-et-de-l-enseignement-superieur-41528">Le médiateur</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115224" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/depp">Études et statistiques (Depp)</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115221" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/csp">Conseil supérieur des programmes (CSP)</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115262" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/igesr">Inspection générale de l’éducation, du sport et de la recherche (IGÉSR)</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115640" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/cee">Conseil d'évaluation de l'École (CEE)</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-1298190669-2">
+              Système éducatif
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-1298190669-2">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/12311" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/organisation-de-l-ecole-12311">Organisation de l'école</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/89246" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/valeurs-et-engagement-89246">Valeurs et engagement</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/89249" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/acteurs-de-l-education-nationale-89249">Acteurs</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/286058" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/publications-rapports-et-statistiques-286058">Publications et rapports</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/416565" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-numerique-pour-l-education-416565">Le numérique pour l'éducation</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-1298190669-3">
+              Enseignements
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-1298190669-3">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41483" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last is-active" href="/programmes-scolaires-41483" aria-current="page">Programmes scolaires</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115259" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/reussir-au-lycee">Réussir au lycée</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41459" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/examens-et-diplomes-41459">Examens et diplômes</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41486" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/europe-et-international-41486">Europe et international</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/470459" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/des-actions-educatives-pour-apprendre-autrement-470459">Actions éducatives</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/470459" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/des-actions-educatives-pour-apprendre-autrement-470459">Des actions éducatives pour apprendre autrement</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-1298190669-4">
+              Vie scolaire
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-1298190669-4">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41510" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/fonctionnement-de-l-ecole-41510">Fonctionnement de l'école</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/12323" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/bien-etre-et-sante-des-eleves-12323">Bien-être des élèves</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/505570" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/parents">Les parents et l'École</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41561" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/l-orientation-au-college-et-au-lycee-41561">Orientation</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41564" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/les-aides-scolaires-41564">Aides scolaires</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115256" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/non-au-harcelement">Non au harcèlement</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/456201" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/consignes-de-securite-applicables-dans-les-etablissements-relevant-du-ministere-de-l-education-456201">Vigipirate -  sécurité des établissements</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-1298190669-5">
+              Métiers et ressources humaines
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-1298190669-5">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/89624" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-de-l-enseignement-et-de-l-education-89624">Enseignement et éducation</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/99929" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-administratifs-99929">Politiques publiques et administration</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/99932" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-de-l-encadrement-99932">Encadrement</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/99941" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-de-la-sante-et-du-social-99941">Santé et social</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/309546" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-de-la-jeunesse-et-du-sport-309546">Jeunesse et Sport</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/450233" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-du-numerique-450233">Numérique</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/99944" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/concours-et-recrutements-99944">Concours</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-ministere-s-engage-pour-l-egalite-professionnelle-9284">Égalité professionnelle et diversité</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                        <a data-drupal-link-system-path="node/467636" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-bulletin-officiel-de-l-education-nationale-de-la-jeunesse-et-des-sports">Bulletin officiel</a>
+
+                  </li>
+                    
+          </ul>
+  </nav>
+
+
+
+
+
+</div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+    </div>
+  </header>
+
+  
+    <div>
+    <div id="block-edugouv-dsfr-breadcrumb" class="fr-container">
+
+
+
+      <nav data-component-id="ui_suite_dsfr:breadcrumb" class="fr-breadcrumb" role="navigation" aria-label="Vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-424645472" type="button">Voir le fil d'Ariane</button>
+    <div class="fr-collapse" id="breadcrumb-424645472">
+      <ol class="fr-breadcrumb__list">
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/">
+              Accueil
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/">
+              Enseignements
+            </a>
+          </li>
+                  <li>
+                                                            <a aria-current="page" class="fr-breadcrumb__link">
+              Programmes scolaires
+            </a>
+          </li>
+              </ol>
+    </div>
+  </nav>
+
+
+</div>
+
+  </div>
+
+
+  
+  <main role="main" class="fr-container--fluid">
+    <a id="main-content" tabindex="-1"></a>    <div class="fr-grid-row fr-grid-row--gutters">
+
+            
+      <div class="fr-col-12  no-padding" style="order: 2">
+          <div>
+    <div id="block-edugouv-dsfr-content">
+
+
+
+  <article about="/programmes-scolaires-41483">
+  <div>
+    
+  
+  
+<div  class="fr-container fr-hero-hub fr-hero-hub--w-image education-background-emerald" data-component-id="edugouv_dsfr:hero_hub" >
+  <div class="fr-container">
+          <div class="fr--hero-hub__img fr-mb-3w">
+        <div class="fr-responsive-img--32x9">
+
+
+
+    <div>
+  
+  
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/32_9_xl_1920x540/public/2020-01/programmes-scolaires-117-scx0579564-447849.jpg.webp?h=e8504775&amp;itok=4uP_dIZB" width="1920" height="540" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+      </div>
+      <div class="fr-text--sm fr-mt-2w">
+        
+      </div>
+    
+    
+    <div class="fr--hero-hub__text">
+
+              
+
+
+    
+  
+
+
+
+
+      
+      
+            <h1 class="fr-mb-2w fr-mb-md-3w">
+      
+
+
+  
+    Programmes scolaires
+
+
+
+    </h1>
+    
+          <p class="fr-text--lead fr-mb-0">
+        
+
+
+    Les programmes scolaires fixent les connaissances et compétences que chaque élève doit acquérir de la maternelle au lycée. Ils donnent le cadre commun d’apprentissage et accompagnent les équipes enseignantes dans la construction de leurs enseignements.
+
+
+
+      </p>
+    
+      </div>
+</div>
+</div>
+
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <p>La scolarité est organisée en cycles d’enseignement, chacun assorti d’objectifs et de programmes nationaux précisant une progression régulière des apprentissages ainsi que des critères d’évaluation :&nbsp;</p><ul><li>cycle 1 : de la petite section à la grande section de maternelle ;</li><li>cycle 2 : du CP au CE2 ;</li><li>cycle 3 : du CM1 à la 6<sup>e</sup> ;</li><li>cycle 4 : de la 5<sup>e</sup> à la 3<sup>e</sup>.</li></ul><p>Pour chacun de ces cycles, <strong>les programmes définissent les connaissances et compétences à acquérir, ainsi que les méthodes à maîtriser au cours du cycle</strong>. Ils constituent le cadre national dans lequel les enseignants organisent leurs enseignements, en prenant en compte les rythmes d’apprentissage et les besoins de chaque élève.</p>
+
+  </div>
+
+
+
+
+  
+    
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="tandem_dsfr:grid_row" role="list" >
+            <div role="listitem" class="fr-col fr-col-12" >
+      
+
+
+    <h2>Les programmes scolaires de la maternelle au collège</h2>
+
+
+
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12" >
+      
+    </div>
+        <div role="listitem" class="fr-col fr-col-12" >
+      
+
+
+  
+
+  <div data-component-id="tandem_dsfr:grid_row" class="fr-grid-row fr-grid-row--gutters" >
+            <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-6 fr-col-lg-6 fr-col-xl-6" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+    <a href="/programmes-l-ecole-maternelle-4193" hreflang="fr">Programmes et horaires à l&#039;école maternelle</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>L’école maternelle est une école de l’épanouissement et du langage. Sa mission principale est de donner envie aux enfants d’aller à l’école pour apprendre, s'épanouir et affirmer leur personnalité. </p>
+
+
+
+</div>              <div class="fr-card__start">
+          
+
+
+    
+  
+
+
+
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-02/ecole-maternelle-gem0683120-449502.jpg.webp?h=fd17a8d0&amp;itok=Z31gmDuU" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+        <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-6 fr-col-lg-6 fr-col-xl-6" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+    <a href="/programmes-et-horaires-l-ecole-elementaire-9011" hreflang="fr">Programmes et horaires à l&#039;école élémentaire</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Les programmes assurent l'acquisition des connaissances et des compétences fondamentales. En septembre 2026, certains programmes révisés entrent en vigueur.</p>
+
+
+
+</div>              <div class="fr-card__start">
+          
+
+
+    
+  
+
+
+
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-02/-cole-l-mentaire-448179.jpg.webp?h=fd17a8d0&amp;itok=chBppCtR" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+      </div>
+
+
+
+    </div>
+      </div>
+</div>
+
+
+
+
+
+  
+    
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="tandem_dsfr:grid_row" role="list" >
+            <div role="listitem" class="fr-col fr-col-12" >
+      
+    </div>
+        <div role="listitem" class="fr-col fr-col-12" >
+      
+    </div>
+        <div role="listitem" class="fr-col fr-col-12" >
+      
+
+
+  
+
+  <div data-component-id="tandem_dsfr:grid_row" class="fr-grid-row fr-grid-row--gutters" >
+            <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-6 fr-col-lg-6 fr-col-xl-6" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+    <a href="/les-programmes-du-college-470408" hreflang="fr">Les programmes du collège</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Les programmes au collège définissent les connaissances essentielles et les méthodes qui doivent être acquises par les élèves de la 6e à la 3e. Ils constituent le cadre national au sein duquel les enseignants organisent leurs enseignements en prenant en compte les rythmes d'apprentissage de chaque élève.</p>
+
+
+
+</div>              <div class="fr-card__start">
+          
+
+
+    
+  
+
+
+
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-01/classe-college-gem0646228-retouches2-jpg-448074.jpg.webp?h=e2df536c&amp;itok=PxMBcAqN" width="792" height="446" alt="Classe de collège" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+        <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-6 fr-col-lg-6 fr-col-xl-6" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+    <a href="/le-socle-commun-de-connaissances-de-competences-et-de-culture-12512" hreflang="fr">Le socle commun de connaissances, de compétences et de culture</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Le socle commun de connaissances, de compétences et de culture présente ce que tout élève doit savoir et maîtriser à 16 ans. Il rassemble l'ensemble des connaissances, compétences, valeurs et attitudes nécessaires pour réussir sa scolarité, sa vie d'individu et de futur citoyen. </p>
+
+
+
+</div>              <div class="fr-card__start">
+          
+
+
+    
+  
+
+
+
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-01/cycle-2-448092.jpg.webp?h=79dd9144&amp;itok=7R6RRfgr" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+      </div>
+
+
+
+    </div>
+      </div>
+</div>
+
+
+
+
+
+  
+
+  <div class="education-background-emerald">
+    <div class="fr-container">
+        <div data-component-id="edugouv_dsfr:grid_row_1_colors" class="fr-grid-row">
+      <div class="fr-col fr-col-12">
+        
+
+
+    <h2 class="fr-pb-md-1w">Les programmes scolaires au lycée</h2>
+
+
+
+
+
+
+  
+
+  
+    <div data-component-id="edugouv_dsfr:grid_row_content_listening" class="fr-grid-row fr-grid-row--gutters" role="list">
+                    <div class="fr-col fr-col-12 fr-col-lg-4 fr-col-xl-4" role="listitem">
+          
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+    <a href="/reussir-au-lycee/les-enseignements-de-la-seconde-generale-et-technologique-41651" hreflang="fr">Les enseignements de la seconde générale et technologique</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>La seconde est une classe de détermination qui permet de préparer le choix d'une série en première. En fin de seconde, les élèves choisissent trois spécialités qu'ils suivront en voie générale, ou une série en voie technologique.</p>
+
+
+
+</div>              <div class="fr-card__start">
+          
+
+
+    
+  
+
+
+
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-02/enseignements-seconde-066-scx0383749-448251.jpg.webp?h=d3da2b6c&amp;itok=R6-c9eo0" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+        </div>
+              <div class="fr-col fr-col-12 fr-col-lg-4 fr-col-xl-4" role="listitem">
+          
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+    <a href="/reussir-au-lycee/les-programmes-du-lycee-general-et-technologique-9812" hreflang="fr">Les programmes du lycée général et technologique</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Depuis la rentrée 2019, l'organisation du lycée général et technologique a évolué pour préparer au baccalauréat et à l'entrée dans l'enseignement supérieur. Découvrez les programmes du lycée.</p>
+
+
+
+</div>              <div class="fr-card__start">
+          
+
+
+    
+  
+
+
+
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-01/nouveaux-programmes-lyc-e-las0662280-447891.jpg.webp?h=baa91551&amp;itok=iT3llQhq" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+        </div>
+              <div class="fr-col fr-col-12 fr-col-lg-4 fr-col-xl-4" role="listitem">
+          
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+    <a href="/programmes-du-lycee-professionnel-9869" hreflang="fr">Programmes du lycée professionnel</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Les programmes du lycée professionnel définissent les connaissances essentielles et les méthodes que les élèves doivent acquérir pour préparer leur entrée dans la vie active ou poursuivre des études supérieures.</p>
+
+
+
+</div>              <div class="fr-card__start">
+          
+
+
+    
+  
+
+
+
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2026-05/neutre-1-467526-jpg-467526.jpg.webp?h=58ffb0c5&amp;itok=reY_jbN5" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+        </div>
+          </div>
+
+  
+
+
+      </div>
+    </div>
+      </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="fr-mb-5w">
+    <div class="fr-container--fluid">
+        <div class="fr-mb-5w fr-grid-row" data-component-id="edugouv_dsfr:grid_row_1_colors">
+      <div class="fr-col fr-col-12">
+        <div class="fr-container">
+
+
+
+    <h2>Éveiller la curiosité des élèves</h2>
+
+
+
+</div>
+<div class="fr-container">
+
+
+
+  
+  <div data-component-id="tandem_dsfr:tile_group" class="fr-tiles-group" data-orientation="vertical">
+    
+      <div class="fr-grid-row fr-grid-row--gutters" role="list">
+                                              <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+
+  <div data-component-id="tandem_dsfr:tile_dsfr" class="fr-tile fr-tile-tandem-fix fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Développement durable" href="/l-education-au-developpement-durable-7136">
+  Développement durable
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>pour former des citoyens responsables</p>
+                      </div>
+      </div>
+      <div class="fr-tile__header">
+      <div class="fr-tile__pictogram fr-image-size">
+          <img  loading="lazy" class="no-image-style fr-responsive-img" src="/sites/default/files/2025-11/environment-svg-473975.svg" alt="" typeof="foaf:Image" />
+
+
+
+      </div>
+    </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+
+  <div data-component-id="tandem_dsfr:tile_dsfr" class="fr-tile fr-tile-tandem-fix fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Arts et culture" href="/l-education-artistique-et-culturelle-eac-creer-apprendre-s-epanouir-7496">
+  Arts et culture
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>pour que les élèves se constituent une culture personnelle riche et cohérente</p>
+                      </div>
+      </div>
+      <div class="fr-tile__header">
+      <div class="fr-tile__pictogram fr-image-size">
+          <img  loading="lazy" class="no-image-style fr-responsive-img" src="/sites/default/files/2025-11/culture-svg-474044.svg" alt="" typeof="foaf:Image" />
+
+
+
+      </div>
+    </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+
+  <div data-component-id="tandem_dsfr:tile_dsfr" class="fr-tile fr-tile-tandem-fix fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Image, cinéma et audiovisuel" href="/l-education-l-image-au-cinema-et-l-audiovisuel-9587">
+  Image, cinéma et audiovisuel
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>pour aiguiser le regard des élèves, construire leur goût et leur jugement</p>
+                      </div>
+      </div>
+      <div class="fr-tile__header">
+      <div class="fr-tile__pictogram fr-image-size">
+          <img  loading="lazy" class="no-image-style fr-responsive-img" src="/sites/default/files/2025-11/digital-art-svg-474047.svg" alt="" typeof="foaf:Image" />
+
+
+
+      </div>
+    </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                                                                <div class="fr-col-12 fr-col-md-6" role="listitem">
+              
+      
+
+
+      
+
+  <div data-component-id="tandem_dsfr:tile_dsfr" class="fr-tile fr-tile-tandem-fix fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Numérique à l&#039;École" href="/l-utilisation-du-numerique-l-ecole-12074">
+  Numérique à l&#039;École
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>pour préparer le futur citoyen à vivre dans une société dont l’environnement technologique évolue constamment</p>
+                      </div>
+      </div>
+      <div class="fr-tile__header">
+      <div class="fr-tile__pictogram fr-image-size">
+          <img  loading="lazy" class="no-image-style fr-responsive-img" src="/sites/default/files/2025-11/video-svg-474059.svg" alt="" typeof="foaf:Image" />
+
+
+
+      </div>
+    </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-6" role="listitem">
+              
+      
+
+
+      
+
+  <div data-component-id="tandem_dsfr:tile_dsfr" class="fr-tile fr-tile-tandem-fix fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Défense" href="/l-education-la-defense-8276">
+  Défense
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>pour former les élèves aux enjeux, missions et organisations de la défense et de la sécurité nationale</p>
+                      </div>
+      </div>
+      <div class="fr-tile__header">
+      <div class="fr-tile__pictogram fr-image-size">
+          <img  loading="lazy" class="no-image-style fr-responsive-img" src="/sites/default/files/2025-11/city-hall-svg-473957.svg" alt="" typeof="foaf:Image" />
+
+
+
+      </div>
+    </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                                                </div>
+  </div>
+
+
+</div>
+
+      </div>
+    </div>
+      </div>
+  </div>
+
+
+
+    </div>
+  </div>
+
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      <div class="fr-container fr-mt-6w">
+
+
+
+    <div data-component-id="tandem_dsfr:share" class="fr-share">
+      <p class="fr-share__title">Partager la page</p>
+      <ul class="fr-btns-group">
+
+      
+                
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.education.gouv.fr%2Fprogrammes-scolaires-41483" title="Partager sur Facebook - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020sur\u0020Facebook&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--facebook">
+    Partager sur Facebook
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.education.gouv.fr%2Fprogrammes-scolaires-41483&amp;text=Programmes%20scolaires" title="Partager sur X - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020sur\u0020X&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--twitter-x">
+    Partager sur X
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://bsky.app/?url=https%3A%2F%2Fwww.education.gouv.fr%2Fprogrammes-scolaires-41483&amp;text=Programmes%20scolaires" title="Partager sur Bluesky - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020sur\u0020Bluesky&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--bluesky">
+    Partager sur Bluesky
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.education.gouv.fr%2Fprogrammes-scolaires-41483&amp;title=Programmes%20scolaires" title="Partager sur LinkedIn - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020sur\u0020LinkedIn&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--linkedin">
+    Partager sur LinkedIn
+  </a>
+
+          </li>
+        
+                  <li>
+                                                <a class="fr-btn fr-btn--mail" href="/cdn-cgi/l/email-protection#447b3731262e21273079172c25362d2a23617674302c216176743425232161770561767414362b2336252929213761767437272b28252d362137622529347f262b203d7914362b2336252929213761767437272b28252d3621376176742c303034376177056176026176023333336a2120312725302d2b2a6a232b31326a223661760234362b233625292921376937272b28252d362137697075707c77" target="_blank" rel="noopener external" title="Partager par email - nouvelle fenêtre">
+              Partager par email
+            </a>
+          </li>
+        
+                  <li>
+                                    <button title="Copier l&#039;adresse de la page dans le presse-papier" onclick="navigator.clipboard.writeText(window.location);alert(&#039;Page\u0020address\u0020copied\u0020to\u0020clipboard.&#039;);" class="fr-btn fr-btn--copy" type="button">
+              Copier l'adresse de la page dans le presse-papier
+            </button>
+          </li>
+              
+      
+    </ul>
+
+
+  </div>
+  
+
+
+</div>
+
+    </div>
+  </div>
+
+  </div>
+</article>
+
+
+</div>
+
+  </div>
+
+      </div>
+
+      
+          </div>
+
+  </main>
+    <div>
+    <div id="block-edugouv-dsfr-newsletterfollowus-2">
+
+
+
+        <div data-component-id="edugouv_dsfr:follow" class="fr-follow">
+    <div class="fr-container">
+      <div class="fr-grid-row">
+                                          <div class="fr-col-12">
+            <div class="fr-follow__social">
+              <h2 class="fr-h5">Suivez-nous<br>sur les réseaux sociaux</h2>
+              <ul class="fr-btns-group fr-btns-group--lg">
+                                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--instagram fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.instagram.com/education_gouv/">
+  Insta
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--facebook fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.facebook.com/Education.Gouv/?locale=fr_FR">
+  Facebook
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--tiktok fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.tiktok.com/@education_gouv">
+  Tiktok
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--linkedin fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://fr.linkedin.com/school/ministere-education-nationale/">
+  LinkedIn
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--twitter-x fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://x.com/education_gouv">
+  X
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--youtube fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.youtube.com/user/educationfrance">
+  Youtube
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--bluesky fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://bsky.app/profile/did:plc:bq5z6ky7235qpxkc3rzpitym">
+  BlueSky
+</a>
+
+                  </li>
+                              </ul>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+
+
+</div>
+
+  </div>
+
+    <div>
+    <div id="block-edugouv-dsfr-footer-4">
+
+
+
+  <footer data-component-id="edugouv_dsfr:footer" class="fr-footer" role="contentinfo" id="footer">
+    <div class="fr-footer__top">
+    <div class="fr-container">
+      <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
+        <h2 class="fr-sr-only">Pied de page</h2>
+                    <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                            <h3 class="fr-footer__top-cat">Sites Éducation</h3>
+              <ul class="fr-footer__top-list">
+                                                                                                                                              <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.devenirenseignant.gouv.fr/" title="Devenir enseignant - nouvelle fenêtre">Devenir enseignant</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://eduscol.education.fr/" title="Éduscol - nouvelle fenêtre">Éduscol</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="http://www.onisep.fr/" title="Onisep - nouvelle fenêtre">Onisep</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.cned.fr/" title="Cned - nouvelle fenêtre">Cned</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.reseau-canope.fr/" title="Réseau Canopé - nouvelle fenêtre">Réseau Canopé</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.clemi.fr/" title="CLEMI - nouvelle fenêtre">CLEMI</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.france-education-international.fr/" title="France éducation international - nouvelle fenêtre">France éducation international</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="http://www.ih2ef.education.fr/" title="Institut des hautes études de l&#039;éducation et de la formation - nouvelle fenêtre">Institut des hautes études de l'éducation et de la formation</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.enseignementsup-recherche.gouv.fr/" title="Enseignement supérieur et Recherche - nouvelle fenêtre">Enseignement supérieur et Recherche</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="node/6557" data-drupal-active-trail="false" class="fr-footer__top-link" href="/les-regions-academiques-academies-et-services-departementaux-de-l-education-nationale-6557">Sites académiques</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.cereq.fr/" title="Céreq - nouvelle fenêtre">Céreq</a></li>
+                             </ul>
+          </div>
+                 <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                            <h3 class="fr-footer__top-cat">Rapports, publications et statistiques</h3>
+              <ul class="fr-footer__top-list">
+                                                                                                                                              <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://data.education.gouv.fr/pages/accueil/" title="Data.education.gouv.fr - nouvelle fenêtre">Data.education.gouv.fr</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="node/469889" data-drupal-active-trail="false" class="fr-footer__top-link" href="/le-conseil-d-evaluation-de-l-ecole/conseil-d-evaluation-de-l-ecole-qui-sommes-nous-469889">Conseil d'évaluation de l'École (CEE)</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="taxonomy/term/115221" data-drupal-active-trail="false" class="fr-footer__top-link" href="/csp">Conseil supérieur des programmes (CSP)</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="taxonomy/term/115224" data-drupal-active-trail="false" class="fr-footer__top-link" href="/depp">Direction de l'évaluation, de la prospective et de la performance (Depp)</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="taxonomy/term/115262" data-drupal-active-trail="false" class="fr-footer__top-link" href="/igesr">Inspection générale de l’éducation, du sport et de la recherche (IGÉSR)</a></li>
+                             </ul>
+          </div>
+             </div>
+    </div>
+  </div>
+    <div class="fr-container">
+    <div class="fr-footer__body">
+      <div class="fr-footer__brand fr-enlarge-link">
+
+        
+                  <a href="/" title="Page d&#039;accueil - MINISTÈRE DE L’ÉDUCATION NATIONALE">
+            <div class="fr-logo">
+              <p>MINISTERE&nbsp;</p><p>DE L'EDUCATION&nbsp;</p><p>NATIONALE</p>
+            </div>
+          </a>
+              </div>
+              <div class="fr-footer__content">
+                    <div class="fr-footer__content-desc"><h2 class="fr-h5">Retrouvez nos liens utiles :</h2><ul><li><a href="/espace-presse" data-entity-type="node" data-entity-uuid="a0194198-f84a-48ce-b725-a1d32fd51d0b" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Espace presse</a></li><li><a href="/contactez-nous-41633" data-entity-type="node" data-entity-uuid="06196ccd-71ac-43b8-b842-cb62197ecaa5" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Contactez nous</a></li></ul><p><br>&nbsp;</p><ul class="fr-footer__content-item"><li class="fr-footer__content-item fr-mx-2v"><a class="fr-footer__content-link fr-link" href="https://legifrance.gouv.fr" target="_blank" rel="noopener external" title="legifrance.gouv.fr - nouvelle fenêtre">legifrance.gouv.fr</a></li><li class="fr-footer__content-item fr-mx-2v"><a class="fr-footer__content-link fr-link" href="https://service-public.gouv.fr" target="_blank" rel="noopener external" title="service-public.gouv.fr - nouvelle fenêtre">service-public.gouv.fr</a></li><li class="fr-footer__content-item fr-mx-2v"><a class="fr-footer__content-link fr-mx-2v fr-link" href="https://info.gouv.fr" target="_blank" rel="noopener external" title="info.gouv.fr - nouvelle fenêtre">info.gouv.fr</a></li><li class="fr-footer__content-item fr-mx-2v"><a class="fr-footer__content-link fr-link" href="https://data.gouv.fr" target="_blank" rel="noopener external" title="data.gouv.fr - nouvelle fenêtre">data.gouv.fr</a></li></ul></div>
+                    <ul class="fr-footer__content-list">
+      </ul>
+
+        </div>
+          </div>
+    
+          <div class="fr-footer__bottom">
+          <ul class="fr-footer__bottom-list">
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-link-system-path="node/469367" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/contactez-nous-469367">
+            Contact
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a title="Mentions légales du site education.gouv.fr" data-drupal-link-system-path="node/4526" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/mentions-legales-du-site-educationgouvfr-4526">
+            Mentions légales
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-link-system-path="node/12065" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/donnees-personnelles-et-cookies-12065">
+            Données personnelles et cookies
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-active-trail="false" class="fr-footer__bottom-link" href="#tarteaucitron">
+            Gestion des cookies
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-link-system-path="node/99950" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/declaration-d-accessibilite-99950">
+            Accessibilité du site : partiellement conforme
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-active-trail="false" class="fr-footer__bottom-link" href="https://app.acce-o.fr/client/ministere_education_nationale_et_jeunesse">
+            Accessibilité téléphonique sourds ou malentendants
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-link-system-path="node/454152" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/documents-opposables-ce-que-change-la-loi-essoc-pour-un-etat-au-service-d-une-societe-de-confiance-454152">
+            Documents opposables
+          </a>
+              </li>
+      </ul>
+
+                <div class="fr-footer__bottom-copy">
+          <div><p>Sauf mention contraire, tous les contenus de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank" rel="noopener external" title="licence etalab-2.0 - nouvelle fenêtre" class="fr-link">licence etalab-2.0</a></p></div>
+        </div>
+              </div>
+      </div>
+</footer>
+
+
+
+</div>
+
+  </div>
+
+</div>
+
+  </div>
+
+  
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/41483","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"tandem_gdpr":{"dialog":{"cookieName":"tarteaucitron","hashtag":"tarteaucitron","orientation":"bottom","cookieslist":0,"showAlertSmall":0,"adblocker":0,"highPrivacy":1,"AcceptAllCta":1,"handleBrowserDNTRequest":0,"removeCredit":1,"moreInfoLink":1,"useExternalCss":1,"privacyurl":null,"readmoreLink":"\/donnees-personnelles-et-cookies-12065","cookieDomain":"","privacyUrl":""},"services":{"_core":null,"instagram":0,"twitter":0,"vimeo":0,"youtube":0,"dailymotion":0,"facebook":0,"addthis":0,"facebookapi":0,"adsensesearchresult":0,"googleadwordsremarketing":0,"amazon":0,"clicmanager":0,"criteo":0,"datingaffiliation":0,"datingaffiliationpopup":0,"facebookpixel":0,"ferankpub":0,"adsense":0,"googlepartners":0,"adsensesearchform":0,"aduptech_retargeting":0,"googleadwordsconversion":0,"aduptech_conversion":0,"aduptech_ads":0,"prelinker":0,"activecampaign":0,"pubdirecte":0,"adform":0,"shareasale":0,"twenga":0,"bingads":0,"vshop":0,"leadforensics":0,"alexa":0,"gajs":0,"analytics":0,"gtag":0,"etracker":"","hubspot":0,"mautic":0,"microsoftcampaignanalytics":0,"atinternet":0,"googletagmanager":0,"googlemaps":0,"jsapi":0,"twitterwidgetsapi":0,"recaptcha":0,"googlemapsembed":0,"facebookcomment":0,"disqus":0,"matterport":0,"issuu":0,"iframe":0,"twittertimeline":0,"linkedin":0,"gplus":0,"sharethis":0,"facebooklikebox":0,"pinterest":0,"twitterembed":0,"slideshare":0,"youtubeplaylist":0,"prezi":0,"calameo":0,"youtubeapi":0,"dailymotion_custom":0,"youtube_custom":0,"youtube_playlist_custom":0,"vimeo_custom":0,"twitter_widget_custom":0,"addthis_custom":0,"twittertimeline_custom":0,"soundcloud_custom":0,"instagram_custom":0,"flickr_custom":0,"purechat":0,"zopim":0,"atinternet_custom":0,"euleriancnilexemption":1,"eulerian":1,"langcode":null,"contentsquare_custom":0,"genially_custom":1,"ausha_custom":0,"batch_custom":1,"x_twitter":1,"X":1,"Google Ads":0,"googlecampaign":1},"user":{"addthisPubId":"","adsensesearchresultCx":"","adwordsremarketingId":"","adwordsconversionId":"","adwordsconversionLabel":"","adwordsconversionLanguage":"","adwordsconversionFormat":"","adwordsconversionColor":"","adwordsconversionValue":"","adwordsconversionCurrency":"","adwordsconversionCustom1":"","adwordsconversionCustom2":"","actid":"","adformpm":"2867360","twengaId":"","twengaLocale":"","bingadsTag":"","bingadsID":"","bingadsStoreCookies":"","leadforensicsSf14gv":"","leadforensicsIidentifier":"","alexaAccountID":"","gajsUa":"","gajsAnonymizeIp":"","gajsMore":"","analyticsUa":"","analyticsAnonymizeIp":"","analyticsPageView":"","analyticsPrepare":"","analyticsMore":"","analyticsUaCreate":"","gtagUa":"","gtagMore":"","etracker":"","hubspotId":"","mauticurl":"","microsoftcampaignanalyticsUUID ":"","microsoftcampaignanalyticsdomainId":"","microsoftcampaignanalyticsactionId":"","atLibUrl":"","googletagmanagerId":"","mapscallback":"","googlemapsLibraries":"","googlemapsKey":"","recaptchaOnLoad":"","disqusShortname":"","atJsLibUrl":"","atDescription":{"value":"","format":"restricted_text"},"eulerianHost":"wrhv.education.gouv.fr","contentsquareID":""},"texts":{"adblock":"Bonjour ! Ce site est transparent et vous permet de choisir les services tiers que vous souhaitez autoriser.","adblock_call":"Veuillez d\u00e9sactiver votre adblocker pour commencer la personnalisation.","reload":"Actualiser la page","alertBigScroll":"En continuant de scroller","alertBigClick":"Si vous continuez \u00e0 naviguer sur ce site web,","alertBig":"vous autorisez tous les services tiers","alertBigPrivacy":"\u003Cdiv class=\u0022cookie-popin\u0022\u003E\r\n  \u003Ch2\u003E\u00c0 propos des cookies sur education.gouv.fr\u003C\/h2\u003E\r\n\r\n  \u003Cp\u003E\r\n    Bienvenue !\u003C\/p\u003E\r\n\u003Cp\u003E\r\n    Ce site utilise des cookies pour mesurer la fr\u00e9quentation du site afin d\u2019en am\u00e9liorer le fonctionnement et l\u2019administration et, avec votre accord, pour \u00e9valuer la performance des campagnes d\u2019informations et am\u00e9liorer votre exp\u00e9rience utilisateur, ainsi que pour vous proposer des services interactifs fournis par nos partenaires. Nous conservons votre choix pendant 13 mois.\r\n  \u003C\/p\u003E\r\n\r\n  \u003Cp\u003E\r\n    Vous pouvez changer ce choix \u00e0 tout moment en vous rendant sur la page\r\n    \u003Ca href=\u0022https:\/\/www.education.gouv.fr\/donnees-personnelles-et-cookies-12065\u0022\r\n       target=\u0022_blank\u0022\r\n       rel=\u0022noopener noreferrer\u0022\r\n       title=\u0022Donn\u00e9es personnelles et cookies - nouvelle fen\u00eatre\u0022\u003E\r\n      donn\u00e9es personnelles et cookies\r\n    \u003C\/a\u003E.\r\n  \u003C\/p\u003E\r\n\u003C\/div\u003E","alertSmall":"G\u00e9rer les services","personalize":"Personnaliser","acceptAll":"Tout accepter","close":"Fermer","privacyUrl":"Politique de confidentialit\u00e9","all":"Pr\u00e9f\u00e9rence pour tous les services","info":"Prot\u00e9ger votre vie priv\u00e9e","disclaimer":"\u003Cp class=\u0022fr-mb-2w\u0022\u003ELe minist\u00e8re de l\u2019\u00c9ducation nationale s\u2019engage \u00e0 traiter vos donn\u00e9es \u00e0 caract\u00e8re personnel dans le respect de la loi n\u00b0 78-17 du 6 janvier 1978 modifi\u00e9e relative \u00e0 l\u0027informatique, aux fichiers et aux libert\u00e9s et du RGPD.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022fr-mb-2w\u0022\u003ENous sommes particuli\u00e8rement attentifs \u00e0 la protection des donn\u00e9es personnelles et nous veillons \u00e0 ce que la collecte de vos donn\u00e9es soit r\u00e9duite au strict n\u00e9cessaire.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022fr-mb-2w\u0022\u003ECertaines fonctionnalit\u00e9s du site (partage de contenus sur les r\u00e9seaux sociaux, lecteurs vid\u00e9os, contenus interactifs) font par ailleurs appel \u00e0 des services propos\u00e9s par des tiers. Ces fonctionnalit\u00e9s d\u00e9posent des cookies leur permettant d\u2019identifier les sites que vous consultez et les contenus auxquels vous vous int\u00e9ressez. Ces cookies ne sont d\u00e9pos\u00e9s que si vous donnez votre accord. Vous pouvez ci-dessous vous informer sur la nature de chacun des cookies d\u00e9pos\u00e9s, les accepter ou les refuser \u00e0 tout moment. Ce choix est possible soit globalement pour l\u2019ensemble du site et l\u2019ensemble des services, soit service par service.\r\n\u003C\/p\u003E\r\n\u003Cp class=\u0022fr-mb-2w\u0022\u003E\r\n\u003Ca href=\u0022\/donnees-personnelles-et-cookies-12065\u0022\u003ES\u2019informer sur les cookies et donn\u00e9es personnelles du site education.gouv.fr, contacter ou exercer vos droits aupr\u00e8s du d\u00e9l\u00e9gu\u00e9 \u00e0 la protection des donn\u00e9es.\u003C\/a\u003E\u003C\/p\u003E","allow":"Accepter","deny":"Refuser","noCookie":"Ce service n\u0027utilise pas de cookie.","useCookie":"Ce service peut installer","useCookieCurrent":"Ce service a install\u00e9","useNoCookie":"Ce service n\u0027a pas install\u00e9 de cookie.","more":"En savoir plus","source":"Voir le site officiel","credit":"Gestionnaire de cookies par tarteaucitron.js","toggleInfoBox":"Afficher \/ masquer les informations sur le stockage des cookies","title":"Panneau de gestion des cookies","cookieDetail":"D\u00e9tail du cookie pour","ourSite":"sur notre site","newWindow":"(nouvelle fen\u00eatre)","allowAll":"Tout accepter","denyAll":"Tout refuser","fallback":"est d\u00e9sactiv\u00e9.","ads_title":"R\u00e9seau publicitaire","ads_details":"Les r\u00e9seaux publicitaires peuvent g\u00e9n\u00e9rer des revenus en vendant des espaces publicitaires sur le site.","analytic_title":"Mesure d\u0027audience","analytic_details":"Les services de mesure d\u0027audience permettent de g\u00e9n\u00e9rer des statistiques de fr\u00e9quentation utiles pour am\u00e9liorer le site.","social_title":"R\u00e9seaux sociaux","social_details":"Les r\u00e9seaux sociaux peuvent am\u00e9liorer la convivialit\u00e9 du site et contribuer \u00e0 sa promotion via les partages.","video_title":"Vid\u00e9os","video_details":"Les services de partage de vid\u00e9os aident \u00e0 ajouter du contenu multim\u00e9dia sur le site et \u00e0 augmenter sa visibilit\u00e9.","comment_title":"Commentaires","comment_details":"Les gestionnaires de commentaires facilitent le d\u00e9p\u00f4t des commentaires et luttent contre le spam.","support_title":"Support","support_details":"Les services d\u0027assistance vous permettent d\u0027entrer en contact avec l\u0027\u00e9quipe du site et d\u0027aider \u00e0 l\u0027am\u00e9liorer.","api_title":"APIs","api_details":"Les API permettent de charger des scripts, la g\u00e9olocalisation, les moteurs de recherche, les traductions, ...","other_title":"Autres","other_details":"Services pour afficher du contenu Web.","other":{"details":"","details_format":"restricted_text","title":"Autre"},"social":{"details":"\u003Cp\u003ELes r\u00e9seaux sociaux permettent d\u2019enrichir l\u2019exp\u00e9rience utilisateur sur le site et aident \u00e0 sa promotion via les partages.\u003C\/p\u003E","details_format":"restricted_text","title":"R\u00e9seaux sociaux"},"ads":{"details":"\u003Cp\u003ELes campagnes d\u2019informations gouvernementales permettent le partage d\u2019informations utiles diffus\u00e9es dans le cadre de grandes campagnes d\u2019information, ou en cas de crise\u003C\/p\u003E","details_format":"restricted_text","title":"Campagnes d\u2019informations"},"analytic":{"details":"\u003Cp\u003ELa mesure de l\u2019audience du site contribue \u00e0 l\u2019am\u00e9lioration continue de son ergonomie, de sa navigation et de ses contenus.\u003C\/p\u003E","details_format":"restricted_text","title":"Mesure d\u0027audience"},"video":{"details":"\u003Cp\u003ELes services de partage de vid\u00e9o permettent d\u0027enrichir le site de contenus multim\u00e9dia tout en conservant une vitesse de chargement optimale, et contribuent \u00e0 son r\u00e9f\u00e9rencement.\u003C\/p\u003E","details_format":"restricted_text","title":"Vid\u00e9os et Audio"},"comment":{"details":"\u003Cp\u003ED\u00e9tails compl\u00e9mentaires\u003C\/p\u003E","details_format":"restricted_text","title":"Commentaire"},"api":{"details":"\u003Cp\u003ELes contenus interactifs permettent d\u2019enrichir l\u2019exp\u00e9rience utilisateur et de contribuer \u00e0 une meilleure compr\u00e9hension des informations disponibles sur le site.\u003C\/p\u003E","details_format":"restricted_text","title":"Contenus interactifs"},"support":{"details":"\u003Cp\u003Efonctionnalit\u00e9s de support\u003C\/p\u003E","details_format":"restricted_text","title":"Support"}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"fr-mb-5w fr-container edugouv-ckeditor","show_empty_fields":false,"id":"","label_as_html":false,"element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"ajaxTrustedUrl":{"\/recherche":true},"tandem_gdpr_bo":{"_core":{"default_config_hash":"RSn-8IabsBqGqc5G_kvF8rwJdf1d2ykxAJKq37Lagj8"},"instagram":{"name":"Instagram","type":"social"},"twitter":{"name":"Twitter","type":"social"},"vimeo":{"name":"Vimeo","type":"video"},"youtube":{"name":"Youtube","type":"video"},"dailymotion":{"name":"Dailymotion","type":"video"},"facebook":{"name":"Facebook","type":"social"},"addthis":{"name":"addThis","type":"social","additional_fields":[{"type":"textfield","id":"addthisPubId","name":"Your AddThis profile ID"}]},"facebookapi":{"name":"Facebook(API)","type":"social"},"adsensesearchresult":{"name":"Google Adsense Search (result)","type":"ads","additional_fields":[{"type":"textfield","id":"adsensesearchresultCx","name":"Your custom search engine ID"}]},"googleadwordsremarketing":{"name":"Google Adwords (remarketing)","type":"ads","additional_fields":[{"type":"textfield","id":"adwordsremarketingId","name":"Your Conversion ID"}]},"amazon":{"name":"Amazon","type":"ads"},"clicmanager":{"name":"Clicmanager","type":"ads"},"criteo":{"name":"Criteo","type":"ads"},"datingaffiliation":{"name":"Dating Affiliation","type":"ads"},"datingaffiliationpopup":{"name":"Dating Affiliation (Pop Up)","type":"ads"},"facebookpixel":{"name":"Facebook Pixel","type":"ads"},"ferankpub":{"name":"FERank (pub)","type":"ads"},"adsense":{"name":"Google Adsense","type":"ads"},"googlepartners":{"name":"Google Partners Badge","type":"ads"},"adsensesearchform":{"name":"Google Adsense Search (form)","type":"ads"},"aduptech_retargeting":{"name":"Ad Up Technology (retargeting)","type":"ads"},"googleadwordsconversion":{"name":"Google Adwords (conversion)","type":"ads","additional_fields":[{"type":"textfield","id":"adwordsconversionId","name":"Your Google Adwords ID"},{"type":"textfield","id":"adwordsconversionLabel","name":"Your Google Adwords label"},{"type":"textfield","id":"adwordsconversionLanguage","name":"Your Google Adwords language"},{"type":"textfield","id":"adwordsconversionFormat","name":"Your Google Adwords format"},{"type":"textfield","id":"adwordsconversionColor","name":"Your Google Adwords color"},{"type":"textfield","id":"adwordsconversionValue","name":"Your Google Adwords value"},{"type":"textfield","id":"adwordsconversionCurrency","name":"Your Google Adwords currency"},{"type":"textfield","id":"adwordsconversionCustom1","name":"Your Google Adwords parameter 1"},{"type":"textfield","id":"adwordsconversionCustom2","name":"Your Google Adwords parameter 2"}]},"aduptech_conversion":{"name":"Ad Up Technology (conversion)","type":"ads"},"aduptech_ads":{"name":"Ad Up Technology (ads)","type":"ads"},"prelinker":{"name":"Prelinker","type":"ads"},"activecampaign":{"name":"Active Campaign","type":"ads","additional_fields":[{"type":"textfield","id":"actid","name":"Your Active Campaign ID"}]},"pubdirecte":{"name":"Pubdirecte","type":"ads"},"adform":{"name":"Adform","type":"ads","additional_fields":[{"type":"textfield","id":"adformpm","name":"Tracking setup ID of Adform client"}]},"shareasale":{"name":"ShareASale","type":"ads"},"twenga":{"name":"Twenga","type":"ads","additional_fields":[{"type":"textfield","id":"twengaId","name":"Your Twenga ID"},{"type":"textfield","id":"twengaLocale","name":"Your Twenga JavaScript library Path"}]},"bingads":{"name":"Bing Ads Universal Event Tracking","type":"ads","additional_fields":[{"type":"textfield","id":"bingadsTag","name":"Your Bing Ads Universal Event Tracking Tag"},{"type":"textfield","id":"bingadsID","name":"Your Bing Ads Universal Event Tracking ID"},{"type":"textfield","id":"bingadsStoreCookies","name":"Your Bing Ads Universal Event Tracking Cookies"}]},"vshop":{"name":"vShop","type":"ads"},"leadforensics":{"name":"LeadForensics","type":"analytic","additional_fields":[{"type":"textfield","id":"leadforensicsSf14gv","name":"Your LeadForensics sf14gv"},{"type":"textfield","id":"leadforensicsIidentifier","name":"Your LeadForensics identifier"}]},"alexa":{"name":"Alexa","type":"analytic","additional_fields":[{"type":"textfield","id":"alexaAccountID","name":"Your Alexa ID"}]},"gajs":{"name":"Google Analytics (ga.js)","type":"analytic","additional_fields":[{"type":"textfield","id":"gajsUa","name":"Your Tracking ID"},{"type":"textfield","id":"gajsAnonymizeIp","name":"Your Google Analytics anonymize Ip"},{"type":"textarea","id":"gajsMore","name":"Your Google Analytics function"}]},"analytics":{"name":"Google Analytics (universal)","type":"analytic","additional_fields":[{"type":"textfield","id":"analyticsUa","name":"Your Tracking ID"},{"type":"textfield","id":"analyticsAnonymizeIp","name":"Your Google Analytics anonymize Ip"},{"type":"textfield","id":"analyticsPageView","name":"Your Google Analytics page view"},{"type":"textarea","id":"analyticsPrepare","name":"Your Google Analytics prepare function"},{"type":"textarea","id":"analyticsMore","name":"Your Google Analytics function"},{"type":"textarea","id":"analyticsUaCreate","name":"Your Google Analytics fields values"}]},"gtag":{"name":"Google Analytics (gtag.js)","type":"analytic","additional_fields":[{"type":"textfield","id":"gtagUa","name":"Your Tracking IDs"},{"type":"textarea","id":"gtagMore","name":"Your Google Analytics function"}]},"etracker":{"name":"eTracker","type":"analytic","additional_fields":[{"type":"textfield","id":"etracker"}]},"hubspot":{"name":"Hubspot","type":"analytic","additional_fields":[{"type":"textfield","id":"hubspotId","name":"Your Hubspot ID"}]},"mautic":{"name":"Mautic","type":"analytic","additional_fields":[{"type":"textfield","id":"mauticurl","name":"Your Mautic JavaScript library Path"}]},"microsoftcampaignanalytics":{"name":"Microsoft Campaign Analytics","type":"analytic","additional_fields":[{"type":"textfield","id":"microsoftcampaignanalyticsUUID ","name":"Your Microsoft Campaign Analytics UUID"},{"type":"textfield","id":"microsoftcampaignanalyticsdomainId","name":"Your Microsoft Campaign Analytics domain ID"},{"type":"textfield","id":"microsoftcampaignanalyticsactionId","name":"Your Microsoft Campaign Analytics action ID"}]},"atinternet":{"name":"AT Internet","type":"analytic","additional_fields":[{"type":"textfield","id":"atLibUrl","name":"Your AT Internet JavaScript library Path"}]},"googletagmanager":{"name":"Google Tag Manager","type":"api","additional_fields":[{"type":"textfield","id":"googletagmanagerId","name":"Your Google Tag Manager ID"}]},"googlemaps":{"name":"Google Maps","type":"api","additional_fields":[{"type":"textfield","id":"mapscallback","name":"Your Google Maps callback function name"},{"type":"textfield","id":"googlemapsLibraries","name":"Your Google Maps Libraries"},{"type":"textfield","id":"googlemapsKey","name":"Your Google Maps Key"}]},"jsapi":{"name":"Google jsapi","type":"api"},"twitterwidgetsapi":{"name":"Twitter Widgets API","type":"api"},"recaptcha":{"name":"reCAPTCHA","type":"api","additional_fields":[{"type":"textarea","id":"recaptchaOnLoad","name":"Your onload callback function"}]},"googlemapsembed":{"name":"Google Maps Embed","type":"api"},"facebookcomment":{"name":"Facebook (commentaire)","type":"comment"},"disqus":{"name":"Disqus","type":"comment","additional_fields":[{"type":"textfield","id":"disqusShortname","name":"Your Disqus shortname"}]},"matterport":{"name":"Matterport","type":"other"},"issuu":{"name":"Issuu","type":"other"},"iframe":{"name":"Web content","type":"other"},"twittertimeline":{"name":"Twitter (timelines)","type":"social"},"linkedin":{"name":"Linkedin","type":"social"},"gplus":{"name":"Google+","type":"social"},"sharethis":{"name":"ShareThis","type":"social"},"facebooklikebox":{"name":"Facebook (like box)","type":"social"},"pinterest":{"name":"Pinterest","type":"social"},"twitterembed":{"name":"Twitter (cards)","type":"social"},"slideshare":{"name":"SlideShare","type":"video"},"youtubeplaylist":{"name":"YouTube (playlist)","type":"video"},"prezi":{"name":"Prezi","type":"video"},"calameo":{"name":"Calameo","type":"video"},"youtubeapi":{"name":"Youtube (Js API)","type":"video"},"dailymotion_custom":{"name":"Dailymotion (custom)","type":"video"},"youtube_custom":{"name":"Youtube (custom)","type":"video"},"youtube_playlist_custom":{"name":"Youtube playlist (custom)","type":"video"},"vimeo_custom":{"name":"Vimeo (custom)","type":"video"},"twitter_widget_custom":{"name":"Twitter widget (custom)","type":"social"},"addthis_custom":{"name":"AddThis (custom)","type":"social"},"twittertimeline_custom":{"name":"Twittertimeline (custom)","type":"social"},"soundcloud_custom":{"name":"Soundcloud (custom)","type":"social"},"instagram_custom":{"name":"Instagram (custom)","type":"social"},"flickr_custom":{"name":"Flickr (custom)","type":"social"},"purechat":{"name":"PureChat","type":"support"},"zopim":{"name":"Zopim","type":"support"},"atinternet_custom":{"name":"AT Internet (custom)","type":"analytic","additional_fields":[{"type":"textfield","id":"atJsLibUrl","name":"Your AT Internet JavaScript library Path"},{"type":"textarea","id":"atDescription","name":"Description"}]},"euleriancnilexemption":{"name":"Eulerian (exemption CNIL)","type":"analytic","additional_fields":[{"type":"textfield","id":"eulerianHost","name":"Eulerian Host (exemption CNIL)"}]},"eulerian":{"name":"Eulerian Analytics","type":"analytic"},"langcode":"fr","contentsquare_custom":{"name":"Content Square","type":"api","additional_fields":[{"type":"textfield","id":"contentsquareID","name":"contentsquareID"}]},"genially_custom":{"name":"Genial.ly","type":"api"},"ausha_custom":{"name":"ausha_custom","type":"video"},"batch_custom":{"name":"Batch","type":"ads"}},"mediaelement":{"attachSitewide":0},"user":{"uid":0,"permissionsHash":"f63cb473765efa2307d4f8d90ca2dd7c9006002a75cc17f4c2ea8d19c48aee31"}}</script>
+<script src="/sites/default/files/js/js__iuXss6j36H6vMcfm92i1bCA8QhOtk8qilqXkkmM-0U.js?scope=footer&amp;delta=0&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJxVjOEKAyEMg1_oPB9JPO1KobZi68C3H9vY8P6E5EtI0QGxaOsqIG6nZ6nQUrXHCMGJIeHQ2Q-oE3U-P0Us01zbsW3jWxIJ-Y0i65U5mC8mwV-FtY-4-Z2nLJmXU7Hv5T--ABorQts"></script>
+<script src="/libraries/dsfr/dist/dsfr.module.js?v=1.x" type="module"></script>
+<script src="/sites/default/files/js/js_ZdGfhmrk1pde87GYvRaEq-oaUD7uH0DPZWFsxlh1D7Y.js?scope=footer&amp;delta=2&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJxVjOEKAyEMg1_oPB9JPO1KobZi68C3H9vY8P6E5EtI0QGxaOsqIG6nZ6nQUrXHCMGJIeHQ2Q-oE3U-P0Us01zbsW3jWxIJ-Y0i65U5mC8mwV-FtY-4-Z2nLJmXU7Hv5T--ABorQts"></script>
+<script src="/libraries/dsfr/dist/analytics/analytics.module.js?tnnxk2" type="module"></script>
+
+</body>
+</html>

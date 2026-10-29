@@ -1,0 +1,50 @@
+[
+  {
+    "id": "93d6b850a5537834",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo10",
+    "checked_on": "2026-10-29",
+    "sha256": "e102a2de36b4e230b6b3bd32bfd164091e5338efbb8383142aa89bd1558700de",
+    "snapshot": "curriculum/sources/93d6b850a5537834.html.txt"
+  },
+  {
+    "id": "de0139ec9cd54d8d",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14",
+    "checked_on": "2026-10-29",
+    "sha256": "6e501d0e593fc09085f90cdd3797efc053d24f163ae7158db44a4159ea90f3fe",
+    "snapshot": "curriculum/sources/de0139ec9cd54d8d.html.txt"
+  },
+  {
+    "id": "f55a00bef15d7565",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo22",
+    "checked_on": "2026-10-29",
+    "sha256": "17eb87b8082bbee2d7de6c83cadf9aec0cf6fcda94e3e0a157635aea25f654db",
+    "snapshot": "curriculum/sources/f55a00bef15d7565.html.txt"
+  },
+  {
+    "id": "7798cf49d6421979",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo24",
+    "error": "HTTP download failed"
+  },
+  {
+    "id": "1edf330936f0f0c0",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo12",
+    "checked_on": "2026-10-29",
+    "sha256": "9ed625da7989860f763f8a79861e99ac2a995cd3385a8910d35b7b2790922812",
+    "snapshot": "curriculum/sources/1edf330936f0f0c0.html.txt"
+  },
+  {
+    "id": "60495b83ba9e8618",
+    "url": "https://www.education.gouv.fr/bo/2024/Hebdo24",
+    "error": "HTTP download failed"
+  },
+  {
+    "id": "acb29cb45ed19648",
+    "url": "https://www.education.gouv.fr/bo/2025/Hebdo6",
+    "error": "HTTP download failed"
+  },
+  {
+    "id": "4c9d9e72026e19b0",
+    "url": "https://www.education.gouv.fr/bo/2024/Hebdo9",
+    "error": "HTTP download failed"
+  }
+]

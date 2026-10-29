@@ -1,0 +1,95 @@
+{
+  "id": "cp-dizaines-unites",
+  "title": "Comprendre les dizaines et les unités",
+  "chapter_id": "cp-dizaines-unites",
+  "program_id": "CP-mathematiques-commun",
+  "program_version": "cycle2-maths-2024-cp-v1",
+  "learning_objectives": [
+    "Former des groupes de dix pour compter une collection.",
+    "Décomposer un nombre jusqu’à 99 en dizaines et unités.",
+    "Expliquer pourquoi 23 et 32 ne représentent pas la même quantité."
+  ],
+  "skill_ids": [
+    "cp-dizaines-unites-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CP / Les nombres entiers, pages 3–4 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Commencer avec des objets",
+      "text": "Prends 24 jetons ou dessine 24 petits ronds. Fais des groupes de dix : tu peux former deux groupes de dix et il reste quatre jetons. Tu as deux dizaines et quatre unités."
+    },
+    {
+      "title": "Lire les chiffres à leur place",
+      "text": "Dans 24, le chiffre 2 indique deux dizaines : cela fait 20. Le chiffre 4 indique quatre unités. On écrit 24 = 20 + 4. Dans 42, les places changent : quatre dizaines et deux unités donnent 40 + 2."
+    },
+    {
+      "title": "Essayer puis expliquer",
+      "text": "Pour représenter 37, dessine trois paquets de dix et sept unités. Dis à voix haute : « Trois dizaines et sept unités, cela fait trente-sept. » Compter de dix en dix puis de un en un permet de vérifier."
+    }
+  ],
+  "revision_sheet": [
+    "10 unités forment 1 dizaine.",
+    "37 = 30 + 7 : trois dizaines et sept unités.",
+    "23 = 20 + 3 et 32 = 30 + 2 : la place des chiffres compte."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel nombre représente 3 dizaines et 7 unités ?",
+      "choices": [
+        "73",
+        "37",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "Trois dizaines font 30. Avec sept unités, on obtient 30 + 7 = 37."
+    },
+    {
+      "prompt": "Dans 42, que représente le chiffre 4 ?",
+      "choices": [
+        "4 unités",
+        "4 dizaines",
+        "2 dizaines"
+      ],
+      "correct_index": 1,
+      "explanation": "Le 4 est à la place des dizaines : il représente 40."
+    },
+    {
+      "prompt": "Quelle décomposition correspond à 58 ?",
+      "choices": [
+        "50 + 8",
+        "5 + 8",
+        "80 + 5"
+      ],
+      "correct_index": 0,
+      "explanation": "58 contient cinq dizaines et huit unités : 50 + 8."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Dessine 26 objets en les regroupant par dix.",
+      "solution": "Deux groupes de dix et six unités représentent 26.",
+      "success_criterion": "Former deux dizaines complètes et laisser six unités."
+    },
+    {
+      "prompt": "Écris 64 comme une somme de dizaines et d’unités.",
+      "solution": "64 = 60 + 4.",
+      "success_criterion": "Identifier six dizaines et quatre unités."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique la différence entre 23 et 32.",
+      "solution": "23 contient deux dizaines et trois unités ; 32 contient trois dizaines et deux unités.",
+      "success_criterion": "Expliquer les deux positions, sans seulement dire que les chiffres sont inversés."
+    },
+    {
+      "prompt": "Quel nombre représente 8 dizaines et 1 unité ?",
+      "solution": "80 + 1 = 81.",
+      "success_criterion": "Écrire 81 et justifier le rôle de chaque chiffre."
+    }
+  ],
+  "audio_transcript": "Une dizaine est un groupe de dix unités. Trente-sept contient trois dizaines et sept unités. Trois dizaines font trente ; avec sept unités, cela donne trente-sept. La place des chiffres compte : vingt-trois et trente-deux ne représentent pas la même quantité.",
+  "guided_explanation": "Imagine des sachets qui contiennent chacun dix billes. Trois sachets fermés et sept billes seules donnent trente-sept billes. Le 3 de 37 compte les sachets de dix ; le 7 compte les billes seules. Tu peux dessiner les sachets pour vérifier."
+}

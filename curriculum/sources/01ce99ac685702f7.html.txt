@@ -1,0 +1,4678 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="og: https://ogp.me/ns#" class="fr-text">
+<head>
+  <link rel="apple-touch-icon" href="/libraries/dsfr/dist/favicon/apple-touch-icon.png"><!-- 180×180 -->
+  <link rel="icon" href="/libraries/dsfr/dist/favicon/favicon.svg" type="image/svg+xml">
+  <link rel="shortcut icon" href="/libraries/dsfr/dist/favicon/favicon.ico" type="image/x-icon"><!-- 32×32 -->
+  <link rel="manifest" href="/libraries/dsfr/dist/favicon/manifest.webmanifest" crossorigin="use-credentials">
+  <meta charset="utf-8" />
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://wa.phm.education.gouv.fr/mutu/" : "http://wa.phm.education.gouv.fr/mutu/");_paq.push(["setSiteId", "53"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<meta name="keywords" content="physique-chimie (discipline),physique-chimie (lycée GT)" />
+<meta name="robots" content="index, follow, noarchive" />
+<link rel="canonical" href="https://eduscol.education.gouv.fr/5829/programmes-et-ressources-en-physique-chimie-voie-gt" />
+<meta property="og:site_name" content="éduscol | Ministère de l&#039;Éducation nationale | Direction générale de l&#039;enseignement scolaire" />
+<meta property="og:type" content="edito_riche" />
+<meta property="og:url" content="https://eduscol.education.gouv.fr/5829/programmes-et-ressources-en-physique-chimie-voie-gt" />
+<meta property="og:title" content="Programmes et ressources en physique-chimie - voie GT" />
+<meta name="google-site-verification" content="Up0YqwOUM6O17amByguzRTR_Th9dJcSy7w9gkrhY8AQ" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/libraries/dsfr/dist/favicon/apple-touch-icon.png" type="image/png" />
+<link rel="alternate" hreflang="fr" href="https://eduscol.education.gouv.fr/5829/programmes-et-ressources-en-physique-chimie-voie-gt" />
+
+  <title>Programmes et ressources en physique-chimie - voie GT | éduscol | Ministère de l&#039;Éducation nationale | Direction générale de l&#039;enseignement scolaire</title>
+  <link rel="stylesheet" media="all" href="/sites/default/files/css/css_kZ8e2_k4LBht3Mlt_TTWvl-vIl-jXAOJN2vB4hQng4Q.css?delta=0&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFzkkOwyAMBdALkXCkyAE3oTUYeajE7YtUdVi1O8v_6duJBWPi2rlhM10xuyamLetFluXCbCgh_UQnCm-Yi_EfqCcI_jNeK8jYtGSs2Dx8xzG5GtdAMNhty2Umd5QRZ9U0oYPAIdBPjVm8A62fzeqt-05FT8yhM9GbzHmh0m4adKhhjTsoBoM2P3iePYh3oEVtTHe8oiN3iQZiCJ6KCbf1qg-oXoPV" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_ChDOnzc4p_MO4zZuWwLx96PjBmOv-gT04sor4mH2dFw.css?delta=1&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFzkkOwyAMBdALkXCkyAE3oTUYeajE7YtUdVi1O8v_6duJBWPi2rlhM10xuyamLetFluXCbCgh_UQnCm-Yi_EfqCcI_jNeK8jYtGSs2Dx8xzG5GtdAMNhty2Umd5QRZ9U0oYPAIdBPjVm8A62fzeqt-05FT8yhM9GbzHmh0m4adKhhjTsoBoM2P3iePYh3oEVtTHe8oiN3iQZiCJ6KCbf1qg-oXoPV" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_lFJuqrBJuPD967tnROjsQvtwzw9booIFOUzdl55tQyU.css?delta=2&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFzkkOwyAMBdALkXCkyAE3oTUYeajE7YtUdVi1O8v_6duJBWPi2rlhM10xuyamLetFluXCbCgh_UQnCm-Yi_EfqCcI_jNeK8jYtGSs2Dx8xzG5GtdAMNhty2Umd5QRZ9U0oYPAIdBPjVm8A62fzeqt-05FT8yhM9GbzHmh0m4adKhhjTsoBoM2P3iePYh3oEVtTHe8oiN3iQZiCJ6KCbf1qg-oXoPV" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XvNXFZ75EM0gjZc9DkqioILdldP-veYPrWmJ2RJkpRw.css?delta=3&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFzkkOwyAMBdALkXCkyAE3oTUYeajE7YtUdVi1O8v_6duJBWPi2rlhM10xuyamLetFluXCbCgh_UQnCm-Yi_EfqCcI_jNeK8jYtGSs2Dx8xzG5GtdAMNhty2Umd5QRZ9U0oYPAIdBPjVm8A62fzeqt-05FT8yhM9GbzHmh0m4adKhhjTsoBoM2P3iePYh3oEVtTHe8oiN3iQZiCJ6KCbf1qg-oXoPV" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_N5EDBe35cbGk77JW3v0FfHnN-fcHqOehqU2KBrW1h-E.css?delta=4&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFzkkOwyAMBdALkXCkyAE3oTUYeajE7YtUdVi1O8v_6duJBWPi2rlhM10xuyamLetFluXCbCgh_UQnCm-Yi_EfqCcI_jNeK8jYtGSs2Dx8xzG5GtdAMNhty2Umd5QRZ9U0oYPAIdBPjVm8A62fzeqt-05FT8yhM9GbzHmh0m4adKhhjTsoBoM2P3iePYh3oEVtTHe8oiN3iQZiCJ6KCbf1qg-oXoPV" />
+
+  <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+
+  <meta name="format-detection" content="telephone=no,date=no,address=no,email=no,url=no">
+</head>
+<body>
+  
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+    <div data-component-id="ui_suite_dsfr:skiplinks" class="fr-skiplinks">
+    <nav class="fr-container" role="navigation" aria-label="Accès rapide">
+      <ul class="fr-skiplinks__list">
+                          <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#main-content">
+  Contenu
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#page-header--menu">
+  Menu
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#search-block-form">
+  Rechercher
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#footer">
+  Pied de page
+</a>
+</li>
+              </ul>
+    </nav>
+  </div>
+
+
+
+  
+<header data-component-id="tandem_dsfr:header" class="fr-header" role="banner">
+  <div class="fr-header__body">
+    <div class="fr-container">
+      <div class="fr-header__body-row">
+        <div class="fr-header__brand fr-enlarge-link">
+          <div class="fr-header__brand-top">
+                        <div class="fr-header__logo">
+                                          <p class="fr-logo">
+                MINISTÈRE<br />
+DE L'ÉDUCATION<br />
+NATIONALE
+              </p>
+                          </div>
+
+                        
+                                      <div class="fr-header__navbar">
+                                  <button class="fr-btn--search fr-btn" data-fr-opened="false" aria-controls="page-header--search" title="Rechercher" id="page-header--search-btn" type="button">
+                    Rechercher
+                  </button>
+                                                  <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="page-header--menu" aria-haspopup="dialog" title="Menu" id="page-header--mobile-menu-btn" type="button">
+                    Menu
+                  </button>
+                              </div>
+                      </div>
+
+                                <div class="fr-header__service">
+                                          <a href="/" title="Page d'accueil - éduscol | Ministère de l'Éducation nationale | Direction générale de l'enseignement scolaire">
+                                                      <img src="https://eduscol.education.gouv.fr/sites/default/files/logo_images/logo_eduscol_pms_ssbaseline-1_1.svg" alt=éduscol | Ministère de l'Éducation nationale | Direction générale de l'enseignement scolaire />
+                                              </a>
+                                                      </div>
+                  </div>
+
+                          <div class="fr-header__tools">
+                                      <div class="fr-header__tools-links">
+                  <div>
+    <div id="block-eduscol-dsfr-loginlogoutbutton">
+
+
+
+      <div class="eduscol--fim fr-nav">
+        <div class="fr-nav__item fr-nav__item--align-right">
+                            <a href="/cas"
+                   class="fr-btn login-logout-button fr-btn--icon-left fr-btn--secondary fr-icon-user-line">
+                    Se connecter
+                </a>
+                    </div>
+    </div>
+
+
+</div>
+
+  </div>
+
+              </div>
+                                                  <div class="fr-header__search fr-modal" id="page-header--search" aria-labelledby="page-header--search-btn">
+                <div class="fr-container fr-container-lg--fluid">
+                  <button class="fr-btn fr-btn--close" aria-controls="page-header--search" title="Fermer la recherche" type="button">Fermer</button>
+                    <div>
+    
+<div class="search-block-form" data-drupal-selector="search-block-form" id="block-eduscol-dsfr-searchform" role="search">
+        
+    
+        
+            <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="fr-search-bar">
+  
+  <label for="edit-keys--3" class="visually-hidden fr-label">Rechercher
+      </label>
+<input title="Saisissez les termes que vous souhaitez rechercher" placeholder="Rechercher" data-drupal-selector="edit-keys" type="search" id="edit-keys--3" name="keys" value="" maxlength="128" class="form-search fr-input" />
+
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3">
+<button class="fr-btn button js-form-submit form-submit" data-twig-suggestion="search_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Rechercher">Rechercher</button>
+</div>
+
+</form>
+
+    
+        </div>
+
+  </div>
+
+                </div>
+              </div>
+                      </div>
+              </div>
+    </div>
+  </div>
+      <div class="fr-header__menu fr-modal" id="page-header--menu" aria-labelledby="page-header--mobile-menu-btn">
+      <div class="fr-container">
+        <button class="fr-btn fr-btn--close" aria-controls="page-header--menu" title="Fermer le menu" type="button">Fermer</button>
+        <div class="fr-header__menu-links"></div>
+          <div>
+    <div id="block-eduscol-dsfr-mainnavigation">
+
+
+
+      <nav data-component-id="ui_suite_dsfr:nav_menu" class="fr-nav" role="navigation" aria-label="Menu de navigation principale" id="main-menu-554041887">
+    <ul class="fr-nav__list">
+                                                  <li class="fr-nav__item">
+                                  <button class="fr-nav__btn" aria-expanded="false" type="button"
+                    aria-controls="main-menu-554041887-1">
+              Enseignement et formation
+            </button>
+            <div class="fr-collapse fr-mega-menu" id="main-menu-554041887-1" tabindex="-1">
+                          <div class="fr-container fr-container--fluid fr-container-lg">
+        <button class="fr-btn fr-btn--close" aria-controls="main-menu-554041887-1" title="Fermer" type="button">Fermer</button>
+        <div class="fr-grid-row fr-grid-row-lg--gutters">
+                                            <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4332" data-drupal-active-trail="false" class="fr-nav__link" href="/4332/niveaux">Niveaux</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4341" data-drupal-active-trail="false" class="fr-nav__link" href="/4341/enseigner-au-cycle-1">Enseigner au cycle 1</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4347" data-drupal-active-trail="false" class="fr-nav__link" href="/4347/enseigner-au-cycle-2">Enseigner au cycle 2</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4356" data-drupal-active-trail="false" class="fr-nav__link" href="/4356/enseigner-au-cycle-3">Enseigner au cycle 3</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4362" data-drupal-active-trail="false" class="fr-nav__link" href="/4362/enseigner-au-cycle-4">Enseigner au cycle 4</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4368" data-drupal-active-trail="false" class="fr-nav__link" href="/4368/enseigner-au-lycee-generaltechnologique">Enseigner au lycée général/technologique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4377" data-drupal-active-trail="false" class="fr-nav__link" href="/4377/enseigner-au-lycee-professionnel">Enseigner au lycée professionnel</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4383" data-drupal-active-trail="false" class="fr-nav__link" href="/4383/disciplines">Disciplines</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4395" data-drupal-active-trail="false" class="fr-nav__link" href="/4395/arts-plastiques">Arts plastiques</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4404" data-drupal-active-trail="false" class="fr-nav__link" href="/4404/biotechnologies-sciences-et-techniques-medico-sociales">Biotechnologies, sciences et techniques médico-sociales</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4410" data-drupal-active-trail="false" class="fr-nav__link" href="/4410/documentation">Documentation</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4419" data-drupal-active-trail="false" class="fr-nav__link" href="/4419/economie-et-gestion">Économie et gestion</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4428" data-drupal-active-trail="false" class="fr-nav__link" href="/4428/education-musicale">Éducation musicale</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4434" data-drupal-active-trail="false" class="fr-nav__link" href="/4434/education-physique-et-sportive">Éducation physique et sportive</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4446" data-drupal-active-trail="false" class="fr-nav__link" href="/4446/enseignement-moral-et-civique">Enseignement moral et civique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4455" data-drupal-active-trail="false" class="fr-nav__link" href="/4455/enseignements-artistiques-au-lycee">Enseignements artistiques au lycée</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4503" data-drupal-active-trail="false" class="fr-nav__link" href="/4503/francais">Français</a>
+
+          </li>
+                                                  <li>
+                      <a class="fr-link fr-nav__link" data-drupal-link-system-path="node/4383" data-drupal-active-trail="false" href="/4383/disciplines">Voir toutes les disciplines</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4569" data-drupal-active-trail="false" class="fr-nav__link" href="/4569/pratique-enseignante">Pratique enseignante</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4584" data-drupal-active-trail="false" class="fr-nav__link" href="/4584/enseigner-les-fondamentaux">Enseigner les fondamentaux</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4602" data-drupal-active-trail="false" class="fr-nav__link" href="/4602/mener-un-projet-avec-ses-eleves">Mener un projet avec ses élèves</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4572" data-drupal-active-trail="false" class="fr-nav__link" href="/4572/enseigner-avec-le-numerique">Enseigner avec le numérique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4590" data-drupal-active-trail="false" class="fr-nav__link" href="/4590/se-former">Se former</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4599" data-drupal-active-trail="false" class="fr-nav__link" href="/4599/innover-et-experimenter">Innover et expérimenter</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4677" data-drupal-active-trail="false" class="fr-nav__link" href="/4677/developper-les-competences-psychosociales-chez-les-eleves">Développer les compétences psychosociales des élèves</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4587" data-drupal-active-trail="false" class="fr-nav__link" href="/4587/thematiques">Thématiques</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4581" data-drupal-active-trail="false" class="fr-nav__link" href="/4581/citoyennete-et-valeurs-de-la-republique">Citoyenneté et valeurs de la République</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6899" data-drupal-active-trail="false" class="fr-nav__link" href="/6899/education-la-defense">Éducation à la défense</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4365" data-drupal-active-trail="false" class="fr-nav__link" href="/4365/education-la-responsabilite">Éducation à la responsabilité</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4692" data-drupal-active-trail="false" class="fr-nav__link" href="/4692/education-artistique-et-culturelle">Éducation artistique et culturelle</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4695" data-drupal-active-trail="false" class="fr-nav__link" href="/4695/education-au-developpement-durable">Éducation au développement durable</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4704" data-drupal-active-trail="false" class="fr-nav__link" href="/4704/education-aux-medias-et-l-information">Éducation aux médias et à l'information</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4686" data-drupal-active-trail="false" class="fr-nav__link" href="/4686/education-economique-budgetaire-et-financiere-educfi">Education économique, budgétaire et financière</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/7096" data-drupal-active-trail="false" class="fr-nav__link" href="/7096/pratiques-sportives-l-ecole">Pratiques sportives à l’École</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4452" data-drupal-active-trail="false" class="fr-nav__link" href="/4452/promotion-de-la-sante">Promotion de la santé</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                              </div>
+      </div>
+      
+            </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn" aria-expanded="false" type="button"
+                    aria-controls="main-menu-554041887-2">
+              Scolarité de l'élève et diplômes
+            </button>
+            <div class="fr-collapse fr-mega-menu" id="main-menu-554041887-2" tabindex="-1">
+                          <div class="fr-container fr-container--fluid fr-container-lg">
+        <button class="fr-btn fr-btn--close" aria-controls="main-menu-554041887-2" title="Fermer" type="button">Fermer</button>
+        <div class="fr-grid-row fr-grid-row-lg--gutters">
+                                            <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4497" data-drupal-active-trail="false" class="fr-nav__link" href="/4497/l-accompagnement-des-eleves">L'accompagnement des élèves</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4491" data-drupal-active-trail="false" class="fr-nav__link" href="/4491/dispositifs-d-accompagnement">Dispositifs d'accompagnement</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4479" data-drupal-active-trail="false" class="fr-nav__link" href="/4479/orientation">Orientation</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4734" data-drupal-active-trail="false" class="fr-nav__link" href="/4734/de-la-prevention-la-remediation-du-decrochage-scolaire">Prévention et lutte contre le décrochage</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4743" data-drupal-active-trail="false" class="fr-nav__link" href="/4743/ecole-inclusive">École inclusive</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4464" data-drupal-active-trail="false" class="fr-nav__link" href="/4464/organisation-des-enseignements">Organisation des enseignements</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4500" data-drupal-active-trail="false" class="fr-nav__link" href="/4500/ecole-maternelle">École maternelle</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4488" data-drupal-active-trail="false" class="fr-nav__link" href="/4488/ecole-elementaire">École élémentaire</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4473" data-drupal-active-trail="false" class="fr-nav__link" href="/4473/college">Collège</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4530" data-drupal-active-trail="false" class="fr-nav__link" href="/4530/lycee-general">Lycée général</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4566" data-drupal-active-trail="false" class="fr-nav__link" href="/4566/lycee-technologique">Lycée technologique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4575" data-drupal-active-trail="false" class="fr-nav__link" href="/4575/lycee-professionnel">Lycée professionnel</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4524" data-drupal-active-trail="false" class="fr-nav__link" href="/4524/formation-en-apprentissage">Formation en apprentissage</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4515" data-drupal-active-trail="false" class="fr-nav__link" href="/4515/enseignements-europeens-et-internationaux">Enseignements européens et internationaux</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4563" data-drupal-active-trail="false" class="fr-nav__link" href="/4563/diplomes">Diplômes</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4536" data-drupal-active-trail="false" class="fr-nav__link" href="/4536/diplome-national-du-brevet">Diplôme national du brevet</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4551" data-drupal-active-trail="false" class="fr-nav__link" href="/4551/baccalaureat-general">Baccalauréat général</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4539" data-drupal-active-trail="false" class="fr-nav__link" href="/4539/baccalaureat-technologique">Baccalauréat technologique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4527" data-drupal-active-trail="false" class="fr-nav__link" href="/4527/diplomes-professionnels">Diplômes professionnels</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4707" data-drupal-active-trail="false" class="fr-nav__link" href="/4707/certificat-de-formation-generale-cfg">Certificat de formation générale</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4518" data-drupal-active-trail="false" class="fr-nav__link" href="/4518/les-amenagements-d-examens-pour-les-eleves-en-situation-de-handicap">Les aménagements d'examens pour les élèves en situation de handicap</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4512" data-drupal-active-trail="false" class="fr-nav__link" href="/4512/certifications">Certifications</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4506" data-drupal-active-trail="false" class="fr-nav__link" href="/4506/cadre-de-reference-des-competences-numeriques">Cadre de référence des compétences numériques</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4722" data-drupal-active-trail="false" class="fr-nav__link" href="/4722/l-education-la-securite-routiere-l-ecole">Sécurité routière : APER</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4728" data-drupal-active-trail="false" class="fr-nav__link" href="/4728/l-education-la-securite-routiere-au-college">Sécurité routière : ASSR 1 et 2</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4716" data-drupal-active-trail="false" class="fr-nav__link" href="/4716/sensibilisation-aux-premiers-secours-dans-le-second-degre-au-college-et-au-lycee">Prévention et secours civiques de niveau 1</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4710" data-drupal-active-trail="false" class="fr-nav__link" href="/4710/certifications-en-langues-vivantes-etrangeres">Certifications en langues vivantes étrangères</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4476" data-drupal-active-trail="false" class="fr-nav__link" href="/4476/suivi-et-evaluation">Suivi et évaluation</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4761" data-drupal-active-trail="false" class="fr-nav__link" href="/4761/le-socle-commun-de-connaissances-de-competences-et-de-culture">Socle commun</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4449" data-drupal-active-trail="false" class="fr-nav__link" href="/4449/livret-scolaire-unique">Livret scolaire unique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4749" data-drupal-active-trail="false" class="fr-nav__link" href="/4749/livret-scolaire-du-lycee-general-technologique-et-professionnel">Livret scolaire du lycée</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4764" data-drupal-active-trail="false" class="fr-nav__link" href="/4764/evaluation-et-positionnement-en-langues-vivantes">Évaluation et positionnement en langues vivantes</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4467" data-drupal-active-trail="false" class="fr-nav__link" href="/4467/evaluations-nationales-et-tests-de-positionnement">Évaluations nationales et tests de positionnement</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6910" data-drupal-active-trail="false" class="fr-nav__link" href="/6910/reperes-annuels-de-progression-et-attendus-de-fin-d-annee-du-cp-la-troisieme">Repères annuels et attendus de fin d'année</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/5976" data-drupal-active-trail="false" class="fr-nav__link" href="/5976/evaluation-des-aptitudes-physiques-des-eleves-de-sixieme">Évaluation des aptitudes physiques des élèves de 6ᵉ</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                              </div>
+      </div>
+      
+            </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn" aria-expanded="false" type="button"
+                    aria-controls="main-menu-554041887-3">
+              Vie des écoles et des établissements
+            </button>
+            <div class="fr-collapse fr-mega-menu" id="main-menu-554041887-3" tabindex="-1">
+                          <div class="fr-container fr-container--fluid fr-container-lg">
+        <button class="fr-btn fr-btn--close" aria-controls="main-menu-554041887-3" title="Fermer" type="button">Fermer</button>
+        <div class="fr-grid-row fr-grid-row-lg--gutters">
+                                            <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4437" data-drupal-active-trail="false" class="fr-nav__link" href="/4437/fonctionnement">Fonctionnement des établissements scolaires</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4431" data-drupal-active-trail="false" class="fr-nav__link" href="/4431/assurer-la-continuite-des-enseignements">Assurer la continuité des enseignements</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4422" data-drupal-active-trail="false" class="fr-nav__link" href="/4422/l-instruction-obligatoire">L'instruction obligatoire</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4398" data-drupal-active-trail="false" class="fr-nav__link" href="/4398/direction-d-ecole">Vie des écoles</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4392" data-drupal-active-trail="false" class="fr-nav__link" href="/4392/vie-des-etablissements">Vie des établissements</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4407" data-drupal-active-trail="false" class="fr-nav__link" href="/4407/parents-d-eleves">Parents d'élèves</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6907" data-drupal-active-trail="false" class="fr-nav__link" href="/6907/les-etablissements-d-enseignement-francais-l-etranger">Les établissements d'enseignement français à l'étranger</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4416" data-drupal-active-trail="false" class="fr-nav__link" href="/4416/la-mobilite-europeenne-et-internationale">La mobilité européenne et internationale</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4767" data-drupal-active-trail="false" class="fr-nav__link" href="/4767/qualeduc-la-demarche-d-amelioration-continue-des-etablissements">Qualéduc</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4386" data-drupal-active-trail="false" class="fr-nav__link" href="/4386/protection-et-prevention">Protection et prévention</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4788" data-drupal-active-trail="false" class="fr-nav__link" href="/4788/transmettre-et-faire-respecter-les-principes-et-valeurs-de-la-republique">Transmettre et faire respecter les principes et valeurs de la République</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4371" data-drupal-active-trail="false" class="fr-nav__link" href="/4371/climat-scolaire-et-prevention-des-violences">Climat scolaire et prévention des violences</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4452" data-drupal-active-trail="false" class="fr-nav__link" href="/4452/promotion-de-la-sante">Promotion de la santé</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4782" data-drupal-active-trail="false" class="fr-nav__link" href="/4782/assurer-la-securite-des-ecoles-et-des-etablissements">Sécurité des écoles et des établissements</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4350" data-drupal-active-trail="false" class="fr-nav__link" href="/4350/protection-de-l-enfance">Protection de l'enfance</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4359" data-drupal-active-trail="false" class="fr-nav__link" href="/4359/education-la-securite-routiere">Éducation à la sécurité routière</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6986" data-drupal-active-trail="false" class="fr-nav__link" href="/6986/sensibilisation-aux-gestes-qui-sauvent-et-formation-aux-premiers-secours">Sensibilisation aux gestes qui sauvent et formation aux premiers secours</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4365" data-drupal-active-trail="false" class="fr-nav__link" href="/4365/education-la-responsabilite">Éducation à la responsabilité</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4353" data-drupal-active-trail="false" class="fr-nav__link" href="/4353/prevenir-la-radicalisation-en-milieu-scolaire">Prévenir la radicalisation en milieu scolaire</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4344" data-drupal-active-trail="false" class="fr-nav__link" href="/4344/le-numerique-l-ecole">Le numérique à l'École</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4335" data-drupal-active-trail="false" class="fr-nav__link" href="/4335/applications-et-services-numeriques-nationaux">Applications et services numériques nationaux</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4338" data-drupal-active-trail="false" class="fr-nav__link" href="/4338/reseaux-et-interlocuteurs-pour-le-numerique">Réseaux et interlocuteurs pour le numérique</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4329" data-drupal-active-trail="false" class="fr-nav__link" href="/4329/education-formations-et-territoires">Éducation, formations et territoires</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4794" data-drupal-active-trail="false" class="fr-nav__link" href="/4794/accueil-elargi-8h-18h">Accueil élargi 8h-18h</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4896" data-drupal-active-trail="false" class="fr-nav__link" href="/4896/la-politique-de-l-education-prioritaire-les-reseaux-d-education-prioritaire-rep-et-rep">Éducation prioritaire</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4818" data-drupal-active-trail="false" class="fr-nav__link" href="/4818/territoires-ruraux-et-de-montagne">Territoires ruraux et de montagne</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4806" data-drupal-active-trail="false" class="fr-nav__link" href="/4806/territoires-ultramarins">Territoires d'outre-mer</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4797" data-drupal-active-trail="false" class="fr-nav__link" href="/4797/l-internat-d-excellence-lieu-de-vie-et-d-epanouissement">Internat d'excellence</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6904" data-drupal-active-trail="false" class="fr-nav__link" href="/6904/carte-des-formations-professionnelles-initiales">Carte des formations professionnelles initiales</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4803" data-drupal-active-trail="false" class="fr-nav__link" href="/4803/l-apprentissage-et-la-formation-continue-l-education-nationale">L’apprentissage et la formation continue à l’Éducation nationale</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6974" data-drupal-active-trail="false" class="fr-nav__link" href="/6974/amenager-les-espaces-scolaires">Aménager les espaces scolaires</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/7043" data-drupal-active-trail="false" class="fr-nav__link" href="/7043/mesurer-et-piloter-la-performance-du-systeme-educatif">Mesurer et piloter la performance du système éducatif</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                              </div>
+      </div>
+      
+            </div>
+                  </li>
+                    
+          </ul>
+  </nav>
+
+
+
+
+
+</div>
+
+  </div>
+
+      </div>
+    </div>
+  </header>
+
+    <div>
+    <div id="block-eduscol-dsfr-breadcrumbs" class="fr-container">
+
+
+
+        <nav data-component-id="ui_suite_dsfr:breadcrumb" class="fr-breadcrumb" role="navigation" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-1893134044" type="button">Voir le fil d'ariane</button>
+    <div class="fr-collapse" id="breadcrumb-1893134044">
+      <ol class="fr-breadcrumb__list">
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/">
+              Accueil
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/4317/enseignement-et-formation">
+              Enseignement et formation
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/4332/niveaux">
+              Niveaux
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/4368/enseigner-au-lycee-generaltechnologique">
+              Enseigner au lycée général/technologique
+            </a>
+          </li>
+                  <li>
+                                                            <a aria-current="page" class="fr-breadcrumb__link" href="/5829/programmes-et-ressources-en-physique-chimie-voie-gt">
+              Programmes et ressources en physique-chimie - voie GT
+            </a>
+          </li>
+              </ol>
+    </div>
+  </nav>
+
+
+
+</div>
+
+  </div>
+
+
+  
+  <main role="main" class="fr-container--fluid fr-mt-4w">
+    <a id="main-content" tabindex="-1"></a>    <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-col-12" style="order: 2">
+          <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-eduscol-dsfr-content">
+
+
+
+  <article>
+    <div>
+        
+    
+<div class="fr-hero-edito eduscol-background-ecume">
+    <div class="fr-container">
+        <div
+            class="fr-grid-row fr-grid-row--gutters fr-py-8v fr-py-md-11v">
+            <div  data-component-id="eduscol_dsfr:hero_edito" class="fr-col-md-6">
+
+                
+                
+                                                                
+                                    <h1>
+                        
+
+
+  
+    Programmes et ressources en physique-chimie - voie GT
+
+
+
+                    </h1>
+                
+                
+                                    <div class="fr-text--lead fr-mb-2w fr-mb-md-3w">
+                        
+
+
+    <p>Les programmes de l'enseignement de physique-chimie en seconde générale et technologique et de spécialité en première et terminale générale sont présentés en lien avec des ressources pour accompagner leur mise en œuvre.</p>
+
+
+
+                    </div>
+                
+                                    <div class="fr-text--xs fr-mb-1w fr-mb-md-0"><div class="fr-mb-3w">
+
+
+
+    <time datetime="2026-03-18T15:27:55+01:00" title="mars 2026">mars 2026</time>
+
+
+
+</div>
+
+
+
+    
+  <div class="wrapper-unauthorized">
+    <button type="button" class="unauthorized-flagging fr-btn fr-btn--secondary folder-create-popup__call js-fl-show-popup">
+      Ajouter aux favoris</button>
+    <div class="folder-create-popup js-fl-create-popup">
+      <div class="folder-create-popup__back js-fl-popup-close"></div>
+    </div>
+    <div class="folder-create-popup__place js-popups-place">
+
+      <div class="js-fl-create-body folder-create-popup__body unauthorized_body">
+        <div class="fr-modal__header">
+          <button title="Fermer" type="button" class="fr-btn--close fr-btn folder-create-popup__close js-fl-popup-close">
+            Fermer
+          </button>
+        </div>
+        <div class="fr-modal__content">
+          <h2 class="fr-modal__title">Connexion requise</h2>
+          <p>Cette fonctionnalité est destinée aux agents de l'éducation&nbsp;nationale. Pour ajouter cet élément à vos favoris, inscrivez-vous ou connectez-vous.</p>
+          <div class="fr-btns-group fr-btns-group--inline-md fr-btns-group--between">
+            <button class="fr-btn fr-btn--secondary folder-create-popup__button js-fl-popup-close">Annuler</button>
+            <a href="/cas?returnto=/5829/programmes-et-ressources-en-physique-chimie-voie-gt" class="fr-btn"><span>Se connecter</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+                            </div>
+
+                            <div class="fr-col-12 fr-col-md-6">
+                    <div class="fr-card__img">
+                        
+
+
+      
+  
+<img class="fr-responsive-img"  loading="eager" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_952x45352_0.png.webp?h=517a7733&amp;itok=BdkinPrh" width="690" height="388" alt="" fetchpriority="high" />
+
+
+
+
+
+
+                    </div>
+                    <div class="fr-text--xs fr-mt-1w fr-mb-0">
+                        
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+    
+
+
+
+    <div class="fr-container">
+
+        <div class="fr-mt-5v fr-m-auto fr-grid-row fr-grid-row--gutters" data-component-id="eduscol_dsfr:grid_row_2_colors">
+                                                    <div class="fr-col fr-col-12 fr-col-lg-3">
+                
+
+
+  
+
+  <div class="fr-summary-sidemenu">
+    <nav class="fr-summary fr-summary__nav"
+         id="js-sticky-summary-data" role="navigation"
+         aria-labelledby="fr-summary-title--301853979">
+      <div class="fr-summary__inner">
+        <button class="fr-summary__btn"
+                aria-controls=""
+                aria-expanded="true"
+                type="button">Sommaire</button>
+        <div
+          id="fr-summary-wrapper-summary-1048178656">
+                      <ul class="fr-summary__list js-summary-list-data"></ul>
+                  </div>
+      </div>
+    </nav>
+
+      </div>
+
+
+
+            </div>
+                                        <div class="fr-col fr-col-12 fr-col-lg-9">
+                
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-m-auto eduscol-highlight fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h2>Actualité</h2>
+
+
+
+
+
+
+  
+    <div data-component-id="eduscol_dsfr:highlight_dsfr" class="fr-highlight--green-archipel fr-highlight">
+                            <span ><h3 class="fr-mt-3w">Évaluation des compétences expérimentales (ECE) en physique-chimie - session 2026</h3><p><a href="https://www.education.gouv.fr/bo/2026/Hebdo1/MENE2533367N" target="_blank" rel="noopener external" title="La note de service « Évaluation des compétences expérimentales des épreuves de physique-chimie et de sciences de la vie et de la Terre du baccalauréat général - session 2026 » - nouvelle fenêtre" class="fr-link">La note de service « Évaluation des compétences expérimentales des épreuves de physique-chimie et de sciences de la vie et de la Terre du baccalauréat général - session 2026 »</a> fixe l'organisation de l’évaluation. Conformément, les situations d'évaluation sont publiées dans la <a href="https://sujets.examens-concours.gouv.fr/delos/public/bgt/ece_pc" target="_blank" rel="noopener external" title="banque de sujets ECE Physique-chimie - nouvelle fenêtre" class="fr-link">banque de sujets ECE Physique-chimie</a>.</p></span>
+        </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w">Programmes en vigueur</h2>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Seconde générale et technologique (BO spécial n° 1 du 22 janvier 2019) PDF - 458.7 Ko- nouvelle fenêtre" href="/sites/default/files/document/spe634annexe1062989pdf-82263.pdf" class="fr-download__link">
+                    Seconde générale et technologique (BO spécial n° 1 du 22 janvier 2019)
+              <span class="fr-download__detail">PDF - 458.7 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Spécialité de première générale (BO spécial n° 1 du 22 janvier 2019) PDF - 383.44 Ko- nouvelle fenêtre" href="/sites/default/files/document/spe635annexe1063432pdf-82266.pdf" class="fr-download__link">
+                    Spécialité de première générale (BO spécial n° 1 du 22 janvier 2019)
+              <span class="fr-download__detail">PDF - 383.44 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Spécialité de terminale générale (BO spécial n° 8 du 25 juillet 2019) PDF - 527.5 Ko- nouvelle fenêtre" href="/sites/default/files/document/spe249annexe1158929pdf-82269.pdf" class="fr-download__link">
+                    Spécialité de terminale générale (BO spécial n° 8 du 25 juillet 2019)
+              <span class="fr-download__detail">PDF - 527.5 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <p><strong>Nota</strong></p><ul><li>Vous pouvez également consulter les <a href="/5790/programmes-et-ressources-en-enseignement-scientifique-voie-g" data-entity-type="node" data-entity-uuid="d932ca2c-f187-4205-847d-cbae64d83109" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">programmes et ressources en enseignement scientifique</a>.</li><li>Pour les enseignements de spécialité en voie technologique, se reporter à la série concernée :<br><a href="/5850/programmes-et-ressources-en-serie-std2a" data-entity-type="node" data-entity-uuid="5c3ce8cd-c96a-4b06-acef-c57efdaec34c" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">STD2A</a>&nbsp;; <a href="/5856/programmes-et-ressources-en-serie-sti2d" data-entity-type="node" data-entity-uuid="e3a745d5-d25c-42c1-8e84-ea51ae2f20e0" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">STI2D</a>&nbsp;; <a href="/5859/programmes-et-ressources-en-serie-stl" data-entity-type="node" data-entity-uuid="2f825336-fae0-42f6-bd96-c01e7576eb96" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">STL</a>&nbsp;; <a href="/5847/programmes-et-ressources-en-serie-st2s" data-entity-type="node" data-entity-uuid="1b3be820-754f-4457-a9f0-62970e23aba7" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">ST2S</a>.</li></ul>
+
+  </div>
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w">Ressources d'accompagnement</h2>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>Ressources transversales</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="La modélisation, une activité essentielle pour travailler les compétences de la démarche scientifique PDF - 978.78 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1-tphychimodelisation-competences-demarche-scientifique1171402pdf-82272.pdf" class="fr-download__link">
+                    La modélisation, une activité essentielle pour travailler les compétences de la démarche scientifique
+              <span class="fr-download__detail">PDF - 978.78 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Verbes d&#039;action figurant dans les capacités exigibles des programmes de physique-chimie PDF - 204.81 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1-tphychiverbes-action-capacites-exigibles-programmes1163717pdf-82275.pdf" class="fr-download__link">
+                    Verbes d&#039;action figurant dans les capacités exigibles des programmes de physique-chimie
+              <span class="fr-download__detail">PDF - 204.81 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h3 class="fr-mt-3w"><a class="ck-anchor" id="mesure-et-incertitude"></a>Mesure et incertitudes</h3><p>La ressource <em>Mesure et incertitudes au lycée</em> peut être utilisée dans le cadre des enseignements de seconde de la voie générale et technologique, de la spécialité physique-chimie de première et de terminale de la voie générale et des séries STI2D et STL-SPCL de la voie technologique. On y trouve des éléments d’accompagnement des notions introduites, utilisables en classe&nbsp;; des activités&nbsp;; des clarifications sur certains aspects de la thématique.</p>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Mesure et incertitudes au lycée PDF - 2.05 Mo- nouvelle fenêtre" href="/sites/default/files/document/ra21lyceegt21tphychimesure-incertitudes-lyceepdf-70446.pdf" class="fr-download__link">
+                    Mesure et incertitudes au lycée
+              <span class="fr-download__detail">PDF - 2.05 Mo</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Mesure et incertitudes au lycée - annexe ZIP - 762.51 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra21lyceegt21tpcmesureincertitudesannexezip-70329.zip" class="fr-download__link">
+                    Mesure et incertitudes au lycée - annexe
+              <span class="fr-download__detail">ZIP - 762.51 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>Utiliser le langage Python dans un contexte de physique-chimie</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Installation et prise en main PDF - 252.57 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythoninstallation-prise-main1161848pdf-82278.pdf" class="fr-download__link">
+                    Installation et prise en main
+              <span class="fr-download__detail">PDF - 252.57 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h4>En classe de seconde générale et technologique</h4>
+
+
+
+
+
+
+  
+
+
+
+
+        <div data-component-id="eduscol_dsfr:grid_row_2_colors" class="fr-grid-row fr-grid-row--gutters">
+                                                    <div class="fr-col fr-col-12 fr-col-lg-6">
+                
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <p>Les fiches ci-dessous illustrent l'ensemble des capacités numériques du programme de physique-chimie de la classe de seconde. Elles sont associées à des annexes qui peuvent regrouper des scripts annotés et non annotés.</p>
+
+  </div>
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Premiers graphiques PDF - 191.98 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonfiche1-premiers-graphes1161842pdf-82281.pdf" class="fr-download__link">
+                    Premiers graphiques
+              <span class="fr-download__detail">PDF - 191.98 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Premiers graphiques - Annexe ZIP - 17.59 Ko- nouvelle fenêtre" href="/sites/default/files/document/py1-premiers-graphes2nde1161298zip-82284.zip" class="fr-download__link">
+                    Premiers graphiques - Annexe
+              <span class="fr-download__detail">ZIP - 17.59 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Premières exploitations PDF - 216.61 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonfiche2-premiere-exploitation1161843pdf-82287.pdf" class="fr-download__link">
+                    Premières exploitations
+              <span class="fr-download__detail">PDF - 216.61 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Premières exploitations - Annexe ZIP - 22.63 Ko- nouvelle fenêtre" href="/sites/default/files/document/py2-premieres-exploitations2nde1161299zip-82290.zip" class="fr-download__link">
+                    Premières exploitations - Annexe
+              <span class="fr-download__detail">ZIP - 22.63 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Vecteurs déplacement et boucle for PDF - 160.34 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonfiche3-vecteurs-deplacement-boucle-for1161844pdf-82293.pdf" class="fr-download__link">
+                    Vecteurs déplacement et boucle for
+              <span class="fr-download__detail">PDF - 160.34 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Vecteurs déplacement et boucle for - Annexe ZIP - 9.23 Ko- nouvelle fenêtre" href="/sites/default/files/document/py3-premiere-boucle2nde1161300zip-82296.zip" class="fr-download__link">
+                    Vecteurs déplacement et boucle for - Annexe
+              <span class="fr-download__detail">ZIP - 9.23 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Vecteurs vitesse et boucle for PDF - 158.57 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonfiche4-vecteurs-vitesse-boucle-for1161845pdf-82299.pdf" class="fr-download__link">
+                    Vecteurs vitesse et boucle for
+              <span class="fr-download__detail">PDF - 158.57 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Vecteurs vitesse et boucle for - Annexe ZIP - 6.4 Ko- nouvelle fenêtre" href="/sites/default/files/document/py4-deuxieme-boucle-vitesse2nde1161301zip-82302.zip" class="fr-download__link">
+                    Vecteurs vitesse et boucle for - Annexe
+              <span class="fr-download__detail">ZIP - 6.4 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Analyse d&#039;une chute à deux dimensions PDF - 215.6 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonfiche5-analyse-chute-2d1161846pdf-82305.pdf" class="fr-download__link">
+                    Analyse d&#039;une chute à deux dimensions
+              <span class="fr-download__detail">PDF - 215.6 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Analyse d&#039;une chute à deux dimensions - Annexe ZIP - 27.38 Ko- nouvelle fenêtre" href="/sites/default/files/document/py5-chute-2d-vitesse2nde1161302zip-82308.zip" class="fr-download__link">
+                    Analyse d&#039;une chute à deux dimensions - Annexe
+              <span class="fr-download__detail">ZIP - 27.38 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Verrerie et variabilité PDF - 214.92 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonfiche6-verrerie-variabilite1161847pdf-82311.pdf" class="fr-download__link">
+                    Verrerie et variabilité
+              <span class="fr-download__detail">PDF - 214.92 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+            </div>
+                                        <div class="fr-col fr-col-12 fr-col-lg-6">
+                
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <p>Les fiches ci-dessous sont des propositions de trois projets «&nbsp;pour aller plus loin&nbsp;».</p>
+
+  </div>
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Étude du décollage d&#039;une fusée PDF - 192.45 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonplusloin1-etude-decollage-fusee1161849pdf-82314.pdf" class="fr-download__link">
+                    Étude du décollage d&#039;une fusée
+              <span class="fr-download__detail">PDF - 192.45 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Étude du décollage d&#039;une fusée - Annexe Excel (XLSX) - 10.64 Ko- nouvelle fenêtre" href="/sites/default/files/document/donneeariane51151451xlsx-82317.xlsx" class="fr-download__link">
+                    Étude du décollage d&#039;une fusée - Annexe
+              <span class="fr-download__detail">Excel (XLSX) - 10.64 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Étude de la loi de la gravitation PDF - 433.2 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonplusloin2-loi-gravitation1161850pdf-82320.pdf" class="fr-download__link">
+                    Étude de la loi de la gravitation
+              <span class="fr-download__detail">PDF - 433.2 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Étude de la loi de la gravitation - Annexe Excel (XLSX) - 9.27 Ko- nouvelle fenêtre" href="/sites/default/files/document/actnum2donneesplanetes1161274xlsx-82323.xlsx" class="fr-download__link">
+                    Étude de la loi de la gravitation - Annexe
+              <span class="fr-download__detail">Excel (XLSX) - 9.27 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Détermination de la masse d&#039;un trou noir PDF - 156.71 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonplusloin3-decouverte-trou-noir-central-voie-lactee1161851pdf-82326.pdf" class="fr-download__link">
+                    Détermination de la masse d&#039;un trou noir
+              <span class="fr-download__detail">PDF - 156.71 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+            </div>
+                    </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h4>En classe de première générale</h4>
+
+
+
+
+
+
+  
+
+
+
+
+        <div data-component-id="eduscol_dsfr:grid_row_2_colors" class="fr-grid-row fr-grid-row--gutters">
+                                                    <div class="fr-col fr-col-12 fr-col-lg-6">
+                
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <p>Les fiches ci-dessous illustrent l'ensemble des capacités numériques du programme de physique-chimie de la classe de première. Elles sont associées à des annexes qui peuvent regrouper des scripts annotés et non annotés.</p>
+
+  </div>
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Réactif limitant, boucle while et fonction PDF - 257.31 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonfiche1reactif-limitant-boucle-while-fonction1163720pdf-82329.pdf" class="fr-download__link">
+                    Réactif limitant, boucle while et fonction
+              <span class="fr-download__detail">PDF - 257.31 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Réactif limitant, boucle while et fonction - Annexe ZIP - 5.63 Ko- nouvelle fenêtre" href="/sites/default/files/document/annexes1-reactif-limitant-boucle-while-fonction1ere1161452zip-82332.zip" class="fr-download__link">
+                    Réactif limitant, boucle while et fonction - Annexe
+              <span class="fr-download__detail">ZIP - 5.63 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Évolution des quantités de matière lors d&#039;une transformation chimique PDF - 244.79 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonfiche2evolution-quantites-matiere-transformation1163721pdf-82335.pdf" class="fr-download__link">
+                    Évolution des quantités de matière lors d&#039;une transformation chimique
+              <span class="fr-download__detail">PDF - 244.79 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Évolution des quantités de matière lors d&#039;une transformation chimique - Annexe ZIP - 42.68 Ko- nouvelle fenêtre" href="/sites/default/files/document/annexes2-evolution-quantites-matiere-transformation1ere1161453zip-82338.zip" class="fr-download__link">
+                    Évolution des quantités de matière lors d&#039;une transformation chimique - Annexe
+              <span class="fr-download__detail">ZIP - 42.68 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Étude d&#039;une trajectoire parabolique PDF - 298.07 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonfiche3trajectoire-parabolique1171404pdf-82341.pdf" class="fr-download__link">
+                    Étude d&#039;une trajectoire parabolique
+              <span class="fr-download__detail">PDF - 298.07 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Étude d&#039;une trajectoire parabolique - Annexe ZIP - 73.4 Ko- nouvelle fenêtre" href="/sites/default/files/document/annexes3-trajectoire-parabolique1ere1161454zip-82344.zip" class="fr-download__link">
+                    Étude d&#039;une trajectoire parabolique - Annexe
+              <span class="fr-download__detail">ZIP - 73.4 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Détermination de la masse du Soleil PDF - 288.31 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonfiche4determination-masse-soleil1171405pdf-82347.pdf" class="fr-download__link">
+                    Détermination de la masse du Soleil
+              <span class="fr-download__detail">PDF - 288.31 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Détermination de la masse du Soleil - Annexe ZIP - 72.95 Ko- nouvelle fenêtre" href="/sites/default/files/document/annexes4-determination-masse-soleil1ere1161455zip-82350.zip" class="fr-download__link">
+                    Détermination de la masse du Soleil - Annexe
+              <span class="fr-download__detail">ZIP - 72.95 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Analyse d&#039;une force de frottement PDF - 250.73 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonfiche5analyse-force-frottement1171406pdf-82353.pdf" class="fr-download__link">
+                    Analyse d&#039;une force de frottement
+              <span class="fr-download__detail">PDF - 250.73 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Analyse d&#039;une force de frottement - Annexe ZIP - 50.9 Ko- nouvelle fenêtre" href="/sites/default/files/document/annexes5-analyse-force-frottement1ere1161456zip-82356.zip" class="fr-download__link">
+                    Analyse d&#039;une force de frottement - Annexe
+              <span class="fr-download__detail">ZIP - 50.9 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Analyse énergétique d&#039;un mouvement PDF - 209.84 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonfiche6analyse-energetique-mouvement1171407pdf-82359.pdf" class="fr-download__link">
+                    Analyse énergétique d&#039;un mouvement
+              <span class="fr-download__detail">PDF - 209.84 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Analyse énergétique d&#039;un mouvement - Annexe ZIP - 127.68 Ko- nouvelle fenêtre" href="/sites/default/files/document/annexes6analyse-energetique-mouvement1ere1161457zip-82362.zip" class="fr-download__link">
+                    Analyse énergétique d&#039;un mouvement - Annexe
+              <span class="fr-download__detail">ZIP - 127.68 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Difficultés rencontrées lors de l&#039;exploitation d&#039;une série de mesures ou d&#039;une simulation PDF - 146.47 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonfiche7difficultes-rencontrees-exploitation-mesures-simulation1163722pdf-82365.pdf" class="fr-download__link">
+                    Difficultés rencontrées lors de l&#039;exploitation d&#039;une série de mesures ou d&#039;une simulation
+              <span class="fr-download__detail">PDF - 146.47 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+            </div>
+                                        <div class="fr-col fr-col-12 fr-col-lg-6">
+                
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <p>Les fiches ci-dessous proposent trois projets «&nbsp;pour aller plus loin&nbsp;».</p>
+
+  </div>
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Étude du rebond d&#039;une balle de tennis de table PDF - 334.99 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonprojet1etude-rebond-balle-tennis-table1163718pdf-82368.pdf" class="fr-download__link">
+                    Étude du rebond d&#039;une balle de tennis de table
+              <span class="fr-download__detail">PDF - 334.99 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Autour de la loi de Beer-Lambert PDF - 368.75 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonprojet2loi-beer-lambert1163719pdf-82371.pdf" class="fr-download__link">
+                    Autour de la loi de Beer-Lambert
+              <span class="fr-download__detail">PDF - 368.75 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Adaptation d&#039;une charge à une source réelle PDF - 397.66 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonprojet3adaptation-charge1171403pdf-82374.pdf" class="fr-download__link">
+                    Adaptation d&#039;une charge à une source réelle
+              <span class="fr-download__detail">PDF - 397.66 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+            </div>
+                    </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h4>En classe terminale générale</h4>
+
+
+
+
+
+
+  
+
+
+
+
+        <div data-component-id="eduscol_dsfr:grid_row_2_colors" class="fr-grid-row fr-grid-row--gutters">
+                                                    <div class="fr-col fr-col-12 fr-col-lg-6">
+                
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <p>Les fiches ci-dessous illustrent l'ensemble des capacités numériques du programme de physique-chimie de la classe terminale. Elles sont associées à des annexes qui peuvent regrouper des scripts annotés et non annotés.</p>
+
+  </div>
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Verrerie et variabilité (reprise de seconde) PDF - 214.92 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiprogrammerpythonfiche6-verrerie-variabilite1161847pdf-82311.pdf" class="fr-download__link">
+                    Verrerie et variabilité (reprise de seconde)
+              <span class="fr-download__detail">PDF - 214.92 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Variabilité d&#039;une mesure PDF - 202.95 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche2variabilite-mesure1288783pdf-82377.pdf" class="fr-download__link">
+                    Variabilité d&#039;une mesure
+              <span class="fr-download__detail">PDF - 202.95 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Évolution des quantités de matière lors d&#039;une transformation chimique (reprise de première) PDF - 244.79 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychiprogrammerpythonfiche2evolution-quantites-matiere-transformation1163721pdf-82335.pdf" class="fr-download__link">
+                    Évolution des quantités de matière lors d&#039;une transformation chimique (reprise de première)
+              <span class="fr-download__detail">PDF - 244.79 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Modéliser l&#039;évolution temporelle d&#039;un système, siège d&#039;une transformation chimique PDF - 785 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche4modeliser-evolution-systeme1288777pdf-82380.pdf" class="fr-download__link">
+                    Modéliser l&#039;évolution temporelle d&#039;un système, siège d&#039;une transformation chimique
+              <span class="fr-download__detail">PDF - 785 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Modéliser l&#039;évolution temporelle d&#039;un système, siège d&#039;une transformation chimique - Annexe ZIP - 919 octets- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche4modeliser-evolution-systemeannexe1285863zip-82383.zip" class="fr-download__link">
+                    Modéliser l&#039;évolution temporelle d&#039;un système, siège d&#039;une transformation chimique - Annexe
+              <span class="fr-download__detail">ZIP - 919 octets</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Déterminer l&#039;état final d&#039;un système siège d&#039;une transformation PDF - 549.62 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche5taux-avancement1288778pdf-82386.pdf" class="fr-download__link">
+                    Déterminer l&#039;état final d&#039;un système siège d&#039;une transformation
+              <span class="fr-download__detail">PDF - 549.62 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Construire un diagramme de distribution PDF - 354.9 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche6diagramme-distribution1288779pdf-82389.pdf" class="fr-download__link">
+                    Construire un diagramme de distribution
+              <span class="fr-download__detail">PDF - 354.9 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Trajectoire parabolique et le principe fondamental de la dynamique PDF - 306.64 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche7trajectoire-parabolique-pfd1288784pdf-82392.pdf" class="fr-download__link">
+                    Trajectoire parabolique et le principe fondamental de la dynamique
+              <span class="fr-download__detail">PDF - 306.64 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Trajectoire parabolique et le principe fondamental de la dynamique - Annexe ZIP - 1.35 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche7trajectoire-parabolique-pfdannexe1285864zip-82395.zip" class="fr-download__link">
+                    Trajectoire parabolique et le principe fondamental de la dynamique - Annexe
+              <span class="fr-download__detail">ZIP - 1.35 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Trajectoire parabolique et énergie PDF - 306.95 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche8trajectoire-parabolique-energie1288785pdf-82398.pdf" class="fr-download__link">
+                    Trajectoire parabolique et énergie
+              <span class="fr-download__detail">PDF - 306.95 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Trajectoire parabolique et énergie - Annexe ZIP - 823 octets- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche8trajectoire-parabolique-energieannexe1285865zip-82401.zip" class="fr-download__link">
+                    Trajectoire parabolique et énergie - Annexe
+              <span class="fr-download__detail">ZIP - 823 octets</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Constante des aires et Mercure PDF - 170.85 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche9constante-aires-mercure1288786pdf-82404.pdf" class="fr-download__link">
+                    Constante des aires et Mercure
+              <span class="fr-download__detail">PDF - 170.85 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Constante des aires et Mercure - Annexe ZIP - 1.22 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche9constante-aires-mercureannexe1285866zip-82407.zip" class="fr-download__link">
+                    Constante des aires et Mercure - Annexe
+              <span class="fr-download__detail">ZIP - 1.22 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Sommes de deux sinusoïdes synchrones PDF - 422.71 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche10somme-sinusoides-synchrones1288782pdf-82410.pdf" class="fr-download__link">
+                    Sommes de deux sinusoïdes synchrones
+              <span class="fr-download__detail">PDF - 422.71 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Sommes de deux sinusoïdes synchrones - Annexe ZIP - 638 octets- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonfiche10somme-sinusoides-synchronesannexe1285862zip-82413.zip" class="fr-download__link">
+                    Sommes de deux sinusoïdes synchrones - Annexe
+              <span class="fr-download__detail">ZIP - 638 octets</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+            </div>
+                                        <div class="fr-col fr-col-12 fr-col-lg-6">
+                
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <p>Les fiches ci-dessous proposent trois projets «&nbsp;pour aller plus loin&nbsp;».</p>
+
+  </div>
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Méthode d&#039;Euler et thermalisation PDF - 299.86 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonplusloin1-euler-thermalisation1288787pdf-82416.pdf" class="fr-download__link">
+                    Méthode d&#039;Euler et thermalisation
+              <span class="fr-download__detail">PDF - 299.86 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Méthode d&#039;Euler et thermalisation - Annexe ZIP - 1.01 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonplusloin1-euler-thermalisationannexe1285867zip-82419.zip" class="fr-download__link">
+                    Méthode d&#039;Euler et thermalisation - Annexe
+              <span class="fr-download__detail">ZIP - 1.01 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Simulation d&#039;une décroissance radioactive PDF - 254.87 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonplusloin2-simulation-decroissance-radioactive1288788pdf-82422.pdf" class="fr-download__link">
+                    Simulation d&#039;une décroissance radioactive
+              <span class="fr-download__detail">PDF - 254.87 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Simulation d&#039;une décroissance radioactive - Annexe ZIP - 1.22 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonplusloin2-simulation-decroissance-radioactiveannexe1285868zip-82425.zip" class="fr-download__link">
+                    Simulation d&#039;une décroissance radioactive - Annexe
+              <span class="fr-download__detail">ZIP - 1.22 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Méthode d&#039;Euler et charge d&#039;un condensateur PDF - 237.04 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonplusloin3-charge-condensateur1288780pdf-82428.pdf" class="fr-download__link">
+                    Méthode d&#039;Euler et charge d&#039;un condensateur
+              <span class="fr-download__detail">PDF - 237.04 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Méthode d&#039;Euler et charge d&#039;un condensateur - Annexe ZIP - 943 octets- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiprogrammerpythonplusloin3-charge-condensateurannexe1285869zip-82431.zip" class="fr-download__link">
+                    Méthode d&#039;Euler et charge d&#039;un condensateur - Annexe
+              <span class="fr-download__detail">ZIP - 943 octets</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+            </div>
+                    </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>Constitution et transformations de la matière</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Glossaire d&#039;accompagnement des programmes de chimie PDF - 550.74 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1-tphychiglossaire-programmes-chimie1172334pdf-82434.pdf" class="fr-download__link">
+                    Glossaire d&#039;accompagnement des programmes de chimie
+              <span class="fr-download__detail">PDF - 550.74 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Modéliser le cortège électronique (seconde) PDF - 345.58 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1phychimodeliser-cortege-electronique1161319pdf-82437.pdf" class="fr-download__link">
+                    Modéliser le cortège électronique (seconde)
+              <span class="fr-download__detail">PDF - 345.58 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Modéliser, au niveau macroscopique, une transformation chimique par une réaction chimique (seconde) PDF - 607.18 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1phychimodeliser-macroscopique-transformation-chimique1161320pdf-82440.pdf" class="fr-download__link">
+                    Modéliser, au niveau macroscopique, une transformation chimique par une réaction chimique (seconde)
+              <span class="fr-download__detail">PDF - 607.18 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Dénombrer les entités dans un échantillon de matière (seconde) PDF - 228.58 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1phychidenombrer-entites-echantillon-matiere1161318pdf-82443.pdf" class="fr-download__link">
+                    Dénombrer les entités dans un échantillon de matière (seconde)
+              <span class="fr-download__detail">PDF - 228.58 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Réaliser le bilan de matière d&#039;une transformation chimique à l&#039;aide de l&#039;avancement de réaction (première) PDF - 279.08 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychirealiser-bilan-matiere-transformation-chimique1161323pdf-82446.pdf" class="fr-download__link">
+                    Réaliser le bilan de matière d&#039;une transformation chimique à l&#039;aide de l&#039;avancement de réaction (première)
+              <span class="fr-download__detail">PDF - 279.08 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Modéliser l&#039;évolution temporelle d&#039;un système, siège d&#039;une transformation chimique (terminale) PDF - 731.98 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychimodeliser-evolution-temporelle-systeme1313079pdf-82449.pdf" class="fr-download__link">
+                    Modéliser l&#039;évolution temporelle d&#039;un système, siège d&#039;une transformation chimique (terminale)
+              <span class="fr-download__detail">PDF - 731.98 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Modéliser l&#039;équilibre chimique et prévoir l&#039;évolution d&#039;un système chimique (terminale) PDF - 905.02 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra21lyceegttphychimodeliser-equilibre-chimique-prevoir-evolution-70812.pdf" class="fr-download__link">
+                    Modéliser l&#039;équilibre chimique et prévoir l&#039;évolution d&#039;un système chimique (terminale)
+              <span class="fr-download__detail">PDF - 905.02 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Déterminer l&#039;état final d&#039;un système siège d&#039;une transformation (terminale) PDF - 547.11 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychitaux-avancement1308647pdf-82452.pdf" class="fr-download__link">
+                    Déterminer l&#039;état final d&#039;un système siège d&#039;une transformation (terminale)
+              <span class="fr-download__detail">PDF - 547.11 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Construire un diagramme de distribution (terminale) PDF - 354.17 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychidiagramme-distribution1308645pdf-82455.pdf" class="fr-download__link">
+                    Construire un diagramme de distribution (terminale)
+              <span class="fr-download__detail">PDF - 354.17 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Utiliser une banque de réactions en chimie organique (terminale) PDF - 313.37 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiutiliser-banque-reaction-chimie-organiquepdf-68955.pdf" class="fr-download__link">
+                    Utiliser une banque de réactions en chimie organique (terminale)
+              <span class="fr-download__detail">PDF - 313.37 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>Mouvement et interactions</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Conceptions initiales en mécanique PDF - 311.87 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1-tphychiconceptions-initiales-mecanique1192199pdf-82458.pdf" class="fr-download__link">
+                    Conceptions initiales en mécanique
+              <span class="fr-download__detail">PDF - 311.87 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Enseignement de la relation de Bernoulli aspects didactiques PDF - 628.45 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychididactique-relation-bernoulli1313077pdf-82461.pdf" class="fr-download__link">
+                    Enseignement de la relation de Bernoulli aspects didactiques
+              <span class="fr-download__detail">PDF - 628.45 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Histoire des sciences - Construction historique d&#039;un modèle en mécanique des fluides PDF - 485.69 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychihistoire-sciences-relation-bernoulli1313078pdf-82464.pdf" class="fr-download__link">
+                    Histoire des sciences - Construction historique d&#039;un modèle en mécanique des fluides
+              <span class="fr-download__detail">PDF - 485.69 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>L'énergie : conversions et transferts</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="    L&#039;énergie : conversions et transferts - aspects énergétiques des phénomènes électriques (première générale) PDF - 1.54 Mo- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceeg1phychienergie-conversions-transfertsaspects-energetiques-phenomenes-electriques1172335pdf-82467.pdf" class="fr-download__link">
+                        L&#039;énergie : conversions et transferts - aspects énergétiques des phénomènes électriques (première générale)
+              <span class="fr-download__detail">PDF - 1.54 Mo</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>Ondes et signaux</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Conceptions initiales sur la formation des images PDF - 517.04 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1-tphychiconceptions-initiales-formation-images1192198pdf-82470.pdf" class="fr-download__link">
+                    Conceptions initiales sur la formation des images
+              <span class="fr-download__detail">PDF - 517.04 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="L&#039;électricité dans les programmes PDF - 135.77 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2-1phychielectricitenouveaux-programmes-lycee1161321pdf-82473.pdf" class="fr-download__link">
+                    L&#039;électricité dans les programmes
+              <span class="fr-download__detail">PDF - 135.77 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Signaux électriques en classe de seconde PDF - 1011.89 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra19lyceegt2phychiressources-electricite1161322pdf-82476.pdf" class="fr-download__link">
+                    Signaux électriques en classe de seconde
+              <span class="fr-download__detail">PDF - 1011.89 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>Activités expérimentales avec un smartphone</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="En avant la musique ! PDF - 806.26 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegttphychiactivite-smartphone-musique1323582pdf-82479.pdf" class="fr-download__link">
+                    En avant la musique !
+              <span class="fr-download__detail">PDF - 806.26 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Et bien chantez maintenant ! PDF - 1.36 Mo- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegt2phychiactivite-smartphone-chantez-maintenant1323580pdf-82482.pdf" class="fr-download__link">
+                    Et bien chantez maintenant !
+              <span class="fr-download__detail">PDF - 1.36 Mo</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Illusion de mouvement PDF - 953.71 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegttphychiactivite-smartphone-illusionmouvement1323581pdf-82485.pdf" class="fr-download__link">
+                    Illusion de mouvement
+              <span class="fr-download__detail">PDF - 953.71 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Le bruit de la chute PDF - 511.02 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegt2-tphychiactivite-smartphone-bruit-chute1323579pdf-82488.pdf" class="fr-download__link">
+                    Le bruit de la chute
+              <span class="fr-download__detail">PDF - 511.02 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="À travers la matière PDF - 897.1 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiactivite-smartphone-travers-matiere1323592pdf-82491.pdf" class="fr-download__link">
+                    À travers la matière
+              <span class="fr-download__detail">PDF - 897.1 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Tournez manège ! PDF - 994.57 Ko- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiactivite-smartphone-tournez-manege1323591pdf-82494.pdf" class="fr-download__link">
+                    Tournez manège !
+              <span class="fr-download__detail">PDF - 994.57 Ko</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Quand Galilée lâche son smartphone PDF - 1.34 Mo- nouvelle fenêtre" href="/sites/default/files/document/ra20lyceegtphychiactivite-smartphone-galilee1323590pdf-82497.pdf" class="fr-download__link">
+                    Quand Galilée lâche son smartphone
+              <span class="fr-download__detail">PDF - 1.34 Mo</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w">Volumes horaires d'enseignement</h2><p>L'horaire élève pour l'<strong>enseignement de tronc commun</strong> de physique-chimie est de 3h en seconde générale et technologique.</p><p>L'horaire élève pour l'<strong>enseignement de spécialité</strong> de physique-chimie est de 4h en première générale et de 6h en terminale générale.</p>
+
+  </div>
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w">Autres programmes et ressources en physique-chimie</h2>
+
+  </div>
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h3 class="fr-mt-3w">La physique-chimie dans les séries technologiques</h3>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:tile_group" class="fr-tiles-group" data-orientation="horizontal">
+    
+      <div class="fr-grid-row fr-grid-row--gutters" role="list">
+                                              <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Programmes et ressources en série STD2A" href="/5850/programmes-et-ressources-en-serie-std2a">
+  Programmes et ressources en série STD2A
+</a>
+
+              </h3>
+    </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Programmes et ressources en série STI2D" href="/5856/programmes-et-ressources-en-serie-sti2d">
+  Programmes et ressources en série STI2D
+</a>
+
+              </h3>
+    </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Programmes et ressources en série STL" href="/5859/programmes-et-ressources-en-serie-stl">
+  Programmes et ressources en série STL
+</a>
+
+              </h3>
+    </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                                                                                <div class="fr-col-12 fr-col-md-12" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Programmes et ressources en série ST2S" href="/5847/programmes-et-ressources-en-serie-st2s">
+  Programmes et ressources en série ST2S
+</a>
+
+              </h3>
+    </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                                </div>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h3 class="fr-mt-3w">À consulter sur éduscol</h3>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:tile_group" class="fr-tiles-group" data-orientation="horizontal">
+    
+      <div class="fr-grid-row fr-grid-row--gutters" role="list">
+                                              <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Programmes et ressources en sciences de l&#039;ingénieur - voie GT" href="/5832/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt">
+  Programmes et ressources en sciences de l&#039;ingénieur - voie GT
+</a>
+
+              </h3>
+    </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Programmes et ressources en enseignement scientifique - voie G" href="/5790/programmes-et-ressources-en-enseignement-scientifique-voie-g">
+  Programmes et ressources en enseignement scientifique - voie G
+</a>
+
+              </h3>
+    </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Recherche et innovation pour l&#039;enseignement des sciences physiques" href="/6528/recherche-et-innovation-pour-l-enseignement-des-sciences-physiques">
+  Recherche et innovation pour l&#039;enseignement des sciences physiques
+</a>
+
+              </h3>
+    </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                                                                <div class="fr-col-12 fr-col-md-6" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Physique-Chimie" href="/4533/physique-chimie">
+  Physique-Chimie
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>Actualités et accès à toutes les informations de la discipline.</p>
+                      </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-6" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="CSTI" href="/6937/culture-scientifique-technique-et-industrielle-csti">
+  CSTI
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>Culture scientifique, technique et industrielle</p>
+                      </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                                                </div>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h3 class="fr-mt-3w">Sites partenaires</h3>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:tile_group" class="fr-tiles-group" data-orientation="vertical">
+    
+      <div class="fr-grid-row fr-grid-row--gutters" role="list">
+                                              <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+            
+  
+        
+  
+
+<a class="fr-tile__link" data-component-id="ui_suite_dsfr:link" rel="noopener" target="_blank" title="CultureSciences-Chimie - nouvelle fenêtre" href="https://culturesciences.chimie.ens.fr/">
+  CultureSciences-Chimie
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>Des ressources pour enseigner la chimie sur le site ENS-PSL.</p>
+                      </div>
+      </div>
+      <div class="fr-tile__header">
+      <div class="fr-tile__pictogram fr-image-size">
+          
+
+<img class="fr-responsive-img"  loading="lazy" class="no-image-style" src="/sites/default/files/2025-10/self-training-1.svg" alt="" />
+
+
+
+      </div>
+    </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+            
+  
+        
+  
+
+<a class="fr-tile__link" data-component-id="ui_suite_dsfr:link" rel="noopener" target="_blank" title="CultureSciences-Physique - nouvelle fenêtre" href="https://culturesciencesphysique.ens-lyon.fr/">
+  CultureSciences-Physique
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>Des ressources pour enseigner la physique sur le site ENS de Lyon.</p>
+                      </div>
+      </div>
+      <div class="fr-tile__header">
+      <div class="fr-tile__pictogram fr-image-size">
+          
+
+<img class="fr-responsive-img"  loading="lazy" class="no-image-style" src="/sites/default/files/2025-10/self-training-1.svg" alt="" />
+
+
+
+      </div>
+    </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+            
+  
+        
+  
+
+<a class="fr-tile__link" data-component-id="ui_suite_dsfr:link" rel="noopener" target="_blank" title="STL - nouvelle fenêtre" href="https://spcl.ac-montpellier.fr/moodle/">
+  STL
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>Les collections numériques de sciences physiques et chimiques en laboratoire.</p>
+                      </div>
+      </div>
+      <div class="fr-tile__header">
+      <div class="fr-tile__pictogram fr-image-size">
+          
+
+<img class="fr-responsive-img"  loading="lazy" class="no-image-style" src="/sites/default/files/2025-10/self-training-1.svg" alt="" />
+
+
+
+      </div>
+    </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                                        </div>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+            </div>
+                    </div>
+    </div>
+
+
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <ul  class="fr-grid-row--center fr-badges-group" data-component-id="ui_suite_dsfr:badge_group">
+              <li>
+
+  
+    <p class="fr-m-1w fr-tag" data-component-id="eduscol_dsfr:tag_dsfr">
+
+    physique-chimie (discipline)
+  </p>
+    </li>
+          <li>
+
+  
+    <p class="fr-m-1w fr-tag" data-component-id="eduscol_dsfr:tag_dsfr">
+
+    physique-chimie (lycée GT)
+  </p>
+    </li>
+      </ul>
+
+
+<div class="fr-mt-6w">
+
+
+
+    <div class="fr-grid-row--center fr-share eduscol-share" data-component-id="eduscol_dsfr:share">
+      <div class="fr-share__title"><p>Partager la page</p></div>
+      <ul class="fr-btns-group">
+
+      
+                
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Feduscol.education.gouv.fr%2F5829%2Fprogrammes-et-ressources-en-physique-chimie-voie-gt" title="Partager via Facebook - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020via\u0020Facebook&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--facebook">
+    Partager via Facebook
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Feduscol.education.gouv.fr%2F5829%2Fprogrammes-et-ressources-en-physique-chimie-voie-gt via @Eduscol&amp;text=Programmes%20et%20ressources%20en%20physique-chimie%20-%20voie%20GT" title="Partager via X - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020via\u0020X&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--twitter-x">
+    Partager via X
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://bsky.app/intent/compose?&amp;text=Programmes%20et%20ressources%20en%20physique-chimie%20-%20voie%20GT https%3A%2F%2Feduscol.education.gouv.fr%2F5829%2Fprogrammes-et-ressources-en-physique-chimie-voie-gt via @Eduscol" title="Partager via Bluesky - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020via\u0020Bluesky&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--bluesky">
+    Partager via Bluesky
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Feduscol.education.gouv.fr%2F5829%2Fprogrammes-et-ressources-en-physique-chimie-voie-gt&amp;text=Programmes%20et%20ressources%20en%20physique-chimie%20-%20voie%20GT via @Eduscol" title="Partager via LinkedIn - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020via\u0020LinkedIn&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--linkedin">
+    Partager via LinkedIn
+  </a>
+
+          </li>
+        
+                  <li>
+                                                <a class="fr-btn fr-btn--mail" href="/cdn-cgi/l/email-protection#e2dd91978088878196dfb283909683858790c7d0d28e83c7d0d292838587c7d1a3c7d0d2b2908d8590838f8f8791c7d0d28796c7d0d2908791918d9790818791c7d0d2878cc7d0d2928a9b918b939787cf818a8b8f8b87c7d0d2cfc7d0d2948d8b87c7d0d2a5b6c4838f92d9808d869bdfb2908d8590838f8f8791c7d0d28796c7d0d2908791918d9790818791c7d0d2878cc7d0d2928a9b918b939787cf818a8b8f8b87c7d0d2cfc7d0d2948d8b87c7d0d2a5b6c7d0d28a96969291c7d1a3c7d0a4c7d0a487869791818d8ecc8786978183968b8d8ccc858d9794cc8490c7d0a4d7dad0dbc7d0a492908d8590838f8f8791cf8796cf908791918d9790818791cf878ccf928a9b918b939787cf818a8b8f8b87cf948d8b87cf8596" target="_blank" rel="noopener external" title="Partager par email - nouvelle fenêtre">
+              Partager par email
+            </a>
+          </li>
+        
+                  <li>
+                                    <button title="Copier le lien" onclick="navigator.clipboard.writeText(window.location);alert(&#039;Adresse\u0020de\u0020la\u0020page\u0020copi\u00E9e\u0020dans\u0020le\u0020presse\u002Dpapiers.&#039;);" class="fr-btn fr-btn--copy" type="button">
+              Copier le lien
+            </button>
+          </li>
+              
+      
+    </ul>
+
+
+  </div>
+  
+
+
+</div>
+
+    </div>
+  </div>
+</div>
+
+  <div class="fr-background-contrast--blue-france fr-pb-5v fr-pt-5v rebound-block fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      <div class="fr-container">
+
+
+
+    <h3>Sur le même thème</h3>
+
+
+</div>
+
+
+
+  
+    
+<div class="fr-container">
+  <div data-component-id="tandem_dsfr:grid_row" class="fr-grid-row fr-grid-row--gutters" role="list" >
+            <div role="listitem" class="fr-col fr-col-12 fr-col-lg-4" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+  
+    <a href='https://eduscol.education.gouv.fr/4368/enseigner-au-lycee-generaltechnologique'>Enseigner au lycée général/technologique</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Pour chaque enseignement, vous trouverez des liens vers des pages qui présentent les programmes du lycée général et technologique et des ressources…</p>
+
+
+</div>                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_7_0.jpg.webp?h=7aa4a78d&amp;itok=baOJ5Aza" width="690" height="388" alt="" />
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12 fr-col-lg-4" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+  
+    <a href='https://eduscol.education.gouv.fr/4530/lycee-general'>Lycée général</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>La voie générale prépare en deux ans les lycéens au baccalauréat général et à la poursuite d&#039;études supérieures. Elle est précédée du cycle de…</p>
+
+
+</div>                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_952x45328_organisation-lycee-general_0.png.webp?h=517a7733&amp;itok=WuR8W7c6" width="690" height="388" alt="" />
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12 fr-col-lg-4" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+  
+    <a href='https://eduscol.education.gouv.fr/4566/lycee-technologique'>Lycée technologique</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>À l&#039;issue d&#039;une seconde générale et technologique, les élèves peuvent s&#039;orienter dans l&#039;une des séries de la voie technologique. Après le…</p>
+
+
+</div>                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_952x45346_organisation-lycee-techno_0.png.webp?h=517a7733&amp;itok=GAGOw0wy" width="690" height="388" alt="" />
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12 fr-col-lg-4" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+  
+    <a href='https://eduscol.education.gouv.fr/4551/baccalaureat-general'>Baccalauréat général</a>
+
+
+
+      </h3>
+                            </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_1094_0.jpg.webp?h=706e16be&amp;itok=Qp8GwEdQ" width="690" height="388" alt="" />
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12 fr-col-lg-4" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+  
+    <a href='https://eduscol.education.gouv.fr/4539/baccalaureat-technologique'>Baccalauréat technologique</a>
+
+
+
+      </h3>
+                            </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_952x45344_baccalaureat-technologique_0.png.webp?h=517a7733&amp;itok=x9pkEhsI" width="690" height="388" alt="" />
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+      </div>
+</div>
+
+
+
+    </div>
+  </div>
+
+    </div>
+    <div class="fr-py-3w page-to-top">
+        <div class="fr-container">
+          <a class="fr-link fr-icon-arrow-up-fill fr-link--icon-left btn-to-top" href="#top">Haut de page</a>
+        </div>
+    </div>
+</article>
+
+
+</div>
+
+  </div>
+
+      </div>
+
+      
+          </div>
+
+  </main>
+    <div>
+    <div id="block-eduscol-dsfr-newsletterfollowus">
+
+
+
+        <div data-component-id="eduscol_dsfr:follow" class="fr-follow">
+    <div class="fr-container">
+      <div class="fr-grid-row">
+                                          <div class="fr-col-12">
+            <div class="fr-follow__social">
+              <h2 class="fr-h5">Suivez nous sur les réseaux sociaux</h2>
+              <ul class="fr-btns-group fr-btns-group--lg">
+                                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--facebook fr-btn fr-link" target="_blank" title="Suivez-nous sur Facebook - Ouverture dans une nouvelle fenêtre" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.facebook.com/eduscol/">
+  Facebook
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--twitter-x fr-btn fr-link" target="_blank" title="Suivez-nous sur X (anciennement Twitter) - Ouverture dans une nouvelle fenêtre" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://twitter.com/Eduscol?s=20">
+  X (ex-Twitter)
+</a>
+
+                  </li>
+                              </ul>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+
+
+</div>
+
+  </div>
+
+    <div>
+    <div id="block-eduscol-dsfr-footereduscoldsfr">
+
+
+
+      
+<footer data-component-id="eduscol_dsfr:footer" class="fr-footer" role="contentinfo" id="footer">
+            <div class="fr-footer__top">
+            <div class="fr-container">
+                <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
+                                            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                                                        <h3 class="fr-footer__top-cat">Sites Éducation </h3>
+                            <ul class="fr-footer__top-list">
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.france-education-international.fr/">France Éducation International</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.education.gouv.fr/">education.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.devenirenseignant.gouv.fr/">Devenir Enseignant</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.ih2ef.gouv.fr/">Institut des hautes études de l'éducation et de la formation</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.enseignementsup-recherche.gouv.fr/fr">Enseignement supérieur, Recherche et Innovation</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="http://www.onisep.fr/">Onisep</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.cned.fr/">Cned</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.reseau-canope.fr/">Réseau Canopé</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.clemi.fr/">CLEMI</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.education.gouv.fr/les-regions-academiques-academies-et-services-departementaux-de-l-education-nationale-6557">Sites académiques</a></li>
+                                                            </ul>
+                        </div>
+                                            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                                                        <h3 class="fr-footer__top-cat">Sites de formation et thématiques</h3>
+                            <ul class="fr-footer__top-list">
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://culturesciences.chimie.ens.fr/">CultureSciences-Chimie</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://cle.ens-lyon.fr/">La Clé des langues</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://eduscol.education.fr/sti/si-ens-paris-saclay">Culture sciences de l'ingénieur</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://planet-terre.ens-lyon.fr/">Planet-Terre</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://culturesciencesphysique.ens-lyon.fr/">CultureSciences-physique</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://planet-vie.ens.fr/">Planet-Vie</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://ehne.fr/fr">Encyclopédie d'histoire numérique de l'Europe</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://ses.ens-lyon.fr/">Sciences économiques et sociales</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="http://geoconfluences.ens-lyon.fr/">Géoconfluences</a></li>
+                                                                                                                                                                                                                    <li><a data-drupal-active-trail="false" class="fr-footer__top-link" href="https://odysseum-biblissima.ens.psl.eu/">Odysseum</a></li>
+                                                            </ul>
+                        </div>
+                                            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                                                        <h3 class="fr-footer__top-cat">Sites publics</h3>
+                            <ul class="fr-footer__top-list">
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.elysee.fr/">Élysée.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.data.gouv.fr/">Data.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.info.gouv.fr/">Gouvernement.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.legifrance.gouv.fr/">Legifrance.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.service-public.gouv.fr/">Service-public.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.jeunes.gouv.fr/">Jeunes.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.sports.gouv.fr/">Sports.gouv.fr</a></li>
+                                                            </ul>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="fr-container">
+        <div class="fr-footer__body">
+            <div class="fr-footer__brand fr-enlarge-link">
+
+                
+                                    <a href="/" title="Retour à l'accueil du site - Ministère de l'éducation nationale">
+                        <div class="fr-logo">
+                            <p>MINISTÈRE<br>DE L'ÉDUCATION<br>NATIONALE</p>
+                        </div>
+                    </a>
+                            </div>
+                            <div class="fr-footer__content">
+                                            <ul class="fr-footer__content-list">
+        
+                        
+            <li class="fr-footer__content-item">
+                                                
+                                    
+                                                                
+                    <a target="_blank" data-drupal-active-trail="false" class="fr-footer__content-link" href="https://data.gouv.fr/" title="data.gouv.fr - nouvelle fenêtre">
+                        data.gouv.fr
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__content-item">
+                                                
+                                    
+                                                                
+                    <a target="_blank" data-drupal-active-trail="false" class="fr-footer__content-link" href="https://legifrance.gouv.fr/" title="legifrance.gouv.fr - nouvelle fenêtre">
+                        legifrance.gouv.fr
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__content-item">
+                                                
+                                    
+                                                                
+                    <a target="_blank" data-drupal-active-trail="false" class="fr-footer__content-link" href="https://service-public.gouv.fr/" title="service-public.gouv.fr - nouvelle fenêtre">
+                        service-public.gouv.fr
+                    </a>
+                            </li>
+            </ul>
+
+                </div>
+                    </div>
+        
+                    <div class="fr-footer__bottom">
+                    <ul class="fr-footer__bottom-list">
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="node/4656" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4656/mentions-legales">
+                        Mentions légales
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="node/4650" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4650/donnees-personnelles-et-cookies">
+                        Données personnelles et cookies
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="#tarteaucitron">
+                        Gestion des cookies
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="node/4644" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4644/accessibilite-du-site-eduscol-et-des-sites-du-meme-domaine">
+                        Accessibilité : partiellement conforme
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4662/contact">
+                        Contact
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="plan-du-site" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/plan-du-site">
+                        Plan du site
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" title="deutsch" data-drupal-link-system-path="node/4632" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4632/das-schulwesen-frankreich">
+                        DE
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" title="english" data-drupal-link-system-path="node/4638" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4638/school-education-france">
+                        EN
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" title="Español" data-drupal-link-system-path="node/4635" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4635/la-educacion-escolar-en-francia">
+                        ES
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="node/4665" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4665/comprendre-l-espace-personnel-eduscol">
+                        Comprendre l'espace personnel éduscol
+                    </a>
+                            </li>
+            </ul>
+
+                                    <div class="fr-footer__bottom-copy">
+                        <div><p><span>Sauf cas particuliers indiqués dans les mentions légales, les contenus de ce site sont sous </span><a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank" rel="noopener external" title="licence etalab-2.0 - nouvelle fenêtre" class="fr-link"><span>licence etalab-2.0</span></a><span>.</span></p></div>
+                    </div>
+                            </div>
+            </div>
+</footer>
+
+
+
+</div>
+
+  </div>
+
+</div>
+
+  </div>
+
+  
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/5829","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"matomo":{"disableCookies":false,"trackColorbox":false,"trackMailto":true},"tandem_gdpr":{"dialog":{"privacyUrl":"","hashtag":"tarteaucitron","cookieName":"tarteaucitron","orientation":"bottom","showAlertSmall":0,"cookieslist":1,"adblocker":0,"AcceptAllCta":1,"highPrivacy":1,"handleBrowserDNTRequest":0,"removeCredit":1,"moreInfoLink":1,"useExternalCss":1,"cookieDomain":"","readmoreLink":"\/cookiespolicy","privacyurl":null},"services":{"aduptech_ads":0,"aduptech_conversion":0,"aduptech_retargeting":0,"amazon":0,"clicmanager":0,"criteo":0,"datingaffiliation":0,"datingaffiliationpopup":0,"ferankpub":0,"adsense":0,"googlepartners":0,"adsensesearchform":0,"adsensesearchresult":0,"googleadwordsconversion":0,"googleadwordsremarketing":0,"prelinker":0,"pubdirecte":0,"shareasale":0,"twenga":0,"vshop":0,"facebookpixel":0,"bingads":0,"adform":0,"activecampaign":0,"alexa":0,"clicky":0,"crazyegg":0,"leadforensics":0,"etracker":"","ferank":0,"getplus":0,"gajs":0,"analytics":0,"gtag":0,"hubspot":0,"mautic":0,"microsoftcampaignanalytics":0,"statcounter":0,"visualrevenue":0,"wysistat":"","xiti":0,"atinternet":0,"xiti_smarttag":0,"webmecanik":0,"multiplegtag":0,"koban":0,"matomo":0,"hotjar":0,"getquanty":0,"emolytics":0,"googlemaps":0,"googlemapssearch":0,"googlemapsembed":0,"googletagmanager":0,"jsapi":0,"twitterwidgetsapi":0,"recaptcha":0,"timelinejs":0,"tagcommander":0,"typekit":0,"disqus":0,"facebookcomment":0,"iframe":0,"issuu":0,"matterport":0,"addthis":0,"addtoanyfeed":0,"addtoanyshare":0,"ekomi":0,"facebook":1,"facebooklikebox":0,"gplus":0,"gplusbadge":0,"linkedin":0,"pinterest":0,"shareaholic":0,"sharethis":0,"twitter":0,"twitterembed":0,"twittertimeline":0,"purechat":0,"uservoice":0,"zopim":0,"tawkto":0,"calameo":0,"dailymotion":0,"prezi":0,"slideshare":0,"vimeo":0,"youtube":0,"youtubeplaylist":0,"youtubeapi":0,"dailymotion_custom":1,"youtube_custom":1,"vimeo_custom":1,"addthis_custom":1,"instagram":0,"instagram_custom":0,"facebookapi":0,"_core":null,"youtube_playlist_custom":0,"twitter_widget_custom":0,"twittertimeline_custom":1,"soundcloud_custom":1,"flickr_custom":0,"atinternet_custom":0,"langcode":null,"player_ina":0,"web_tv_versailles":0,"canal_u":0,"framatube":0,"matomocloud":1,"euleriancnilexemption":1,"eulerian":1,"podeduc_custom":0},"user":{"bypass":"","actid":"","adformpm":"","adformpagename":"","bingadsTag":"","bingadsID":"","adsensesearchresultCx":"","adwordsconversionId":"","adwordsconversionLabel":"","adwordsconversionLanguage":"","adwordsconversionFormat":"","adwordsconversionColor":"","adwordsconversionValue":"","adwordsconversionCurrency":"","adwordsconversionCustom1":"","adwordsconversionCustom2":"","adwordsremarketingId":"","twengaId":"","twengaLocale":"","googlemapsKey":"","mapscallback":"","googlemapsLibraries":"","googletagmanagerId":"","tagcommanderid":"","typekitId":"","alexaAccountID":"","atLibUrl":"","atMore":"","xitiId":"","xitiMore":"","clickyId":"","clickyMore":"","crazyeggId":"","etracker":"","getplusId":"","getguanty":"","gajsUa":"","gajsMore":"","gtagUa":"","gtagMore":"","multiplegtagUa":"","analyticsUa":"","analyticsMore":"","hotjarId":"","HotjarSv":"","hubspotId":"","kobanurl":"","kobanapi":"","matomoId":"","matomoHost":"","mauticurl":"","microsoftcampaignanalyticsUUID":"","microsoftcampaignanalyticsdomaineId":"","microsoftcampaignanalyticsactionId":"","visualrevenueId":"","webmecanikurl":"","wysistat":"","disqusShortname":"","addthisPubId":"","addtoanyfeedUri":"","addtoanyfeedSubscribeLink":"","ekomiCertId":"","facebookpixelId":"","facebookpixelMore":"","shareaholicSiteId":"","sharethisPublisher":"","purechatId":"","tawktoId":"","userVoiceApi":"","zopimID":"","leadforensicsSf14gv":"","leadforensicsIidentifier":"","ferankMore":"","gajsAnonymizeIp":"","gajsPageView":"","analyticsUaCreate":"","analyticsAnonymizeIp":"","analyticsPrepare":"","analyticsPageView":"","recaptchaOnLoad":"","microsoftcampaignanalyticsdomainId":"","xiti_smarttagLocalPath":"","xiti_smarttagSiteId":"","bingadsStoreCookies":"","emolyticsID":"","InstaId":"","AddthisText":"","AddthisTextarea":"","facebookapi1":"","FacebbokTextarea":"","microsoftcampaignanalyticsUUID ":"","atJsLibUrl":"https:\/\/tag.aticdn.net\/613449\/smarttag.js","atDescription":{"value":"\u003Cp\u003ESur le site \u003Ca href=\u0022https:\/\/eduscol.education.fr\u0022 target=\u0022_blank\u0022\u003Eeduscol.education.fr\u003C\/a\u003E, les solutions de mesure d\u2019audience d\u2019AT Internet ont \u00e9t\u00e9 param\u00e9tr\u00e9es pour s\u2019exempter de la demande de consentement de l\u2019internaute avant de d\u00e9poser le cookie Web Analytics. Le minist\u00e8re de l\u2019\u00e9ducation nationale et de la jeunesse s\u2019engage \u00e0 respecter les \u003Ca href=\u0022https:\/\/www.cnil.fr\/sites\/default\/files\/atoms\/files\/conformite_des_solutions_at_internet_-_cnil.pdf\u0022 target=\u0022_blank\u0022\u003Er\u00e8gles de l\u0027autorit\u00e9 fran\u00e7aise de protection des donn\u00e9es (CNIL)\u003C\/a\u003E permettant de b\u00e9n\u00e9ficier de cette exemption. L\u2018outil de mesure d\u2019audience AT Internet est donc dispens\u00e9 par d\u00e9faut du recueil du consentement de l\u0027internaute, qui peut \u00e0 tout moment modifier ce param\u00e8tre en cliquant sur \u00ab\u0026nbsp;Interdire\u0026nbsp;\u00bb.\u003C\/p\u003E","format":"full_html"},"description":"","eulerianHost":"vnyi.eduscol.education.gouv.fr"},"texts":{"adblock":"Hello! This site is transparent and lets you chose the 3rd party services you want to allow. ","adblock_call":"Please disable your adblocker to start customizing.","reload":"Refresh the page","alertBigScroll":"By continuing to scroll,","alertBigClick":"If you continue to browse this website,","alertBig":"you are allowing all third-party services","alertBigPrivacy":"Le minist\u00e8re charg\u00e9 de l\u0027\u00e9ducation nationale veille \u00e0 prot\u00e9ger vos donn\u00e9es personnelles. Ce site utilise des cookies afin de mieux vous informer et de vous proposer des vid\u00e9os, des fonctionnalit\u00e9s de partage et des contenus anim\u00e9s optimis\u00e9s pour le web. Pour vous assurer une exp\u00e9rience de navigation optimale, vous avez la possibilit\u00e9 d\u2019accepter l\u2019activation de tous les cookies. ","alertSmall":"G\u00e9rer les services","personalize":"Personnaliser","acceptAll":"Tout autoriser","close":"Fermer","privacyUrl":"Politique de confidentialit\u00e9","all":"Pr\u00e9f\u00e9rence pour tous les services","info":"Protecting your privacy","disclaimer":"Le minist\u00e8re charg\u00e9 de l\u0027\u00e9ducation nationale s\u2019engage \u00e0 traiter vos donn\u00e9es \u00e0 caract\u00e8re personnel dans le respect de la loi n\u00b0 78-17 du 6 janvier 1978 modifi\u00e9e relative \u00e0 l\u0027informatique, aux fichiers et aux libert\u00e9s et du RGPD.. \u003Cbr \/\u003E\r\n\r\nNous sommes particuli\u00e8rement attentifs \u00e0 la protection des donn\u00e9es personnelles et nous veillons  \u00e0 ce que la collecte de vos donn\u00e9es soit r\u00e9duite au strict n\u00e9cessaire. \u003Cbr \/\u003E\r\n\r\nLe site \u003Ca href=\u0022https:\/\/eduscol.education.fr\u0022\u003Eeduscol.education.fr\u003C\/a\u003E utilise les outils de mesure d\u2019audience Eulerian et Matomo pour comprendre le parcours de navigation des utilisateurs afin de vous fournir la meilleure information possible et d\u2019enrichir votre parcours. Eulerian est dispens\u00e9 du recueil du consentement de l\u0027internaute relatif au d\u00e9p\u00f4t des cookies analytics, l\u0027autorit\u00e9 fran\u00e7aise de protection des donn\u00e9es (CNIL) ayant accord\u00e9 une exemption au cookie Web Analytics d\u0027Eulerian (\u003Ca href=\u0022https:\/\/www.cnil.fr\/fr\/solutions-pour-les-cookies-de-mesure-daudience\u0022 target=\u0022_blank\u0022\u003Een savoir plus\u003C\/a\u003E).\u003Cbr \/\u003EMatomo est dispens\u00e9 du recueil du consentement de l\u0027internaute relatif au d\u00e9p\u00f4t des cookies analytics, l\u0027autorit\u00e9 fran\u00e7aise de protection des donn\u00e9es (CNIL) ayant accord\u00e9 une exemption au cookie Web Analytics de Matomo (\u003Ca href=\u0022https:\/\/www.cnil.fr\/fr\/solutions-pour-les-cookies-de-mesure-daudience\u0022 target=\u0022_blank\u0022\u003Een savoir plus\u003C\/a\u003E).\r\nVous pouvez \u00e0 tout moment vous opposer \u00e0 leur utilisation dans la section ci-dessous d\u00e9di\u00e9e \u00e0 la mesure d\u2019audience.\u003Cbr \/\u003E\r\nCertaines fonctionnalit\u00e9s du site (partage de contenus sur les r\u00e9seaux sociaux, lecteurs vid\u00e9os, contenus interactifs) font par ailleurs appel \u00e0 des services propos\u00e9s par des tiers. Ces fonctionnalit\u00e9s d\u00e9posent des cookies leur permettant d\u2019identifier les sites que vous consultez et les contenus auxquels vous vous int\u00e9ressez. Ces cookies ne sont d\u00e9pos\u00e9s que si vous donnez votre accord. Vous pouvez ci-dessous vous informer sur la nature de chacun des cookies d\u00e9pos\u00e9s, les accepter ou les refuser \u00e0 tout moment. Ce choix est possible soit globalement pour l\u2019ensemble du site et l\u2019ensemble des services, soit service par service.\r\n\u003Cbr\/\u003E\r\n\r\n\u003Ca href=\u0022\/2349\/donnees-personnelles-et-cookies\u0022\u003ES\u2019informer sur les cookies et donn\u00e9es personnelles du site eduscol.education.fr, contacter ou exercer vos droits aupr\u00e8s du d\u00e9l\u00e9gu\u00e9 \u00e0 la protection des donn\u00e9es\u003C\/a\u003E","allow":"Autoriser","deny":"Interdire","noCookie":"Ce service n\u0027utilise pas de cookie.","useCookie":"Ce service peut installer","useCookieCurrent":"Ce service a install\u00e9","useNoCookie":"Ce service n\u0027a pas install\u00e9 de cookie.","more":"","source":"Voir le site","credit":"Cookies manager by tarteaucitron.js","toggleInfoBox":"Show\/hide informations about cookie storage","title":"Gestion de vos pr\u00e9f\u00e9rences sur les cookies","cookieDetail":"Cookie detail for","ourSite":"sur notre site","newWindow":"(nouvelle fen\u00eatre)","allowAll":"Tout autoriser","denyAll":"Tout interdire","fallback":"est d\u00e9sactiv\u00e9.","ads_title":"Advertising network","ads_details":"Ad networks can generate revenue by selling advertising space on the site.","analytic_title":"Audience measurement","analytic_details":"The audience measurement services used to generate useful statistics attendance to improve the site.","social_title":"Social networks","social_details":"Social networks can improve the usability of the site and help to promote it via the shares.","video_title":"Videos","video_details":"Video sharing services help to add rich media on the site and increase its visibility.","comment_title":"Comments","comment_details":"Comments managers facilitate the filing of comments and fight against spam.","support_title":"Support","support_details":"Support services allow you to get in touch with the site team and help to improve it.","api_title":"APIs","api_details":"APIs are used to load scripts, geolocation, search engines, translations, ...","other_title":"Other","other_details":"Services to display web content.","other":{"details":"","details_format":"simple_html","title":""},"social":{"details":"\u003Cp\u003ELes r\u00e9seaux sociaux permettent d\u0027am\u00e9liorer la convivialit\u00e9 du site et aident \u00e0 sa promotion via les partages.\u003C\/p\u003E","details_format":"simple_html","title":""},"ads":{"details":"","details_format":"simple_html","title":""},"analytic":{"details":"\u003Cp\u003ELes services de mesure d\u0027audience permettent de g\u00e9n\u00e9rer des statistiques de fr\u00e9quentation utiles \u00e0 l\u0027am\u00e9lioration du site. Les donn\u00e9es collect\u00e9es permettent de fournir uniquement des donn\u00e9es statistiques anonymes de fr\u00e9quentation (le nombre de pages vues, le nombre de visites, leur fr\u00e9quence de retour, ...).\u003C\/p\u003E","details_format":"simple_html","title":"Mesure d\u0027audience"},"video":{"details":"\u003Cp\u003ELes services de partage de vid\u00e9o permettent d\u0027enrichir le site de contenu multim\u00e9dia et augmentent sa visibilit\u00e9.\u003C\/p\u003E","details_format":"simple_html","title":"Vid\u00e9os"},"comment":{"details":"","details_format":"simple_html","title":""},"api":{"details":"","details_format":"simple_html","title":""},"support":{"details":"","details_format":"simple_html","title":""}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"fr-container eduscol-ckeditor fr-mb-5w","show_empty_fields":false,"id":"","label_as_html":false,"element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"ajaxTrustedUrl":{"\/search\/node":true},"tandem_gdpr_bo":{"instagram":{"name":"Instagram","type":"social"},"twitter":{"name":"Twitter","type":"social"},"vimeo":{"name":"Vimeo","type":"video"},"youtube":{"name":"Youtube","type":"video"},"dailymotion":{"name":"Dailymotion","type":"video"},"facebook":{"name":"Facebook","type":"social"},"addthis":{"name":"addThis","type":"social","additional_fields":[{"type":"textfield","id":"addthisPubId","name":"Your AddThis profile ID"}]},"facebookapi":{"name":"Facebook(API)","type":"social"},"adsensesearchresult":{"name":"Google Adsense Search (result)","type":"ads","additional_fields":[{"type":"textfield","id":"adsensesearchresultCx","name":"Your custom search engine ID"}]},"googleadwordsremarketing":{"name":"Google Adwords (remarketing)","type":"ads","additional_fields":[{"type":"textfield","id":"adwordsremarketingId","name":"Your Conversion ID"}]},"amazon":{"name":"Amazon","type":"ads"},"clicmanager":{"name":"Clicmanager","type":"ads"},"criteo":{"name":"Criteo","type":"ads"},"datingaffiliation":{"name":"Dating Affiliation","type":"ads"},"datingaffiliationpopup":{"name":"Dating Affiliation (Pop Up)","type":"ads"},"facebookpixel":{"name":"Facebook Pixel","type":"ads"},"ferankpub":{"name":"FERank (pub)","type":"ads"},"adsense":{"name":"Google Adsense","type":"ads"},"googlepartners":{"name":"Google Partners Badge","type":"ads"},"adsensesearchform":{"name":"Google Adsense Search (form)","type":"ads"},"aduptech_retargeting":{"name":"Ad Up Technology (retargeting)","type":"ads"},"googleadwordsconversion":{"name":"Google Adwords (conversion)","type":"ads","additional_fields":[{"type":"textfield","id":"adwordsconversionId","name":"Your Google Adwords ID"},{"type":"textfield","id":"adwordsconversionLabel","name":"Your Google Adwords label"},{"type":"textfield","id":"adwordsconversionLanguage","name":"Your Google Adwords language"},{"type":"textfield","id":"adwordsconversionFormat","name":"Your Google Adwords format"},{"type":"textfield","id":"adwordsconversionColor","name":"Your Google Adwords color"},{"type":"textfield","id":"adwordsconversionValue","name":"Your Google Adwords value"},{"type":"textfield","id":"adwordsconversionCurrency","name":"Your Google Adwords currency"},{"type":"textfield","id":"adwordsconversionCustom1","name":"Your Google Adwords parameter 1"},{"type":"textfield","id":"adwordsconversionCustom2","name":"Your Google Adwords parameter 2"}]},"aduptech_conversion":{"name":"Ad Up Technology (conversion)","type":"ads"},"aduptech_ads":{"name":"Ad Up Technology (ads)","type":"ads"},"prelinker":{"name":"Prelinker","type":"ads"},"activecampaign":{"name":"Active Campaign","type":"ads","additional_fields":[{"type":"textfield","id":"actid","name":"Your Active Campaign ID"}]},"pubdirecte":{"name":"Pubdirecte","type":"ads"},"adform":{"name":"Adform","type":"ads","additional_fields":[{"type":"textfield","id":"adformpm","name":"Tracking setup ID of Adform client"}]},"shareasale":{"name":"ShareASale","type":"ads"},"twenga":{"name":"Twenga","type":"ads","additional_fields":[{"type":"textfield","id":"twengaId","name":"Your Twenga ID"},{"type":"textfield","id":"twengaLocale","name":"Your Twenga JavaScript library Path"}]},"bingads":{"name":"Bing Ads Universal Event Tracking","type":"ads","additional_fields":[{"type":"textfield","id":"bingadsTag","name":"Your Bing Ads Universal Event Tracking Tag"},{"type":"textfield","id":"bingadsID","name":"Your Bing Ads Universal Event Tracking ID"},{"type":"textfield","id":"bingadsStoreCookies","name":"Your Bing Ads Universal Event Tracking Cookies"}]},"vshop":{"name":"vShop","type":"ads"},"leadforensics":{"name":"LeadForensics","type":"analytic","additional_fields":[{"type":"textfield","id":"leadforensicsSf14gv","name":"Your LeadForensics sf14gv"},{"type":"textfield","id":"leadforensicsIidentifier","name":"Your LeadForensics identifier"}]},"alexa":{"name":"Alexa","type":"analytic","additional_fields":[{"type":"textfield","id":"alexaAccountID","name":"Your Alexa ID"}]},"gajs":{"name":"Google Analytics (ga.js)","type":"analytic","additional_fields":[{"type":"textfield","id":"gajsUa","name":"Your Tracking ID"},{"type":"textfield","id":"gajsAnonymizeIp","name":"Your Google Analytics anonymize Ip"},{"type":"textarea","id":"gajsMore","name":"Your Google Analytics function"}]},"analytics":{"name":"Google Analytics (universal)","type":"analytic","additional_fields":[{"type":"textfield","id":"analyticsUa","name":"Your Tracking ID"},{"type":"textfield","id":"analyticsAnonymizeIp","name":"Your Google Analytics anonymize Ip"},{"type":"textfield","id":"analyticsPageView","name":"Your Google Analytics page view"},{"type":"textarea","id":"analyticsPrepare","name":"Your Google Analytics prepare function"},{"type":"textarea","id":"analyticsMore","name":"Your Google Analytics function"},{"type":"textarea","id":"analyticsUaCreate","name":"Your Google Analytics fields values"}]},"gtag":{"name":"Google Analytics (gtag.js)","type":"analytic","additional_fields":[{"type":"textfield","id":"gtagUa","name":"Your Tracking IDs"},{"type":"textarea","id":"gtagMore","name":"Your Google Analytics function"}]},"etracker":{"name":"eTracker","type":"analytic","additional_fields":[{"type":"textfield","id":"etracker"}]},"hubspot":{"name":"Hubspot","type":"analytic","additional_fields":[{"type":"textfield","id":"hubspotId","name":"Your Hubspot ID"}]},"mautic":{"name":"Mautic","type":"analytic","additional_fields":[{"type":"textfield","id":"mauticurl","name":"Your Mautic JavaScript library Path"}]},"microsoftcampaignanalytics":{"name":"Microsoft Campaign Analytics","type":"analytic","additional_fields":[{"type":"textfield","id":"microsoftcampaignanalyticsUUID ","name":"Your Microsoft Campaign Analytics UUID"},{"type":"textfield","id":"microsoftcampaignanalyticsdomainId","name":"Your Microsoft Campaign Analytics domain ID"},{"type":"textfield","id":"microsoftcampaignanalyticsactionId","name":"Your Microsoft Campaign Analytics action ID"}]},"atinternet":{"name":"AT Internet","type":"analytic","additional_fields":[{"type":"textfield","id":"atLibUrl","name":"Your AT Internet JavaScript library Path"}]},"googletagmanager":{"name":"Google Tag Manager","type":"api","additional_fields":[{"type":"textfield","id":"googletagmanagerId","name":"Your Google Tag Manager ID"}]},"googlemaps":{"name":"Google Maps","type":"api","additional_fields":[{"type":"textfield","id":"mapscallback","name":"Your Google Maps callback function name"},{"type":"textfield","id":"googlemapsLibraries","name":"Your Google Maps Libraries"},{"type":"textfield","id":"googlemapsKey","name":"Your Google Maps Key"}]},"jsapi":{"name":"Google jsapi","type":"api"},"twitterwidgetsapi":{"name":"Twitter Widgets API","type":"api"},"recaptcha":{"name":"reCAPTCHA","type":"api","additional_fields":[{"type":"textarea","id":"recaptchaOnLoad","name":"Your onload callback function"}]},"googlemapsembed":{"name":"Google Maps Embed","type":"api"},"facebookcomment":{"name":"Facebook (commentaire)","type":"comment"},"disqus":{"name":"Disqus","type":"comment","additional_fields":[{"type":"textfield","id":"disqusShortname","name":"Your Disqus shortname"}]},"matterport":{"name":"Matterport","type":"other"},"issuu":{"name":"Issuu","type":"other"},"iframe":{"name":"Web content","type":"other"},"twittertimeline":{"name":"Twitter (timelines)","type":"social"},"linkedin":{"name":"Linkedin","type":"social"},"gplus":{"name":"Google+","type":"social"},"sharethis":{"name":"ShareThis","type":"social"},"facebooklikebox":{"name":"Facebook (like box)","type":"social"},"pinterest":{"name":"Pinterest","type":"social"},"twitterembed":{"name":"Twitter (cards)","type":"social"},"slideshare":{"name":"SlideShare","type":"video"},"youtubeplaylist":{"name":"YouTube (playlist)","type":"video"},"prezi":{"name":"Prezi","type":"video"},"calameo":{"name":"Calameo","type":"video"},"youtubeapi":{"name":"Youtube (Js API)","type":"video"},"dailymotion_custom":{"name":"Dailymotion (custom)","type":"video"},"youtube_custom":{"name":"Youtube (custom)","type":"video"},"youtube_playlist_custom":{"name":"Youtube playlist (custom)","type":"video"},"vimeo_custom":{"name":"Vimeo (custom)","type":"video"},"podeduc_custom":{"name":"PodEduc (custom)","type":"video"},"twitter_widget_custom":{"name":"Twitter widget (custom)","type":"social"},"addthis_custom":{"name":"AddThis (custom)","type":"social"},"twittertimeline_custom":{"name":"Twittertimeline (custom)","type":"social"},"soundcloud_custom":{"name":"Soundcloud (custom)","type":"social"},"instagram_custom":{"name":"Instagram (custom)","type":"social"},"flickr_custom":{"name":"Flickr (custom)","type":"social"},"atinternet_custom":{"name":"AT Internet (custom)","type":"analytic","additional_fields":[{"type":"textfield","id":"atJsLibUrl","name":"Your AT Internet JavaScript library Path"},{"type":"textarea","id":"atDescription","name":"Description"}]},"purechat":{"name":"PureChat","type":"support"},"zopim":{"name":"Zopim","type":"support"},"_core":{"default_config_hash":"FH0P9x41AQRalS1PaDjJGKiMlJb9Hri40Hgrc9WUw2I"},"langcode":"fr","player_ina":{"name":"Player ina","type":"video"},"web_tv_versailles":{"name":"WebTV Versailles","type":"video"},"canal_u":{"name":"Canal-U","type":"video"},"framatube":{"name":"Framatube","type":"video"},"euleriancnilexemption":{"name":"Eulerian (exemption CNIL)","type":"analytic","additional_fields":[{"type":"textfield","id":"eulerianHost","name":"Eulerian Host (exemption CNIL)"}]},"eulerian":{"name":"Eulerian Analytics","type":"analytic"},"matomo":{"name":"Matomo ","type":"analytic","uri":"https:\/\/fr.matomo.org\/guide\/manage-matomo\/privacy\/"}},"mediaelement":{"attachSitewide":0},"user":{"uid":0,"permissionsHash":"18c0de90a0f7d905a34c1607be5c00f8969e004563a1e6906f31878004d8ac06"}}</script>
+<script src="/sites/default/files/js/js_m5_yuVJuBtsLWsUO0RczTsX-yUjbSEDMiIDCUA5tr2M.js?scope=footer&amp;delta=0&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJxdjFEOwzAIQy-ULkeKsoRmSAGqAB_d6ddq1ZTux1j2w0UGxCK0CQObPqC6Fump6jqWRZ0ojz0pViBgD-UPt8xHc9GGHVIb4luYZ2JxNaFftiJF5-z2koFvqGntuTXkFigfnMTvCdN2PCUho93S1uWZ-6K29_P9qlrdRpz8B_LOWZ4"></script>
+<script src="/libraries/dsfr/dist/dsfr.module.js?v=1.x" type="module"></script>
+<script src="/sites/default/files/js/js_SHoKaRP4d5h-T0i_tjf8tWC-9mzrWO2APZMGXbDwvDc.js?scope=footer&amp;delta=2&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJxdjFEOwzAIQy-ULkeKsoRmSAGqAB_d6ddq1ZTux1j2w0UGxCK0CQObPqC6Fump6jqWRZ0ojz0pViBgD-UPt8xHc9GGHVIb4luYZ2JxNaFftiJF5-z2koFvqGntuTXkFigfnMTvCdN2PCUho93S1uWZ-6K29_P9qlrdRpz8B_LOWZ4"></script>
+
+</body>
+</html>

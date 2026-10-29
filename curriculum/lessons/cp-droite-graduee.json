@@ -1,0 +1,95 @@
+{
+  "id": "cp-droite-graduee",
+  "title": "Placer des nombres sur une droite graduée",
+  "chapter_id": "cp-droite-graduee",
+  "program_id": "CP-mathematiques-commun",
+  "program_version": "cycle2-maths-2024-cp-v1",
+  "learning_objectives": [
+    "Lire des graduations consécutives.",
+    "Placer un nombre sur une demi-droite graduée de un en un.",
+    "Repérer le nombre juste avant ou juste après un nombre donné."
+  ],
+  "skill_ids": [
+    "cp-droite-graduee-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CP / Les nombres entiers, pages 3–4 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Une graduation, un pas",
+      "text": "Imagine une ligne qui commence à zéro. Les traits sont régulièrement espacés. Le premier trait est 0, puis viennent 1, 2, 3 et ainsi de suite. Entre deux traits voisins, on avance de un."
+    },
+    {
+      "title": "Placer le nombre demandé",
+      "text": "Pour placer 7 à partir de 5, avance de deux traits vers la droite : tu passes par 6, puis tu arrives à 7. Chaque trait compte, même si son nombre n’est pas écrit."
+    },
+    {
+      "title": "Retrouver une graduation manquante",
+      "text": "Dans la suite de graduations 28, 29, …, 31, le trait entre 29 et 31 correspond à 30. Tu peux compter à voix haute pour contrôler ta réponse."
+    }
+  ],
+  "revision_sheet": [
+    "Les graduations sont régulièrement espacées.",
+    "De un en un, le nombre augmente de 1 à chaque trait vers la droite.",
+    "Entre 29 et 31, on place 30."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel nombre manque : 28, 29, …, 31 ?",
+      "choices": [
+        "20",
+        "30",
+        "32"
+      ],
+      "correct_index": 1,
+      "explanation": "Les graduations vont de un en un : après 29 vient 30."
+    },
+    {
+      "prompt": "Tu pars de 5 et avances de deux graduations vers la droite. Où arrives-tu ?",
+      "choices": [
+        "7",
+        "3",
+        "10"
+      ],
+      "correct_index": 0,
+      "explanation": "Tu passes de 5 à 6, puis de 6 à 7."
+    },
+    {
+      "prompt": "Quel nombre se trouve juste avant 40 ?",
+      "choices": [
+        "41",
+        "30",
+        "39"
+      ],
+      "correct_index": 2,
+      "explanation": "Le nombre juste avant 40 est 39 : 39, 40, 41."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Trace des graduations régulières de 0 à 10 et place 6.",
+      "solution": "La graduation de 6 est six intervalles après celle de 0.",
+      "success_criterion": "Tracer des intervalles réguliers et placer 6 après 5 et avant 7."
+    },
+    {
+      "prompt": "Complète : 46, 47, …, 49, … .",
+      "solution": "46, 47, 48, 49, 50.",
+      "success_criterion": "Compléter avec 48 puis 50."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Trace cinq graduations consécutives en commençant à 18 et indique leurs nombres.",
+      "solution": "18, 19, 20, 21, 22.",
+      "success_criterion": "Garder les intervalles réguliers et ne sauter aucun nombre."
+    },
+    {
+      "prompt": "Sur une graduation de un en un, combien de pas séparent 32 de 35 ?",
+      "solution": "Trois pas : 32 → 33 → 34 → 35.",
+      "success_criterion": "Compter les trois intervalles, pas les quatre nombres."
+    }
+  ],
+  "audio_transcript": "Sur une droite graduée de un en un, chaque trait représente le nombre suivant. Les espaces entre les traits sont égaux. À partir de cinq, avance d’un trait pour arriver à six, puis encore d’un trait pour arriver à sept.",
+  "guided_explanation": "Pense à un jeu de cases numérotées. Pour aller de 32 à 35, tu avances sur 33, puis 34, puis 35. Cela fait trois pas. Sur la droite graduée, les pas sont les intervalles entre les traits."
+}

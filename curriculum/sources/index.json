@@ -1,0 +1,296 @@
+[
+  {
+    "id": "cycle2",
+    "url": "https://eduscol.education.gouv.fr/4347/enseigner-au-cycle-2",
+    "checked_on": "2026-10-29",
+    "sha256": "b160436e1656e22cc44ba183af31a9202bb772ee6d793e8465c2f5117e0e101c",
+    "snapshot": "curriculum/sources/cycle2.html.txt"
+  },
+  {
+    "id": "cycle3",
+    "url": "https://eduscol.education.gouv.fr/4356/enseigner-au-cycle-3",
+    "checked_on": "2026-10-29",
+    "sha256": "3a445d250d6d0acf78dea39651442e1f87cf45b6acd2e844d7efa05b92fba0a8",
+    "snapshot": "curriculum/sources/cycle3.html.txt"
+  },
+  {
+    "id": "cycle4",
+    "url": "https://eduscol.education.gouv.fr/4362/enseigner-au-cycle-4",
+    "checked_on": "2026-10-29",
+    "sha256": "045da121d53c3823536c471f65fab69d851debe9dc8ac77e3341f5dd8f9407a5",
+    "snapshot": "curriculum/sources/cycle4.html.txt"
+  },
+  {
+    "id": "lycee",
+    "url": "https://eduscol.education.gouv.fr/4368/enseigner-au-lycee-generaltechnologique",
+    "checked_on": "2026-10-29",
+    "sha256": "0781f9a8251608a57610b68d48a1d6a35ee19a465c5c2412a50f627ab39cfc13",
+    "snapshot": "curriculum/sources/lycee.html.txt"
+  },
+  {
+    "id": "pro",
+    "url": "https://eduscol.education.gouv.fr/4377/enseigner-au-lycee-professionnel",
+    "checked_on": "2026-10-29",
+    "sha256": "932ce0220981fe6a7600bb15f164eb105427e05baee39b42e19d1be811188978",
+    "snapshot": "curriculum/sources/pro.html.txt"
+  },
+  {
+    "id": "elementaire",
+    "url": "https://www.education.gouv.fr/programmes-et-horaires-l-ecole-elementaire-9011",
+    "checked_on": "2026-10-29",
+    "sha256": "a7e0321edb58195b375554eb0d74fde23e54e92ba5849a5e8b780f7b8f7d9112",
+    "snapshot": "curriculum/sources/elementaire.html.txt"
+  },
+  {
+    "id": "lycee-men",
+    "url": "https://www.education.gouv.fr/reussir-au-lycee/les-programmes-du-lycee-general-et-technologique-9812",
+    "checked_on": "2026-10-29",
+    "sha256": "0d41b39c8d1ecf66d564d101315cf4604e23483ac4591aef1cddf2c51e3b6301",
+    "snapshot": "curriculum/sources/lycee-men.html.txt"
+  },
+  {
+    "id": "pro-men",
+    "url": "https://www.education.gouv.fr/programmes-du-lycee-professionnel-9869",
+    "checked_on": "2026-10-29",
+    "sha256": "c2e5e2c6202466b968d789477c4900197eec1a56d8edd4ae9281c66b5f1f6101",
+    "snapshot": "curriculum/sources/pro-men.html.txt"
+  },
+  {
+    "id": "a66e61ec073fff71",
+    "url": "https://cache.media.education.gouv.fr/file/31/88/5/ensel714_annexe1_1312885.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "a4c0900b4d9127391f2c096bfc3c2d6460d9432b8f0cdce87b2bae16bcd5f881",
+    "snapshot": "curriculum/sources/a66e61ec073fff71.pdf",
+    "text_snapshot": "curriculum/sources/a66e61ec073fff71.txt",
+    "pages": 64
+  },
+  {
+    "id": "6f0365b6a54fc983",
+    "url": "https://cache.media.education.gouv.fr/file/31/89/1/ensel714_annexe3_1312891.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "16efa795f59f25f726e3f443934198e22c01fad04e1ba78a01ed10a11a3a14eb",
+    "snapshot": "curriculum/sources/6f0365b6a54fc983.pdf",
+    "text_snapshot": "curriculum/sources/6f0365b6a54fc983.txt",
+    "pages": 138
+  },
+  {
+    "id": "6c4a972c138daa2e",
+    "url": "https://eduscol.education.gouv.fr/media/100806/download?attachment",
+    "checked_on": "2026-10-29",
+    "sha256": "879251a7b7b6dbf63cc982b6b3684e33c51c0661bbac190e381490c9d61aad0f",
+    "snapshot": "curriculum/sources/6c4a972c138daa2e.pdf",
+    "text_snapshot": "curriculum/sources/6c4a972c138daa2e.txt",
+    "pages": 108
+  },
+  {
+    "id": "7b8272bca664386f",
+    "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+    "checked_on": "2026-10-29",
+    "sha256": "ae4c7689102b4b3f7e0e573bf03fe5a92ca66c54343a3c215afda34cea1dc7be",
+    "snapshot": "curriculum/sources/7b8272bca664386f.html.txt"
+  },
+  {
+    "id": "16378116af3b9bb9",
+    "url": "https://www.education.gouv.fr/bo/2024/Hebdo41/MENE2415135A",
+    "checked_on": "2026-10-29",
+    "sha256": "bf0656cd0b6c54926054de89899615ff6f61304fd3e5def1f0a5ff0749704428",
+    "snapshot": "curriculum/sources/16378116af3b9bb9.html.txt"
+  },
+  {
+    "id": "9a964c7eb0341b3c",
+    "url": "https://www.education.gouv.fr/bo/2025/Hebdo16/MENE2504620A",
+    "checked_on": "2026-10-29",
+    "sha256": "2279d4f27345f6a2d3c885e2c98709b8f4694016bb7a4690ae54c59d470d38ec",
+    "snapshot": "curriculum/sources/9a964c7eb0341b3c.html.txt"
+  },
+  {
+    "id": "989b18f057810a66",
+    "url": "https://www.education.gouv.fr/bo/2025/Hebdo22/MENE2504621A",
+    "checked_on": "2026-10-29",
+    "sha256": "483dc18cfbae3341436d6a3403711bee1284c3caa359be3b84d8243d2a046971",
+    "snapshot": "curriculum/sources/989b18f057810a66.html.txt"
+  },
+  {
+    "id": "fc4feb5398e38ec9",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2602909A",
+    "checked_on": "2026-10-29",
+    "sha256": "912a34c4533f959c4e2167b28c62910adfbe9629397035cab9e06e6009768802",
+    "snapshot": "curriculum/sources/fc4feb5398e38ec9.html.txt"
+  },
+  {
+    "id": "86224d4de18bb69c",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%20%E2%80%94%20Programme%20d%E2%80%99enseignement%20moral%20et%20civique%20du%20cours%20pr%C3%A9paratoire%20%C3%A0%20la%20classe%20terminale%20des%20voies%20g%C3%A9n%C3%A9rale%2C%20technologique%20et%20professionnelle%20et%20des%20classes%20pr%C3%A9parant%20au%20CAP-402159.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "0f28566133a4d9b8a3da3ee5648fd3f2c1915fe25bea4d05aa8b9894a1544761",
+    "snapshot": "curriculum/sources/86224d4de18bb69c.pdf",
+    "text_snapshot": "curriculum/sources/86224d4de18bb69c.txt",
+    "pages": 31
+  },
+  {
+    "id": "2dbf15f1958e67d5",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%20%E2%80%94%20Programme%20de%20technologie%20du%20cycle%204-368016.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "60ed416d187fe449ca2639bc0efe289af61d88a32b618e05f5e5ee7dd08a4086",
+    "snapshot": "curriculum/sources/2dbf15f1958e67d5.pdf",
+    "text_snapshot": "curriculum/sources/2dbf15f1958e67d5.txt",
+    "pages": 16
+  },
+  {
+    "id": "15a5f31e5cb2ab15",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%201%20%E2%80%93%20Programme%20de%20fran%C3%A7ais%20pour%20le%20cycle%204-480713.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "19359a2d376f73f4d41ceb1098bff9ea4f69ab2abb63dc486e67ea30cd338187",
+    "snapshot": "curriculum/sources/15a5f31e5cb2ab15.pdf",
+    "text_snapshot": "curriculum/sources/15a5f31e5cb2ab15.txt",
+    "pages": 19
+  },
+  {
+    "id": "5a982da67548fc97",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%201%20%E2%80%93%20Programme%20de%20langues%20vivantes%20%C3%A9trang%C3%A8res%20et%20r%C3%A9gionales%20pour%20le%20cycle%202%20-481187.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "b3257eda417467b1788ea21e41c06211a7c0f6f9493e2eb8330691ed08f63cb9",
+    "snapshot": "curriculum/sources/5a982da67548fc97.pdf",
+    "text_snapshot": "curriculum/sources/5a982da67548fc97.txt",
+    "pages": 34
+  },
+  {
+    "id": "89cce9f17c68ecc5",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%202%20%E2%80%93%20Programme%20de%20langues%20vivantes%20%C3%A9trang%C3%A8res%20et%20r%C3%A9gionales%20pour%20les%20classes%20de%20cours%20moyen%20%28cycle%203%29-481190.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "5a2a35ac1ce93df468c52c3b335861a48f5b42c4c49c958dae3fb9b2b5cb4006",
+    "snapshot": "curriculum/sources/89cce9f17c68ecc5.pdf",
+    "text_snapshot": "curriculum/sources/89cce9f17c68ecc5.txt",
+    "pages": 20
+  },
+  {
+    "id": "80dd397a108fb53b",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%202%20%E2%80%93%20Programme%20de%20math%C3%A9matiques%20pour%20le%20cycle%204-480716.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "e20a05da6c68a08c4487fc63a3345c902f5249b4bf6e950765bfb9c2da0aadb9",
+    "snapshot": "curriculum/sources/80dd397a108fb53b.pdf",
+    "text_snapshot": "curriculum/sources/80dd397a108fb53b.txt",
+    "pages": 20
+  },
+  {
+    "id": "9a7a539d375b4614",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%203%20%E2%80%93%20Programme%20de%20fran%C3%A7ais%20du%20cycle%202-403818.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "4a15d1446a0b46866a7b672b9c12fbd86ccaf6ad92ac878ded677d92ab8b102a",
+    "snapshot": "curriculum/sources/9a7a539d375b4614.pdf",
+    "text_snapshot": "curriculum/sources/9a7a539d375b4614.txt",
+    "pages": 22
+  },
+  {
+    "id": "726f9656fb518da3",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%204%20%E2%80%93%20Programme%20de%20math%C3%A9matiques%20du%20cycle%202-403821.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "0fe8dfba39f78215e4d44f0dc871df80d7c9530267d6de40b49d205d3506caed",
+    "snapshot": "curriculum/sources/726f9656fb518da3.pdf",
+    "text_snapshot": "curriculum/sources/726f9656fb518da3.txt",
+    "pages": 38
+  },
+  {
+    "id": "8cfd8ea591af129a",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Programme%20d%E2%80%99%C3%A9ducation%20%C3%A0%20la%20vie%20affective%20et%20relationnelle%20%C3%A0%20l%E2%80%99%C3%A9cole%20%C3%A9l%C3%A9mentaire-405261.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "d4e5425df3e36312a9d02a331acf9db08fa97619e18bfcbb0307afe22b8ee0fc",
+    "snapshot": "curriculum/sources/8cfd8ea591af129a.pdf",
+    "text_snapshot": "curriculum/sources/8cfd8ea591af129a.txt",
+    "pages": 18
+  },
+  {
+    "id": "f73101ecce777eaf",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/Programme%20d%E2%80%99%C3%A9ducation%20%C3%A0%20la%20vie%20affective%20et%20relationnelle%2C%20et%20%C3%A0%20la%20sexualit%C3%A9%20au%20coll%C3%A8ge-405264.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "050b18155057cf836f42f199435d98eea36ba6e87439f593247f56c402edad5f",
+    "snapshot": "curriculum/sources/f73101ecce777eaf.pdf",
+    "text_snapshot": "curriculum/sources/f73101ecce777eaf.txt",
+    "pages": 19
+  },
+  {
+    "id": "2965e87078453008",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/annexe-1-programme-d-education-physique-et-sportive-cycle-2-516770.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "fca8461058d25e7a50a6e0e909acc4e66189b89fcdd00dc0b39555842cf61259",
+    "snapshot": "curriculum/sources/2965e87078453008.pdf",
+    "text_snapshot": "curriculum/sources/2965e87078453008.txt",
+    "pages": 16
+  },
+  {
+    "id": "2f556f12363dcee4",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/annexe-1-programme-de-sciences-et-technologie-du-cycle-2-517289.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "60c8f0d7e2aa4f59cb61bc5d81e3d5828e93d2ddadade5a2c15b7ff9793b518b",
+    "snapshot": "curriculum/sources/2f556f12363dcee4.pdf",
+    "text_snapshot": "curriculum/sources/2f556f12363dcee4.txt",
+    "pages": 12
+  },
+  {
+    "id": "c9f3d3f26b28d50e",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/annexe-2-programme-d-education-physique-et-sportive-cycle-3-516773.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "5231ddd3bed80cb78cc0489e9d003b746b734dae4a55bd4a5f05973317ff49ed",
+    "snapshot": "curriculum/sources/c9f3d3f26b28d50e.pdf",
+    "text_snapshot": "curriculum/sources/c9f3d3f26b28d50e.txt",
+    "pages": 10
+  },
+  {
+    "id": "8704840c432cc687",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/annexe-2-programme-de-sciences-et-technologie-du-cycle-3-517292.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "066f97ef190f5f1cbc167773bcb7edf25fbcfe4b40c4b3a6a8aa863f174b1c7e",
+    "snapshot": "curriculum/sources/8704840c432cc687.pdf",
+    "text_snapshot": "curriculum/sources/8704840c432cc687.txt",
+    "pages": 18
+  },
+  {
+    "id": "54814fd8cfad3a6f",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/annexe-3-programme-d-histoire-geographie-cycle-2-516776.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "4aa0fe43808a5e4da8304135eb3bdc2ea638d759bb8c9932cf1f99287f500762",
+    "snapshot": "curriculum/sources/54814fd8cfad3a6f.pdf",
+    "text_snapshot": "curriculum/sources/54814fd8cfad3a6f.txt",
+    "pages": 8
+  },
+  {
+    "id": "9124c29e3827a735",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/annexe-4-programme-d-histoire-geographie-cycle-3-516779.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "da8530cf06ab706f181fd83c524c4a0b30ac765d74955f8ae1102513b207daae",
+    "snapshot": "curriculum/sources/9124c29e3827a735.pdf",
+    "text_snapshot": "curriculum/sources/9124c29e3827a735.txt",
+    "pages": 15
+  },
+  {
+    "id": "0ef9054d22c787ac",
+    "url": "https://www.education.gouv.fr/sites/default/files/programme-de-fran-ais-pour-le-cycle-3-439824.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "e7c27f55c212b5ebb92ba8b60b6b1b0761a2301e7c0d0d780171c4cfb6e121ae",
+    "snapshot": "curriculum/sources/0ef9054d22c787ac.pdf",
+    "text_snapshot": "curriculum/sources/0ef9054d22c787ac.txt",
+    "pages": 21
+  },
+  {
+    "id": "9fa5d88fd335bb7f",
+    "url": "https://www.education.gouv.fr/sites/default/files/programme-de-math-matiques-pour-le-cycle-3-439827.pdf",
+    "checked_on": "2026-10-29",
+    "sha256": "f3f79a75ca8be7f54409b8b7cee3eafd769c23d12e6c822a253454e2c703b508",
+    "snapshot": "curriculum/sources/9fa5d88fd335bb7f.pdf",
+    "text_snapshot": "curriculum/sources/9fa5d88fd335bb7f.txt",
+    "pages": 28
+  },
+  {
+    "id": "ministere",
+    "url": "https://www.education.gouv.fr/programmes-scolaires-41483",
+    "checked_on": "2026-10-29",
+    "sha256": "e30e57da4dad0dc62b75cd253aa3a6fa5fedb703a22414d5fe1d67adbc1b7348",
+    "snapshot": "curriculum/sources/ministere.html.txt"
+  },
+  {
+    "id": "niveaux",
+    "url": "https://eduscol.education.gouv.fr/4332/niveaux",
+    "checked_on": "2026-10-29",
+    "sha256": "81d304460e2aa2db2e3b8194723d8286840d70ef81478131f64fadc75cf108c4",
+    "snapshot": "curriculum/sources/niveaux.html.txt"
+  }
+]

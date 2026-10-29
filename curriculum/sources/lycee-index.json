@@ -1,0 +1,324 @@
+[
+  {
+    "id": "c61b65d9e999260e",
+    "url": "https://eduscol.education.gouv.fr/5736/ressources-d-accompagnement-du-programme-de-mathematiques-au-cycle-4",
+    "checked_on": "2026-10-29",
+    "sha256": "403abafff23f90867d779b99255e4f7c087b7fa2e9903e7a48a6e699983bc343",
+    "snapshot": "curriculum/sources/c61b65d9e999260e.html.txt"
+  },
+  {
+    "id": "c3415f9c3b3cc8b3",
+    "url": "https://eduscol.education.gouv.fr/5769/programmes-et-ressources-en-arts-du-cirque-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "003df58c668c8f4769f7739f75a509ce3bccc3ce729cf42ce0bf1fbfa5130e83",
+    "snapshot": "curriculum/sources/c3415f9c3b3cc8b3.html.txt"
+  },
+  {
+    "id": "04e3e7e7e3975b8f",
+    "url": "https://eduscol.education.gouv.fr/5772/programmes-et-ressources-en-arts-plastiques-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "bbf6702c837d60b83e06ae31f1fac632fb7b34de1c312a2f1ee08e1566d73ffb",
+    "snapshot": "curriculum/sources/04e3e7e7e3975b8f.html.txt"
+  },
+  {
+    "id": "dcb6d37f14e2a4fe",
+    "url": "https://eduscol.education.gouv.fr/5775/programmes-et-ressources-en-cinema-audiovisuel-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "5ba7a1c85f16a08e6c44a7261800912302138086b5ae4a6a643e67f7c2f9e67d",
+    "snapshot": "curriculum/sources/dcb6d37f14e2a4fe.html.txt"
+  },
+  {
+    "id": "19ff31add246bc7e",
+    "url": "https://eduscol.education.gouv.fr/5778/programmes-et-ressources-en-danse-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "4cdf4e2433a4279b78676bf20bfdfbfbf3a1c9b20b62e619b8ab52ae8a385ace",
+    "snapshot": "curriculum/sources/19ff31add246bc7e.html.txt"
+  },
+  {
+    "id": "b02608a0d6735024",
+    "url": "https://eduscol.education.gouv.fr/5781/programmes-et-ressources-en-droit-et-grands-enjeux-du-monde-contemporain-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "20637dc06edf60889bf0d9052cb0aaf32f17ca3ed6482f84b13b364c4c3424d3",
+    "snapshot": "curriculum/sources/b02608a0d6735024.html.txt"
+  },
+  {
+    "id": "7f3afbfa199bf86b",
+    "url": "https://eduscol.education.gouv.fr/5784/programmes-et-ressources-en-education-physique-et-sportive-eps-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "249fe686ecc45560a77450ad8f123f3ea45a6e20588f65ecf336d9cc83035e1e",
+    "snapshot": "curriculum/sources/7f3afbfa199bf86b.html.txt"
+  },
+  {
+    "id": "8a4e18afacda1cdf",
+    "url": "https://eduscol.education.gouv.fr/5787/programmes-et-ressources-en-enseignement-moral-et-civique-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "b0e6d648c9465a384a34fc19b8343054c48d377ab3489bed3822256972731aae",
+    "snapshot": "curriculum/sources/8a4e18afacda1cdf.html.txt"
+  },
+  {
+    "id": "91e85e59e9a0eaf1",
+    "url": "https://eduscol.education.gouv.fr/5790/programmes-et-ressources-en-enseignement-scientifique-voie-g",
+    "checked_on": "2026-10-29",
+    "sha256": "4eaad1fca62e62cb1e6b9acce12711eaa2d6f1c8dab3dee8c3781f48d0c42aa0",
+    "snapshot": "curriculum/sources/91e85e59e9a0eaf1.html.txt"
+  },
+  {
+    "id": "4296a177ffee9bd5",
+    "url": "https://eduscol.education.gouv.fr/5793/programmes-et-ressources-en-francais-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "3c71e5e284430fafe9e024ad10444e336a16542f8846359790aa18963aa9f63e",
+    "snapshot": "curriculum/sources/4296a177ffee9bd5.html.txt"
+  },
+  {
+    "id": "3c90c2b1a7ed8a8a",
+    "url": "https://eduscol.education.gouv.fr/5796/programmes-et-ressources-en-histoire-des-arts-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "12b7348389e82ce6ba4e788e24c6f7e2446692d4dbe9ef7f9f845a4c623ef1ae",
+    "snapshot": "curriculum/sources/3c90c2b1a7ed8a8a.html.txt"
+  },
+  {
+    "id": "c9c068a744b88baf",
+    "url": "https://eduscol.education.gouv.fr/5799/programmes-et-ressources-en-histoire-geographie-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "e48ffe6cafa01917dc8ecd3907e5ccc6b50b3e514ec9092fe8c85c16690e0e74",
+    "snapshot": "curriculum/sources/c9c068a744b88baf.html.txt"
+  },
+  {
+    "id": "ea0d5f5754d5b42d",
+    "url": "https://eduscol.education.gouv.fr/5802/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g",
+    "checked_on": "2026-10-29",
+    "sha256": "cd021ac75f10609f5a80910bc31a687f6ffad22d59344f5ebbce26e99b112369",
+    "snapshot": "curriculum/sources/ea0d5f5754d5b42d.html.txt"
+  },
+  {
+    "id": "46ff0c097e9d26c0",
+    "url": "https://eduscol.education.gouv.fr/5805/programmes-et-ressources-en-humanites-litterature-et-philosophie-voie-g",
+    "checked_on": "2026-10-29",
+    "sha256": "7a81626faac9477e70d08c1b4a42877701eda719a564f1493512c4e707a29a3a",
+    "snapshot": "curriculum/sources/46ff0c097e9d26c0.html.txt"
+  },
+  {
+    "id": "f61d13d5464e49ab",
+    "url": "https://eduscol.education.gouv.fr/5808/programmes-et-ressources-en-langues-et-cultures-de-l-antiquite-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "aa53b656ba5efa98a7f540a3118f8e381772b451482b1d300a4502dd35d9ecee",
+    "snapshot": "curriculum/sources/f61d13d5464e49ab.html.txt"
+  },
+  {
+    "id": "2fff78d5c2624f0e",
+    "url": "https://eduscol.education.gouv.fr/5811/programmes-et-ressources-en-langues-vivantes-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "e8875bdfc9fe28f94262377d9cd22e481e7dff19ca965ab20a79f5fd60a1876c",
+    "snapshot": "curriculum/sources/2fff78d5c2624f0e.html.txt"
+  },
+  {
+    "id": "798c2f9e40547dda",
+    "url": "https://eduscol.education.gouv.fr/5814/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g",
+    "checked_on": "2026-10-29",
+    "sha256": "cc9a8157d8cfa3512a3f275cf9245a72389c57b9f47d9b539b2d024bfb7fb9ee",
+    "snapshot": "curriculum/sources/798c2f9e40547dda.html.txt"
+  },
+  {
+    "id": "d7dbbd2a6c54e982",
+    "url": "https://eduscol.education.gouv.fr/5817/programmes-et-ressources-en-mathematiques-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "2f09bc39907067de5fcdb9dda00c599cfc95e0238152f804d158b965acad8048",
+    "snapshot": "curriculum/sources/d7dbbd2a6c54e982.html.txt"
+  },
+  {
+    "id": "5e725d522179e396",
+    "url": "https://eduscol.education.gouv.fr/5820/programmes-et-ressources-en-musique-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "06409bd1e37cc1ad82fed0bc4763642b0a4169d11123e28471551cfcea1aa56a",
+    "snapshot": "curriculum/sources/5e725d522179e396.html.txt"
+  },
+  {
+    "id": "e2cba0e76439fc6f",
+    "url": "https://eduscol.education.gouv.fr/5823/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g",
+    "checked_on": "2026-10-29",
+    "sha256": "77064d04e127d213abd3c4bdb303001c4bc125f6ee7d98998ab1c51c4d039e52",
+    "snapshot": "curriculum/sources/e2cba0e76439fc6f.html.txt"
+  },
+  {
+    "id": "8b0a023de7ca3e2b",
+    "url": "https://eduscol.education.gouv.fr/5826/programmes-et-ressources-en-philosophie-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "532163d225f8a19b4a6a23ac567912738cdd24d36f6dc6ece00a9f0b3f3f8e90",
+    "snapshot": "curriculum/sources/8b0a023de7ca3e2b.html.txt"
+  },
+  {
+    "id": "01ce99ac685702f7",
+    "url": "https://eduscol.education.gouv.fr/5829/programmes-et-ressources-en-physique-chimie-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "a5d4f13f35c58c991bf821896edc4490b323d94a7f4815081cef5ef504b62738",
+    "snapshot": "curriculum/sources/01ce99ac685702f7.html.txt"
+  },
+  {
+    "id": "895dc1cf8099ab36",
+    "url": "https://eduscol.education.gouv.fr/5832/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "ac25ed3904450e398e30f6dc59939236bfb2d74459a9cc71173a3cea571da407",
+    "snapshot": "curriculum/sources/895dc1cf8099ab36.html.txt"
+  },
+  {
+    "id": "a138949f20c6a516",
+    "url": "https://eduscol.education.gouv.fr/5835/programmes-et-ressources-en-sciences-de-la-vie-et-de-la-terre-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "addb2eb875b12ef59a59fe09db0005a42bbd1e2f47b20c90f3f24868685b584e",
+    "snapshot": "curriculum/sources/a138949f20c6a516.html.txt"
+  },
+  {
+    "id": "7424ba89ed391de6",
+    "url": "https://eduscol.education.gouv.fr/5838/programmes-et-ressources-en-sciences-economiques-et-sociales-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "34e632937f18dd132cfe211729a6a0133c59c4dfb0fc36b4ab295dde0b397be7",
+    "snapshot": "curriculum/sources/7424ba89ed391de6.html.txt"
+  },
+  {
+    "id": "ff8ff5c4308d5289",
+    "url": "https://eduscol.education.gouv.fr/5841/programmes-et-ressources-en-sciences-numeriques-et-technologie-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "1d4519ef31a88b4882de886d0b538ec5cb518b8deaa51b299a594ab4467dc468",
+    "snapshot": "curriculum/sources/ff8ff5c4308d5289.html.txt"
+  },
+  {
+    "id": "8f581e5fb78c864c",
+    "url": "https://eduscol.education.gouv.fr/5844/programmes-et-ressources-en-serie-s2tmd",
+    "checked_on": "2026-10-29",
+    "sha256": "b3f2f748ac732638166f0e744144a4a40de80c6e2ee5dafb7fb691715954c0dc",
+    "snapshot": "curriculum/sources/8f581e5fb78c864c.html.txt"
+  },
+  {
+    "id": "626c196e081b0dbb",
+    "url": "https://eduscol.education.gouv.fr/5847/programmes-et-ressources-en-serie-st2s",
+    "checked_on": "2026-10-29",
+    "sha256": "fae5608397c316a292f94170b5e78243f02d2226a0d58f62e4a7fad6508a641a",
+    "snapshot": "curriculum/sources/626c196e081b0dbb.html.txt"
+  },
+  {
+    "id": "3835c24b47f79608",
+    "url": "https://eduscol.education.gouv.fr/5850/programmes-et-ressources-en-serie-std2a",
+    "checked_on": "2026-10-29",
+    "sha256": "446ccf48194a08a5ecb4d7c5bb327345f8db55c566cf05d75ae7aa71a2e53adf",
+    "snapshot": "curriculum/sources/3835c24b47f79608.html.txt"
+  },
+  {
+    "id": "95e70b093dd75f08",
+    "url": "https://eduscol.education.gouv.fr/5853/programmes-et-ressources-en-serie-sthr",
+    "checked_on": "2026-10-29",
+    "sha256": "00441842edfb6970a4373edb11244097711650208625b833dc95faad53253d14",
+    "snapshot": "curriculum/sources/95e70b093dd75f08.html.txt"
+  },
+  {
+    "id": "b30821c43a359e06",
+    "url": "https://eduscol.education.gouv.fr/5856/programmes-et-ressources-en-serie-sti2d",
+    "checked_on": "2026-10-29",
+    "sha256": "6954b915b9d9fe3e6e614f8526509b2a69116ded2d8dd31ab1b8edb4205e6cae",
+    "snapshot": "curriculum/sources/b30821c43a359e06.html.txt"
+  },
+  {
+    "id": "692e52afc151ad80",
+    "url": "https://eduscol.education.gouv.fr/5859/programmes-et-ressources-en-serie-stl",
+    "checked_on": "2026-10-29",
+    "sha256": "d12b3dcbb8e6afb88efd2a292f4268721dabf9bd134b3ef2d964d534ff217626",
+    "snapshot": "curriculum/sources/692e52afc151ad80.html.txt"
+  },
+  {
+    "id": "bc3bc92b6ad0fe43",
+    "url": "https://eduscol.education.gouv.fr/5862/programmes-et-ressources-en-serie-stmg",
+    "checked_on": "2026-10-29",
+    "sha256": "4480007f76e931c3c1eae34c36d3f0781d3fab427fb0e3360b5df0669e762bb6",
+    "snapshot": "curriculum/sources/bc3bc92b6ad0fe43.html.txt"
+  },
+  {
+    "id": "c2b36e92622f3823",
+    "url": "https://eduscol.education.gouv.fr/5865/programmes-et-ressources-en-theatre-voie-gt",
+    "checked_on": "2026-10-29",
+    "sha256": "52c5a95550b9ae885e285f718ae516228ef6e57df2fc31523061fe55121f3f33",
+    "snapshot": "curriculum/sources/c2b36e92622f3823.html.txt"
+  },
+  {
+    "id": "5ddf0dc0f860a0f6",
+    "url": "https://eduscol.education.gouv.fr/5868/ressources-en-enseignement-technologique-en-langue-vivante-etlv-au-cycle-terminal-de-la-voie-technologique",
+    "checked_on": "2026-10-29",
+    "sha256": "eae3a8ab5abb2a46af1cb16b648a09cd4641be742d39e302effa6bd74b7c0b6f",
+    "snapshot": "curriculum/sources/5ddf0dc0f860a0f6.html.txt"
+  },
+  {
+    "id": "2fea0c938c776b3d",
+    "url": "https://eduscol.education.gouv.fr/5871/programmes-et-ressources-en-arts-appliques-et-cultures-artistiques-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "0e5095bbe663f703438ad47ab028c469006d5ee15ba316b8635fb166c480b623",
+    "snapshot": "curriculum/sources/2fea0c938c776b3d.html.txt"
+  },
+  {
+    "id": "3f0babbeb921f6a6",
+    "url": "https://eduscol.education.gouv.fr/5874/programmes-et-ressources-en-economie-droit-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "70b8b429a00db8c85f7b8126d4fcf8f68a4781705ea5f0b09e9478ca74c7f9af",
+    "snapshot": "curriculum/sources/3f0babbeb921f6a6.html.txt"
+  },
+  {
+    "id": "321ce92e485bcfcb",
+    "url": "https://eduscol.education.gouv.fr/5877/programmes-et-ressources-en-economie-gestion-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "bfeb24c4e959073dd68cbf2aa2ba54404f5e265fb5f1d1d16a35491977c8ac15",
+    "snapshot": "curriculum/sources/321ce92e485bcfcb.html.txt"
+  },
+  {
+    "id": "b0e5793c82bf2794",
+    "url": "https://eduscol.education.gouv.fr/5880/programmes-et-ressources-en-education-physique-et-sportive-eps-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "6ebc54047d27addb7449cbec4ecd43618ba29690e4222974c7b9a46fdc3dfc7f",
+    "snapshot": "curriculum/sources/b0e5793c82bf2794.html.txt"
+  },
+  {
+    "id": "f83c4c34c47ea01d",
+    "url": "https://eduscol.education.gouv.fr/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "c2fdc0779263a3bd30a22b69f764e924cca8259f6000680ec9322f9243a4db25",
+    "snapshot": "curriculum/sources/f83c4c34c47ea01d.html.txt"
+  },
+  {
+    "id": "7b4d83b44b2d4790",
+    "url": "https://eduscol.education.gouv.fr/5886/programmes-et-ressources-en-francais-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "40146f738357b526707271a698b808028aea917274e9bf753e0ea4f56ad4723c",
+    "snapshot": "curriculum/sources/7b4d83b44b2d4790.html.txt"
+  },
+  {
+    "id": "d7d48c48ba695314",
+    "url": "https://eduscol.education.gouv.fr/5889/programmes-et-ressources-en-histoire-geographie-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "b1fcae94758156c6efa3f968880f5484c53a8eac0a747d8e6596318437aaefd8",
+    "snapshot": "curriculum/sources/d7d48c48ba695314.html.txt"
+  },
+  {
+    "id": "8c3e293a70ca5fb8",
+    "url": "https://eduscol.education.gouv.fr/5892/programmes-et-ressources-en-langues-vivantes-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "f641a766afb2d3c6b0ce46146b9ec362a8369288d00ecf38ee4ca59b444c1b6c",
+    "snapshot": "curriculum/sources/8c3e293a70ca5fb8.html.txt"
+  },
+  {
+    "id": "2367312f2204c8ac",
+    "url": "https://eduscol.education.gouv.fr/5895/programmes-et-ressources-en-mathematiques-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "14eb81528c344b5c9a796ba8461f64c5a4eba740eb3b722531403ac683bedd14",
+    "snapshot": "curriculum/sources/2367312f2204c8ac.html.txt"
+  },
+  {
+    "id": "142d8b59c1df26ac",
+    "url": "https://eduscol.education.gouv.fr/5898/programmes-et-ressources-en-physique-chimie-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "ba8fc72c636af1e78d5b50a5363ab24489f552cba6f9d4d1cbf4ea59756cd69b",
+    "snapshot": "curriculum/sources/142d8b59c1df26ac.html.txt"
+  },
+  {
+    "id": "040772cfa7a4fe86",
+    "url": "https://eduscol.education.gouv.fr/5901/programmes-et-ressources-en-prevention-sante-environnement-voie-professionnelle",
+    "checked_on": "2026-10-29",
+    "sha256": "fbc9c00ff596f46373eddb1fdce0bddfd8133a3a30e868ad422f243bcf94b557",
+    "snapshot": "curriculum/sources/040772cfa7a4fe86.html.txt"
+  }
+]

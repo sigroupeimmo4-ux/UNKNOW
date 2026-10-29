@@ -1,0 +1,2764 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <link rel="apple-touch-icon" href="/libraries/dsfr/dist/favicon/apple-touch-icon.png"><!-- 180×180 -->
+  <link rel="icon" href="/libraries/dsfr/dist/favicon/favicon.svg" type="image/svg+xml">
+  <link rel="shortcut icon" href="/libraries/dsfr/dist/favicon/favicon.ico" type="image/x-icon"><!-- 32×32 -->
+  <link rel="manifest" href="/libraries/dsfr/dist/favicon/manifest.webmanifest" crossorigin="use-credentials">
+  <meta charset="utf-8" />
+<meta name="description" content="La durée de la semaine scolaire des élèves est fixée à vingt-quatre heures. Les élèves peuvent bénéficier sur proposition de leurs enseignants d&#039;activités pédagogiques complémentaires, par petits groupes, pour aider les élèves rencontrant des difficultés," />
+<meta name="keywords" content="programme et horaires" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://www.education.gouv.fr/programmes-et-horaires-l-ecole-elementaire-9011" />
+<link rel="image_src" href="https://www.education.gouv.fr/sites/default/files/styles/social/public/2020-02/-cole-l-mentaire-448179.jpg?itok=AM_x_2cK" />
+<meta name="google" content="uDwgotUTa081oGsJxMX3nKpLPT45LXrqOet1LKGX3yg" />
+<meta property="og:site_name" content="Ministère de l&#039;Education nationale" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.education.gouv.fr/programmes-et-horaires-l-ecole-elementaire-9011" />
+<meta property="og:title" content="Programmes et horaires à l&#039;école élémentaire" />
+<meta property="og:description" content="Les programmes assurent l&#039;acquisition des connaissances et des compétences fondamentales. En septembre 2026, certains programmes révisés entrent en vigueur." />
+<meta property="og:image:url" content="https://www.education.gouv.fr/sites/default/files/styles/social/public/2020-02/-cole-l-mentaire-448179.jpg?itok=AM_x_2cK" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Les programmes assurent l&#039;acquisition des connaissances et des compétences fondamentales. En septembre 2026, certains programmes révisés entrent en vigueur." />
+<meta name="twitter:title" content="Programmes et horaires à l&#039;école élémentaire" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>window.dsfr = window.dsfr || {};
+window.dsfr.analytics = {
+  domain: "wrhv.education.gouv.fr",
+  site: {
+    entity: "Minist\u00e8re de l\u0027Education nationale"
+  },
+  page: {
+    template: "article"
+  }
+};</script>
+<link rel="alternate" hreflang="fr" href="https://www.education.gouv.fr/programmes-et-horaires-l-ecole-elementaire-9011" />
+
+  <title>Programmes et horaires à l&#039;école élémentaire | Ministère de l&#039;Education nationale</title>
+  <link rel="stylesheet" media="all" href="/sites/default/files/css/css_t1wWS8H9RR-fouTlqgophtvOS5QsfayEHOrDyGEYguU.css?delta=0&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFjsFuxCAMRH-IhNN-D3LAS1AMRjbOir9vumrVSD3sxbLHTzMTD0xlsDxCJ8ulhQ7xCKUlbCNsxPHw98NFFvSRa-d2ibpissx2hqRPWZYn80D5AO0oHN6pH8AGZ6jY7B824KpUfyi1WkFm0HJp3_TdxEfTwdURTLYRUtHIJ8r0l1Nkch0EskDf1SexDrT-Kau1bhsV3TE5nTqw-g0U3S3eZ-INaNExqbT8-8qpi7_t7iz4Uv-ea-VkhF-zR5SA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_lOofAvqQEsXdCGPsH3-S4gBhuwycJ4ZsJUqeSsQrG_w.css?delta=1&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFjsFuxCAMRH-IhNN-D3LAS1AMRjbOir9vumrVSD3sxbLHTzMTD0xlsDxCJ8ulhQ7xCKUlbCNsxPHw98NFFvSRa-d2ibpissx2hqRPWZYn80D5AO0oHN6pH8AGZ6jY7B824KpUfyi1WkFm0HJp3_TdxEfTwdURTLYRUtHIJ8r0l1Nkch0EskDf1SexDrT-Kau1bhsV3TE5nTqw-g0U3S3eZ-INaNExqbT8-8qpi7_t7iz4Uv-ea-VkhF-zR5SA" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_lFJuqrBJuPD967tnROjsQvtwzw9booIFOUzdl55tQyU.css?delta=2&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFjsFuxCAMRH-IhNN-D3LAS1AMRjbOir9vumrVSD3sxbLHTzMTD0xlsDxCJ8ulhQ7xCKUlbCNsxPHw98NFFvSRa-d2ibpissx2hqRPWZYn80D5AO0oHN6pH8AGZ6jY7B824KpUfyi1WkFm0HJp3_TdxEfTwdURTLYRUtHIJ8r0l1Nkch0EskDf1SexDrT-Kau1bhsV3TE5nTqw-g0U3S3eZ-INaNExqbT8-8qpi7_t7iz4Uv-ea-VkhF-zR5SA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_vjcBIpWr9D2cytF-Hcwp_IvSXEBM87VXlVSa86HBQns.css?delta=3&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFjsFuxCAMRH-IhNN-D3LAS1AMRjbOir9vumrVSD3sxbLHTzMTD0xlsDxCJ8ulhQ7xCKUlbCNsxPHw98NFFvSRa-d2ibpissx2hqRPWZYn80D5AO0oHN6pH8AGZ6jY7B824KpUfyi1WkFm0HJp3_TdxEfTwdURTLYRUtHIJ8r0l1Nkch0EskDf1SexDrT-Kau1bhsV3TE5nTqw-g0U3S3eZ-INaNExqbT8-8qpi7_t7iz4Uv-ea-VkhF-zR5SA" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_N5EDBe35cbGk77JW3v0FfHnN-fcHqOehqU2KBrW1h-E.css?delta=4&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJyFjsFuxCAMRH-IhNN-D3LAS1AMRjbOir9vumrVSD3sxbLHTzMTD0xlsDxCJ8ulhQ7xCKUlbCNsxPHw98NFFvSRa-d2ibpissx2hqRPWZYn80D5AO0oHN6pH8AGZ6jY7B824KpUfyi1WkFm0HJp3_TdxEfTwdURTLYRUtHIJ8r0l1Nkch0EskDf1SexDrT-Kau1bhsV3TE5nTqw-g0U3S3eZ-INaNExqbT8-8qpi7_t7iz4Uv-ea-VkhF-zR5SA" />
+
+  <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+
+  <meta name="format-detection" content="telephone=no,date=no,address=no,email=no,url=no">
+</head>
+<body>
+  
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+    <div data-component-id="ui_suite_dsfr:skiplinks" class="fr-skiplinks">
+    <nav class="fr-container" role="navigation" aria-label="Skip links">
+      <ul class="fr-skiplinks__list">
+                          <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#main-content">
+  Contenu
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#page-header--menu">
+  Menu
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#search-block-form">
+  Rechercher
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#footer">
+  Pied de page
+</a>
+</li>
+              </ul>
+    </nav>
+  </div>
+
+
+        
+<header data-component-id="edugouv_dsfr:minisite_header" class="fr-header" role="banner">
+  <div class="fr-header__body">
+    <div class="fr-container">
+      <div class="fr-header__body-row">
+        <div class="fr-header__brand fr-enlarge-link">
+          <div class="fr-header__brand-top">
+                        <div class="fr-header__logo">
+                                            <p class="fr-logo">
+                                      MINISTÈRE<br />
+DE L’ÉDUCATION<br />
+NATIONALE
+                                  </p>
+                            </div>
+
+                                      <div class="fr-header__operator">
+                                <a href="/" title="Retour à l&#039;accueil du site - MINISTÈRE
+DE L’ÉDUCATION
+NATIONALE">
+                                    
+                                  </a>
+                              </div>
+            
+                                      <div class="fr-header__navbar">
+                                  <button class="fr-btn--search fr-btn" data-fr-opened="false" aria-controls="page-header--search" title="Rechercher" id="page-header--search-btn" type="button">
+                    Rechercher
+                  </button>
+                                                  <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="page-header--menu" aria-haspopup="dialog" title="Menu" id="page-header--mobile-menu-btn" type="button">
+                    Menu
+                  </button>
+                              </div>
+            
+
+
+          </div>
+
+                              
+                            </div>
+
+                          <div class="fr-header__tools">
+                                      <div class="fr-header__tools-links">
+                  <div>
+    <div id="block-edugouv-dsfr-quick-links">
+
+
+
+    <ul data-component-id="ui_suite_dsfr:link_group" class="fr-links-group">
+              <li>
+
+
+
+
+
+
+
+
+<a data-drupal-link-system-path="node/468278" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" class="fr-link" href="/espace-presse">
+  Espace presse
+</a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+<a data-drupal-link-system-path="taxonomy/term/115224" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" class="fr-link" href="/depp">
+  Études et statistiques
+</a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+<a target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" class="fr-link" href="https://www.parcoursup.gouv.fr/">
+  Parcoursup
+</a>
+</li>
+      </ul>
+
+
+</div>
+
+  </div>
+
+              </div>
+                                                  <div class="fr-header__search fr-modal" id="page-header--search" aria-labelledby="page-header--search-btn">
+                <div class="fr-container fr-container-lg--fluid">
+                  <button class="fr-btn fr-btn--close" aria-controls="page-header--search" title="Close search" type="button">Fermer</button>
+                    <div>
+    <div class="search-block-form" data-drupal-selector="search-block-form" id="block-edugouv-dsfr-search-bar" role="search">
+
+
+
+  <form action="/recherche" method="get" id="search-block-form" accept-charset="UTF-8" class="fr-search-bar">
+  
+  <label for="edit-keys" class="visually-hidden fr-label">Rechercher
+      </label>
+
+ 
+  <input title="Indiquer les termes à rechercher" placeholder="Rechercher" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search fr-input"> 
+
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+<button class="fr-btn button js-form-submit form-submit" data-twig-suggestion="search_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Rechercher">Rechercher</button>
+</div>
+
+</form>
+
+
+</div>
+
+  </div>
+
+                </div>
+              </div>
+                      </div>
+              </div>
+    </div>
+  </div>
+      <div class="fr-header__menu fr-modal" id="page-header--menu" aria-labelledby="page-header--mobile-menu-btn">
+      <div class="fr-container">
+        <button class="fr-btn fr-btn--close" aria-controls="page-header--menu" title="Fermer le menu" type="button">Fermer</button>
+        <div class="fr-header__menu-links"></div>
+          <div>
+    <div id="block-edugouv-dsfr-mainnavigation">
+
+
+
+      <nav data-component-id="edugouv_dsfr:nav_menu" class="fr-nav" role="navigation" aria-label="" id="main-menu-2086917096">
+    <ul class="fr-nav__list">
+                                                  <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-2086917096-1">
+              Ministère
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-2086917096-1">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/467601" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-ministre-de-l-education-nationale-467601">Ministre de l'Éducation nationale</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/470402" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/la-ministre-deleguee-chargee-de-l-enseignement-et-de-la-formation-professionnels-et-de-l-470402">Ministre déléguée chargée de l’Enseignement et de la Formation professionnels et de l’Apprentissage</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/6557" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/les-regions-academiques-academies-et-services-departementaux-de-l-education-nationale-6557">Académies</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115274" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/toute-l-actualite">Actualités</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41528" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-mediateur-de-l-education-nationale-et-de-l-enseignement-superieur-41528">Le médiateur</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115224" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/depp">Études et statistiques (Depp)</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115221" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/csp">Conseil supérieur des programmes (CSP)</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115262" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/igesr">Inspection générale de l’éducation, du sport et de la recherche (IGÉSR)</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115640" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/cee">Conseil d'évaluation de l'École (CEE)</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-2086917096-2">
+              Système éducatif
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-2086917096-2">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/12311" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/organisation-de-l-ecole-12311">Organisation de l'école</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/89246" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/valeurs-et-engagement-89246">Valeurs et engagement</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/89249" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/acteurs-de-l-education-nationale-89249">Acteurs</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/286058" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/publications-rapports-et-statistiques-286058">Publications et rapports</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/416565" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-numerique-pour-l-education-416565">Le numérique pour l'éducation</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-2086917096-3">
+              Enseignements
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-2086917096-3">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41483" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/programmes-scolaires-41483">Programmes scolaires</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115259" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/reussir-au-lycee">Réussir au lycée</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41459" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/examens-et-diplomes-41459">Examens et diplômes</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41486" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/europe-et-international-41486">Europe et international</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/470459" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/des-actions-educatives-pour-apprendre-autrement-470459">Actions éducatives</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/470459" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/des-actions-educatives-pour-apprendre-autrement-470459">Des actions éducatives pour apprendre autrement</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-2086917096-4">
+              Vie scolaire
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-2086917096-4">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41510" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/fonctionnement-de-l-ecole-41510">Fonctionnement de l'école</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/12323" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/bien-etre-et-sante-des-eleves-12323">Bien-être des élèves</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/505570" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/parents">Les parents et l'École</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41561" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/l-orientation-au-college-et-au-lycee-41561">Orientation</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/41564" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/les-aides-scolaires-41564">Aides scolaires</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="taxonomy/term/115256" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/non-au-harcelement">Non au harcèlement</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/456201" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/consignes-de-securite-applicables-dans-les-etablissements-relevant-du-ministere-de-l-education-456201">Vigipirate -  sécurité des établissements</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn"
+                    aria-expanded="false"
+                    type="button"
+                    aria-controls="main-menu-2086917096-5">
+              Métiers et ressources humaines
+            </button>
+              <div class="fr-collapse fr-menu" id="main-menu-2086917096-5">
+                            <ul class="fr-menu__list">
+                                        <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/89624" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-de-l-enseignement-et-de-l-education-89624">Enseignement et éducation</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/99929" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-administratifs-99929">Politiques publiques et administration</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/99932" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-de-l-encadrement-99932">Encadrement</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/99941" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-de-la-sante-et-du-social-99941">Santé et social</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/309546" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-de-la-jeunesse-et-du-sport-309546">Jeunesse et Sport</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/450233" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/metiers-du-numerique-450233">Numérique</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-link-system-path="node/99944" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/concours-et-recrutements-99944">Concours</a>
+
+          </li>
+                                                  <li class="fr-nav__item">
+                              <a data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-ministere-s-engage-pour-l-egalite-professionnelle-9284">Égalité professionnelle et diversité</a>
+
+          </li>
+                        </ul>
+      
+              </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                        <a data-drupal-link-system-path="node/467636" data-drupal-active-trail="false" class="fr-nav__link fr-nav__link_last" href="/le-bulletin-officiel-de-l-education-nationale-de-la-jeunesse-et-des-sports">Bulletin officiel</a>
+
+                  </li>
+                    
+          </ul>
+  </nav>
+
+
+
+
+
+</div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+    </div>
+  </header>
+
+  
+    <div>
+    <div id="block-edugouv-dsfr-breadcrumb" class="fr-container">
+
+
+
+      <nav data-component-id="ui_suite_dsfr:breadcrumb" class="fr-breadcrumb" role="navigation" aria-label="Vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-812722280" type="button">Voir le fil d'Ariane</button>
+    <div class="fr-collapse" id="breadcrumb-812722280">
+      <ol class="fr-breadcrumb__list">
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/">
+              Accueil
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/">
+              Enseignements
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/programmes-scolaires-41483">
+              Programmes scolaires
+            </a>
+          </li>
+                  <li>
+                                                            <a aria-current="page" class="fr-breadcrumb__link">
+              Programmes et horaires à l'école élémentaire
+            </a>
+          </li>
+              </ol>
+    </div>
+  </nav>
+
+
+</div>
+
+  </div>
+
+
+  
+  <main role="main" class="fr-container--fluid">
+    <a id="main-content" tabindex="-1"></a>    <div class="fr-grid-row fr-grid-row--gutters">
+
+            
+      <div class="fr-col-12  no-padding" style="order: 2">
+          <div>
+    <div id="block-edugouv-dsfr-content">
+
+
+
+  <article about="/programmes-et-horaires-l-ecole-elementaire-9011">
+  <div>
+    
+
+  
+
+
+<div class="fr-hero-edito education-background-tournesol">
+  <div class="fr-container">
+    <div
+      class="fr-grid-row fr-grid-row--gutters fr-py-8v fr-py-md-11v">
+      <div  data-component-id="edugouv_dsfr:hero_edito" class="fr-col-md-6">
+
+        
+                    <h1  class="fr-mb-2w fr-mb-md-3w">
+            
+
+
+  
+    Programmes et horaires à l&#039;école élémentaire
+
+
+
+            </h1>
+        
+      
+              <p class="fr-text--lead fr-mb-2w fr-mb-md-3w">
+          
+
+
+    Les programmes assurent l&#039;acquisition des connaissances et des compétences fondamentales. En septembre 2026, certains programmes révisés entrent en vigueur.
+
+
+
+        </p>
+      
+              <p class="fr-text--xs fr-mb-1w fr-mb-md-0">
+
+
+    <time datetime="2026-08-12T12:00:00Z">12/08/2026</time>
+
+
+
+</p>
+          </div>
+
+          <div class="fr-col-12 fr-col-md-6">
+        <div class="fr-card__img">
+          
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-02/-cole-l-mentaire-448179.jpg.webp?h=fd17a8d0&amp;itok=chBppCtR" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        <div class="fr-text--xs fr-mt-1w fr-mb-0">
+          
+        </div>
+      </div>
+      </div>
+</div>
+</div>
+<div>
+    <div class="fr-container">
+        <div class="fr-mt-6w fr-grid-row fr-grid-row--gutters" data-component-id="edugouv_dsfr:grid_row_2_colors">
+                                      <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-4 fr-col-xl-4">
+            
+
+
+  
+
+    <div class="fr-summary-sidemenu">
+        <nav class="fr-summary fr-summary__nav"
+                 id="js-sticky-summary-data" role="navigation"
+                 aria-labelledby="fr-summary-title--142251393">
+                <div class="fr-summary__inner">
+                                    <h2 class="fr-summary__btn fr-m-0">Sommaire</h2>
+                                      <div
+                         id="fr-summary-wrapper-summary-1190973503">
+                                                  <ul class="fr-summary__list js-summary-list-data"></ul>
+                                            </div>
+                </div>
+            </nav>
+
+            </div>
+
+
+
+          </div>
+                                        <div class="fr-m-auto fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-8 fr-col-xl-8">
+            
+
+
+  
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h2 class="fr-mt-3w">L’école élémentaire : apprendre les fondamentaux et s’ouvrir au monde</h2><p>L’école élémentaire accueille les enfants de 6 à 11 ans. Elle comprend cinq niveaux de classe : le cours préparatoire (CP), le cours élémentaire 1re année (CE1), le cours élémentaire 2e année (CE2), le cours moyen 1re année (CM1) et le cours moyen 2e année (CM2).</p><p>À l’école élémentaire, les élèves acquièrent les apprentissages fondamentaux : lire, écrire, compter et respecter les autres.</p><p>Ils développent également leurs connaissances, leur curiosité et leurs capacités dans de nombreux domaines. Ils découvrent l’histoire, la géographie, les sciences et la technologie, pratiquent les arts et les activités physiques et sportives, et développent leurs compétences manuelles.</p><p>Les élèves apprennent aussi une langue vivante étrangère et peuvent être sensibilisés à la diversité des langues.</p><p>L’école les accompagne dans la découverte des médias et des outils numériques afin qu’ils apprennent à les utiliser de manière autonome et responsable.</p><p>Elle leur transmet également des valeurs essentielles : le respect de chacun, quelles que soient son origine ou ses différences, les droits de l’enfant et l’égalité entre les filles et les garçons, puis entre les femmes et les hommes.</p><p>Enfin, en lien avec les familles, l’école assure l’enseignement moral et civique. Les élèves découvrent les valeurs et les symboles de la République française et de l’Union européenne, ainsi que les principes qui leur permettront de devenir des citoyens responsables.</p><h2 class="fr-mt-3w">Les horaires à l'école élémentaire</h2><h4 class="fr-mt-3w">La semaine scolaire</h4><ul><li>compte 24 heures d'enseignement, réparties sur neuf demi-journées selon les territoires ;</li><li>comprend les journées de lundi, mardi, mercredi (uniquement le matin), jeudi et vendredi<br>comporte au moins cinq matinées en fonction des territoires</li></ul><h4 class="fr-mt-3w">Un jour d'école</h4><ul><li>ne doit pas dépasser 5 heures 30 et une demi-journée ne doit pas dépasser 3 heures 30 ;</li><li>comprend une pause méridienne d'au moins 1 heure 30 ;</li><li>peut permettre aux écoles de bénéficier en plus d'activités pédagogiques</li></ul><p>L'année scolaire compte 36 semaines, réparties en cinq périodes de travail.</p><p><a href="/organisation-de-l-ecole-12311" data-entity-type="node" data-entity-uuid="baaa60c9-76b5-4b2a-83bd-15fa987c919c" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">En savoir plus sur l'organisation de l'école.</a></p><h2 class="fr-mt-3w">Les programmes<br>&nbsp;</h2>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+
+  <div data-component-id="edugouv_dsfr:highlight" class="fr-highlight">
+    <p>Les programmes révisés clarifient les attendus et définissent des objectifs d'apprentissage annuels. En septembre 2026, entrent en vigueur :&nbsp;</p><ul><li>En CP et CM1, les programmes révisés de sciences et la technologie, d'éducation physique et sportive, d'histoire-géographie et de langues vivantes étrangères et régionales ;</li><li>En CM2, les nouveaux programmes de mathématiques et de français.</li></ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h3 class="fr-mt-3w">CP, CE1 et CE2 (cycle 2) : le cycle des apprentissages fondamentaux</h3><h4 class="fr-mt-3w">Français</h4><p>À l'école maternelle, les élèves ont développé des compétences dans l'usage du langage oral et appris à parler ensemble, entendu des textes et appris à les comprendre, découvert la fonction de l'écrit et commencé à en produire. L'acquisition du vocabulaire, la conscience phonologique et la découverte du principe alphabétique, l'attention aux régularités de la langue et un premier entrainement aux gestes essentiels de l'écriture leur ont donné des repères pour poursuivre les apprentissages en français.</p><p>L'enseignement du français consolide les compétences des élèves pour communiquer et vivre en société, structure chacun dans sa relation au monde et participe à la construction de soi. Il facilite l'entrée dans tous les enseignements et leurs langages. Les objectifs de fin de cycle sont d'assurer des compétences de base solides en lecture et en écriture pour tous les élèves.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-487715674"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-487715674">
+      <ul><li>Lecture</li><li>Écriture</li><li>Oral</li><li>Vocabulaire</li><li>Grammaire et orthographe</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-2132435707"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-2132435707">
+      <p>Au cycle 2, les élèves apprennent avant tout à lire en développant trois compétences clés : décoder, lire à voix haute et comprendre des textes. Ils découvrent les relations entre lettres et sons pour déchiffrer des mots, puis des phrases entières. Progressivement, ils automatisent la lecture des mots les plus fréquents et améliorent leur fluidité grâce à des exercices réguliers de lecture à voix haute. Enfin, à travers une exposition quotidienne à des textes variés, ils enrichissent leur vocabulaire, construisent leur culture littéraire et développent leur goût pour la lecture.</p><p>Les élèves apprennent à écrire en consolidant à la fois le geste graphique et la maitrise des codes de l’écrit. Ils poursuivent l’apprentissage de l’écriture cursive, d’abord des minuscules puis des majuscules, jusqu’à automatiser leur tracé. Par la copie, ils s’entrainent à reproduire des lettres, des mots puis des phrases, ce qui renforce leur mémoire orthographique et syntaxique. Les dictées les aident à mémoriser les relations entre les sons et les lettres et à progresser en orthographe. Ils commencent à produire leurs propres écrits : des phrases simples, des textes courts, en apprenant à respecter la segmentation des mots, la ponctuation, la syntaxe et l’orthographe. L’écriture devient peu à peu un outil personnel de communication et d’apprentissage.</p><p>Ils développent leurs compétences orales en apprenant à écouter, comprendre et s’exprimer clairement dans différentes situations. En lien avec les apprentissages en vocabulaire, ils construisent des phrases correctes et variées, et apprennent à dialoguer avec les autres. Le développement de ces compétences participe à la structuration de leur pensée et accompagne efficacement l’apprentissage de la lecture et de l’écriture.</p><p>Ils enrichissent quotidiennement leur vocabulaire. Ils découvrent comment organiser les mots, repérer les liens qui les relient et les utiliser dans des phrases à l’oral et à l’écrit. Ils s’entraînent à réutiliser ce vocabulaire dans toutes les disciplines pour mieux lire, écrire et communiquer.</p><p>En grammaire et orthographe, ils apprennent à identifier le sujet et le verbe dans une phrase et à construire des phrases correctes. Ils s’exercent régulièrement avec des phrases simples pour acquérir les structures les plus régulières de la langue ; ils découvrent et mémorisent les régularités orthographiques : ces apprentissages sont réinvestis dans toutes les situations langagières.</p><p><a href="/bo/2024/Hebdo41/MENE2415135A" data-entity-type="node" data-entity-uuid="9389c646-78a9-45eb-8e29-4c46189580b9" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">En savoir plus sur les nouveaux programmes de français du cycle 2</a></p>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div class="edugouv-miseenavant fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col">
+      
+
+
+    
+
+<div data-component-id="ui_suite_dsfr:callout" class="fr-callout--blue-cumulus fr-callout">
+      <h3 class="fr-callout__title">
+      Personnels éducatifs
+    </h3>
+    <p class="fr-callout__text">
+    <p><strong>Professeurs en CP et en CE1 </strong>: <a href="https://eduscol.education.fr/3107/guides-fondamentaux-pour-l-enseignement#summary-item-5" data-entity-type="external" target="_blank" rel="noopener external" title="retrouvez sur éduscol deux guides - nouvelle fenêtre" class="fr-link">retrouvez sur éduscol deux guides</a> pour enseigner la lecture et l'écriture.</p>
+  </p>
+  
+</div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Langues vivantes</h4><p>Les élèves, dès le cycle 1, bénéficient d’un enseignement d’éveil à la diversité linguistique. C'est dans ce cycle que se développent, en premier lieu, des comportements indispensables à l'apprentissage d'une langue vivante étrangère ou régionale : curiosité, écoute, attention, mémorisation, confiance en soi.</p><p>Le cycle 2 constitue, quant à lui, le point de départ de l'<a href="/les-langues-vivantes-etrangeres-et-regionales-11249" data-entity-type="node" data-entity-uuid="5a29c33e-5607-42a9-a1ed-c86edc41af79" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">apprentissage d'une langue vivante</a> pour tous les élèves avec un enseignement correspondant au niveau A1 à l'oral du Cadre européen commun de référence pour les langues (CECRL). Ce cycle contribue à poser les jalons d'un premier développement de la compétence plurilingue des élèves. La langue orale est la priorité. Elle s'organise autour de tâches simples, en compréhension, en reproduction et progressivement en production. Un premier contact avec l'écrit peut s'envisager lorsque les situations langagières le justifient.&nbsp;</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1024713646"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1024713646">
+      <ul><li>Comprendre l'oral</li><li>S'exprimer oralement en continu</li><li>Prendre part à une conversation</li><li>Découvrir quelques aspects culturels d'une langue vivante étrangère et régionale</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-456772017"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-456772017">
+      <p>Le socle commun de connaissances, de compétences et de culture offre dans le domaine « Les représentations du monde et l'activité humaine » une entrée particulièrement riche, qui permet aux élèves de commencer, dès le cycle 2, à observer et à aborder les faits culturels et à développer leur sensibilité à la différence et à la diversité culturelle.</p><p>L'entrée dans la langue étrangère ou régionale se fait naturellement en parlant de soi et de son univers, réel et imaginaire. Trois thématiques sont ainsi proposées autour de l'enfant, la classe, l'univers enfantin : environnement quotidien et monde imaginaire, qui permettent de confronter l'élève à des genres et des situations de communication variés, en s'appuyant sur ce qu'il connait.</p>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Arts plastiques</h4><p>L'enseignement des arts plastiques développe particulièrement le potentiel d'invention des élèves, au sein de situations ouvertes favorisant l'autonomie, l'initiative et le recul critique. Il se construit à partir des éléments du langage artistique : forme, espace, lumière, couleur, matière, geste, support, outil, temps. Il explore des domaines variés, tant dans la pratique que dans les références : dessin, peinture, collage, modelage, sculpture, assemblage, photographie, vidéo, création numérique... La rencontre avec les œuvres d'art y trouve un espace privilégié, qui permet aux élèves de s'engager dans une approche sensible et curieuse, enrichissant leur potentiel d'expression singulière et de jugement. Ces derniers apprennent ainsi à accepter ce qui est autre et autrement en art et par les arts.</p><p>En cycle 2, cet enseignement consolide la sensibilisation artistique engagée en maternelle et apporte aux élèves des connaissances et des moyens qui leur permettront, dès le cycle 3, d'explorer une expression personnelle, de reconnaitre la singularité d'autrui et d'accéder à une culture artistique partagée.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-105219822"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-105219822">
+      <ul><li>Expérimenter, produire, créer</li><li>Mettre en œuvre un projet artistique</li><li>S'exprimer, analyser sa pratique, celle de ses pairs ; établir une relation avec celle des artistes, s'ouvrir à l'altérité</li><li>Se repérer dans les domaines liés aux arts plastiques, être sensible aux questions de l'art</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-535000543"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-535000543">
+      <p>Ces compétences sont développées et travaillées à partir de trois grandes questions proches des préoccupations des élèves, visant à investir progressivement l'art :</p><ul><li>la représentation du monde ;</li><li>l'expression des émotions ;</li><li>la narration et le témoignage par les images.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Éducation musicale</h4><p>L'éducation musicale développe deux grands champs de compétences structurant l'ensemble du parcours de formation de l'élève jusqu'à la fin du cycle 4 : la perception et la production. Prenant en compte la sensibilité et le plaisir de faire de la musique comme d'en écouter, l'éducation musicale apporte les savoirs culturels et techniques nécessaires au développement des capacités d'écoute et d'expression.</p><p>La voix tient un rôle central dans les pratiques musicales de la classe. Vecteur le plus immédiat pour faire de la musique, elle est particulièrement appropriée aux travaux de production et d'interprétation dans un cadre collectif en milieu scolaire. De même, la mobilisation du corps dans le geste musical contribue à l'équilibre physique et psychologique.</p><p>Au terme du cycle 2, les élèves disposent d'un ensemble d'expériences, de savoir-faire et de repères culturels qui seront à la base de la formation musicale et artistique poursuivie en cycle 3.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-439704538"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-439704538">
+      <ul><li>Chanter</li><li>Écouter, comparer</li><li>Explorer et imaginer</li><li>Échanger, partager</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Éducation physique et sportive</h4><p>L'éducation physique et sportive développe l'accès à un riche champ de pratiques, à forte implication culturelle et sociale, importantes dans le développement de la vie personnelle et collective de l'individu. Tout au long de la scolarité, l'éducation physique et sportive a pour finalité de former un citoyen lucide, autonome, physiquement et socialement éduqué, dans le souci du vivre ensemble. Elle amène les enfants et les adolescents à rechercher le bien-être et à se soucier de leur santé. Elle assure l'inclusion, dans la classe, des élèves à besoins éducatifs particuliers ou en situation de handicap. L'éducation physique et sportive initie au plaisir de la pratique sportive.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h4 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1890046742"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h4>
+    <div class="fr-collapse" id="accordion-1890046742">
+      <p>L'éducation physique et sportive répond aux enjeux de formation du socle commun en permettant à tous les élèves, filles et garçons ensemble et à égalité, a fortiori les plus éloignés de la pratique physique et sportive, de construire cinq compétences travaillées en continuité durant les différents cycles :</p><ul><li>Développer sa motricité et apprendre à s'exprimer en utilisant son corps</li><li>S'approprier par la pratique physique et sportive, des méthodes et outils</li><li>Partager des règles, assumer des rôles et responsabilités</li><li>Apprendre à entretenir sa santé par une activité physique régulière</li><li>S'approprier une culture physique sportive et artistique</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h4 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-977081392"
+              type="button">
+        Au programme
+      </button>
+    </h4>
+    <div class="fr-collapse" id="accordion-977081392">
+      <p>Pour développer ces compétences générales, l'éducation physique et sportive propose à tous les élèves, de l'école au collège, un parcours de formation constitué de quatre champs d'apprentissage complémentaires :</p><ul><li>Produire une performance optimale, mesurable à une échéance donnée</li><li>Adapter ses déplacements à des environnements variés</li><li>S'exprimer devant les autres par une prestation artistique et/ou acrobatique</li><li>Conduire et maitriser un affrontement collectif ou interindividuel</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Enseignement moral et civique</h4><p>L'enseignement moral et civique vise à l'acquisition d'une culture morale et civique et d'un esprit critique qui ont pour finalité le développement des dispositions permettant aux élèves de devenir progressivement conscients de leurs responsabilités dans leur vie personnelle et sociale. Cet enseignement articule des valeurs, des savoirs et des pratiques.</p><p>L'enseignement moral et civique vise aussi une appropriation libre et éclairée par les élèves des valeurs qui fondent la République et la démocratie : le socle des valeurs communes comprend la dignité, la liberté, l'égalité - notamment entre les filles et les garçons -, la solidarité, la laïcité, l'esprit de justice, le respect et l'absence de toute forme de discrimination, c'est-à-dire les valeurs constitutionnelles de la République française, inscrites dans la Déclaration des droits de l'homme et du citoyen de 1789 et dans le préambule de la Constitution de 1946.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1269512905"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1269512905">
+      <p>Le programme met en avant les éléments d'une culture morale et civique qui prend en compte quatre dimensions :</p><ul><li>la sensibilité qui vise à l'acquisition d'une conscience morale par un travail sur l'expression, l'identification, la mise en mots et la discussion des émotions et des sentiments ;</li><li>la règle et le droit qui vise à l'acquisition du sens des règles du vivre ensemble ;</li><li>le jugement qui permet de comprendre et de discuter les choix moraux rencontrés par chacun au cours de sa vie ;</li><li>l'engagement qui permet la mise en pratique de cet enseignement en insistant sur l'esprit d'autonomie, de coopération et de responsabilité vis-à-vis d'autrui.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Questionner le monde</h4><p>Dès l'école maternelle, les élèves explorent et observent le monde qui les entoure ; au cycle 2, ils vont apprendre à le questionner de manière plus précise, par une première démarche scientifique et réfléchie. Les objectifs généraux de « Questionner le monde » sont donc : d'une part de permettre aux élèves d'acquérir des connaissances nécessaires pour décrire et comprendre le monde qui les entoure et développer leur capacité à raisonner ; d'autre part de contribuer à leur formation de citoyens. Les apprentissages, repris et approfondis lors des cycles successifs, se poursuivront ensuite tout au long de la scolarité en faisant appel à des idées de plus en plus élaborées, abstraites et complexes.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h3 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-561602878"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h3>
+    <div class="fr-collapse" id="accordion-561602878">
+      <ul><li>Pratiquer des démarches scientifiques</li><li>Imaginer, réaliser</li><li>S'approprier des outils et des méthodes</li><li>Pratiquer des langages</li><li>Mobiliser des outils numériques</li><li>Adopter un comportement éthique et responsable</li><li>Se situer dans l'espace et dans le temps</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h3 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-350489211"
+              type="button">
+        Au programme
+      </button>
+    </h3>
+    <div class="fr-collapse" id="accordion-350489211">
+      <ul><li>Questionner le monde du vivant, de la matière et des objets<ul><li>Qu'est-ce que la matière</li><li>Comment reconnaitre le monde vivant ?</li><li>Les objets techniques. Qu'est-ce que c'est ? À quels besoins répondent-ils ? Comment fonctionnent-ils ?</li></ul></li><li>Questionner l'espace et le temps<ul><li>Se situer dans l'espace</li><li>Se situer dans le temps</li></ul></li><li>Explorer les organisations du monde</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Mathématiques</h4><p>Au cycle 2, l’enseignement des mathématiques a pour priorité l’acquisition de connaissances et de savoir-faire solides en numération, calcul et résolution de problèmes arithmétiques. Les apprentissages s’appuient sur une approche progressive, du concret vers l’abstrait : manipulation d’objets, représentations schématisées, puis langage et symboles mathématiques.</p><p>La résolution de problèmes est au cœur de l’activité mathématique : elle permet d’introduire de nouvelles notions, de consolider les acquis et de développer les capacités des élèves à chercher, raisonner, modéliser et communiquer. Les élèves apprennent à résoudre différents types de problèmes et à mettre en œuvre des stratégies adaptées.</p><p>Les élèves consolident leur compréhension des nombres entiers, déjà rencontrés au cycle 1, jusqu’à dix-mille. Ils utilisent et relient différentes représentations des nombres : écriture chiffrée, noms à l’oral, décompositions fondées sur le système de numération et sur les propriétés numériques. Les quatre opérations (addition, soustraction, multiplication et division) sont travaillées à partir de situations-problèmes qui leur donnent du sens et amènent les élèves à choisir des procédures adaptées. La pratique quotidienne, progressive et structurée du calcul mental, associée à des tests courts de fluence, développe les automatismes et renforce la confiance en soi.</p><p>Les élèves découvrent également les fractions en les reliant à des partages concrets d’objets ou de longueurs, et en les représentant sous forme mathématique. Dans le domaine des grandeurs et mesures, ils apprennent à comparer, estimer et mesurer des longueurs, des masses, des contenances et des durées, ainsi qu’à utiliser la monnaie pour permettre une fréquentation concrète de l’écriture à virgule des nombres décimaux. En géométrie, ils se familiarisent avec le vocabulaire spécifique, les propriétés des figures et des solides, et apprennent à utiliser les instruments de tracé pour réaliser des constructions précises. Enfin, ils s’initient à l’organisation et à la gestion de données en recueillant des informations et en les présentant sous forme de tableaux ou de diagrammes.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-313885183"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-313885183">
+      <ul><li>chercher ;</li><li>modéliser ;</li><li>représenter ;</li><li>raisonner ;</li><li>calculer ;</li><li>communiquer.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1047717424"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1047717424">
+      <ul><li>nombres, calcul et résolution de problèmes ;</li><li>grandeurs et mesures ;</li><li>espace et géométrie ;</li><li>organisation et gestion de données.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div class="edugouv-miseenavant fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col">
+      
+
+
+    
+
+<div data-component-id="ui_suite_dsfr:callout" class="fr-callout--blue-cumulus fr-callout">
+      <h3 class="fr-callout__title">
+      Personnels éducatifs
+    </h3>
+    <p class="fr-callout__text">
+    <p>Professeurs en CP <a href="https://eduscol.education.fr/3107/guides-fondamentaux-pour-l-enseignement#summary-item-5" data-entity-type="external" target="_blank" rel="noopener external" title="consultez sur éduscol - nouvelle fenêtre" class="fr-link">consultez sur éduscol</a> le guide pour enseigner les nombres, le calcul et la résolution de problèmes.</p>
+  </p>
+  
+</div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h3 class="fr-mt-3w">CM1, CM2 et classe de sixième (cycle 3) : un cycle de consolidation</h3><p>Le cycle 3 relie désormais les deux dernières années de l'école primaire et la première année du collège, dans un souci renforcé de continuité pédagogique et de cohérence des apprentissages au service de l'acquisition du socle commun de connaissances, de compétences et de culture. La classe de 6e occupe une place particulière dans le cycle : elle permet aux élèves de s'adapter au rythme, à l'organisation pédagogique et au cadre de vie du collège tout en se situant dans la continuité des apprentissages engagés au CM1 et au CM2.</p><h4 class="fr-mt-3w">Français</h4><p>Le cycle 2 a permis l'acquisition de la lecture et de l'écriture. Le cycle 3 doit consolider ces acquisitions afin de les mettre au service des autres apprentissages dans une utilisation large et diversifiée de la lecture et de l'écriture. Le langage oral, qui conditionne également l'ensemble des apprentissages et constitue aussi un moyen d'entrer dans la culture de l'écrit, continue à faire l'objet d'une attention constante et d'un travail spécifique. De manière générale, la maitrise de la langue reste un objectif central du cycle 3 et l'intégration de la classe de 6e au cycle doit permettre d'assurer à tous les élèves une autonomie suffisante en lecture et écriture pour aborder le cycle 4 avec les acquis nécessaires à la poursuite de la scolarité.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-888150182"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-888150182">
+      <ul><li>lecture ;</li><li>culture littéraire et artistique ;</li><li>écriture ;</li><li>oral ;</li><li>vocabulaire ;</li><li>grammaire et orthographe grammaticale.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-366254007"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-366254007">
+      <p>L’enseignement de la <strong>culture littéraire et artistique</strong> suit la perspective "Découvrir – Jouer", qui valorise la curiosité et le plaisir de l’élève. Les élèves explorent différents genres et formes d’expression (roman, théâtre, poésie, albums, bandes dessinées, films) et sont amenés à réfléchir sur les textes et leurs mises en relation. La diversité des œuvres permet de développer la sensibilité artistique, la culture générale et une relation personnelle aux lectures. Les élèves découvrent également des littératures variées, francophones et étrangères, pour s’ouvrir à différentes cultures et enrichir leur expérience. En 6e, le traitement des entrées littéraires s’inscrit dans le cadre d’un projet d’apprentissage précis, organisé autour d’une problématique propre à chaque entrée, et de textes littéraires (œuvres complètes, et/ou groupements de textes, lectures cursives).</p><p>Au cycle 3, <strong>écrire</strong> implique de maîtriser l’écriture cursive, d’appliquer correctement l’orthographe et d’organiser ses textes de manière cohérente. Les élèves rédigent régulièrement des textes courts ou longs, explorant différents types d’écrit et supports, y compris numériques et créatifs. La préparation et la révision des écrits sont systématiquement travaillées, tout comme le partage et la lecture des productions entre pairs, afin de développer l’autonomie et la conscience de ses choix. L’écriture artistique et créative permet de stimuler l’imagination et d’explorer librement les possibilités de la langue.</p><p>Le<strong> langage oral</strong> est travaillé pour que les élèves s’expriment clairement et de manière organisée. Ils apprennent à présenter des informations, argumenter, dialoguer et débattre. La lecture expressive, la récitation, l’explication de documents ou la présentation de projets sont autant de situations pour pratiquer l’oral. Ces activités enrichissent le vocabulaire et aident à communiquer efficacement.</p><p>Le cycle 3 vise à enrichir le <strong>vocabulaire</strong> des élèves et à développer leur autonomie dans son usage. Les élèves rencontrent de nouveaux mots en contexte, les étudient pour en comprendre le sens et le fonctionnement, puis les réemploient à l’oral et à l’écrit. Cette pratique leur permet de s’exprimer avec précision, de mieux comprendre les textes et de progresser dans toutes les disciplines.</p><p>L’étude de la <strong>grammaire et de l’orthographe grammaticale</strong> accompagne toutes les activités langagières et favorise l’autonomie des élèves. La grammaire permet de comprendre le fonctionnement de la langue et d’appliquer ses règles pour communiquer de manière plus précise. Les élèves apprennent à identifier les compléments du verbe, les groupes nominaux et verbaux, à respecter les accords et à comprendre les régularités de la conjugaison. L’orthographe grammaticale et la manipulation des phrases sont travaillées régulièrement pour renforcer durablement la maîtrise de la langue.</p>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Langues vivantes</h4><p>Au cycle 3, l'enseignement de la langue vivante étrangère ou régionale vise l'acquisition de compétences et de connaissances qui permettent l'usage plus assuré et plus efficace d'une langue autre que la langue française. Des situations de communication adaptées à l'âge, aux capacités cognitives, aux intérêts des élèves, contribuent à la construction de connaissances langagières, permettant d'atteindre le niveau A1 du Cadre européen commun de référence pour les langues (CECRL) dans les cinq activités langagières.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-863163853"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-863163853">
+      <ul><li>écouter et comprendre ;</li><li>parler en continu ;</li><li>écrire ;</li><li>réagir et dialoguer ;</li><li>découvrir les aspects culturels d'une langue vivante étrangère et régionale.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h3 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-103335457"
+              type="button">
+        Au programme
+      </button>
+    </h3>
+    <div class="fr-collapse" id="accordion-103335457">
+      <p>Les thématiques ou les types de supports (théâtre, cinéma, poésie...) mentionnés en cycle 2 peuvent être repris en veillant à proposer une progression sur l'ensemble de la scolarité obligatoire et en évitant les redondances, l'objectif d'enrichissement linguistique restant lié aux autres enseignements dispensés. Au cycle 3, les connaissances culturelles sont réparties selon trois axes :</p><ul><li>La personne et la vie quotidienne</li><li>Des repères géographiques, historiques et culturels dans la langue étudiée</li><li>L'imaginaire</li></ul><p>En classe de sixième, un nouveau programme est mis en place dès septembre 2025. Il définit des objectifs d’apprentissages organisés autour de repères linguistiques et de repères culturels, et prépare la suite de la scolarité au collège, avec une ambition réhaussée de formation des élèves (niveau B1 du CECRL désormais attendu en fin de 3e pour la LV1).</p>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Arts plastiques</h4><p>Durant le cycle 3, l'enseignement des arts plastiques s'appuie sur l'expérience, les connaissances et les compétences travaillées au cycle 2 pour engager progressivement les élèves dans une pratique sensible plus autonome, qu'ils apprennent à analyser davantage. Le développement du potentiel d'invention et de création est poursuivi. Les apprentissages sont nourris par l'introduction de connaissances plus précises et par une attention plus soutenue à l'explicitation de la production plastique des élèves, des processus artistiques observés, de la réception des œuvres rencontrées.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1198334607"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1198334607">
+      <ul><li>expérimenter, produire, créer ;</li><li>mettre en œuvre un projet artistique ;</li><li>s'exprimer, analyser sa pratique, celle de ses pairs ; établir une relation avec celle des artistes, s'ouvrir à l'altérité ;</li><li>se repérer dans les domaines liés aux arts plastiques, être sensible aux questions de l'art.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1763462690"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1763462690">
+      <p>Ces compétences sont développées et travaillées à partir de trois grandes questions :</p><ul><li>La représentation plastique et les dispositifs de présentation</li><li>Les fabrications et la relation entre l'objet et l'espace</li><li>La matérialité de la production plastique et la sensibilité aux constituants de l'œuvre</li></ul><p>Les trois questions au programme sont abordées chaque année du cycle ; travaillées isolément ou mises en relation, elles permettent de structurer les apprentissages.</p>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Éducation musicale</h4><p>Dans la continuité du cycle 2 et pour préparer le cycle 4, l'éducation musicale en cycle 3 poursuit la découverte et le développement des deux grands champs de compétences qui structurent l'ensemble du parcours de formation : la perception et la production.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1508366931"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1508366931">
+      <ul><li>Chanter et interpréter</li><li>Écouter, comparer et commenter</li><li>Explorer, imaginer et créer</li><li>Échanger, partager et argumenter</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Histoire des arts</h4><p>L'enseignement pluridisciplinaire et transversal de l'histoire des arts structure la culture artistique de l'élève par l'acquisition de repères issus des œuvres et courants artistiques divers et majeurs du passé et du présent et par l'apport de méthodes pour les situer dans l'espace et dans le temps, les interpréter et les mettre en relation. Il contribue au développement d'un regard sensible, instruit et réfléchi sur les œuvres. Tout au long du cycle 3, l'histoire des arts contribue à créer du lien entre les autres enseignements et met en valeur leur dimension culturelle. À partir de la classe de sixième, il associe des professeurs de plusieurs disciplines.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1384091253"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1384091253">
+      <ul><li>Identifier : donner un avis argumenté sur ce que représente ou exprime une œuvre d'art</li><li>Analyser : dégager d'une œuvre d'art, par l'observation ou l'écoute, ses principales caractéristiques techniques et formelles</li><li>Situer : relier des caractéristiques d'une œuvre d'art à des usages ainsi qu'au contexte historique et culturel de sa création</li><li>Se repérer dans un musée, un lieu d'art, un site patrimonial</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Éducation physique et sportive</h4><p>L'éducation physique et sportive développe l'accès à un riche champ de pratiques, à forte implication culturelle et sociale, importantes dans le développement de la vie personnelle et collective de l'individu. Tout au long de la scolarité, l'éducation physique et sportive a pour finalité de former un citoyen lucide, autonome, physiquement et socialement éduqué, dans le souci du vivre ensemble. Elle amène les enfants et les adolescents à rechercher le bien-être et à se soucier de leur santé. Elle assure l'inclusion, dans la classe, des élèves à besoins éducatifs particuliers ou en situation de handicap. L'éducation physique et sportive initie au plaisir de la pratique sportive.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-2114280"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-2114280">
+      <p>L'éducation physique et sportive répond aux enjeux de formation du socle commun en permettant à tous les élèves, filles et garçons ensemble et à égalité, a fortiori les plus éloignés de la pratique physique et sportive, de construire cinq compétences travaillées en continuité durant les différents cycles :</p><ul><li>Développer sa motricité et apprendre à s'exprimer en utilisant son corps</li><li>S'approprier par la pratique physique et sportive, des méthodes et outils</li><li>Partager des règles, assumer des rôles et responsabilités</li><li>Apprendre à entretenir sa santé par une activité physique régulière</li><li>S'approprier une culture physique sportive et artistique</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-220482932"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-220482932">
+      <p>Pour développer ces compétences générales, l'éducation physique et sportive propose à tous les élèves, de l'école au collège, un parcours de formation constitué de quatre champs d'apprentissage complémentaires :</p><ul><li>Produire une performance optimale, mesurable à une échéance donnée</li><li>Adapter ses déplacements à des environnements variés</li><li>S'exprimer devant les autres par une prestation artistique et/ou acrobatique</li><li>Conduire et maitriser un affrontement collectif ou interindividuel</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Enseignement moral et civique</h4><p>L'enseignement moral et civique vise à l'acquisition d'une culture morale et civique et d'un esprit critique qui ont pour finalité le développement des dispositions permettant aux élèves de devenir progressivement conscients de leurs responsabilités dans leur vie personnelle et sociale. Cet enseignement articule des valeurs, des savoirs et des pratiques.</p><p>L'enseignement moral et civique vise aussi une appropriation libre et éclairée par les élèves des valeurs qui fondent la République et la démocratie : le socle des valeurs communes comprend la dignité, la liberté, l'égalité - notamment entre les filles et les garçons -, la solidarité, la laïcité, l'esprit de justice, le respect et l'absence de toute forme de discrimination, c'est-à-dire les valeurs constitutionnelles de la République française, inscrites dans la Déclaration des droits de l'homme et du citoyen de 1789 et dans le préambule de la Constitution de 1946.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-458344394"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-458344394">
+      <p>Le programme met en avant les éléments d'une culture morale et civique qui prend en compte quatre dimensions :</p><ul><li>la sensibilité qui vise à l'acquisition d'une conscience morale par un travail sur l'expression, l'identification, la mise en mots et la discussion des émotions et des sentiments ;</li><li>la règle et le droit qui vise à l'acquisition du sens des règles du vivre ensemble ;</li><li>le jugement qui permet de comprendre et de discuter les choix moraux rencontrés par chacun au cours de sa vie ;</li><li>l'engagement qui permet la mise en pratique de cet enseignement en insistant sur l'esprit d'autonomie, de coopération et de responsabilité vis-à-vis d'autrui.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Histoire et géographie</h4><p>Les élèves poursuivent au cycle 3 la construction progressive et de plus en plus explicite de leur rapport au temps et à l'espace, à partir des contributions de deux enseignements disciplinaires liés, l'histoire et la géographie, dont les finalités civiques et culturelles à la fin du cycle. Ces deux enseignements traitent de thématiques et de notions communes et partagent des outils et des méthodes. Leurs spécificités tiennent à leurs objets d'étude, le temps et l'espace, et aux modalités qu'ils mettent en œuvre pour les appréhender.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-18066448"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-18066448">
+      <ul><li>Se repérer dans le temps : construire des repères historiques</li><li>Se repérer dans l'espace : construire des repères géographiques</li><li>Raisonner, justifier une démarche et les choix effectués</li><li>Poser des questions, se poser des questions</li><li>S'informer dans le monde du numérique</li><li>Comprendre un document</li><li>Pratiquer différents langages en histoire et en géographie</li><li>Coopérer et mutualiser</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1204949117"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1204949117">
+      <h6 class="fr-mt-3w">Histoire - Classe de CM1</h6><p>Thème 1 : Et avant la France ?<br>Thème 2 : Le temps des rois<br>Thème 3 : Le temps de la Révolution et de l'Empire</p><h6 class="fr-mt-3w">Histoire - Classe de CM2</h6><p>Thème 1 : Le temps de la République<br>Thème 2 : L'âge industriel en France<br>Thème 3 : La France, des guerres mondiales à l'Union européenne</p><h6 class="fr-mt-3w">Géographie - Classe de CM1</h6><p>Thème 1 : Découvrir le(s) lieu(x) où j'habite<br>Thème 2 : Se loger, travailler, se cultiver, avoir des loisirs en France<br>Thème 3 : Consommer en France</p><h6 class="fr-mt-3w">Géographie - Classe de CM2</h6><p>Thème 1 : Se déplacer<br>Thème 2 : Communiquer d'un bout à l'autre du monde grâce à l'internet<br>Thème 3 : Mieux habiter</p>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Sciences et technologie</h4><p>Au cours du cycle 2, l'élève a exploré, observé, expérimenté, questionné le monde qui l'entoure. Au cycle 3, les notions déjà abordées sont revisitées pour progresser vers plus de généralisation et d'abstraction, en prenant toujours soin de partir du concret et des représentations de l'élève.</p><p>La construction de savoirs et de compétences, par la mise en œuvre de démarches scientifiques et technologiques variées et la découverte de l'histoire des sciences et des technologies, introduit la distinction entre ce qui relève de la science et de la technologie et ce qui relève d'une opinion ou d'une croyance. La diversité des démarches et des approches (observation, manipulation, expérimentation, simulation, documentation...) développe simultanément la curiosité, la créativité, la rigueur, l'esprit critique, l'habileté manuelle et expérimentale, la mémorisation, la collaboration pour mieux vivre ensemble et le gout d'apprendre.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1584864190"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1584864190">
+      <ul><li>Pratiquer des démarches scientifiques et technologiques</li><li>Concevoir, créer, réaliser</li><li>S'approprier des outils et des méthodes</li><li>Pratiquer des langages</li><li>Mobiliser des outils numériques</li><li>Adopter un comportement éthique et responsable</li><li>Se situer dans l'espace et dans le temps</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-141577852"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-141577852">
+      <p>Le programme d'enseignement du cycle 3 s'organise autour de thématiques communes qui conjuguent des questions majeures de la science et des enjeux sociétaux contemporains. Le découpage en quatre thèmes principaux s'organise autour de :</p><ul><li>Matière, mouvement, énergie, information</li><li>Le vivant, sa diversité et les fonctions qui le caractérisent</li><li>Matériaux et objets techniques</li><li>La planète Terre. Les êtres vivants dans leur environnement</li></ul><p>Chacun de ces thèmes permet de construire des concepts ou notions qui trouvent leur application dans l'éducation au développement durable. Le concept d'énergie, progressivement construit, est présent dans chaque thème et les relie.</p>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h4 class="fr-mt-3w">Mathématiques</h4><p>Dans la continuité des cycles précédents, le cycle 3 consolide et approfondit les apprentissages mathématiques afin de préparer les élèves au cycle 4. Il vise à développer l’autonomie, la confiance en soi, le raisonnement et l’esprit critique, tout en luttant contre les inégalités et en sensibilisant les élèves aux grands enjeux du XXIᵉ siècle. La résolution de problèmes occupe une place centrale dans l’apprentissage des mathématiques, quel que soit le domaine du programme. Elle permet de donner du sens aux notions étudiées et constitue le principal levier pour développer les six compétences majeures des mathématiques ainsi qu’un critère essentiel d’évaluation des acquis des élèves.</p>
+
+  </div>
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-276196841"
+              type="button">
+        Compétences travaillées
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-276196841">
+      <ul><li>chercher ;</li><li>modéliser ;</li><li>représenter ;</li><li>raisonner ;</li><li>calculer ;</li><li>communiquer.</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+          
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h5 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-1787547151"
+              type="button">
+        Au programme
+      </button>
+    </h5>
+    <div class="fr-collapse" id="accordion-1787547151">
+      <ul><li>Nombres, calcul et résolution de problèmes</li><li>Grandeurs et mesures</li><li>Espace et géométrie</li><li>Organisation et gestion de données et probabilités</li><li>La proportionnalité</li><li>Initiation à la pensée informatique</li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+  
+<div  class="fr-mb-5w fr-container edugouv-ckeditor">
+      <h2 class="fr-mt-3w">L'évaluation des acquis</h2><p>Le livret scolaire unique de l’école et du collège (du CP à la troisième) est un outil simple et précis pour rendre compte aux parents des acquis et des progrès de leurs enfants et restituer ainsi une évaluation plus complète et exigeante. Suivant les recommandations de la conférence nationale sur l’évaluation des élèves, ce livret permet aux parents et aux élèves d'en prendre connaissance lorsqu'ils le souhaitent.</p><p>Par ailleurs, <strong>les compétences des élèves de CP, &nbsp;CE1, CE2, CM1, CM2 en français et en mathématiques sont évaluées dans le courant du mois de septembre puis de nouveau lors d'un point d'étape fin janvier pour les élèves de CP.</strong> Ainsi, chaque professeur dispose d'un bilan individuel pour chaque élève et adapte son enseignement.</p>
+
+  </div>
+
+
+
+
+  
+
+  <div class="fr-mb-5w">
+    <div class="fr-container">
+        <div data-component-id="edugouv_dsfr:grid_row_1_colors" class="fr-grid-row">
+      <div class="fr-mx-auto fr-col fr-col-12">
+        
+
+
+  
+
+<div>
+        <div data-component-id="edugouv_dsfr:grid_row_1_content_listing" class="fr-grid-row fr-grid-row--gutters">
+      
+                          <div class="fr-col fr-col-12">
+                    
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-card--horizontal fr-card--horizontal-tier fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+    <a href="/l-evaluation-des-acquis-des-eleves-du-cp-au-lycee-12089" hreflang="fr">L&#039;évaluation des acquis des élèves du CP au lycée</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Le ministère de l’Éducation nationale organise des évaluations standardisées des élèves à différents niveaux de leur scolarité : CP, CE1, CE2, CM1, CM2, sixième, cinquième, quatrième, seconde et première année de CAP. Les évaluations des élèves sont complétées par les enquêtes internationales : Pisa, TIMSS, PIRLS et ICILS.</p>
+
+
+
+</div>              <div class="fr-card__start">
+          
+
+
+    
+  
+
+
+
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+    
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-02/evaluations-eleves-gem0662878-449628.jpg.webp?h=fd17a8d0&amp;itok=yu7c15cZ" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+          </div>
+        
+          </div>
+    </div>
+
+
+
+
+
+      </div>
+    </div>
+      </div>
+  </div>
+
+
+
+
+
+  
+  <div class="fr-mb-5w fr-container fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    <div class="visually-hidden">Titre</div>
+  <h2>Ressources</h2>
+
+
+
+
+
+
+    
+  <div data-component-id="ui_suite_dsfr:accordion_group" class="fr-accordions-group">
+              
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+  
+  <section data-component-id="ui_suite_dsfr:accordion" class="fr-accordion">
+            <h3 class="fr-accordion__title">
+      <button class="fr-accordion__btn"
+              aria-expanded="false"
+              aria-controls="accordion-54808177"
+              type="button">
+        Textes officiels
+      </button>
+    </h3>
+    <div class="fr-collapse" id="accordion-54808177">
+      <ul><li><a href="/pid285/bulletin_officiel.html?pid_bo=33400" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Programmes de l'école élémentaire</a> - Bulletin officiel spécial n°11 du 26 novembre 2015</li><li><a href="/bo/2024/Hebdo41-0" data-entity-type="node" data-entity-uuid="fc6cc51a-e059-4911-8645-b9dc30a5c111" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Programmes de français et mathématiques de cycles 1 et 2</a> - Bulletin officiel spécial n°40 du 31 octobre 2024</li><li><a href="/bo/2025/Hebdo16/MENE2504620A" data-entity-type="node" data-entity-uuid="6e63704c-8684-4c2b-b58e-fc2e4d389e39" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Programmes de français et mathématiques de cycle 3</a> - Bulletin officiel spécial n°16 du 17 avril 2025 &nbsp;</li><li><a href="/bo/13/Hebdo32/MENE1318869D.htm" data-entity-type="node" data-entity-uuid="9c8b1e8b-1f41-4eaf-86c2-9b17b19112b0" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Cycles d'enseignement : école primaire et collège</a> - Décret n° 2013-682 du 24 juillet 2013</li><li>Enseignement de la langue des signes française dès la maternelle :&nbsp;<ul><li><a href="/node/274424" data-entity-type="node" data-entity-uuid="4ec662af-d771-45e1-a949-e62073b58ebe" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Objectifs et programme</a> - B.O. n°33 du 4 septembre 2008</li><li><a href="/node/276836" data-entity-type="node" data-entity-uuid="5a08069d-ed07-4f64-a4c8-b9cbb0a9ccb6" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Conditions de mise en œuvre du programme</a> - B.O. n°33 du 4 septembre 2008</li></ul></li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+
+          </div>
+                  </div>
+      </div>
+  </div>
+
+
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-m-auto fr-col fr-col-8">
+      <div class="fr-mt-6w">
+
+
+
+    <div data-component-id="tandem_dsfr:share" class="fr-share">
+      <ul class="fr-btns-group">
+
+      
+                
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.education.gouv.fr%2Fprogrammes-et-horaires-l-ecole-elementaire-9011" title="Partager sur Facebook - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020sur\u0020Facebook&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--facebook">
+    Partager sur Facebook
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.education.gouv.fr%2Fprogrammes-et-horaires-l-ecole-elementaire-9011&amp;text=Programmes%20et%20horaires%20%C3%A0%20l%26%23039%3B%C3%A9cole%20%C3%A9l%C3%A9mentaire" title="Partager sur X - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020sur\u0020X&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--twitter-x">
+    Partager sur X
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://bsky.app/?url=https%3A%2F%2Fwww.education.gouv.fr%2Fprogrammes-et-horaires-l-ecole-elementaire-9011&amp;text=Programmes%20et%20horaires%20%C3%A0%20l%26%23039%3B%C3%A9cole%20%C3%A9l%C3%A9mentaire" title="Partager sur Bluesky - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020sur\u0020Bluesky&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--bluesky">
+    Partager sur Bluesky
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.education.gouv.fr%2Fprogrammes-et-horaires-l-ecole-elementaire-9011&amp;title=Programmes%20et%20horaires%20%C3%A0%20l%26%23039%3B%C3%A9cole%20%C3%A9l%C3%A9mentaire" title="Partager sur LinkedIn - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020sur\u0020LinkedIn&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--linkedin">
+    Partager sur LinkedIn
+  </a>
+
+          </li>
+        
+                  <li>
+                                                <a class="fr-btn fr-btn--mail" href="/cdn-cgi/l/email-protection#8bb4f8fee9e1eee8ffb6d8e3eaf9e2e5ecaeb9bbffe3eeaeb9bbfbeaeceeaeb8caaeb9bbdbf9e4ecf9eae6e6eef8aeb9bbeeffaeb9bbe3e4f9eae2f9eef8aeb9bbaec8b8aecabbaeb9bbe7aeb9bdaeb9b8bbb8b2aeb8c9aec8b8aecab2e8e4e7eeaeb9bbaec8b8aecab2e7aec8b8aecab2e6eee5ffeae2f9eeadeae6fbb0e9e4eff2b6dbf9e4ecf9eae6e6eef8aeb9bbeeffaeb9bbe3e4f9eae2f9eef8aeb9bbaec8b8aecabbaeb9bbe7aeb9bdaeb9b8bbb8b2aeb8c9aec8b8aecab2e8e4e7eeaeb9bbaec8b8aecab2e7aec8b8aecab2e6eee5ffeae2f9eeaeb9bbe3fffffbf8aeb8caaeb9cdaeb9cdfcfcfca5eeeffee8eaffe2e4e5a5ece4fefda5edf9aeb9cdfbf9e4ecf9eae6e6eef8a6eeffa6e3e4f9eae2f9eef8a6e7a6eee8e4e7eea6eee7eee6eee5ffeae2f9eea6b2bbbaba" target="_blank" rel="noopener external" title="Partager par email - nouvelle fenêtre">
+              Partager par email
+            </a>
+          </li>
+        
+                  <li>
+                                    <button title="Copier l&#039;adresse de la page dans le presse-papier" onclick="navigator.clipboard.writeText(window.location);alert(&#039;Page\u0020address\u0020copied\u0020to\u0020clipboard.&#039;);" class="fr-btn fr-btn--copy" type="button">
+              Copier l'adresse de la page dans le presse-papier
+            </button>
+          </li>
+              
+      
+    </ul>
+
+
+      <p class="fr-share__text"><p>Partager la page</p></p>
+  </div>
+  
+
+
+</div>
+
+    </div>
+  </div>
+</div>
+
+  <div class="fr-background-contrast--blue-france fr-pb-6w fr-pt-6w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col">
+      <div class="views-element-container">
+
+
+
+  <div><div class="js-view-dom-id-8ebe34aa0da44163a0b0dc5ef95d779db992a369cce8e7a3d77648689e668fa8">
+  
+  
+  
+
+      <header aria-live="polite">
+      <div class="fr-container">
+<h2 class="fr-mt-3w">Peut également vous intéresser</h2>
+</div>
+    </header>
+  
+  
+  
+
+  
+    
+<div class="fr-background-contrast--blue-france fr-container">
+  <div data-component-id="tandem_dsfr:grid_row" class="fr-grid-row fr-grid-row--gutters" role="list" >
+            <div role="listitem" class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-4 fr-col-xl-4" >
+            
+  
+
+  
+
+<div class="fr-background-default--grey fr-card--sm fr-enlarge-link fr-card--grey fr-card" data-component-id="ui_suite_dsfr:card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        <a href="/l-enseignement-des-sciences-7076" hreflang="fr">L&#039;enseignement des sciences </a>
+      </h3>
+            <div class="fr-card__desc"><p>De l'école au lycée, les élèves suivent des enseignements obligatoires en sciences. Ils ont la possibilité de participer à des concours ou à des actions éducatives pour élargir leur culture scientifique et technologique.</p>
+</div>                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-02/baccalaureat-technologique-013-las0650603-448104.jpg.webp?h=a0c73160&amp;itok=TSAf5gvp" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+      </div>
+      
+    </div>
+  </div>
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-4 fr-col-xl-4" >
+            
+  
+
+  
+
+<div class="fr-background-default--grey fr-card--sm fr-enlarge-link fr-card--grey fr-card" data-component-id="ui_suite_dsfr:card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        <a href="/les-langues-vivantes-etrangeres-et-regionales-11249" hreflang="fr">Les langues vivantes étrangères et régionales</a>
+      </h3>
+            <div class="fr-card__desc"><p>L’enseignement des langues s’inscrit dans une perspective européenne : chaque élève doit être capable de communiquer dans au moins deux langues à la fin de l’enseignement secondaire. Dès l'école maternelle, l'éveil à la diversité linguistique pose les premiers jalons d'une compétence plurilingue. L'apprentissage d'une langue débute au CP. Des parcours linguistiques renforcés sont possibles.</p>
+</div>                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2020-02/cours-d-anglais---langues-vivantes---031-scx0556484-448227.jpg.webp?h=fd17a8d0&amp;itok=KUJdiVy6" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+      </div>
+      
+    </div>
+  </div>
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-4 fr-col-xl-4" >
+            
+  
+
+  
+
+<div class="fr-background-default--grey fr-card--sm fr-enlarge-link fr-card--grey fr-card" data-component-id="ui_suite_dsfr:card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        <a href="/le-conseil-superieur-des-programmes/projet-de-programmes-d-education-physique-et-sportive-eps-pour-le-cycle-3-469943" hreflang="fr">Projet de programmes d&#039;éducation physique et sportive (EPS) pour le cycle 3</a>
+      </h3>
+            <div class="fr-card__desc"><p>Par lettre de saisine en date du 13 mars 2024, la ministre de l’Éducation nationale et de la Jeunesse a demandé au Conseil supérieur des programmes de revoir le programme d'éducation physique et sportive (EPS) pour le cycle 3. </p>
+</div>              <div class="fr-card__start">
+          
+
+  <p data-component-id="ui_suite_dsfr:badge" class="fr-badge">
+    CSP
+  </p>
+
+                  </div>
+                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  
+      
+
+
+      <img  loading="eager" src="/sites/default/files/styles/16_9_lg_792x446/public/2026-02/-l-ves-de-primaire-en-sport-1-480404.jpg.webp?h=380f819c&amp;itok=05woHvYw" width="792" height="446" alt="" typeof="foaf:Image" class="fr-responsive-img" />
+
+
+
+
+
+
+
+
+      </div>
+      
+    </div>
+  </div>
+
+    </div>
+      </div>
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+
+</div>
+
+    </div>
+  </div>
+
+  </div>
+</article>
+
+
+</div>
+
+  </div>
+
+      </div>
+
+      
+          </div>
+
+  </main>
+    <div>
+    <div id="block-edugouv-dsfr-newsletterfollowus-2">
+
+
+
+        <div data-component-id="edugouv_dsfr:follow" class="fr-follow">
+    <div class="fr-container">
+      <div class="fr-grid-row">
+                                          <div class="fr-col-12">
+            <div class="fr-follow__social">
+              <h2 class="fr-h5">Suivez-nous<br>sur les réseaux sociaux</h2>
+              <ul class="fr-btns-group fr-btns-group--lg">
+                                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--instagram fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.instagram.com/education_gouv/">
+  Insta
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--facebook fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.facebook.com/Education.Gouv/?locale=fr_FR">
+  Facebook
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--tiktok fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.tiktok.com/@education_gouv">
+  Tiktok
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--linkedin fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://fr.linkedin.com/school/ministere-education-nationale/">
+  LinkedIn
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--twitter-x fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://x.com/education_gouv">
+  X
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--youtube fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.youtube.com/user/educationfrance">
+  Youtube
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--bluesky fr-btn fr-link" target="_blank" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://bsky.app/profile/did:plc:bq5z6ky7235qpxkc3rzpitym">
+  BlueSky
+</a>
+
+                  </li>
+                              </ul>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+
+
+</div>
+
+  </div>
+
+    <div>
+    <div id="block-edugouv-dsfr-footer-4">
+
+
+
+  <footer data-component-id="edugouv_dsfr:footer" class="fr-footer" role="contentinfo" id="footer">
+    <div class="fr-footer__top">
+    <div class="fr-container">
+      <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
+        <h2 class="fr-sr-only">Pied de page</h2>
+                    <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                            <h3 class="fr-footer__top-cat">Sites Éducation</h3>
+              <ul class="fr-footer__top-list">
+                                                                                                                                              <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.devenirenseignant.gouv.fr/" title="Devenir enseignant - nouvelle fenêtre">Devenir enseignant</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://eduscol.education.fr/" title="Éduscol - nouvelle fenêtre">Éduscol</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="http://www.onisep.fr/" title="Onisep - nouvelle fenêtre">Onisep</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.cned.fr/" title="Cned - nouvelle fenêtre">Cned</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.reseau-canope.fr/" title="Réseau Canopé - nouvelle fenêtre">Réseau Canopé</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.clemi.fr/" title="CLEMI - nouvelle fenêtre">CLEMI</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.france-education-international.fr/" title="France éducation international - nouvelle fenêtre">France éducation international</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="http://www.ih2ef.education.fr/" title="Institut des hautes études de l&#039;éducation et de la formation - nouvelle fenêtre">Institut des hautes études de l'éducation et de la formation</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.enseignementsup-recherche.gouv.fr/" title="Enseignement supérieur et Recherche - nouvelle fenêtre">Enseignement supérieur et Recherche</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="node/6557" data-drupal-active-trail="false" class="fr-footer__top-link" href="/les-regions-academiques-academies-et-services-departementaux-de-l-education-nationale-6557">Sites académiques</a></li>
+                                                                                                                                             <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.cereq.fr/" title="Céreq - nouvelle fenêtre">Céreq</a></li>
+                             </ul>
+          </div>
+                 <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                            <h3 class="fr-footer__top-cat">Rapports, publications et statistiques</h3>
+              <ul class="fr-footer__top-list">
+                                                                                                                                              <li><a target="_blank" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://data.education.gouv.fr/pages/accueil/" title="Data.education.gouv.fr - nouvelle fenêtre">Data.education.gouv.fr</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="node/469889" data-drupal-active-trail="false" class="fr-footer__top-link" href="/le-conseil-d-evaluation-de-l-ecole/conseil-d-evaluation-de-l-ecole-qui-sommes-nous-469889">Conseil d'évaluation de l'École (CEE)</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="taxonomy/term/115221" data-drupal-active-trail="false" class="fr-footer__top-link" href="/csp">Conseil supérieur des programmes (CSP)</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="taxonomy/term/115224" data-drupal-active-trail="false" class="fr-footer__top-link" href="/depp">Direction de l'évaluation, de la prospective et de la performance (Depp)</a></li>
+                                                                                                       <li><a data-drupal-link-system-path="taxonomy/term/115262" data-drupal-active-trail="false" class="fr-footer__top-link" href="/igesr">Inspection générale de l’éducation, du sport et de la recherche (IGÉSR)</a></li>
+                             </ul>
+          </div>
+             </div>
+    </div>
+  </div>
+    <div class="fr-container">
+    <div class="fr-footer__body">
+      <div class="fr-footer__brand fr-enlarge-link">
+
+        
+                  <a href="/" title="Page d&#039;accueil - MINISTÈRE DE L’ÉDUCATION NATIONALE">
+            <div class="fr-logo">
+              <p>MINISTERE&nbsp;</p><p>DE L'EDUCATION&nbsp;</p><p>NATIONALE</p>
+            </div>
+          </a>
+              </div>
+              <div class="fr-footer__content">
+                    <div class="fr-footer__content-desc"><h2 class="fr-h5">Retrouvez nos liens utiles :</h2><ul><li><a href="/espace-presse" data-entity-type="node" data-entity-uuid="a0194198-f84a-48ce-b725-a1d32fd51d0b" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Espace presse</a></li><li><a href="/contactez-nous-41633" data-entity-type="node" data-entity-uuid="06196ccd-71ac-43b8-b842-cb62197ecaa5" data-entity-substitution="canonical" class="fr-link fr-icon-arrow-right-line fr-link--icon-right">Contactez nous</a></li></ul><p><br>&nbsp;</p><ul class="fr-footer__content-item"><li class="fr-footer__content-item fr-mx-2v"><a class="fr-footer__content-link fr-link" href="https://legifrance.gouv.fr" target="_blank" rel="noopener external" title="legifrance.gouv.fr - nouvelle fenêtre">legifrance.gouv.fr</a></li><li class="fr-footer__content-item fr-mx-2v"><a class="fr-footer__content-link fr-link" href="https://service-public.gouv.fr" target="_blank" rel="noopener external" title="service-public.gouv.fr - nouvelle fenêtre">service-public.gouv.fr</a></li><li class="fr-footer__content-item fr-mx-2v"><a class="fr-footer__content-link fr-mx-2v fr-link" href="https://info.gouv.fr" target="_blank" rel="noopener external" title="info.gouv.fr - nouvelle fenêtre">info.gouv.fr</a></li><li class="fr-footer__content-item fr-mx-2v"><a class="fr-footer__content-link fr-link" href="https://data.gouv.fr" target="_blank" rel="noopener external" title="data.gouv.fr - nouvelle fenêtre">data.gouv.fr</a></li></ul></div>
+                    <ul class="fr-footer__content-list">
+      </ul>
+
+        </div>
+          </div>
+    
+          <div class="fr-footer__bottom">
+          <ul class="fr-footer__bottom-list">
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-link-system-path="node/469367" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/contactez-nous-469367">
+            Contact
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a title="Mentions légales du site education.gouv.fr" data-drupal-link-system-path="node/4526" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/mentions-legales-du-site-educationgouvfr-4526">
+            Mentions légales
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-link-system-path="node/12065" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/donnees-personnelles-et-cookies-12065">
+            Données personnelles et cookies
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-active-trail="false" class="fr-footer__bottom-link" href="#tarteaucitron">
+            Gestion des cookies
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-link-system-path="node/99950" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/declaration-d-accessibilite-99950">
+            Accessibilité du site : partiellement conforme
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-active-trail="false" class="fr-footer__bottom-link" href="https://app.acce-o.fr/client/ministere_education_nationale_et_jeunesse">
+            Accessibilité téléphonique sourds ou malentendants
+          </a>
+              </li>
+    
+            
+      <li class="fr-footer__bottom-item">
+                        
+                  
+          
+          <a data-drupal-link-system-path="node/454152" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/documents-opposables-ce-que-change-la-loi-essoc-pour-un-etat-au-service-d-une-societe-de-confiance-454152">
+            Documents opposables
+          </a>
+              </li>
+      </ul>
+
+                <div class="fr-footer__bottom-copy">
+          <div><p>Sauf mention contraire, tous les contenus de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank" rel="noopener external" title="licence etalab-2.0 - nouvelle fenêtre" class="fr-link">licence etalab-2.0</a></p></div>
+        </div>
+              </div>
+      </div>
+</footer>
+
+
+
+</div>
+
+  </div>
+
+</div>
+
+  </div>
+
+  
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/9011","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"tandem_gdpr":{"dialog":{"cookieName":"tarteaucitron","hashtag":"tarteaucitron","orientation":"bottom","cookieslist":0,"showAlertSmall":0,"adblocker":0,"highPrivacy":1,"AcceptAllCta":1,"handleBrowserDNTRequest":0,"removeCredit":1,"moreInfoLink":1,"useExternalCss":1,"privacyurl":null,"readmoreLink":"\/donnees-personnelles-et-cookies-12065","cookieDomain":"","privacyUrl":""},"services":{"_core":null,"instagram":0,"twitter":0,"vimeo":0,"youtube":0,"dailymotion":0,"facebook":0,"addthis":0,"facebookapi":0,"adsensesearchresult":0,"googleadwordsremarketing":0,"amazon":0,"clicmanager":0,"criteo":0,"datingaffiliation":0,"datingaffiliationpopup":0,"facebookpixel":0,"ferankpub":0,"adsense":0,"googlepartners":0,"adsensesearchform":0,"aduptech_retargeting":0,"googleadwordsconversion":0,"aduptech_conversion":0,"aduptech_ads":0,"prelinker":0,"activecampaign":0,"pubdirecte":0,"adform":0,"shareasale":0,"twenga":0,"bingads":0,"vshop":0,"leadforensics":0,"alexa":0,"gajs":0,"analytics":0,"gtag":0,"etracker":"","hubspot":0,"mautic":0,"microsoftcampaignanalytics":0,"atinternet":0,"googletagmanager":0,"googlemaps":0,"jsapi":0,"twitterwidgetsapi":0,"recaptcha":0,"googlemapsembed":0,"facebookcomment":0,"disqus":0,"matterport":0,"issuu":0,"iframe":0,"twittertimeline":0,"linkedin":0,"gplus":0,"sharethis":0,"facebooklikebox":0,"pinterest":0,"twitterembed":0,"slideshare":0,"youtubeplaylist":0,"prezi":0,"calameo":0,"youtubeapi":0,"dailymotion_custom":0,"youtube_custom":0,"youtube_playlist_custom":0,"vimeo_custom":0,"twitter_widget_custom":0,"addthis_custom":0,"twittertimeline_custom":0,"soundcloud_custom":0,"instagram_custom":0,"flickr_custom":0,"purechat":0,"zopim":0,"atinternet_custom":0,"euleriancnilexemption":1,"eulerian":1,"langcode":null,"contentsquare_custom":0,"genially_custom":1,"ausha_custom":0,"batch_custom":1,"x_twitter":1,"X":1,"Google Ads":0,"googlecampaign":1},"user":{"addthisPubId":"","adsensesearchresultCx":"","adwordsremarketingId":"","adwordsconversionId":"","adwordsconversionLabel":"","adwordsconversionLanguage":"","adwordsconversionFormat":"","adwordsconversionColor":"","adwordsconversionValue":"","adwordsconversionCurrency":"","adwordsconversionCustom1":"","adwordsconversionCustom2":"","actid":"","adformpm":"2867360","twengaId":"","twengaLocale":"","bingadsTag":"","bingadsID":"","bingadsStoreCookies":"","leadforensicsSf14gv":"","leadforensicsIidentifier":"","alexaAccountID":"","gajsUa":"","gajsAnonymizeIp":"","gajsMore":"","analyticsUa":"","analyticsAnonymizeIp":"","analyticsPageView":"","analyticsPrepare":"","analyticsMore":"","analyticsUaCreate":"","gtagUa":"","gtagMore":"","etracker":"","hubspotId":"","mauticurl":"","microsoftcampaignanalyticsUUID ":"","microsoftcampaignanalyticsdomainId":"","microsoftcampaignanalyticsactionId":"","atLibUrl":"","googletagmanagerId":"","mapscallback":"","googlemapsLibraries":"","googlemapsKey":"","recaptchaOnLoad":"","disqusShortname":"","atJsLibUrl":"","atDescription":{"value":"","format":"restricted_text"},"eulerianHost":"wrhv.education.gouv.fr","contentsquareID":""},"texts":{"adblock":"Bonjour ! Ce site est transparent et vous permet de choisir les services tiers que vous souhaitez autoriser.","adblock_call":"Veuillez d\u00e9sactiver votre adblocker pour commencer la personnalisation.","reload":"Actualiser la page","alertBigScroll":"En continuant de scroller","alertBigClick":"Si vous continuez \u00e0 naviguer sur ce site web,","alertBig":"vous autorisez tous les services tiers","alertBigPrivacy":"\u003Cdiv class=\u0022cookie-popin\u0022\u003E\r\n  \u003Ch2\u003E\u00c0 propos des cookies sur education.gouv.fr\u003C\/h2\u003E\r\n\r\n  \u003Cp\u003E\r\n    Bienvenue !\u003C\/p\u003E\r\n\u003Cp\u003E\r\n    Ce site utilise des cookies pour mesurer la fr\u00e9quentation du site afin d\u2019en am\u00e9liorer le fonctionnement et l\u2019administration et, avec votre accord, pour \u00e9valuer la performance des campagnes d\u2019informations et am\u00e9liorer votre exp\u00e9rience utilisateur, ainsi que pour vous proposer des services interactifs fournis par nos partenaires. Nous conservons votre choix pendant 13 mois.\r\n  \u003C\/p\u003E\r\n\r\n  \u003Cp\u003E\r\n    Vous pouvez changer ce choix \u00e0 tout moment en vous rendant sur la page\r\n    \u003Ca href=\u0022https:\/\/www.education.gouv.fr\/donnees-personnelles-et-cookies-12065\u0022\r\n       target=\u0022_blank\u0022\r\n       rel=\u0022noopener noreferrer\u0022\r\n       title=\u0022Donn\u00e9es personnelles et cookies - nouvelle fen\u00eatre\u0022\u003E\r\n      donn\u00e9es personnelles et cookies\r\n    \u003C\/a\u003E.\r\n  \u003C\/p\u003E\r\n\u003C\/div\u003E","alertSmall":"G\u00e9rer les services","personalize":"Personnaliser","acceptAll":"Tout accepter","close":"Fermer","privacyUrl":"Politique de confidentialit\u00e9","all":"Pr\u00e9f\u00e9rence pour tous les services","info":"Prot\u00e9ger votre vie priv\u00e9e","disclaimer":"\u003Cp class=\u0022fr-mb-2w\u0022\u003ELe minist\u00e8re de l\u2019\u00c9ducation nationale s\u2019engage \u00e0 traiter vos donn\u00e9es \u00e0 caract\u00e8re personnel dans le respect de la loi n\u00b0 78-17 du 6 janvier 1978 modifi\u00e9e relative \u00e0 l\u0027informatique, aux fichiers et aux libert\u00e9s et du RGPD.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022fr-mb-2w\u0022\u003ENous sommes particuli\u00e8rement attentifs \u00e0 la protection des donn\u00e9es personnelles et nous veillons \u00e0 ce que la collecte de vos donn\u00e9es soit r\u00e9duite au strict n\u00e9cessaire.\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022fr-mb-2w\u0022\u003ECertaines fonctionnalit\u00e9s du site (partage de contenus sur les r\u00e9seaux sociaux, lecteurs vid\u00e9os, contenus interactifs) font par ailleurs appel \u00e0 des services propos\u00e9s par des tiers. Ces fonctionnalit\u00e9s d\u00e9posent des cookies leur permettant d\u2019identifier les sites que vous consultez et les contenus auxquels vous vous int\u00e9ressez. Ces cookies ne sont d\u00e9pos\u00e9s que si vous donnez votre accord. Vous pouvez ci-dessous vous informer sur la nature de chacun des cookies d\u00e9pos\u00e9s, les accepter ou les refuser \u00e0 tout moment. Ce choix est possible soit globalement pour l\u2019ensemble du site et l\u2019ensemble des services, soit service par service.\r\n\u003C\/p\u003E\r\n\u003Cp class=\u0022fr-mb-2w\u0022\u003E\r\n\u003Ca href=\u0022\/donnees-personnelles-et-cookies-12065\u0022\u003ES\u2019informer sur les cookies et donn\u00e9es personnelles du site education.gouv.fr, contacter ou exercer vos droits aupr\u00e8s du d\u00e9l\u00e9gu\u00e9 \u00e0 la protection des donn\u00e9es.\u003C\/a\u003E\u003C\/p\u003E","allow":"Accepter","deny":"Refuser","noCookie":"Ce service n\u0027utilise pas de cookie.","useCookie":"Ce service peut installer","useCookieCurrent":"Ce service a install\u00e9","useNoCookie":"Ce service n\u0027a pas install\u00e9 de cookie.","more":"En savoir plus","source":"Voir le site officiel","credit":"Gestionnaire de cookies par tarteaucitron.js","toggleInfoBox":"Afficher \/ masquer les informations sur le stockage des cookies","title":"Panneau de gestion des cookies","cookieDetail":"D\u00e9tail du cookie pour","ourSite":"sur notre site","newWindow":"(nouvelle fen\u00eatre)","allowAll":"Tout accepter","denyAll":"Tout refuser","fallback":"est d\u00e9sactiv\u00e9.","ads_title":"R\u00e9seau publicitaire","ads_details":"Les r\u00e9seaux publicitaires peuvent g\u00e9n\u00e9rer des revenus en vendant des espaces publicitaires sur le site.","analytic_title":"Mesure d\u0027audience","analytic_details":"Les services de mesure d\u0027audience permettent de g\u00e9n\u00e9rer des statistiques de fr\u00e9quentation utiles pour am\u00e9liorer le site.","social_title":"R\u00e9seaux sociaux","social_details":"Les r\u00e9seaux sociaux peuvent am\u00e9liorer la convivialit\u00e9 du site et contribuer \u00e0 sa promotion via les partages.","video_title":"Vid\u00e9os","video_details":"Les services de partage de vid\u00e9os aident \u00e0 ajouter du contenu multim\u00e9dia sur le site et \u00e0 augmenter sa visibilit\u00e9.","comment_title":"Commentaires","comment_details":"Les gestionnaires de commentaires facilitent le d\u00e9p\u00f4t des commentaires et luttent contre le spam.","support_title":"Support","support_details":"Les services d\u0027assistance vous permettent d\u0027entrer en contact avec l\u0027\u00e9quipe du site et d\u0027aider \u00e0 l\u0027am\u00e9liorer.","api_title":"APIs","api_details":"Les API permettent de charger des scripts, la g\u00e9olocalisation, les moteurs de recherche, les traductions, ...","other_title":"Autres","other_details":"Services pour afficher du contenu Web.","other":{"details":"","details_format":"restricted_text","title":"Autre"},"social":{"details":"\u003Cp\u003ELes r\u00e9seaux sociaux permettent d\u2019enrichir l\u2019exp\u00e9rience utilisateur sur le site et aident \u00e0 sa promotion via les partages.\u003C\/p\u003E","details_format":"restricted_text","title":"R\u00e9seaux sociaux"},"ads":{"details":"\u003Cp\u003ELes campagnes d\u2019informations gouvernementales permettent le partage d\u2019informations utiles diffus\u00e9es dans le cadre de grandes campagnes d\u2019information, ou en cas de crise\u003C\/p\u003E","details_format":"restricted_text","title":"Campagnes d\u2019informations"},"analytic":{"details":"\u003Cp\u003ELa mesure de l\u2019audience du site contribue \u00e0 l\u2019am\u00e9lioration continue de son ergonomie, de sa navigation et de ses contenus.\u003C\/p\u003E","details_format":"restricted_text","title":"Mesure d\u0027audience"},"video":{"details":"\u003Cp\u003ELes services de partage de vid\u00e9o permettent d\u0027enrichir le site de contenus multim\u00e9dia tout en conservant une vitesse de chargement optimale, et contribuent \u00e0 son r\u00e9f\u00e9rencement.\u003C\/p\u003E","details_format":"restricted_text","title":"Vid\u00e9os et Audio"},"comment":{"details":"\u003Cp\u003ED\u00e9tails compl\u00e9mentaires\u003C\/p\u003E","details_format":"restricted_text","title":"Commentaire"},"api":{"details":"\u003Cp\u003ELes contenus interactifs permettent d\u2019enrichir l\u2019exp\u00e9rience utilisateur et de contribuer \u00e0 une meilleure compr\u00e9hension des informations disponibles sur le site.\u003C\/p\u003E","details_format":"restricted_text","title":"Contenus interactifs"},"support":{"details":"\u003Cp\u003Efonctionnalit\u00e9s de support\u003C\/p\u003E","details_format":"restricted_text","title":"Support"}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"fr-mb-5w fr-container edugouv-ckeditor","show_empty_fields":false,"id":"","label_as_html":false,"element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"ajaxTrustedUrl":{"\/recherche":true},"tandem_gdpr_bo":{"_core":{"default_config_hash":"RSn-8IabsBqGqc5G_kvF8rwJdf1d2ykxAJKq37Lagj8"},"instagram":{"name":"Instagram","type":"social"},"twitter":{"name":"Twitter","type":"social"},"vimeo":{"name":"Vimeo","type":"video"},"youtube":{"name":"Youtube","type":"video"},"dailymotion":{"name":"Dailymotion","type":"video"},"facebook":{"name":"Facebook","type":"social"},"addthis":{"name":"addThis","type":"social","additional_fields":[{"type":"textfield","id":"addthisPubId","name":"Your AddThis profile ID"}]},"facebookapi":{"name":"Facebook(API)","type":"social"},"adsensesearchresult":{"name":"Google Adsense Search (result)","type":"ads","additional_fields":[{"type":"textfield","id":"adsensesearchresultCx","name":"Your custom search engine ID"}]},"googleadwordsremarketing":{"name":"Google Adwords (remarketing)","type":"ads","additional_fields":[{"type":"textfield","id":"adwordsremarketingId","name":"Your Conversion ID"}]},"amazon":{"name":"Amazon","type":"ads"},"clicmanager":{"name":"Clicmanager","type":"ads"},"criteo":{"name":"Criteo","type":"ads"},"datingaffiliation":{"name":"Dating Affiliation","type":"ads"},"datingaffiliationpopup":{"name":"Dating Affiliation (Pop Up)","type":"ads"},"facebookpixel":{"name":"Facebook Pixel","type":"ads"},"ferankpub":{"name":"FERank (pub)","type":"ads"},"adsense":{"name":"Google Adsense","type":"ads"},"googlepartners":{"name":"Google Partners Badge","type":"ads"},"adsensesearchform":{"name":"Google Adsense Search (form)","type":"ads"},"aduptech_retargeting":{"name":"Ad Up Technology (retargeting)","type":"ads"},"googleadwordsconversion":{"name":"Google Adwords (conversion)","type":"ads","additional_fields":[{"type":"textfield","id":"adwordsconversionId","name":"Your Google Adwords ID"},{"type":"textfield","id":"adwordsconversionLabel","name":"Your Google Adwords label"},{"type":"textfield","id":"adwordsconversionLanguage","name":"Your Google Adwords language"},{"type":"textfield","id":"adwordsconversionFormat","name":"Your Google Adwords format"},{"type":"textfield","id":"adwordsconversionColor","name":"Your Google Adwords color"},{"type":"textfield","id":"adwordsconversionValue","name":"Your Google Adwords value"},{"type":"textfield","id":"adwordsconversionCurrency","name":"Your Google Adwords currency"},{"type":"textfield","id":"adwordsconversionCustom1","name":"Your Google Adwords parameter 1"},{"type":"textfield","id":"adwordsconversionCustom2","name":"Your Google Adwords parameter 2"}]},"aduptech_conversion":{"name":"Ad Up Technology (conversion)","type":"ads"},"aduptech_ads":{"name":"Ad Up Technology (ads)","type":"ads"},"prelinker":{"name":"Prelinker","type":"ads"},"activecampaign":{"name":"Active Campaign","type":"ads","additional_fields":[{"type":"textfield","id":"actid","name":"Your Active Campaign ID"}]},"pubdirecte":{"name":"Pubdirecte","type":"ads"},"adform":{"name":"Adform","type":"ads","additional_fields":[{"type":"textfield","id":"adformpm","name":"Tracking setup ID of Adform client"}]},"shareasale":{"name":"ShareASale","type":"ads"},"twenga":{"name":"Twenga","type":"ads","additional_fields":[{"type":"textfield","id":"twengaId","name":"Your Twenga ID"},{"type":"textfield","id":"twengaLocale","name":"Your Twenga JavaScript library Path"}]},"bingads":{"name":"Bing Ads Universal Event Tracking","type":"ads","additional_fields":[{"type":"textfield","id":"bingadsTag","name":"Your Bing Ads Universal Event Tracking Tag"},{"type":"textfield","id":"bingadsID","name":"Your Bing Ads Universal Event Tracking ID"},{"type":"textfield","id":"bingadsStoreCookies","name":"Your Bing Ads Universal Event Tracking Cookies"}]},"vshop":{"name":"vShop","type":"ads"},"leadforensics":{"name":"LeadForensics","type":"analytic","additional_fields":[{"type":"textfield","id":"leadforensicsSf14gv","name":"Your LeadForensics sf14gv"},{"type":"textfield","id":"leadforensicsIidentifier","name":"Your LeadForensics identifier"}]},"alexa":{"name":"Alexa","type":"analytic","additional_fields":[{"type":"textfield","id":"alexaAccountID","name":"Your Alexa ID"}]},"gajs":{"name":"Google Analytics (ga.js)","type":"analytic","additional_fields":[{"type":"textfield","id":"gajsUa","name":"Your Tracking ID"},{"type":"textfield","id":"gajsAnonymizeIp","name":"Your Google Analytics anonymize Ip"},{"type":"textarea","id":"gajsMore","name":"Your Google Analytics function"}]},"analytics":{"name":"Google Analytics (universal)","type":"analytic","additional_fields":[{"type":"textfield","id":"analyticsUa","name":"Your Tracking ID"},{"type":"textfield","id":"analyticsAnonymizeIp","name":"Your Google Analytics anonymize Ip"},{"type":"textfield","id":"analyticsPageView","name":"Your Google Analytics page view"},{"type":"textarea","id":"analyticsPrepare","name":"Your Google Analytics prepare function"},{"type":"textarea","id":"analyticsMore","name":"Your Google Analytics function"},{"type":"textarea","id":"analyticsUaCreate","name":"Your Google Analytics fields values"}]},"gtag":{"name":"Google Analytics (gtag.js)","type":"analytic","additional_fields":[{"type":"textfield","id":"gtagUa","name":"Your Tracking IDs"},{"type":"textarea","id":"gtagMore","name":"Your Google Analytics function"}]},"etracker":{"name":"eTracker","type":"analytic","additional_fields":[{"type":"textfield","id":"etracker"}]},"hubspot":{"name":"Hubspot","type":"analytic","additional_fields":[{"type":"textfield","id":"hubspotId","name":"Your Hubspot ID"}]},"mautic":{"name":"Mautic","type":"analytic","additional_fields":[{"type":"textfield","id":"mauticurl","name":"Your Mautic JavaScript library Path"}]},"microsoftcampaignanalytics":{"name":"Microsoft Campaign Analytics","type":"analytic","additional_fields":[{"type":"textfield","id":"microsoftcampaignanalyticsUUID ","name":"Your Microsoft Campaign Analytics UUID"},{"type":"textfield","id":"microsoftcampaignanalyticsdomainId","name":"Your Microsoft Campaign Analytics domain ID"},{"type":"textfield","id":"microsoftcampaignanalyticsactionId","name":"Your Microsoft Campaign Analytics action ID"}]},"atinternet":{"name":"AT Internet","type":"analytic","additional_fields":[{"type":"textfield","id":"atLibUrl","name":"Your AT Internet JavaScript library Path"}]},"googletagmanager":{"name":"Google Tag Manager","type":"api","additional_fields":[{"type":"textfield","id":"googletagmanagerId","name":"Your Google Tag Manager ID"}]},"googlemaps":{"name":"Google Maps","type":"api","additional_fields":[{"type":"textfield","id":"mapscallback","name":"Your Google Maps callback function name"},{"type":"textfield","id":"googlemapsLibraries","name":"Your Google Maps Libraries"},{"type":"textfield","id":"googlemapsKey","name":"Your Google Maps Key"}]},"jsapi":{"name":"Google jsapi","type":"api"},"twitterwidgetsapi":{"name":"Twitter Widgets API","type":"api"},"recaptcha":{"name":"reCAPTCHA","type":"api","additional_fields":[{"type":"textarea","id":"recaptchaOnLoad","name":"Your onload callback function"}]},"googlemapsembed":{"name":"Google Maps Embed","type":"api"},"facebookcomment":{"name":"Facebook (commentaire)","type":"comment"},"disqus":{"name":"Disqus","type":"comment","additional_fields":[{"type":"textfield","id":"disqusShortname","name":"Your Disqus shortname"}]},"matterport":{"name":"Matterport","type":"other"},"issuu":{"name":"Issuu","type":"other"},"iframe":{"name":"Web content","type":"other"},"twittertimeline":{"name":"Twitter (timelines)","type":"social"},"linkedin":{"name":"Linkedin","type":"social"},"gplus":{"name":"Google+","type":"social"},"sharethis":{"name":"ShareThis","type":"social"},"facebooklikebox":{"name":"Facebook (like box)","type":"social"},"pinterest":{"name":"Pinterest","type":"social"},"twitterembed":{"name":"Twitter (cards)","type":"social"},"slideshare":{"name":"SlideShare","type":"video"},"youtubeplaylist":{"name":"YouTube (playlist)","type":"video"},"prezi":{"name":"Prezi","type":"video"},"calameo":{"name":"Calameo","type":"video"},"youtubeapi":{"name":"Youtube (Js API)","type":"video"},"dailymotion_custom":{"name":"Dailymotion (custom)","type":"video"},"youtube_custom":{"name":"Youtube (custom)","type":"video"},"youtube_playlist_custom":{"name":"Youtube playlist (custom)","type":"video"},"vimeo_custom":{"name":"Vimeo (custom)","type":"video"},"twitter_widget_custom":{"name":"Twitter widget (custom)","type":"social"},"addthis_custom":{"name":"AddThis (custom)","type":"social"},"twittertimeline_custom":{"name":"Twittertimeline (custom)","type":"social"},"soundcloud_custom":{"name":"Soundcloud (custom)","type":"social"},"instagram_custom":{"name":"Instagram (custom)","type":"social"},"flickr_custom":{"name":"Flickr (custom)","type":"social"},"purechat":{"name":"PureChat","type":"support"},"zopim":{"name":"Zopim","type":"support"},"atinternet_custom":{"name":"AT Internet (custom)","type":"analytic","additional_fields":[{"type":"textfield","id":"atJsLibUrl","name":"Your AT Internet JavaScript library Path"},{"type":"textarea","id":"atDescription","name":"Description"}]},"euleriancnilexemption":{"name":"Eulerian (exemption CNIL)","type":"analytic","additional_fields":[{"type":"textfield","id":"eulerianHost","name":"Eulerian Host (exemption CNIL)"}]},"eulerian":{"name":"Eulerian Analytics","type":"analytic"},"langcode":"fr","contentsquare_custom":{"name":"Content Square","type":"api","additional_fields":[{"type":"textfield","id":"contentsquareID","name":"contentsquareID"}]},"genially_custom":{"name":"Genial.ly","type":"api"},"ausha_custom":{"name":"ausha_custom","type":"video"},"batch_custom":{"name":"Batch","type":"ads"}},"mediaelement":{"attachSitewide":0},"user":{"uid":0,"permissionsHash":"f63cb473765efa2307d4f8d90ca2dd7c9006002a75cc17f4c2ea8d19c48aee31"}}</script>
+<script src="/sites/default/files/js/js_mr4wFPBDlgS6Zo6oiEqUoHgBJvYc7a6bEtYDh-yJGR4.js?scope=footer&amp;delta=0&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJxVjOsKQyEMg1_oOB9JOu2kYNuDbQe-_W5suD8h-UJSdWKuyqcKitvFQRpyaXabKVkww1zF6MlQ4sAWXeP-rnMNc-VjW-SXFBLyP9qHXmEk8zVI-rfq7Zx58zsvIDCWU7XP5S8-AMvpRWg"></script>
+<script src="/libraries/dsfr/dist/dsfr.module.js?v=1.x" type="module"></script>
+<script src="/sites/default/files/js/js_ZdGfhmrk1pde87GYvRaEq-oaUD7uH0DPZWFsxlh1D7Y.js?scope=footer&amp;delta=2&amp;language=fr&amp;theme=edugouv_dsfr&amp;include=eJxVjOsKQyEMg1_oOB9JOu2kYNuDbQe-_W5suD8h-UJSdWKuyqcKitvFQRpyaXabKVkww1zF6MlQ4sAWXeP-rnMNc-VjW-SXFBLyP9qHXmEk8zVI-rfq7Zx58zsvIDCWU7XP5S8-AMvpRWg"></script>
+<script src="/libraries/dsfr/dist/analytics/analytics.module.js?tnnxk2" type="module"></script>
+
+</body>
+</html>

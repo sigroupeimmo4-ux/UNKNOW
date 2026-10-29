@@ -1,0 +1,193 @@
+[
+  {
+    "id": "93d6b850a5537834",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo10",
+    "checked_on": "2026-10-29",
+    "sha256": "e102a2de36b4e230b6b3bd32bfd164091e5338efbb8383142aa89bd1558700de",
+    "snapshot": "curriculum/sources/93d6b850a5537834.html.txt"
+  },
+  {
+    "id": "de0139ec9cd54d8d",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14",
+    "checked_on": "2026-10-29",
+    "sha256": "6e501d0e593fc09085f90cdd3797efc053d24f163ae7158db44a4159ea90f3fe",
+    "snapshot": "curriculum/sources/de0139ec9cd54d8d.html.txt"
+  },
+  {
+    "id": "f55a00bef15d7565",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo22",
+    "checked_on": "2026-10-29",
+    "sha256": "17eb87b8082bbee2d7de6c83cadf9aec0cf6fcda94e3e0a157635aea25f654db",
+    "snapshot": "curriculum/sources/f55a00bef15d7565.html.txt"
+  },
+  {
+    "id": "7798cf49d6421979",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo24",
+    "error": "HTTP download failed"
+  },
+  {
+    "id": "1edf330936f0f0c0",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo12",
+    "checked_on": "2026-10-29",
+    "sha256": "9ed625da7989860f763f8a79861e99ac2a995cd3385a8910d35b7b2790922812",
+    "snapshot": "curriculum/sources/1edf330936f0f0c0.html.txt"
+  },
+  {
+    "id": "60495b83ba9e8618",
+    "url": "https://www.education.gouv.fr/bo/2024/Hebdo24",
+    "error": "HTTP download failed"
+  },
+  {
+    "id": "acb29cb45ed19648",
+    "url": "https://www.education.gouv.fr/bo/2025/Hebdo6",
+    "error": "HTTP download failed"
+  },
+  {
+    "id": "4c9d9e72026e19b0",
+    "url": "https://www.education.gouv.fr/bo/2024/Hebdo9",
+    "error": "HTTP download failed"
+  },
+  {
+    "id": "cb756a64d23b23d8",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo10/MENE2602912A",
+    "checked_on": "2026-10-29",
+    "sha256": "c3c45eb0151f3b7304a8b4936db1a7ed9ba5a50bb5e714200ac265b8b595ab0c",
+    "snapshot": "curriculum/sources/cb756a64d23b23d8.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2602912A",
+      "Arrêté : du 18-2-2026 - JO du 4-3-2026",
+      "Article 1 – Les programmes d’enseignement de français et de mathématiques du cycle des approfondissements (cycle 4) sont fixés conformément aux annexes du présent arrêté.",
+      "Article 2 – Les parties relatives à l’enseignement de français et de mathématiques de l’annexe 3 (programme d’enseignement du cycle des approfondissements) de l’arrêté du 9 novembre 2015 susvisé sont supprimées.",
+      "Article 3 – Les dispositions du présent arrêté entrent en application à la rentrée de l'année scolaire 2026-2027 en tant qu’elles s’appliquent à la classe de cinquième, à la rentrée de l'année scolaire 2027-2028 en tant qu’elles s’appliquent à la classe de quatrième et à la rentrée de l’année scolaire 2028-2029 en tant qu’elles s’appliquent à la classe de troisième.",
+      "Article 4 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "93d76cf9f3fae756",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo12/MENE2602911A",
+    "checked_on": "2026-10-29",
+    "sha256": "95799decec7614d945f1d40462d2e65964ebae7b8908b766c186988b866d0e0b",
+    "snapshot": "curriculum/sources/93d76cf9f3fae756.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2602911A",
+      "Arrêté : du 26-2-2026 - JO du 7-3-2026",
+      "Article 1 – Les programmes d’enseignement de langues vivantes étrangères et régionales du cycle des apprentissages fondamentaux (cycle 2) et des classes de cours moyen première et deuxième année du cycle de consolidation (cycle 3) sont fixés conformément aux annexes du présent arrêté.",
+      "Article 2 – Les parties relatives à l’enseignement des langues vivantes étrangères et régionales de l’annexe 1 (programme d’enseignement du cycle des apprentissages fondamentaux) et de l’annexe 2 (programme d’enseignement du cycle de consolidation) de l’arrêté du 9 novembre 2015 susvisé sont supprimées.",
+      "Article 3 – Les dispositions du présent arrêté entrent en application à la rentrée de l'année scolaire 2026-2027 en tant qu’elles s’appliquent aux classes de cours préparatoire et de cours moyen première année, et à la rentrée de l’année scolaire 2027-2028 en tant qu’elles s’appliquent aux classes de cours élémentaire première année, cours élémentaire deuxième année et de cours moyen deuxième année.",
+      "Article 4 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "a31303f42dcabd0c",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14/MENE2602914A",
+    "checked_on": "2026-10-29",
+    "sha256": "28de4e9f5e45bd67c76607626eaeb6e9ff807c0b5a32b433fd7bc4addeeb12c4",
+    "snapshot": "curriculum/sources/a31303f42dcabd0c.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2602914A",
+      "Arrêté : du 26-2-2026 - JO du 27-3-2026",
+      "Article 1 – L’annexe de l’arrêté du 17 janvier 2019 susvisé est remplacée par l’annexe du présent arrêté.",
+      "Article 2 – Les dispositions du présent arrêté entrent en application à la rentrée de l'année scolaire 2026-2027.",
+      "Article 3 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "0c33c595b6f12064",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14/MENE2602916A",
+    "checked_on": "2026-10-29",
+    "sha256": "68f790aa171101008adaa6f514c9d79ba461c6e9d59964293240b7818dccbcba",
+    "snapshot": "curriculum/sources/0c33c595b6f12064.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2602916A",
+      "Arrêté : du 26-2-2026 - JO du 27-3-2026",
+      "Article 1 – L’annexe de l’arrêté du 6 juillet 2022 susvisé est remplacée par l’annexe du présent arrêté.",
+      "Article 2 – Les dispositions du présent arrêté entrent en application à la rentrée scolaire 2026-2027.",
+      "Article 3 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "0750aa761d579ca7",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14/MENE2602917A",
+    "checked_on": "2026-10-29",
+    "sha256": "2f274907ba969f9b22efb630f91a13895ddd64c76f88222452908d59b9d46786",
+    "snapshot": "curriculum/sources/0750aa761d579ca7.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2602917A",
+      "Arrêté : du 26-2-2026 - JO du 27-3-2026",
+      "Article 1 – L’annexe de l’arrêté du 17 janvier 2019 susvisé est remplacée par l’annexe du présent arrêté.",
+      "Article 2 – Les dispositions du présent arrêté entrent en application à la rentrée scolaire 2026-2027.",
+      "Article 3 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "14535b0462734a89",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14/MENE2602918A",
+    "checked_on": "2026-10-29",
+    "sha256": "be7c9ffa197f962a88e925929c7272f7696cfcfc0361b4e01c95af1785b9da61",
+    "snapshot": "curriculum/sources/14535b0462734a89.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2602918A",
+      "Arrêté : du 26-2-2026 - JO du 27-3-2026",
+      "Article 1 – L’annexe de l’arrêté du 17 janvier 2019 susvisé est remplacée par l’annexe du présent arrêté.",
+      "Article 2 – Les dispositions du présent arrêté entrent en application à la rentrée scolaire 2026-2027.",
+      "Article 3 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "8a76155bdb6268de",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14/MENE2602919A",
+    "checked_on": "2026-10-29",
+    "sha256": "be33f9a7b1a3c49a75600bf5fe921df11393dc51a63cd8eec3ecf08588dd076f",
+    "snapshot": "curriculum/sources/8a76155bdb6268de.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2602919A",
+      "Arrêté : du 26-2-2026 - JO du 27-3-2026",
+      "Article 1 – L’annexe de l’arrêté du 19 juillet 2019 susvisé est remplacée par l’annexe du présent arrêté.",
+      "Article 2 – Les dispositions du présent arrêté entrent en application à la rentrée scolaire 2027-2028.",
+      "Article 3 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "557e79284a757e9f",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14/MENE2602921A",
+    "checked_on": "2026-10-29",
+    "sha256": "33aff6e10eb9e84f699fbdd9628d838eb74bc2978951ed6da3dcf688bba7f2f1",
+    "snapshot": "curriculum/sources/557e79284a757e9f.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2602921A",
+      "Arrêté : du 26-2-2026 - JO du 27-3-2026",
+      "Article 1 – L’annexe de l’arrêté du 19 juillet 2019 susvisé est remplacée par l’annexe du présent arrêté.",
+      "Article 2 – Les dispositions du présent arrêté entrent en application à la rentrée de l'année scolaire 2027-2028.",
+      "Article 3 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "ec513d2ee71fba8c",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo14/MENE2902920A",
+    "checked_on": "2026-10-29",
+    "sha256": "c6e15f9c5c9003a39170f2860793afb1d6738eb079c8aeb70ec6f92e79637c3f",
+    "snapshot": "curriculum/sources/ec513d2ee71fba8c.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2902920A",
+      "Arrêté : du 26-2-2026 - JO du 27-3-2026",
+      "Article 1 – L’annexe de l’arrêté du 19 juillet 2019 susvisé est remplacée par l’annexe du présent arrêté.",
+      "Article 2 – Les dispositions du présent arrêté entrent en application à la rentrée de l'année scolaire 2027-2028.",
+      "Article 3 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  },
+  {
+    "id": "ad4eb79b607135f6",
+    "url": "https://www.education.gouv.fr/bo/2026/Hebdo22/MENE2608631A",
+    "checked_on": "2026-10-29",
+    "sha256": "931546ca0289a4e69a9bb29d2691655c14fc40058ccec46ad0933da8f6428268",
+    "snapshot": "curriculum/sources/ad4eb79b607135f6.html.txt",
+    "legal_excerpts": [
+      "NOR : MENE2608631A",
+      "Arrêté : du 22-4-2026 - JO du 8-5-2026",
+      "Article 1 – Les programmes d’enseignement d’éducation physique et sportive et d’histoire-géographie du cycle des apprentissages fondamentaux (cycle 2) et du cycle de consolidation (cycle 3) sont fixés conformément aux annexes du présent arrêté.",
+      "Article 2 – Les parties relatives à l’enseignement d’éducation physique et sportive et « Questionner le monde – Questionner l’espace et le temps » de l’annexe 1 (Programme d’enseignement du cycle des apprentissages fondamentaux) et à l’enseignement d’éducation physique et sportive et d’histoire et géographie de l’annexe 2 (Programme d’enseignement du cycle de consolidation) de l’arrêté du 9 novembre 2015 susvisé sont supprimées.",
+      "Article 3 – Les dispositions du présent arrêté entrent en application à la rentrée de l'année scolaire 2026-2027 en tant qu’elles s’appliquent aux classes de cours préparatoire et de cours moyen première année et à la rentrée de l'année scolaire 2027-2028, en tant qu’elles s’appliquent aux classes de cours élémentaire première et deuxième années, de cours moyen deuxième année et de sixième.",
+      "Article 4 – Le présent arrêté sera publié au Journal officiel de la République française."
+    ]
+  }
+]

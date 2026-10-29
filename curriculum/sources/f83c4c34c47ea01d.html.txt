@@ -1,0 +1,2570 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="og: https://ogp.me/ns#" class="fr-text">
+<head>
+  <link rel="apple-touch-icon" href="/libraries/dsfr/dist/favicon/apple-touch-icon.png"><!-- 180×180 -->
+  <link rel="icon" href="/libraries/dsfr/dist/favicon/favicon.svg" type="image/svg+xml">
+  <link rel="shortcut icon" href="/libraries/dsfr/dist/favicon/favicon.ico" type="image/x-icon"><!-- 32×32 -->
+  <link rel="manifest" href="/libraries/dsfr/dist/favicon/manifest.webmanifest" crossorigin="use-credentials">
+  <meta charset="utf-8" />
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://wa.phm.education.gouv.fr/mutu/" : "http://wa.phm.education.gouv.fr/mutu/");_paq.push(["setSiteId", "53"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<meta name="keywords" content="enseignement moral et civique (discipline),enseignement moral et civique (lycée professionnel)" />
+<meta name="robots" content="index, follow, noarchive" />
+<link rel="canonical" href="https://eduscol.education.gouv.fr/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" />
+<meta property="og:site_name" content="éduscol | Ministère de l&#039;Éducation nationale | Direction générale de l&#039;enseignement scolaire" />
+<meta property="og:type" content="edito_riche" />
+<meta property="og:url" content="https://eduscol.education.gouv.fr/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" />
+<meta property="og:title" content="Programmes et ressources en enseignement moral et civique - voie professionnelle" />
+<meta name="google-site-verification" content="Up0YqwOUM6O17amByguzRTR_Th9dJcSy7w9gkrhY8AQ" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/libraries/dsfr/dist/favicon/apple-touch-icon.png" type="image/png" />
+<link rel="alternate" hreflang="fr" href="https://eduscol.education.gouv.fr/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" />
+
+  <title>Programmes et ressources en enseignement moral et civique - voie professionnelle | éduscol | Ministère de l&#039;Éducation nationale | Direction générale de l&#039;enseignement scolaire</title>
+  <link rel="stylesheet" media="all" href="/sites/default/files/css/css_VsoArhOlord0f7SyF6E3q9RIIQzyJwymKb4JwTHZ3oM.css?delta=0&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFkFFuxDAIRC_kxEeyiM0mbrGxAFdyT1-q1bb9av4Q88TMkFkwZm6DO3bTHcvUzJSKPmTbHsyGEvK_0IXCCUs1vgH1AsE7pn5iytxNmOjWWmdrICtpLdiwz_BXjnmqcQsEi6elUl35QFnRTzkTBgicAuPSWGQOoP13s88-5kFVLyxheJQfxOeNan_XoEsNWzxAMRh0T_C0PYkPoE1tOXe-pLMMiQZiCDNXr9f3N32JwzOixOZfBKTvKvYFb8ugrA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_qXvw6FrcRFLtnOlKpgLXPyB_Xl4s1qhev8WK8mbmdWk.css?delta=1&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFkFFuxDAIRC_kxEeyiM0mbrGxAFdyT1-q1bb9av4Q88TMkFkwZm6DO3bTHcvUzJSKPmTbHsyGEvK_0IXCCUs1vgH1AsE7pn5iytxNmOjWWmdrICtpLdiwz_BXjnmqcQsEi6elUl35QFnRTzkTBgicAuPSWGQOoP13s88-5kFVLyxheJQfxOeNan_XoEsNWzxAMRh0T_C0PYkPoE1tOXe-pLMMiQZiCDNXr9f3N32JwzOixOZfBKTvKvYFb8ugrA" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_lFJuqrBJuPD967tnROjsQvtwzw9booIFOUzdl55tQyU.css?delta=2&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFkFFuxDAIRC_kxEeyiM0mbrGxAFdyT1-q1bb9av4Q88TMkFkwZm6DO3bTHcvUzJSKPmTbHsyGEvK_0IXCCUs1vgH1AsE7pn5iytxNmOjWWmdrICtpLdiwz_BXjnmqcQsEi6elUl35QFnRTzkTBgicAuPSWGQOoP13s88-5kFVLyxheJQfxOeNan_XoEsNWzxAMRh0T_C0PYkPoE1tOXe-pLMMiQZiCDNXr9f3N32JwzOixOZfBKTvKvYFb8ugrA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XvNXFZ75EM0gjZc9DkqioILdldP-veYPrWmJ2RJkpRw.css?delta=3&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFkFFuxDAIRC_kxEeyiM0mbrGxAFdyT1-q1bb9av4Q88TMkFkwZm6DO3bTHcvUzJSKPmTbHsyGEvK_0IXCCUs1vgH1AsE7pn5iytxNmOjWWmdrICtpLdiwz_BXjnmqcQsEi6elUl35QFnRTzkTBgicAuPSWGQOoP13s88-5kFVLyxheJQfxOeNan_XoEsNWzxAMRh0T_C0PYkPoE1tOXe-pLMMiQZiCDNXr9f3N32JwzOixOZfBKTvKvYFb8ugrA" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_N5EDBe35cbGk77JW3v0FfHnN-fcHqOehqU2KBrW1h-E.css?delta=4&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJyFkFFuxDAIRC_kxEeyiM0mbrGxAFdyT1-q1bb9av4Q88TMkFkwZm6DO3bTHcvUzJSKPmTbHsyGEvK_0IXCCUs1vgH1AsE7pn5iytxNmOjWWmdrICtpLdiwz_BXjnmqcQsEi6elUl35QFnRTzkTBgicAuPSWGQOoP13s88-5kFVLyxheJQfxOeNan_XoEsNWzxAMRh0T_C0PYkPoE1tOXe-pLMMiQZiCDNXr9f3N32JwzOixOZfBKTvKvYFb8ugrA" />
+
+  <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+
+  <meta name="format-detection" content="telephone=no,date=no,address=no,email=no,url=no">
+</head>
+<body>
+  
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+    <div data-component-id="ui_suite_dsfr:skiplinks" class="fr-skiplinks">
+    <nav class="fr-container" role="navigation" aria-label="Accès rapide">
+      <ul class="fr-skiplinks__list">
+                          <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#main-content">
+  Contenu
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#page-header--menu">
+  Menu
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#search-block-form">
+  Rechercher
+</a>
+</li>
+                  <li>
+
+
+
+
+
+
+
+
+<a data-component-id="ui_suite_dsfr:link" class="fr-link" href="#footer">
+  Pied de page
+</a>
+</li>
+              </ul>
+    </nav>
+  </div>
+
+
+
+  
+<header data-component-id="tandem_dsfr:header" class="fr-header" role="banner">
+  <div class="fr-header__body">
+    <div class="fr-container">
+      <div class="fr-header__body-row">
+        <div class="fr-header__brand fr-enlarge-link">
+          <div class="fr-header__brand-top">
+                        <div class="fr-header__logo">
+                                          <p class="fr-logo">
+                MINISTÈRE<br />
+DE L'ÉDUCATION<br />
+NATIONALE
+              </p>
+                          </div>
+
+                        
+                                      <div class="fr-header__navbar">
+                                  <button class="fr-btn--search fr-btn" data-fr-opened="false" aria-controls="page-header--search" title="Rechercher" id="page-header--search-btn" type="button">
+                    Rechercher
+                  </button>
+                                                  <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="page-header--menu" aria-haspopup="dialog" title="Menu" id="page-header--mobile-menu-btn" type="button">
+                    Menu
+                  </button>
+                              </div>
+                      </div>
+
+                                <div class="fr-header__service">
+                                          <a href="/" title="Page d'accueil - éduscol | Ministère de l'Éducation nationale | Direction générale de l'enseignement scolaire">
+                                                      <img src="https://eduscol.education.gouv.fr/sites/default/files/logo_images/logo_eduscol_pms_ssbaseline-1_1.svg" alt=éduscol | Ministère de l'Éducation nationale | Direction générale de l'enseignement scolaire />
+                                              </a>
+                                                      </div>
+                  </div>
+
+                          <div class="fr-header__tools">
+                                      <div class="fr-header__tools-links">
+                  <div>
+    <div id="block-eduscol-dsfr-loginlogoutbutton">
+
+
+
+      <div class="eduscol--fim fr-nav">
+        <div class="fr-nav__item fr-nav__item--align-right">
+                            <a href="/cas"
+                   class="fr-btn login-logout-button fr-btn--icon-left fr-btn--secondary fr-icon-user-line">
+                    Se connecter
+                </a>
+                    </div>
+    </div>
+
+
+</div>
+
+  </div>
+
+              </div>
+                                                  <div class="fr-header__search fr-modal" id="page-header--search" aria-labelledby="page-header--search-btn">
+                <div class="fr-container fr-container-lg--fluid">
+                  <button class="fr-btn fr-btn--close" aria-controls="page-header--search" title="Fermer la recherche" type="button">Fermer</button>
+                    <div>
+    
+<div class="search-block-form" data-drupal-selector="search-block-form" id="block-eduscol-dsfr-searchform" role="search">
+        
+    
+        
+            <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="fr-search-bar">
+  
+  <label for="edit-keys--3" class="visually-hidden fr-label">Rechercher
+      </label>
+<input title="Saisissez les termes que vous souhaitez rechercher" placeholder="Rechercher" data-drupal-selector="edit-keys" type="search" id="edit-keys--3" name="keys" value="" maxlength="128" class="form-search fr-input" />
+
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3">
+<button class="fr-btn button js-form-submit form-submit" data-twig-suggestion="search_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Rechercher">Rechercher</button>
+</div>
+
+</form>
+
+    
+        </div>
+
+  </div>
+
+                </div>
+              </div>
+                      </div>
+              </div>
+    </div>
+  </div>
+      <div class="fr-header__menu fr-modal" id="page-header--menu" aria-labelledby="page-header--mobile-menu-btn">
+      <div class="fr-container">
+        <button class="fr-btn fr-btn--close" aria-controls="page-header--menu" title="Fermer le menu" type="button">Fermer</button>
+        <div class="fr-header__menu-links"></div>
+          <div>
+    <div id="block-eduscol-dsfr-mainnavigation">
+
+
+
+      <nav data-component-id="ui_suite_dsfr:nav_menu" class="fr-nav" role="navigation" aria-label="Menu de navigation principale" id="main-menu-554041887">
+    <ul class="fr-nav__list">
+                                                  <li class="fr-nav__item">
+                                  <button class="fr-nav__btn" aria-expanded="false" type="button"
+                    aria-controls="main-menu-554041887-1">
+              Enseignement et formation
+            </button>
+            <div class="fr-collapse fr-mega-menu" id="main-menu-554041887-1" tabindex="-1">
+                          <div class="fr-container fr-container--fluid fr-container-lg">
+        <button class="fr-btn fr-btn--close" aria-controls="main-menu-554041887-1" title="Fermer" type="button">Fermer</button>
+        <div class="fr-grid-row fr-grid-row-lg--gutters">
+                                            <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4332" data-drupal-active-trail="false" class="fr-nav__link" href="/4332/niveaux">Niveaux</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4341" data-drupal-active-trail="false" class="fr-nav__link" href="/4341/enseigner-au-cycle-1">Enseigner au cycle 1</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4347" data-drupal-active-trail="false" class="fr-nav__link" href="/4347/enseigner-au-cycle-2">Enseigner au cycle 2</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4356" data-drupal-active-trail="false" class="fr-nav__link" href="/4356/enseigner-au-cycle-3">Enseigner au cycle 3</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4362" data-drupal-active-trail="false" class="fr-nav__link" href="/4362/enseigner-au-cycle-4">Enseigner au cycle 4</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4368" data-drupal-active-trail="false" class="fr-nav__link" href="/4368/enseigner-au-lycee-generaltechnologique">Enseigner au lycée général/technologique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4377" data-drupal-active-trail="false" class="fr-nav__link" href="/4377/enseigner-au-lycee-professionnel">Enseigner au lycée professionnel</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4383" data-drupal-active-trail="false" class="fr-nav__link" href="/4383/disciplines">Disciplines</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4395" data-drupal-active-trail="false" class="fr-nav__link" href="/4395/arts-plastiques">Arts plastiques</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4404" data-drupal-active-trail="false" class="fr-nav__link" href="/4404/biotechnologies-sciences-et-techniques-medico-sociales">Biotechnologies, sciences et techniques médico-sociales</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4410" data-drupal-active-trail="false" class="fr-nav__link" href="/4410/documentation">Documentation</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4419" data-drupal-active-trail="false" class="fr-nav__link" href="/4419/economie-et-gestion">Économie et gestion</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4428" data-drupal-active-trail="false" class="fr-nav__link" href="/4428/education-musicale">Éducation musicale</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4434" data-drupal-active-trail="false" class="fr-nav__link" href="/4434/education-physique-et-sportive">Éducation physique et sportive</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4446" data-drupal-active-trail="false" class="fr-nav__link" href="/4446/enseignement-moral-et-civique">Enseignement moral et civique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4455" data-drupal-active-trail="false" class="fr-nav__link" href="/4455/enseignements-artistiques-au-lycee">Enseignements artistiques au lycée</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4503" data-drupal-active-trail="false" class="fr-nav__link" href="/4503/francais">Français</a>
+
+          </li>
+                                                  <li>
+                      <a class="fr-link fr-nav__link" data-drupal-link-system-path="node/4383" data-drupal-active-trail="false" href="/4383/disciplines">Voir toutes les disciplines</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4569" data-drupal-active-trail="false" class="fr-nav__link" href="/4569/pratique-enseignante">Pratique enseignante</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4584" data-drupal-active-trail="false" class="fr-nav__link" href="/4584/enseigner-les-fondamentaux">Enseigner les fondamentaux</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4602" data-drupal-active-trail="false" class="fr-nav__link" href="/4602/mener-un-projet-avec-ses-eleves">Mener un projet avec ses élèves</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4572" data-drupal-active-trail="false" class="fr-nav__link" href="/4572/enseigner-avec-le-numerique">Enseigner avec le numérique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4590" data-drupal-active-trail="false" class="fr-nav__link" href="/4590/se-former">Se former</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4599" data-drupal-active-trail="false" class="fr-nav__link" href="/4599/innover-et-experimenter">Innover et expérimenter</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4677" data-drupal-active-trail="false" class="fr-nav__link" href="/4677/developper-les-competences-psychosociales-chez-les-eleves">Développer les compétences psychosociales des élèves</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4587" data-drupal-active-trail="false" class="fr-nav__link" href="/4587/thematiques">Thématiques</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4581" data-drupal-active-trail="false" class="fr-nav__link" href="/4581/citoyennete-et-valeurs-de-la-republique">Citoyenneté et valeurs de la République</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6899" data-drupal-active-trail="false" class="fr-nav__link" href="/6899/education-la-defense">Éducation à la défense</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4365" data-drupal-active-trail="false" class="fr-nav__link" href="/4365/education-la-responsabilite">Éducation à la responsabilité</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4692" data-drupal-active-trail="false" class="fr-nav__link" href="/4692/education-artistique-et-culturelle">Éducation artistique et culturelle</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4695" data-drupal-active-trail="false" class="fr-nav__link" href="/4695/education-au-developpement-durable">Éducation au développement durable</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4704" data-drupal-active-trail="false" class="fr-nav__link" href="/4704/education-aux-medias-et-l-information">Éducation aux médias et à l'information</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4686" data-drupal-active-trail="false" class="fr-nav__link" href="/4686/education-economique-budgetaire-et-financiere-educfi">Education économique, budgétaire et financière</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/7096" data-drupal-active-trail="false" class="fr-nav__link" href="/7096/pratiques-sportives-l-ecole">Pratiques sportives à l’École</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4452" data-drupal-active-trail="false" class="fr-nav__link" href="/4452/promotion-de-la-sante">Promotion de la santé</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                              </div>
+      </div>
+      
+            </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn" aria-expanded="false" type="button"
+                    aria-controls="main-menu-554041887-2">
+              Scolarité de l'élève et diplômes
+            </button>
+            <div class="fr-collapse fr-mega-menu" id="main-menu-554041887-2" tabindex="-1">
+                          <div class="fr-container fr-container--fluid fr-container-lg">
+        <button class="fr-btn fr-btn--close" aria-controls="main-menu-554041887-2" title="Fermer" type="button">Fermer</button>
+        <div class="fr-grid-row fr-grid-row-lg--gutters">
+                                            <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4497" data-drupal-active-trail="false" class="fr-nav__link" href="/4497/l-accompagnement-des-eleves">L'accompagnement des élèves</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4491" data-drupal-active-trail="false" class="fr-nav__link" href="/4491/dispositifs-d-accompagnement">Dispositifs d'accompagnement</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4479" data-drupal-active-trail="false" class="fr-nav__link" href="/4479/orientation">Orientation</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4734" data-drupal-active-trail="false" class="fr-nav__link" href="/4734/de-la-prevention-la-remediation-du-decrochage-scolaire">Prévention et lutte contre le décrochage</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4743" data-drupal-active-trail="false" class="fr-nav__link" href="/4743/ecole-inclusive">École inclusive</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4464" data-drupal-active-trail="false" class="fr-nav__link" href="/4464/organisation-des-enseignements">Organisation des enseignements</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4500" data-drupal-active-trail="false" class="fr-nav__link" href="/4500/ecole-maternelle">École maternelle</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4488" data-drupal-active-trail="false" class="fr-nav__link" href="/4488/ecole-elementaire">École élémentaire</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4473" data-drupal-active-trail="false" class="fr-nav__link" href="/4473/college">Collège</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4530" data-drupal-active-trail="false" class="fr-nav__link" href="/4530/lycee-general">Lycée général</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4566" data-drupal-active-trail="false" class="fr-nav__link" href="/4566/lycee-technologique">Lycée technologique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4575" data-drupal-active-trail="false" class="fr-nav__link" href="/4575/lycee-professionnel">Lycée professionnel</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4524" data-drupal-active-trail="false" class="fr-nav__link" href="/4524/formation-en-apprentissage">Formation en apprentissage</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4515" data-drupal-active-trail="false" class="fr-nav__link" href="/4515/enseignements-europeens-et-internationaux">Enseignements européens et internationaux</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4563" data-drupal-active-trail="false" class="fr-nav__link" href="/4563/diplomes">Diplômes</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4536" data-drupal-active-trail="false" class="fr-nav__link" href="/4536/diplome-national-du-brevet">Diplôme national du brevet</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4551" data-drupal-active-trail="false" class="fr-nav__link" href="/4551/baccalaureat-general">Baccalauréat général</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4539" data-drupal-active-trail="false" class="fr-nav__link" href="/4539/baccalaureat-technologique">Baccalauréat technologique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4527" data-drupal-active-trail="false" class="fr-nav__link" href="/4527/diplomes-professionnels">Diplômes professionnels</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4707" data-drupal-active-trail="false" class="fr-nav__link" href="/4707/certificat-de-formation-generale-cfg">Certificat de formation générale</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4518" data-drupal-active-trail="false" class="fr-nav__link" href="/4518/les-amenagements-d-examens-pour-les-eleves-en-situation-de-handicap">Les aménagements d'examens pour les élèves en situation de handicap</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4512" data-drupal-active-trail="false" class="fr-nav__link" href="/4512/certifications">Certifications</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4506" data-drupal-active-trail="false" class="fr-nav__link" href="/4506/cadre-de-reference-des-competences-numeriques">Cadre de référence des compétences numériques</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4722" data-drupal-active-trail="false" class="fr-nav__link" href="/4722/l-education-la-securite-routiere-l-ecole">Sécurité routière : APER</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4728" data-drupal-active-trail="false" class="fr-nav__link" href="/4728/l-education-la-securite-routiere-au-college">Sécurité routière : ASSR 1 et 2</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4716" data-drupal-active-trail="false" class="fr-nav__link" href="/4716/sensibilisation-aux-premiers-secours-dans-le-second-degre-au-college-et-au-lycee">Prévention et secours civiques de niveau 1</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4710" data-drupal-active-trail="false" class="fr-nav__link" href="/4710/certifications-en-langues-vivantes-etrangeres">Certifications en langues vivantes étrangères</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4476" data-drupal-active-trail="false" class="fr-nav__link" href="/4476/suivi-et-evaluation">Suivi et évaluation</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4761" data-drupal-active-trail="false" class="fr-nav__link" href="/4761/le-socle-commun-de-connaissances-de-competences-et-de-culture">Socle commun</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4449" data-drupal-active-trail="false" class="fr-nav__link" href="/4449/livret-scolaire-unique">Livret scolaire unique</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4749" data-drupal-active-trail="false" class="fr-nav__link" href="/4749/livret-scolaire-du-lycee-general-technologique-et-professionnel">Livret scolaire du lycée</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4764" data-drupal-active-trail="false" class="fr-nav__link" href="/4764/evaluation-et-positionnement-en-langues-vivantes">Évaluation et positionnement en langues vivantes</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4467" data-drupal-active-trail="false" class="fr-nav__link" href="/4467/evaluations-nationales-et-tests-de-positionnement">Évaluations nationales et tests de positionnement</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6910" data-drupal-active-trail="false" class="fr-nav__link" href="/6910/reperes-annuels-de-progression-et-attendus-de-fin-d-annee-du-cp-la-troisieme">Repères annuels et attendus de fin d'année</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/5976" data-drupal-active-trail="false" class="fr-nav__link" href="/5976/evaluation-des-aptitudes-physiques-des-eleves-de-sixieme">Évaluation des aptitudes physiques des élèves de 6ᵉ</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                              </div>
+      </div>
+      
+            </div>
+                  </li>
+                                      <li class="fr-nav__item">
+                                  <button class="fr-nav__btn" aria-expanded="false" type="button"
+                    aria-controls="main-menu-554041887-3">
+              Vie des écoles et des établissements
+            </button>
+            <div class="fr-collapse fr-mega-menu" id="main-menu-554041887-3" tabindex="-1">
+                          <div class="fr-container fr-container--fluid fr-container-lg">
+        <button class="fr-btn fr-btn--close" aria-controls="main-menu-554041887-3" title="Fermer" type="button">Fermer</button>
+        <div class="fr-grid-row fr-grid-row-lg--gutters">
+                                            <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4437" data-drupal-active-trail="false" class="fr-nav__link" href="/4437/fonctionnement">Fonctionnement des établissements scolaires</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4431" data-drupal-active-trail="false" class="fr-nav__link" href="/4431/assurer-la-continuite-des-enseignements">Assurer la continuité des enseignements</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4422" data-drupal-active-trail="false" class="fr-nav__link" href="/4422/l-instruction-obligatoire">L'instruction obligatoire</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4398" data-drupal-active-trail="false" class="fr-nav__link" href="/4398/direction-d-ecole">Vie des écoles</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4392" data-drupal-active-trail="false" class="fr-nav__link" href="/4392/vie-des-etablissements">Vie des établissements</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4407" data-drupal-active-trail="false" class="fr-nav__link" href="/4407/parents-d-eleves">Parents d'élèves</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6907" data-drupal-active-trail="false" class="fr-nav__link" href="/6907/les-etablissements-d-enseignement-francais-l-etranger">Les établissements d'enseignement français à l'étranger</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4416" data-drupal-active-trail="false" class="fr-nav__link" href="/4416/la-mobilite-europeenne-et-internationale">La mobilité européenne et internationale</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4767" data-drupal-active-trail="false" class="fr-nav__link" href="/4767/qualeduc-la-demarche-d-amelioration-continue-des-etablissements">Qualéduc</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4386" data-drupal-active-trail="false" class="fr-nav__link" href="/4386/protection-et-prevention">Protection et prévention</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4788" data-drupal-active-trail="false" class="fr-nav__link" href="/4788/transmettre-et-faire-respecter-les-principes-et-valeurs-de-la-republique">Transmettre et faire respecter les principes et valeurs de la République</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4371" data-drupal-active-trail="false" class="fr-nav__link" href="/4371/climat-scolaire-et-prevention-des-violences">Climat scolaire et prévention des violences</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4452" data-drupal-active-trail="false" class="fr-nav__link" href="/4452/promotion-de-la-sante">Promotion de la santé</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4782" data-drupal-active-trail="false" class="fr-nav__link" href="/4782/assurer-la-securite-des-ecoles-et-des-etablissements">Sécurité des écoles et des établissements</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4350" data-drupal-active-trail="false" class="fr-nav__link" href="/4350/protection-de-l-enfance">Protection de l'enfance</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4359" data-drupal-active-trail="false" class="fr-nav__link" href="/4359/education-la-securite-routiere">Éducation à la sécurité routière</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6986" data-drupal-active-trail="false" class="fr-nav__link" href="/6986/sensibilisation-aux-gestes-qui-sauvent-et-formation-aux-premiers-secours">Sensibilisation aux gestes qui sauvent et formation aux premiers secours</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4365" data-drupal-active-trail="false" class="fr-nav__link" href="/4365/education-la-responsabilite">Éducation à la responsabilité</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4353" data-drupal-active-trail="false" class="fr-nav__link" href="/4353/prevenir-la-radicalisation-en-milieu-scolaire">Prévenir la radicalisation en milieu scolaire</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4344" data-drupal-active-trail="false" class="fr-nav__link" href="/4344/le-numerique-l-ecole">Le numérique à l'École</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4335" data-drupal-active-trail="false" class="fr-nav__link" href="/4335/applications-et-services-numeriques-nationaux">Applications et services numériques nationaux</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4338" data-drupal-active-trail="false" class="fr-nav__link" href="/4338/reseaux-et-interlocuteurs-pour-le-numerique">Réseaux et interlocuteurs pour le numérique</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                                              <div class="fr-col-12 fr-col-lg-3">
+              <h5 class="fr-mega-menu__category">
+                                            <a data-drupal-link-system-path="node/4329" data-drupal-active-trail="false" class="fr-nav__link" href="/4329/education-formations-et-territoires">Éducation, formations et territoires</a>
+
+                              </h5>
+                                          <ul class="fr-mega-menu__list">
+                                        <li>
+                      <a data-drupal-link-system-path="node/4794" data-drupal-active-trail="false" class="fr-nav__link" href="/4794/accueil-elargi-8h-18h">Accueil élargi 8h-18h</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4896" data-drupal-active-trail="false" class="fr-nav__link" href="/4896/la-politique-de-l-education-prioritaire-les-reseaux-d-education-prioritaire-rep-et-rep">Éducation prioritaire</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4818" data-drupal-active-trail="false" class="fr-nav__link" href="/4818/territoires-ruraux-et-de-montagne">Territoires ruraux et de montagne</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4806" data-drupal-active-trail="false" class="fr-nav__link" href="/4806/territoires-ultramarins">Territoires d'outre-mer</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4797" data-drupal-active-trail="false" class="fr-nav__link" href="/4797/l-internat-d-excellence-lieu-de-vie-et-d-epanouissement">Internat d'excellence</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6904" data-drupal-active-trail="false" class="fr-nav__link" href="/6904/carte-des-formations-professionnelles-initiales">Carte des formations professionnelles initiales</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/4803" data-drupal-active-trail="false" class="fr-nav__link" href="/4803/l-apprentissage-et-la-formation-continue-l-education-nationale">L’apprentissage et la formation continue à l’Éducation nationale</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/6974" data-drupal-active-trail="false" class="fr-nav__link" href="/6974/amenager-les-espaces-scolaires">Aménager les espaces scolaires</a>
+
+          </li>
+                                                  <li>
+                      <a data-drupal-link-system-path="node/7043" data-drupal-active-trail="false" class="fr-nav__link" href="/7043/mesurer-et-piloter-la-performance-du-systeme-educatif">Mesurer et piloter la performance du système éducatif</a>
+
+          </li>
+                        </ul>
+      
+                          </div>
+                              </div>
+      </div>
+      
+            </div>
+                  </li>
+                    
+          </ul>
+  </nav>
+
+
+
+
+
+</div>
+
+  </div>
+
+      </div>
+    </div>
+  </header>
+
+    <div>
+    <div id="block-eduscol-dsfr-breadcrumbs" class="fr-container">
+
+
+
+        <nav data-component-id="ui_suite_dsfr:breadcrumb" class="fr-breadcrumb" role="navigation" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-438886485" type="button">Voir le fil d'ariane</button>
+    <div class="fr-collapse" id="breadcrumb-438886485">
+      <ol class="fr-breadcrumb__list">
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/">
+              Accueil
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/4317/enseignement-et-formation">
+              Enseignement et formation
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/4332/niveaux">
+              Niveaux
+            </a>
+          </li>
+                  <li>
+                                                            <a class="fr-breadcrumb__link" href="/4377/enseigner-au-lycee-professionnel">
+              Enseigner au lycée professionnel
+            </a>
+          </li>
+                  <li>
+                                                            <a aria-current="page" class="fr-breadcrumb__link" href="/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle">
+              Programmes et ressources en enseignement moral et civique - voie professionnelle
+            </a>
+          </li>
+              </ol>
+    </div>
+  </nav>
+
+
+
+</div>
+
+  </div>
+
+
+  
+  <main role="main" class="fr-container--fluid fr-mt-4w">
+    <a id="main-content" tabindex="-1"></a>    <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-col-12" style="order: 2">
+          <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-eduscol-dsfr-content">
+
+
+
+  <article>
+    <div>
+        
+    
+<div class="fr-hero-edito eduscol-background-ecume">
+    <div class="fr-container">
+        <div
+            class="fr-grid-row fr-grid-row--gutters fr-py-8v fr-py-md-11v">
+            <div  data-component-id="eduscol_dsfr:hero_edito" class="fr-col-md-6">
+
+                
+                
+                                                                
+                                    <h1>
+                        
+
+
+  
+    Programmes et ressources en enseignement moral et civique - voie professionnelle
+
+
+
+                    </h1>
+                
+                
+                                    <div class="fr-text--lead fr-mb-2w fr-mb-md-3w">
+                        
+
+
+    <p>Les programmes d'enseignement moral et civique (EMC) pour les classes préparant au certificat d'aptitude professionnelle (CAP) et au baccalauréat professionnel sont présentés en lien avec des ressources pour accompagner leur mise en œuvre.</p>
+
+
+
+                    </div>
+                
+                                    <div class="fr-text--xs fr-mb-1w fr-mb-md-0"><div class="fr-mb-3w">
+
+
+
+    <time datetime="2026-09-23T15:10:18+02:00" title="septembre 2026">septembre 2026</time>
+
+
+
+</div>
+
+
+
+    
+  <div class="wrapper-unauthorized">
+    <button type="button" class="unauthorized-flagging fr-btn fr-btn--secondary folder-create-popup__call js-fl-show-popup">
+      Ajouter aux favoris</button>
+    <div class="folder-create-popup js-fl-create-popup">
+      <div class="folder-create-popup__back js-fl-popup-close"></div>
+    </div>
+    <div class="folder-create-popup__place js-popups-place">
+
+      <div class="js-fl-create-body folder-create-popup__body unauthorized_body">
+        <div class="fr-modal__header">
+          <button title="Fermer" type="button" class="fr-btn--close fr-btn folder-create-popup__close js-fl-popup-close">
+            Fermer
+          </button>
+        </div>
+        <div class="fr-modal__content">
+          <h2 class="fr-modal__title">Connexion requise</h2>
+          <p>Cette fonctionnalité est destinée aux agents de l'éducation&nbsp;nationale. Pour ajouter cet élément à vos favoris, inscrivez-vous ou connectez-vous.</p>
+          <div class="fr-btns-group fr-btns-group--inline-md fr-btns-group--between">
+            <button class="fr-btn fr-btn--secondary folder-create-popup__button js-fl-popup-close">Annuler</button>
+            <a href="/cas?returnto=/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" class="fr-btn"><span>Se connecter</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+                            </div>
+
+                            <div class="fr-col-12 fr-col-md-6">
+                    <div class="fr-card__img">
+                        
+
+
+      
+  
+<img class="fr-responsive-img"  loading="eager" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_952x453_627_0.png.webp?h=b28dfbfb&amp;itok=tM4N-T03" width="690" height="388" alt="" fetchpriority="high" />
+
+
+
+
+
+
+                    </div>
+                    <div class="fr-text--xs fr-mt-1w fr-mb-0">
+                        
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+    
+
+
+
+    <div class="fr-container">
+
+        <div class="fr-mt-5v fr-m-auto fr-grid-row fr-grid-row--gutters" data-component-id="eduscol_dsfr:grid_row_2_colors">
+                                                    <div class="fr-col fr-col-12 fr-col-lg-3">
+                
+
+
+  
+
+  <div class="fr-summary-sidemenu">
+    <nav class="fr-summary fr-summary__nav"
+         id="js-sticky-summary-data" role="navigation"
+         aria-labelledby="fr-summary-title--1008617883">
+      <div class="fr-summary__inner">
+        <button class="fr-summary__btn"
+                aria-controls=""
+                aria-expanded="true"
+                type="button">Sommaire</button>
+        <div
+          id="fr-summary-wrapper-summary-962659432">
+                      <ul class="fr-summary__list js-summary-list-data"></ul>
+                  </div>
+      </div>
+    </nav>
+
+      </div>
+
+
+
+            </div>
+                                        <div class="fr-col fr-col-12 fr-col-lg-9">
+                
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w">Programmes en vigueur</h2>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>CAP</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-interne-externe paragraph--view-mode--default">
+          
+      
+
+
+    <a href="https://www.education.gouv.fr/sites/default/files/document/Annexe%20%E2%80%94%20Programme%20d%E2%80%99enseignement%20moral%20et%20civique%20du%20cours%20pr%C3%A9paratoire%20%C3%A0%20la%20classe%20terminale%20des%20voies%20g%C3%A9n%C3%A9rale%2C%20technologique%20et%20professionnelle%20et%20des%20classes%20pr%C3%A9parant%20au%20CAP-402159.pdf" rel="noopener download" class="fr-link fr-link--download" target="_blank" title="Classes préparant au CAP (BO n° 24 du 13 juin 2024) - nouvelle fenêtre">Classes préparant au CAP (BO n° 24 du 13 juin 2024)</a>
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>Baccalauréat professionnel</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-interne-externe paragraph--view-mode--default">
+          
+      
+
+
+    <a href="https://www.education.gouv.fr/sites/default/files/document/Annexe%20%E2%80%94%20Programme%20d%E2%80%99enseignement%20moral%20et%20civique%20du%20cours%20pr%C3%A9paratoire%20%C3%A0%20la%20classe%20terminale%20des%20voies%20g%C3%A9n%C3%A9rale%2C%20technologique%20et%20professionnelle%20et%20des%20classes%20pr%C3%A9parant%20au%20CAP-402159.pdf" rel="noopener download" class="fr-link fr-link--download" target="_blank" title="Seconde, première et terminale professionnelles (BO n° 24 du 13 juin 2024) - nouvelle fenêtre">Seconde, première et terminale professionnelles (BO n° 24 du 13 juin 2024)</a>
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <p>Le programme d'enseignement moral et civique, paru au Bulletin officiel n° 24 du 13 juin 2024, est en application à tous les niveaux à la rentrée de l'année scolaire 2026-2027.</p><p><strong>Nota</strong>&nbsp;: <a class="internal-link with-icon fr-link fr-icon-arrow-right-line fr-link--icon-right" href="/4815/adaptation-des-programmes-d-enseignement-dans-les-territoires-d-outre-mer" data-entity-type="node" data-entity-uuid="0a582a2d-b720-4c53-96ff-35b0e4c1d923" data-entity-substitution="canonical">Dans certains territoires d’outre-mer, les programmes d’EMC font l’objet d’une adaptation</a>.</p>
+
+  </div>
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w"><a class="ck-anchor" id="ressources-accompagnement"></a><a class="ck-anchor" id="regards-sur"></a>Regards sur le programme d'EMC des lycées</h2>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w eduscol-media fr-grid-row fr-grid-row--gutters" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-sm-12 fr-col-md-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+    <p>Les émissions <em>Regards sur</em> présentent les nouveaux programmes. Le format repose sur <strong>les réactions de professeurs découvrant le programme</strong> pour expliciter les intentions et nouveautés de celui-ci.</p><p>La vidéo&nbsp;<em>Regards sur le programme d‘enseignement moral et civique des lycées</em> est sous-titrée et accompagnée d'une transcription.</p>
+
+
+
+
+
+  <div class="fr-size-100">
+  <div>
+  
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+
+
+          
+
+<figure data-component-id="tandem_dsfr:content_media" role="group" aria-label="La vidéo « Regards sur le programme d&#039;EMC pour le lycée » est sous-titrée et accompagnée d&#039;une transcription." class="fr-content-media">
+      <div
+      class="fr-responsive-vid fr-responsive-vid--16x9">
+      <div class="media-wrapper--podeduc tandem-media-wrapper">
+      <iframe class="podeduc--player dsfr-video-player" title="Regards sur – Les programmes – EMC lycées"
+            src="https://podeduc.apps.education.fr/video/101338-regards-sur-les-programmes-emc-lycees/?is_iframe=true?is_iframe=true"
+            allowfullscreen
+            lang="fr">
+    </iframe>
+</div>
+
+    </div>
+  
+      <figcaption class="fr-content-media__caption">
+                    <p>La vidéo « Regards sur le programme d&#039;EMC pour le lycée » est sous-titrée et accompagnée d&#039;une transcription.</p>
+          </figcaption>
+  </figure>
+  
+<div data-component-id="ui_suite_dsfr:transcription" class="fr-transcription">
+  <button class="fr-transcription__btn" aria-expanded="false" aria-controls="fr-transcription__collapse-transcriptiontranscription-1398748433" type="button">
+    Transcription</button>
+  <div class="fr-collapse " id="fr-transcription__collapse-transcriptiontranscription-1398748433">
+    <div class="fr-transcription__footer">
+      <div class="fr-transcription__actions-group">
+        
+
+
+
+
+
+  <button class="fr-btn--fullscreen fr-btn" aria-controls="fr-transcription__modal-transcription-transcription-1398748433" data-fr-opened="false" aria-label="Agrandir" data-fr-js-modal-button="true" data-component-id="ui_suite_dsfr:button" type="button">
+    Agrandir la transcription
+  </button>
+
+      </div>
+    </div>
+          <dialog aria-labelledby="fr-transcription__modal-transcription-transcription-1398748433-title" aria-modal="true" role="dialog" id="fr-transcription__modal-transcription-transcription-1398748433" class="fr-modal">
+  <div class="fr-container fr-container--fluid fr-container-md">
+    <div class="fr-grid-row fr-grid-row--center">
+      <div class="fr-col-12 fr-col-md-10 fr-col-lg-8 fr-col-md-6" data-component-id="ui_suite_dsfr:modal">
+        <div class="fr-modal__body">
+          <div class="fr-modal__header">
+            <button class="fr-btn fr-btn--close" aria-controls="fr-transcription__modal-transcription-transcription-1398748433" title="Fermer la fenêtre modale de transcription" type="button">Fermer</button>
+          </div>
+          <div class="fr-modal__content">
+            <h1 id="fr-transcription__modal-transcription-transcription-1398748433-title" class="fr-modal__title">
+                            Transcription
+            </h1>
+            <p><strong>Caroline PASCAL</strong></p><p>Mesdames et Messieurs, chers professeurs, bonjour et bienvenue sur la série «&nbsp;Regards sur les programmes&nbsp;». Cette série, produite par la Dgesco, en collaboration avec Réseau Canopé et avec l'intervention de l'Inspection générale, vous présente les nouveaux programmes, leur sens, leur objectif, la façon dont ils ont été conçus, élaborés.</p><p>Nous avons également recueilli des témoignages, des questions, qui sont les vôtres, sur le terrain, de manière à vous apporter le conseil et l'appui le plus proche de celui dont vous avez besoin.</p><p>Je suis ravie de vous accueillir sur cette série. J'espère qu'elle vous apportera tout le profit nécessaire et je vous souhaite un excellent travail.</p><p><strong>Judith KLEIN</strong></p><p>Bonjour à toutes et tous et bienvenue dans cette émission « Regards sur les programmes », consacrée aujourd'hui au programme d'enseignement moral et civique des lycées. Je suis Judith Klein, cheffe du bureau de l'égalité filles-garçons, de la lutte contre les discriminations, de la citoyenneté et de l'engagement à la Direction générale de l'enseignement scolaire. Cette émission est conçue pour croiser les regards.</p><p>C'est dans cette perspective que nous sommes allés à la rencontre d'enseignantes et d'enseignants de cinq académies. Et, aujourd'hui, leurs réactions et leurs questions nourrissent notre réflexion à l'échelle nationale. Nous les remercions sincèrement de s'être prêtés à l'exercice et, sans plus tarder, je vous propose de leur donner la parole et d'écouter leurs premières réactions à la lecture du programme d'EMC pour les lycées.</p><p><strong>Éricka MÉPHARA</strong></p><p>La présentation du nouveau programme est très claire et vraiment agréable. Les trois colonnes permettent vraiment de faire la distinction entre les objectifs, les contenus, les démarches pédagogiques, le fait que ce soit aussi un document unique, au lieu des trois documents qu'on avait les années précédentes, pour faciliter une lecture plus rapide et une organisation finalement plus pratique pour les enseignants.</p><p><strong>Jean-Christophe MASMONTEIL</strong></p><p>Ce nouveau programme, du CP à la terminale, est parfaitement lisible et favorise la remobilisation des acquis tout au long du parcours des élèves.</p><p><strong>Éricka MÉPHARA</strong></p><p>Je suis aussi satisfaite de voir que les sujets d'actualité, comme la transition écologique, ont été intégrés à ces nouveaux programmes, puisque ce sont des thématiques qui résonnent bien avec les préoccupations des élèves. J'ai l'impression que ça rend l'EMC plus concret et plus connecté au monde contemporain.</p><p><strong>Alain DUVAL</strong></p><p>Ces nouveaux programmes semblent intéressants dans la mesure où ils flèchent de manière explicite les entrées relatives à l'EMI et à l'EDD.&nbsp;</p><p><br>&nbsp;</p><p><strong>Raphaël VERCHÈRE</strong></p><p>Malheureusement, le volume d'heures n'a pas bougé et la question que je me pose, c'est comment est-ce qu'on va pouvoir réussir à la fois faire beaucoup et bien. D'autant plus que la liberté qui était laissée par les anciens programmes de se centrer sur deux points parmi tous ceux qui étaient proposés semble avoir disparu</p><p><strong>Dorothée JEANJOT-ÉMERY</strong></p><p>Avec le cadrage des programmes, quelle place reste-t-il réellement à l'enseignant pour sa liberté pédagogique ?</p><p><strong>Yolande SIBAN</strong></p><p>Utiliser tous les dispositifs qui sont à notre disposition en lycée professionnel pour profiter et en faire des temps d'EMC, C'est-à-dire travailler également en soutien aux parcours en co-intervention et en chef d'œuvre.</p><p><strong>Judith KLEIN</strong></p><p>Ces premières réactions saluent la lisibilité et le caractère concret du programme, mais elles soulèvent déjà quelques questions. Et pour y répondre, j'ai le plaisir de me trouver sur ce plateau avec nos trois intervenants, que je vais présenter maintenant. Bonjour Jérôme Grondeux.</p><p><strong>Jérôme GRONDEUX</strong></p><p>Bonjour.</p><p><strong>Judith KLEIN</strong></p><p>Vous êtes Inspecteur général de l'éducation, du sport et de la recherche dans le groupe histoire-géographie et vous avez été copilote du groupe d'élaboration du programme.</p><p><strong>Judith KLEIN</strong></p><p>Bonjour Delphine Dussert-Galinat, vous êtes professeure de chaire supérieure d'histoire et vous avez été également membre du groupe d'élaboration du projet de programme. Vous exercez aujourd'hui une mission transversale puisque vous êtes, dans l'académie de Bordeaux, la référente du projet académique et des zones d'animation pédagogique.</p><p>Bonjour Guillaume Jacq.</p><p><strong>Guillaume JACQ</strong></p><p>Bonjour.</p><p><strong>Judith KLEIN</strong></p><p>Vous êtes inspecteur de l'Éducation Nationale en lettres-histoire dans l'académie de Grenoble et vous êtes pour votre part le pilote du groupe d'élaboration des ressources d'accompagnement du programme pour le lycée professionnel.</p><p>Jérôme, peut-être, une première réaction ?</p><p><strong>Jérôme GRONDEUX</strong></p><p>Oui, des choses importantes ont été dites, en particulier en ce qui concerne la faisabilité du programme, et je couplerais cela avec la liberté pédagogique de l'enseignant. Donc, en fait, c'est très important de voir qu'il y a une différence selon les parties du programme, puisqu'il y a les deux premières colonnes qui concernent les notions et les contenus que l'on doit connaître et que l'élève doit connaître.</p><p>Ça, effectivement, c'est impératif. Et puis la troisième colonne qui propose des démarches et des situations d'apprentissage « possibles ». On insiste beaucoup sur ce « possible ». Effectivement, les programmes ne sont pas faisables si on fait à la suite toutes les propositions de la colonne 3. Mais ce sont vraiment des propositions. C'est-à-dire qu'on ne fait pas que ça, on n'est pas obligé de toutes les faire et on n'est pas obligé de les faire exactement comme elles sont indiquées.</p><p>Donc il y a une marge de tri, de choix, d'interprétation qui représentent cette liberté pédagogique des professeurs, pour savoir à partir de quelle situation ils vont faire passer les notions et les connaissances.</p><p><strong>Judith KLEIN</strong></p><p>Et sur l'éducation aux médias et à l'information et l'éducation au développement durable, dont les collègues à distance ont salué l'intégration dans le programme, Delphine, peut-être ?</p><p><strong>Delphine DUSSERT-GALINAT</strong></p><p>Oui, sur ces « éducation à », dès la lettre de saisine, il était question d'intégrer l'éducation aux médias et à l'information et l'éducation au développement durable, dans le sens où ce programme forme les futurs citoyens et les informe aussi sur la transition écologique, l'écocitoyenneté. Donc nous avons eu toujours le souci d'intégrer des éducations à la défense, également, à la vie affective, relationnelle et à la sexualité.</p><p>Voilà, c'est ce qui apparaît effectivement dans la troisième colonne, notamment pour l'EMI et l'EDD qui sont spécifiquement notifiés…</p><p><strong>Jérôme GRONDEUX</strong></p><p>...à l'intérieur du programme, effectivement. C'est quelque chose d'important et il faut bien noter que l'on n'intègre pas l'ensemble de ces éducations. C'est une dimension, en fait, de ce que nous faisons, parce qu'on essaye de faire une sorte de colonne vertébrale qui unifie l'éducation à la citoyenneté.</p><p><strong>Judith KLEIN</strong></p><p>C'est une colonne vertébrale, mais c'est un programme des lycées. Alors, Guillaume, sur la voie pro ?</p><p><strong>Guillaume JACQ</strong></p><p>Je débuterai par, peut-être, une approche un peu plus globale, C'est-à-dire que la particularité c'est que, que ce soit la voie générale, la voie technologique ou la voie professionnelle, les contenus des programmes d'EMC sont identiques. Alors, effectivement, ça a été évoqué par un professeur, la quotité horaire est différente, mais essentiellement au regard de la spécificité de chacune des filières. Et je pense, tout particulièrement, et on en arrive à la voie professionnelle, à ces périodes de formation en milieu professionnel qui font que les élèves ont un espace dans lequel ils peuvent mettre en œuvre et éprouver les concepts étudiés en classe, dans le cadre de l'EMC.</p><p>Et puis l'autre élément, aussi peut-être une spécificité de la voie professionnelle, c'est que la classe de CAP dispose d'un programme de cycle, à la différence des autres classes de lycée. C'est-à-dire que la majorité des élèves font un CAP en deux ans, c'est-à-dire que ce programme est réfléchi sur deux années. Mais il faut garder à l'esprit qu'il y a aussi des élèves qui passent le CAP en une seule année ou parfois en trois ans.</p><p>Et dans la construction de ce programme-là, il a été comment conçu une réflexion sur la progressivité de la mise en œuvre.</p><p><strong>Judith KLEIN</strong></p><p>Ce que l'on retient, c'est l'idée de cohérence. Delphine ?</p><p><strong>Delphine DUSSERT-GALINAT</strong></p><p>Oui, nous avons toujours à l'esprit, et comme c'est le même groupe d'experts qui s'est chargé de la fabrication des programmes du CP à la terminale, nous avons opté pour une approche spiralaire et des notions qui peuvent être abordées dès le CP, par exemple la liberté, sont régulièrement ensuite réinvesties dans les cycles supérieurs, afin justement de pouvoir approfondir toutes ces notions et de réinvestir jusqu'à la classe de terminale sur la liberté, la démocratie, la laïcité également.</p><p><strong>Judith KLEIN</strong></p><p>Merci beaucoup pour ces premiers éclairages très utiles pour montrer l'économie générale d'un programme ambitieux. Maintenant, je vous propose que nous écoutions quelques questions plus précises sur des points de ce programme.</p><p><strong>Nathalie HÉRAUD-BENABDELLAOUI</strong></p><p>En fin d'année, est ce que les élèves doivent avoir vu tous ces contenus d'enseignements, ou est ce qu'on peut se permettre de n'en traiter que certains ?</p><p><strong>Marine DE PRÉNEUF</strong></p><p>Dans quelle mesure est-ce qu'on peut faire des choix dans le programme, en fonction notamment de notre spécificité pédagogique ? Dans quelle mesure est-ce qu'on peut privilégier certains aspects du programme, davantage travailler sur les notions, par exemple en tant que professeur de philosophie, plutôt que sur les faits juridiques ou historiques ?</p><p><strong>Éricka MÉPHARA</strong></p><p>Le préambule insiste sur le développement des compétences civiques chez les élèves. Mais l'articulation entre ces compétences transversales et les contenus d'enseignement, ce n'est pas toujours évident. Donc, comment le programme garantit-il que ces compétences soient développées en lien avec les notions enseignées et non pas traitées comme des objectifs isolés ?</p><p><strong>Yolande SIBAN</strong></p><p>Dans un contexte où la violence semble se banaliser, nous accueillons des élèves chaque année, comment arriver à développer certaines compétences psychosociales, notamment l'empathie ?</p><p><strong>Alain DUVAL</strong></p><p>Pourquoi ne pas avoir consacré un axe complet à la question de la citoyenneté numérique, dans la mesure où ce sujet semble particulièrement d'actualité et que nos élèves sont particulièrement concernés par cette question ?</p><p><strong>Pascal RAVENEL</strong></p><p>L'éducation aux médias et à l'information apparaît très clairement dans le nouveau programme d'EMC comme un des éléments de formation à la citoyenneté. En dehors de la Semaine de la presse, qui est traditionnellement un temps fort de l'EMI, comment articuler l'éducation aux médias en une pratique concrète de classe ?</p><p><strong>Raphaël VERCHÈRE</strong></p><p>En tant que professeur de philosophie, ce qu'on enseigne aux élèves qui découvrent la discipline en terminale, c'est que la philosophie, c'est d'abord la pensée critique et que, a priori, il n'y a aucun questionnement qui est exclu de l'approche philosophique même ce qui, à première vue, paraît indiscutable.</p><p>Et par rapport à la question de l'EMC, il semble y avoir comme une sorte de clivage, une sorte de hiatus, puisqu'il y a quand même une finalité qui est proposée par rapport à là où doivent aboutir les questions qu'on va se poser dans le cadre de l'EMC. Et donc comment résoudre cette difficulté qui peut finalement être vécue d'une manière un peu contradictoire par les élèves et également par certains et certaines enseignantes ?</p><p><strong>Judith KLEIN</strong></p><p>On le voit avec ces nouvelles questions, le programme soulève des interrogations sur les compétences, sur la construction de l'esprit critique. Avant de répondre à ces questions-là, je pense quand même, Jérôme, qu'il serait intéressant de revenir sur les notions et les contenus, puisque la question est revenue.</p><p><strong>Jérôme GRONDEUX</strong></p><p>Oui, la question est revenue. Alors, on a choisi ces notions et ces contenus pour que l'élève, le jeune citoyen, la jeune citoyenne, au bout du bout, ait été confronté à des aspects qui nous semblent fondamentaux pour la citoyenneté. Tout à l'heure, il y avait l'idée qu'avant il y avait plus de choix en lycée. Le problème, c'est qu'effectivement c'est très agréable d'avoir le choix, mais rien ne garantissait que l'élève avait été confronté à l'ensemble des sujets dont il avait besoin. C'est pour ça que, pour répondre à une des questions qui est posée là, les contenus, les notions, c'est impératif.</p><p>Dans l'idéal, ça serait ce que l'élève doit maîtriser. Dans la réalité, c'est ce qu'on doit avoir essayé de lui faire maîtriser du CP à la terminale, d'une certaine manière. Donc ça c'est fondamental. Et, donc, je rappelle qu'il y a du choix dans la colonne 3 et que là, par contre, il y a très clairement du jeu.</p><p><strong>Guillaume JACQ</strong></p><p>Je crois que ce qui est important, c'est qu'effectivement les programmes proposent un certain nombre de notions, donc ces connaissances nécessaires à la compréhension d'une thématique par exemple. Mais tout l'intérêt est bien évidemment d'amener les élèves, une classe, à les transposer, ou en tout cas à être capable de les mettre en œuvre dans des situations concrètes, et surtout en prenant en compte la spécificité de l'établissement, la spécificité de la classe, que seul le professeur est capable de maîtriser, pour lequel il détient une expertise.</p><p><strong>Judith KLEIN</strong></p><p>Et alors, sur les compétences ? Compétences civiques, compétences sociales, compétences psychosociales ? On a entendu plusieurs questions. Delphine ?</p><p><strong>Delphine DUSSERT-GALINAT</strong></p><p>Oui, la liberté qu'offre le programme d'EMC, c'est justement de pouvoir varier les situations d'apprentissage, et par conséquent de développer chez les élèves leurs compétences émotionnelles, sociales et cognitives, c'est-à-dire de les mettre dans des situations de coopération entre pairs, par exemple, de développer aussi l'empathie, déjà, dès l'école primaire, en fait. On vient sur cette thématique-là et elle prend des formes différentes tout au long du parcours de l'élève. Ce sont aussi des situations qui peuvent avoir lieu hors de la classe. Donc on est dans une logique, très libre finalement, de projet pédagogique, qui reste donc à la discrétion des enseignants.</p><p><strong>Guillaume JACQ</strong></p><p>Je crois que c'est important de revenir sur la notion de projet parce que souvent, quand on parle de projet, d'ailleurs dans les fiches ressources, on a un certain nombre d'exemples de mise en œuvre de projets, le projet garde cette idée de démarche pédagogique extrêmement chronophage, pour le professeur. Et je pense qu'il faut vraiment garder à l'esprit cette notion de différentes temporalités du projet.</p><p>Alors effectivement, un projet peut s'étendre sur une année, et incarne une sorte de fil conducteur tout au long de l'année, pour les apprentissages. Mais un projet peut se limiter à une seule journée, une action, Delphine en a parlé tout à l'heure, une action spécifique dans l'établissement, et c'est un point important, et je reviens encore là-dessus, mais les ressources permettent d'avoir cette visibilité sur la diversité des projets que l'on peut mener et que ce soit dans la voie générale ou la voie professionnelle.</p><p><strong>Judith KLEIN</strong></p><p>Merci. Vous parliez, Delphine, de la cohérence, du fait qu'on sorte de la classe, je pense qu'on aurait pu aussi peut-être mentionner le parcours citoyen, et je crois qu'il y a vraiment au cœur du programme la question du projet, la notion de projet, la modalité du projet, et aussi l'enjeu d'un parcours qui se construit tout au long de la scolarité, mais qui se construit aussi sur des temps d'enseignement, des temps d'éducation dans l'établissement scolaire, et qui invite à mener une réflexion en équipe, on y reviendra. Une question intéressante sur la citoyenneté numérique. Jérôme ?</p><p><strong>Jérôme GRONDEUX</strong></p><p>Oui, Pour la citoyenneté numérique, ça fait du chaînage avec ce qui vient d'être dit, c'est-à-dire qu'on n'a pas voulu faire une rubrique à part, comme on n'a pas voulu faire une rubrique EMI à part ou une rubrique EDD à part. C'est très important parce qu'on ne fait pas rentrer toute l'EMI et tout l'EDD dans le programme, ce n'est pas possible.</p><p>Et donc on a parlé du numérique à chaque fois qu'il y avait un enjeu de citoyenneté qui correspondait au thème annuel. On a choisi de prendre donc le numérique comme une dimension et non pas comme un sujet à part. Parce que si on endosse dans cet enseignement tout ce qui concerne le numérique, d'abord, on n’en aura pas le temps.</p><p>Il faut bien voir qu'on parlait tout à l'heure d'éducation à la citoyenneté, de parcours citoyen, l'EMC, c'est le lieu réflexif du parcours citoyen. C'est là où on parle explicitement de la citoyenneté. Mais ce n'est pas la totalité de l'éducation à la citoyenneté, autrement ce n'est pas possible.</p><p><strong>Judith KLEIN</strong></p><p>Et sur la construction de l'esprit critique et sur cette contradiction, y en a-t-il une, entre la pensée critique et l'esprit critique ?</p><p><strong>Jérôme GRONDEUX</strong></p><p>Alors, on va essayer d'élargir le champ de ça, parce que c'est une vraie question, c'est une question fondamentale. Est-ce qu'on discute complètement de tout en EMC ? Est-ce qu'on remet tout en question ? Est-ce qu'on fait des débats pour ou contre la laïcité en EMC ? Et bien évidemment, la réponse est non. On est dans une ambition qui est rappelée par le code de l'éducation : faire partager les valeurs et les principes de la République.</p><p>Et on est, en même temps, dans la volonté de faire un citoyen éclairé, qui réfléchit, qui délibère. Mais cette tension-là, l'acceptation des règles qui nous tiennent ensemble, l'affirmation d'une réflexion personnelle et d'un libre débat, c'est la tension de la République, c'est la tension de la démocratie et c'est la tension de l'École. D'où, à mon avis, l'importance de choisir les sujets de débat qu'on prend.</p><p>On n'est pas là pour pousser les élèves à la faute, pour dire exprimez-vous et puis après leur expliquer que ce qu'ils disent est inacceptable. On doit choisir les sujets de débat et on doit essayer de montrer que ces valeurs communes rendent possible le débat. Je pense que c'est extrêmement important, mais c'est une véritable tension et il faut la vivre, il faut l'habiter parce que c'est celle de nos démocraties.</p><p><strong>Judith KLEIN</strong></p><p>Merci à vous trois. Venons-en maintenant à la mise en œuvre de ce programme et écoutons ce que les enseignants et les enseignantes ont à nous dire de cela.</p><p><strong>Nathalie HÉRAUD-BENABDELLAOUI</strong></p><p>Je pense qu'il y a vraiment une question par rapport à l'évaluation et à la manière d'évaluer. Je ne suis pas sûre que l'évaluation chiffrée soit le plus pertinent, et je ne vois, pour l'instant, pas quelles modalités d'évaluation véritablement efficaces, en lien avec ce qu'on attend de cette discipline, on pourrait mettre en œuvre.</p><p><strong>Marine DE PRÉNEUF</strong></p><p>L'enseignement moral et civique est évalué, et il me semble que c'est quelque chose d'important pour réussir à mobiliser les élèves, on le sait, mais, par ailleurs, il semblerait regrettable d'être en situation permanente d'évaluation, autant du point de vue des élèves que de celui du professeur. Donc comment faire eu égard au faible volume horaire dédié à cet enseignement, comment faire pour ne pas être en position d'évaluation permanente et garder un temps d'enseignement assez gratuit, car, on le sait, les enjeux de cet enseignement vont bien au-delà du baccalauréat.</p><p><strong>Pascal RAVENEL</strong></p><p>Le programme d'EMC définit un référentiel de compétences construit autour des connaissances, valeurs et principes, attitudes et aptitudes. Si l'objectif est bien de construire des savoirs pour construire des attitudes, comment mettre en œuvre des situations qui permettent de mesurer la maîtrise des soft skills, des compétences psychosociales ?</p><p><strong>Raphaël VERCHÈRE</strong></p><p>Dans les anciens programmes, il y avait un dispositif pédagogique très intéressant qui est celui du projet sur l'année, qui avait une grande pertinence puisqu'il permettait d'aborder de manière intégrative tout un tas d'enjeux qui sont liés à la question de l'EMC. Or, ce dispositif semble avoir disparu dans la nouvelle approche, est-ce qu'il sera tout de même possible d'emprunter cette voie ?</p><p><strong>Yolande SIBAN</strong></p><p>Ce sont des programmes qui sont denses et complexes par rapport au temps imparti. Donc, on peut se poser la question par rapport à certaines questions qui sont délicates à enseigner, comme celles des questions socialement vives qui sont très prégnantes sur certains territoires, notamment tout ce qui va concerner la chlordécone, l'eau, les vaccins. Comme les programmes d'EMC sont fondés sur la discussion et le débat, et le fait de savoir argumenter, on peut se poser la question de la manière dont on va aborder ce genre de thématiques dans la classe.</p><p><strong>Dorothée JEANJOT-ÉMERY</strong></p><p>Concernant la laïcité, qui est quand même une notion forte de ce programme, est-ce que vous avez des conseils pour intégrer cet enseignement sans heurter la sensibilité des élèves ou des familles ou notamment peut-être les élèves plus jeunes ou ceux qui ont un ancrage fort dans leur religion ?</p><p><strong>Judith KLEIN</strong></p><p>Le moins que l'on puisse dire, c'est que le programme suscite des questions sur l'évaluation, sur le projet. Vous en avez déjà dit quelque chose sur les questions vives. Je pense que là, il va falloir vraiment apporter quelques réponses. Mais commençons, si vous le voulez bien, Jérôme, sur l'évaluation.</p><p><strong>Jérôme GRONDEUX</strong></p><p>Oui, en fait, on va à la fois parler de la fois parler des compétences et de l'évaluation. Il y a ce référentiel de compétences qui est inspiré du cadre européen pour une culture de la démocratie, qui est structuré pareil, entre valeurs, connaissances, aptitudes, attitudes. Ça nous éclaire tout simplement sur l'évaluation, parce qu'on n'évalue pas le rapport des élèves aux valeurs, même si on cherche à leur faire partager des valeurs, on n'évalue pas leurs attitudes, mais on évalue leurs connaissances et leurs aptitudes. Donc on les évalue quand on leur fait faire des exercices. On n'est pas obligé d'évaluer toute la classe en même temps, on peut évaluer juste les gens qui font l'exercice par rapport à la question qui dit qu'on n’évalue pas tout le temps. Et ça nous donne aussi un élément sur les compétences psychosociales. Quand on met « comprendre les autres » et « faire preuve d'empathie » dans les aptitudes et pas dans les attitudes, ça veut dire qu'on ne confond pas l'empathie avec la sympathie, on ne confond pas l'empathie avec une disposition à s'émouvoir. Ce n'est pas une culture de la sensiblerie. C'est une capacité à comprendre le point de vue des autres. Et ça, dans un débat, dans un travail d'enquête, ça peut s'évaluer. Voilà. Donc, pour résumer, on évalue les connaissances et les aptitudes, c'est-à-dire ce qu'ils doivent savoir et ce qu'ils doivent savoir faire.</p><p><strong>Guillaume JACQ</strong></p><p>Dans la voie professionnelle, je crois que ça complète un peu les approches de la voie générale, c'est-à-dire qu'il y a deux modalités d'évaluation. Il y a une modalité pour les bac pro qui finalement évaluent l'EMC lors d'une épreuve ponctuelle à la fin du cycle. Et, comme l'évoquait Jérôme, on est bien sur l'évaluation de compétences au sens large, avec des connaissances et aussi des capacités à analyser, à réfléchir par rapport à des documents qui sont fournis.</p><p>Donc ça on est sur le bac pro avec un cursus de trois ans. Et la particularité du CAP, et parce que c'est en œuvre depuis déjà bien longtemps, c'est ces contrôles en cours de formation et toute la richesse de cette modalité d'évaluation, je crois, est de la connecter et l'intégrer pleinement à la démarche pédagogique. Un contrôle en cours de formation, alors pour l'EMC, ça sera l'analyse d'un document, mais ce contrôle en cours de formation permet d'évaluer un élève quand l'élève, et aussi avec la validation de l'enseignant, se sent prêt à être évalué. Et je crois que c'est un élément qui est important dans la place de l'évaluation et notamment de l'EMC dans un parcours professionnel. Et je voudrais juste qu'on n'oublie pas non plus les candidats libres qui passent le CAP, qui sont aussi évalués en EMC, mais selon une modalité différente.</p><p><strong>Judith KLEIN</strong></p><p>Delphine, sur le projet, sur la cohérence qu'on peut donner entre un ensemble de politiques éducatives qui concourent à l'éducation, à la citoyenneté, je crois que vous êtes très bien placée pour nous en parler.</p><p><strong>Delphine DUSSERT-GALINAT</strong></p><p>Oui, en effet, c'est sur le projet dont parlait Guillaume, par exemple, un projet de l'année, mais ça peut aussi être un projet d'établissement, deux classes, en fait, à géométrie variable, où on peut emmener ses élèves à participer à un concours. Alors ce sont des concours, il y en a beaucoup aujourd'hui, il y a des concours plutôt à coloration historique, comme bien sûr le concours national de la Résistance et de la Déportation ou « Bulbes de mémoire », je donne vraiment quelques exemples. Il y a des concours à connotation citoyenne comme « Découvrons notre constitution » par exemple, des concours à connotation développement durable comme « L'appel des pôles », et puis des concours plutôt orientés EMI, valeurs de la République comme des prix, prix « Non ou harcèlement », le prix Samuel Paty par exemple. Et puis, dans une démarche vraiment d'établissement, on peut aussi engager une labellisation. Donc il y en là encore beaucoup. Il y a la labellisation « Égalité filles-garçons », la labellisation E3D par exemple, et qui s'insèrent totalement dans le projet que véhicule les programmes d'EMC.</p><p><strong>Judith KLEIN</strong></p><p>C'est très important ce que vous dites, et notamment ça permet aussi, même si on n’évalue pas nécessairement cela, d'observer la capacité d'initiative, la capacité d'engagement des élèves, qui est quand même une dimension sous-jacente de l'éducation à la citoyenneté et de l'enseignement moral et civique. Alors, sur les questions vives, venons-en aux questions vives, Jérôme, s'il vous plaît.</p><p><strong>Jérôme GRONDEUX</strong></p><p>Alors sur ces questions vives, là aussi, il faut beaucoup de discernement. Je suis persuadé qu'il y a une manière propre à l'enseignant en charge de l'EMC de se pencher sur ces questions et de suivre l'actualité. Je pense que les questions vives, il y a parfois des questions qui surgissent dans la classe, qui surgissent de la part des élèves. Et puis il y a des questions sur lesquelles on peut amener les élèves. Et je ne pense pas qu'il faille rechercher spécialement les questions vives. Je pense qu'il faut les laisser venir, il ne faut pas donner tout de suite, si on annonce tout de suite « Attention, c'est une question vive ! » Voilà, soit on pousse les élèves à se lancer et à dire n'importe quoi, soit au contraire on les inhibe. Et c'est pour ça, je pense qu'il faut faire très attention en EMC, c'est très important le débat, le débat réglé en EMC. C'est très important et il faut faire très attention à ce que, quand on donne la parole aux élèves, on donne vraiment la parole aux élèves. Donc il faut beaucoup réfléchir en amont à ce de quoi on va discuter. C'est vraiment pour moi quelque chose de central.</p><p><strong>Guillaume JACQ</strong></p><p>Et je crois que sur les questions juives finalement, pour le dire très rapidement, c'est bien la confrontation entre des valeurs, des intérêts, souvent fortement chargés en émotion pour les élèves, auxquels on ajoute des questions, une dimension politique plutôt sensible. Et il y a tout cet intérêt de l'inscrire dans une temporalité aussi. Alors oui, il y a cette immédiateté de répondre à des questions des élèves suite à certains points qu'ils ont pu observer, mais il y a aussi cette nécessité de vraiment prendre appui sur un cursus de plusieurs années pour les amener à comprendre progressivement cette problématique des questions sensibles.</p><p><strong>Judith KLEIN</strong></p><p>Merci à vous trois. Passons maintenant aux dernières questions qui nous sont posées et qui portent sur l'accompagnement du programme et la formation.</p><p><strong>Marine DE PRÉNEUF</strong></p><p>En tant que professeure de philosophie, ce qui m'intéresserait beaucoup, c'est avoir une formation sur les débats disciplinaires autour des notions communes, comme, par exemple, la laïcité. Quels sont les débats qui existent en histoire, quels sont les débats qui existent en droit, sur ces questions pour les croiser avec le questionnement philosophique propre ?</p><p><strong>Pascal RAVENEL</strong></p><p>Le programme d'EMC invite à aborder des sujets d'actualité relevant des questions socialement vives, par exemple la question des OGM dans le thème de seconde, consacré au droit et la protection de l'environnement. Ce sont souvent des questions qui traversent les savoirs disciplinaires. Peut-on envisager des formations en équipe pluridisciplinaires sur ces questions ?</p><p><strong>Éricka MÉPHARA</strong></p><p>Les nouvelles thématiques intégrées, comme l'intelligence artificielle ou encore les enjeux liés au développement durable, nécessitent parfois des connaissances actualisées et une maîtrise interdisciplinaire. Quelles formations spécifiques sont prévues pour accompagner les enseignants dans ces contenus, notamment pour les aider à aborder des questions complexes sur un lien avec l'EMI ou encore l'EDD ?</p><p><strong>Raphaël VERCHÈRE</strong></p><p>Est-ce que du point de vue de la formation, on pourrait imaginer des choses qui permettraient aux équipes pédagogiques et toutes les personnes en charge de l'EMC d'adopter des critères qui soient davantage communs et qui permettent d'instaurer une forme d'équité dans la façon dont l'évaluation se réalise.</p><p><strong>Yolande SIBAN</strong></p><p>L'enseignant, en lycée professionnel, est un enseignant de lettres, d'histoire, de géographie, d'EMC et il dispose de pas mal de dispositifs, pour mener à bien sa mission. Donc ce qui serait recommandé en termes de formation, c'est vraiment qu'on réfléchisse à des séquences d'EMC qui soient réellement pensées dans la progression globale et pas simplement initiées, parce qu'on fait, à ce moment-là, tel ou tel thème, et qu'on y pense comme ça.</p><p><br>&nbsp;</p><p><strong>Judith KLEIN</strong></p><p>Les questions vives reviennent dans les questions des enseignants, ce n'est pas très étonnant. Des questions contemporaines également, notamment l'intelligence artificielle et la manière de se mettre à jour, pour éviter un décalage avec des jeunes, des élèves qui, eux, sont nés là-dedans. La nécessité d'une concertation, de temps de concertation. Je vous propose, Guillaume, d'ouvrir le bal de cette dernière série de réponses.</p><p><strong>Guillaume JACQ</strong></p><p>Je voulais revenir sur la notion de pluridisciplinarité. C'est-à-dire qu'une enseignante évoquait la question. Je crois que, par essence-même, l'EMC est pluridisciplinaire, et c'est vrai qu'il faut éviter la confusion, ou en tout cas garder à l'esprit, la séparation entre des heures d'enseignement clairement identifiées, et puis après les autres disciplines qui contribuent à amener les élèves à appréhender certaines notions. Je pourrais évoquer la question de la biodiversité en SVT ou en PSE. Alors c'est vrai, dans la voie professionnelle, les enseignants de lettres-histoire-géographie, de par leur bivalence ou trivalence, ont plus de facilités à faire des passerelles. Néanmoins, comme l'évoquait l'enseignante, je crois que les périodes de formation en milieu professionnel sont... l'entreprise est le lieu par excellence pour appliquer et pour retravailler certaines notions en termes de responsabilité et de droit.</p><p>Et je prendrai juste un dernier exemple très concret. On parle à un moment donné dans la démocratie environnementale de la personne morale, et tout simplement dans le programme d'économie-gestion, on évoque cette notion-là. D'où l'intérêt de faire des liens entre les différentes disciplines, pour proposer des regards croisés sur certaines notions du programme.</p><p><strong>Judith KLEIN</strong></p><p>Jérôme ?</p><p><strong>Jérôme GRONDEUX</strong></p><p>Oui, sur toutes les questions sensibles, et puis aussi je vais revenir sur la question de la laïcité qui a été posée tout à l'heure. De toute manière, en EMC, on a des outils traditionnels. Effectivement, ce n'est pas une discipline, c'est un enseignement, avec une manière de contextualiser des choses particulières, qui est quand même de plus en plus, et beaucoup dans ce programme, lié au droit, donc à la manière dont on applique des choses.</p><p>Mais, de toute manière, au-delà de ces démarches, débats réglés, situations, recours à des situations, rien ne remplace la stratégie de l'enseignant. Que ce soit sur une question sensible ou sur une question comme la laïcité, ce qui est important, c'est de savoir où on veut aller, où on veut amener les élèves, et après on peut y aller de manière progressive.</p><p>Ce qui serait grave, sur ça, il ne faut pas confondre stratégie et autocensure. L'autocensure, c'est quand on renonce à traiter, quand on renonce à y aller, quand on renonce à porter ce qu'on doit porter, soit la façon sereine de poser une question sensible, soit la laïcité. Et la stratégie, c'est quand on prend en compte les élèves comme ils sont, on sait d'où ils partent, on sait où on veut les amener. Et c'est exactement ce que Guillaume disait tout à l'heure sur les questions sensibles, ça me semble extrêmement important.</p><p><strong>Delphine DUSSERT-GALINAT</strong></p><p>Je voulais simplement préciser un point justement sur la laïcité en seconde. Elle est présentée, cette notion, comme dans la continuité, comme la fille de l'État de droit, lequel, donc, garantit les droits et les libertés dans un contexte de pluralisme démocratique.</p><p>Les enseignants sont parfois effectivement confrontés à des réactions de la part des élèves, qui sont un peu vives ou même contestataires. Et là, il faut aussi que les enseignants puissent expliquer aux élèves en quoi la posture de l'enseignant est différente de celle des élèves et que les élèves, même s'ils ont la liberté d'expression et de conscience, qui ne sont pas comme leur enseignant soumis à la neutralité d'un agent public, cette liberté d'expression doit se faire dans le respect et la tolérance des opinions d'autrui, des origines, etc.&nbsp;</p><p><br>&nbsp;</p><p><strong>Judith KLEIN</strong></p><p>C'est tout l'intérêt et toute l'importance d'une approche par le droit, de l'acquisition d'une culture juridique. Ce n'est pas le propos aujourd'hui, mais c'est vrai que...</p><p><strong>Jérôme GRONDEUX</strong></p><p>...c'est ce qui les passionne.</p><p><strong>Judith KLEIN</strong></p><p>C'était important que vous que vous l'évoquiez. Alors, pour répondre à ces assez questions sur les lieux où se former, les échelles auxquelles se former, puisque cette émission fait partie évidemment d'un dispositif d'accompagnement du programme, mais il n'y a pas que national, alors Guillaume et Delphine ?</p><p><strong>Guillaume JACQ</strong></p><p>Peut-être juste pour commencer, alors, ça dépend des académies, la terminologie peut différer, mais on a des formations d'initiatives territoriales où finalement, pour le résumer, c'est bien des formations qui sont proposées à l'échelle d'un territoire, parfois des regroupements d'établissements, et on voit là tout l'intérêt de ce type de formation.</p><p>Alors bien évidemment, il y a les ressources sur l'accompagnement de la mise en œuvre des programmes, mais tout l'intérêt de cette formation est bien d'ancrer certaines thématiques ou d'accompagner des enseignants pour prendre en compte la spécificité territoriale. Je pense qu'on peut évoquer la loi de séparation des Églises et de l'État en classe, etc. Mais ça n'a d'intérêt que si on l'ancre sur un territoire.</p><p>Et même, le thème sera différent entre un espace rural et un espace urbain. Mais la mise en œuvre, en tout cas la prise en compte par les élèves de cette notion, sera différente et il est nécessaire de les accompagner sur cette dimension.</p><p><strong>Delphine DUSSERT-GALINAT</strong></p><p>Oui, je précise aussi ce que dit Guillaume, c'est que, par exemple, il y a, à l'échelle des bassins d'éducation, des zones d'animation pédagogique selon les appellations, des possibilités de se former. Alors, ce sont les chefs d'établissement, les inspecteurs du second degré, qui peuvent solliciter une formation auprès des EAFC. Mais, en proposant à leurs équipes pédagogiques de s'inscrire, donc il y a toujours quelques places réservées par établissement. Et l'intérêt, c'est aussi qu'on est parfois dans des configurations où les chefs d'établissement suivent eux-mêmes ces formations. Et donc là on peut accéder à une certaine synergie, y compris à l'échelle de réseaux inter-établissements. Donc ça, ça peut être très intéressant.</p><p><strong>Jérôme GRONDEUX</strong></p><p>Et d'autre part, il y a aussi tout ce qui est déjà disponible, je pense à tous les vadémécums qu'on trouve sur Éduscol. Je pense, par exemple, au vadémécum sur la laïcité qui est dans le guide républicain, au vadémécum agir contre le racisme. Il y a dedans aussi d'ailleurs une problématique situation et une problématique question sensible qui est tout à fait intéressante.</p><p>Et donc il faut être aux aguets aussi, dans ce nouveau contexte de l'EMC, des formations aux « éducation à », des formations EMI, des formations EDD, des formations éducation à la défense. Donc il y a à la fois une carte, des formations possibles, des choses vers lesquelles s'orienter, des ressources vers lesquelles s'orienter différentes. Et puis une chose qu'on signale beaucoup, puisqu'on parlait du droit, c'est l'excellente qualité du site vie-publique.fr, qui est véritablement un site fait par des juristes et où, de manière très claire, on explique des tas de choses sur l'État de droit, sur le fonctionnement de la justice et avec vraiment une très très grande clarté, et ça, c'est une ressource absolument fondamentale et précieuse.</p><p><strong>Judith KLEIN</strong></p><p>Merci Jérôme. Pour mémoire, l'ensemble des ressources qui ont été évoquées sont en ligne sur le portail Éduscol et sur la plateforme Magistère. Cette émission touche à sa fin. Il me reste à vous remercier très sincèrement tous les trois et vous dire tout le plaisir que j'ai eu à partager le plateau avec vous aujourd'hui.</p><p>Nous remercions également l'ensemble des enseignantes et des enseignants qui ont posé des questions et fait part de leurs remarques. Je ne doute pas que cette émission contribue à la bonne mise en œuvre du programme d'enseignement moral et civique, qui est une pierre angulaire de l'éducation à la citoyenneté dans une société démocratique. Merci de nous avoir écoutés.</p>
+          </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</dialog>
+
+  </div>
+</div>
+
+
+
+
+
+
+    
+  <div class="wrapper-unauthorized">
+    <button type="button" class="unauthorized-flagging fr-btn fr-btn--secondary folder-create-popup__call js-fl-show-popup">
+      Ajouter aux favoris</button>
+    <div class="folder-create-popup js-fl-create-popup">
+      <div class="folder-create-popup__back js-fl-popup-close"></div>
+    </div>
+    <div class="folder-create-popup__place js-popups-place">
+
+      <div class="js-fl-create-body folder-create-popup__body unauthorized_body">
+        <div class="fr-modal__header">
+          <button title="Fermer" type="button" class="fr-btn--close fr-btn folder-create-popup__close js-fl-popup-close">
+            Fermer
+          </button>
+        </div>
+        <div class="fr-modal__content">
+          <h2 class="fr-modal__title">Connexion requise</h2>
+          <p>Cette fonctionnalité est destinée aux agents de l'éducation&nbsp;nationale. Pour ajouter cet élément à vos favoris, inscrivez-vous ou connectez-vous.</p>
+          <div class="fr-btns-group fr-btns-group--inline-md fr-btns-group--between">
+            <button class="fr-btn fr-btn--secondary folder-create-popup__button js-fl-popup-close">Annuler</button>
+            <a href="/cas?returnto=/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" class="fr-btn"><span>Se connecter</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+</div>
+
+</div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w"><a class="ck-anchor" id="livrets-CAP"></a>Livrets d'accompagnement du programme</h2><p><strong>Les livrets d’accompagnement</strong> proposent quelques exemples de mise en œuvre du programme (séquences, activités, projets, etc.). Les autres livrets de la voie professionnelle sont en cours de production.</p><p>Dans ces livrets, les rubriques du programme étant similaires pour le lycée professionnelle et le CAP, les éclairages pour le professeur sont identiques. En revanche, les propositions pédagogiques, propres à chaque livret, peuvent être mises à profit et adaptées à chacune des deux formations de la voie professionnelle.</p>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w eduscol-block--download-card fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+                
+  
+
+
+  
+
+  <div class="fr-mb-1w fr-card fr-enlarge-link fr-card--download fr-card--download-eduscol fr-card--horizontal fr-card--horizontal-half" data-component-id="eduscol_dsfr:card_link">
+    <div class="fr-card__body">
+      <div class="fr-card__content">
+        <h3 class="fr-card__title">
+        <a href="/sites/default/files/document/2025livretaccompagnementemclyceecappdf-111963.pdf"  target="_blank" target="_blank" >
+          
+
+
+    Enseignement moral et civique - CAP thématique 1
+
+
+
+        </a>
+        </h3>
+        <div class="fr-card__desc">
+
+
+    Première thématique de CAP : Droits, libertés et responsabilité
+
+
+</div>                  <div class="fr-card__start">
+            
+                                                                    <div class="fr-card__detail">
+
+
+  
+
+  
+    <p data-component-id="eduscol_dsfr:tag_dsfr" class="fr-tag">
+
+    Livret d&#039;accompagnement du programme
+  </p>
+    
+
+</div>
+                      </div>
+                          <div class="fr-card__end">
+                                                                    <div class="fr-card__detail">
+
+
+    <p class="file-extension">pdf - 373.8 Ko</p>
+
+
+</div>
+                      </div>
+              </div>
+          </div>
+          <div class="fr-card__header">
+        <div class="fr-card__img">
+          
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/2_3_xl_800x800/public/2026-02/2025livretaccompagnementemclyceecappdf-111963-1.jpg.webp?h=97600390&amp;itok=0kY1jKvP" width="533" height="800" alt="" />
+
+
+
+
+
+
+        </div>
+        
+      </div>
+      </div>
+
+  <div class="flagging-section fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    
+  <div class="wrapper-unauthorized">
+    <button type="button" class="unauthorized-flagging fr-btn fr-btn--secondary folder-create-popup__call js-fl-show-popup">
+      Ajouter aux favoris</button>
+    <div class="folder-create-popup js-fl-create-popup">
+      <div class="folder-create-popup__back js-fl-popup-close"></div>
+    </div>
+    <div class="folder-create-popup__place js-popups-place">
+
+      <div class="js-fl-create-body folder-create-popup__body unauthorized_body">
+        <div class="fr-modal__header">
+          <button title="Fermer" type="button" class="fr-btn--close fr-btn folder-create-popup__close js-fl-popup-close">
+            Fermer
+          </button>
+        </div>
+        <div class="fr-modal__content">
+          <h2 class="fr-modal__title">Connexion requise</h2>
+          <p>Cette fonctionnalité est destinée aux agents de l'éducation&nbsp;nationale. Pour ajouter cet élément à vos favoris, inscrivez-vous ou connectez-vous.</p>
+          <div class="fr-btns-group fr-btns-group--inline-md fr-btns-group--between">
+            <button class="fr-btn fr-btn--secondary folder-create-popup__button js-fl-popup-close">Annuler</button>
+            <a href="/cas?returnto=/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" class="fr-btn"><span>Se connecter</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w eduscol-block--download-card fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+                
+  
+
+
+  
+
+  <div class="fr-mb-1w fr-card fr-enlarge-link fr-card--download fr-card--download-eduscol fr-card--horizontal fr-card--horizontal-half" data-component-id="eduscol_dsfr:card_link">
+    <div class="fr-card__body">
+      <div class="fr-card__content">
+        <h3 class="fr-card__title">
+        <a href="/sites/default/files/document/2025livretaccompagnementemclyceepro2depdf-112143.pdf"  target="_blank" target="_blank" >
+          
+
+
+    Enseignement moral et civique - seconde professionnelle
+
+
+
+        </a>
+        </h3>
+        <div class="fr-card__desc">
+
+
+    Droits, libertés et responsabilité
+
+
+</div>                  <div class="fr-card__start">
+            
+                                                                    <div class="fr-card__detail">
+
+
+  
+
+  
+    <p data-component-id="eduscol_dsfr:tag_dsfr" class="fr-tag">
+
+    Livret d’accompagnement du programme
+  </p>
+    
+
+</div>
+                      </div>
+                          <div class="fr-card__end">
+                                                                    <div class="fr-card__detail">
+
+
+    <p class="file-extension">pdf - 387.72 Ko</p>
+
+
+</div>
+                      </div>
+              </div>
+          </div>
+          <div class="fr-card__header">
+        <div class="fr-card__img">
+          
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/2_3_xl_800x800/public/2026-02/2025livretaccompagnementemclyceepro2depdf-112143-1.jpg.webp?h=97600390&amp;itok=FTyFxBnI" width="533" height="800" alt="" />
+
+
+
+
+
+
+        </div>
+        
+      </div>
+      </div>
+
+  <div class="flagging-section fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    
+  <div class="wrapper-unauthorized">
+    <button type="button" class="unauthorized-flagging fr-btn fr-btn--secondary folder-create-popup__call js-fl-show-popup">
+      Ajouter aux favoris</button>
+    <div class="folder-create-popup js-fl-create-popup">
+      <div class="folder-create-popup__back js-fl-popup-close"></div>
+    </div>
+    <div class="folder-create-popup__place js-popups-place">
+
+      <div class="js-fl-create-body folder-create-popup__body unauthorized_body">
+        <div class="fr-modal__header">
+          <button title="Fermer" type="button" class="fr-btn--close fr-btn folder-create-popup__close js-fl-popup-close">
+            Fermer
+          </button>
+        </div>
+        <div class="fr-modal__content">
+          <h2 class="fr-modal__title">Connexion requise</h2>
+          <p>Cette fonctionnalité est destinée aux agents de l'éducation&nbsp;nationale. Pour ajouter cet élément à vos favoris, inscrivez-vous ou connectez-vous.</p>
+          <div class="fr-btns-group fr-btns-group--inline-md fr-btns-group--between">
+            <button class="fr-btn fr-btn--secondary folder-create-popup__button js-fl-popup-close">Annuler</button>
+            <a href="/cas?returnto=/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" class="fr-btn"><span>Se connecter</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w eduscol-block--download-card fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+                
+  
+
+
+  
+
+  <div class="fr-mb-1w fr-card fr-enlarge-link fr-card--download fr-card--download-eduscol fr-card--horizontal fr-card--horizontal-half" data-component-id="eduscol_dsfr:card_link">
+    <div class="fr-card__body">
+      <div class="fr-card__content">
+        <h3 class="fr-card__title">
+        <a href="/sites/default/files/document/2026livretaccompagnementemclyceeppremierepdf-126533.pdf"  target="_blank" target="_blank" >
+          
+
+
+    Enseignement moral et civique - première professionnelle
+
+
+
+        </a>
+        </h3>
+        <div class="fr-card__desc">
+
+
+    Cohésion et diversité dans une société démocratique
+
+
+</div>                  <div class="fr-card__start">
+            
+                                                                    <div class="fr-card__detail">
+
+
+  
+
+  
+    <p data-component-id="eduscol_dsfr:tag_dsfr" class="fr-tag">
+
+    Livret d&#039;accompagnement du programme
+  </p>
+    
+
+</div>
+                      </div>
+                          <div class="fr-card__end">
+                                                                    <div class="fr-card__detail">
+
+
+    <p class="file-extension">pdf - 406.12 Ko</p>
+
+
+</div>
+                      </div>
+              </div>
+          </div>
+          <div class="fr-card__header">
+        <div class="fr-card__img">
+          
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/2_3_xl_800x800/public/2026-04/2026_livretaccompagnement_emc_lyceep_premiere-1.jpg.webp?h=97600390&amp;itok=dw6KNsjy" width="533" height="800" alt="" />
+
+
+
+
+
+
+        </div>
+        
+      </div>
+      </div>
+
+  <div class="flagging-section fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    
+  <div class="wrapper-unauthorized">
+    <button type="button" class="unauthorized-flagging fr-btn fr-btn--secondary folder-create-popup__call js-fl-show-popup">
+      Ajouter aux favoris</button>
+    <div class="folder-create-popup js-fl-create-popup">
+      <div class="folder-create-popup__back js-fl-popup-close"></div>
+    </div>
+    <div class="folder-create-popup__place js-popups-place">
+
+      <div class="js-fl-create-body folder-create-popup__body unauthorized_body">
+        <div class="fr-modal__header">
+          <button title="Fermer" type="button" class="fr-btn--close fr-btn folder-create-popup__close js-fl-popup-close">
+            Fermer
+          </button>
+        </div>
+        <div class="fr-modal__content">
+          <h2 class="fr-modal__title">Connexion requise</h2>
+          <p>Cette fonctionnalité est destinée aux agents de l'éducation&nbsp;nationale. Pour ajouter cet élément à vos favoris, inscrivez-vous ou connectez-vous.</p>
+          <div class="fr-btns-group fr-btns-group--inline-md fr-btns-group--between">
+            <button class="fr-btn fr-btn--secondary folder-create-popup__button js-fl-popup-close">Annuler</button>
+            <a href="/cas?returnto=/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" class="fr-btn"><span>Se connecter</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    </div>
+  </div>
+
+              
+  
+
+
+  
+
+  <div class="fr-mb-1w fr-card fr-enlarge-link fr-card--download fr-card--download-eduscol fr-card--horizontal fr-card--horizontal-half" data-component-id="eduscol_dsfr:card_link">
+    <div class="fr-card__body">
+      <div class="fr-card__content">
+        <h3 class="fr-card__title">
+        <a href="/sites/default/files/document/annexe-documentairelivretemc1rebcpdocx-126536.docx"  target="_blank" target="_blank" >
+          
+
+
+    Enseignement moral et civique - première professionnelle - annexe
+
+
+
+        </a>
+        </h3>
+                          <div class="fr-card__start">
+            
+                                                                    <div class="fr-card__detail">
+
+
+  
+
+  
+  
+
+</div>
+                      </div>
+                          <div class="fr-card__end">
+                                                                    <div class="fr-card__detail">
+
+
+    <p class="file-extension">docx - 184.23 Ko</p>
+
+
+</div>
+                      </div>
+              </div>
+          </div>
+          <div class="fr-card__header">
+        <div class="fr-card__img">
+          
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/2_3_xl_800x800/public/2026-04/2026_livretaccompagnement_annexe.png.webp?h=8f3cbcb8&amp;itok=TppyuWF1" width="533" height="800" alt="" />
+
+
+
+
+
+
+        </div>
+        
+      </div>
+      </div>
+
+  <div class="flagging-section fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    
+  <div class="wrapper-unauthorized">
+    <button type="button" class="unauthorized-flagging fr-btn fr-btn--secondary folder-create-popup__call js-fl-show-popup">
+      Ajouter aux favoris</button>
+    <div class="folder-create-popup js-fl-create-popup">
+      <div class="folder-create-popup__back js-fl-popup-close"></div>
+    </div>
+    <div class="folder-create-popup__place js-popups-place">
+
+      <div class="js-fl-create-body folder-create-popup__body unauthorized_body">
+        <div class="fr-modal__header">
+          <button title="Fermer" type="button" class="fr-btn--close fr-btn folder-create-popup__close js-fl-popup-close">
+            Fermer
+          </button>
+        </div>
+        <div class="fr-modal__content">
+          <h2 class="fr-modal__title">Connexion requise</h2>
+          <p>Cette fonctionnalité est destinée aux agents de l'éducation&nbsp;nationale. Pour ajouter cet élément à vos favoris, inscrivez-vous ou connectez-vous.</p>
+          <div class="fr-btns-group fr-btns-group--inline-md fr-btns-group--between">
+            <button class="fr-btn fr-btn--secondary folder-create-popup__button js-fl-popup-close">Annuler</button>
+            <a href="/cas?returnto=/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" class="fr-btn"><span>Se connecter</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w eduscol-block--download-card fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12 fr-col-lg-12 fr-col-xl-12">
+      
+
+
+                
+  
+
+
+  
+
+  <div class="fr-mb-1w fr-card fr-enlarge-link fr-card--download fr-card--download-eduscol fr-card--horizontal fr-card--horizontal-half" data-component-id="eduscol_dsfr:card_link">
+    <div class="fr-card__body">
+      <div class="fr-card__content">
+        <h3 class="fr-card__title">
+        <a href="/sites/default/files/document/2026-livret-accompagnement-emc-lycee-p-terminale-129802.pdf"  target="_blank" target="_blank" >
+          
+
+
+    Enseignement moral et civique - terminale professionnelle
+
+
+
+        </a>
+        </h3>
+        <div class="fr-card__desc">
+
+
+    La vie démocratique : débat, délibération et prise de décision
+
+
+</div>                  <div class="fr-card__start">
+            
+                                                                    <div class="fr-card__detail">
+
+
+  
+
+  
+    <p data-component-id="eduscol_dsfr:tag_dsfr" class="fr-tag">
+
+    Livret d&#039;accompagnement du programme
+  </p>
+    
+
+</div>
+                      </div>
+                          <div class="fr-card__end">
+                                                                    <div class="fr-card__detail">
+
+
+    <p class="file-extension">pdf - 420.51 Ko</p>
+
+
+</div>
+                      </div>
+              </div>
+          </div>
+          <div class="fr-card__header">
+        <div class="fr-card__img">
+          
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/2_3_xl_800x800/public/2026-09/2026_livretaccompagnement_emc_lyceep_terminale-1.jpg.webp?h=97600390&amp;itok=pPQbpn51" width="533" height="800" alt="" />
+
+
+
+
+
+
+        </div>
+        
+      </div>
+      </div>
+
+  <div class="flagging-section fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+    
+  <div class="wrapper-unauthorized">
+    <button type="button" class="unauthorized-flagging fr-btn fr-btn--secondary folder-create-popup__call js-fl-show-popup">
+      Ajouter aux favoris</button>
+    <div class="folder-create-popup js-fl-create-popup">
+      <div class="folder-create-popup__back js-fl-popup-close"></div>
+    </div>
+    <div class="folder-create-popup__place js-popups-place">
+
+      <div class="js-fl-create-body folder-create-popup__body unauthorized_body">
+        <div class="fr-modal__header">
+          <button title="Fermer" type="button" class="fr-btn--close fr-btn folder-create-popup__close js-fl-popup-close">
+            Fermer
+          </button>
+        </div>
+        <div class="fr-modal__content">
+          <h2 class="fr-modal__title">Connexion requise</h2>
+          <p>Cette fonctionnalité est destinée aux agents de l'éducation&nbsp;nationale. Pour ajouter cet élément à vos favoris, inscrivez-vous ou connectez-vous.</p>
+          <div class="fr-btns-group fr-btns-group--inline-md fr-btns-group--between">
+            <button class="fr-btn fr-btn--secondary folder-create-popup__button js-fl-popup-close">Annuler</button>
+            <a href="/cas?returnto=/5883/programmes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" class="fr-btn"><span>Se connecter</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w">Volume horaire de référence</h2><p>Le volume horaire annuel en <strong>enseignement moral et civique pour le certificat d'aptitude professionnelle</strong> est de 14h30 en première année et 13h en deuxième année.</p><p>Le volume horaire annuel en <strong>français, histoire-géographie et enseignement moral et civique pour le baccalauréat professionnel&nbsp;</strong>est de 120h en seconde, 98h en première et 99h en terminale.</p>
+
+  </div>
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h2 class="fr-mt-3w">Autres programmes et ressources en EMC</h2>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <h3>L'esclavage, les traites négrières et leurs abolitions</h3>
+
+
+
+
+
+
+  
+  <div data-component-id="tandem_dsfr:download_link_group" class="fr-downloads-group fr-mb-5w">
+    <ul>
+              <li>  <div class="paragraph paragraph--type--lien-telechargement paragraph--view-mode--default">
+          
+      
+
+
+  
+
+      <div class="fr-download-document-dsfr">
+    <div class="fr-download">
+                          <a target="_blank"  data-component-id="tandem_dsfr:download_link" title="Le document de l&#039;IGÉSR et de la Dgesco sur l&#039;esclavage, les traites négrières et leurs abolitions dans les programmes scolaires d&#039;enseignement PDF - 5.09 Mo- nouvelle fenêtre" href="/sites/default/files/document/la-place-de-l-esclavage-ses-formes-et-ses-memoires-dans-les-programmes-scolaires-69288.pdf" class="fr-download__link">
+                    Le document de l&#039;IGÉSR et de la Dgesco sur l&#039;esclavage, les traites négrières et leurs abolitions dans les programmes scolaires d&#039;enseignement
+              <span class="fr-download__detail">PDF - 5.09 Mo</span>
+                  </a>
+          </div>
+
+      </div>
+
+
+
+
+
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+<div  class="fr-container eduscol-ckeditor fr-mb-5w">
+      <h3 class="fr-mt-3w">À consulter sur éduscol</h3>
+
+  </div>
+
+
+
+
+  
+<div class="fr-container">
+  <div class="fr-mb-5w fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      
+
+
+  
+  <div data-component-id="tandem_dsfr:tile_group" class="fr-tiles-group" data-orientation="vertical">
+    
+      <div class="fr-grid-row fr-grid-row--gutters" role="list">
+                                              <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Enseignement moral et civique" href="/4446/enseignement-moral-et-civique">
+  Enseignement moral et civique
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>Actualités et accès à toutes les informations de la discipline</p>
+                      </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Histoire-géographie" href="/4470/histoire-geographie">
+  Histoire-géographie
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>Actualités et accès à toutes les informations de la discipline</p>
+                      </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                      <div class="fr-col-12 fr-col-md-4" role="listitem">
+              
+      
+
+
+      
+  <div data-component-id="eduscol_dsfr:tile_dsfr" class="fr-tile fr-tile-height fr-enlarge-link">
+    <div class="fr-tile__body">
+      <div class="fr-tile__content">
+        <h3 class="fr-tile__title">
+                  
+
+
+
+
+
+
+  
+
+<a class="fr-tile__link " data-component-id="ui_suite_dsfr:link" title="Histoire et mémoire" href="/6940/histoire-et-memoire">
+  Histoire et mémoire
+</a>
+
+              </h3>
+    </div>
+          <div class= "fr-tile__details">
+                  <p>Les journées commémoratives, les visites des lieux de mémoire, les actions éducatives</p>
+                      </div>
+      </div>
+    </div>
+
+
+
+
+
+
+            </div>
+                                        </div>
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+            </div>
+                    </div>
+    </div>
+
+
+<div class="fr-container">
+  <div data-component-id="ui_suite_dsfr:grid_row_1" class="fr-grid-row">
+    <div class="fr-col fr-col-12">
+      
+
+
+    <ul  class="fr-grid-row--center fr-badges-group" data-component-id="ui_suite_dsfr:badge_group">
+              <li>
+
+  
+    <p class="fr-m-1w fr-tag" data-component-id="eduscol_dsfr:tag_dsfr">
+
+    enseignement moral et civique (discipline)
+  </p>
+    </li>
+          <li>
+
+  
+    <p class="fr-m-1w fr-tag" data-component-id="eduscol_dsfr:tag_dsfr">
+
+    enseignement moral et civique (lycée professionnel)
+  </p>
+    </li>
+      </ul>
+
+
+<div class="fr-mt-6w">
+
+
+
+    <div class="fr-grid-row--center fr-share eduscol-share" data-component-id="eduscol_dsfr:share">
+      <div class="fr-share__title"><p>Partager la page</p></div>
+      <ul class="fr-btns-group">
+
+      
+                
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Feduscol.education.gouv.fr%2F5883%2Fprogrammes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle" title="Partager via Facebook - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020via\u0020Facebook&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--facebook">
+    Partager via Facebook
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Feduscol.education.gouv.fr%2F5883%2Fprogrammes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle via @Eduscol&amp;text=Programmes%20et%20ressources%20en%20enseignement%20moral%20et%20civique%20-%20voie%20professionnelle" title="Partager via X - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020via\u0020X&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--twitter-x">
+    Partager via X
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://bsky.app/intent/compose?&amp;text=Programmes%20et%20ressources%20en%20enseignement%20moral%20et%20civique%20-%20voie%20professionnelle https%3A%2F%2Feduscol.education.gouv.fr%2F5883%2Fprogrammes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle via @Eduscol" title="Partager via Bluesky - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020via\u0020Bluesky&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--bluesky">
+    Partager via Bluesky
+  </a>
+
+          </li>
+        
+                  <li>
+                                                    <a target="_blank" rel="noopener" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Feduscol.education.gouv.fr%2F5883%2Fprogrammes-et-ressources-en-enseignement-moral-et-civique-voie-professionnelle&amp;text=Programmes%20et%20ressources%20en%20enseignement%20moral%20et%20civique%20-%20voie%20professionnelle via @Eduscol" title="Partager via LinkedIn - nouvelle fenêtre" onclick="window.open(this.href,&#039;Partager\u0020via\u0020LinkedIn&#039;,&#039;toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=450&#039;); event.preventDefault();" class="fr-btn fr-btn--linkedin">
+    Partager via LinkedIn
+  </a>
+
+          </li>
+        
+                  <li>
+                                                <a class="fr-btn fr-btn--mail" href="/cdn-cgi/l/email-protection#645b1711060e01071059340516100503011641565408054156541405030141572541565434160b031605090901174156540110415654160117170b1116070117415654010a415654010a17010d030a0109010a10415654090b1605084156540110415654070d120d15110141565449415654120b0d0141565414160b020117170d0b0a0a01080801420509145f060b001d5934160b031605090901174156540110415654160117170b1116070117415654010a415654010a17010d030a0109010a10415654090b1605084156540110415654070d120d15110141565449415654120b0d0141565414160b020117170d0b0a0a010808014156540c1010141741572541562241562201001117070b084a0100110705100d0b0a4a030b11124a0216415622515c5c5741562214160b0316050909011749011049160117170b111607011749010a49010a17010d030a0109010a1049090b16050849011049070d120d15110149120b0d014914160b020117170d0b0a0a01080801" target="_blank" rel="noopener external" title="Partager par email - nouvelle fenêtre">
+              Partager par email
+            </a>
+          </li>
+        
+                  <li>
+                                    <button title="Copier le lien" onclick="navigator.clipboard.writeText(window.location);alert(&#039;Adresse\u0020de\u0020la\u0020page\u0020copi\u00E9e\u0020dans\u0020le\u0020presse\u002Dpapiers.&#039;);" class="fr-btn fr-btn--copy" type="button">
+              Copier le lien
+            </button>
+          </li>
+              
+      
+    </ul>
+
+
+  </div>
+  
+
+
+</div>
+
+    </div>
+  </div>
+</div>
+
+  <div class="fr-background-contrast--blue-france fr-pb-5v fr-pt-5v rebound-block fr-grid-row" data-component-id="ui_suite_dsfr:grid_row_1">
+    <div class="fr-col fr-col-12">
+      <div class="fr-container">
+
+
+
+    <h3>Sur le même thème</h3>
+
+
+</div>
+
+
+
+  
+    
+<div class="fr-container">
+  <div data-component-id="tandem_dsfr:grid_row" class="fr-grid-row fr-grid-row--gutters" role="list" >
+            <div role="listitem" class="fr-col fr-col-12 fr-col-lg-4" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+  
+    <a href='https://eduscol.education.gouv.fr/4377/enseigner-au-lycee-professionnel'>Enseigner au lycée professionnel</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Pour chaque enseignement, vous trouverez des liens vers des pages qui présentent les programmes du lycée professionnel et des ressources pédagogiques…</p>
+
+
+</div>                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_361b.jpg.webp?h=cb739674&amp;itok=O_J64UD8" width="690" height="388" alt="" />
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12 fr-col-lg-4" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+  
+    <a href='https://eduscol.education.gouv.fr/4575/lycee-professionnel'>Lycée professionnel</a>
+
+
+
+      </h3>
+            <div class="fr-card__desc">
+
+
+    <p>Le lycée professionnel propose un enseignement en relation avec l&#039;entreprise afin de faire acquérir des compétences et des connaissances générales et…</p>
+
+
+</div>                </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_952x45377_organisation-ensts-lycee-professionnels_0.png.webp?h=517a7733&amp;itok=t6FMt6Mf" width="690" height="388" alt="" />
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+        <div role="listitem" class="fr-col fr-col-12 fr-col-lg-4" >
+      
+  
+
+
+
+<div data-component-id="ui_suite_dsfr:card" class="fr-enlarge-link fr-card">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+            <h3 class="fr-card__title">
+        
+
+
+  
+    <a href='https://eduscol.education.gouv.fr/4527/diplomes-professionnels'>Diplômes professionnels</a>
+
+
+
+      </h3>
+                            </div>
+      </div>
+      <div class="fr-card__header">
+      <div class="fr-card__img">
+                  <div class="fr-responsive-img">
+
+
+
+      
+
+<img class="fr-responsive-img"  loading="lazy" src="/sites/default/files/styles/16_9_md_690x416/public/2025-10/vignette_eduscol_952x453115_diplomesprofessionnels_0.png.webp?h=b28dfbfb&amp;itok=Z-CwTyJx" width="690" height="388" alt="" />
+
+
+
+
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+
+
+    </div>
+      </div>
+</div>
+
+
+
+    </div>
+  </div>
+
+    </div>
+    <div class="fr-py-3w page-to-top">
+        <div class="fr-container">
+          <a class="fr-link fr-icon-arrow-up-fill fr-link--icon-left btn-to-top" href="#top">Haut de page</a>
+        </div>
+    </div>
+</article>
+
+
+</div>
+
+  </div>
+
+      </div>
+
+      
+          </div>
+
+  </main>
+    <div>
+    <div id="block-eduscol-dsfr-newsletterfollowus">
+
+
+
+        <div data-component-id="eduscol_dsfr:follow" class="fr-follow">
+    <div class="fr-container">
+      <div class="fr-grid-row">
+                                          <div class="fr-col-12">
+            <div class="fr-follow__social">
+              <h2 class="fr-h5">Suivez nous sur les réseaux sociaux</h2>
+              <ul class="fr-btns-group fr-btns-group--lg">
+                                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--facebook fr-btn fr-link" target="_blank" title="Suivez-nous sur Facebook - Ouverture dans une nouvelle fenêtre" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://www.facebook.com/eduscol/">
+  Facebook
+</a>
+
+                  </li>
+                                  <li>
+                    
+
+
+
+
+
+
+
+
+<a class="fr-btn--twitter-x fr-btn fr-link" target="_blank" title="Suivez-nous sur X (anciennement Twitter) - Ouverture dans une nouvelle fenêtre" data-drupal-active-trail="false" data-component-id="ui_suite_dsfr:link" href="https://twitter.com/Eduscol?s=20">
+  X (ex-Twitter)
+</a>
+
+                  </li>
+                              </ul>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+
+
+</div>
+
+  </div>
+
+    <div>
+    <div id="block-eduscol-dsfr-footereduscoldsfr">
+
+
+
+      
+<footer data-component-id="eduscol_dsfr:footer" class="fr-footer" role="contentinfo" id="footer">
+            <div class="fr-footer__top">
+            <div class="fr-container">
+                <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
+                                            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                                                        <h3 class="fr-footer__top-cat">Sites Éducation </h3>
+                            <ul class="fr-footer__top-list">
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.france-education-international.fr/">France Éducation International</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.education.gouv.fr/">education.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.devenirenseignant.gouv.fr/">Devenir Enseignant</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.ih2ef.gouv.fr/">Institut des hautes études de l'éducation et de la formation</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.enseignementsup-recherche.gouv.fr/fr">Enseignement supérieur, Recherche et Innovation</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="http://www.onisep.fr/">Onisep</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.cned.fr/">Cned</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.reseau-canope.fr/">Réseau Canopé</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.clemi.fr/">CLEMI</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.education.gouv.fr/les-regions-academiques-academies-et-services-departementaux-de-l-education-nationale-6557">Sites académiques</a></li>
+                                                            </ul>
+                        </div>
+                                            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                                                        <h3 class="fr-footer__top-cat">Sites de formation et thématiques</h3>
+                            <ul class="fr-footer__top-list">
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://culturesciences.chimie.ens.fr/">CultureSciences-Chimie</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://cle.ens-lyon.fr/">La Clé des langues</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://eduscol.education.fr/sti/si-ens-paris-saclay">Culture sciences de l'ingénieur</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://planet-terre.ens-lyon.fr/">Planet-Terre</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://culturesciencesphysique.ens-lyon.fr/">CultureSciences-physique</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://planet-vie.ens.fr/">Planet-Vie</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://ehne.fr/fr">Encyclopédie d'histoire numérique de l'Europe</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://ses.ens-lyon.fr/">Sciences économiques et sociales</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="http://geoconfluences.ens-lyon.fr/">Géoconfluences</a></li>
+                                                                                                                                                                                                                    <li><a data-drupal-active-trail="false" class="fr-footer__top-link" href="https://odysseum-biblissima.ens.psl.eu/">Odysseum</a></li>
+                                                            </ul>
+                        </div>
+                                            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2">
+                                                        <h3 class="fr-footer__top-cat">Sites publics</h3>
+                            <ul class="fr-footer__top-list">
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.elysee.fr/">Élysée.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.data.gouv.fr/">Data.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.info.gouv.fr/">Gouvernement.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.legifrance.gouv.fr/">Legifrance.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.service-public.gouv.fr/">Service-public.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.jeunes.gouv.fr/">Jeunes.gouv.fr</a></li>
+                                                                                                                                                                                                                    <li><a target="_self" data-drupal-active-trail="false" class="fr-footer__top-link" href="https://www.sports.gouv.fr/">Sports.gouv.fr</a></li>
+                                                            </ul>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="fr-container">
+        <div class="fr-footer__body">
+            <div class="fr-footer__brand fr-enlarge-link">
+
+                
+                                    <a href="/" title="Retour à l'accueil du site - Ministère de l'éducation nationale">
+                        <div class="fr-logo">
+                            <p>MINISTÈRE<br>DE L'ÉDUCATION<br>NATIONALE</p>
+                        </div>
+                    </a>
+                            </div>
+                            <div class="fr-footer__content">
+                                            <ul class="fr-footer__content-list">
+        
+                        
+            <li class="fr-footer__content-item">
+                                                
+                                    
+                                                                
+                    <a target="_blank" data-drupal-active-trail="false" class="fr-footer__content-link" href="https://data.gouv.fr/" title="data.gouv.fr - nouvelle fenêtre">
+                        data.gouv.fr
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__content-item">
+                                                
+                                    
+                                                                
+                    <a target="_blank" data-drupal-active-trail="false" class="fr-footer__content-link" href="https://legifrance.gouv.fr/" title="legifrance.gouv.fr - nouvelle fenêtre">
+                        legifrance.gouv.fr
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__content-item">
+                                                
+                                    
+                                                                
+                    <a target="_blank" data-drupal-active-trail="false" class="fr-footer__content-link" href="https://service-public.gouv.fr/" title="service-public.gouv.fr - nouvelle fenêtre">
+                        service-public.gouv.fr
+                    </a>
+                            </li>
+            </ul>
+
+                </div>
+                    </div>
+        
+                    <div class="fr-footer__bottom">
+                    <ul class="fr-footer__bottom-list">
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="node/4656" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4656/mentions-legales">
+                        Mentions légales
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="node/4650" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4650/donnees-personnelles-et-cookies">
+                        Données personnelles et cookies
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="#tarteaucitron">
+                        Gestion des cookies
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="node/4644" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4644/accessibilite-du-site-eduscol-et-des-sites-du-meme-domaine">
+                        Accessibilité : partiellement conforme
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4662/contact">
+                        Contact
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="plan-du-site" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/plan-du-site">
+                        Plan du site
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" title="deutsch" data-drupal-link-system-path="node/4632" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4632/das-schulwesen-frankreich">
+                        DE
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" title="english" data-drupal-link-system-path="node/4638" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4638/school-education-france">
+                        EN
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" title="Español" data-drupal-link-system-path="node/4635" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4635/la-educacion-escolar-en-francia">
+                        ES
+                    </a>
+                            </li>
+        
+                        
+            <li class="fr-footer__bottom-item">
+                                                
+                                    
+                    
+                    <a target="_self" data-drupal-link-system-path="node/4665" data-drupal-active-trail="false" class="fr-footer__bottom-link" href="/4665/comprendre-l-espace-personnel-eduscol">
+                        Comprendre l'espace personnel éduscol
+                    </a>
+                            </li>
+            </ul>
+
+                                    <div class="fr-footer__bottom-copy">
+                        <div><p><span>Sauf cas particuliers indiqués dans les mentions légales, les contenus de ce site sont sous </span><a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank" rel="noopener external" title="licence etalab-2.0 - nouvelle fenêtre" class="fr-link"><span>licence etalab-2.0</span></a><span>.</span></p></div>
+                    </div>
+                            </div>
+            </div>
+</footer>
+
+
+
+</div>
+
+  </div>
+
+</div>
+
+  </div>
+
+  
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/5883","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"matomo":{"disableCookies":false,"trackColorbox":false,"trackMailto":true},"ajaxPageState":{"libraries":"eJyNk2FuwyAMhS-UFm0XQk5wiTXAyJhV2elH2rVru7TsT4Ien2Ub-00saCaOmRMmLXt0tUwcrCsH2e0mEGcDpY9heskdOAQ-diFWlA7khZwVPtp320SW0uFnFLboSLkDlhkEewx9YUubVFo_3VJLjRFksYUcRky1gyv406mHUcBtTiG1RJfJtCqbamPrHV6jjo8pMDwZ5HPUeuGaXwdcxvWamhHcxnPeMae-tzNWsqWS4g85gvP_RaVlnqTGsUtWVU49avVDj7lu8FuP3JzHAxPZQehBCT7t5gY-cOWD8pr0r6keQBVIZRLKSu1RbhfUTLUox6t2oGhqgqozS3OPs4cA3lPyQ4CFq1pHjftEWUxL1SKGCC2ezfk3ZBDwAnkuxknNEPa_yr6mXMdAZUY35GbJK9LOu3MjZSmK0YxQcLjZJ7N-LCXSO9UHHiHsii5hLfHnyrss5uZ80XNrAcWcLIZh9bh-A9fYBmg","theme":"eduscol_dsfr","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"tandem_gdpr":{"dialog":{"privacyUrl":"","hashtag":"tarteaucitron","cookieName":"tarteaucitron","orientation":"bottom","showAlertSmall":0,"cookieslist":1,"adblocker":0,"AcceptAllCta":1,"highPrivacy":1,"handleBrowserDNTRequest":0,"removeCredit":1,"moreInfoLink":1,"useExternalCss":1,"cookieDomain":"","readmoreLink":"\/cookiespolicy","privacyurl":null},"services":{"aduptech_ads":0,"aduptech_conversion":0,"aduptech_retargeting":0,"amazon":0,"clicmanager":0,"criteo":0,"datingaffiliation":0,"datingaffiliationpopup":0,"ferankpub":0,"adsense":0,"googlepartners":0,"adsensesearchform":0,"adsensesearchresult":0,"googleadwordsconversion":0,"googleadwordsremarketing":0,"prelinker":0,"pubdirecte":0,"shareasale":0,"twenga":0,"vshop":0,"facebookpixel":0,"bingads":0,"adform":0,"activecampaign":0,"alexa":0,"clicky":0,"crazyegg":0,"leadforensics":0,"etracker":"","ferank":0,"getplus":0,"gajs":0,"analytics":0,"gtag":0,"hubspot":0,"mautic":0,"microsoftcampaignanalytics":0,"statcounter":0,"visualrevenue":0,"wysistat":"","xiti":0,"atinternet":0,"xiti_smarttag":0,"webmecanik":0,"multiplegtag":0,"koban":0,"matomo":0,"hotjar":0,"getquanty":0,"emolytics":0,"googlemaps":0,"googlemapssearch":0,"googlemapsembed":0,"googletagmanager":0,"jsapi":0,"twitterwidgetsapi":0,"recaptcha":0,"timelinejs":0,"tagcommander":0,"typekit":0,"disqus":0,"facebookcomment":0,"iframe":0,"issuu":0,"matterport":0,"addthis":0,"addtoanyfeed":0,"addtoanyshare":0,"ekomi":0,"facebook":1,"facebooklikebox":0,"gplus":0,"gplusbadge":0,"linkedin":0,"pinterest":0,"shareaholic":0,"sharethis":0,"twitter":0,"twitterembed":0,"twittertimeline":0,"purechat":0,"uservoice":0,"zopim":0,"tawkto":0,"calameo":0,"dailymotion":0,"prezi":0,"slideshare":0,"vimeo":0,"youtube":0,"youtubeplaylist":0,"youtubeapi":0,"dailymotion_custom":1,"youtube_custom":1,"vimeo_custom":1,"addthis_custom":1,"instagram":0,"instagram_custom":0,"facebookapi":0,"_core":null,"youtube_playlist_custom":0,"twitter_widget_custom":0,"twittertimeline_custom":1,"soundcloud_custom":1,"flickr_custom":0,"atinternet_custom":0,"langcode":null,"player_ina":0,"web_tv_versailles":0,"canal_u":0,"framatube":0,"matomocloud":1,"euleriancnilexemption":1,"eulerian":1,"podeduc_custom":0},"user":{"bypass":"","actid":"","adformpm":"","adformpagename":"","bingadsTag":"","bingadsID":"","adsensesearchresultCx":"","adwordsconversionId":"","adwordsconversionLabel":"","adwordsconversionLanguage":"","adwordsconversionFormat":"","adwordsconversionColor":"","adwordsconversionValue":"","adwordsconversionCurrency":"","adwordsconversionCustom1":"","adwordsconversionCustom2":"","adwordsremarketingId":"","twengaId":"","twengaLocale":"","googlemapsKey":"","mapscallback":"","googlemapsLibraries":"","googletagmanagerId":"","tagcommanderid":"","typekitId":"","alexaAccountID":"","atLibUrl":"","atMore":"","xitiId":"","xitiMore":"","clickyId":"","clickyMore":"","crazyeggId":"","etracker":"","getplusId":"","getguanty":"","gajsUa":"","gajsMore":"","gtagUa":"","gtagMore":"","multiplegtagUa":"","analyticsUa":"","analyticsMore":"","hotjarId":"","HotjarSv":"","hubspotId":"","kobanurl":"","kobanapi":"","matomoId":"","matomoHost":"","mauticurl":"","microsoftcampaignanalyticsUUID":"","microsoftcampaignanalyticsdomaineId":"","microsoftcampaignanalyticsactionId":"","visualrevenueId":"","webmecanikurl":"","wysistat":"","disqusShortname":"","addthisPubId":"","addtoanyfeedUri":"","addtoanyfeedSubscribeLink":"","ekomiCertId":"","facebookpixelId":"","facebookpixelMore":"","shareaholicSiteId":"","sharethisPublisher":"","purechatId":"","tawktoId":"","userVoiceApi":"","zopimID":"","leadforensicsSf14gv":"","leadforensicsIidentifier":"","ferankMore":"","gajsAnonymizeIp":"","gajsPageView":"","analyticsUaCreate":"","analyticsAnonymizeIp":"","analyticsPrepare":"","analyticsPageView":"","recaptchaOnLoad":"","microsoftcampaignanalyticsdomainId":"","xiti_smarttagLocalPath":"","xiti_smarttagSiteId":"","bingadsStoreCookies":"","emolyticsID":"","InstaId":"","AddthisText":"","AddthisTextarea":"","facebookapi1":"","FacebbokTextarea":"","microsoftcampaignanalyticsUUID ":"","atJsLibUrl":"https:\/\/tag.aticdn.net\/613449\/smarttag.js","atDescription":{"value":"\u003Cp\u003ESur le site \u003Ca href=\u0022https:\/\/eduscol.education.fr\u0022 target=\u0022_blank\u0022\u003Eeduscol.education.fr\u003C\/a\u003E, les solutions de mesure d\u2019audience d\u2019AT Internet ont \u00e9t\u00e9 param\u00e9tr\u00e9es pour s\u2019exempter de la demande de consentement de l\u2019internaute avant de d\u00e9poser le cookie Web Analytics. Le minist\u00e8re de l\u2019\u00e9ducation nationale et de la jeunesse s\u2019engage \u00e0 respecter les \u003Ca href=\u0022https:\/\/www.cnil.fr\/sites\/default\/files\/atoms\/files\/conformite_des_solutions_at_internet_-_cnil.pdf\u0022 target=\u0022_blank\u0022\u003Er\u00e8gles de l\u0027autorit\u00e9 fran\u00e7aise de protection des donn\u00e9es (CNIL)\u003C\/a\u003E permettant de b\u00e9n\u00e9ficier de cette exemption. L\u2018outil de mesure d\u2019audience AT Internet est donc dispens\u00e9 par d\u00e9faut du recueil du consentement de l\u0027internaute, qui peut \u00e0 tout moment modifier ce param\u00e8tre en cliquant sur \u00ab\u0026nbsp;Interdire\u0026nbsp;\u00bb.\u003C\/p\u003E","format":"full_html"},"description":"","eulerianHost":"vnyi.eduscol.education.gouv.fr"},"texts":{"adblock":"Hello! This site is transparent and lets you chose the 3rd party services you want to allow. ","adblock_call":"Please disable your adblocker to start customizing.","reload":"Refresh the page","alertBigScroll":"By continuing to scroll,","alertBigClick":"If you continue to browse this website,","alertBig":"you are allowing all third-party services","alertBigPrivacy":"Le minist\u00e8re charg\u00e9 de l\u0027\u00e9ducation nationale veille \u00e0 prot\u00e9ger vos donn\u00e9es personnelles. Ce site utilise des cookies afin de mieux vous informer et de vous proposer des vid\u00e9os, des fonctionnalit\u00e9s de partage et des contenus anim\u00e9s optimis\u00e9s pour le web. Pour vous assurer une exp\u00e9rience de navigation optimale, vous avez la possibilit\u00e9 d\u2019accepter l\u2019activation de tous les cookies. ","alertSmall":"G\u00e9rer les services","personalize":"Personnaliser","acceptAll":"Tout autoriser","close":"Fermer","privacyUrl":"Politique de confidentialit\u00e9","all":"Pr\u00e9f\u00e9rence pour tous les services","info":"Protecting your privacy","disclaimer":"Le minist\u00e8re charg\u00e9 de l\u0027\u00e9ducation nationale s\u2019engage \u00e0 traiter vos donn\u00e9es \u00e0 caract\u00e8re personnel dans le respect de la loi n\u00b0 78-17 du 6 janvier 1978 modifi\u00e9e relative \u00e0 l\u0027informatique, aux fichiers et aux libert\u00e9s et du RGPD.. \u003Cbr \/\u003E\r\n\r\nNous sommes particuli\u00e8rement attentifs \u00e0 la protection des donn\u00e9es personnelles et nous veillons  \u00e0 ce que la collecte de vos donn\u00e9es soit r\u00e9duite au strict n\u00e9cessaire. \u003Cbr \/\u003E\r\n\r\nLe site \u003Ca href=\u0022https:\/\/eduscol.education.fr\u0022\u003Eeduscol.education.fr\u003C\/a\u003E utilise les outils de mesure d\u2019audience Eulerian et Matomo pour comprendre le parcours de navigation des utilisateurs afin de vous fournir la meilleure information possible et d\u2019enrichir votre parcours. Eulerian est dispens\u00e9 du recueil du consentement de l\u0027internaute relatif au d\u00e9p\u00f4t des cookies analytics, l\u0027autorit\u00e9 fran\u00e7aise de protection des donn\u00e9es (CNIL) ayant accord\u00e9 une exemption au cookie Web Analytics d\u0027Eulerian (\u003Ca href=\u0022https:\/\/www.cnil.fr\/fr\/solutions-pour-les-cookies-de-mesure-daudience\u0022 target=\u0022_blank\u0022\u003Een savoir plus\u003C\/a\u003E).\u003Cbr \/\u003EMatomo est dispens\u00e9 du recueil du consentement de l\u0027internaute relatif au d\u00e9p\u00f4t des cookies analytics, l\u0027autorit\u00e9 fran\u00e7aise de protection des donn\u00e9es (CNIL) ayant accord\u00e9 une exemption au cookie Web Analytics de Matomo (\u003Ca href=\u0022https:\/\/www.cnil.fr\/fr\/solutions-pour-les-cookies-de-mesure-daudience\u0022 target=\u0022_blank\u0022\u003Een savoir plus\u003C\/a\u003E).\r\nVous pouvez \u00e0 tout moment vous opposer \u00e0 leur utilisation dans la section ci-dessous d\u00e9di\u00e9e \u00e0 la mesure d\u2019audience.\u003Cbr \/\u003E\r\nCertaines fonctionnalit\u00e9s du site (partage de contenus sur les r\u00e9seaux sociaux, lecteurs vid\u00e9os, contenus interactifs) font par ailleurs appel \u00e0 des services propos\u00e9s par des tiers. Ces fonctionnalit\u00e9s d\u00e9posent des cookies leur permettant d\u2019identifier les sites que vous consultez et les contenus auxquels vous vous int\u00e9ressez. Ces cookies ne sont d\u00e9pos\u00e9s que si vous donnez votre accord. Vous pouvez ci-dessous vous informer sur la nature de chacun des cookies d\u00e9pos\u00e9s, les accepter ou les refuser \u00e0 tout moment. Ce choix est possible soit globalement pour l\u2019ensemble du site et l\u2019ensemble des services, soit service par service.\r\n\u003Cbr\/\u003E\r\n\r\n\u003Ca href=\u0022\/2349\/donnees-personnelles-et-cookies\u0022\u003ES\u2019informer sur les cookies et donn\u00e9es personnelles du site eduscol.education.fr, contacter ou exercer vos droits aupr\u00e8s du d\u00e9l\u00e9gu\u00e9 \u00e0 la protection des donn\u00e9es\u003C\/a\u003E","allow":"Autoriser","deny":"Interdire","noCookie":"Ce service n\u0027utilise pas de cookie.","useCookie":"Ce service peut installer","useCookieCurrent":"Ce service a install\u00e9","useNoCookie":"Ce service n\u0027a pas install\u00e9 de cookie.","more":"","source":"Voir le site","credit":"Cookies manager by tarteaucitron.js","toggleInfoBox":"Show\/hide informations about cookie storage","title":"Gestion de vos pr\u00e9f\u00e9rences sur les cookies","cookieDetail":"Cookie detail for","ourSite":"sur notre site","newWindow":"(nouvelle fen\u00eatre)","allowAll":"Tout autoriser","denyAll":"Tout interdire","fallback":"est d\u00e9sactiv\u00e9.","ads_title":"Advertising network","ads_details":"Ad networks can generate revenue by selling advertising space on the site.","analytic_title":"Audience measurement","analytic_details":"The audience measurement services used to generate useful statistics attendance to improve the site.","social_title":"Social networks","social_details":"Social networks can improve the usability of the site and help to promote it via the shares.","video_title":"Videos","video_details":"Video sharing services help to add rich media on the site and increase its visibility.","comment_title":"Comments","comment_details":"Comments managers facilitate the filing of comments and fight against spam.","support_title":"Support","support_details":"Support services allow you to get in touch with the site team and help to improve it.","api_title":"APIs","api_details":"APIs are used to load scripts, geolocation, search engines, translations, ...","other_title":"Other","other_details":"Services to display web content.","other":{"details":"","details_format":"simple_html","title":""},"social":{"details":"\u003Cp\u003ELes r\u00e9seaux sociaux permettent d\u0027am\u00e9liorer la convivialit\u00e9 du site et aident \u00e0 sa promotion via les partages.\u003C\/p\u003E","details_format":"simple_html","title":""},"ads":{"details":"","details_format":"simple_html","title":""},"analytic":{"details":"\u003Cp\u003ELes services de mesure d\u0027audience permettent de g\u00e9n\u00e9rer des statistiques de fr\u00e9quentation utiles \u00e0 l\u0027am\u00e9lioration du site. Les donn\u00e9es collect\u00e9es permettent de fournir uniquement des donn\u00e9es statistiques anonymes de fr\u00e9quentation (le nombre de pages vues, le nombre de visites, leur fr\u00e9quence de retour, ...).\u003C\/p\u003E","details_format":"simple_html","title":"Mesure d\u0027audience"},"video":{"details":"\u003Cp\u003ELes services de partage de vid\u00e9o permettent d\u0027enrichir le site de contenu multim\u00e9dia et augmentent sa visibilit\u00e9.\u003C\/p\u003E","details_format":"simple_html","title":"Vid\u00e9os"},"comment":{"details":"","details_format":"simple_html","title":""},"api":{"details":"","details_format":"simple_html","title":""},"support":{"details":"","details_format":"simple_html","title":""}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"fr-container eduscol-ckeditor fr-mb-5w","show_empty_fields":false,"id":"","label_as_html":false,"element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"tandem_gdpr_bo":{"instagram":{"name":"Instagram","type":"social"},"twitter":{"name":"Twitter","type":"social"},"vimeo":{"name":"Vimeo","type":"video"},"youtube":{"name":"Youtube","type":"video"},"dailymotion":{"name":"Dailymotion","type":"video"},"facebook":{"name":"Facebook","type":"social"},"addthis":{"name":"addThis","type":"social","additional_fields":[{"type":"textfield","id":"addthisPubId","name":"Your AddThis profile ID"}]},"facebookapi":{"name":"Facebook(API)","type":"social"},"adsensesearchresult":{"name":"Google Adsense Search (result)","type":"ads","additional_fields":[{"type":"textfield","id":"adsensesearchresultCx","name":"Your custom search engine ID"}]},"googleadwordsremarketing":{"name":"Google Adwords (remarketing)","type":"ads","additional_fields":[{"type":"textfield","id":"adwordsremarketingId","name":"Your Conversion ID"}]},"amazon":{"name":"Amazon","type":"ads"},"clicmanager":{"name":"Clicmanager","type":"ads"},"criteo":{"name":"Criteo","type":"ads"},"datingaffiliation":{"name":"Dating Affiliation","type":"ads"},"datingaffiliationpopup":{"name":"Dating Affiliation (Pop Up)","type":"ads"},"facebookpixel":{"name":"Facebook Pixel","type":"ads"},"ferankpub":{"name":"FERank (pub)","type":"ads"},"adsense":{"name":"Google Adsense","type":"ads"},"googlepartners":{"name":"Google Partners Badge","type":"ads"},"adsensesearchform":{"name":"Google Adsense Search (form)","type":"ads"},"aduptech_retargeting":{"name":"Ad Up Technology (retargeting)","type":"ads"},"googleadwordsconversion":{"name":"Google Adwords (conversion)","type":"ads","additional_fields":[{"type":"textfield","id":"adwordsconversionId","name":"Your Google Adwords ID"},{"type":"textfield","id":"adwordsconversionLabel","name":"Your Google Adwords label"},{"type":"textfield","id":"adwordsconversionLanguage","name":"Your Google Adwords language"},{"type":"textfield","id":"adwordsconversionFormat","name":"Your Google Adwords format"},{"type":"textfield","id":"adwordsconversionColor","name":"Your Google Adwords color"},{"type":"textfield","id":"adwordsconversionValue","name":"Your Google Adwords value"},{"type":"textfield","id":"adwordsconversionCurrency","name":"Your Google Adwords currency"},{"type":"textfield","id":"adwordsconversionCustom1","name":"Your Google Adwords parameter 1"},{"type":"textfield","id":"adwordsconversionCustom2","name":"Your Google Adwords parameter 2"}]},"aduptech_conversion":{"name":"Ad Up Technology (conversion)","type":"ads"},"aduptech_ads":{"name":"Ad Up Technology (ads)","type":"ads"},"prelinker":{"name":"Prelinker","type":"ads"},"activecampaign":{"name":"Active Campaign","type":"ads","additional_fields":[{"type":"textfield","id":"actid","name":"Your Active Campaign ID"}]},"pubdirecte":{"name":"Pubdirecte","type":"ads"},"adform":{"name":"Adform","type":"ads","additional_fields":[{"type":"textfield","id":"adformpm","name":"Tracking setup ID of Adform client"}]},"shareasale":{"name":"ShareASale","type":"ads"},"twenga":{"name":"Twenga","type":"ads","additional_fields":[{"type":"textfield","id":"twengaId","name":"Your Twenga ID"},{"type":"textfield","id":"twengaLocale","name":"Your Twenga JavaScript library Path"}]},"bingads":{"name":"Bing Ads Universal Event Tracking","type":"ads","additional_fields":[{"type":"textfield","id":"bingadsTag","name":"Your Bing Ads Universal Event Tracking Tag"},{"type":"textfield","id":"bingadsID","name":"Your Bing Ads Universal Event Tracking ID"},{"type":"textfield","id":"bingadsStoreCookies","name":"Your Bing Ads Universal Event Tracking Cookies"}]},"vshop":{"name":"vShop","type":"ads"},"leadforensics":{"name":"LeadForensics","type":"analytic","additional_fields":[{"type":"textfield","id":"leadforensicsSf14gv","name":"Your LeadForensics sf14gv"},{"type":"textfield","id":"leadforensicsIidentifier","name":"Your LeadForensics identifier"}]},"alexa":{"name":"Alexa","type":"analytic","additional_fields":[{"type":"textfield","id":"alexaAccountID","name":"Your Alexa ID"}]},"gajs":{"name":"Google Analytics (ga.js)","type":"analytic","additional_fields":[{"type":"textfield","id":"gajsUa","name":"Your Tracking ID"},{"type":"textfield","id":"gajsAnonymizeIp","name":"Your Google Analytics anonymize Ip"},{"type":"textarea","id":"gajsMore","name":"Your Google Analytics function"}]},"analytics":{"name":"Google Analytics (universal)","type":"analytic","additional_fields":[{"type":"textfield","id":"analyticsUa","name":"Your Tracking ID"},{"type":"textfield","id":"analyticsAnonymizeIp","name":"Your Google Analytics anonymize Ip"},{"type":"textfield","id":"analyticsPageView","name":"Your Google Analytics page view"},{"type":"textarea","id":"analyticsPrepare","name":"Your Google Analytics prepare function"},{"type":"textarea","id":"analyticsMore","name":"Your Google Analytics function"},{"type":"textarea","id":"analyticsUaCreate","name":"Your Google Analytics fields values"}]},"gtag":{"name":"Google Analytics (gtag.js)","type":"analytic","additional_fields":[{"type":"textfield","id":"gtagUa","name":"Your Tracking IDs"},{"type":"textarea","id":"gtagMore","name":"Your Google Analytics function"}]},"etracker":{"name":"eTracker","type":"analytic","additional_fields":[{"type":"textfield","id":"etracker"}]},"hubspot":{"name":"Hubspot","type":"analytic","additional_fields":[{"type":"textfield","id":"hubspotId","name":"Your Hubspot ID"}]},"mautic":{"name":"Mautic","type":"analytic","additional_fields":[{"type":"textfield","id":"mauticurl","name":"Your Mautic JavaScript library Path"}]},"microsoftcampaignanalytics":{"name":"Microsoft Campaign Analytics","type":"analytic","additional_fields":[{"type":"textfield","id":"microsoftcampaignanalyticsUUID ","name":"Your Microsoft Campaign Analytics UUID"},{"type":"textfield","id":"microsoftcampaignanalyticsdomainId","name":"Your Microsoft Campaign Analytics domain ID"},{"type":"textfield","id":"microsoftcampaignanalyticsactionId","name":"Your Microsoft Campaign Analytics action ID"}]},"atinternet":{"name":"AT Internet","type":"analytic","additional_fields":[{"type":"textfield","id":"atLibUrl","name":"Your AT Internet JavaScript library Path"}]},"googletagmanager":{"name":"Google Tag Manager","type":"api","additional_fields":[{"type":"textfield","id":"googletagmanagerId","name":"Your Google Tag Manager ID"}]},"googlemaps":{"name":"Google Maps","type":"api","additional_fields":[{"type":"textfield","id":"mapscallback","name":"Your Google Maps callback function name"},{"type":"textfield","id":"googlemapsLibraries","name":"Your Google Maps Libraries"},{"type":"textfield","id":"googlemapsKey","name":"Your Google Maps Key"}]},"jsapi":{"name":"Google jsapi","type":"api"},"twitterwidgetsapi":{"name":"Twitter Widgets API","type":"api"},"recaptcha":{"name":"reCAPTCHA","type":"api","additional_fields":[{"type":"textarea","id":"recaptchaOnLoad","name":"Your onload callback function"}]},"googlemapsembed":{"name":"Google Maps Embed","type":"api"},"facebookcomment":{"name":"Facebook (commentaire)","type":"comment"},"disqus":{"name":"Disqus","type":"comment","additional_fields":[{"type":"textfield","id":"disqusShortname","name":"Your Disqus shortname"}]},"matterport":{"name":"Matterport","type":"other"},"issuu":{"name":"Issuu","type":"other"},"iframe":{"name":"Web content","type":"other"},"twittertimeline":{"name":"Twitter (timelines)","type":"social"},"linkedin":{"name":"Linkedin","type":"social"},"gplus":{"name":"Google+","type":"social"},"sharethis":{"name":"ShareThis","type":"social"},"facebooklikebox":{"name":"Facebook (like box)","type":"social"},"pinterest":{"name":"Pinterest","type":"social"},"twitterembed":{"name":"Twitter (cards)","type":"social"},"slideshare":{"name":"SlideShare","type":"video"},"youtubeplaylist":{"name":"YouTube (playlist)","type":"video"},"prezi":{"name":"Prezi","type":"video"},"calameo":{"name":"Calameo","type":"video"},"youtubeapi":{"name":"Youtube (Js API)","type":"video"},"dailymotion_custom":{"name":"Dailymotion (custom)","type":"video"},"youtube_custom":{"name":"Youtube (custom)","type":"video"},"youtube_playlist_custom":{"name":"Youtube playlist (custom)","type":"video"},"vimeo_custom":{"name":"Vimeo (custom)","type":"video"},"podeduc_custom":{"name":"PodEduc (custom)","type":"video"},"twitter_widget_custom":{"name":"Twitter widget (custom)","type":"social"},"addthis_custom":{"name":"AddThis (custom)","type":"social"},"twittertimeline_custom":{"name":"Twittertimeline (custom)","type":"social"},"soundcloud_custom":{"name":"Soundcloud (custom)","type":"social"},"instagram_custom":{"name":"Instagram (custom)","type":"social"},"flickr_custom":{"name":"Flickr (custom)","type":"social"},"atinternet_custom":{"name":"AT Internet (custom)","type":"analytic","additional_fields":[{"type":"textfield","id":"atJsLibUrl","name":"Your AT Internet JavaScript library Path"},{"type":"textarea","id":"atDescription","name":"Description"}]},"purechat":{"name":"PureChat","type":"support"},"zopim":{"name":"Zopim","type":"support"},"_core":{"default_config_hash":"FH0P9x41AQRalS1PaDjJGKiMlJb9Hri40Hgrc9WUw2I"},"langcode":"fr","player_ina":{"name":"Player ina","type":"video"},"web_tv_versailles":{"name":"WebTV Versailles","type":"video"},"canal_u":{"name":"Canal-U","type":"video"},"framatube":{"name":"Framatube","type":"video"},"euleriancnilexemption":{"name":"Eulerian (exemption CNIL)","type":"analytic","additional_fields":[{"type":"textfield","id":"eulerianHost","name":"Eulerian Host (exemption CNIL)"}]},"eulerian":{"name":"Eulerian Analytics","type":"analytic"},"matomo":{"name":"Matomo ","type":"analytic","uri":"https:\/\/fr.matomo.org\/guide\/manage-matomo\/privacy\/"}},"mediaelement":{"attachSitewide":0},"user":{"uid":0,"permissionsHash":"18c0de90a0f7d905a34c1607be5c00f8969e004563a1e6906f31878004d8ac06"}}</script>
+<script src="/sites/default/files/js/js_lIH7z5wePo__-USTRBBUWtBaVW0g9ymuaGFNZNF6TOU.js?scope=footer&amp;delta=0&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJxdj1EOwzAIQy-UjiNFLKEZEoQoIR_d6ddq3dTtB9CzseRknSCZNqtUfdwoz5FMYh5rX5YxVbFvcXAmpTpD-rM71l053c5CsXSbLVxjIM3hpl-2ssKsOP1hnZ-U4ypYCtcSFHefwXuFSzYcI3Jl_6FF7I6yDN_keD-lkluHy_3hTXCjDkqZkeTo4y_5SGRI"></script>
+<script src="/libraries/dsfr/dist/dsfr.module.js?v=1.x" type="module"></script>
+<script src="/sites/default/files/js/js_pVf5zc1eNBmYlAs0Lp-MC4dgKtn5uR1p0JXUx9g7EHc.js?scope=footer&amp;delta=2&amp;language=fr&amp;theme=eduscol_dsfr&amp;include=eJxdj1EOwzAIQy-UjiNFLKEZEoQoIR_d6ddq3dTtB9CzseRknSCZNqtUfdwoz5FMYh5rX5YxVbFvcXAmpTpD-rM71l053c5CsXSbLVxjIM3hpl-2ssKsOP1hnZ-U4ypYCtcSFHefwXuFSzYcI3Jl_6FF7I6yDN_keD-lkluHy_3hTXCjDkqZkeTo4y_5SGRI"></script>
+
+</body>
+</html>
