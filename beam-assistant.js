@@ -9,7 +9,7 @@
   const allowed = new Set(['home', 'course', 'sheets', 'audio', 'quiz', 'progress', 'curriculum', 'settings', 'videos']);
   const names = {home:'Accueil',course:'Cours',sheets:'Fiches',audio:'Audio',quiz:'Quiz',progress:'Progression',curriculum:'Programmes',settings:'Paramètres',videos:'Vidéos'};
   const endpoint = window.STUDYBEAM_AGENT_ENDPOINT;
-  const history = [];
+  const history = []; // No local conversation is transmitted while IA endpoint is disabled.
   let busy = false;
   function beamState(state) { document.dispatchEvent(new CustomEvent('studybeam:beam-state', {detail:{state}})); }
 
@@ -42,11 +42,11 @@
   const quiet=document.createElement('label');quiet.className='beam-quiet-label';const quietBox=document.createElement('input');quietBox.type='checkbox';quietBox.checked=window.studybeamStorage?.get('beam-quiet')==='true';quiet.append(quietBox,document.createTextNode(' Mode discret'));
   tools.append(fresh,quiet);
   const prompts=document.createElement('div');prompts.className='beam-prompts';
-  const suggestions=['Recommande-moi des vidéos','Explique-moi un cours','Donne-moi un indice','Aide-moi à faire un exercice','Prépare une fiche de révision','Fais-moi réviser','Teste mes connaissances'];
+  const suggestions=['Recommande-moi des vidéos','Explique les dizaines','Exercice sur la droite graduée','Fiche sur les comparaisons','Quiz sur les dizaines'];
   for(const suggestion of suggestions){const b=document.createElement('button');b.type='button';b.className='btn ghost';b.textContent=suggestion;b.addEventListener('click',()=>{if(suggestion==='Recommande-moi des vidéos'){location.assign('./videos.html');return;}input.value=suggestion;input.focus();});prompts.append(b);}
   const tutorial=document.getElementById('tutor');
   const agentConnection=document.getElementById('agentConnection');
-  const note=document.createElement('p');note.className='small muted';note.textContent='La génération de réponses nécessite le service IA serveur. Sans connexion, seuls les raccourcis fonctionnent.';
+  const note=document.createElement('p');note.className='small muted';note.textContent='Aide guidée disponible sur trois chapitres vérifiés de mathématiques CP. Ces réponses sont préparées à l’avance, sans génération IA. Une IA générale nécessite encore un service serveur sécurisé.';
   aside.append(heading,agentConnection,prompts,transcript,form,status,tools,note);
   document.body.append(aside);
   const reopen=document.createElement('button');reopen.type='button';reopen.className='btn';reopen.textContent='Ouvrir le chat Beam';reopen.onclick=()=>openDock();
@@ -71,7 +71,7 @@
       if (parsed.protocol === 'https:' && parsed.origin === project.origin && /^\/functions\/v1\/[a-z0-9-]+$/.test(parsed.pathname) && !parsed.search && !parsed.hash) service = parsed.href;
     }
   } catch { /* Configuration invalide : pas d’envoi de session. */ }
-  document.getElementById('agentConnection').textContent = service ? 'Service IA configuré · connexion requise' : 'API IA à connecter · raccourcis disponibles';
+  document.getElementById('agentConnection').textContent = service ? 'IA en test · connexion requise' : 'Aide guidée CP disponible · IA générative non connectée';
   function command(text) {
     const normalized = text.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim();
     if (!/^(ouvre|ouvrir|affiche|afficher|montre|va|aller)\b/.test(normalized)) return null;
@@ -90,7 +90,17 @@
     const page = command(text);
     if (page) {bubble(act({name:'open_activity',page}), 'bot'); return;}
     if (!service) {
-      bubble('Mon API IA n’est pas encore connectée. Je ne peux pas encore générer cette réponse. Tu peux utiliser mes raccourcis pour ouvrir tes activités.','bot'); return;
+      const guide=window.studybeamLessonGuide;
+      if(!guide){bubble('Mon aide guidée ne peut pas être chargée. Ouvre les cours CP pour retrouver les activités.','bot');return;}
+      const result=await guide.respond(text);
+      bubble(result.text,'bot');
+      for(const item of result.links||[]){
+        if(!/^\.\/(cours|fiches|quiz|ressource)\.html(?:\?|$)/.test(item.href))continue;
+        const link=document.createElement('a');link.href=item.href;link.className='btn ghost';
+        link.textContent=item.label;transcript.append(link);
+      }
+      transcript.scrollTop=transcript.scrollHeight;
+      return;
     }
     beamState('think');
     busy = true; send.disabled = true; input.disabled = true; form.setAttribute('aria-busy','true');
