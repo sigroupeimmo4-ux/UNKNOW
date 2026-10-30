@@ -3,8 +3,8 @@
   // Charger Beam sur toutes les pages sans remplacer le panneau enrichi de app.html.
   if(!document.getElementById('chatForm')){
     const globalBeam=document.createElement('script');
-    globalBeam.src='./beam-global.js?v=platform-1';
-    document.body.append(globalBeam);
+    globalBeam.src='./beam-global.js?v=study-guide-1';
+    const study=document.createElement('script');study.src='./beam-study-guide.js?v=study-guide-1';study.onload=()=>document.body.append(globalBeam);study.onerror=()=>document.body.append(globalBeam);document.body.append(study);
   }
   // Un ancien chargement GLB provoquait une requête 404 à chaque page :
   // aucun fichier assets/beam-rigged.glb n'est actuellement publié.
