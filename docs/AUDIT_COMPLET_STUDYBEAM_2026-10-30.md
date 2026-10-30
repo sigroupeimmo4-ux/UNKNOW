@@ -55,3 +55,10 @@ Audit des sources publiques (HTML/CSS/JS, générateur, CI/déploiement, `curric
 - **P2 :** tests navigateur/visuels automatisés et accessibilité WCAG, optimisation Three.js et mesurage des performances réelles, indexation/performance Supabase lorsque le volume le justifie.
 
 **Ne pas déclarer cet audit entièrement validé côté utilisateurs** tant que les vérifications navigateur et les parcours Auth/Supabase ne sont pas réalisés.
+
+## Validation après fusion — 30 octobre 2026
+- Pull request de corrections : [#19](https://github.com/sigroupeimmo4-ux/UNKNOW/pull/19), fusionnée dans `main`.
+- Contrôles automatiques de la PR : **réussite**, y compris `node --check`, génération + contrôle du générateur, analyse `scripts/audit_site.py` des liens et assets locaux.
+- Publication GitHub Pages : **réussie**, run [41084707883](https://github.com/sigroupeimmo4-ux/UNKNOW/actions/runs/41084707883).
+- Smoke tests HTTP GitHub Actions après déploiement : **réussite** pour `index.html`, `calendrier.html`, `mes-notes.html` et `beam-3d-apercu.html`. Cela atteste une réponse HTTP valide obtenue par le runner à ce moment, mais pas une validation de rendu sur les appareils des utilisateurs.
+- Restent à valider : parcours utilisateurs en navigateur, authentification réelle, responsive 375/768/1440 px, interactions complètes, modèle GLB et IA non disponibles.
