@@ -65,3 +65,12 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Ces événements sont destinés à un **vrai modèle riggé** et restent sans effet 3D en l'absence de `assets/beam-rigged.glb`. Les animations ne sont pas encore visibles : ne pas les annoncer comme achevées.
 - Pas de voix/TTS, pas de lipsync, pas de rig facial, pas de modèle GLB original. La version fonctionnelle conserve l'image officielle.
 - Vérifier les tests CI et le déploiement avant de présenter la modification comme publiée. Les tests d'animations 3D réelles sont bloqués par l'absence du modèle.
+
+## 30 octobre 2026 — Publication calendrier et notes
+- Branche de publication : `calendar-release-20261030`, reconstruite sur `main` afin d'éviter les conflits avec Beam ; branche préparatoire `calendar-grades-20261030` et sauvegarde `backup-before-calendar-progress-20261030`.
+- Nouveaux fichiers : `school-tools.js`, `school-tools.css`, `calendrier.html`, `mes-notes.html`.
+- Générateur de navigation modifié pour accéder au calendrier et aux notes depuis la barre latérale. CI étendue à la vérification JavaScript.
+- Calendrier : vues mois/semaine/liste, ajout/édition/suppression confirmée, récurrence hebdomadaire, marquage terminé ; rappels affichés uniquement lorsque la page est ouverte.
+- Notes : ajout/suppression, moyenne indicative sur 20, filtre par matière et tracé SVG ; stockage uniquement sur l'appareil (`localStorage`).
+- Non disponibles : synchronisation entre appareils, rappels hors navigateur, notification système, glisser-déposer des dates, édition des notes.
+- Tests à confirmer : Actions GitHub, Pages, parcours des formulaires en navigateur, responsive sur appareils physiques.
