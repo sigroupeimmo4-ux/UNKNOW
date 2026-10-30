@@ -192,3 +192,9 @@ body :is(button,a,input,select,textarea):focus-visible{outline:3px solid #527F99
 .beam-global-panel .btn{flex-shrink:0}
 @media(max-width:650px){.beam-global-panel{left:8px;right:8px;bottom:78px;width:auto;max-height:calc(100dvh - 92px);padding:12px}}
 @media(prefers-reduced-motion:reduce){.beam-global-panel *{animation:none!important;transition:none!important}}
+
+/* Beam visibility: standalone launcher must work on every route */
+body .beam-launcher{position:fixed!important;right:18px;bottom:18px;z-index:90;display:flex;align-items:center;gap:6px;min-height:62px;padding:4px 12px 4px 4px;background:#FFFFFF;border:2px solid #527F99;border-radius:22px;color:#355D74;font-weight:750;text-decoration:none;box-shadow:0 8px 24px #34434A30;cursor:pointer}
+body .beam-launcher img{display:block;width:54px;height:54px;object-fit:contain}
+@media(max-width:650px){body .beam-launcher{right:10px;bottom:10px;padding:3px 9px 3px 3px;min-height:52px}body .beam-launcher img{width:46px;height:46px}}
+@media print{body .beam-launcher{display:none!important}}

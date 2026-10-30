@@ -41,3 +41,10 @@ Date : 30 octobre 2026
 - Aucun appel fictif à l'IA, aucune fausse réponse pédagogique.
 - **Non terminé :** véritable IA et secrets serveur, composant 3D articulé fidèle à l'illustration, costumes et couleurs réellement appliqués à l'anatomie, synchronisation des personnalisations entre appareils, actions IA contextuelles et tests navigateur exhaustifs.
 - Mise à jour de ce rapport à chaque intervention suivant la consigne utilisateur. Vérifier la PR, CI et GitHub Pages avant de déclarer la fonctionnalité publiée.
+
+## Correctif de visibilité — 30 octobre 2026
+- Diagnostic : l'accueil `index.html` ne comportait pas de `.beam-launcher`, donc `beam-global.js` s'arrêtait avant d'afficher le compagnon.
+- Correctif : `beam-global.js` crée un bouton avec l'image du dragon officiel lorsque le lanceur est absent ; `design.css` fixe sa position et son contraste sur ordinateur et mobile.
+- `navigation.js` et `scripts/build_navigation_pages.py` ont des versions d'assets mises à jour pour éviter de servir l'ancien script.
+- Sauvegarde : `backup-before-beam-visibility-20261030`.
+- Vérification nécessaire : succès des tests GitHub Actions, succès de la publication Pages et validation visuelle dans un vrai navigateur. La connexion IA serveur reste indisponible.
