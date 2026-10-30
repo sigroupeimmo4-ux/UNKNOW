@@ -6,8 +6,8 @@
   const send = document.getElementById('agentSend');
   const status = document.getElementById('agentStatus');
   const transcript = document.getElementById('chat');
-  const allowed = new Set(['home', 'course', 'sheets', 'audio', 'quiz', 'progress', 'curriculum', 'settings']);
-  const names = {home:'Accueil',course:'Cours',sheets:'Fiches',audio:'Audio',quiz:'Quiz',progress:'Progression',curriculum:'Programmes',settings:'Paramètres'};
+  const allowed = new Set(['home', 'course', 'sheets', 'audio', 'quiz', 'progress', 'curriculum', 'settings', 'videos']);
+  const names = {home:'Accueil',course:'Cours',sheets:'Fiches',audio:'Audio',quiz:'Quiz',progress:'Progression',curriculum:'Programmes',settings:'Paramètres',videos:'Vidéos'};
   const endpoint = window.STUDYBEAM_AGENT_ENDPOINT;
   const history = [];
   let busy = false;
@@ -40,8 +40,8 @@
   const quiet=document.createElement('label');quiet.className='beam-quiet-label';const quietBox=document.createElement('input');quietBox.type='checkbox';quietBox.checked=window.studybeamStorage?.get('beam-quiet')==='true';quiet.append(quietBox,document.createTextNode(' Mode discret'));
   tools.append(fresh,quiet);
   const prompts=document.createElement('div');prompts.className='beam-prompts';
-  const suggestions=['Explique-moi un cours','Donne-moi un indice','Aide-moi à faire un exercice','Prépare une fiche de révision','Fais-moi réviser','Teste mes connaissances'];
-  for(const suggestion of suggestions){const b=document.createElement('button');b.type='button';b.className='btn ghost';b.textContent=suggestion;b.addEventListener('click',()=>{input.value=suggestion;input.focus();});prompts.append(b);}
+  const suggestions=['Recommande-moi des vidéos','Explique-moi un cours','Donne-moi un indice','Aide-moi à faire un exercice','Prépare une fiche de révision','Fais-moi réviser','Teste mes connaissances'];
+  for(const suggestion of suggestions){const b=document.createElement('button');b.type='button';b.className='btn ghost';b.textContent=suggestion;b.addEventListener('click',()=>{if(suggestion==='Recommande-moi des vidéos'){location.assign('./videos.html');return;}input.value=suggestion;input.focus();});prompts.append(b);}
   const tutorial=document.getElementById('tutor');
   const agentConnection=document.getElementById('agentConnection');
   const note=document.createElement('p');note.className='small muted';note.textContent='La génération de réponses nécessite le service IA serveur. Sans connexion, seuls les raccourcis fonctionnent.';
