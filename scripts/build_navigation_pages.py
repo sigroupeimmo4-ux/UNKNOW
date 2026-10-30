@@ -33,7 +33,7 @@ def update_menu(s):
  if 'navigation.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./navigation.css?v=mission15"></head>',1)
  if 'design.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./design.css?v=compact1"></head>',1)
  s=re.sub(r'<script defer src="./navigation.js[^"]*"></script>','',s)
- nav_script='<script defer src="./navigation.js?v=pastel-final-3"></script>'
+ nav_script='<script defer src="./navigation.js?v=beam-global-1"></script>'
  marker='<script defer src="./storage.js'
  if marker not in s:marker='<script defer src="https://cdn.jsdelivr.net'
  if marker in s:s=s.replace(marker,nav_script+marker,1)
@@ -68,7 +68,7 @@ for filename,(kind,title) in pages.items():
  bridge='<div id="curriculumBridge" hidden><select id="curriculumGrade"></select><select id="curriculumPathway"></select><select id="curriculumVariant"></select><div id="curriculumVariantField"></div><select id="curriculumType"><option value="commun">Commun</option><option value="specialite">Spécialité</option><option value="option">Option</option></select><select id="curriculumSubject"></select><select id="curriculumDomain"></select><select id="curriculumChapter"></select><p id="curriculumSummary"></p><p id="curriculumStatus"></p><div id="curriculumCalendar"></div><div id="curriculumReferences"></div><div id="curriculumActivity"></div></div>'
  footer='<footer class="footer">StudyBeam · Les contenus disponibles et leurs sources sont indiqués dans chaque parcours.</footer>'
  launcher='<a class="beam-launcher" href="./app.html#tutor" aria-label="Ouvrir Beam, mon assistant dragon"><img src="./assets/studybeam-logo.webp?v=dragon-1" alt="" width="64" height="64"><span>Beam</span></a>'
- scripts=''.join('<script defer src="./'+name+'?v='+('pastel-final-3' if name=='navigation.js' else 'mission-videos-1' if name=='library.js' else 'pricing1')+'"></script>' for name in ['navigation.js','storage.js','school-data.js','library-shell.js','curriculum.js','library.js','dashboard.js'])
+ scripts=''.join('<script defer src="./'+name+'?v='+('beam-global-1' if name=='navigation.js' else 'mission-videos-1' if name=='library.js' else 'pricing1')+'"></script>' for name in ['navigation.js','storage.js','school-data.js','library-shell.js','curriculum.js','library.js','dashboard.js'])
  s=before+'<main class="app" id="mainContent" tabindex="-1">'+marker+content+bridge+footer+'</main>'+launcher+scripts+'</body></html>\n'
  save(ROOT/filename,s)
 if __name__=='__main__':
