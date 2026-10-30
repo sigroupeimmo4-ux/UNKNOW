@@ -4,7 +4,10 @@
   if(!document.getElementById('chatForm')){
     const globalBeam=document.createElement('script');
     globalBeam.src='./beam-global.js?v=beam-visible-2';
+    globalBeam.onload=()=>{const runtime=document.createElement('script');runtime.src='./beam-3d.js?v=rig-runtime-1';document.body.append(runtime);};
     document.body.append(globalBeam);
+  }else{
+    const runtime=document.createElement('script');runtime.src='./beam-3d.js?v=rig-runtime-1';document.body.append(runtime);
   }
   const desktop=matchMedia('(min-width: 901px)'),menu=document.querySelector('[data-main-menu]');
   if(!menu)return;
