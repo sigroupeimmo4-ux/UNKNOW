@@ -1,5 +1,11 @@
 /* Navigation partagée : pages statiques, barre latérale et routes existantes. */
 (() => {
+  // Charger Beam sur toutes les pages sans remplacer le panneau enrichi de app.html.
+  if(!document.getElementById('chatForm')){
+    const globalBeam=document.createElement('script');
+    globalBeam.src='./beam-global.js?v=beam-global-1';
+    document.body.append(globalBeam);
+  }
   const desktop=matchMedia('(min-width: 901px)'),menu=document.querySelector('[data-main-menu]');
   if(!menu)return;
   const collapse=document.getElementById('sidebarCollapse'),summary=menu.querySelector('summary');
