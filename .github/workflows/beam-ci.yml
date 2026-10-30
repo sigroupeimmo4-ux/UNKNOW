@@ -23,3 +23,5 @@ jobs:
         run: |
           python3 scripts/build_navigation_pages.py
           python3 scripts/build_navigation_pages.py --check
+      - name: Audit local routes and assets
+        run: python3 scripts/audit_site.py
