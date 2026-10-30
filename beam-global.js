@@ -23,7 +23,7 @@
  const note=document.createElement('p');note.className='small muted';note.textContent="Le service d'intelligence artificielle n'est pas encore configuré. Beam peut ouvrir des rubriques, mais ne génère pas encore d'explication.";
  const fresh=document.createElement('button');fresh.type='button';fresh.className='btn ghost';fresh.textContent='Nouvelle conversation';
  const quietLabel=document.createElement('label');quietLabel.className='beam-global-quiet';
- const quiet=document.createElement('input');quiet.type='checkbox';quiet.checked=localStorage.getItem('beam-quiet')==='true';
+ const quiet=document.createElement('input');quiet.type='checkbox';try{quiet.checked=localStorage.getItem('beam-quiet')==='true';}catch{quiet.checked=false;}
  quietLabel.append(quiet,document.createTextNode(' Mode discret (sans animations)'));
  panel.append(head,log,shortcuts,form,fresh,quietLabel,note);document.body.append(panel);
  function add(text,type){const p=document.createElement('p');p.className=type==='user'?'beam-global-user':'beam-global-reply';p.textContent=text;log.append(p);log.scrollTop=log.scrollHeight;}
