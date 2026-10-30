@@ -6,6 +6,14 @@ Les éléments prévus ci-dessous sont des propositions issues de l’analyse in
 
 ## Changements réalisés
 
+### 2026-10-30 — Learning Pass : grille régionale proposée
+
+- **Tarifs :** StudyBeam Free gratuit ; Sénégal XOF à 2 500 FCFA/mois ou 25 000 FCFA/an ; France EUR à 3,99 €/mois ou 39,90 €/an. L’annuel met en avant une économie exacte de deux mensualités (5 000 FCFA ou 7,98 €).
+- **Configuration :** prix, marchés, périodicités, avantages et conditions provisoires dans `data/learning-pass.json`, chargé sans cache. Pays choisi explicitement, URL dédiée par marché, aucune conversion de devise. Comparatif et cartes compactes ajoutés à la page existante.
+- **Paiements :** boutons désactivés, aucun prestataire, aucune transaction simulée ni information bancaire collectée. Prix, conditions, taxes, fonctionnalités premium et parcours parental restent à valider ; les conditions non fournies ne sont pas inventées.
+- **Préservation :** ressources gratuites, données, logo/dragon, référentiel et authentification inchangés. Aucun abonnement réel, compte ni e-mail créé.
+- **Vérifications :** 76 tests Python et 2 tests JavaScript réussis ; prix, devise, économie, historique et blocage des paiements vérifiés ; voir `docs/TARIFICATION_LEARNING_PASS.md`.
+
 ### 2026-10-30 — Mission design : interface Modern & Compact
 
 - **Présentation :** nouvelle palette demandée, cartes compactes, barre latérale fixe et réductible, icônes cohérentes, barre supérieure avec fil d’Ariane, recherche réelle, profil et paramètres. Menu mobile repliable, sans navigation par défilement dans l’accueil.

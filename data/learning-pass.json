@@ -1,1 +1,46 @@
-{"configured":false,"offers":[],"comparison":[]}
+{
+  "schema_version": 2,
+  "configured": true,
+  "version": "2026-10-30-proposal-1",
+  "status": "proposed",
+  "payments": {"enabled": false, "provider": null},
+  "validation": {
+    "prices": false,
+    "commercial_terms": false,
+    "taxes": false,
+    "payment_provider": false,
+    "premium_features": false,
+    "guardian_flow": false
+  },
+  "notice": "Grille commerciale proposée. Aucun paiement n’est ouvert. Les taxes, les avantages premium et les conditions commerciales restent à valider avant toute souscription.",
+  "guardian_notice": "Pour un élève mineur, une souscription payante devra suivre un parcours adapté avec intervention du parent ou du représentant légal lorsque nécessaire. Ce parcours n’est pas encore ouvert.",
+  "terms": {
+    "renewal": "Conditions de renouvellement à valider avant ouverture. Aucun prélèvement récurrent n’est actif.",
+    "cancellation": "Modalités de résiliation à valider et à présenter avant toute souscription. Aucun abonnement payant n’est actif.",
+    "taxes": "Le traitement des taxes et le montant final à payer restent à confirmer. Aucun montant n’est débité."
+  },
+  "markets": {
+    "SN": {
+      "country": "Sénégal", "currency": "XOF", "currency_name": "Franc CFA", "symbol": "FCFA", "minor_unit": 0,
+      "prices": {"free": {"amount_minor": 0}, "monthly": {"amount_minor": 2500}, "annual": {"amount_minor": 25000}}
+    },
+    "FR": {
+      "country": "France", "currency": "EUR", "currency_name": "Euro", "symbol": "€", "minor_unit": 2,
+      "prices": {"free": {"amount_minor": 0}, "monthly": {"amount_minor": 399}, "annual": {"amount_minor": 3990}}
+    }
+  },
+  "plans": [
+    {
+      "id": "free", "name": "StudyBeam Free", "interval": null, "period_label": "Sans abonnement",
+      "benefits": ["Cours et fiches actuellement disponibles.", "Quiz et lecture vocale disponibles dans le référentiel.", "Accès gratuit, avec une couverture scolaire encore partielle."]
+    },
+    {
+      "id": "monthly", "name": "Learning Pass mensuel", "interval": "month", "period_label": "par mois",
+      "benefits": ["Avantages premium à définir et à valider.", "Les ressources gratuites restent accessibles sans abonnement."]
+    },
+    {
+      "id": "annual", "name": "Learning Pass annuel", "interval": "year", "period_label": "par an", "featured": true,
+      "benefits": ["Avantages premium à définir et à valider.", "Les ressources gratuites restent accessibles sans abonnement."]
+    }
+  ]
+}

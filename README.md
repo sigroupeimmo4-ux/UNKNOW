@@ -12,7 +12,7 @@ StudyBeam propose un tableau de bord public, un espace de révision accessible s
 | `cours.html`, `fiches.html`, `audio.html`, `quiz.html` | Listes filtrables et activités individuelles avec `?lesson=identifiant`. |
 | `ressource.html` | Exercices, évaluations et explications associés, avec `?kind=format&lesson=identifiant`. |
 | `videos.html` | Filtres et recherche externe ; sélection vidéo encore à configurer. |
-| `learning-pass.html` | Offres et comparaison lorsque configurées ; aucun tarif inventé. |
+| `learning-pass.html` | Grille proposée Sénégal XOF / France EUR, mensuel et annuel ; paiements désactivés. |
 | `a-propos.html` | Présentation des activités, FAQ et informations sur les données. |
 | `app.html#dragon` | Aperçu du dragon officiel et état réel des personnalisations disponibles. |
 | `login.html` | Connexion par e-mail et mot de passe. |
@@ -71,7 +71,7 @@ node tests/test_curriculum_engine.cjs
 python3 scripts/build_navigation_pages.py --check
 ```
 
-La suite comprend 66 tests Python et 2 tests JavaScript. Les tests navigateur utilisent Playwright Python et Chromium, disponibles dans l’environnement cloud, et démarrent leur propre serveur temporaire. Les tests d’authentification vérifient les contrats avec le SDK simulé, y compris sous un préfixe de déploiement ; ils ne prouvent pas l’acheminement des e-mails réels.
+La suite comprend 76 tests Python et 2 tests JavaScript. Les tests navigateur utilisent Playwright Python et Chromium, disponibles dans l’environnement cloud, et démarrent leur propre serveur temporaire. Les tests d’authentification vérifient les contrats avec le SDK simulé, y compris sous un préfixe de déploiement ; ils ne prouvent pas l’acheminement des e-mails réels.
 
 Les pages publiques et formulaires ont aussi été vérifiés avec le SDK réel, sur ordinateur et à 390 px de largeur, sans débordement ni erreur JavaScript sur ces parcours.
 
@@ -93,10 +93,16 @@ Le [rapport d’audit et de correction](docs/AUDIT_MISSION1.md) distingue les fo
 
 ## Mission 1.5 — Navigation
 
-Le [compte rendu](docs/COMPTE_RENDU_MISSION15.md) décrit les pages indépendantes, les URL des vues et les vérifications. Les contenus pédagogiques et données existants sont conservés. Les vidéos et offres restent à configurer dans `data/videos.json` et `data/learning-pass.json` ; la lecture audio utilise la synthèse vocale du navigateur.
+Le [compte rendu](docs/COMPTE_RENDU_MISSION15.md) décrit les pages indépendantes, les URL des vues et les vérifications. Les contenus pédagogiques et données existants sont conservés. Les vidéos restent à configurer dans `data/videos.json`. La grille commerciale proposée du Learning Pass est centralisée dans `data/learning-pass.json`, avec paiements désactivés ; la lecture audio utilise la synthèse vocale du navigateur.
 
 Pour régénérer les neuf pages et le menu partagé après un changement du gabarit : `python3 scripts/build_navigation_pages.py`. Le contrôle `--check`, aussi exécuté avant déploiement, signale un écart sans modifier les fichiers.
 
 ## Design — Modern & Compact
 
 Le [rapport de refonte](docs/REFONTE_DESIGN_COMPACT.md) décrit la barre latérale, la barre supérieure, le nouvel accueil et la route `app.html#dragon`. Le logo et les ressources scolaires sont conservés. La reprise d’un cours utilise un historique local réel ; le prénom facultatif se règle dans les paramètres. Les anciennes données restent intactes.
+
+## Learning Pass — Tarifs régionaux proposés
+
+Choisir le pays de facturation sur `learning-pass.html` : Sénégal en XOF (2 500 FCFA/mois ou 25 000 FCFA/an), France en EUR (3,99 €/mois ou 39,90 €/an). StudyBeam Free reste gratuit. L’annuel économise deux mensualités. Aucun paiement n’est actif : avantages premium, conditions, taxes, prestataire et parcours parental restent à valider.
+
+Le [dossier commercial](docs/TARIFICATION_LEARNING_PASS.md) explique les montants en unités entières, les états de validation et les prérequis de l’intégration future. Modifier puis publier le JSON central suffit pour changer la grille ; la page le recharge sans reconstruire son HTML.

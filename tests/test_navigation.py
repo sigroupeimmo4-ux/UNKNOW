@@ -88,6 +88,7 @@ class NavigationTests(unittest.TestCase):
         self.open('videos.html');expect(self.page.locator('#libraryContent')).to_contain_text('Aucune vidéo pédagogique')
         self.assertEqual(self.page.locator('video,iframe').count(),0)
         self.assertTrue(self.page.get_by_role('link',name='Rechercher sur YouTube').is_visible())
+        self.context.route('**/data/learning-pass.json',lambda route:route.fulfill(content_type='application/json',body=json.dumps({'configured':False})))
         self.open('learning-pass.html');expect(self.page.locator('#libraryContent')).to_contain_text('Aucun abonnement ni paiement')
         self.assertEqual(self.page.locator('.offer-table').count(),0);self.assertNotIn('€',self.page.locator('#libraryContent').inner_text())
     def test_direct_link_back_button_has_safe_parent(self):
@@ -106,11 +107,14 @@ class NavigationTests(unittest.TestCase):
         self.open('cours.html?lesson=unknown');expect(self.page.locator('#libraryTitle')).to_contain_text('ne peut pas être affichée');expect(self.page.locator('#libraryContent')).to_contain_text('Aucun contenu de remplacement')
 
     def test_learning_pass_uses_only_explicit_configuration(self):
-        config={'configured':True,'offers':[{'name':'Configuration de test','priceLabel':'Tarif renseigné dans le test','benefits':['Avantage de test']}],'comparison':[{'label':'Ligne configurée','values':['Valeur de test']}]}
+        config=json.loads((Path(__file__).resolve().parents[1]/'data/learning-pass.json').read_text())
+        config['markets']['FR']['prices']['monthly']['amount_minor']=549
+        config['markets']['FR']['prices']['annual']['amount_minor']=5490
         self.context.route('**/data/learning-pass.json',lambda route:route.fulfill(content_type='application/json',body=json.dumps(config)))
-        self.open('learning-pass.html');expect(self.page.locator('#libraryContent')).to_contain_text('Configuration de test')
-        expect(self.page.locator('.offer-table')).to_contain_text('Ligne configurée')
-        self.assertNotIn('€',self.page.locator('#libraryContent').inner_text())
+        self.open('learning-pass.html?country=FR')
+        expect(self.page.locator('[data-plan=monthly] .plan-price')).to_contain_text('5,49 €')
+        expect(self.page.locator('.offer-table')).to_contain_text('5,49 €')
+        expect(self.page.locator('[data-plan=annual]')).to_contain_text('2 mois économisés')
 
     def test_missing_speech_support_keeps_transcript_without_fake_player(self):
         self.context.add_init_script("Object.defineProperty(window,'speechSynthesis',{value:undefined});")

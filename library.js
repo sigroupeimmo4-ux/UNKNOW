@@ -123,10 +123,52 @@
     const title=selected.subject?.title||'';const chapter=selected.subject?chapters(program(selected.scope,selected.subject)).find(c=>c.id===selected.chapterId)?.title||'':'';
     const search=link('Rechercher sur YouTube','https://www.youtube.com/results?search_query='+encodeURIComponent([selected.grade,title,chapter,selected.q,'cours'].filter(Boolean).join(' ')),'btn ghost');search.target='_blank';search.rel='noopener noreferrer';box.append(search,node('p','Les résultats sont externes et ne sont pas validés par StudyBeam.','small muted'));
   }
-  async function pass(){header('Learning Pass','Les offres StudyBeam seront présentées ici lorsqu’elles seront configurées.');const response=await fetch('./data/learning-pass.json');if(!response.ok)throw new Error('Configuration des offres indisponible');const config=await response.json();
-    if(!config.configured||!Array.isArray(config.offers)||!config.offers.length){empty('Les formules, tarifs et avantages ne sont pas encore configurés. Aucun abonnement ni paiement n’est proposé pour le moment.');return;}
-    const g=grid();for(const offer of config.offers){if(typeof offer.name!=='string'||typeof offer.priceLabel!=='string'||!Array.isArray(offer.benefits))continue;const el=node('article',undefined,'route-card');el.append(node('h2',offer.name),node('p',offer.priceLabel));const list=node('ul');offer.benefits.forEach(value=>list.append(node('li',String(value))));el.append(list);g.append(el);}
-    if(Array.isArray(config.comparison)&&config.comparison.length){const wrapper=node('div',undefined,'table-scroll'),table=node('table',undefined,'offer-table'),head=node('tr');head.append(node('th','Avantages'));for(const offer of config.offers)head.append(node('th',offer.name));const thead=node('thead');thead.append(head);table.append(thead);const body=node('tbody');for(const row of config.comparison){if(typeof row.label!=='string'||!Array.isArray(row.values)||row.values.length!==config.offers.length)continue;const tr=node('tr');tr.append(node('th',row.label));row.values.forEach(value=>tr.append(node('td',String(value))));body.append(tr);}table.append(body);wrapper.append(table);box.append(wrapper);}
+  async function pass(){
+    header('Learning Pass','Choisis ton pays de facturation pour consulter les tarifs régionaux proposés.');
+    const response=await fetch('./data/learning-pass.json',{cache:'no-store'});
+    if(!response.ok)throw new Error('Configuration des offres indisponible');
+    const config=await response.json();
+    if(!config.configured){empty('Les formules, tarifs et avantages ne sont pas encore configurés. Aucun abonnement ni paiement n’est proposé pour le moment.');return;}
+    if(config.schema_version!==2||!config.markets||!Array.isArray(config.plans)||!config.terms)throw new Error('Configuration commerciale invalide');
+    box.append(node('p',config.notice,'alert'));
+    const field=node('div',undefined,'billing-country');const label=node('label','Pays de facturation');label.htmlFor='billingCountry';
+    const country=node('select');country.id='billingCountry';country.name='country';country.add(new Option('Choisir un pays',''));
+    for(const [id,market] of Object.entries(config.markets))country.add(new Option(market.country+' — '+market.currency,id));
+    const countryId=params.get('country')||'';country.value=Object.hasOwn(config.markets,countryId)?countryId:'';
+    field.append(label,country);box.append(field);
+    country.addEventListener('change',()=>location.assign(href(files.pass,{country:country.value})));
+    if(!country.value){empty(countryId?'Ce pays de facturation n’est pas pris en charge. Choisis un pays proposé.':'Sélectionne ton pays pour afficher StudyBeam Free et les formules mensuelle et annuelle.');return;}
+    const market=config.markets[country.value];
+    const plans=['free','monthly','annual'].map(id=>config.plans.find(p=>p.id===id));
+    if(!['XOF','EUR'].includes(market.currency)||market.minor_unit!==({XOF:0,EUR:2}[market.currency])||plans.some(p=>!p||!Array.isArray(p.benefits))||plans.some(p=>!Number.isSafeInteger(market.prices?.[p.id]?.amount_minor)||market.prices[p.id].amount_minor<0)||market.prices.free.amount_minor!==0)throw new Error('Tarifs incomplets');
+    const money=amount=>new Intl.NumberFormat('fr-FR',{minimumFractionDigits:market.minor_unit,maximumFractionDigits:market.minor_unit}).format(amount/10**market.minor_unit)+' '+market.symbol;
+    const monthly=market.prices.monthly.amount_minor,annual=market.prices.annual.amount_minor;
+    const yearlyMonthly=monthly*12,saving=yearlyMonthly-annual;
+    if(!Number.isSafeInteger(yearlyMonthly))throw new Error('Tarifs invalides');
+    const savingText=saving>0?'Économise '+money(saving)+' par an par rapport à 12 mensualités ('+money(yearlyMonthly)+').':'';
+    const currency=node('p',market.country+' · '+market.currency+' — '+market.currency_name,'small muted');box.append(currency);
+    const g=grid();g.classList.add('pricing-grid');
+    for(const plan of plans){
+      const featured=plan.id==='annual',el=node('article',undefined,'route-card pricing-card'+(featured?' featured':''));el.dataset.plan=plan.id;
+      if(featured)el.append(node('span','Formule annuelle','pricing-badge'));
+      el.append(node('h2',plan.name));const price=node('p',plan.id==='free'?'Gratuit':money(market.prices[plan.id].amount_minor),'plan-price');price.dataset.currency=market.currency;price.dataset.amountMinor=market.prices[plan.id].amount_minor;
+      el.append(price,node('p',plan.period_label,'plan-period'));
+      if(featured&&saving>0){el.append(node('p',saving===monthly*2?'2 mois économisés':'Économie annuelle','saving-label'),node('p',savingText,'small'));}
+      const list=node('ul');plan.benefits.forEach(value=>list.append(node('li',String(value))));el.append(list);
+      if(plan.id==='free'){el.append(node('p','Sans renouvellement payant. Aucune résiliation d’abonnement nécessaire.','small muted'),link('Continuer gratuitement','./programmes.html','btn ghost'));}
+      else{
+        const terms=node('div',undefined,'plan-terms');terms.append(node('strong','Renouvellement'),node('p',config.terms.renewal),node('strong','Résiliation'),node('p',config.terms.cancellation));el.append(terms);
+        // Aucune configuration JSON ne peut activer un paiement dans ce client statique.
+        const button=node('button','Paiement indisponible','btn');button.type='button';button.disabled=true;button.setAttribute('aria-describedby','paymentAvailability');el.append(button);
+      }
+      g.append(el);
+    }
+    box.append(node('p','Aucun achat ni abonnement payant ne peut être effectué sur cette page.','small muted'));box.lastElementChild.id='paymentAvailability';
+    const wrapper=node('div',undefined,'table-scroll'),table=node('table',undefined,'offer-table');wrapper.tabIndex=0;wrapper.setAttribute('role','region');wrapper.setAttribute('aria-label','Tableau comparatif des formules');box.append(node('p','Sur petit écran, fais défiler le tableau horizontalement pour comparer les formules.','small muted pricing-table-hint'));table.append(node('caption','Comparaison des formules — '+market.country+' ('+market.currency+')'));
+    const head=node('tr');head.append(node('th','Formule'));plans.forEach(p=>head.append(node('th',p.name)));const thead=node('thead');thead.append(head);table.append(thead);const body=node('tbody');
+    const rows=[['Tarif proposé',...plans.map(p=>p.id==='free'?'Gratuit':money(market.prices[p.id].amount_minor))],['Périodicité',...plans.map(p=>p.period_label)],['Ressources gratuites disponibles','Accessibles','Accessibles sans abonnement','Accessibles sans abonnement'],['Avantages premium','Non inclus','À définir et à valider','À définir et à valider'],['Économie sur 12 mensualités','Sans objet','Sans objet',saving>0?money(saving):'Aucune'],['Souscription payante','Sans abonnement','Non ouverte','Non ouverte']];
+    for(const values of rows){const tr=node('tr');values.forEach((value,i)=>{const cell=node(i===0?'th':'td',value);if(i===0)cell.scope='row';tr.append(cell);});body.append(tr);}table.append(body);wrapper.append(table);box.append(wrapper);
+    const conditions=node('section',undefined,'pricing-conditions');conditions.append(node('h2','Avant toute souscription'),node('p',config.terms.taxes),node('p',config.guardian_notice),node('p','Le prix final et sa devise devront être annoncés avant la validation du paiement. Les tarifs sont configurés par marché, sans conversion automatique.'));box.append(conditions);
   }
   $('libraryBack').onclick=()=>{try{if(history.length>1&&document.referrer&&new URL(document.referrer).origin===location.origin){history.back();return;}}catch{}location.assign(parentUrl);};
   $('libraryMenuLink').onclick=event=>{event.preventDefault();const menu=document.querySelector('[data-main-menu]');menu.open=true;(matchMedia('(min-width: 901px)').matches?menu.querySelector('a'):menu.querySelector('summary')).focus({preventScroll:true});};
