@@ -20,6 +20,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Regenerate navigation pages for deployment
         run: python3 scripts/build_navigation_pages.py
+      - name: Audit local routes and assets
+        run: python3 scripts/audit_site.py
       - uses: actions/configure-pages@v5
         with:
           enablement: true
@@ -28,3 +30,14 @@ jobs:
           path: .
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify public routes (catch 404 after deploy)
+        shell: bash
+        run: |
+          set -euo pipefail
+          SITE="${{ steps.deployment.outputs.page_url }}"
+          for route in index.html calendrier.html mes-notes.html beam-3d-apercu.html; do
+            echo "Checking ${SITE}${route}"
+            curl --fail --location --silent --show-error --retry 6 --retry-all-errors --retry-delay 4 \
+              "${SITE}${route}?check=${{ github.sha }}" -o /tmp/studybeam-page.html
+            grep -qi '<html' /tmp/studybeam-page.html
+          done
