@@ -64,7 +64,7 @@ function searchVideos(){const context=window.studybeamSchool.getContext();const 
 const palettes=window.studybeamAppearance.palettes;
 function setTheme(name){window.studybeamAppearance.applyTheme(name);document.querySelectorAll('.themebtn').forEach(button=>button.setAttribute('aria-pressed',String(button.textContent===name)));}
 for(const name of Object.keys(palettes)){const button=document.createElement('button');button.className='themebtn';button.textContent=name;button.onclick=()=>{setTheme(name);window.studybeamStorage.set('sw-theme',name);};document.getElementById('themes').append(button);}
-const theme=window.studybeamStorage.get('sw-theme');setTheme(Object.hasOwn(palettes,theme)?theme:'Lavande');
+const theme='PastelDream';setTheme(theme);
 const fontSize=document.getElementById('fontSize'),storedSize=window.studybeamStorage.get('sw-size');fontSize.value=['16','18','20','22'].includes(storedSize)?storedSize:'16';document.documentElement.style.fontSize=fontSize.value+'px';
 fontSize.onchange=()=>{document.documentElement.style.fontSize=fontSize.value+'px';window.studybeamStorage.set('sw-size',fontSize.value);};
 const outfits=['Classique','Professeur','Super-héros','Astronaute','Détective','Pirate','Licorne','Magicien'],costume=document.getElementById('costume');outfits.forEach(name=>costume.add(new Option(name,name)));const savedOutfit=window.studybeamStorage.get('sw-costume');costume.value=outfits.includes(savedOutfit)?savedOutfit:'Classique';function displayOutfit(){document.getElementById('costumeBadge').textContent=costume.value;};costume.onchange=()=>{displayOutfit();window.studybeamStorage.set('sw-costume',costume.value);};displayOutfit();
