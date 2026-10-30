@@ -21,10 +21,45 @@
     document.getElementById('beamActionStatus').textContent = 'Beam a ouvert : ' + names[action.page];
     return 'J’ai ouvert : ' + names[action.page] + '.';
   }
-  document.getElementById('beamLauncher').onclick = () => {showPage('tutor'); input.focus();};
+  // Le panneau flottant n'interrompt pas la page scolaire consultée.
+  document.getElementById('beamLauncher').onclick = () => window.studybeamBeamPanel?.open();
   document.querySelectorAll('[data-beam-page]').forEach(button => button.onclick = () => {
     bubble(act({name:'open_activity',page:button.dataset.beamPage}), 'bot');
   });
+
+  // Panneau indépendant : la conversation reste disponible sans changer de page.
+  const aside=document.createElement('aside');
+  aside.className='beam-dock'; aside.id='beamDock'; aside.hidden=true;
+  aside.setAttribute('aria-label','Conversation avec Beam');
+  const heading=document.createElement('div'); heading.className='beam-dock-head';
+  const title=document.createElement('strong'); title.textContent='Beam · mon compagnon';
+  const close=document.createElement('button');close.type='button';close.className='btn ghost';close.textContent='Fermer';close.setAttribute('aria-label','Fermer Beam');
+  heading.append(title,close);
+  const tools=document.createElement('div');tools.className='beam-dock-tools';
+  const fresh=document.createElement('button');fresh.type='button';fresh.className='btn ghost';fresh.textContent='Nouvelle conversation';
+  const quiet=document.createElement('label');quiet.className='beam-quiet-label';const quietBox=document.createElement('input');quietBox.type='checkbox';quietBox.checked=window.studybeamStorage?.get('beam-quiet')==='true';quiet.append(quietBox,document.createTextNode(' Mode discret'));
+  tools.append(fresh,quiet);
+  const prompts=document.createElement('div');prompts.className='beam-prompts';
+  const suggestions=['Explique-moi un cours','Donne-moi un indice','Aide-moi à faire un exercice','Prépare une fiche de révision','Fais-moi réviser','Teste mes connaissances'];
+  for(const suggestion of suggestions){const b=document.createElement('button');b.type='button';b.className='btn ghost';b.textContent=suggestion;b.addEventListener('click',()=>{input.value=suggestion;input.focus();});prompts.append(b);}
+  const tutorial=document.getElementById('tutor');
+  const agentConnection=document.getElementById('agentConnection');
+  const note=document.createElement('p');note.className='small muted';note.textContent='La génération de réponses nécessite le service IA serveur. Sans connexion, seuls les raccourcis fonctionnent.';
+  aside.append(heading,agentConnection,prompts,transcript,form,status,tools,note);
+  document.body.append(aside);
+  const reopen=document.createElement('button');reopen.type='button';reopen.className='btn';reopen.textContent='Ouvrir le chat Beam';reopen.onclick=()=>openDock();
+  tutorial.querySelector('.pagebox')?.append(reopen);
+  const launcher=document.getElementById('beamLauncher');
+  function openDock(){aside.hidden=false;launcher.setAttribute('aria-expanded','true');input.focus();}
+  function closeDock(){aside.hidden=true;launcher.setAttribute('aria-expanded','false');launcher.focus();}
+  close.onclick=closeDock;
+  fresh.onclick=()=>{history.length=0;transcript.replaceChildren();bubble('Coucou ! Je suis Beam, ton compagnon d’apprentissage. Qu’est-ce qu’on découvre aujourd’hui ?','bot');status.textContent='';input.focus();};
+  quietBox.onchange=()=>{window.studybeamStorage?.set('beam-quiet',String(quietBox.checked));document.documentElement.classList.toggle('beam-quiet',quietBox.checked);};
+  document.documentElement.classList.toggle('beam-quiet',quietBox.checked);
+  window.studybeamBeamPanel={open:openDock,close:closeDock};
+  document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!aside.hidden)closeDock();});
+  // L'avatar ne doit jamais masquer les principaux contrôles d'un formulaire.
+
   let service = null;
   try {
     if (endpoint) {
@@ -77,4 +112,14 @@
       clearTimeout(timer);busy=false;send.disabled=false;input.disabled=false;form.setAttribute('aria-busy','false');
     }
   });
+  document.addEventListener('studybeam:demo-quiz-completed',event=>{
+    const score=event.detail?.score,total=event.detail?.total;
+    if(!Number.isInteger(score)||!Number.isInteger(total)||total<=0||score<0||score>total)return;
+    if(quietBox.checked)return;
+    document.documentElement.classList.remove('beam-celebrate');
+    if(score===total)document.documentElement.classList.add('beam-celebrate');
+    const toast=document.getElementById('beamActionStatus');
+    if(toast)toast.textContent=score===total?'Bravo pour ton quiz de démonstration !':'Tu avances ! Tu peux revoir la fiche et réessayer.';
+  });
+
 })();

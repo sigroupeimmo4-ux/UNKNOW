@@ -131,3 +131,37 @@ body .quick-card:nth-child(4) .quick-icon{background:#F8DCCE;color:#704B3D}
 body .quick-card:nth-child(5) .quick-icon{background:#C5E9D9;color:#295A47}
 body :is(button,a,input,select,textarea):focus-visible{outline:3px solid #527F99;outline-offset:3px}
 @media print{body{background:#FFFFFF;color:#000000}}
+
+
+/* Beam dock : dialog-like sidebar without stealing course navigation */
+.beam-dock[hidden]{display:none!important}
+.beam-dock{position:fixed;z-index:75;right:18px;bottom:92px;width:min(390px,calc(100vw - 36px));max-height:min(650px,calc(100dvh - 112px));display:flex;flex-direction:column;gap:10px;background:#fff;border:1px solid #DDE6E6;box-shadow:0 15px 48px #34434A24;border-radius:18px;padding:16px;color:#34434A}
+.beam-dock-head,.beam-dock-tools{display:flex;justify-content:space-between;gap:8px;align-items:center}
+.beam-dock-head strong{font-size:1rem}
+.beam-dock .chat{overflow:auto;flex:1 1 160px;min-height:100px;max-height:none;height:auto;background:#FAF9F5;border-radius:10px;padding:9px}
+.beam-dock #chatForm{display:flex;flex-wrap:wrap;gap:7px;flex:none}
+.beam-dock #chatForm label{width:100%}
+.beam-dock #chatForm input{min-width:0;flex:1 1 130px}
+.beam-dock #agentStatus{margin:0}
+.beam-prompts{display:flex;gap:6px;flex-wrap:wrap;max-height:110px;overflow-y:auto}
+.beam-prompts .btn{padding:5px 9px;min-height:32px;font-size:.73rem}
+.beam-quiet-label{display:flex;gap:6px;align-items:center;font-size:.78rem}
+.beam-quiet-label input{width:16px;height:16px;min-height:0}
+.beam-dock .btn{flex-shrink:0}
+.beam-creator{margin-top:12px;display:grid;gap:8px}
+.beam-creator label{margin:0}
+.beam-creator select{max-width:350px}
+.beam-creator .row{margin-top:5px}
+#dragon .dragon-preview{position:relative;isolation:isolate}
+.beam-accessory-preview{position:absolute;pointer-events:none;inset:0;display:flex;align-items:flex-end;justify-content:space-around;padding:0 12px 46px;z-index:2}
+.beam-accessory-preview span{font-size:clamp(28px,3vw,44px);filter:drop-shadow(0 2px 2px #34434A50)}
+.beam-overlay-accessoire{transform:translateY(-35px)}
+.beam-launcher img{animation:beam-breathe 4s ease-in-out infinite}
+@keyframes beam-breathe{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+.beam-quiet .beam-launcher img{animation:none}
+@media(prefers-reduced-motion:reduce){.beam-launcher img{animation:none!important}}
+@media(max-width:650px){.beam-dock{right:8px;left:8px;bottom:80px;width:auto;max-height:calc(100dvh - 100px);padding:12px}.beam-prompts{max-height:76px}.beam-launcher{bottom:12px;right:12px}}
+
+.beam-celebrate:not(.beam-quiet) .beam-launcher img{animation:beam-joy .75s ease-in-out 2}
+@keyframes beam-joy{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-13px) rotate(-7deg)}}
+@media(prefers-reduced-motion:reduce){.beam-celebrate .beam-launcher img{animation:none!important}}
