@@ -10,13 +10,14 @@
     if(typeof id!=='string'||!/^[a-z0-9-]+$/.test(id))return;
     records=[{id,at:new Date().toISOString()},...records.filter(item=>item?.id!==id)].slice(0,20);
     storage.set('sw-learning-history',JSON.stringify({items:records}));
+    document.dispatchEvent(new Event('studybeam:history-changed'));
   }
   window.studybeamDashboard={remember,refresh:()=>render()};
   const welcomes=document.querySelectorAll('[data-welcome]');
   function greeting(){const name=(storage.get('sw-display-name')||'').trim().slice(0,50);welcomes.forEach(el=>el.textContent=name?'Bonjour '+name+' !':'Bonjour !');}
   greeting();
   const nameForm=document.getElementById('displayNameForm');
-  if(nameForm){const input=document.getElementById('displayName');input.value=(storage.get('sw-display-name')||'').slice(0,50);nameForm.onsubmit=event=>{event.preventDefault();storage.set('sw-display-name',input.value.trim().slice(0,50));greeting();document.getElementById('displayNameStatus').textContent='Prénom enregistré sur cet appareil.';};}
+  if(nameForm){const input=document.getElementById('displayName');input.value=(storage.get('sw-display-name')||'').slice(0,50);nameForm.onsubmit=event=>{event.preventDefault();storage.set('sw-display-name',input.value.trim().slice(0,50));greeting();document.dispatchEvent(new CustomEvent('studybeam:profile-changed',{detail:{name:input.value.trim().slice(0,50)}}));document.getElementById('displayNameStatus').textContent='Prénom enregistré sur cet appareil.';};}
   const score=key=>{const value=storage.get(key);return value!==null&&/^[0-3]$/.test(value)?Number(value):null;};
   async function render(){
     let valid=[];let available=false;
