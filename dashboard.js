@@ -42,7 +42,17 @@
       box.replaceChildren();const panel=make('section',undefined,'learning-summary');const head=make('div',undefined,'summary-heading');head.append(make('h2','Ma progression'),action('Voir le détail →','./app.html#progress','text-link'));panel.append(head);
       const stats=make('div',undefined,'summary-stats');
       for(const [label,value,detail] of [['Cours consultés',available?String(valid.length):'—','Historique local, jusqu’à 20 cours'],['Chapitres terminés','—','La fin d’un chapitre n’est pas suivie'],['Dernier quiz',score('sw-last')===null?'—':score('sw-last')+'/3','Quiz de démonstration uniquement']]){const stat=make('div',undefined,'summary-stat');stat.append(make('span',label),make('strong',value),make('small',detail));stats.append(stat);}
-      const note=make('div',undefined,'summary-notes');note.append(make('p','Notions à revoir : aucune donnée enregistrée.'),make('p','Objectifs personnels : aucun objectif enregistré.'));panel.append(stats,note);box.append(panel);
+      const note=make('div',undefined,'summary-notes');
+      const core=window.studybeamPlannerData;
+      if(core){
+        const grades=core.gradeSummary(core.parseList(storage.get('studybeam-grades-v1')));
+        const goals=core.goalItems(storage.get('studybeam-goals-v1'));
+        const revisions=core.upcomingEvents(core.parseList(storage.get('studybeam-calendar-v1')),new Date(),7,60).filter(e=>e.type==='revision'&&!e.overdue);
+        note.append(make('p',grades.length?'Notes suivies : '+grades.length+' matière(s), consulte leur évolution plus haut.':'Notes suivies : ajoute tes notes pour voir tes moyennes.'));
+        note.append(make('p',revisions.length?'Révisions planifiées sur les 7 prochains jours : '+revisions.length+'.':'Révisions planifiées : aucune dans les 7 prochains jours.'));
+        note.append(make('p',goals.length?'Objectifs personnels : '+goals.filter(x=>x.done).length+'/'+goals.length+' réalisés.':'Objectifs personnels : aucun objectif encore enregistré.'));
+      }else note.append(make('p','Tes données locales ne peuvent pas être lues pour le moment.'));
+      panel.append(stats,note);box.append(panel);
     }
   }
   if(document.querySelector('[data-resume],[data-learning-summary]'))render();

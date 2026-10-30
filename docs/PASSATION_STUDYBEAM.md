@@ -139,3 +139,16 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - La page `beam-3d-apercu.html` n'affiche plus le prototype WebGL géométrique rejeté ; elle présente une information claire et l'illustration officielle provisoire, avec liens fonctionnels vers l'accueil et le chat.
 - Elle ne contient plus de contrôles d'animation trompeurs ; un vrai GLB riggé, son apparence vert pomme/yeux marron et ses animations restent des objectifs, non des fonctionnalités terminées.
 - Contrôle CI et publication à valider. Le rollback du prototype sur les pages principales a été publié via PR #21, GitHub Pages run 41128560380, avec vérification HTTP des routes réussie.
+
+## 30 octobre 2026 — Tableau de bord scolaire : organisation et progression réelles
+- Demande : appliquer les améliorations StudyBeam proposées après l'audit, en commençant par le tableau de bord, l'organisation des révisions et les notes, sans casser Pastel Dream ou les fonctionnalités de Beam.
+- Sauvegarde avant modification : `backup-before-student-dashboard-20261030`. Branche de travail : `student-dashboard-improvements-20261030`.
+- Nouveau `planner-data.js` : fonctions pures, sans accès serveur, pour calculer les événements du calendrier (dont les révisions hebdomadaires), les contrôles en retard, la moyenne indicative sur 20 et les objectifs. Aucune valeur scolaire simulée. Valeurs invalides/JSON mal formés rejetés.
+- Nouveau `planner-dashboard.js` : sur `app.html#home`, panneau « Mes révisions et mes devoirs » montrant les événements du jour, les échéances à 7 jours, un agenda compact, la moyenne réelle des notes locales, les résultats par matière et une liste d'objectifs personnels éditables (ajouter, cocher, supprimer) ; liens directs vers calendrier et notes.
+- Nouveau `planner-dashboard.css` : cartes Pastel Dream, affichage adaptatif, boutons utilisables au clavier et lisibilité mobile.
+- `dashboard.js` : les anciennes mentions « aucune notion à revoir » ou « aucun objectif » sont remplacées par les véritables nombres d'objectifs, de révisions et de matières suivies, si présents.
+- `school-tools.js` : modification d'une note déjà enregistrée sans la supprimer ni la dupliquer, avec commande Annuler la modification.
+- Fichiers de raccordement : `app.html`, `calendrier.html`, `mes-notes.html`, `scripts/build_navigation_pages.py` (versions d'assets) ; `.github/workflows/beam-ci.yml` (contrôle syntaxique + tests Node du calculateur) ; `tests/test-planner.js`.
+- Les données calendrier, notes et objectifs sont stockées **sur cet appareil** (localStorage) ; pas de synchronisation Supabase. Protéger le navigateur sur ordinateur partagé. Pas de rappels hors page ouverte.
+- À vérifier avant d'annoncer publication : génération des pages + `--check`, contrôle des liens, tests unitaires Node, CI, smoke HTTP après déploiement. Tests interactifs réels sur ordinateurs/téléphones restent à effectuer.
+- Les autres améliorations proposées (IA Beam serveur, enrichissement du programme, contenu vidéo validé, paiement sécurisé, protection des mineurs, tests Auth et accessibilité avancés) restent des chantiers séparés : ne pas les annoncer comme terminés.
