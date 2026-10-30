@@ -61,6 +61,12 @@ for path in HTML_FILES:
     parser = LocalLinks(path)
     parser.feed(path.read_text(encoding="utf-8"))
 
+# The unapproved geometric WebGL prototype is intentionally absent from student pages.
+for public_page in ("index.html", "calendrier.html", "mes-notes.html", "navigation.js"):
+    content = (ROOT / public_page).read_text(encoding="utf-8")
+    if "beam-live.js" in content:
+        ISSUES.append(f"{public_page}: unapproved Beam WebGL prototype is loaded")
+
 for required in ("index.html", "app.html", "calendrier.html", "mes-notes.html",
                  "beam-3d-apercu.html", "login.html", "signup.html"):
     if not (ROOT / required).is_file():

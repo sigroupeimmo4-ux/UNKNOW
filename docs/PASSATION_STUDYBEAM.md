@@ -123,3 +123,13 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Publication : GitHub Pages **succès**, [Actions 41084707883](https://github.com/sigroupeimmo4-ux/UNKNOW/actions/runs/41084707883).
 - Les contrôles HTTP après publication ont réussi pour l'accueil, le calendrier, les notes et `beam-3d-apercu.html`.
 - Les parcours réels en navigateur, l'accessibilité, la synchronisation Supabase, la voix/IA et la qualité du contenu restent non validés / partiels comme indiqué dans le rapport d'audit.
+
+## 30 octobre 2026 — Correctif après rejet du modèle de Beam
+- Retour utilisateur : **« la mascotte BEAM est horrible »**. Le dragon fabriqué en formes géométriques `beam-live.js` ne répond pas à la direction visuelle souhaitée et ne doit plus être présenté comme un modèle 3D final.
+- Sauvegarde `backup-before-beam-visual-repair-20261030` ; branche de correction `beam-visual-repair-20261030`.
+- Retrait de l'import `beam-live.js` des pages principales (navigation partagée, index, calendrier, notes). Le module de démonstration reste dans le dépôt pour l'historique technique, mais n'est plus chargé automatiquement pour les élèves.
+- Le lanceur du chat revient provisoirement au dragon officiel WebP, sans fausse animation de respiration CSS. Le chat, les cours, comptes et données restent inchangés.
+- `scripts/build_navigation_pages.py` actualise la version de `navigation.js` pour empêcher l'ancienne mise en cache. `scripts/audit_site.py` interdit désormais de recharger le prototype rejeté dans les pages publiques.
+- Nouvelle référence : `docs/DIRECTION_ARTISTIQUE_BEAM_3D.md` (dragon de qualité film, vert pomme, iris marron, sans fiole, expressions et véritables animations riggées).
+- **À faire** : un vrai modèle GLB sculpté et riggé, validé visuellement par l'utilisateur, avec visèmes et tests smartphone. Les maquettes générées sont des images, non des fichiers 3D. Ne pas annoncer « Beam 3D achevé ».
+- Fusion et publication : à renseigner après réussite des tests GitHub Actions et des URL publiques.
