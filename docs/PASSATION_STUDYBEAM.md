@@ -152,3 +152,10 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Les données calendrier, notes et objectifs sont stockées **sur cet appareil** (localStorage) ; pas de synchronisation Supabase. Protéger le navigateur sur ordinateur partagé. Pas de rappels hors page ouverte.
 - À vérifier avant d'annoncer publication : génération des pages + `--check`, contrôle des liens, tests unitaires Node, CI, smoke HTTP après déploiement. Tests interactifs réels sur ordinateurs/téléphones restent à effectuer.
 - Les autres améliorations proposées (IA Beam serveur, enrichissement du programme, contenu vidéo validé, paiement sécurisé, protection des mineurs, tests Auth et accessibilité avancés) restent des chantiers séparés : ne pas les annoncer comme terminés.
+
+## Validation du tableau de bord — 30 octobre 2026
+- PR [#23](https://github.com/sigroupeimmo4-ux/UNKNOW/pull/23) fusionnée : `student-dashboard-improvements-20261030` → `main`.
+- CI [41133111196](https://github.com/sigroupeimmo4-ux/UNKNOW/actions/runs/41133111196) : **succès** pour `node --check`, tests `tests/test-planner.js` (dates, récurrence, échéances, notes et objectifs), régénération des pages et audit des liens/ressources.
+- Publication GitHub Pages [41133168611](https://github.com/sigroupeimmo4-ux/UNKNOW/actions/runs/41133168611) : **succès**. Vérification HTTP publique post-déploiement **réussie** pour accueil, calendrier, notes et aperçu Beam.
+- Page utilisateur à tester : `https://sigroupeimmo4-ux.github.io/UNKNOW/app.html` (accueil élève), plus `calendrier.html` et `mes-notes.html`.
+- Tests manuels navigateur et Auth pas encore réalisés : ce déploiement ne garantit pas la qualité du rendu visuel ni la synchronisation entre appareils.
