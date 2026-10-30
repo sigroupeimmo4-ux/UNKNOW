@@ -81,3 +81,11 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Le déclencheur flottant affiche uniquement le dragon officiel ; fond, bordure, libellé et pilule supprimés. Le clic ouvre le chat existant. Responsive mobile et focus clavier préservés.
 - La version GLB, si un modèle réel est ajouté ultérieurement, reste prise en charge par `beam-3d.js`. Aucun modèle `assets/beam-rigged.glb` n'est actuellement disponible : le dragon reste une illustration WebP et ses membres/visage ne sont **pas encore articulés**. Ne pas déclarer la mission d'animation 3D achevée.
 - Tests CI et état de publication à confirmer. Inspection visuelle du site et essais en conditions réelles encore nécessaires.
+
+## 30 octobre 2026 — Première version Beam 3D animé en direct
+- Branche `beam-live-3d-20261030`; fichiers `beam-live.js`, `beam-3d-apercu.html`, `navigation.js`, `index.html`, `app.html`, `design.css`, `scripts/build_navigation_pages.py` et CI.
+- Nouveau dragon WebGL procédural composé de volumes 3D (tête, yeux/paupières, bouche/mâchoire, ailes et queue articulées), couleurs lavande/bleu/crème/doré, animation à chaque frame, salutation et joie. Il est distinct d'une image 2D CSS.
+- Démonstration prévue : `/beam-3d-apercu.html` avec bouton de parole par synthèse vocale du navigateur, arrêt de la voix et animations. La bouche suit approximativement un mouvement de parole, PAS des visèmes ni une analyse phonémique.
+- Le lanceur flottant des pages peut afficher cette version 3D ; si chargement Three.js échoue, l'image de Beam reste visible.
+- Limites : pas de modèle GLB riggé d'artiste, rendu stylisé et non qualité cinéma, fidélité visuelle à valider par l'utilisateur, pas de voix IA côté serveur, ni synchronisation labiale phonème-par-phonème. Tests sur navigateur/appareil réels encore nécessaires.
+- Après merge : confirmer succès GitHub Actions et GitHub Pages avant d'annoncer la publication, et tester visuellement la présence du WebGL.
