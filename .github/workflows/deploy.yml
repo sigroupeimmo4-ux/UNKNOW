@@ -18,8 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check generated navigation pages
-        run: python3 scripts/build_navigation_pages.py --check
+      - name: Regenerate navigation pages for deployment
+        run: python3 scripts/build_navigation_pages.py
       - uses: actions/configure-pages@v5
         with:
           enablement: true

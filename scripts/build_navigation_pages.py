@@ -27,13 +27,13 @@ def topbar():
  return '<header class="topbar design-topbar"><nav class="topnav" aria-label="Navigation principale"><nav class="top-breadcrumb" aria-label="Vous êtes ici"><a href="./index.html">Mon espace</a><span aria-hidden="true">/</span><span id="topPageName">Accueil</span></nav><form class="global-search" action="./cours.html" method="get" role="search"><label class="sr-only" for="globalSearch">Rechercher un cours</label>'+icon('search')+'<input id="globalSearch" name="q" type="search" placeholder="Rechercher un cours…" maxlength="100"><button type="submit" aria-label="Lancer la recherche">↵</button></form><div class="top-account"><a class="account-settings" href="./app.html#settings" aria-label="Paramètres du compte" title="Paramètres du compte">'+icon('settings')+'</a><a class="profile-link" href="./app.html#settings" aria-label="Mon profil" title="Mon profil"><span class="profile-avatar">'+icon('user')+'</span><span class="profile-label">Mon profil</span></a></div></nav></header>'
 def update_menu(s):
  s=s.replace('./index.html#confidentialite','./a-propos.html#confidentialite')
- s=s.replace('./design.css?v=compact1','./design.css?v=pricing1')
+ s=s.replace('./design.css?v=compact1','./design.css?v=pastel-dream-1')
  s=re.sub(r'<details class="route-menu".*?</details>',lambda m:menu(),s,flags=re.S)
  s=re.sub(r'<header class="(?:topbar[^"]*|site-header)">.*?</header>',lambda m:topbar(),s,count=1,flags=re.S)
  if 'navigation.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./navigation.css?v=mission15"></head>',1)
  if 'design.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./design.css?v=compact1"></head>',1)
  s=re.sub(r'<script defer src="./navigation.js[^"]*"></script>','',s)
- nav_script='<script defer src="./navigation.js?v=compact1"></script>'
+ nav_script='<script defer src="./navigation.js?v=pastel-fix-2"></script>'
  marker='<script defer src="./storage.js'
  if marker not in s:marker='<script defer src="https://cdn.jsdelivr.net'
  if marker in s:s=s.replace(marker,nav_script+marker,1)
