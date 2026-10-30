@@ -57,3 +57,12 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Le compagnon peut aussi être chargé depuis la landing publique ; les autres pages réutilisent le lanceur existant.
 - **Non opérationnel à ce stade :** modèle 3D riggé original, ailes/yeux/bouche articulés, rig facial et visèmes, voix TTS, costumes réellement intégrés au squelette, connexion de Beam IA. Ne pas annoncer Beam comme « 3D vivant » avant un GLB officiel et des tests.
 - Après fusion : confirmer GitHub Actions, GitHub Pages et inspecter l'affichage en navigateur. Ajouter le lien et l'état de la PR dans la présente section.
+
+## 30 octobre 2026 — Publication du calendrier et du suivi des notes
+- Branche de travail : `calendar-grades-20261030` ; sauvegarde : `backup-before-calendar-progress-20261030`.
+- Fichiers : `school-tools.js`, `school-tools.css`, `calendrier.html`, `mes-notes.html`, `scripts/build_navigation_pages.py`.
+- `calendrier.html` : calendrier mensuel, hebdomadaire, liste ; événements avec matière, date, horaires, chapitre facultatif, récurrence hebdomadaire, édition/suppression avec confirmation, état terminé, rappels visibles seulement lorsque la page est ouverte.
+- `mes-notes.html` : saisie de notes, normalisation indicative sur 20, moyenne et courbe SVG interactive au sens de filtre par matière, historique et suppression.
+- Stockage : `localStorage` seulement sur l'appareil courant, pas de synchronisation Supabase ; aucune notification système ni rappel lorsque le navigateur est fermé. Ne pas présenter ces fonctionnalités comme opérationnelles.
+- Navigation latérale : ajout des liens par `scripts/build_navigation_pages.py` et régénération au déploiement.
+- À vérifier : tests CI, déploiement GitHub Pages, formulaires et graphique dans un navigateur réel, comportement mobile. Les fonctionnalités futures comprennent le rappel personnalisé, le déplacement par glisser-déposer, la synchronisation profil et l'édition des notes.
