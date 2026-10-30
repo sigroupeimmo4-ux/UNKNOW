@@ -46,5 +46,31 @@ const selected=data.filter(x=>!filter.value||x.subject===filter.value).filter(x=
 const values=selected.map(x=>Number(x.score)/Number(x.max)*20);const avg=values.length?values.reduce((a,b)=>a+b,0)/values.length:0;$('#gradeSummary').textContent=values.length?'Moyenne indicative : '+avg.toFixed(2)+'/20 · '+values.length+' note(s)':'Aucune note enregistrée.';
 const chart=$('#gradeChart');chart.replaceChildren();if(values.length){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('viewBox','0 0 600 220');svg.setAttribute('aria-hidden','true');const svgEl=(tag,attrs)=>{const e=document.createElementNS('http://www.w3.org/2000/svg',tag);for(const[k,v]of Object.entries(attrs))e.setAttribute(k,String(v));svg.append(e);return e};for(let j=0;j<=4;j++){const y=15+j*46;svgEl('line',{x1:35,y1:y,x2:585,y2:y,stroke:'#dbe6e7'});const label=svgEl('text',{x:5,y:y+5,fill:'#546a70','font-size':12});label.textContent=String(20-j*5)}const points=values.map((v,i)=>[35+i*550/Math.max(values.length-1,1),199-v/20*184]);svgEl('polyline',{points:points.map(p=>p.join(',')).join(' '),stroke:'#527F99','stroke-width':3,fill:'none'});points.forEach((p,i)=>svgEl('circle',{cx:p[0],cy:p[1],r:5,fill:'#527F99'}));chart.append(svg)}else chart.textContent='Le graphique apparaîtra après la saisie des notes.';
 const rows=$('#gradeRows');rows.replaceChildren();for(const item of [...selected].reverse()){const row=el('div','tool-list-row');row.append(el('strong',null,fmt(item.date)),el('span',null,item.subject+' · '+(item.label||'Évaluation')),el('span',null,item.score+'/'+item.max));const button=el('button',null,'Supprimer');button.onclick=()=>{if(!confirm('Supprimer cette note ?'))return;data=data.filter(x=>x.id!==item.id);save();render()};row.append(button);rows.append(row)}}render()}
-if(kind==='calendar')initCalendar();else initGrades();
+function start(){
+ if(kind==='calendar')initCalendar();else initGrades();
+ const box=el('section','tool-privacy');
+ box.setAttribute('aria-label','Sauvegarde et confidentialité sur cet appareil');
+ box.append(el('h2',null,'Mes données sur cet appareil'));
+ box.append(el('p','tool-muted',"Ces informations sont enregistrées dans ce navigateur, sans synchronisation avec ton compte. Sur un appareil partagé, les autres personnes utilisant ce navigateur peuvent les retrouver."));
+ const actions=el('div','tool-actions');
+ const exportButton=el('button',null,'Exporter mes données (JSON)');
+ exportButton.type='button';
+ exportButton.onclick=()=>{
+  const blob=new Blob([JSON.stringify({format:'studybeam-local-v1',section:kind,exported_at:new Date().toISOString(),items:data},null,2)],{type:'application/json'});
+  const url=URL.createObjectURL(blob),link=document.createElement('a');
+  link.href=url;link.download=kind==='calendar'?'studybeam-calendrier.json':'studybeam-notes.json';
+  document.body.append(link);link.click();link.remove();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+ };
+ const clearButton=el('button','danger-soft','Effacer toutes mes données locales');
+ clearButton.type='button';
+ clearButton.onclick=()=>{
+  if(!data.length){alert('Il n’y a aucune donnée à effacer.');return;}
+  const label=kind==='calendar'?'tous les événements du calendrier':'toutes les notes';
+  if(!confirm('Effacer définitivement '+label+' sur cet appareil ? Cette action est irréversible. Exporte tes données avant si tu veux les conserver.'))return;
+  try{localStorage.removeItem(key);data=[];start()}catch{alert('Suppression locale indisponible : vérifie les réglages du navigateur.')}
+ };
+ actions.append(exportButton,clearButton);box.append(actions);root.append(box);
+}
+start();
 })();
