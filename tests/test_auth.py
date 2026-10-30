@@ -91,9 +91,9 @@ class AuthTests(unittest.TestCase):
         self.open('index.html')
         expect(self.page.get_by_role('heading', level=1)).to_contain_text('Un progrès à la fois')
         self.page.get_by_role('link', name='Explorer le référentiel').click()
-        expect(self.page).to_have_url(self.base + 'app.html#curriculum')
-        expect(self.page.locator('#curriculum')).to_be_visible()
-        expect(self.page.locator('#curriculumActivity h3')).to_contain_text('dizaines')
+        expect(self.page).to_have_url(self.base + 'programmes.html')
+        expect(self.page.locator('#libraryTitle')).to_have_text('Programmes scolaires français')
+        expect(self.page.get_by_role('link',name='École primaire')).to_be_visible()
 
     def test_login_prevents_double_submit_and_keeps_session(self):
         self.scenario({'delay': 650})

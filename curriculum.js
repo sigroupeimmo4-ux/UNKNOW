@@ -183,13 +183,32 @@
         }
         if (kind==='audio') {
           body.append(node('p',lesson.audio_transcript));
-          const play=node('button','Écouter ce chapitre','btn'); play.type='button';
-          const message=node('p','Lecture vocale par le navigateur, à partir de la transcription affichée.','small muted');
-          play.onclick=()=>{
-            if (!(window.speechSynthesis) || !(typeof window.SpeechSynthesisUtterance === 'function')) {message.textContent='La synthèse vocale n’est pas disponible dans ce navigateur.';return;}
-            speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(lesson.audio_transcript);u.lang='fr-FR';speechSynthesis.speak(u);
+          const player=node('div',undefined,'speech-player');
+          const info=node('p','Lecture vocale de la transcription par le navigateur : aucun fichier audio préenregistré.', 'small muted');
+          const progress=node('progress');progress.max=100;progress.value=0;progress.setAttribute('aria-label','Avancement dans le texte lu');
+          const message=node('p','Prêt à lire.');message.setAttribute('role','status');
+          const controls=node('div',undefined,'row');
+          const buttons={};for(const [key,title] of [['play','Lecture'],['pause','Pause'],['resume','Reprise'],['stop','Arrêter']]){const button=node('button',title,'btn ghost');button.type='button';buttons[key]=button;controls.append(button);}
+          buttons.play.setAttribute('aria-label','Écouter ce chapitre');
+          const available=Boolean(window.speechSynthesis && typeof window.SpeechSynthesisUtterance==='function');
+          const volumeLabel=node('label','Volume (prochaine lecture)');volumeLabel.htmlFor='speechVolume';const volume=node('input');volume.id='speechVolume';volume.type='range';volume.min='0';volume.max='1';volume.step='0.1';volume.value='1';
+          const speedLabel=node('label','Vitesse (prochaine lecture)');speedLabel.htmlFor='speechSpeed';const speed=node('select');speed.id='speechSpeed';for(const rate of ['0.75','1','1.25','1.5'])speed.add(new Option(rate.replace('.',',')+'×',rate));speed.value='1';
+          let active=null;
+          const idle=()=>{buttons.play.disabled=!available;buttons.pause.disabled=true;buttons.resume.disabled=true;buttons.stop.disabled=true;};idle();
+          if(!available){message.textContent='La lecture vocale n’est pas disponible dans ce navigateur. La transcription reste accessible.';volume.disabled=true;speed.disabled=true;}
+          buttons.play.onclick=()=>{
+            if(!available)return;
+            speechSynthesis.cancel();const speech=new SpeechSynthesisUtterance(lesson.audio_transcript);speech.lang='fr-FR';speech.volume=Number(volume.value);speech.rate=Number(speed.value);active=speech;
+            buttons.play.disabled=true;buttons.pause.disabled=false;buttons.stop.disabled=false;progress.removeAttribute('value');message.textContent='Lecture en cours. L’avancement dépend des informations fournies par la voix du navigateur.';
+            speech.onboundary=event=>{if(active!==speech)return;progress.value=Math.min(100,100*(event.charIndex+(event.charLength||0))/lesson.audio_transcript.length);};
+            speech.onend=()=>{if(active!==speech)return;active=null;progress.value=100;message.textContent='Lecture terminée.';idle();};
+            speech.onerror=()=>{if(active!==speech)return;active=null;progress.value=0;message.textContent='La lecture vocale a été interrompue ou n’est pas disponible.';idle();};
+            speechSynthesis.speak(speech);
           };
-          const stop=node('button','Arrêter','btn ghost');stop.type='button';stop.onclick=()=>{if (window.speechSynthesis) speechSynthesis.cancel();};body.append(play,stop,message);
+          buttons.pause.onclick=()=>{if(active){speechSynthesis.pause();buttons.pause.disabled=true;buttons.resume.disabled=false;message.textContent='Lecture en pause.';}};
+          buttons.resume.onclick=()=>{if(active){speechSynthesis.resume();buttons.resume.disabled=true;buttons.pause.disabled=false;message.textContent='Lecture reprise.';}};
+          buttons.stop.onclick=()=>{active=null;speechSynthesis.cancel();progress.value=0;message.textContent='Lecture arrêtée.';idle();};
+          player.append(info,controls,progress,message,volumeLabel,volume,speedLabel,speed);body.append(player);
         }
         if (kind==='assistant_explanation') body.append(node('p','Explication relue et préparée pour ce chapitre. Aucune IA générative connectée.'),node('p',lesson.guided_explanation));
         if (kind==='quiz') {
@@ -241,7 +260,7 @@
     }
   }
   const ready=init();
-  window.studybeamCurriculum={ready, async open(selection,kind='course',isCurrent=()=>true){
+  window.studybeamCurriculum={ready, applicable, eligibleContent, async open(selection,kind='course',isCurrent=()=>true){
     if(!await ready || !isCurrent())return;
     desiredKind=['course','revision_sheet','quiz','exercise','assessment','audio','assistant_explanation'].includes(kind)?kind:'course';
     openedByUser=true;persistSelection=false;

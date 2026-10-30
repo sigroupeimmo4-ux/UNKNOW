@@ -6,6 +6,14 @@ Les éléments prévus ci-dessous sont des propositions issues de l’analyse in
 
 ## Changements réalisés
 
+### 2026-10-30 — Mission 1.5 : pages indépendantes et navigation
+
+- **Pages :** Programmes, Cours, Fiches, Audio, Quiz, Vidéos et Learning Pass disposent de fichiers distincts ; ajout de la consultation des ressources associées et de la présentation. Menu partagé, liens directs, filtres dans les URL, fil d’Ariane, retour et menu mobile. Les anciens liens de l’application redirigent vers les nouvelles destinations.
+- **Préservation :** logo/dragon, couleurs, typographie, catalogue, leçons, données enregistrées, authentification Supabase et service IA conservés. Les démonstrations et paramètres restent dans l’application existante ; aucune reconstruction ni migration.
+- **Audio et limites :** commandes de synthèse vocale et progression fondée sur les événements du navigateur. Aucun fichier audio, vidéo, tarif ni avantage payant inventé. Vidéos et Learning Pass restent à configurer ; programmes toujours partiellement couverts.
+- **Vérifications :** 56 tests Python et 2 tests JavaScript réussis ; routes sous préfixe GitHub Pages, rechargement, historique, menu mobile, stockage et fonctions existantes contrôlés. 476 liens/ressources locaux et 78 affichages responsive contrôlés sans débordement ni erreur JavaScript. Génération reproductible des pages vérifiée avant déploiement.
+- **Compte rendu :** `docs/COMPTE_RENDU_MISSION15.md` détaille les routes, les fichiers, les tests et les limites.
+
 ### 2026-10-30 — Mission 1 : audit et correction des fondations
 
 - **Préservation :** branche `mission-1-fondations` créée au commit `de0edd1` avant modification. Logo, mascotte, catalogue, contenus CP, sources et configuration Supabase conservés.

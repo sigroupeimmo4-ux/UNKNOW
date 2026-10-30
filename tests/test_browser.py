@@ -61,6 +61,8 @@ class StudyBeamTests(unittest.TestCase):
                 self.assertEqual(self.page.locator('#subject').input_value(), 'mathematiques-commun')
                 self.assertEqual(self.page.locator('#chapter').input_value(), 'cp-dizaines-unites')
                 self.page.get_by_role('button', name='Mes quiz').click()
+                self.page.locator('#libraryContent .route-card').first.click()
+                self.page.locator('#curriculumLessonBody .choice').first.wait_for()
                 self.assertEqual(self.page.locator('.choice').count(), 3)
                 self.assertEqual(self.errors, [])
 
@@ -97,65 +99,58 @@ class StudyBeamTests(unittest.TestCase):
         self.assertEqual(self.errors, [])
 
     def open_curriculum(self):
-        self.open_site()
-        self.page.get_by_role('button', name='Programmes français 2026-2027').click()
-        self.page.locator('#curriculumActivity h3').wait_for()
+        self.page.goto(self.base_url+'cours.html?lesson=cp-dizaines-unites',wait_until='networkidle')
+        self.page.locator('#curriculumLessonBody').wait_for()
 
     def test_curriculum_course_quiz_and_chapter_change(self):
         self.open_curriculum()
-        self.assertIn('dizaines et les unités', self.page.locator('#curriculumActivity h3').inner_text())
-        self.page.locator('#curriculumActivity').get_by_role('button', name='Quiz', exact=True).click()
-        for choice in [1, 1, 0]:
+        self.assertIn('dizaines et les unités',self.page.locator('#libraryTitle').inner_text())
+        self.page.get_by_role('navigation',name='Ressources associées au chapitre').get_by_role('link',name='Quiz',exact=True).click()
+        for choice in [1,1,0]:
             self.page.locator('#curriculumLessonBody .choice').nth(choice).click()
-            self.page.locator('#curriculumLessonBody').get_by_role('button', name='Continuer', exact=True).click()
-        self.assertIn('3 / 3', self.page.locator('#curriculumLessonBody').inner_text())
-        self.page.locator('#curriculumChapter').select_option('cp-comparer-nombres')
-        self.page.locator('#curriculumActivity h3').filter(has_text='Comparer').wait_for()
-        self.assertIn('49 < 53', self.page.locator('#curriculumLessonBody').inner_text())
-        self.page.locator('#curriculumActivity').get_by_role('button', name='Audio', exact=True).click()
-        self.assertIn('quarante', self.page.locator('#curriculumLessonBody').inner_text().lower())
-        self.assertEqual(self.errors, [])
+            self.page.locator('#curriculumLessonBody').get_by_role('button',name='Continuer',exact=True).click()
+        self.assertIn('3 / 3',self.page.locator('#curriculumLessonBody').inner_text())
+        self.page.goto(self.base_url+'cours.html?lesson=cp-comparer-nombres',wait_until='networkidle')
+        self.page.locator('#curriculumLessonBody').wait_for()
+        self.assertIn('49 < 53',self.page.locator('#curriculumLessonBody').inner_text())
+        self.page.get_by_role('navigation',name='Ressources associées au chapitre').get_by_role('link',name='Audio',exact=True).click()
+        self.page.locator('#curriculumLessonBody').wait_for()
+        self.assertIn('quarante',self.page.locator('#curriculumLessonBody').inner_text().lower())
+        self.assertEqual(self.errors,[])
 
     def test_curriculum_does_not_replace_missing_lessons_with_demo(self):
-        self.open_curriculum()
-        self.page.locator('#curriculumGrade').select_option('4e')
-        self.assertIn('encore à intégrer', self.page.locator('#curriculumStatus').inner_text())
-        self.assertEqual(self.page.locator('#curriculumActivity').inner_text(), '')
-        self.page.locator('#curriculumCalendar summary').click()
-        self.assertIn('rentrée future 2027', self.page.locator('#curriculumCalendar').inner_text())
-        self.assertEqual(self.errors, [])
+        self.page.goto(self.base_url+'cours.html?grade=4e&pathway=commun',wait_until='networkidle')
+        self.page.locator('#filter-grade').wait_for()
+        self.assertIn('Aucune ressource',self.page.locator('#libraryContent').inner_text())
+        self.assertEqual(self.page.locator('#libraryContent .choice').count(),0)
+        self.page.goto(self.base_url+'programmes.html?level=college&grade=4e&subjectId=mathematiques-commun',wait_until='networkidle')
+        self.page.locator('#libraryContent').get_by_text('Calendrier vérifié des réformes pour cette classe',exact=True).click()
+        self.assertIn('rentrée future 2027',self.page.locator('#libraryContent').inner_text())
+        self.assertEqual(self.errors,[])
 
     def test_curriculum_technological_series_and_general_subjects(self):
-        self.open_curriculum()
-        self.page.locator('#curriculumGrade').select_option('1re')
-        self.page.locator('#curriculumPathway').select_option('technologique')
-        self.page.locator('#curriculumType').select_option('specialite')
-        self.page.locator('#curriculumVariant').select_option('STMG')
-        titles = self.page.locator('#curriculumSubject option').all_text_contents()
-        self.assertTrue(titles)
-        self.assertTrue(all('STMG' in title for title in titles))
-        self.page.locator('#curriculumPathway').select_option('generale')
-        self.assertNotIn('STMG', self.page.locator('#curriculumSubject').inner_text())
-        self.assertEqual(self.errors, [])
+        self.page.goto(self.base_url+'programmes.html?level=technologique&grade=1re&variant=STMG',wait_until='networkidle')
+        self.page.get_by_role('heading',name='Spécialités',exact=True).wait_for()
+        specialties=self.page.get_by_role('heading',name='Spécialités',exact=True).locator('xpath=following-sibling::div[1]').locator('h3').all_text_contents()
+        self.assertTrue(specialties)
+        self.assertTrue(all('STMG' in title for title in specialties))
+        self.page.goto(self.base_url+'programmes.html?level=general&grade=1re',wait_until='networkidle')
+        self.page.get_by_role('heading',name='Spécialités',exact=True).wait_for()
+        self.assertNotIn('STMG',self.page.locator('#libraryContent').inner_text())
+        self.assertEqual(self.errors,[])
 
     def test_curriculum_audio_uses_selected_chapter_and_stops_on_change(self):
-        self.open_curriculum()
-        self.page.evaluate("""() => {
-            window.audioChecks = {text: '', stops: 0};
-            Object.defineProperty(window, 'speechSynthesis', {configurable: true, value: {
-                cancel() { window.audioChecks.stops++; },
-                speak(utterance) { window.audioChecks.text = utterance.text; }
-            }});
-        }""")
-        self.page.locator('#curriculumActivity').get_by_role('button', name='Audio', exact=True).click()
-        self.page.get_by_role('button', name='Écouter ce chapitre', exact=True).click()
-        spoken = self.page.evaluate('window.audioChecks.text')
-        self.assertIn('Une dizaine', spoken)
-        self.assertNotIn('dériv', spoken)
-        before = self.page.evaluate('window.audioChecks.stops')
-        self.page.locator('#curriculumGrade').select_option('4e')
-        self.assertGreater(self.page.evaluate('window.audioChecks.stops'), before)
-        self.assertEqual(self.errors, [])
+        self.page.goto(self.base_url+'audio.html?lesson=cp-dizaines-unites',wait_until='networkidle')
+        self.page.get_by_role('button',name='Écouter ce chapitre',exact=True).wait_for()
+        self.page.evaluate("""() => {window.audioChecks={text:'',stops:0};Object.defineProperty(window,'speechSynthesis',{configurable:true,value:{cancel(){window.audioChecks.stops++;sessionStorage.setItem('__audioStops',String(window.audioChecks.stops));},speak(u){window.audioChecks.text=u.text;}}});}""")
+        self.page.get_by_role('button',name='Écouter ce chapitre',exact=True).click()
+        self.assertIn('Une dizaine',self.page.evaluate('window.audioChecks.text'))
+        self.assertNotIn('dériv',self.page.evaluate('window.audioChecks.text'))
+        before=int(self.page.evaluate('sessionStorage.getItem("__audioStops")'))
+        self.page.get_by_role('navigation',name='Ressources associées au chapitre').get_by_role('link',name='Cours',exact=True).click()
+        self.page.locator('#curriculumLessonBody').wait_for()
+        self.assertGreater(int(self.page.evaluate('sessionStorage.getItem("__audioStops")')),before)
+        self.assertEqual(self.errors,[])
 
     def test_beam_dragon_and_local_actions_without_fake_ai(self):
         self.open_site()
@@ -167,9 +162,8 @@ class StudyBeamTests(unittest.TestCase):
         self.assertIn('pas encore connectée',self.page.locator('#chat').inner_text())
         self.page.locator('#message').fill('Ouvre mon quiz')
         self.page.locator('#agentSend').click()
-        self.page.locator('#curriculumLessonBody .choice').first.wait_for()
-        self.assertTrue(self.page.locator('#curriculum').is_visible())
-        self.assertIn('Beam a ouvert : Quiz',self.page.locator('#beamActionStatus').inner_text())
+        self.page.locator('#libraryContent .route-card').first.wait_for()
+        self.assertIn('quiz.html',self.page.url)
         self.assertEqual(self.errors,[])
 
     def test_school_choices_follow_level_pathway_and_series(self):
@@ -190,12 +184,14 @@ class StudyBeamTests(unittest.TestCase):
         self.assertEqual(self.errors,[])
 
     def test_every_learning_card_routes_to_available_cp_content(self):
-        self.open_site()
-        for name, marker in [('Mes cours','Commencer avec des objets'),('Mes fiches','À retenir'),('Mes audios','Écouter ce chapitre'),('Mes quiz','Question 1 sur 3')]:
+        for name,file,marker in [('Mes cours','cours.html','Commencer avec des objets'),('Mes fiches','fiches.html','À retenir'),('Mes audios','audio.html','Écouter ce chapitre'),('Mes quiz','quiz.html','Question 1 sur 3')]:
             with self.subTest(name=name):
-                self.page.get_by_role('link',name='Accueil',exact=True).click()
+                self.open_site()
                 self.page.get_by_role('button',name=name).click()
-                self.page.locator('#curriculumLessonBody').get_by_text(marker,exact=False).first.wait_for()
+                self.page.locator('#libraryContent .route-card').first.click()
+                if name=='Mes audios':self.page.locator('#curriculumLessonBody').get_by_role('button',name='Écouter ce chapitre').wait_for()
+                else:self.page.locator('#curriculumLessonBody').get_by_text(marker,exact=False).first.wait_for()
+                self.assertIn(file,self.page.url)
                 self.assertNotIn('dérivation',self.page.locator('#curriculumLessonBody').inner_text().lower())
         self.assertEqual(self.errors,[])
 
@@ -218,7 +214,7 @@ class StudyBeamTests(unittest.TestCase):
         self.open_site()
         self.assertTrue(self.page.locator('#storageStatus').is_visible())
         self.page.get_by_role('button',name='Mes cours').click()
-        self.page.locator('#curriculumActivity h3').wait_for()
+        self.page.locator('#libraryContent .route-card').first.wait_for()
         self.assertEqual(self.errors,[])
 
     def test_score_values_are_never_inserted_as_html_or_rewritten_on_load(self):
@@ -268,11 +264,12 @@ class StudyBeamTests(unittest.TestCase):
         self.page.set_viewport_size({'width':390,'height':844})
         self.open_site()
         for name in ['Beam','Démonstrations','Progression']:
-            self.page.get_by_role('link',name=name,exact=True).click()
-            bounds=self.page.locator('.app-nav').bounding_box()
+            self.page.locator('[data-main-menu] summary').click()
+            bounds=self.page.locator('.route-menu').bounding_box()
             header=self.page.locator('.topbar').bounding_box()
             self.assertGreaterEqual(bounds['y'],header['y']+header['height']-1)
             self.assertLess(bounds['y']+bounds['height'],844)
+            self.page.get_by_role('navigation',name='Menu principal').get_by_role('link',name=name,exact=True).click()
         self.page.get_by_role('button',name='Paramètres').click()
         self.assertTrue(self.page.get_by_label('Taille du texte',exact=True).is_visible())
         self.assertTrue(self.page.get_by_label('Préférence de costume (démonstration)',exact=True).is_visible())
@@ -285,7 +282,7 @@ class StudyBeamTests(unittest.TestCase):
         self.page.locator('#grade').select_option('CE2')
         self.page.get_by_role('button',name='Mes vidéos').click()
         with self.page.expect_popup() as popup_info:
-            self.page.get_by_role('button',name='Rechercher sur YouTube').click()
+            self.page.get_by_role('link',name='Rechercher sur YouTube').click()
         popup=popup_info.value;popup.wait_for_load_state()
         query=parse_qs(urlparse(popup.url).query)['search_query'][0]
         self.assertIn('CE2',query)

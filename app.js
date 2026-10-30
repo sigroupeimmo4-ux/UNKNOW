@@ -1,4 +1,5 @@
 /* Navigation et préférences de l’application existante. */
+const navigationPages={home:'app.html',curriculum:'programmes.html',course:'cours.html',sheets:'fiches.html',audio:'audio.html',quiz:'quiz.html',videos:'videos.html',pass:'learning-pass.html'};
 const learningFormats = {course:'course',sheets:'revision_sheet',audio:'audio',quiz:'quiz'};
 let currentRoute = 'home';
 let navigationVersion = 0;
@@ -12,9 +13,16 @@ function activatePage(page,focus = true) {
   });
   const heading=document.querySelector('#'+page+' h2, #'+page+' h1');
   if(heading){document.title=heading.textContent.replace(/^[^\p{L}]+/u,'')+' — StudyBeam';if(focus){heading.tabIndex=-1;heading.focus({preventScroll:true});}}
-  if(focus) document.querySelector('.app').scrollIntoView({behavior:'auto',block:'start'});
+  if(focus) window.scrollTo({top:0,left:0,behavior:'instant'});
 }
 async function showPage(id,{historyMode='push',focus=true}={}) {
+  if(navigationPages[id] && id!=='home'){
+    const selection=window.studybeamSchool?.getSelection()||{};
+    const url=new URL('./'+navigationPages[id],location.href);
+    if(id!=='curriculum')for(const key of ['grade','pathway','type','variant','subjectId','chapterId'])if(selection[key])url.searchParams.set(key,selection[key]);
+    location[historyMode==='none'?'replace':'assign'](url.href);return;
+  }
+  if(document.body.dataset.library){location.assign(new URL('./app.html#'+(routes.has(id)?id:'home'),location.href).href);return;}
   if(!routes.has(id))id='home';
   const version=++navigationVersion;currentRoute=id;stopAudio();
   if(historyMode==='push' && location.hash!=='#'+id)history.pushState(null,'','#'+id);
@@ -70,7 +78,7 @@ function renderProgress(){
 function clearProgress(){if(!window.confirm('Effacer uniquement les scores du quiz de démonstration sur cet appareil ?'))return;window.studybeamStorage.remove('sw-best');window.studybeamStorage.remove('sw-last');renderProgress();}
 renderProgress();
 if(typeof ResizeObserver==='function'){
-  const updateChrome=()=>{document.documentElement.style.setProperty('--app-header-height',document.querySelector('.topbar').getBoundingClientRect().height+'px');document.documentElement.style.setProperty('--app-nav-height',document.querySelector('.app-nav').getBoundingClientRect().height+'px');};
-  const chromeObserver=new ResizeObserver(updateChrome);chromeObserver.observe(document.querySelector('.topbar'));chromeObserver.observe(document.querySelector('.app-nav'));updateChrome();
+  const updateChrome=()=>{document.documentElement.style.setProperty('--app-header-height',document.querySelector('.topbar').getBoundingClientRect().height+'px');document.documentElement.style.setProperty('--app-nav-height',(document.querySelector('.route-menu')||document.querySelector('.app-nav')).getBoundingClientRect().height+'px');};
+  const chromeObserver=new ResizeObserver(updateChrome);chromeObserver.observe(document.querySelector('.topbar'));chromeObserver.observe(document.querySelector('.route-menu')||document.querySelector('.app-nav'));updateChrome();
 }
-window.startStudybeamApp=()=>showPage(decodeRoute(),{historyMode:'none',focus:false});
+window.startStudybeamApp=()=>{if(!document.body.dataset.library)return showPage(decodeRoute(),{historyMode:'none',focus:false});};

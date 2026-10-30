@@ -8,7 +8,12 @@ StudyBeam propose une présentation publique, un espace de révision accessible 
 | --- | --- |
 | `index.html` | Landing page : présentation, activités disponibles, état des programmes et accès à la démonstration. |
 | `app.html` | Espace de révision existant : activités disponibles selon le parcours, espace de démonstration, Beam et référentiel. |
-| `app.html#curriculum` | Accès direct au référentiel français 2026-2027. |
+| `programmes.html` | Référentiel français : niveau → classe → matière → chapitre, chaque étape avec sa propre URL. |
+| `cours.html`, `fiches.html`, `audio.html`, `quiz.html` | Listes filtrables et activités individuelles avec `?lesson=identifiant`. |
+| `ressource.html` | Exercices, évaluations et explications associés, avec `?kind=format&lesson=identifiant`. |
+| `videos.html` | Filtres et recherche externe ; sélection vidéo encore à configurer. |
+| `learning-pass.html` | Offres et comparaison lorsque configurées ; aucun tarif inventé. |
+| `a-propos.html` | Présentation des activités accessibles depuis l’accueil. |
 | `login.html` | Connexion par e-mail et mot de passe. |
 | `signup.html` | Inscription et demande de confirmation d’adresse. |
 | `forgot-password.html` | Demande de lien de récupération. |
@@ -62,9 +67,10 @@ L’envoi et la réception réels des e-mails, les confirmations et la récupér
 ```sh
 PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
 node tests/test_curriculum_engine.cjs
+python3 scripts/build_navigation_pages.py --check
 ```
 
-La suite comprend 42 tests Python et 2 tests JavaScript. Les tests navigateur utilisent Playwright Python et Chromium, disponibles dans l’environnement cloud, et démarrent leur propre serveur temporaire. Les tests d’authentification vérifient les contrats avec le SDK simulé, y compris sous un préfixe de déploiement ; ils ne prouvent pas l’acheminement des e-mails réels.
+La suite comprend 56 tests Python et 2 tests JavaScript. Les tests navigateur utilisent Playwright Python et Chromium, disponibles dans l’environnement cloud, et démarrent leur propre serveur temporaire. Les tests d’authentification vérifient les contrats avec le SDK simulé, y compris sous un préfixe de déploiement ; ils ne prouvent pas l’acheminement des e-mails réels.
 
 Les pages publiques et formulaires ont aussi été vérifiés avec le SDK réel, sur ordinateur et à 390 px de largeur, sans débordement ni erreur JavaScript sur ces parcours.
 
@@ -83,3 +89,9 @@ Le projet vise notamment des mineurs. Les règles de consentement et de confiden
 ## Mission 1 — Fondations
 
 Le [rapport d’audit et de correction](docs/AUDIT_MISSION1.md) distingue les fonctions vérifiées, les démonstrations et les fonctionnalités encore incomplètes. L’accueil utilise le catalogue existant pour filtrer classe, voie, type, série et matière ; aucun programme n’a été inventé ni ajouté.
+
+## Mission 1.5 — Navigation
+
+Le [compte rendu](docs/COMPTE_RENDU_MISSION15.md) décrit les pages indépendantes, les URL des vues et les vérifications. Les contenus pédagogiques et données existants sont conservés. Les vidéos et offres restent à configurer dans `data/videos.json` et `data/learning-pass.json` ; la lecture audio utilise la synthèse vocale du navigateur.
+
+Pour régénérer les neuf pages et le menu partagé après un changement du gabarit : `python3 scripts/build_navigation_pages.py`. Le contrôle `--check`, aussi exécuté avant déploiement, signale un écart sans modifier les fichiers.
