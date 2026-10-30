@@ -83,6 +83,11 @@
       if (busy || !ready) return;
       validateConfirmation();
       if (!form.reportValidity()) return;
+      // UI-only restriction during beta: not proof of age/guardian consent.
+      if (page==='signup' && !document.getElementById('adultTester')?.checked) {
+        message('Les comptes d’essai sont pour le moment réservés aux personnes majeures. Les comptes d’élèves ne sont pas encore ouverts.','error');
+        return;
+      }
       setBusy(true);
       message('Demande en cours…');
       const email = document.getElementById('email')?.value.trim();
