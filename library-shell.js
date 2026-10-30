@@ -14,9 +14,7 @@
     const views=new Set(['tutor','progress','settings','demo','demo-course','demo-sheets','demo-audio','demo-quiz']);
     location.assign('./'+(files[id]||'app.html'+(views.has(id)?'#'+id:'')));
   };
-  const palettes={Lavande:['#f6f4ff','#6859d9','#efecff'],Rose:['#fff4f7','#b94778','#ffe7f0'],Menthe:['#f1faf5','#28795b','#dcf4e8'],Ciel:['#f1f8ff','#2867a7','#deedff'],Neutre:['#f4f4f3','#45484d','#e8e8e5']};
-  const theme=window.studybeamStorage.get('sw-theme');const values=Object.hasOwn(palettes,theme)?palettes[theme]:palettes.Lavande;
-  ['--bg','--primary','--soft'].forEach((name,i)=>document.documentElement.style.setProperty(name,values[i]));
+  window.studybeamAppearance.applyTheme(window.studybeamStorage.get('sw-theme'));
   const size=window.studybeamStorage.get('sw-size');if(['16','18','20','22'].includes(size))document.documentElement.style.fontSize=size+'px';
   if(typeof ResizeObserver==='function'){
     const update=()=>document.documentElement.style.setProperty('--app-header-height',document.querySelector('.topbar').getBoundingClientRect().height+'px');

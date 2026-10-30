@@ -1,19 +1,20 @@
 # StudyBeam — Site statique et authentification Supabase
 
-StudyBeam propose une présentation publique, un espace de révision accessible sans compte et des pages d’authentification par e-mail. Le site fonctionne sans compilation et peut être hébergé sur GitHub Pages.
+StudyBeam propose un tableau de bord public, un espace de révision accessible sans compte et des pages d’authentification par e-mail. Le site fonctionne sans compilation et peut être hébergé sur GitHub Pages.
 
 ## Pages
 
 | Page | Rôle |
 | --- | --- |
-| `index.html` | Landing page : présentation, activités disponibles, état des programmes et accès à la démonstration. |
+| `index.html` | Tableau de bord : accueil, reprise réelle, accès rapides et progression locale. |
 | `app.html` | Espace de révision existant : activités disponibles selon le parcours, espace de démonstration, Beam et référentiel. |
 | `programmes.html` | Référentiel français : niveau → classe → matière → chapitre, chaque étape avec sa propre URL. |
 | `cours.html`, `fiches.html`, `audio.html`, `quiz.html` | Listes filtrables et activités individuelles avec `?lesson=identifiant`. |
 | `ressource.html` | Exercices, évaluations et explications associés, avec `?kind=format&lesson=identifiant`. |
 | `videos.html` | Filtres et recherche externe ; sélection vidéo encore à configurer. |
 | `learning-pass.html` | Offres et comparaison lorsque configurées ; aucun tarif inventé. |
-| `a-propos.html` | Présentation des activités accessibles depuis l’accueil. |
+| `a-propos.html` | Présentation des activités, FAQ et informations sur les données. |
+| `app.html#dragon` | Aperçu du dragon officiel et état réel des personnalisations disponibles. |
 | `login.html` | Connexion par e-mail et mot de passe. |
 | `signup.html` | Inscription et demande de confirmation d’adresse. |
 | `forgot-password.html` | Demande de lien de récupération. |
@@ -70,7 +71,7 @@ node tests/test_curriculum_engine.cjs
 python3 scripts/build_navigation_pages.py --check
 ```
 
-La suite comprend 56 tests Python et 2 tests JavaScript. Les tests navigateur utilisent Playwright Python et Chromium, disponibles dans l’environnement cloud, et démarrent leur propre serveur temporaire. Les tests d’authentification vérifient les contrats avec le SDK simulé, y compris sous un préfixe de déploiement ; ils ne prouvent pas l’acheminement des e-mails réels.
+La suite comprend 66 tests Python et 2 tests JavaScript. Les tests navigateur utilisent Playwright Python et Chromium, disponibles dans l’environnement cloud, et démarrent leur propre serveur temporaire. Les tests d’authentification vérifient les contrats avec le SDK simulé, y compris sous un préfixe de déploiement ; ils ne prouvent pas l’acheminement des e-mails réels.
 
 Les pages publiques et formulaires ont aussi été vérifiés avec le SDK réel, sur ordinateur et à 390 px de largeur, sans débordement ni erreur JavaScript sur ces parcours.
 
@@ -95,3 +96,7 @@ Le [rapport d’audit et de correction](docs/AUDIT_MISSION1.md) distingue les fo
 Le [compte rendu](docs/COMPTE_RENDU_MISSION15.md) décrit les pages indépendantes, les URL des vues et les vérifications. Les contenus pédagogiques et données existants sont conservés. Les vidéos et offres restent à configurer dans `data/videos.json` et `data/learning-pass.json` ; la lecture audio utilise la synthèse vocale du navigateur.
 
 Pour régénérer les neuf pages et le menu partagé après un changement du gabarit : `python3 scripts/build_navigation_pages.py`. Le contrôle `--check`, aussi exécuté avant déploiement, signale un écart sans modifier les fichiers.
+
+## Design — Modern & Compact
+
+Le [rapport de refonte](docs/REFONTE_DESIGN_COMPACT.md) décrit la barre latérale, la barre supérieure, le nouvel accueil et la route `app.html#dragon`. Le logo et les ressources scolaires sont conservés. La reprise d’un cours utilise un historique local réel ; le prénom facultatif se règle dans les paramètres. Les anciennes données restent intactes.

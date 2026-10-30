@@ -6,6 +6,15 @@ Les éléments prévus ci-dessous sont des propositions issues de l’analyse in
 
 ## Changements réalisés
 
+### 2026-10-30 — Mission design : interface Modern & Compact
+
+- **Présentation :** nouvelle palette demandée, cartes compactes, barre latérale fixe et réductible, icônes cohérentes, barre supérieure avec fil d’Ariane, recherche réelle, profil et paramètres. Menu mobile repliable, sans navigation par défilement dans l’accueil.
+- **Accueil :** tableau de bord, six accès rapides, dragon officiel de taille modérée, prénom local facultatif et reprise du dernier cours réellement consulté. Aucune activité, progression ou réussite inventée. Les données existantes ne sont pas réinitialisées ; trois nouvelles clés locales servent uniquement à ces présentations.
+- **Routes :** ajout de `app.html#dragon` ; toutes les routes de la mission 1.5 et les démonstrations sont conservées. La FAQ de l’ancien accueil est accessible dans la présentation.
+- **Préservation :** logo/dragon, programmes, leçons, sources, moteur pédagogique, authentification et configurations API inchangés. Aucune IA, offre payante, vidéo sélectionnée ni personnalisation du dragon fictive n’est activée.
+- **Vérifications :** 66 tests Python et 2 tests JavaScript réussis ; onze entrées du menu testées sur ordinateur et mobile, 150 affichages responsive contrôlés sans débordement ni erreur JavaScript, 611 liens/ressources et 156 ancres valides.
+- **Compte rendu :** `docs/REFONTE_DESIGN_COMPACT.md` détaille pages, routes, composants réutilisés, stockage additionnel et limites.
+
 ### 2026-10-30 — Mission 1.5 : pages indépendantes et navigation
 
 - **Pages :** Programmes, Cours, Fiches, Audio, Quiz, Vidéos et Learning Pass disposent de fichiers distincts ; ajout de la consultation des ressources associées et de la présentation. Menu partagé, liens directs, filtres dans les URL, fil d’Ariane, retour et menu mobile. Les anciens liens de l’application redirigent vers les nouvelles destinations.

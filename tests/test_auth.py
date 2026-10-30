@@ -89,8 +89,8 @@ class AuthTests(unittest.TestCase):
 
     def test_landing_and_programme_link(self):
         self.open('index.html')
-        expect(self.page.get_by_role('heading', level=1)).to_contain_text('Un progrès à la fois')
-        self.page.get_by_role('link', name='Explorer le référentiel').click()
+        expect(self.page.get_by_role('heading', level=1)).to_contain_text('Bonjour')
+        self.page.get_by_role('navigation',name='Menu principal').get_by_role('link', name='Programmes',exact=True).click()
         expect(self.page).to_have_url(self.base + 'programmes.html')
         expect(self.page.locator('#libraryTitle')).to_have_text('Programmes scolaires français')
         expect(self.page.get_by_role('link',name='École primaire')).to_be_visible()
@@ -102,12 +102,12 @@ class AuthTests(unittest.TestCase):
         expect(self.page.locator('#authSubmit')).to_be_disabled()
         self.page.evaluate('document.getElementById("authForm").requestSubmit()')
         expect(self.page).to_have_url(self.base + 'app.html')
-        self.page.get_by_role('button', name='Paramètres').click()
+        self.page.get_by_role('navigation',name='Menu principal').get_by_role('link',name='Paramètres',exact=True).click()
         expect(self.page.locator('#authAccount')).to_have_text('Connecté : demo@example.test')
         self.assertEqual(len(self.method_calls('signInWithPassword')), 1)
         self.assertEqual(self.method_calls('options')[0][0]['auth']['flowType'], 'pkce')
         self.page.reload(wait_until='networkidle')
-        self.page.get_by_role('button', name='Paramètres').click()
+        self.page.get_by_role('navigation',name='Menu principal').get_by_role('link',name='Paramètres',exact=True).click()
         expect(self.page.locator('#authAccount')).to_have_text('Connecté : demo@example.test')
 
     def test_login_invalid_credentials(self):
@@ -154,7 +154,7 @@ class AuthTests(unittest.TestCase):
     def test_reset_password_success(self):
         self.scenario({'initial_session': USER_SESSION, 'recovery': True})
         self.open('reset-password.html?code=test-code')
-        self.assertEqual(self.page.url, self.base + 'reset-password.html')
+        expect(self.page).to_have_url(self.base + 'reset-password.html')
         self.fill_passwords(); self.page.locator('#authSubmit').click()
         expect(self.page.locator('#authStatus')).to_contain_text('mot de passe a été mis à jour')
         expect(self.page.locator('#authForm')).to_be_hidden()
@@ -182,19 +182,19 @@ class AuthTests(unittest.TestCase):
 
     def test_logout_success_clears_account(self):
         self.scenario({'initial_session': USER_SESSION})
-        self.open('app.html'); self.page.get_by_role('button', name='Paramètres').click()
+        self.open('app.html'); self.page.get_by_role('navigation',name='Menu principal').get_by_role('link',name='Paramètres',exact=True).click()
         self.page.locator('#signOut').click()
         expect(self.page.locator('#authAccount')).to_have_text('Tu n’es pas connecté.')
         expect(self.page.locator('#accountLogin')).to_be_visible()
         expect(self.page.locator('#signOut')).to_be_hidden()
         self.assertEqual(self.method_calls('signOut')[0][0]['scope'], 'local')
         self.page.reload(wait_until='networkidle')
-        self.page.get_by_role('button', name='Paramètres').click()
+        self.page.get_by_role('navigation',name='Menu principal').get_by_role('link',name='Paramètres',exact=True).click()
         expect(self.page.locator('#authAccount')).to_have_text('Tu n’es pas connecté.')
 
     def test_logout_failure_keeps_account(self):
         self.scenario({'initial_session': USER_SESSION, 'signOut_error': {'code': 'over_request_rate_limit'}})
-        self.open('app.html'); self.page.get_by_role('button', name='Paramètres').click()
+        self.open('app.html'); self.page.get_by_role('navigation',name='Menu principal').get_by_role('link',name='Paramètres',exact=True).click()
         self.page.locator('#signOut').click()
         expect(self.page.locator('#authStatus')).to_contain_text('Trop de tentatives')
         expect(self.page.locator('#authAccount')).to_have_text('Connecté : demo@example.test')

@@ -3,7 +3,7 @@ const navigationPages={home:'app.html',curriculum:'programmes.html',course:'cour
 const learningFormats = {course:'course',sheets:'revision_sheet',audio:'audio',quiz:'quiz'};
 let currentRoute = 'home';
 let navigationVersion = 0;
-const routes = new Set(['home','curriculum','demo','demo-course','demo-sheets','demo-audio','demo-quiz','videos','tutor','progress','settings',...Object.keys(learningFormats)]);
+const routes = new Set(['home','curriculum','demo','demo-course','demo-sheets','demo-audio','demo-quiz','videos','tutor','progress','settings','dragon',...Object.keys(learningFormats)]);
 function stopAudio() {if (window.speechSynthesis) speechSynthesis.cancel();}
 function activatePage(page,focus = true) {
   document.querySelectorAll('.page').forEach(el=>el.classList.toggle('active',el.id===page));
@@ -61,8 +61,8 @@ function playAudio(){
   stopAudio();const speech=new SpeechSynthesisUtterance('Exemple de démonstration : dérivation. La dérivée indique le taux de variation instantané d’une fonction. La dérivée de x au carré est deux x.');speech.lang='fr-FR';speech.rate=Number(document.getElementById('speed').value);speechSynthesis.speak(speech);document.getElementById('audioStatus').textContent='Lecture de la démonstration via ton navigateur.';
 }
 function searchVideos(){const context=window.studybeamSchool.getContext();const query=encodeURIComponent([context.grade,context.subject,context.chapter,'cours'].filter(Boolean).join(' '));window.open('https://www.youtube.com/results?search_query='+query,'_blank','noopener,noreferrer');}
-const palettes={Lavande:['#f6f4ff','#6859d9','#efecff'],Rose:['#fff4f7','#b94778','#ffe7f0'],Menthe:['#f1faf5','#28795b','#dcf4e8'],Ciel:['#f1f8ff','#2867a7','#deedff'],Neutre:['#f4f4f3','#45484d','#e8e8e5']};
-function setTheme(name){const values=palettes[name]||palettes.Lavande;['--bg','--primary','--soft'].forEach((property,i)=>document.documentElement.style.setProperty(property,values[i]));document.querySelectorAll('.themebtn').forEach(button=>button.setAttribute('aria-pressed',String(button.textContent===name)));}
+const palettes=window.studybeamAppearance.palettes;
+function setTheme(name){window.studybeamAppearance.applyTheme(name);document.querySelectorAll('.themebtn').forEach(button=>button.setAttribute('aria-pressed',String(button.textContent===name)));}
 for(const name of Object.keys(palettes)){const button=document.createElement('button');button.className='themebtn';button.textContent=name;button.onclick=()=>{setTheme(name);window.studybeamStorage.set('sw-theme',name);};document.getElementById('themes').append(button);}
 const theme=window.studybeamStorage.get('sw-theme');setTheme(Object.hasOwn(palettes,theme)?theme:'Lavande');
 const fontSize=document.getElementById('fontSize'),storedSize=window.studybeamStorage.get('sw-size');fontSize.value=['16','18','20','22'].includes(storedSize)?storedSize:'16';document.documentElement.style.fontSize=fontSize.value+'px';
@@ -74,6 +74,7 @@ function renderProgress(){
   const text=document.createElement('p');text.textContent=best===null?'Aucun résultat de démonstration valide enregistré.':'Meilleur score de démonstration : '+best+'/3.';container.append(text);
   if(last!==null){const detail=document.createElement('p');detail.textContent='Dernier score de démonstration : '+last+'/3 · Quiz de dérivation';container.append(detail);}
   document.getElementById('homeProgress').textContent=best===null?'Aucun quiz de démonstration terminé sur cet appareil.':'Meilleur score de démonstration : '+best+'/3.';
+  window.studybeamDashboard?.refresh();
 }
 function clearProgress(){if(!window.confirm('Effacer uniquement les scores du quiz de démonstration sur cet appareil ?'))return;window.studybeamStorage.remove('sw-best');window.studybeamStorage.remove('sw-last');renderProgress();}
 renderProgress();

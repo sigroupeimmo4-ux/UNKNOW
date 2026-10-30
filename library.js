@@ -113,6 +113,7 @@
     activity.querySelector('[aria-label="Formats de révision"]')?.remove();activity.querySelector('h3')?.remove();
     box.append(node('p','Ressource reliée au texte de référence. La couverture du programme reste partielle.','alert'));
     const associated=node('div');formats(p,ch,associated);box.append(associated,$('curriculumReferences'),activity);
+    if(kind==='course')window.studybeamDashboard?.remember(ch.id);
   }
   async function videos(){
     const selected=selection();header('Vidéos pédagogiques','Sélection de vidéos à configurer. La recherche externe reste disponible.');filters('videos',selected);
