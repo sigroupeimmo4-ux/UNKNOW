@@ -45,7 +45,7 @@ app=re.sub(r'<script defer src="./dashboard.js[^\"]*"></script>','',app)
 app=app.replace('<script defer src="./supabase-config.js','<script defer src="./dashboard.js?v=compact1"></script><script defer src="./supabase-config.js',1)
 app=re.sub(r'./app.js\?v=[^\"]*','./app.js?v=compact1',app)
 save(ROOT/'app.html',app)
-for file in ['index.html','login.html','signup.html','forgot-password.html','reset-password.html','auth-callback.html']:
+for file in ['login.html','signup.html','forgot-password.html','reset-password.html','auth-callback.html']:
  p=ROOT/file;s=p.read_text()
  if 'data-main-menu' not in s:s=s.replace('</header>','</header>'+menu(),1)
  else:s=update_menu(s)
