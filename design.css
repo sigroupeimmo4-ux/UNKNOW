@@ -27,3 +27,76 @@ body .route-menu,body[data-auth-page=app]>.route-menu{position:fixed;inset:0 aut
 /* Learning Pass : tarifs régionaux proposés, sans paiement. */
 .billing-country{max-width:360px;margin:20px 0 12px}.pricing-grid{grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch;gap:16px}.pricing-card{display:flex;flex-direction:column;padding:22px}.pricing-card.featured{border:2px solid var(--primary);padding:21px}.pricing-card h2{font-size:1.1rem;margin:8px 0 14px}.pricing-card .plan-price{font-size:1.9rem;line-height:1.3;font-weight:750;color:var(--ink);margin:0}.pricing-card .plan-period{font-size:.85rem;margin:4px 0 16px}.pricing-badge,.saving-label{font-weight:700;color:var(--primary);font-size:.8rem}.pricing-badge{align-self:flex-start;background:var(--soft);border-radius:6px;padding:4px 9px}.pricing-card .saving-label{color:var(--primary);margin-bottom:6px}.pricing-card ul{padding-left:20px;font-size:.88rem;line-height:1.65}.plan-terms{border-top:1px solid var(--line);padding-top:12px;font-size:.8rem;margin-top:auto}.plan-terms p{font-size:.8rem;margin:4px 0 12px}.pricing-card>.btn{margin-top:auto;align-self:flex-start}.pricing-card>.btn:disabled{cursor:not-allowed;opacity:.65}.pricing-conditions{background:white;border:1px solid var(--line);border-radius:11px;padding:18px;margin-top:20px}.pricing-conditions p{font-size:.85rem;color:var(--muted)}.offer-table caption{text-align:left;font-weight:700;margin:12px 0}.pricing-grid+.small{margin-top:14px}@media(max-width:1150px){.pricing-grid{grid-template-columns:1fr}.pricing-card{padding:20px}.pricing-card.featured{padding:19px}.plan-terms{margin-top:10px}.pricing-card>.btn{margin-top:12px}}@media(max-width:580px){.pricing-card .plan-price{font-size:1.7rem}}
 body[data-library=pass] .offer-table{min-width:720px}body[data-library=pass] .offer-table th,body[data-library=pass] .offer-table td{overflow-wrap:normal;min-width:140px}.pricing-table-hint{display:none}@media(max-width:1000px){.pricing-table-hint{display:block;margin-top:20px;font-size:.8rem}}
+
+
+/* ===== STUDYBEAM · PASTEL DREAM (Mission identité visuelle) =====
+   Les valeurs de référence sont centralisées ici; aucun contenu ni logo n'est modifié. */
+:root {
+ --pastel-sky:#BBDCF2; --pastel-mint:#C5E9D9; --pastel-peach:#F8DCCE;
+ --pastel-butter:#F7E9AC; --pastel-rose:#F2DCE8; --pastel-cream:#FAF9F5;
+ --pastel-slate:#527F99; --pastel-ink:#34434A; --pastel-white:#FFFFFF;
+ --pastel-gold:#946D23; --pastel-border:#DDE6E6;
+ --bg:var(--pastel-cream); --paper:var(--pastel-cream);
+ --surface:var(--pastel-white); --primary:var(--pastel-slate);
+ --purple:var(--pastel-slate); --purple-dark:#3A627A; --blue:var(--pastel-sky);
+ --soft:#EAF3F4; --ink:var(--pastel-ink); --muted:#586972;
+ --line:var(--pastel-border); --accent:var(--pastel-butter);
+ --green:#28664B;
+}
+body{background:var(--pastel-cream);color:var(--pastel-ink)}
+a{color:var(--primary)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid #356C8D;outline-offset:3px}
+body .route-menu,body[data-auth-page=app]>.route-menu{background:#FFF;border-right-color:var(--line)}
+.route-menu .app-nav a{color:var(--ink)}
+.route-menu .app-nav a:hover{background:#EEF6F7;color:var(--ink)}
+.route-menu .app-nav a[aria-current=page]{background:#E5F1F5;color:#355D74}
+.topbar{background:#FFF;border-bottom-color:var(--line)}
+.btn,.button,.hero .btn.white{background:var(--pastel-slate);color:#FFF;border-color:transparent}
+.btn:hover,.button:hover,.hero .btn.white:hover{background:#416E89;filter:none}
+.btn.ghost,.button.secondary,.btn.white{background:var(--pastel-mint);color:#284A40;border-color:#ABD7C3}
+.btn.ghost:hover,.button.secondary:hover,.btn.white:hover{background:#B0DDCA;color:#24453B}
+button:disabled,.btn:disabled,.button:disabled{opacity:.65}
+.tag,.pricing-badge{background:#EAF3F4;color:#355D74}
+.section-kicker,.eyebrow,.visual-label{color:var(--pastel-slate)}
+.welcome-card,.hero{background:linear-gradient(110deg,#F5FAF9 0%,#EAF4F8 100%);border:1px solid #D9E9EF;color:var(--ink)}
+.welcome-card p,.hero p{color:#4B606B}
+.hero small{color:#355D74}
+.dashboard-tip,.resume-card,.learning-summary,.panel,.controls,.auth-card,.route-card,.pricing-conditions{background:#FFF;border-color:var(--line);box-shadow:0 3px 16px #34434A06}
+.quick-card{background:#FFF;border-color:var(--line)}
+.quick-card:hover,.route-card:hover{border-color:#84B2CA}
+.quick-card .quick-icon{color:#34434A}
+.quick-card:nth-child(1) .quick-icon{background:var(--pastel-sky);color:#284F64}
+.quick-card:nth-child(2) .quick-icon{background:var(--pastel-rose);color:#68485B}
+.quick-card:nth-child(3) .quick-icon{background:var(--pastel-butter);color:#65551E}
+.quick-card:nth-child(4) .quick-icon{background:var(--pastel-peach);color:#704B3D}
+.quick-card:nth-child(5) .quick-icon{background:var(--pastel-mint);color:#295A47}
+.quick-card:nth-child(6) .quick-icon{background:#E8F3F7;color:#315F79}
+.quick-card .quick-arrow{color:var(--pastel-slate)}
+/* Colour-coded accents: small surfaces, never a whole saturated page. */
+.quick-card:nth-child(1){border-top:3px solid var(--pastel-sky)}
+.quick-card:nth-child(2){border-top:3px solid var(--pastel-rose)}
+.quick-card:nth-child(3){border-top:3px solid var(--pastel-butter)}
+.quick-card:nth-child(4){border-top:3px solid var(--pastel-peach)}
+.quick-card:nth-child(5){border-top:3px solid var(--pastel-mint)}
+body[data-library=course] .library-header,body[data-library=course] .route-card{border-left:4px solid var(--pastel-sky)}
+body[data-library=revision_sheet] .library-header,body[data-library=revision_sheet] .route-card{border-left:4px solid var(--pastel-rose)}
+body[data-library=audio] .library-header,body[data-library=audio] .route-card{border-left:4px solid var(--pastel-butter)}
+body[data-library=quiz] .library-header,body[data-library=quiz] .route-card{border-left:4px solid var(--pastel-peach)}
+body[data-library=videos] .library-header,body[data-library=videos] .route-card{border-left:4px solid var(--pastel-mint)}
+.card{background:#FFF;border-color:var(--line)}
+.card:nth-child(5n+1){border-top:3px solid var(--pastel-sky)}
+.card:nth-child(5n+2){border-top:3px solid var(--pastel-rose)}
+.card:nth-child(5n+3){border-top:3px solid var(--pastel-butter)}
+.card:nth-child(5n+4){border-top:3px solid var(--pastel-peach)}
+.card:nth-child(5n+5){border-top:3px solid var(--pastel-mint)}
+.pricing-card{background:#FFF;border:1px solid var(--line);box-shadow:0 4px 18px #34434A08}
+.pricing-card.featured{border-color:#C9AD6B;background:linear-gradient(180deg,#FFFEF8,#FFF)}
+.pricing-badge,.pricing-card .saving-label{background:#FBF3D6;color:#70521C}
+.pricing-card .plan-price{color:var(--ink)}
+.auth-story{background:linear-gradient(120deg,#F5FAF9,#FDF7EF)}
+.auth-card{border-color:var(--line)}
+input,select,textarea{background:#FFF;border-color:#CDDADC;color:var(--ink)}
+input::placeholder,textarea::placeholder{color:#657781}
+input:focus-visible,select:focus-visible,textarea:focus-visible{border-color:#527F99}
+blockquote,.alert{border-color:#D9B766}
+@media(prefers-reduced-motion:reduce){.btn,.button,.quick-card,.route-card{transition:none}}
