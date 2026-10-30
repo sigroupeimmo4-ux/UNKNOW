@@ -161,3 +161,7 @@ body :is(button,a,input,select,textarea):focus-visible{outline:3px solid #527F99
 .beam-quiet .beam-launcher img{animation:none}
 @media(prefers-reduced-motion:reduce){.beam-launcher img{animation:none!important}}
 @media(max-width:650px){.beam-dock{right:8px;left:8px;bottom:80px;width:auto;max-height:calc(100dvh - 100px);padding:12px}.beam-prompts{max-height:76px}.beam-launcher{bottom:12px;right:12px}}
+
+.beam-celebrate:not(.beam-quiet) .beam-launcher img{animation:beam-joy .75s ease-in-out 2}
+@keyframes beam-joy{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-13px) rotate(-7deg)}}
+@media(prefers-reduced-motion:reduce){.beam-celebrate .beam-launcher img{animation:none!important}}
