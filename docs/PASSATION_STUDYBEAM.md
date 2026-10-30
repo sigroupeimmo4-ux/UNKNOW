@@ -57,3 +57,11 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Le compagnon peut aussi être chargé depuis la landing publique ; les autres pages réutilisent le lanceur existant.
 - **Non opérationnel à ce stade :** modèle 3D riggé original, ailes/yeux/bouche articulés, rig facial et visèmes, voix TTS, costumes réellement intégrés au squelette, connexion de Beam IA. Ne pas annoncer Beam comme « 3D vivant » avant un GLB officiel et des tests.
 - Après fusion : confirmer GitHub Actions, GitHub Pages et inspecter l'affichage en navigateur. Ajouter le lien et l'état de la PR dans la présente section.
+
+## 30 octobre 2026 — Événements contextuels pour les animations de Beam
+- Branche : `beam-animation-context-20261030`.
+- `beam-assistant.js` : déclenche `studybeam:beam-state` pour salutation à l'ouverture, réflexion pendant l'appel IA réel, parole après réponse IA validée, retour au repos et joie après score parfait d'un quiz de démonstration validé.
+- `beam-global.js` : salutation et retour au repos à l'ouverture/fermeture de son panneau.
+- Ces événements sont destinés à un **vrai modèle riggé** et restent sans effet 3D en l'absence de `assets/beam-rigged.glb`. Les animations ne sont pas encore visibles : ne pas les annoncer comme achevées.
+- Pas de voix/TTS, pas de lipsync, pas de rig facial, pas de modèle GLB original. La version fonctionnelle conserve l'image officielle.
+- Vérifier les tests CI et le déploiement avant de présenter la modification comme publiée. Les tests d'animations 3D réelles sont bloqués par l'absence du modèle.
