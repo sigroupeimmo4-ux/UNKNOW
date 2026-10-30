@@ -3,7 +3,7 @@
   // Charger Beam sur toutes les pages sans remplacer le panneau enrichi de app.html.
   if(!document.getElementById('chatForm')){
     const globalBeam=document.createElement('script');
-    globalBeam.src='./beam-global.js?v=beam-visible-2';
+    globalBeam.src='./beam-global.js?v=beam-character-1';
     globalBeam.onload=()=>{const runtime=document.createElement('script');runtime.src='./beam-3d.js?v=rig-runtime-1';document.body.append(runtime);};
     document.body.append(globalBeam);
   }else{
