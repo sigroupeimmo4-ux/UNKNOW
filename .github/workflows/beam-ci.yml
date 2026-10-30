@@ -13,6 +13,7 @@ jobs:
         run: |
           node --check planner-data.js
           node --check planner-dashboard.js
+          node --check school-backup.js
           node --check school-tools.js
           node --check beam-live.js
           node --check beam-3d.js
@@ -23,6 +24,8 @@ jobs:
           node --check demo.js
       - name: Test planner calculations
         run: node tests/test-planner.js
+      - name: Test safe school backups
+        run: node tests/test-school-backup.cjs
       - name: Verify static-page generation
         run: |
           python3 scripts/build_navigation_pages.py
