@@ -49,3 +49,11 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 
 ## Message de reprise dans un nouveau chat
 « Reprends StudyBeam depuis https://github.com/sigroupeimmo4-ux/UNKNOW. Lis `docs/PASSATION_STUDYBEAM.md`, vérifie GitHub Pages, Supabase et les PR, puis poursuis la prochaine mission sans casser le site. Mets à jour ce fichier après toute modification. »
+
+## 30 octobre 2026 — Beam : socle d'animation GLB déployable
+- Branche `beam-3d-runtime-20261030` ; fichiers : `beam-3d.js`, `navigation.js`, `design.css`, `index.html`, `scripts/build_navigation_pages.py`.
+- Le runtime Three.js charge uniquement `assets/beam-rigged.glb` SI un vrai modèle existe. Transitions entre animations GLB nommées `idle`, `greet`, `think`, `talk`, `happy`, `rest`, `fly` ; événement `studybeam:beam-state`. Aucun modèle 3D n'a été ajouté.
+- En l'absence de GLB, l'image officielle reste affichée. Respect du mode réduction des animations et du mode discret ; rendu suspendu hors écran. Ces dispositions nécessitent encore des tests sur appareils.
+- Le compagnon peut aussi être chargé depuis la landing publique ; les autres pages réutilisent le lanceur existant.
+- **Non opérationnel à ce stade :** modèle 3D riggé original, ailes/yeux/bouche articulés, rig facial et visèmes, voix TTS, costumes réellement intégrés au squelette, connexion de Beam IA. Ne pas annoncer Beam comme « 3D vivant » avant un GLB officiel et des tests.
+- Après fusion : confirmer GitHub Actions, GitHub Pages et inspecter l'affichage en navigateur. Ajouter le lien et l'état de la PR dans la présente section.
