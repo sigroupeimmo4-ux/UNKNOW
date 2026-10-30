@@ -29,3 +29,15 @@ Date : 30 octobre 2026
 - Tests de navigateur desktop/mobile et de régression : pas encore effectués.
 - Workflow GitHub sur pull request : à examiner avant publication.
 - Ne pas fusionner avant les contrôles visuels et fonctionnels.
+
+
+## Extension du 30 octobre 2026 — Beam sur les pages principales
+
+- Nouvelle branche de sauvegarde : `backup-before-beam-global-20261030`.
+- `beam-global.js` : panneau flottant sur les pages statiques utilisant `navigation.js`, raccourcis réels vers les rubriques, fermeture par bouton ou Échap, saisie pendant la session, mode discret.
+- `navigation.js` charge Beam global sur les pages sans chat natif ; `app.html` conserve son panneau de chat existant sans doublon.
+- `design.css` ajoute un affichage responsive pastel et prend en compte `prefers-reduced-motion`.
+- `scripts/build_navigation_pages.py` met à jour les ressources des pages régénérées ; workflow de CI vérifie les fichiers JavaScript.
+- Aucun appel fictif à l'IA, aucune fausse réponse pédagogique.
+- **Non terminé :** véritable IA et secrets serveur, composant 3D articulé fidèle à l'illustration, costumes et couleurs réellement appliqués à l'anatomie, synchronisation des personnalisations entre appareils, actions IA contextuelles et tests navigateur exhaustifs.
+- Mise à jour de ce rapport à chaque intervention suivant la consigne utilisateur. Vérifier la PR, CI et GitHub Pages avant de déclarer la fonctionnalité publiée.
