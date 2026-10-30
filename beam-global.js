@@ -7,8 +7,11 @@
   launcher=document.createElement('button');launcher.type='button';launcher.className='beam-launcher';
   launcher.setAttribute('aria-label','Ouvrir Beam, mon compagnon');
   const avatar=document.createElement('img');avatar.src='./assets/studybeam-logo.webp?v=dragon-1';avatar.alt='';avatar.width=64;avatar.height=64;
-  const label=document.createElement('span');label.textContent='Beam';launcher.append(avatar,label);document.body.append(launcher);
+  launcher.append(avatar);document.body.append(launcher);
  }
+ launcher.classList.add('beam-character-launcher');
+ launcher.querySelectorAll(':scope > span:not(.beam-avatar-host)').forEach(label=>label.remove());
+ launcher.setAttribute('aria-label','Discuter avec Beam le dragon');
  launcher.setAttribute('role','button');launcher.setAttribute('aria-expanded','false');
  const panel=document.createElement('section');panel.id='beamGlobalPanel';panel.className='beam-global-panel';
  panel.hidden=true;panel.setAttribute('aria-label','Discuter avec Beam');
