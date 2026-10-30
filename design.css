@@ -206,3 +206,14 @@ body .beam-launcher img{display:block;width:54px;height:54px;object-fit:contain}
 .beam-avatar-host canvas.beam-3d-canvas{position:absolute;inset:0;width:100%!important;height:100%!important;display:block;pointer-events:none}
 @media(max-width:650px){.beam-avatar-host{width:46px;height:46px;flex-basis:46px}}
 @media(prefers-reduced-motion:reduce){.beam-avatar-host.beam-3d-ready>img{visibility:visible}.beam-avatar-host canvas.beam-3d-canvas{display:none}}
+
+/* Beam est le bouton : aucun fond en pilule, ni texte, ni bulle permanente. */
+body .beam-launcher,body .beam-character-launcher{position:fixed!important;right:18px!important;bottom:16px!important;z-index:100!important;display:grid!important;place-items:center!important;width:100px!important;height:100px!important;min-height:0!important;padding:0!important;margin:0!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;color:inherit!important;text-decoration:none!important;cursor:pointer!important;overflow:visible!important}
+body .beam-launcher>span:not(.beam-avatar-host){display:none!important}
+body .beam-launcher>img,body .beam-launcher .beam-avatar-host{width:96px!important;height:96px!important;flex-basis:96px!important}
+body .beam-launcher img{width:100%!important;height:100%!important;object-fit:contain!important;filter:drop-shadow(0 5px 9px #34434a30)}
+body .beam-launcher:focus-visible{outline:3px solid #527F99!important;outline-offset:3px!important;border-radius:18px!important}
+body .beam-launcher:hover img{filter:drop-shadow(0 7px 13px #34434a50)}
+body .beam-dock,body .beam-global-panel{z-index:101!important}
+@media(max-width:650px){body .beam-launcher,body .beam-character-launcher{right:8px!important;bottom:8px!important;width:74px!important;height:74px!important}body .beam-launcher>img,body .beam-launcher .beam-avatar-host{width:70px!important;height:70px!important;flex-basis:70px!important}}
+@media(prefers-reduced-motion:reduce){body .beam-launcher img{animation:none!important}}

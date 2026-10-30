@@ -74,3 +74,10 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Notes : ajout/suppression, moyenne indicative sur 20, filtre par matière et tracé SVG ; stockage uniquement sur l'appareil (`localStorage`).
 - Non disponibles : synchronisation entre appareils, rappels hors navigateur, notification système, glisser-déposer des dates, édition des notes.
 - Tests à confirmer : Actions GitHub, Pages, parcours des formulaires en navigateur, responsive sur appareils physiques.
+
+## 30 octobre 2026 — Beam directement cliquable, sans bulle
+- Branche : `beam-character-launcher-20261030` ; sauvegarde : `backup-before-beam-character-launcher-20261030`.
+- Fichiers : `beam-global.js`, `app.html`, `design.css`, `scripts/build_navigation_pages.py`, `navigation.js`, `index.html`.
+- Le déclencheur flottant affiche uniquement le dragon officiel ; fond, bordure, libellé et pilule supprimés. Le clic ouvre le chat existant. Responsive mobile et focus clavier préservés.
+- La version GLB, si un modèle réel est ajouté ultérieurement, reste prise en charge par `beam-3d.js`. Aucun modèle `assets/beam-rigged.glb` n'est actuellement disponible : le dragon reste une illustration WebP et ses membres/visage ne sont **pas encore articulés**. Ne pas déclarer la mission d'animation 3D achevée.
+- Tests CI et état de publication à confirmer. Inspection visuelle du site et essais en conditions réelles encore nécessaires.
