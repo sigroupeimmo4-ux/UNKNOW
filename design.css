@@ -217,3 +217,8 @@ body .beam-launcher:hover img{filter:drop-shadow(0 7px 13px #34434a50)}
 body .beam-dock,body .beam-global-panel{z-index:101!important}
 @media(max-width:650px){body .beam-launcher,body .beam-character-launcher{right:8px!important;bottom:8px!important;width:74px!important;height:74px!important}body .beam-launcher>img,body .beam-launcher .beam-avatar-host{width:70px!important;height:70px!important;flex-basis:70px!important}}
 @media(prefers-reduced-motion:reduce){body .beam-launcher img{animation:none!important}}
+
+/* Beam: actual WebGL dragon visible instead of the static illustration when loaded */
+.beam-avatar-host.beam-live-ready>img{visibility:hidden!important}
+.beam-avatar-host.beam-live-ready canvas{display:block!important}
+@media(prefers-reduced-motion:reduce){.beam-avatar-host.beam-live-ready>img{visibility:hidden!important}.beam-avatar-host.beam-live-ready canvas{display:block!important}}
