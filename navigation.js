@@ -3,10 +3,11 @@
   const desktop=matchMedia('(min-width: 901px)'),menu=document.querySelector('[data-main-menu]');
   if(!menu)return;
   const collapse=document.getElementById('sidebarCollapse'),summary=menu.querySelector('summary');
-  const palettes={Lavande:['#f8f8fc','#7659c8','#efeafa'],Rose:['#fff4f7','#b94778','#ffe7f0'],Menthe:['#f1faf5','#28795b','#dcf4e8'],Ciel:['#f1f8ff','#2867a7','#deedff'],Neutre:['#f4f4f3','#45484d','#e8e8e5']};
-  const applyTheme=name=>{const values=Object.hasOwn(palettes,name)?palettes[name]:palettes.Lavande;['--bg','--primary','--soft'].forEach((key,i)=>document.documentElement.style.setProperty(key,values[i]));};
+  const palettes={PastelDream:['#FAF9F5','#527F99','#EAF3F4']};
+  // Theme choices are retained for compatibility, but Pastel Dream is the single official site palette.
+  const applyTheme=()=>{for(const key of ['--bg','--primary','--soft']) document.documentElement.style.removeProperty(key);};
   window.studybeamAppearance={palettes,applyTheme};
-  try{applyTheme(localStorage.getItem('sw-theme'));const size=localStorage.getItem('sw-size');if(['16','18','20','22'].includes(size))document.documentElement.style.fontSize=size+'px';}catch{}
+  try{applyTheme();const size=localStorage.getItem('sw-size');if(['16','18','20','22'].includes(size))document.documentElement.style.fontSize=size+'px';}catch{}
   const header=document.querySelector('.design-topbar');
   if(header&&typeof ResizeObserver==='function'){const update=()=>document.documentElement.style.setProperty('--chrome-height',header.getBoundingClientRect().height+'px');new ResizeObserver(update).observe(header);update();}
 
