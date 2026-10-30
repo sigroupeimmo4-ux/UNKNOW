@@ -133,3 +133,9 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Nouvelle référence : `docs/DIRECTION_ARTISTIQUE_BEAM_3D.md` (dragon de qualité film, vert pomme, iris marron, sans fiole, expressions et véritables animations riggées).
 - **À faire** : un vrai modèle GLB sculpté et riggé, validé visuellement par l'utilisateur, avec visèmes et tests smartphone. Les maquettes générées sont des images, non des fichiers 3D. Ne pas annoncer « Beam 3D achevé ».
 - Fusion et publication : à renseigner après réussite des tests GitHub Actions et des URL publiques.
+
+## 30 octobre 2026 — Correction de la page d'aperçu Beam
+- Branche `beam-preview-honest-20261030`.
+- La page `beam-3d-apercu.html` n'affiche plus le prototype WebGL géométrique rejeté ; elle présente une information claire et l'illustration officielle provisoire, avec liens fonctionnels vers l'accueil et le chat.
+- Elle ne contient plus de contrôles d'animation trompeurs ; un vrai GLB riggé, son apparence vert pomme/yeux marron et ses animations restent des objectifs, non des fonctionnalités terminées.
+- Contrôle CI et publication à valider. Le rollback du prototype sur les pages principales a été publié via PR #21, GitHub Pages run 41128560380, avec vérification HTTP des routes réussie.
