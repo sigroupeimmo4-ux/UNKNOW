@@ -100,3 +100,34 @@ input::placeholder,textarea::placeholder{color:#657781}
 input:focus-visible,select:focus-visible,textarea:focus-visible{border-color:#527F99}
 blockquote,.alert{border-color:#D9B766}
 @media(prefers-reduced-motion:reduce){.btn,.button,.quick-card,.route-card{transition:none}}
+
+
+/* Pastel Dream — corrections de priorité et cohérence finale */
+:root,html{
+  --bg:#FAF9F5;--paper:#FAF9F5;--surface:#FFFFFF;
+  --primary:#527F99;--purple:#527F99;--purple-dark:#3A627A;
+  --ink:#34434A;--muted:#586972;--soft:#EAF3F4;--line:#DDE6E6;
+  --accent:#F7E9AC;--blue:#BBDCF2;
+  color:#34434A;background-color:#FAF9F5;
+}
+body{background-color:#FAF9F5;color:#34434A}
+body .topbar,body .design-topbar,body .route-menu{background-color:#FFFFFF}
+body .route-menu .app-nav a[aria-current="page"]{background-color:#E5F1F5;color:#355D74}
+body .hero,body .welcome-card{background:#EDF6F7;color:#34434A}
+body .hero h1,body .welcome-card h2{color:#34434A}
+body .hero p,body .welcome-card p{color:#4B606B}
+body .btn,body .button,body button.btn,body .hero .btn.white{background:#527F99;color:#FFFFFF}
+body .btn.ghost,body .button.secondary,body button.btn.ghost{background:#C5E9D9;color:#284A40;border-color:#ABD7C3}
+body .auth-card,body .route-card,body .card,body .panel{background:#FFFFFF;border-color:#DDE6E6}
+body .pricing-card.featured{background:#FFFEF8;border-color:#C9AD6B}
+body .pricing-card .pricing-badge{background:#F7E9AC;color:#70521C}
+body .brand-hero{background:radial-gradient(ellipse at center,#F2F7F9 0%,#FAF9F5 73%)}
+body .hero-section h1 em{color:#527F99}
+body .feature-link:hover{border-color:#BBDCF2}
+body .quick-card:nth-child(1) .quick-icon{background:#BBDCF2;color:#284F64}
+body .quick-card:nth-child(2) .quick-icon{background:#F2DCE8;color:#68485B}
+body .quick-card:nth-child(3) .quick-icon{background:#F7E9AC;color:#65551E}
+body .quick-card:nth-child(4) .quick-icon{background:#F8DCCE;color:#704B3D}
+body .quick-card:nth-child(5) .quick-icon{background:#C5E9D9;color:#295A47}
+body :is(button,a,input,select,textarea):focus-visible{outline:3px solid #527F99;outline-offset:3px}
+@media print{body{background:#FFFFFF;color:#000000}}
