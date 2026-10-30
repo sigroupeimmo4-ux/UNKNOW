@@ -7,12 +7,12 @@ try{T=await import('https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.modul
 const {Scene,PerspectiveCamera,WebGLRenderer,Group,Mesh,SphereGeometry,ConeGeometry,MeshStandardMaterial,AmbientLight,DirectionalLight,Color}=T;
 const mat=(c,rough=.65)=>new MeshStandardMaterial({color:c,roughness:rough,metalness:0});
 const lavender=mat('#a99ae8'),light=mat('#c6b6fb'),cream=mat('#fff0d9'),gold=mat('#e9ba58',.4),pink=mat('#f5b7cd'),white=mat('#fffdf8'),blue=mat('#2187d9',.27),black=mat('#182635'),mouthDark=mat('#693b58');
-const geo=new SphereGeometry(1,24,16);
+const geo=new SphereGeometry(1,36,24);
 function ball(parent,color,x,y,z,sx,sy,sz){const mesh=new Mesh(geo,color);mesh.position.set(x,y,z);mesh.scale.set(sx,sy,sz);parent.add(mesh);return mesh}
 function horn(parent,x){const h=new Mesh(new ConeGeometry(.14,.52,14),gold);h.position.set(x,1.06,.03);h.rotation.z=x>0?-.25:.25;parent.add(h)}
 function mount(host){
 if(host.dataset.beamLive)return;host.dataset.beamLive='pending';
-const scene=new Scene(),camera=new PerspectiveCamera(31,1,.1,100);camera.position.set(0,.10,7.4);camera.lookAt(0,-.06,0);
+const scene=new Scene(),camera=new PerspectiveCamera(31,1,.1,100);camera.position.set(0,.08,5.5);camera.lookAt(0,-.06,0);
 const renderer=new WebGLRenderer({alpha:true,antialias:true,powerPreference:'low-power'});
 renderer.setPixelRatio(Math.min(devicePixelRatio||1,1.6));renderer.setClearColor(0x000000,0);renderer.outputColorSpace=T.SRGBColorSpace;
 scene.add(new AmbientLight(0xffffff,2.3));const lamp=new DirectionalLight(0xffffff,2.2);lamp.position.set(-3,5,6);scene.add(lamp);
@@ -21,20 +21,24 @@ const body=new Group();dragon.add(body);
 ball(body,lavender,0,-.50,0,.65,.82,.52);
 ball(body,cream,0,-.54,.43,.46,.59,.16);
 const head=new Group();head.position.y=.53;body.add(head);
-ball(head,lavender,0,.15,.02,.91,.78,.77);
-ball(head,light,0,-.14,.65,.57,.32,.38);
-ball(head,cream,0,-.28,.76,.42,.19,.23);
+ball(head,lavender,0,.15,.02,1.00,.85,.79);
+ball(head,light,0,-.15,.70,.64,.34,.40);
+ball(head,cream,0,-.29,.79,.50,.19,.23);
 horn(head,-.59);horn(head,.59);
 for(const x of [-.36,.36]){
- ball(head,white,x,.27,.70,.295,.345,.16);
- ball(head,blue,x+(.06*Math.sign(x)),.25,.855,.177,.24,.065);
- ball(head,black,x+(.06*Math.sign(x)),.25,.913,.111,.18,.035);
- ball(head,white,x-.048,.34,.955,.05,.067,.018);
+ ball(head,white,x,.28,.73,.315,.365,.18);
+ ball(head,blue,x+(.06*Math.sign(x)),.27,.90,.19,.25,.07);
+ ball(head,black,x+(.06*Math.sign(x)),.27,.96,.119,.185,.039);
+ ball(head,white,x-.048,.38,1.005,.061,.073,.020);
  ball(head,lavender,x,.65,.63,.29,.074,.10);
 }
-const lids=[ball(head,lavender,-.36,.53,.78,.296,.025,.175),ball(head,lavender,.36,.53,.78,.296,.025,.175)];
+const lids=[ball(head,lavender,-.36,.55,.80,.316,.025,.184),ball(head,lavender,.36,.55,.80,.316,.025,.184)];
 for(const x of [-.12,.12])ball(head,lavender,x,-.03,1.005,.04,.032,.018);
-const jaw=new Group();jaw.position.set(0,-.41,.83);head.add(jaw);
+// A warm curved smile, rosy cheeks and a little open-mouth expression.
+for(const side of [-1,1])ball(head,pink,side*.70,-.16,.68,.22,.13,.055);
+const smile=ball(head,mouthDark,0,-.365,.991,.31,.095,.05);
+ball(head,cream,0,-.324,1.035,.29,.060,.026);
+const jaw=new Group();jaw.position.set(0,-.44,.88);head.add(jaw);
 ball(jaw,mouthDark,0,-.025,0,.255,.037,.07);
 ball(jaw,pink,0,-.07,.045,.13,.028,.045);
 const wingGroups=[];
@@ -62,11 +66,11 @@ function animate(now){frame=requestAnimationFrame(animate);const dt=Math.min((no
  const t=quiet?0:time,eff=quiet?0:1;
  dragon.position.y=Math.sin(t*1.25)*.11*eff;dragon.rotation.z=Math.sin(t*.72)*.025*eff;
  body.scale.y=1+Math.sin(t*2.2)*.013*eff;head.rotation.y=Math.sin(t*.6)*.055*eff;
- const blink=quiet?0:(Math.sin(t*1.43)+Math.sin(t*2.71)>.1?0:0);
+ 
  // Brief eyelid closure with irregular sine harmonics.
  const phase=(t+(Math.sin(t*.47)*.5))%4.8;
  const closed=phase>4.63?Math.sin((phase-4.63)/.17*Math.PI):0;
- lids.forEach(l=>{l.position.y=.53-closed*.26;l.scale.y=.025+closed*.30});
+ lids.forEach(l=>{l.position.y=.55-closed*.29;l.scale.y=.025+closed*.33});
  wingGroups.forEach((w,i)=>{w.rotation.z=(i?1:-1)*(.06+Math.sin(t*2.4)*.22)*eff});
  body.userData.arms.forEach((arm,i)=>{arm.rotation.z=(i?1:-1)*(state==='greet'?.65+Math.sin(t*7)*.12:.08+Math.sin(t*1.8)*.08)*eff});
  tail.rotation.y=Math.sin(t*1.6)*.24*eff;
