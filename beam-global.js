@@ -32,8 +32,9 @@
  quietLabel.append(quiet,document.createTextNode(' Mode discret (sans animations)'));
  panel.append(head,log,shortcuts,form,fresh,quietLabel,note);document.body.append(panel);
  function add(text,type){const p=document.createElement('p');p.className=type==='user'?'beam-global-user':'beam-global-reply';p.textContent=text;log.append(p);log.scrollTop=log.scrollHeight;}
- function open(){panel.hidden=false;launcher.setAttribute('aria-expanded','true');input.focus();}
- function dismiss(){panel.hidden=true;launcher.setAttribute('aria-expanded','false');launcher.focus();}
+ function state(name){document.dispatchEvent(new CustomEvent('studybeam:beam-state',{detail:{state:name}}));}
+ function open(){state('greet');panel.hidden=false;launcher.setAttribute('aria-expanded','true');input.focus();}
+ function dismiss(){state('idle');panel.hidden=true;launcher.setAttribute('aria-expanded','false');launcher.focus();}
  launcher.addEventListener('click',event=>{event.preventDefault();panel.hidden?open():dismiss();});
  close.onclick=dismiss;
  document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!panel.hidden)dismiss();});
