@@ -18,8 +18,9 @@ def icon(name):
 LINKS=[('index.html','Accueil','home'),('programmes.html','Programmes','programmes'),('cours.html','Cours','course'),('fiches.html','Fiches de révision','sheet'),('audio.html','Audio','audio'),('quiz.html','Quiz','quiz'),('videos.html','Vidéos','video'),('learning-pass.html','Learning Pass','pass'),('calendrier.html','Mon calendrier','programmes'),('mes-notes.html','Mes notes','progress'),('app.html#dragon','Mon dragon','dragon'),('app.html#progress','Progression','progress'),('app.html#settings','Paramètres','settings'),('app.html','Mon espace','home'),('app.html#demo','Démonstrations','quiz'),('app.html#tutor','Beam','dragon'),('login.html','Connexion','user'),('signup.html','Inscription','user')]
 def menu():
  links=''
- for i,(href,title,glyph) in enumerate(LINKS):
-  if i in (0,7,11):links+='<p class="nav-section">'+{0:'APPRENDRE',7:'MON ESPACE',11:'EXPLORER'}[i]+'</p>'
+ for href,title,glyph in LINKS:
+  section={'index.html':'APPRENDRE','calendrier.html':'S’ORGANISER','app.html#dragon':'MON ESPACE','login.html':'MON COMPTE'}.get(href)
+  if section:links+='<p class="nav-section">'+section+'</p>'
   label=' aria-label="Fiches"' if title=='Fiches de révision' else ''
   links+=f'<a href="./{href}" title="{title}"{label}>'+icon(glyph)+f'<span class="nav-label">{title}</span></a>'
  return '<details class="route-menu" id="mainMenu" data-main-menu open><summary aria-label="Menu principal"><span aria-hidden="true">☰</span><span class="menu-caption">Menu principal</span></summary><div class="sidebar-content"><div class="sidebar-brand"><a href="./index.html" aria-label="StudyBeam, accueil"><img src="./assets/studybeam-logo.webp?v=dragon-1" alt="StudyBeam" width="64" height="64"><span class="brand-word">Study<span>Beam</span></span></a><button type="button" id="sidebarCollapse" aria-label="Réduire la barre latérale" aria-expanded="true">'+icon('collapse')+'</button></div><nav class="app-nav" aria-label="Menu principal">'+links+'</nav><div class="sidebar-note"><span class="availability-dot"></span><span>À ton rythme, chaque jour.</span></div></div></details>'
