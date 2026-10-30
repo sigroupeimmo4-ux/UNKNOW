@@ -135,6 +135,7 @@
       client = window.supabase.createClient(window.STUDYBEAM_SUPABASE_URL, window.STUDYBEAM_SUPABASE_ANON_KEY, {
         auth:{flowType:'pkce', detectSessionInUrl:true, persistSession:true, autoRefreshToken:true}
       });
+      window.studybeamAuth = {getSession: () => client.auth.getSession()};
       // Callback synchrone : ne pas attendre une autre méthode auth depuis cet événement.
       client.auth.onAuthStateChange((event, current) => {
         session = current;

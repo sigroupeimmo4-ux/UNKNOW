@@ -153,3 +153,17 @@ class StudyBeamTests(unittest.TestCase):
         self.page.locator('#curriculumGrade').select_option('4e')
         self.assertGreater(self.page.evaluate('window.audioChecks.stops'), before)
         self.assertEqual(self.errors, [])
+
+    def test_beam_dragon_and_local_actions_without_fake_ai(self):
+        self.open_site()
+        self.page.locator('#beamLauncher').click()
+        self.assertTrue(self.page.locator('#tutor img').evaluate('(el)=>el.complete && el.naturalWidth>0'))
+        self.assertIn('API IA à connecter',self.page.locator('#agentConnection').inner_text())
+        self.page.locator('#message').fill('Explique-moi les fractions')
+        self.page.locator('#agentSend').click()
+        self.assertIn('pas encore connectée',self.page.locator('#chat').inner_text())
+        self.page.locator('#message').fill('Ouvre mon quiz')
+        self.page.locator('#agentSend').click()
+        self.assertTrue(self.page.locator('#quiz').is_visible())
+        self.assertIn('Beam a ouvert : Quiz',self.page.locator('#beamActionStatus').inner_text())
+        self.assertEqual(self.errors,[])

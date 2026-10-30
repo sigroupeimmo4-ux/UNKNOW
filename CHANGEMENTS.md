@@ -6,6 +6,13 @@ Les éléments prévus ci-dessous sont des propositions issues de l’analyse in
 
 ## Changements réalisés
 
+### 2026-10-30 — Beam dans la plateforme et préparation de l’API IA
+
+- **Changement :** dragon visible dans le chat et bouton flottant Beam sur les pages de l’application. Suppression des anciennes réponses prédéfinies du chat et des éléments graphiques inutilisés du robot. Beam ouvre déjà quiz, fiches, cours, programmes et progression via des raccourcis et commandes locales.
+- **Préparation IA :** point de connexion désactivé par défaut dans `agent-config.js`, client authentifié avec session Supabase, actions de navigation limitées à une liste autorisée. Une réponse invalide n’exécute aucune action. Modèle de fonction serveur `supabase/functions/beam-agent/` ajouté ; non déployé, sans clé ni modèle configurés, et sans validation dans Deno. Quotas et récupération du corpus officiel restent à implémenter avant activation publique.
+- **Supabase :** le service réel répond et confirme connexion e-mail active, inscriptions actives et confirmation d’adresse obligatoire. Les retours e-mail et mots de passe doivent encore être vérifiés avec un vrai compte ; aucun compte ni e-mail créé pendant les tests.
+- **Validation :** 32 tests Python réussis, dont actions locales du dragon, réponse IA simulée avec navigation et rejet d’une action inconnue. Contrôle de syntaxe du client JavaScript ; fonction TypeScript non exécutée dans Deno. Le service IA ne doit pas être déclaré connecté avant configuration et vérification réelles.
+
 ### 2026-10-29 — Intégration du logo au petit dragon
 
 - **Changement :** utilisation de l’image transparente fournie par lien partagé, conservée sans retouche dans `assets/studybeam-logo.webp` (512 × 512). Le logo est affiché dans les en-têtes et la landing page, et le dragon remplace le robot de démonstration. Les pages d’authentification reprennent la mascotte et les couleurs violet, bleu et doré.

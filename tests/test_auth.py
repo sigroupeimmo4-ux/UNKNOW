@@ -214,3 +214,19 @@ class AuthTests(unittest.TestCase):
         expect(self.page.locator('#authStatus')).to_contain_text('différent')
         expect(self.page.locator('#authSubmit')).to_be_enabled()
         expect(self.page.locator('#authContinue')).to_be_hidden()
+
+    def test_beam_applies_only_allowed_actions_from_service(self):
+        self.scenario({'initial_session': {**USER_SESSION,'access_token':'fake-test-session'}})
+        endpoint='https://yjhwlflbgywxepjhwssl.supabase.co/functions/v1/beam-agent'
+        self.context.route('**/agent-config.js*',lambda route:route.fulfill(content_type='application/javascript',body='window.STUDYBEAM_AGENT_ENDPOINT='+json.dumps(endpoint)+';'))
+        self.context.route(endpoint,lambda route:route.fulfill(content_type='application/json',headers={'Access-Control-Allow-Origin':'*','Access-Control-Allow-Headers':'authorization, apikey, content-type','Access-Control-Allow-Methods':'POST, OPTIONS'},body=json.dumps({'reply':'Voici ta progression.','actions':[{'name':'open_activity','page':'progress'}]})))
+        self.open('app.html');self.page.locator('#beamLauncher').click()
+        self.page.locator('#message').fill('Aide-moi à retrouver mes résultats')
+        self.page.locator('#agentSend').click()
+        expect(self.page.locator('#progress')).to_be_visible()
+        self.context.route(endpoint,lambda route:route.fulfill(content_type='application/json',headers={'Access-Control-Allow-Origin':'*','Access-Control-Allow-Headers':'authorization, apikey, content-type','Access-Control-Allow-Methods':'POST, OPTIONS'},body=json.dumps({'reply':'Action inconnue','actions':[{'name':'run_code','page':'home'}]})))
+        self.page.locator('#beamLauncher').click()
+        self.page.locator('#message').fill('Autre demande')
+        self.page.locator('#agentSend').click()
+        expect(self.page.locator('#agentStatus')).to_contain_text('ne peut pas être utilisée')
+        expect(self.page.locator('#tutor')).to_be_visible()
