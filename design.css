@@ -165,3 +165,11 @@ body :is(button,a,input,select,textarea):focus-visible{outline:3px solid #527F99
 .beam-celebrate:not(.beam-quiet) .beam-launcher img{animation:beam-joy .75s ease-in-out 2}
 @keyframes beam-joy{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-13px) rotate(-7deg)}}
 @media(prefers-reduced-motion:reduce){.beam-celebrate .beam-launcher img{animation:none!important}}
+
+
+/* Recommandations vidéo validées par le référentiel StudyBeam */
+.video-recommendations{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:12px;margin:12px 0 20px}
+.video-recommendation{background:#fff;border:1px solid #DDE6E6;border-top:4px solid #C5E9D9;border-radius:12px;padding:15px;box-shadow:0 2px 12px #34434A08}
+.video-recommendation>a{color:#355D74;font-weight:750;line-height:1.35;text-decoration:underline}
+.video-recommendation p{margin:9px 0;color:#34434A;font-size:.9rem}
+.video-verified{display:inline-block;font-size:.72rem;background:#EAF7EF;color:#24583E;padding:4px 8px;border-radius:7px}
