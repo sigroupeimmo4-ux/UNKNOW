@@ -45,6 +45,13 @@ Ouvrir le site dans un navigateur avec le serveur HTTP. Les fichiers ouverts dir
 
 L’application reste publique en démonstration : la connexion n’est pas une protection d’accès à des données privées. Les préférences, objectifs, notes, événements et scores restent dans le stockage du navigateur, sans synchronisation par compte. Les exports JSON des notes et du calendrier peuvent être réimportés localement, après validation et confirmation de remplacement. Les résultats affichés concernent uniquement le quiz de démonstration. Les cartes de l’accueil ouvrent les activités du référentiel lorsqu’elles existent ; les exemples historiques restent dans `app.html#demo`. Beam, le compagnon dragon, ouvre les activités avec ses raccourcis et commandes locales. Son service IA n’est pas encore connecté. Voir `supabase/functions/beam-agent/README.md` pour la préparation serveur et les étapes d’activation.
 
+## Nouveautés utiles — 30 octobre 2026
+
+- Beam propose une **aide guidée sans IA générative** pour les trois chapitres de mathématiques CP vérifiés : explications préparées, fiches, exercices et quiz. Le module `beam-study-guide.js` lit uniquement les JSON locaux approuvés ; `agent-config.js` reste à `null` pour l’IA serveur.
+- La vidéothèque affiche trois liens externes Lumni / Réseau Canopé liés aux chapitres CP. Le site éditeur conserve l’hébergement de ses vidéos. Les liens et leurs métadonnées ont été vérifiés à partir des pages publiques, sans prétendre à une relecture intégrale par un enseignant.
+- La création de comptes est encore réservée aux **tests adultes** ; la case à cocher est une simple déclaration, non une vérification de l’âge ni un consentement parental. Les comptes d’élèves mineurs ne sont pas encore ouverts.
+- Les sauvegardes du calendrier et des notes restent locales ; pas de synchronisation Supabase. Aucun Learning Pass payant n’est actif. Consulte [les conditions avant lancement](docs/FINALISATION_AVANT_LANCEMENT.md).
+
 ## Authentification Supabase
 
 `supabase-config.js` contient l’URL du projet et sa clé publique `publishable`. Cette clé est visible par conception dans un site web. Ne jamais utiliser une clé `service_role` ou un autre secret serveur dans le navigateur.

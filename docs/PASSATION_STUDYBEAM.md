@@ -193,3 +193,10 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - `docs/FINALISATION_AVANT_LANCEMENT.md` : critères d'ouverture pour vraie IA, protection des mineurs, RLS/progression multi-appareils, catalogue complet, fournisseur de paiement, tests navigateur et validation éditoriale des vidéos.
 - **Non réalisés et non activés :** déploiement d'IA générative (clé et garde-fous non configurés), synchronisation Supabase des résultats des mineurs, paiements, intégration complète CP–Terminale et parcours parental légal. État du serveur Supabase : deux tables vidéo vides avec RLS, aucune Edge Function selon le dernier contrôle (à revérifier avant activation).
 - **Post fusion :** confirmer CI, déploiement Pages et contrôles HTTP. Une CI verte ne valide pas les parcours navigateur, la lecture intégrale des vidéos ou les contrats légaux.
+
+## Vérification et publication de l’aide guidée et des vidéos — 30 octobre 2026
+- PR [#31](https://github.com/sigroupeimmo4-ux/UNKNOW/pull/31) fusionnée dans `main`, commit `c509dfa04c4ce6084f8223220b11bbbed2b74908`.
+- CI [41140096556](https://github.com/sigroupeimmo4-ux/UNKNOW/actions/runs/41140096556) : **succès**. Vérifie syntaxe JS, moteur de tutorat local CP, liens vidéo Lumni, formulaire d’inscription beta, calculs de planification, sauvegardes, génération du site et références locales.
+- Déploiement GitHub Pages [41140192344](https://github.com/sigroupeimmo4-ux/UNKNOW/actions/runs/41140192344) : **succès** ; contrôles HTTP publics post-déploiement **réussis**.
+- README actualisé pour refléter les fonctions effectivement disponibles et les prérequis avant lancement.
+- **Aucun contrôle visuel complet navigateur ni parcours de compte réel** n’a pu être exécuté. Ne pas déclarer la plateforme prête pour les inscriptions de mineurs, un vrai assistant IA, des paiements ou la couverture scolaire totale.
