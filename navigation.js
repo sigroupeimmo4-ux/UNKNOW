@@ -9,7 +9,7 @@
   }else{
     const runtime=document.createElement('script');runtime.src='./beam-3d.js?v=rig-runtime-1';document.body.append(runtime);
   }
-  const live=document.createElement('script');live.src='./beam-live.js?v=beam-live-1';document.body.append(live);
+  const live=document.createElement('script');live.src='./beam-live.js?v=beam-cute-2';document.body.append(live);
   const desktop=matchMedia('(min-width: 901px)'),menu=document.querySelector('[data-main-menu]');
   if(!menu)return;
   const collapse=document.getElementById('sidebarCollapse'),summary=menu.querySelector('summary');
