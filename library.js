@@ -117,6 +117,13 @@
   }
   async function videos(){
     const selected=selection();header('Vidéos pédagogiques','Sélection de vidéos à configurer. La recherche externe reste disponible.');filters('videos',selected);
+    // Publication uniquement des vidéos approuvées pour le contexte exact.
+    window.studybeamVideoSelection={grade:selected.grade,pathway:selected.scope.pathway,subjectId:selected.subject?.id||'',chapterId:selected.chapterId||''};
+    const recommended=node('section');recommended.id='studybeamVideoRecommendations';recommended.className='video-recommendations';
+    const recommendTitle=node('h2','Vidéos vérifiées pour ce chapitre');
+    const recommendStatus=node('p','Chargement des recommandations…','small muted');recommendStatus.id='videoRecommendationsStatus';
+    box.append(recommendTitle,recommendStatus,recommended);
+    const widget=document.createElement('script');widget.src='./video-recommendations.js?v=mission-videos-1';widget.defer=true;document.body.append(widget);
     const response=await fetch('./data/videos.json');if(!response.ok)throw new Error('Catalogue vidéo indisponible');const catalogue=await response.json();let count=0;const g=grid();
     if(catalogue.configured)for(const video of catalogue.videos||[]){try{const url=new URL(video.url);if(url.protocol!=='https:'||url.username||url.password||!video.title||!video.source||!video.description||video.grade!==selected.grade||video.pathway!==selected.scope.pathway||selected.subject&&video.subjectId!==selected.subject.id||selected.chapterId&&video.chapterId!==selected.chapterId||selected.q&&!normalize(video.title+' '+video.description).includes(normalize(selected.q)))continue;card(g,video.title,video.source+' — '+video.description,url.href);const a=g.lastElementChild;a.target='_blank';a.rel='noopener noreferrer';count++;}catch{}}
     if(!count)empty('Aucune vidéo pédagogique sélectionnée et vérifiée n’est configurée pour ce parcours. Aucun lecteur ni titre fictif n’est affiché.');
