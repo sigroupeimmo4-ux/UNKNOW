@@ -23,7 +23,7 @@
   }
  }
  async function load(){
-  const selection=window.studybeamSchool?.getSelection()||{};
+  const selection=window.studybeamVideoSelection||window.studybeamSchool?.getSelection()||{};
   const grade=getValue('grade')||selection.grade,pathway=getValue('pathway')||selection.pathway;
   const subjectId=getValue('subjectId')||selection.subjectId,chapterId=getValue('chapterId')||selection.chapterId;
   if(!grade||!pathway||!subjectId||!chapterId){show([]);status.textContent='Choisis une classe, une matière et un chapitre pour afficher les vidéos validées.';return;}
