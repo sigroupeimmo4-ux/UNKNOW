@@ -116,3 +116,10 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Tests à exécuter en PR : `python3 scripts/build_navigation_pages.py`, `python3 scripts/audit_site.py`, `node --check school-tools.js`, plus les tests CI existants. Vérifier puis corriger toute erreur retournée.
 - **À ne pas déclarer achevés** : tests réels mobile et accessibilité, IA, paiement, vraie synchronisation inter-appareils, contenus vidéo approuvés, toutes les sources de programmes et qualité cinéma Beam.
 - Après fusion, relever le statut du smoke test public GitHub Pages. Si ce test échoue, contrôler la source de déploiement dans GitHub Settings → Pages et l'URL réelle du site.
+
+## Vérification des corrections d'audit — 30 octobre 2026
+- PR de corrections : [#19](https://github.com/sigroupeimmo4-ux/UNKNOW/pull/19), fusionnée dans `main`.
+- CI de la PR : **succès**, y compris le contrôle des références HTML/CSS/JS locales.
+- Publication : GitHub Pages **succès**, [Actions 41084707883](https://github.com/sigroupeimmo4-ux/UNKNOW/actions/runs/41084707883).
+- Les contrôles HTTP après publication ont réussi pour l'accueil, le calendrier, les notes et `beam-3d-apercu.html`.
+- Les parcours réels en navigateur, l'accessibilité, la synchronisation Supabase, la voix/IA et la qualité du contenu restent non validés / partiels comme indiqué dans le rapport d'audit.
