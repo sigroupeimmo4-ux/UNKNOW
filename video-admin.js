@@ -42,6 +42,24 @@
   if(data.user.app_metadata?.studybeam_role!=='admin'){status.textContent='Accès refusé : ton compte ne possède pas le rôle administrateur.';return;}
   panel.classList.remove('hidden');
   $('refreshVideos').onclick=load;
+  $('videoDiscoveryForm').onsubmit=async event=>{
+   event.preventDefault();
+   const fd=new FormData(event.currentTarget);
+   const payload=Object.fromEntries([...fd.entries()].map(([k,v])=>[k,String(v).trim()]));
+   const {data:session}=await client.auth.getSession();
+   if(!session?.session?.access_token){status.textContent='Session expirée : reconnecte-toi.';return;}
+   status.textContent='Recherche YouTube en cours…';
+   try{
+    const response=await fetch(api+'/functions/v1/video-discovery',{
+      method:'POST',
+      headers:{'Content-Type':'application/json',apikey:key,Authorization:'Bearer '+session.session.access_token},
+      body:JSON.stringify(payload),signal:AbortSignal.timeout(18000)
+    });
+    const result=await response.json();
+    if(!response.ok){status.textContent=result.error==='video_search_not_configured'?'Recherche automatique indisponible : clé API YouTube non configurée.': 'Recherche indisponible : '+(result.error||response.status);return;}
+    await load();status.textContent=(result.pending||0)+' suggestion(s) en attente de vérification'+(result.cached?' (résultat déjà en cache).':'.');
+   }catch{status.textContent='Impossible de contacter le service de recherche vidéo.';}
+  };
   $('adminVideoForm').onsubmit=async event=>{
    event.preventDefault();const form=event.currentTarget;const fd=new FormData(form),get=k=>String(fd.get(k)||'').trim();
    let url;try{url=new URL(get('url'));if(url.protocol!=='https:')throw Error();}catch{status.textContent='Utilise une URL HTTPS valide.';return;}
