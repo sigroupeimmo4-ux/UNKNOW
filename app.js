@@ -3,7 +3,7 @@ const navigationPages={home:'app.html',curriculum:'programmes.html',course:'cour
 const learningFormats = {course:'course',sheets:'revision_sheet',audio:'audio',quiz:'quiz'};
 let currentRoute = 'home';
 let navigationVersion = 0;
-const routes = new Set(['home','curriculum','demo','demo-course','demo-sheets','demo-audio','demo-quiz','videos','tutor','progress','settings','dragon',...Object.keys(learningFormats)]);
+const routes = new Set(['home','curriculum','demo','demo-course','demo-sheets','demo-audio','demo-quiz','videos','tutor','progress','settings',...Object.keys(learningFormats)]);
 function stopAudio() {if (window.speechSynthesis) speechSynthesis.cancel();}
 function activatePage(page,focus = true) {
   document.querySelectorAll('.page').forEach(el=>el.classList.toggle('active',el.id===page));
@@ -16,6 +16,7 @@ function activatePage(page,focus = true) {
   if(focus) window.scrollTo({top:0,left:0,behavior:'instant'});
 }
 async function showPage(id,{historyMode='push',focus=true}={}) {
+  if(id==='dragon')id='tutor'; // Redirect old bookmarked customization URL.
   if(navigationPages[id] && id!=='home'){
     const selection=window.studybeamSchool?.getSelection()||{};
     const url=new URL('./'+navigationPages[id],location.href);
@@ -43,7 +44,7 @@ async function showPage(id,{historyMode='push',focus=true}={}) {
 }
 window.addEventListener('popstate',()=>showPage(decodeRoute(),{historyMode:'none'}));
 window.addEventListener('hashchange',()=>{if(location.hash==='#mainContent'){document.getElementById('mainContent').focus();return;}const route=decodeRoute();if(route!==currentRoute)showPage(route,{historyMode:'none'});});
-function decodeRoute(){try{const route=decodeURIComponent(location.hash.slice(1));return routes.has(route)?route:'home';}catch{return 'home';}}
+function decodeRoute(){try{const route=decodeURIComponent(location.hash.slice(1));return route==='dragon'?'tutor':routes.has(route)?route:'home';}catch{return 'home';}}
 document.addEventListener('click',event=>{
   const link=event.target.closest('a[href^="#"]');
   if(!link || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey)return;
@@ -67,7 +68,7 @@ for(const name of Object.keys(palettes)){const button=document.createElement('bu
 const theme='PastelDream';setTheme(theme);
 const fontSize=document.getElementById('fontSize'),storedSize=window.studybeamStorage.get('sw-size');fontSize.value=['16','18','20','22'].includes(storedSize)?storedSize:'16';document.documentElement.style.fontSize=fontSize.value+'px';
 fontSize.onchange=()=>{document.documentElement.style.fontSize=fontSize.value+'px';window.studybeamStorage.set('sw-size',fontSize.value);};
-const outfits=['Classique','Professeur','Super-héros','Astronaute','Détective','Pirate','Licorne','Magicien'],costume=document.getElementById('costume');outfits.forEach(name=>costume.add(new Option(name,name)));const savedOutfit=window.studybeamStorage.get('sw-costume');costume.value=outfits.includes(savedOutfit)?savedOutfit:'Classique';function displayOutfit(){document.getElementById('costumeBadge').textContent=costume.value;};costume.onchange=()=>{displayOutfit();window.studybeamStorage.set('sw-costume',costume.value);};displayOutfit();
+// The prototype costume selector was retired until real visual changes are implemented.
 function readDemoScore(key){const raw=window.studybeamStorage.get(key);if(raw===null||!/^\d$/.test(raw))return null;const value=Number(raw);return Number.isInteger(value)&&value>=0&&value<=3?value:null;}
 function renderProgress(){
   const best=readDemoScore('sw-best'),last=readDemoScore('sw-last'),container=document.getElementById('progressContent');container.replaceChildren();

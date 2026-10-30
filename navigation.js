@@ -3,7 +3,7 @@
   // Charger Beam sur toutes les pages sans remplacer le panneau enrichi de app.html.
   if(!document.getElementById('chatForm')){
     const globalBeam=document.createElement('script');
-    globalBeam.src='./beam-global.js?v=site-audit-1';
+    globalBeam.src='./beam-global.js?v=platform-1';
     document.body.append(globalBeam);
   }
   // Un ancien chargement GLB provoquait une requête 404 à chaque page :

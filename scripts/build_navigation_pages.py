@@ -15,11 +15,11 @@ def save(path,contents):
 ICONS={'home':'m3 10 9-7 9 7v10H3z M9 20v-7h6v7','programmes':'M4 3h16v18H4z M8 7h8 M8 11h8 M8 15h5','course':'M12 6c-3-2-6-2-9-1v15c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1z M12 6v15','sheet':'M6 3h9l4 4v14H6z M10 11h5 M10 15h5','audio':'M4 14v-3a8 8 0 0 1 16 0v3 M4 12h3v8H4z M17 12h3v8h-3z','quiz':'m9 5 2 2 4-4 M5 6H3v15h16V11 M7 13h7 M7 17h7','video':'M3 5h18v14H3z m7 4 5 3-5 3z','pass':'M3 7h18v12H3z M3 11h18 M7 15h3','dragon':'M12 3 8 7 4 5v9l8 7 8-7V5l-4 2z M8 11h1 M15 11h1 M9 16h6','progress':'M4 3v18h17 M8 16v-5 M13 16V7 M18 16V4','settings':'M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8 M9 3h6l1 3 3 1 2 5-2 5-3 1-1 3H9l-1-3-3-1-2-5 2-5 3-1z','user':'M12 3a4 4 0 1 0 0 8 4 4 0 0 0 0-8 M4 21v-3a8 8 0 0 1 16 0v3','search':'M10 3a7 7 0 1 0 0 14 7 7 0 0 0 0-14 M15 15l6 6','arrow':'M4 12h16 m-6-6 6 6-6 6','collapse':'M4 4h16v16H4z M9 4v16 m7-12-3 4 3 4'}
 def icon(name):
  return '<svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="'+ICONS[name]+'"/></svg>'
-LINKS=[('index.html','Accueil','home'),('programmes.html','Programmes','programmes'),('cours.html','Cours','course'),('fiches.html','Fiches de révision','sheet'),('audio.html','Audio','audio'),('quiz.html','Quiz','quiz'),('videos.html','Vidéos','video'),('learning-pass.html','Learning Pass','pass'),('calendrier.html','Mon calendrier','programmes'),('mes-notes.html','Mes notes','progress'),('app.html#dragon','Mon dragon','dragon'),('app.html#progress','Progression','progress'),('app.html#settings','Paramètres','settings'),('app.html','Mon espace','home'),('app.html#demo','Démonstrations','quiz'),('app.html#tutor','Beam','dragon'),('login.html','Connexion','user'),('signup.html','Inscription','user')]
+LINKS=[('index.html','Accueil','home'),('programmes.html','Programmes','programmes'),('cours.html','Cours','course'),('fiches.html','Fiches de révision','sheet'),('audio.html','Audio','audio'),('quiz.html','Quiz','quiz'),('videos.html','Vidéos','video'),('learning-pass.html','Learning Pass','pass'),('calendrier.html','Mon calendrier','programmes'),('mes-notes.html','Mes notes','progress'),('app.html#progress','Progression','progress'),('app.html#settings','Paramètres','settings'),('app.html','Mon espace','home'),('app.html#demo','Démonstrations','quiz'),('app.html#tutor','Beam','dragon'),('login.html','Connexion','user'),('signup.html','Inscription','user')]
 def menu():
  links=''
  for href,title,glyph in LINKS:
-  section={'index.html':'APPRENDRE','calendrier.html':'S’ORGANISER','app.html#dragon':'MON ESPACE','login.html':'MON COMPTE'}.get(href)
+  section={'index.html':'APPRENDRE','calendrier.html':'S’ORGANISER','app.html#progress':'MON ESPACE','login.html':'MON COMPTE'}.get(href)
   if section:links+='<p class="nav-section">'+section+'</p>'
   label=' aria-label="Fiches"' if title=='Fiches de révision' else ''
   links+=f'<a href="./{href}" title="{title}"{label}>'+icon(glyph)+f'<span class="nav-label">{title}</span></a>'
@@ -43,8 +43,8 @@ def update_menu(s):
 app=update_menu((ROOT/'app.html').read_text()).replace('./app.js?v=mission1\"','./app.js?v=mission15\"').replace('./curriculum.js?v=mission1\"','./curriculum.js?v=mission15\"')
 
 app=re.sub(r'<script defer src="./dashboard.js[^\"]*"></script>','',app)
-app=app.replace('<script defer src="./supabase-config.js','<script defer src="./dashboard.js?v=compact1"></script><script defer src="./supabase-config.js',1)
-app=re.sub(r'./app.js\?v=[^\"]*','./app.js?v=compact1',app)
+app=app.replace('<script defer src="./supabase-config.js','<script defer src="./dashboard.js?v=planner-1"></script><script defer src="./supabase-config.js',1)
+app=re.sub(r'./app.js\?v=[^\"]*','./app.js?v=platform-1',app)
 save(ROOT/'app.html',app)
 for file in ['login.html','signup.html','forgot-password.html','reset-password.html','auth-callback.html']:
  p=ROOT/file;s=p.read_text()
