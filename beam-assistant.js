@@ -112,4 +112,14 @@
       clearTimeout(timer);busy=false;send.disabled=false;input.disabled=false;form.setAttribute('aria-busy','false');
     }
   });
+  document.addEventListener('studybeam:demo-quiz-completed',event=>{
+    const score=event.detail?.score,total=event.detail?.total;
+    if(!Number.isInteger(score)||!Number.isInteger(total)||total<=0||score<0||score>total)return;
+    if(quietBox.checked)return;
+    document.documentElement.classList.remove('beam-celebrate');
+    if(score===total)document.documentElement.classList.add('beam-celebrate');
+    const toast=document.getElementById('beamActionStatus');
+    if(toast)toast.textContent=score===total?'Bravo pour ton quiz de démonstration !':'Tu avances ! Tu peux revoir la fiche et réessayer.';
+  });
+
 })();
