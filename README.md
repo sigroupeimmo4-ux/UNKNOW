@@ -7,9 +7,9 @@ StudyBeam propose une vitrine publique Pastel Dream, un espace de révision et d
 | Page | Rôle |
 | --- | --- |
 | `index.html` | Landing page publique Pastel Dream avec le compagnon dragon Beam. |
-| `calendrier.html` | Calendrier de révisions et devoirs, enregistré localement dans le navigateur. |
-| `mes-notes.html` | Suivi local des notes avec graphique filtrable par matière. |
-| `beam-3d-apercu.html` | Aperçu du dragon WebGL procédural, démonstration vocale locale sans IA. |
+| `calendrier.html` | Calendrier local, récurrence hebdomadaire, édition et export/import JSON validé. |
+| `mes-notes.html` | Suivi et édition locale des notes, graphique, export/import JSON validé. |
+| `beam-3d-apercu.html` | Information sur le futur modèle 3D ; l’ancien prototype géométrique rejeté n’est plus présenté comme le modèle final. |
 | `app.html` | Espace de révision existant : activités disponibles selon le parcours, espace de démonstration, Beam et référentiel. |
 | `programmes.html` | Référentiel français : niveau → classe → matière → chapitre, chaque étape avec sa propre URL. |
 | `cours.html`, `fiches.html`, `audio.html`, `quiz.html` | Listes filtrables et activités individuelles avec `?lesson=identifiant`. |
@@ -17,7 +17,7 @@ StudyBeam propose une vitrine publique Pastel Dream, un espace de révision et d
 | `videos.html` | Filtres et recherche externe ; sélection vidéo encore à configurer. |
 | `learning-pass.html` | Grille proposée Sénégal XOF / France EUR, mensuel et annuel ; paiements désactivés. |
 | `a-propos.html` | Présentation des activités, FAQ et informations sur les données. |
-| `app.html#dragon` | Aperçu du dragon officiel et état réel des personnalisations disponibles. |
+| `app.html#tutor` | Chat Beam et raccourcis d’orientation. L’ancienne page `#dragon` est retirée (ancien lien redirigé vers Beam). |
 | `login.html` | Connexion par e-mail et mot de passe. |
 | `signup.html` | Inscription et demande de confirmation d’adresse. |
 | `forgot-password.html` | Demande de lien de récupération. |
@@ -43,7 +43,7 @@ python3 -m http.server 3000 --bind 127.0.0.1
 
 Ouvrir le site dans un navigateur avec le serveur HTTP. Les fichiers ouverts directement en `file://` ne permettent pas de vérifier les parcours de session et de redirection.
 
-L’application reste publique en démonstration : la connexion n’est pas une protection d’accès à des données privées. Les préférences et scores restent dans le stockage du navigateur, sans synchronisation par compte. Les résultats affichés concernent uniquement le quiz de démonstration. Les cartes de l’accueil ouvrent les activités du référentiel lorsqu’elles existent ; les exemples historiques restent dans `app.html#demo`. Beam, le compagnon dragon, ouvre les activités avec ses raccourcis et commandes locales. Son service IA n’est pas encore connecté. Voir `supabase/functions/beam-agent/README.md` pour la préparation serveur et les étapes d’activation.
+L’application reste publique en démonstration : la connexion n’est pas une protection d’accès à des données privées. Les préférences, objectifs, notes, événements et scores restent dans le stockage du navigateur, sans synchronisation par compte. Les exports JSON des notes et du calendrier peuvent être réimportés localement, après validation et confirmation de remplacement. Les résultats affichés concernent uniquement le quiz de démonstration. Les cartes de l’accueil ouvrent les activités du référentiel lorsqu’elles existent ; les exemples historiques restent dans `app.html#demo`. Beam, le compagnon dragon, ouvre les activités avec ses raccourcis et commandes locales. Son service IA n’est pas encore connecté. Voir `supabase/functions/beam-agent/README.md` pour la préparation serveur et les étapes d’activation.
 
 ## Authentification Supabase
 
@@ -112,10 +112,18 @@ Pour régénérer les neuf pages et le menu partagé après un changement du gab
 
 ## Design — Modern & Compact
 
-Le [rapport de refonte](docs/REFONTE_DESIGN_COMPACT.md) décrit la barre latérale, la barre supérieure, le nouvel accueil et la route `app.html#dragon`. Le logo et les ressources scolaires sont conservés. La reprise d’un cours utilise un historique local réel ; le prénom facultatif se règle dans les paramètres. Les anciennes données restent intactes.
+Le [rapport de refonte](docs/REFONTE_DESIGN_COMPACT.md) décrit l'historique de la barre latérale, la barre supérieure et le nouvel accueil. La route de déguisements `app.html#dragon` a depuis été retirée. Le logo et les ressources scolaires sont conservés. La reprise d’un cours utilise un historique local réel ; le prénom facultatif se règle dans les paramètres. Les anciennes données restent intactes.
 
 ## Learning Pass — Tarifs régionaux proposés
 
 Choisir le pays de facturation sur `learning-pass.html` : Sénégal en XOF (2 500 FCFA/mois ou 25 000 FCFA/an), France en EUR (3,99 €/mois ou 39,90 €/an). StudyBeam Free reste gratuit. L’annuel économise deux mensualités. Aucun paiement n’est actif : avantages premium, conditions, taxes, prestataire et parcours parental restent à valider.
 
 Le [dossier commercial](docs/TARIFICATION_LEARNING_PASS.md) explique les montants en unités entières, les états de validation et les prérequis de l’intégration future. Modifier puis publier le JSON central suffit pour changer la grille ; la page le recharge sans reconstruire son HTML.
+
+## Consolidation de l’espace élève — 30 octobre 2026
+
+Les contrôles de costume ne représentant pas de vrais déguisements ont été retirés des interfaces et de la navigation, sans supprimer les anciennes données des navigateurs. L’ancien lien `app.html#dragon` est redirigé dans l’application vers le chat Beam. Les raccourcis Beam privilégient les activités disponibles, le calendrier et les notes.
+
+Les sauvegardes JSON du calendrier et des notes peuvent maintenant être restaurées : seuls les fichiers StudyBeam de la rubrique correspondante sont acceptés ; dates, horaires, notes, limites et identifiants sont validés avant une confirmation explicite du remplacement. Pour les révisions hebdomadaires, chaque occurrence peut être marquée terminée indépendamment des autres. Ces données ne passent pas par Supabase.
+
+**Non finalisé** : véritable IA pédagogique (endpoint nul, aucune Edge Function), synchronisation sécurisée avec compte, parcours mineurs conforme, couverture complète du programme, vidéos vérifiées et paiements. La validation visuelle et fonctionnelle sur appareils réels et les essais d’inscription par e-mail restent indispensables avant ouverture aux élèves.
