@@ -1,12 +1,15 @@
 # StudyBeam — Site statique et authentification Supabase
 
-StudyBeam propose un tableau de bord public, un espace de révision accessible sans compte et des pages d’authentification par e-mail. Le site fonctionne sans compilation et peut être hébergé sur GitHub Pages.
+StudyBeam propose une vitrine publique Pastel Dream, un espace de révision et des pages d’authentification par e-mail. Le catalogue scolaire est partiel, la plupart des outils restent utilisables en démonstration et l'assistant IA serveur n'est pas encore connecté. Le site fonctionne sans compilation et peut être hébergé sur GitHub Pages.
 
 ## Pages
 
 | Page | Rôle |
 | --- | --- |
-| `index.html` | Tableau de bord : accueil, reprise réelle, accès rapides et progression locale. |
+| `index.html` | Landing page publique Pastel Dream avec le compagnon dragon Beam. |
+| `calendrier.html` | Calendrier de révisions et devoirs, enregistré localement dans le navigateur. |
+| `mes-notes.html` | Suivi local des notes avec graphique filtrable par matière. |
+| `beam-3d-apercu.html` | Aperçu du dragon WebGL procédural, démonstration vocale locale sans IA. |
 | `app.html` | Espace de révision existant : activités disponibles selon le parcours, espace de démonstration, Beam et référentiel. |
 | `programmes.html` | Référentiel français : niveau → classe → matière → chapitre, chaque étape avec sa propre URL. |
 | `cours.html`, `fiches.html`, `audio.html`, `quiz.html` | Listes filtrables et activités individuelles avec `?lesson=identifiant`. |
@@ -20,6 +23,16 @@ StudyBeam propose un tableau de bord public, un espace de révision accessible s
 | `forgot-password.html` | Demande de lien de récupération. |
 | `reset-password.html` | Modification du mot de passe avec une session authentifiée. |
 | `auth-callback.html` | Traitement du retour de confirmation d’e-mail. |
+
+## Vérifier le site avant publication
+
+```sh
+python3 scripts/build_navigation_pages.py
+python3 scripts/audit_site.py
+python3 scripts/build_navigation_pages.py --check
+```
+
+Le workflow GitHub Pages contrôle également les pages publiques essentielles après le déploiement. Le succès de ces tests techniques ne remplace pas une vérification visuelle en navigateur.
 
 ## Démarrer en local
 

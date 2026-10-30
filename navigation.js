@@ -3,11 +3,16 @@
   // Charger Beam sur toutes les pages sans remplacer le panneau enrichi de app.html.
   if(!document.getElementById('chatForm')){
     const globalBeam=document.createElement('script');
-    globalBeam.src='./beam-global.js?v=beam-character-1';
-    globalBeam.onload=()=>{const runtime=document.createElement('script');runtime.src='./beam-3d.js?v=rig-runtime-1';document.body.append(runtime);};
+    globalBeam.src='./beam-global.js?v=site-audit-1';
     document.body.append(globalBeam);
-  }else{
-    const runtime=document.createElement('script');runtime.src='./beam-3d.js?v=rig-runtime-1';document.body.append(runtime);
+  }
+  // Un ancien chargement GLB provoquait une requête 404 à chaque page :
+  // aucun fichier assets/beam-rigged.glb n'est actuellement publié.
+  // Ne charger l'ancien lecteur glTF que si un véritable modèle est installé.
+  if(window.STUDYBEAM_ENABLE_RIGGED_BEAM === true){
+    const runtime=document.createElement('script');
+    runtime.src='./beam-3d.js?v=rig-runtime-1';
+    document.body.append(runtime);
   }
   const live=document.createElement('script');live.src='./beam-live.js?v=apple-green-1';document.body.append(live);
   const desktop=matchMedia('(min-width: 901px)'),menu=document.querySelector('[data-main-menu]');
