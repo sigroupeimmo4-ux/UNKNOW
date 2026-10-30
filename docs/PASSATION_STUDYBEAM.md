@@ -89,3 +89,10 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - Le lanceur flottant des pages peut afficher cette version 3D ; si chargement Three.js échoue, l'image de Beam reste visible.
 - Limites : pas de modèle GLB riggé d'artiste, rendu stylisé et non qualité cinéma, fidélité visuelle à valider par l'utilisateur, pas de voix IA côté serveur, ni synchronisation labiale phonème-par-phonème. Tests sur navigateur/appareil réels encore nécessaires.
 - Après merge : confirmer succès GitHub Actions et GitHub Pages avant d'annoncer la publication, et tester visuellement la présence du WebGL.
+
+## 30 octobre 2026 — Beam agrandi, souriant et plus visible
+- Branche `beam-cute-visible-20261030`, sauvegarde `backup-before-beam-cute-20261030`.
+- `beam-live.js` : caméra rapprochée, visage rond agrandi, yeux plus larges, joues roses, sourire plus visible ; animations 3D précédentes conservées.
+- `design.css` : lanceur dragon flottant 154 px ordinateur, 110 px mobile, sans pilule ; assets rafraîchis dans `navigation.js`, `index.html`, `scripts/build_navigation_pages.py`, `beam-3d-apercu.html`.
+- Important : rendu WebGL procédural et animation simplifiée, ni modèle cinéma ni lip-sync précis ; l'image officielle reste affichée si l'import 3D échoue.
+- Tests syntaxiques et génération de pages à vérifier en CI ; rendu navigateur réel non encore validé.
