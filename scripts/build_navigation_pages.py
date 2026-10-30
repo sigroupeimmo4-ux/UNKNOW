@@ -27,13 +27,13 @@ def topbar():
  return '<header class="topbar design-topbar"><nav class="topnav" aria-label="Navigation principale"><nav class="top-breadcrumb" aria-label="Vous êtes ici"><a href="./index.html">Mon espace</a><span aria-hidden="true">/</span><span id="topPageName">Accueil</span></nav><form class="global-search" action="./cours.html" method="get" role="search"><label class="sr-only" for="globalSearch">Rechercher un cours</label>'+icon('search')+'<input id="globalSearch" name="q" type="search" placeholder="Rechercher un cours…" maxlength="100"><button type="submit" aria-label="Lancer la recherche">↵</button></form><div class="top-account"><a class="account-settings" href="./app.html#settings" aria-label="Paramètres du compte" title="Paramètres du compte">'+icon('settings')+'</a><a class="profile-link" href="./app.html#settings" aria-label="Mon profil" title="Mon profil"><span class="profile-avatar">'+icon('user')+'</span><span class="profile-label">Mon profil</span></a></div></nav></header>'
 def update_menu(s):
  s=s.replace('./index.html#confidentialite','./a-propos.html#confidentialite')
- s=re.sub(r'\./design\.css\?v=[a-z0-9-]+','./design.css?v=beam-global-1',s)
+ s=re.sub(r'\./design\.css\?v=[a-z0-9-]+','./design.css?v=beam-visible-2',s)
  s=re.sub(r'<details class="route-menu".*?</details>',lambda m:menu(),s,flags=re.S)
  s=re.sub(r'<header class="(?:topbar[^"]*|site-header)">.*?</header>',lambda m:topbar(),s,count=1,flags=re.S)
  if 'navigation.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./navigation.css?v=mission15"></head>',1)
  if 'design.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./design.css?v=compact1"></head>',1)
  s=re.sub(r'<script defer src="./navigation.js[^"]*"></script>','',s)
- nav_script='<script defer src="./navigation.js?v=beam-global-1"></script>'
+ nav_script='<script defer src="./navigation.js?v=beam-visible-2"></script>'
  marker='<script defer src="./storage.js'
  if marker not in s:marker='<script defer src="https://cdn.jsdelivr.net'
  if marker in s:s=s.replace(marker,nav_script+marker,1)
@@ -68,7 +68,7 @@ for filename,(kind,title) in pages.items():
  bridge='<div id="curriculumBridge" hidden><select id="curriculumGrade"></select><select id="curriculumPathway"></select><select id="curriculumVariant"></select><div id="curriculumVariantField"></div><select id="curriculumType"><option value="commun">Commun</option><option value="specialite">Spécialité</option><option value="option">Option</option></select><select id="curriculumSubject"></select><select id="curriculumDomain"></select><select id="curriculumChapter"></select><p id="curriculumSummary"></p><p id="curriculumStatus"></p><div id="curriculumCalendar"></div><div id="curriculumReferences"></div><div id="curriculumActivity"></div></div>'
  footer='<footer class="footer">StudyBeam · Les contenus disponibles et leurs sources sont indiqués dans chaque parcours.</footer>'
  launcher='<a class="beam-launcher" href="./app.html#tutor" aria-label="Ouvrir Beam, mon assistant dragon"><img src="./assets/studybeam-logo.webp?v=dragon-1" alt="" width="64" height="64"><span>Beam</span></a>'
- scripts=''.join('<script defer src="./'+name+'?v='+('beam-global-1' if name=='navigation.js' else 'mission-videos-1' if name=='library.js' else 'pricing1')+'"></script>' for name in ['navigation.js','storage.js','school-data.js','library-shell.js','curriculum.js','library.js','dashboard.js'])
+ scripts=''.join('<script defer src="./'+name+'?v='+('beam-visible-2' if name=='navigation.js' else 'mission-videos-1' if name=='library.js' else 'pricing1')+'"></script>' for name in ['navigation.js','storage.js','school-data.js','library-shell.js','curriculum.js','library.js','dashboard.js'])
  s=before+'<main class="app" id="mainContent" tabindex="-1">'+marker+content+bridge+footer+'</main>'+launcher+scripts+'</body></html>\n'
  save(ROOT/filename,s)
 if __name__=='__main__':
