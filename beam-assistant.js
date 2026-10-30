@@ -11,6 +11,8 @@
   const endpoint = window.STUDYBEAM_AGENT_ENDPOINT;
   const history = [];
   let busy = false;
+  function beamState(state) { document.dispatchEvent(new CustomEvent('studybeam:beam-state', {detail:{state}})); }
+
   function bubble(text, who) {
     const el = document.createElement('div'); el.className = 'bubble ' + who; el.textContent = text;
     transcript.append(el); transcript.scrollTop = transcript.scrollHeight;
@@ -50,8 +52,8 @@
   const reopen=document.createElement('button');reopen.type='button';reopen.className='btn';reopen.textContent='Ouvrir le chat Beam';reopen.onclick=()=>openDock();
   tutorial.querySelector('.pagebox')?.append(reopen);
   const launcher=document.getElementById('beamLauncher');
-  function openDock(){aside.hidden=false;launcher.setAttribute('aria-expanded','true');input.focus();}
-  function closeDock(){aside.hidden=true;launcher.setAttribute('aria-expanded','false');launcher.focus();}
+  function openDock(){beamState('greet');aside.hidden=false;launcher.setAttribute('aria-expanded','true');input.focus();}
+  function closeDock(){beamState('idle');aside.hidden=true;launcher.setAttribute('aria-expanded','false');launcher.focus();}
   close.onclick=closeDock;
   fresh.onclick=()=>{history.length=0;transcript.replaceChildren();bubble('Coucou ! Je suis Beam, ton compagnon d’apprentissage. Qu’est-ce qu’on découvre aujourd’hui ?','bot');status.textContent='';input.focus();};
   quietBox.onchange=()=>{window.studybeamStorage?.set('beam-quiet',String(quietBox.checked));document.documentElement.classList.toggle('beam-quiet',quietBox.checked);};
@@ -90,6 +92,7 @@
     if (!service) {
       bubble('Mon API IA n’est pas encore connectée. Je ne peux pas encore générer cette réponse. Tu peux utiliser mes raccourcis pour ouvrir tes activités.','bot'); return;
     }
+    beamState('think');
     busy = true; send.disabled = true; input.disabled = true; form.setAttribute('aria-busy','true');
     const controller = new AbortController(); const timer = setTimeout(()=>controller.abort(),30000);
     try {
@@ -102,6 +105,7 @@
       if (typeof result.reply !== 'string' || !result.reply.trim() || result.reply.length > 10000 || !Array.isArray(result.actions) || result.actions.length > 3) throw new Error('invalid_response');
       // Valider toute la liste avant toute action. Aucun code ni URL libre n’est exécuté.
       if (result.actions.some(a=>a?.name!=='open_activity'||!allowed.has(a.page))) throw new Error('invalid_action');
+      beamState('talk');
       bubble(result.reply,'bot');
       for (const action of result.actions) bubble(act(action),'bot');
       history.push({role:'user',content:text},{role:'assistant',content:result.reply});
@@ -109,6 +113,7 @@
     } catch (error) {
       status.textContent = error?.name==='AbortError' ? 'Le service met trop de temps à répondre. Réessaie.' : error?.message==='401' ? 'Ta session a expiré. Reconnecte-toi.' : 'Le service IA est indisponible ou sa réponse ne peut pas être utilisée. Réessaie plus tard.';
     } finally {
+      beamState('idle');
       clearTimeout(timer);busy=false;send.disabled=false;input.disabled=false;form.setAttribute('aria-busy','false');
     }
   });
@@ -117,7 +122,7 @@
     if(!Number.isInteger(score)||!Number.isInteger(total)||total<=0||score<0||score>total)return;
     if(quietBox.checked)return;
     document.documentElement.classList.remove('beam-celebrate');
-    if(score===total)document.documentElement.classList.add('beam-celebrate');
+    if(score===total){document.documentElement.classList.add('beam-celebrate');beamState('happy');}
     const toast=document.getElementById('beamActionStatus');
     if(toast)toast.textContent=score===total?'Bravo pour ton quiz de démonstration !':'Tu avances ! Tu peux revoir la fiche et réessayer.';
   });
