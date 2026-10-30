@@ -96,3 +96,14 @@ Bleu ciel `#BBDCF2`, menthe `#C5E9D9`, pêche `#F8DCCE`, jaune `#F7E9AC`, rose `
 - `design.css` : lanceur dragon flottant 154 px ordinateur, 110 px mobile, sans pilule ; assets rafraîchis dans `navigation.js`, `index.html`, `scripts/build_navigation_pages.py`, `beam-3d-apercu.html`.
 - Important : rendu WebGL procédural et animation simplifiée, ni modèle cinéma ni lip-sync précis ; l'image officielle reste affichée si l'import 3D échoue.
 - Tests syntaxiques et génération de pages à vérifier en CI ; rendu navigateur réel non encore validé.
+
+## 30 octobre 2026 — Nouveau Beam vert pomme, yeux marron, mains libres
+- Demande utilisateur : prendre pour référence le dragon au visage rond et souriant (ancienne image turquoise/violette), **retirer la fiole**, changer les yeux en **marron** et le corps en **vert pomme**, réintégrer toutes les animations existantes.
+- Branche : `beam-apple-green-animations-20261030`. Sauvegarde : `backup-before-beam-apple-green-20261030`.
+- `beam-live.js` : peau vert pomme `#9ADB38`, reflets verts clairs, iris bruns `#8B4B2B`, cornes et épines mauves, doigts violets, joues et sourire conservés. Aucune fiole, baguette ou objet dans les mains. Personnage en WebGL/Three.js, rendu procédural articulé.
+- Les états existants `idle` (respiration/flottement/clignement), `greet` (salutation), `think` (réflexion), `talk` (mâchoire pendant la voix), `happy` (joie), `rest` (paupières fermées), `fly` (vol/ailes/queue) sont conservés et affinés. États complémentaires `listen`, `surprised`, `dance`. Repos après inactivité prolongée.
+- `beam-3d-apercu.html` : commandes de démonstration pour ces expressions et mouvements, déclenchement vocal volontaire par synthèse vocale du navigateur (synchronisation labiale APPROXIMATIVE).
+- `navigation.js`, `index.html`, `scripts/build_navigation_pages.py` : mise à jour des versions de l'asset pour empêcher la mise en cache de l'ancien Beam.
+- L'illustration générée en conversation sert de référence visuelle et n'est PAS un modèle 3D / GLB. Les fichiers du site restent ceux du dépôt ; le logo officiel n'est pas remplacé.
+- Limites : rendu 3D encore stylisé et construit par code, non qualité cinéma, aucune visémie précise ou voix IA serveur ; dépend du chargement de Three.js et de WebGL. Si WebGL indisponible, l'ancienne image officielle reste en secours. Contrôle visuel réel sur mobile/ordinateur à faire.
+- Ne déclarer la nouvelle version **publiée** qu'après réussite de GitHub Actions et déploiement GitHub Pages. Enregistrer la PR et le résultat des tests dans une prochaine entrée.
