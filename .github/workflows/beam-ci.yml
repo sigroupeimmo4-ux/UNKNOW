@@ -12,6 +12,7 @@ jobs:
       - name: Validate Beam JavaScript
         run: |
           node --check school-tools.js
+          node --check beam-live.js
           node --check beam-3d.js
           node --check beam-global.js
           node --check navigation.js
