@@ -222,3 +222,9 @@ body .beam-dock,body .beam-global-panel{z-index:101!important}
 .beam-avatar-host.beam-live-ready>img{visibility:hidden!important}
 .beam-avatar-host.beam-live-ready canvas{display:block!important}
 @media(prefers-reduced-motion:reduce){.beam-avatar-host.beam-live-ready>img{visibility:hidden!important}.beam-avatar-host.beam-live-ready canvas{display:block!important}}
+
+/* Beam plus grand, identifiable et accessible : dragon seul sans bulle */
+body .beam-launcher,body .beam-character-launcher{width:154px!important;height:154px!important;right:14px!important;bottom:12px!important;min-height:0!important}
+body .beam-launcher>img,body .beam-launcher .beam-avatar-host{width:150px!important;height:150px!important;flex-basis:150px!important}
+body .beam-launcher .beam-avatar-host canvas{width:100%!important;height:100%!important}
+@media(max-width:650px){body .beam-launcher,body .beam-character-launcher{width:110px!important;height:110px!important;right:5px!important;bottom:7px!important}body .beam-launcher>img,body .beam-launcher .beam-avatar-host{width:106px!important;height:106px!important;flex-basis:106px!important}}
