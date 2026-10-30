@@ -14,7 +14,8 @@
     runtime.src='./beam-3d.js?v=rig-runtime-1';
     document.body.append(runtime);
   }
-  const live=document.createElement('script');live.src='./beam-live.js?v=apple-green-1';document.body.append(live);
+  // Prototype WebGL géométrique retiré des pages élèves : rendu non validé.
+  // Le chat et la mascotte officielle restent accessibles ; le rig GLB n'est pas encore fourni.
   const desktop=matchMedia('(min-width: 901px)'),menu=document.querySelector('[data-main-menu]');
   if(!menu)return;
   const collapse=document.getElementById('sidebarCollapse'),summary=menu.querySelector('summary');
