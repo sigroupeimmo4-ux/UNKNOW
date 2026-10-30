@@ -18,6 +18,7 @@ jobs:
           node --check beam-live.js
           node --check beam-3d.js
           node --check beam-global.js
+          node --check beam-study-guide.js
           node --check navigation.js
           node --check beam-assistant.js
           node --check beam-customizer.js
@@ -26,6 +27,8 @@ jobs:
         run: node tests/test-planner.js
       - name: Test safe school backups
         run: node tests/test-school-backup.cjs
+      - name: Test guided Beam and source videos
+        run: node tests/test-study-guide.cjs
       - name: Verify static-page generation
         run: |
           python3 scripts/build_navigation_pages.py

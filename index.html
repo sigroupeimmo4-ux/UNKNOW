@@ -142,7 +142,7 @@ body{overflow-x:clip}
 </div></section>
 <section class="landing-section"><div class="landing-container"><div class="landing-final"><div><h2>Ton aventure commence ici !</h2><p>Découvre les premières activités, sans inscription. Étape par étape, avec Beam.</p><a class="landing-btn" href="./app.html#demo">Essayer StudyBeam gratuitement →</a></div><img src="./assets/studybeam-logo.webp?v=dragon-1" alt="Beam, le dragon de StudyBeam" loading="lazy" decoding="async" width="130" height="130"></div></div></section></main>
 <footer class="landing-footer"><div class="landing-container landing-footer-inner"><div><a class="landing-brand" href="./index.html"><img src="./assets/studybeam-logo.webp?v=dragon-1" alt="" width="40" height="40"><span>Study<span>Beam</span></span></a><br><small>Apprendre avec le sourire.</small><p class="landing-footer-note">Plateforme en développement · Les comptes élèves et le service IA ne sont pas encore ouverts.</p></div><nav class="landing-footer-links" aria-label="Liens utiles"><a href="./a-propos.html">À propos</a><a href="#questions">Questions fréquentes</a><a href="#apercu">Outils pour les élèves</a><a href="./cours.html">Fonctionnalités</a><a href="./programmes.html">Programmes scolaires</a><a href="./learning-pass.html">Learning Pass</a><a href="./a-propos.html#confidentialite">Informations sur les données</a><a href="#offres">Offres en préparation</a></nav></div></footer>
-<link rel="stylesheet" href="./design.css?v=apple-green-1"><script defer src="./beam-global.js?v=platform-1"></script><script>
+<link rel="stylesheet" href="./design.css?v=apple-green-1"><script defer src="./beam-study-guide.js?v=study-guide-1"></script><script defer src="./beam-global.js?v=study-guide-1"></script><script>
 /* Uniquement pour le menu de la page d'accueil ; les autres pages ne sont pas touchées. */
 (() => {
   const menu=document.querySelector('.landing-menu');
@@ -172,7 +172,7 @@ body{overflow-x:clip}
     const input=panel.querySelector('.beam-global-form input');
     if(input){input.placeholder='Ex. : ouvre les cours';input.setAttribute('aria-label','Demander à Beam d’ouvrir une rubrique');}
     const note=panel.querySelector('p.small.muted');
-    if(note)note.textContent='Beam peut t’orienter vers les rubriques (« ouvre les cours », « ouvre les quiz »). Il ne génère pas encore de réponses avec une IA.';
+    if(note)note.textContent='Beam propose des raccourcis et une aide guidée à partir des trois leçons de mathématiques CP disponibles. L’IA générative n’est pas encore connectée.';
     panel.addEventListener('click',event=>{
       const a=event.target.closest('a[href]');
       if(a && a.getAttribute('href')?.endsWith('app.html#dragon')){a.href='./app.html';a.textContent='Ouvrir mon espace';}

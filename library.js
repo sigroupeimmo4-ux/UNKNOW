@@ -116,17 +116,17 @@
     if(kind==='course')window.studybeamDashboard?.remember(ch.id);
   }
   async function videos(){
-    const selected=selection();header('Vidéos pédagogiques','Sélection de vidéos à configurer. La recherche externe reste disponible.');filters('videos',selected);
+    const selected=selection();header('Vidéos pédagogiques','Trois liens vers des vidéos de Lumni / Réseau Canopé sont disponibles pour les premiers chapitres de mathématiques CP. Les autres sélections restent à enrichir.');filters('videos',selected);
     // Publication uniquement des vidéos approuvées pour le contexte exact.
     window.studybeamVideoSelection={grade:selected.grade,pathway:selected.scope.pathway,subjectId:selected.subject?.id||'',chapterId:selected.chapterId||''};
     const recommended=node('section');recommended.id='studybeamVideoRecommendations';recommended.className='video-recommendations';
-    const recommendTitle=node('h2','Vidéos vérifiées pour ce chapitre');
+    const recommendTitle=node('h2','Autres vidéos validées dans le catalogue (en préparation)');
     const recommendStatus=node('p','Chargement des recommandations…','small muted');recommendStatus.id='videoRecommendationsStatus';
     box.append(recommendTitle,recommendStatus,recommended);
     const widget=document.createElement('script');widget.src='./video-recommendations.js?v=mission-videos-1';widget.defer=true;document.body.append(widget);
-    const response=await fetch('./data/videos.json');if(!response.ok)throw new Error('Catalogue vidéo indisponible');const catalogue=await response.json();let count=0;const g=grid();
+    const response=await fetch('./data/videos.json?v=lumni-cp-1');if(!response.ok)throw new Error('Catalogue vidéo indisponible');const catalogue=await response.json();let count=0;const g=grid();
     if(catalogue.configured)for(const video of catalogue.videos||[]){try{const url=new URL(video.url);if(url.protocol!=='https:'||url.username||url.password||!video.title||!video.source||!video.description||video.grade!==selected.grade||video.pathway!==selected.scope.pathway||selected.subject&&video.subjectId!==selected.subject.id||selected.chapterId&&video.chapterId!==selected.chapterId||selected.q&&!normalize(video.title+' '+video.description).includes(normalize(selected.q)))continue;card(g,video.title,video.source+' — '+video.description,url.href);const a=g.lastElementChild;a.target='_blank';a.rel='noopener noreferrer';count++;}catch{}}
-    if(!count)empty('Aucune vidéo pédagogique sélectionnée et vérifiée n’est configurée pour ce parcours. Aucun lecteur ni titre fictif n’est affiché.');
+    if(count){box.append(node('p',count+' lien(s) vers des vidéos hébergées par Lumni / Réseau Canopé. Les titres et pages source ont été contrôlés ; le visionnage intégral et la relecture pédagogique par un enseignant restent à effectuer.','small muted'));}else empty('Aucun lien vidéo sélectionné pour ce parcours. Les recherches externes restent non validées par StudyBeam.');
     const title=selected.subject?.title||'';const chapter=selected.subject?chapters(program(selected.scope,selected.subject)).find(c=>c.id===selected.chapterId)?.title||'':'';
     const search=link('Rechercher sur YouTube','https://www.youtube.com/results?search_query='+encodeURIComponent([selected.grade,title,chapter,selected.q,'cours'].filter(Boolean).join(' ')),'btn ghost');search.target='_blank';search.rel='noopener noreferrer';box.append(search,node('p','Les résultats sont externes et ne sont pas validés par StudyBeam.','small muted'));
   }
