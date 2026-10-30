@@ -11,6 +11,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Validate Beam JavaScript
         run: |
+          node --check planner-data.js
+          node --check planner-dashboard.js
           node --check school-tools.js
           node --check beam-live.js
           node --check beam-3d.js
@@ -19,6 +21,8 @@ jobs:
           node --check beam-assistant.js
           node --check beam-customizer.js
           node --check demo.js
+      - name: Test planner calculations
+        run: node tests/test-planner.js
       - name: Verify static-page generation
         run: |
           python3 scripts/build_navigation_pages.py
