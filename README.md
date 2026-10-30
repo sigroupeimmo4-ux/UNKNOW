@@ -7,7 +7,7 @@ StudyBeam propose une présentation publique, un espace de révision accessible 
 | Page | Rôle |
 | --- | --- |
 | `index.html` | Landing page : présentation, activités disponibles, état des programmes et accès à la démonstration. |
-| `app.html` | Espace de révision existant : cours, fiches, quiz, audio, chat de démonstration et référentiel. |
+| `app.html` | Espace de révision existant : activités disponibles selon le parcours, espace de démonstration, Beam et référentiel. |
 | `app.html#curriculum` | Accès direct au référentiel français 2026-2027. |
 | `login.html` | Connexion par e-mail et mot de passe. |
 | `signup.html` | Inscription et demande de confirmation d’adresse. |
@@ -24,7 +24,7 @@ python3 -m http.server 3000 --bind 127.0.0.1
 
 Ouvrir le site dans un navigateur avec le serveur HTTP. Les fichiers ouverts directement en `file://` ne permettent pas de vérifier les parcours de session et de redirection.
 
-L’application reste publique en démonstration : la connexion n’est pas une protection d’accès à des données privées. Les préférences et scores restent dans le stockage du navigateur, sans synchronisation par compte. Beam, le compagnon dragon, ouvre les activités avec ses raccourcis et commandes locales. Son service IA n’est pas encore connecté. Voir `supabase/functions/beam-agent/README.md` pour la préparation serveur et les étapes d’activation.
+L’application reste publique en démonstration : la connexion n’est pas une protection d’accès à des données privées. Les préférences et scores restent dans le stockage du navigateur, sans synchronisation par compte. Les résultats affichés concernent uniquement le quiz de démonstration. Les cartes de l’accueil ouvrent les activités du référentiel lorsqu’elles existent ; les exemples historiques restent dans `app.html#demo`. Beam, le compagnon dragon, ouvre les activités avec ses raccourcis et commandes locales. Son service IA n’est pas encore connecté. Voir `supabase/functions/beam-agent/README.md` pour la préparation serveur et les étapes d’activation.
 
 ## Authentification Supabase
 
@@ -64,7 +64,7 @@ PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
 node tests/test_curriculum_engine.cjs
 ```
 
-La suite comprend 32 tests Python et 2 tests JavaScript. Les tests navigateur utilisent Playwright Python et Chromium, disponibles dans l’environnement cloud, et démarrent leur propre serveur temporaire. Les tests d’authentification vérifient les contrats avec le SDK simulé, y compris sous un préfixe de déploiement ; ils ne prouvent pas l’acheminement des e-mails réels.
+La suite comprend 42 tests Python et 2 tests JavaScript. Les tests navigateur utilisent Playwright Python et Chromium, disponibles dans l’environnement cloud, et démarrent leur propre serveur temporaire. Les tests d’authentification vérifient les contrats avec le SDK simulé, y compris sous un préfixe de déploiement ; ils ne prouvent pas l’acheminement des e-mails réels.
 
 Les pages publiques et formulaires ont aussi été vérifiés avec le SDK réel, sur ordinateur et à 390 px de largeur, sans débordement ni erreur JavaScript sur ces parcours.
 
@@ -79,3 +79,7 @@ Le [dossier du référentiel](curriculum/README.md) précise les sources, versio
 Le workflow `.github/workflows/` prépare un déploiement GitHub Pages lors d’un push sur `main`. La version `739cb76` a été publiée avec succès le 29 octobre 2026 : https://sigroupeimmo4-ux.github.io/UNKNOW/. Les nouvelles versions sont déployées par ce workflow.
 
 Le projet vise notamment des mineurs. Les règles de consentement et de confidentialité restent à définir avant l’ouverture publique des inscriptions aux élèves. Avant de stocker des profils ou résultats, créer les tables et leurs politiques Row Level Security et vérifier qu’un élève ne peut consulter ou modifier que ses propres données. La création des pages d’authentification ne réalise pas ces fonctions de base de données.
+
+## Mission 1 — Fondations
+
+Le [rapport d’audit et de correction](docs/AUDIT_MISSION1.md) distingue les fonctions vérifiées, les démonstrations et les fonctionnalités encore incomplètes. L’accueil utilise le catalogue existant pour filtrer classe, voie, type, série et matière ; aucun programme n’a été inventé ni ajouté.

@@ -6,6 +6,14 @@ Les éléments prévus ci-dessous sont des propositions issues de l’analyse in
 
 ## Changements réalisés
 
+### 2026-10-30 — Mission 1 : audit et correction des fondations
+
+- **Préservation :** branche `mission-1-fondations` créée au commit `de0edd1` avant modification. Logo, mascotte, catalogue, contenus CP, sources et configuration Supabase conservés.
+- **Corrections :** parcours scolaire dépendant du catalogue, cinq catégories reliées aux contenus disponibles, espace de démonstration dédié, historique et navigation clavier/mobile, stockage protégé et scores rendus en texte, confirmation avant effacement des seuls scores de démonstration, labels et audio indisponible traités, préférences de costume honnêtement signalées sans apparence inventée.
+- **Organisation :** styles et fonctions de l’application existante séparés en fichiers ; aucune reconstruction ni nouveau framework. Anciens choix de parcours lus sans réécriture automatique. Beam et l’authentification sont conservés ; aucune connexion IA, personnalisation avancée ou Learning Pass ajouté.
+- **Vérifications :** 42 tests Python et 2 tests JavaScript réussis, 119 liens/ressources locaux contrôlés, 109 contrôles d’affichage sans erreur JavaScript ni débordement. SDK réel chargé et paramètres publics Supabase vérifiés ; aucun compte ni e-mail créé. L’audit strict des programmes reste en échec attendu car la couverture est incomplète.
+- **Compte rendu :** `docs/AUDIT_MISSION1.md` décrit les fichiers concernés, les corrections, les preuves et les limites. Les e-mails réels, les programmes complets et les autres missions restent à traiter séparément.
+
 ### 2026-10-30 — Beam dans la plateforme et préparation de l’API IA
 
 - **Changement :** dragon visible dans le chat et bouton flottant Beam sur les pages de l’application. Suppression des anciennes réponses prédéfinies du chat et des éléments graphiques inutilisés du robot. Beam ouvre déjà quiz, fiches, cours, programmes et progression via des raccourcis et commandes locales.

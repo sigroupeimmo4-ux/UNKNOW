@@ -24,6 +24,7 @@
   const labels = {commun:'Enseignements communs', generale:'Voie générale', technologique:'Voie technologique', professionnelle:'Voie professionnelle', 'generale-technologique':'Seconde générale et technologique'};
   let catalogue, currentProgram, currentChapter, requestVersion = 0;
   const assetCache = new Map();
+  let desiredKind='course', openedByUser=false, persistSelection=false;
   function node(tag, text, className) {
     const el = document.createElement(tag);
     if (text !== undefined) el.textContent = text;
@@ -51,23 +52,27 @@
   }
   function refreshPathways() {
     options($('curriculumPathway'), catalogue.scopes.filter(s => s.grade === $('curriculumGrade').value).map(s => ({id:s.pathway,title:labels[s.pathway]})));
-    refreshVariants();
+    return refreshVariants();
   }
   function scope() {
     return catalogue.scopes.find(s => s.grade === $('curriculumGrade').value && s.pathway === $('curriculumPathway').value);
   }
   function refreshVariants() {
     const selected = scope();
+    refreshTypes(selected,$('curriculumType').value);
     options($('curriculumVariant'), [{id:'',title:'Enseignements sans série sélectionnée'}, ...(selected.variants || [])]);
     $('curriculumVariantField').hidden = selected.pathway !== 'technologique';
-    refreshSubjects();
+    return refreshSubjects();
   }
-  function refreshSubjects() {
+  function refreshTypes(selected,preferred) {
+    options($('curriculumType'),[{id:'commun',title:'Commun'},{id:'specialite',title:'Spécialité'},{id:'option',title:'Option'}].filter(t=>selected.subjects.some(s=>s.teaching_type===t.id)),preferred);
+  }
+  function refreshSubjects(preferred = 'mathematiques-commun') {
     const selected = scope(), variant = $('curriculumVariant').value, type = $('curriculumType').value;
     const subjects = selected.subjects.filter(s => s.teaching_type === type && (!s.variant || s.variant === variant));
-    options($('curriculumSubject'), subjects.map(s => ({id:s.id,title:s.title})), 'mathematiques-commun');
+    options($('curriculumSubject'), subjects.map(s => ({id:s.id,title:s.title})), typeof preferred==='string' ? preferred : 'mathematiques-commun');
     renderCalendar();
-    refreshProgram();
+    return refreshProgram();
   }
   function renderCalendar() {
     const container = $('curriculumCalendar'); container.replaceChildren();
@@ -86,14 +91,18 @@
     details.append(node('p','Ce calendrier couvre les réformes vérifiées ici ; il ne remplace pas la vérification complète de toutes les matières.','small muted'));
     container.append(details);
   }
+  function syncSchool() {
+    if(openedByUser) window.studybeamSchool?.setSelection({grade:$('curriculumGrade').value,pathway:$('curriculumPathway').value,type:$('curriculumType').value,variant:$('curriculumVariant').value,subjectId:$('curriculumSubject').value,chapterId:$('curriculumChapter').value},persistSelection);
+  }
   function refreshProgram() {
-    if ('speechSynthesis' in window) speechSynthesis.cancel();
+    if (window.speechSynthesis) speechSynthesis.cancel();
     requestVersion++;
     currentProgram = null; currentChapter = null;
     $('curriculumActivity').replaceChildren(); $('curriculumReferences').replaceChildren();
     options($('curriculumDomain'), []); options($('curriculumChapter'), []);
     const selected = scope(), subject = selected.subjects.find(s => s.id === $('curriculumSubject').value);
     const status = $('curriculumStatus');
+    syncSchool();
     if (!subject) {
       status.textContent = selected.pathway === 'technologique' && $('curriculumType').value === 'specialite'
         ? 'Choisis une série pour consulter les spécialités référencées. Les variantes non recensées restent à vérifier.'
@@ -115,19 +124,20 @@
       return;
     }
     options($('curriculumDomain'), program.domains.map(d => ({id:d.id,title:d.title})));
-    refreshChapters();
+    return refreshChapters();
   }
-  function refreshChapters() {
+  function refreshChapters(preferred = '') {
     const domain = currentProgram?.domains.find(d => d.id === $('curriculumDomain').value);
-    options($('curriculumChapter'), (domain?.chapters || []).map(c => ({id:c.id,title:c.title})));
-    renderChapter();
+    options($('curriculumChapter'), (domain?.chapters || []).map(c => ({id:c.id,title:c.title})), typeof preferred==='string' ? preferred : '');
+    return renderChapter();
   }
   async function renderChapter() {
-    if ('speechSynthesis' in window) speechSynthesis.cancel();
+    if (window.speechSynthesis) speechSynthesis.cancel();
     const version = ++requestVersion;
     const program = currentProgram;
     const chapter = program?.domains.flatMap(d => d.chapters).find(c => c.id === $('curriculumChapter').value);
     currentChapter = chapter;
+    syncSchool();
     const activity = $('curriculumActivity'); activity.replaceChildren();
     if (!chapter) return;
     const content = catalogue.contents.find(c => c.kind === 'course' && eligibleContent(program,c,chapter.id));
@@ -149,11 +159,13 @@
       activity.append(node('p', 'Source : ' + chapter.source_locator, 'small muted'));
       const tabs = node('div',undefined,'row'); tabs.setAttribute('aria-label','Formats de révision');
       const body = node('div'); body.id='curriculumLessonBody';
+
       const kinds = [['course','Cours'],['revision_sheet','Fiche'],['quiz','Quiz'],['exercise','Exercices'],['assessment','Évaluation'],['audio','Audio'],['assistant_explanation','Explication guidée']];
       let modeVersion = 0;
       function render(kind) {
         modeVersion++;
-        if ('speechSynthesis' in window) speechSynthesis.cancel();
+        desiredKind=kind;
+        if (window.speechSynthesis) speechSynthesis.cancel();
         body.replaceChildren();
         tabs.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.kind===kind)));
         if (!catalogue.contents.some(c=>c.kind===kind && eligibleContent(program,c,chapter.id))) {body.append(node('p','Ce format n’est pas encore vérifié.'));return;}
@@ -174,10 +186,10 @@
           const play=node('button','Écouter ce chapitre','btn'); play.type='button';
           const message=node('p','Lecture vocale par le navigateur, à partir de la transcription affichée.','small muted');
           play.onclick=()=>{
-            if (!('speechSynthesis' in window) || !('SpeechSynthesisUtterance' in window)) {message.textContent='La synthèse vocale n’est pas disponible dans ce navigateur.';return;}
+            if (!(window.speechSynthesis) || !(typeof window.SpeechSynthesisUtterance === 'function')) {message.textContent='La synthèse vocale n’est pas disponible dans ce navigateur.';return;}
             speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(lesson.audio_transcript);u.lang='fr-FR';speechSynthesis.speak(u);
           };
-          const stop=node('button','Arrêter','btn ghost');stop.type='button';stop.onclick=()=>{if ('speechSynthesis' in window) speechSynthesis.cancel();};body.append(play,stop,message);
+          const stop=node('button','Arrêter','btn ghost');stop.type='button';stop.onclick=()=>{if (window.speechSynthesis) speechSynthesis.cancel();};body.append(play,stop,message);
         }
         if (kind==='assistant_explanation') body.append(node('p','Explication relue et préparée pour ce chapitre. Aucune IA générative connectée.'),node('p',lesson.guided_explanation));
         if (kind==='quiz') {
@@ -201,31 +213,49 @@
         }
       }
       for (const [kind,title] of kinds) {const b=node('button',title,'themebtn');b.type='button';b.dataset.kind=kind;b.onclick=()=>render(kind);tabs.append(b);}
-      activity.append(tabs,body);render('course');
+      activity.append(tabs,body);render(desiredKind);
     } catch {
       if (version === requestVersion) activity.replaceChildren(node('p','Ce contenu ne peut pas être chargé ou sa version ne correspond pas. Aucune activité de remplacement non vérifiée n’est affichée.','alert'));
     }
   }
   async function init() {
     try {
-      const response=await fetch('./curriculum/catalogue.json');
-      if(!response.ok)throw new Error('Catalogue indisponible');
-      catalogue=await response.json();
+      catalogue=await window.studybeamCatalogue;
       if(catalogue.school_year!=='2026-2027' || !Array.isArray(catalogue.scopes))throw new Error('Année incorrecte');
       const grades=[...new Set(catalogue.scopes.map(s=>s.grade))];
       options($('curriculumGrade'),grades.map(id=>({id,title:id})));
-      $('curriculumGrade').onchange=refreshPathways;
-      $('curriculumPathway').onchange=refreshVariants;
-      $('curriculumVariant').onchange=refreshSubjects;
-      $('curriculumType').onchange=refreshSubjects;
-      $('curriculumSubject').onchange=refreshProgram;
-      $('curriculumDomain').onchange=refreshChapters;
-      $('curriculumChapter').onchange=renderChapter;
+      $('curriculumGrade').onchange=()=>{desiredKind='course';openedByUser=true;persistSelection=true;return refreshPathways();};
+      $('curriculumPathway').onchange=()=>{desiredKind='course';openedByUser=true;persistSelection=true;return refreshVariants();};
+      $('curriculumVariant').onchange=()=>{desiredKind='course';openedByUser=true;persistSelection=true;return refreshSubjects();};
+      $('curriculumType').onchange=()=>{desiredKind='course';openedByUser=true;persistSelection=true;return refreshSubjects();};
+      $('curriculumSubject').onchange=()=>{desiredKind='course';openedByUser=true;persistSelection=true;return refreshProgram();};
+      $('curriculumDomain').onchange=()=>{desiredKind='course';openedByUser=true;persistSelection=true;return refreshChapters();};
+      $('curriculumChapter').onchange=()=>{desiredKind='course';openedByUser=true;persistSelection=true;return renderChapter();};
       $('curriculumSummary').textContent='Références consultées le 29 octobre 2026. Intégration partielle : les références recensées ne constituent pas une validation de toutes les matières et activités.';
-      refreshPathways();
+      await refreshPathways();
+      return true;
     } catch {
-      $('curriculumStatus').textContent='Le référentiel ne peut pas être chargé. Vérifie la connexion au site et réessaie ; aucune conformité officielle n’est affirmée.';
+      $('curriculumStatus').textContent='Le référentiel ne peut pas être chargé. Réessaie le chargement ; aucune conformité officielle n’est affirmée.';
+      const retry=node('button','Réessayer le chargement','btn ghost');retry.type='button';retry.onclick=()=>location.reload();$('curriculumStatus').after(retry);
+      return false;
     }
   }
-  init();
+  const ready=init();
+  window.studybeamCurriculum={ready, async open(selection,kind='course',isCurrent=()=>true){
+    if(!await ready || !isCurrent())return;
+    desiredKind=['course','revision_sheet','quiz','exercise','assessment','audio','assistant_explanation'].includes(kind)?kind:'course';
+    openedByUser=true;persistSelection=false;
+    $('curriculumGrade').value=selection.grade;
+    const selected=catalogue.scopes.find(s=>s.grade===selection.grade && s.pathway===selection.pathway);
+    if(!selected)return;
+    options($('curriculumPathway'),catalogue.scopes.filter(s=>s.grade===selection.grade).map(s=>({id:s.pathway,title:labels[s.pathway]})),selection.pathway);
+    options($('curriculumVariant'),[{id:'',title:'Enseignements sans série sélectionnée'},...(selected.variants||[])],selection.variant);
+    $('curriculumVariantField').hidden=selected.pathway!=='technologique';
+    refreshTypes(selected,selection.type);
+    await refreshSubjects(selection.subjectId);
+    if(!isCurrent())return;
+    const domain=currentProgram?.domains.find(d=>d.chapters.some(c=>c.id===selection.chapterId));
+    if(domain){$('curriculumDomain').value=domain.id;await refreshChapters(selection.chapterId);}
+  }};
+  window.startStudybeamApp?.();
 })();

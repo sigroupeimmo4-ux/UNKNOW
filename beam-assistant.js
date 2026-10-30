@@ -61,7 +61,7 @@
       const {data,error} = await window.studybeamAuth.getSession();
       if (error || !data?.session?.access_token) {status.textContent='Connecte-toi pour utiliser le service IA.';return;}
       status.textContent = 'Beam prépare sa réponse…';
-      const response = await fetch(service, {method:'POST',signal:controller.signal,headers:{'Content-Type':'application/json',Authorization:'Bearer '+data.session.access_token,apikey:window.STUDYBEAM_SUPABASE_ANON_KEY},body:JSON.stringify({message:text,history:history.slice(-8).map(m=>({role:m.role,content:m.content.slice(0,1000)})),context:{grade:document.getElementById('grade').value,subject:document.getElementById('subject').value,chapter:document.getElementById('chapter').value}})});
+      const response = await fetch(service, {method:'POST',signal:controller.signal,headers:{'Content-Type':'application/json',Authorization:'Bearer '+data.session.access_token,apikey:window.STUDYBEAM_SUPABASE_ANON_KEY},body:JSON.stringify({message:text,history:history.slice(-8).map(m=>({role:m.role,content:m.content.slice(0,1000)})),context:window.studybeamSchool.getContext()})});
       if (!response.ok) throw new Error(String(response.status));
       const result = await response.json();
       if (typeof result.reply !== 'string' || !result.reply.trim() || result.reply.length > 10000 || !Array.isArray(result.actions) || result.actions.length > 3) throw new Error('invalid_response');
