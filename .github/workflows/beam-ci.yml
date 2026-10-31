@@ -37,6 +37,8 @@ jobs:
         run: python3 scripts/audit_site.py
       - name: Commercial release safety gate
         run: python3 scripts/audit_commercial.py
+      - name: Ensure production cannot launch without legal sign-off
+        run: python3 tests/test-commercial-gate.py
 
   browser:
     runs-on: ubuntu-latest
