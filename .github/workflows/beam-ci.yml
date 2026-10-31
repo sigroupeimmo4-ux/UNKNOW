@@ -35,3 +35,19 @@ jobs:
           python3 scripts/build_navigation_pages.py --check
       - name: Audit local routes and assets
         run: python3 scripts/audit_site.py
+      - name: Commercial release safety gate
+        run: python3 scripts/audit_commercial.py
+
+  browser:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Chromium smoke-test runner
+        run: |
+          python -m pip install playwright==1.56.0
+          python -m playwright install --with-deps chromium
+      - name: Check commercial pages, mobile navigation and signup in Chromium
+        run: python tests/test-commercial-browser.py
