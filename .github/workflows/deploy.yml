@@ -22,6 +22,8 @@ jobs:
         run: python3 scripts/build_navigation_pages.py
       - name: Audit local routes and assets
         run: python3 scripts/audit_site.py
+      - name: Commercial release safety gate
+        run: python3 scripts/audit_commercial.py
       - uses: actions/configure-pages@v5
         with:
           enablement: true
@@ -35,7 +37,7 @@ jobs:
         run: |
           set -euo pipefail
           SITE="${{ steps.deployment.outputs.page_url }}"
-          for route in index.html calendrier.html mes-notes.html beam-3d-apercu.html; do
+          for route in index.html calendrier.html mes-notes.html beam-3d-apercu.html mentions-legales.html conditions-utilisation.html confidentialite.html conditions-vente.html statut-ouverture.html; do
             echo "Checking ${SITE}${route}"
             curl --fail --location --silent --show-error --retry 6 --retry-all-errors --retry-delay 4 \
               "${SITE}${route}?check=${{ github.sha }}" -o /tmp/studybeam-page.html
