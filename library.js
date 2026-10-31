@@ -137,7 +137,7 @@
     const config=await response.json();
     if(!config.configured){empty('Les formules, tarifs et avantages ne sont pas encore configurés. Aucun abonnement ni paiement n’est proposé pour le moment.');return;}
     if(config.schema_version!==2||!config.markets||!Array.isArray(config.plans)||!config.terms)throw new Error('Configuration commerciale invalide');
-    box.append(node('p',config.notice,'alert'));
+    box.append(node('p',config.notice,'alert'));box.append(node('p','Aucune souscription ne peut être conclue. Les informations sur l’éditeur, les conditions commerciales et les droits des consommateurs doivent encore être validées.','small muted'),link('Lire les conditions de vente préparatoires','./conditions-vente.html','btn ghost'));
     const field=node('div',undefined,'billing-country');const label=node('label','Pays de facturation');label.htmlFor='billingCountry';
     const country=node('select');country.id='billingCountry';country.name='country';country.add(new Option('Choisir un pays',''));
     for(const [id,market] of Object.entries(config.markets))country.add(new Option(market.country+' — '+market.currency,id));
