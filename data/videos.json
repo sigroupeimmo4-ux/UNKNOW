@@ -1,12 +1,12 @@
 {
   "configured": true,
-  "review_scope": "Liens, titres et descriptions vérifiés sur les pages publiques de Lumni le 2026-10-30. Contenus regardés intégralement et validés pédagogiquement par un enseignant : NON. Vidéos hébergées sur le service tiers, sans reprise ni copie.",
+  "review_scope": "Ces 3 pages Lumni/Réseau Canopé sont classées CE1 par Lumni ; leurs notions sont aussi utiles pour réviser les mathématiques CP. Liens et titres vérifiés au 31/10/2026. Visionnage intégral, conformité et validation par un enseignant : NON réalisés.",
   "videos": [
     {
       "title": "Décomposer les nombres de 10 à 99",
       "url": "https://www.lumni.fr/video/decomposer-les-nombres-de-10-a-99-les-fondamentaux",
       "source": "Lumni — Réseau Canopé",
-      "description": "Décomposer un nombre en dizaines et unités, à partir d'une collection de 58 objets. Vidéo publiée par Lumni ; lien vers le fournisseur externe.",
+      "description": "Décomposer un nombre en dizaines et unités, à partir d'une collection de 58 objets. Page classée CE1 sur Lumni, proposée en complément des notions de CP ; lien externe vers l’éditeur.",
       "grade": "CP",
       "pathway": "commun",
       "subjectId": "mathematiques-commun",
@@ -16,7 +16,7 @@
       "title": "Comparer deux nombres à deux chiffres",
       "url": "https://www.lumni.fr/video/comparer-deux-nombres-a-deux-chiffres-les-fondamentaux",
       "source": "Lumni — Réseau Canopé",
-      "description": "Comparer des nombres à deux chiffres. Vidéo publiée par Lumni ; lien vers le fournisseur externe.",
+      "description": "Comparer des nombres à deux chiffres. Page classée CE1 sur Lumni, proposée en complément des notions de CP ; lien externe vers l’éditeur.",
       "grade": "CP",
       "pathway": "commun",
       "subjectId": "mathematiques-commun",
@@ -26,7 +26,7 @@
       "title": "Placer un nombre de 10 à 99 sur la droite graduée",
       "url": "https://www.lumni.fr/video/placer-un-nombre-de-10-a-99-sur-la-droite-graduee-les-fondamentaux",
       "source": "Lumni — Réseau Canopé",
-      "description": "Lire et placer des nombres sur une droite graduée de 10 à 99. Vidéo publiée par Lumni ; lien vers le fournisseur externe.",
+      "description": "Lire et placer des nombres sur une droite graduée de 10 à 99. Page classée CE1 sur Lumni, proposée en complément des notions de CP ; lien externe vers l’éditeur.",
       "grade": "CP",
       "pathway": "commun",
       "subjectId": "mathematiques-commun",

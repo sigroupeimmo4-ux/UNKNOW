@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "mode": "prelaunch",
+  "commercial_open": false,
+  "modified_on": "2026-10-31",
+  "markets": [
+    "SN",
+    "FR"
+  ],
+  "operator": {
+    "legal_name": null,
+    "registered_address": null,
+    "public_email": null,
+    "public_phone": null,
+    "registration_number": null,
+    "tax_identifier": null
+  },
+  "payment": {
+    "enabled": false,
+    "provider": null,
+    "merchant_verified": false,
+    "webhook_verified": false
+  },
+  "checks": {
+    "legal_identity": false,
+    "contact_verified": false,
+    "tax_and_prices_validated": false,
+    "terms_of_sale_validated": false,
+    "withdrawal_refund_validated": false,
+    "data_protection_reviewed": false,
+    "minor_safeguards_verified": false,
+    "auth_e2e_verified": false,
+    "rls_isolation_verified": false,
+    "payment_e2e_verified": false,
+    "pedagogy_reviewed": false,
+    "accessibility_mobile_e2e_verified": false
+  }
+}
