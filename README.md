@@ -134,3 +134,12 @@ Les contrôles de costume ne représentant pas de vrais déguisements ont été 
 Les sauvegardes JSON du calendrier et des notes peuvent maintenant être restaurées : seuls les fichiers StudyBeam de la rubrique correspondante sont acceptés ; dates, horaires, notes, limites et identifiants sont validés avant une confirmation explicite du remplacement. Pour les révisions hebdomadaires, chaque occurrence peut être marquée terminée indépendamment des autres. Ces données ne passent pas par Supabase.
 
 **Non finalisé** : véritable IA pédagogique (endpoint nul, aucune Edge Function), synchronisation sécurisée avec compte, parcours mineurs conforme, couverture complète du programme, vidéos vérifiées et paiements. La validation visuelle et fonctionnelle sur appareils réels et les essais d’inscription par e-mail restent indispensables avant ouverture aux élèves.
+
+## Préparation commerciale vérifiable — 31 octobre 2026
+
+**Statut : préouverture gratuite, aucune vente ni abonnement actif.** Les pages [État du lancement](statut-ouverture.html), [Mentions légales](mentions-legales.html), [Conditions d'utilisation](conditions-utilisation.html), [Confidentialité](confidentialite.html) et [CGV](conditions-vente.html) exposent les disponibilités et limites. Les pages légales restent des versions préparatoires : l’identité de l’exploitant et les contacts professionnels n’ont pas été fournis ; ne pas en inventer.
+
+Le fichier `data/commercial-status.json` centralise les validations préalables. Le contrôle `python3 scripts/audit_commercial.py` vérifie que les paiements sont désactivés en phase de préparation et que les pages d’information existent. `python3 scripts/audit_commercial.py --launch` doit **échouer** tant que toutes les conditions d’ouverture (identité du vendeur, contact, protection des mineurs, conditions commerciales, tests paiements, séparation des données, qualité pédagogique, navigateur) ne sont pas vérifiées. Le succès mécanique d’un script ne remplace pas la vérification contractuelle et juridique indépendante.
+
+Les workflows CI contrôlent également la navigation et l’affichage des pages publiques en Chromium sur trois tailles d’écran (390, 768 et 1440 px) sans ouvrir de compte ni effectuer de transaction. La disponibilité commerciale ne doit **pas** être annoncée tant que le [dossier de décision commerciale](docs/OUVERTURE_COMMERCIALE_2026-10-31.md) n'est pas rempli et approuvé. Des informations légales obligatoires au Sénégal et potentiellement en France/UE restent à formaliser.
+
