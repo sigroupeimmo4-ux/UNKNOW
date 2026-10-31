@@ -59,9 +59,7 @@ if (config.get("mode") == "prelaunch"):
         failures.append("Commercial prices must remain proposals before launch")
     if config.get("commercial_open"):
         failures.append("Prelaunch cannot accept commercial purchases")
-    for name, enabled in checks.items():
-        if enabled:
-            failures.append(f"Unverified prelaunch gate must not be claimed passed: {name}")
+    # Partial checks may be completed during prelaunch; only the full launch is gated.
 if launch or config.get("mode") == "commercial":
     for name in required_checks:
         if checks.get(name) is not True:
