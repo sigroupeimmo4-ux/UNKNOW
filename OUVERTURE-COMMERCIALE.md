@@ -58,3 +58,16 @@ Sources de référence :
 - https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037823135
 
 **Décision manquante** : l'entreprise qui facturera est-elle juridiquement établie au Sénégal, en France, ou via deux entités distinctes ?
+
+
+## Décision utilisateur du 31 octobre 2026 — entreprise non encore immatriculée
+**Situation déclarée :** aucune entreprise actuellement immatriculée. **Marchés envisagés :** Sénégal et France. **Pays futur d'immatriculation : non décidé.** Ne pas présenter l'exploitant comme une société existante, ni inventer RCCM, NINEA, SIREN ou adresse.
+
+### Feuille de route
+1. Choisir le pays du siège social et la forme juridique selon les associés, la résidence et la fiscalité; un lancement sur deux marchés ne requiert pas automatiquement deux entreprises.
+2. Si implantation sénégalaise : consulter le Bureau de Création d'Entreprise (BCE) de l'APIX pour la forme et les formalités pertinentes, notamment RCCM et NINEA. Source : https://investinsenegal.sn/services/creation-dentreprise/
+3. Si implantation française : examiner le guichet unique de création d'entreprise et le registre approprié avant de publier les mentions légales définitives.
+4. Pour les clients en France : vérifier la réglementation de vente à distance, les obligations de TVA selon la qualification exacte du service et le lieu d'établissement; le régime OSS non-UE peut être pertinent pour certains services. Sources : https://entreprendre.service-public.gouv.fr/vosdroits/F23455 ; https://www.impots.gouv.fr/professionnel/je-minscris-au-service-du-guichet-unique-de-tva
+5. Mettre à jour les pages légales avec l'identité **réelle** après immatriculation et revue juridique. Tester les paiements et politiques de protection des mineurs avant lancement.
+
+**Blocage impératif :** ne pas autoriser de ventes, facturation ni abonnement actif tant que l'entité vendeuse, les prix, les déclarations et le parcours de paiement ne sont pas opérationnels et validés.
