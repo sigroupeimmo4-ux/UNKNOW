@@ -39,3 +39,22 @@ Validation paiement et facturation : __________
 Décision écrite : **GO / NO GO** __________
 
 **Règle :** aucune vente et aucune ouverture de comptes mineurs tant que les points bloquants correspondants ne sont pas fermés.
+
+
+## Marchés ciblés : Sénégal ET France (31 octobre 2026)
+Le site peut cibler les deux marchés mais cela ne prouve **pas** qu'une société est immatriculée dans les deux pays. Avant publication des CGV définitives, consigner la ou les entités vendeuses et leur pays d'établissement.
+
+- **Sénégal** : vérifier les obligations de la loi n° 2008-08 sur les transactions électroniques, ainsi que la réglementation applicable aux données personnelles, la fiscalité et les obligations de l'éditeur local.
+- **France / consommateurs français** : prévoir les mentions obligatoires, la présentation claire des offres et prix, CGV, modalités de résiliation, rétractation selon les règles applicables, et la conformité RGPD lorsque le traitement relève de son champ. Vérifier la fonctionnalité de rétractation en ligne applicable aux contrats conclus en ligne depuis juin 2026.
+- **Mineurs** : ne pas autoriser les comptes d'enfants avant revue du consentement et des mesures de sécurité. En France, pour certains traitements basés sur le consentement liés aux services de la société de l'information, le seuil est de 15 ans ; en dessous, consentement conjoint applicable.
+- **Paiement** : envisager un prestataire disponible dans le pays réel d'immatriculation et apte à facturer des clients dans les deux marchés. Ne promettre ni opérateur ni méthodes de paiement avant validation de l'éligibilité et des contrats.
+- **Affichage** : prix et devise en euros / francs CFA selon l'offre et le marché, avec règles de taxe vérifiées. Ne jamais présenter une conversion indicative comme prix final contractuel.
+- **Documents** : décrire le responsable de traitement réel, ses sous-traitants, les éventuels transferts transfrontaliers et un canal fonctionnel pour les demandes de données.
+
+Sources de référence :
+- https://www.vie-publique.sn/documents/8429/loi-n-2008-08-du-25-janvier-2008-sur-les-transactions-electroniques-au-senegal
+- https://entreprendre.service-public.gouv.fr/vosdroits/F23455
+- https://entreprendre.service-public.gouv.fr/vosdroits/F33527
+- https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037823135
+
+**Décision manquante** : l'entreprise qui facturera est-elle juridiquement établie au Sénégal, en France, ou via deux entités distinctes ?
