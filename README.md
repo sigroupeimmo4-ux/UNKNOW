@@ -1,12 +1,12 @@
 # StudyBeam — Site statique et authentification Supabase
 
-StudyBeam propose une vitrine publique Pastel Dream, un espace de révision et des pages d’authentification par e-mail. Le catalogue scolaire est partiel, la plupart des outils restent utilisables en démonstration et l'assistant IA serveur n'est pas encore connecté. Le site fonctionne sans compilation et peut être hébergé sur GitHub Pages.
+StudyBeam propose une vitrine publique Dreamy Pastel, un espace de révision et des pages d’authentification par e-mail. Le catalogue scolaire est partiel, la plupart des outils restent utilisables en démonstration et l'assistant IA serveur n'est pas encore connecté. Le site fonctionne sans compilation et peut être hébergé sur GitHub Pages.
 
 ## Pages
 
 | Page | Rôle |
 | --- | --- |
-| `index.html` | Landing page publique Pastel Dream avec le compagnon dragon Beam. |
+| `index.html` | Landing page publique Dreamy Pastel avec le compagnon dragon Beam. |
 | `calendrier.html` | Calendrier local, récurrence hebdomadaire, édition et export/import JSON validé. |
 | `mes-notes.html` | Suivi et édition locale des notes, graphique, export/import JSON validé. |
 | `beam-3d-apercu.html` | Information sur le futur modèle 3D ; l’ancien prototype géométrique rejeté n’est plus présenté comme le modèle final. |
