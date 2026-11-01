@@ -26,6 +26,8 @@ jobs:
         run: node tests/test_calendar_v2.cjs
       - name: Test dashboard Pastel Dream
         run: node tests/test_dashboard_v2.cjs
+      - name: Test light and dark modes
+        run: node tests/test_theme_mode.cjs
       - name: Audit local routes and assets
         run: python3 scripts/audit_site.py
       - name: Commercial release safety gate
