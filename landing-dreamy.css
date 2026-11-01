@@ -12,8 +12,11 @@
   --lavender:#DDD6F7;
   --line:#E7E9E7;
   --shadow:0 12px 32px rgba(72,84,111,.08);
+  --bg:#FFFDF8;
+  --primary:#6E8CA0;
+  --soft:#F4F1FF;
 }
-body {background:var(--cream);color:var(--ink);-webkit-font-smoothing:antialiased}
+body {padding-left:0;background:var(--cream);color:var(--ink);-webkit-font-smoothing:antialiased}
 .landing-skip {position:absolute;top:8px;left:-9999px;background:#fff;color:#34434A;padding:10px 15px;border-radius:8px;z-index:100}
 .landing-skip:focus {left:12px}
 #contenu:focus {outline:none}
