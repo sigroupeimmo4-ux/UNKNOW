@@ -50,6 +50,8 @@ def update_menu(s):
  s=re.sub(r'<details class="route-menu".*?</details>',lambda m:menu(),s,flags=re.S)
  s=re.sub(r'<header class="(?:topbar[^"]*|site-header)">.*?</header>',lambda m:topbar(),s,count=1,flags=re.S)
  if 'navigation.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./navigation.css?v=mission15"></head>',1)
+ if 'theme-mode.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./theme-mode.css?v=light-dark-1"></head>',1)
+ if 'theme-mode.js' not in s:s=s.replace('</head>','<script src="./theme-mode.js?v=light-dark-1"></script></head>',1)
  if 'design.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./design.css?v=compact1"></head>',1)
  s=re.sub(r'<script defer src="./navigation.js[^"]*"></script>','',s)
  nav_script='<script defer src="./navigation.js?v=guided-beam-1"></script>'
