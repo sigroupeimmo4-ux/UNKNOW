@@ -9,6 +9,11 @@ body[data-school-tool="calendar"] {
   background:#FFFDF8; color:var(--calendar-ink);padding-left:0;
   font-family:Inter,"Segoe UI",system-ui,sans-serif;overflow-x:clip;
 }
+body[data-school-tool="calendar"] .calendar-skip {
+  position:absolute;left:12px;top:-110px;background:#FFFFFF;color:#3F4A52;
+  padding:11px 15px;border-radius:10px;z-index:100;text-decoration:none;font-weight:750;
+}
+body[data-school-tool="calendar"] .calendar-skip:focus {top:8px}
 body[data-school-tool="calendar"] .school-top {
   padding:14px max(20px,calc((100vw - 1160px)/2));
   background:#FFFFFFEC;border-bottom:1px solid var(--calendar-border);
