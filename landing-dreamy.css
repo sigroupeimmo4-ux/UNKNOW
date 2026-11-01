@@ -14,6 +14,9 @@
   --shadow:0 12px 32px rgba(72,84,111,.08);
 }
 body {background:var(--cream);color:var(--ink);-webkit-font-smoothing:antialiased}
+.landing-skip {position:absolute;top:8px;left:-9999px;background:#fff;color:#34434A;padding:10px 15px;border-radius:8px;z-index:100}
+.landing-skip:focus {left:12px}
+#contenu:focus {outline:none}
 .landing-container {max-width:1190px}
 .landing-header {background:rgba(255,253,248,.96);border-bottom:1px solid #E8E6F1;box-shadow:0 3px 16px #55566A0B;backdrop-filter:blur(14px)}
 .landing-nav {min-height:74px;gap:18px}
