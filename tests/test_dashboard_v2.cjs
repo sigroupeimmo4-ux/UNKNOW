@@ -31,7 +31,7 @@ assert.ok(js.includes("'studybeam-calendar-v1'"),'real calendar used');
 assert.ok(js.includes("window.studybeamBeamPanel.open"),'must open existing Beam dock');
 assert.ok(!js.includes('.innerHTML'), 'dashboard must build nodes safely');
 assert.ok(html.includes('assets/studybeam-logo.webp?v=dragon-1'),'official mascot retained');
-assert.match(read('dashboard.js'),/data-dashboard-version/);
+assert.match(read('dashboard.js'),/dataset\.dashboardVersion/);
 assert.match(read('planner-dashboard.js'),/studybeam:planner-updated/);
 assert.match(read('scripts/build_navigation_pages.py'),/\('app\.html','Tableau de bord','home'\)/);
 assert.match(read('scripts/build_navigation_pages.py'),/\('calendrier\.html','Calendrier','programmes'\)/);
