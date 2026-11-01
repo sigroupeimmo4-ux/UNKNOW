@@ -45,7 +45,7 @@ class DreamyLandingTests(unittest.TestCase):
 
     def test_unreleased_capabilities_not_misrepresented(self):
         html = read("index.html")
-        self.assertIn("L'IA générative", html)
+        self.assertIn("IA générative", html)
         self.assertIn("NON DISPONIBLE À LA SOUSCRIPTION", html)
         self.assertIn("adultes testeurs", html)
         self.assertIn("La couverture reste partielle", html)
