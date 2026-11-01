@@ -22,6 +22,8 @@ jobs:
         run: python3 scripts/build_navigation_pages.py
       - name: Test Dreamy Pastel landing page
         run: python3 -m unittest discover -s tests -p 'test_dreamy_landing.py' -v
+      - name: Test StudyBeam calendar v2
+        run: node tests/test_calendar_v2.cjs
       - name: Audit local routes and assets
         run: python3 scripts/audit_site.py
       - name: Commercial release safety gate

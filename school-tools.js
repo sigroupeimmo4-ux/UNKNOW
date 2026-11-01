@@ -15,29 +15,257 @@ const types={evaluation:'Évaluation',revision:'Révision',devoir:'Devoir'};
 const color={evaluation:'#F8DCCE',revision:'#C5E9D9',devoir:'#BBDCF2'};
 const esc=s=>String(s||'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 function initCalendar(){
-let cursor=new Date(),view='month',editing=null;
-root.innerHTML='<div class="tool-bar"><h1>Mon calendrier</h1><p class="tool-muted">Événements enregistrés sur cet appareil uniquement. Les rappels apparaissent quand la page est ouverte.</p><div class="tool-actions"><button id="prev" type="button">← Précédent</button><button id="now" type="button">Aujourd’hui</button><button id="next" type="button">Suivant →</button><select id="mode" aria-label="Mode d’affichage"><option value="month">Mois</option><option value="week">Semaine</option><option value="list">Liste</option></select><button id="add" type="button" class="primary">+ Ajouter un événement</button></div><h2 id="period"></h2><div id="reminders" role="status"></div><div id="calendarView"></div></div><dialog id="eventDialog"><form id="eventForm" class="tool-form"><h2 id="dialogTitle">Événement</h2><label>Titre<input name="title" maxlength="120" required></label><label>Catégorie<select name="type"><option value="evaluation">Évaluation</option><option value="revision">Révision</option><option value="devoir">Devoir</option></select></label><label>Matière<input name="subject" maxlength="80" required></label><label>Chapitre (facultatif)<input name="chapter" maxlength="120"></label><label>Date<input name="date" type="date" required></label><label>Début<input name="start" type="time" required></label><label>Fin<input name="end" type="time" required></label><label>Répéter<select name="repeat"><option value="none">Jamais</option><option value="weekly">Chaque semaine</option></select></label><label>Rappel<select name="reminder"><option value="none">Aucun</option><option value="1d">La veille</option><option value="3h">3 heures avant</option><option value="1h">1 heure avant</option></select></label><label>Description<textarea name="description" maxlength="1000"></textarea></label><div class="tool-actions"><button type="submit" class="primary">Enregistrer</button><button type="button" id="cancel">Annuler</button></div></form></dialog>';
-const dialog=$('#eventDialog'),form=$('#eventForm');
-function occurrences(start,end){const out=[];for(const item of data){if(!validDate(item.date))continue;let d=new Date(item.date+'T12:00:00');let count=0;do{const iso=dateVal(d);if(iso>=start&&iso<=end)out.push({...item,day:iso,done:item.repeat==='weekly'?(item.done===true||(Array.isArray(item.completedDates)&&item.completedDates.includes(iso))):!!item.done});if(item.repeat!=='weekly')break;d.setDate(d.getDate()+7);count++}while(dateVal(d)<=end&&count<520)}return out.sort((a,b)=>(a.day+a.start).localeCompare(b.day+b.start))}
-function eventButton(item){const b=el('button','event-chip',item.start+' '+item.title+(item.done?' ✓':''));b.type='button';b.style.borderLeft='5px solid '+color[item.type];b.title='Modifier cet événement';b.onclick=()=>edit(item.id,item.day);return b}
-function render(){let start,end;const y=cursor.getFullYear(),m=cursor.getMonth();
-if(view==='month'){start=dateVal(new Date(y,m,1));end=dateVal(new Date(y,m+1,0));$('#period').textContent=new Intl.DateTimeFormat('fr-FR',{month:'long',year:'numeric'}).format(cursor)}
-else if(view==='week'){const begin=new Date(cursor);begin.setDate(cursor.getDate()-((cursor.getDay()+6)%7));const finish=new Date(begin);finish.setDate(begin.getDate()+6);start=dateVal(begin);end=dateVal(finish);$('#period').textContent=fmt(start)+' – '+fmt(end)}
-else{const now=new Date();const after=new Date(now);after.setDate(after.getDate()+365);const before=new Date(now);before.setDate(before.getDate()-30);start=dateVal(before);end=dateVal(after);$('#period').textContent='Événements (30 jours passés et 12 mois à venir)'}
-const entries=occurrences(start,end),area=$('#calendarView');area.replaceChildren();
-if(view==='list'){if(!entries.length)area.append(el('p','tool-muted','Aucun événement pour le moment.'));for(const item of entries){const row=el('div','tool-list-row');row.append(el('strong',null,fmt(item.day)),eventButton(item),el('span','tool-muted',item.subject));area.append(row)}}
-else{const grid=el('div','calendar-grid');const days=[];if(view==='month'){const first=new Date(y,m,1);first.setDate(1-((first.getDay()+6)%7));for(let i=0;i<42;i++){days.push(dateVal(first));first.setDate(first.getDate()+1)}}else{const first=new Date(start+'T12:00:00');for(let i=0;i<7;i++){days.push(dateVal(first));first.setDate(first.getDate()+1)}}
-for(const label of ['Lun','Mar','Mer','Jeu','Ven','Sam','Dim'])grid.append(el('div','calendar-weekday',label));
-for(const day of days){const cell=el('div','calendar-day'+(day===today?' is-today':''));cell.append(el('strong',null,day.split('-')[2]));for(const item of entries.filter(e=>e.day===day))cell.append(eventButton(item));const create=el('button','calendar-day-add','+');create.setAttribute('aria-label','Ajouter un événement le '+day);create.onclick=()=>edit(null,day);cell.append(create);grid.append(cell)}area.append(grid)}
-const now=Date.now();const notifications=data.filter(item=>item.reminder!=='none'&&!item.done&&validDate(item.date)).filter(item=>{const d=new Date(item.date+'T'+(item.start||'08:00'));return d.getTime()-now>0&&d.getTime()-now<=({ '1d':86400000,'3h':10800000,'1h':3600000}[item.reminder]||0)});$('#reminders').textContent=notifications.length?'Rappel : '+notifications.slice(0,3).map(i=>i.title+' ('+fmt(i.date)+')').join(', '):'';}
-function edit(id,day){editing=id;const item=data.find(e=>e.id===id);form.reset();for(const [k,v] of Object.entries(item||{date:day||today,start:'17:00',end:'18:00',type:'revision',repeat:'none',reminder:'none'})){const field=form.elements.namedItem(k);if(field)field.value=v}$('#dialogTitle').textContent=id?'Modifier un événement':'Nouvel événement';dialog.showModal()}
-form.onsubmit=e=>{e.preventDefault();const fd=new FormData(form);const row=Object.fromEntries(fd.entries());if(!validDate(row.date)||row.end<=row.start){alert('La date et les horaires doivent être valides.');return}row.title=String(row.title).trim();row.id=editing||uid();row.done=editing?Boolean(data.find(e=>e.id===editing)?.done):false;row.completedDates=editing?(data.find(e=>e.id===editing)?.completedDates||[]):[];if(editing)data=data.map(e=>e.id===editing?row:e);else data.push(row);if(save()){dialog.close();render()}};
-$('#cancel').onclick=()=>dialog.close();$('#add').onclick=()=>edit(null,today);$('#prev').onclick=()=>{if(view==='month')cursor.setMonth(cursor.getMonth()-1);else cursor.setDate(cursor.getDate()-7);render()};$('#next').onclick=()=>{if(view==='month')cursor.setMonth(cursor.getMonth()+1);else cursor.setDate(cursor.getDate()+7);render()};$('#now').onclick=()=>{cursor=new Date();render()};$('#mode').onchange=e=>{view=e.target.value;render()};
-const details=el('div','tool-actions');details.id='eventActions';dialog.append(details);
-dialog.addEventListener('close',()=>details.replaceChildren());
-const originalEdit=edit;edit=function(id,day){originalEdit(id,day);details.replaceChildren();if(!id)return;const row=data.find(e=>e.id===id);if(!row)return;const occurrenceDone=row.repeat==='weekly'?(row.done===true||(Array.isArray(row.completedDates)&&row.completedDates.includes(day))):!!row.done;
-const done=el('button',null,occurrenceDone?'Marquer non terminé':'Marquer terminé');done.type='button';
-done.onclick=()=>{if(row.repeat==='weekly'){if(row.done===true){if(!confirm('Cet ancien statut terminé concerne toute la série. Réactiver les séances pour les suivre séparément ?'))return;row.done=false;row.completedDates=[];}else{const entries=Array.isArray(row.completedDates)?row.completedDates:[];row.completedDates=occurrenceDone?entries.filter(d=>d!==day):[...new Set([...entries,day])];}}else row.done=!row.done;save();dialog.close();render()};const del=el('button',null,'Supprimer');del.type='button';del.onclick=()=>{if(!confirm('Supprimer définitivement cet événement ?'))return;data=data.filter(e=>e.id!==id);save();dialog.close();render()};details.append(done,del)};render()}
+  let cursor=new Date(),view='month',selected=today,editing=null,editingDay=null;
+  cursor.setDate(1);
+  const toDay=iso=>new Date(iso+'T12:00:00');
+  const plusDays=(date,n)=>{const d=new Date(date);d.setDate(d.getDate()+n);return d};
+  const longDay=iso=>new Intl.DateTimeFormat('fr-FR',{weekday:'long',day:'numeric',month:'long',year:'numeric'}).format(toDay(iso));
+  const monthTitle=d=>new Intl.DateTimeFormat('fr-FR',{month:'long',year:'numeric'}).format(d);
+  const allowed=new Set(Object.keys(types));
+  let category='',query='';
+  root.innerHTML='<div class="calendar-shell"><header class="calendar-heading"><div><span class="calendar-eyebrow">Organise tes révisions ✦</span><h1>Mon calendrier</h1><p class="tool-muted">Prépare tes devoirs, évaluations et révisions. Tout reste sur cet appareil, sans synchronisation ni notification en arrière-plan.</p></div><button type="button" class="primary calendar-new" id="add">+ Nouvel événement</button></header>'+
+  '<div class="calendar-stats" id="calendarStats" aria-label="Résumé du planning"></div>'+
+  '<section class="calendar-panel" aria-label="Agenda"><div class="calendar-toolbar"><div class="calendar-travel"><button type="button" id="prev" aria-label="Période précédente">←</button><button type="button" id="now">Aujourd’hui</button><button type="button" id="next" aria-label="Période suivante">→</button></div><h2 id="period" aria-live="polite"></h2><div class="calendar-switch"><label class="calendar-sr-only" for="mode">Affichage</label><select id="mode" aria-label="Mode d’affichage"><option value="month">Mois</option><option value="week">Semaine</option><option value="list">Liste</option></select></div></div>'+
+  '<div class="calendar-filters"><label class="calendar-find">Rechercher<input id="searchEvents" type="search" placeholder="Titre, matière, chapitre…" maxlength="120" autocomplete="off"></label><label>Catégorie<select id="category"><option value="">Toutes</option><option value="revision">Révisions</option><option value="devoir">Devoirs</option><option value="evaluation">Évaluations</option></select></label><label>Aller à une date<input type="date" id="jumpDate"></label></div>'+
+  '<div class="calendar-legend" aria-label="Légende"><span><i class="calendar-dot revision"></i>Révisions</span><span><i class="calendar-dot devoir"></i>Devoirs</span><span><i class="calendar-dot evaluation"></i>Évaluations</span><span>✓ Terminé</span></div>'+
+  '<div id="reminders" class="calendar-reminders" role="status" aria-live="polite"></div><div id="calendarView"></div><section id="dayAgenda" class="calendar-day-agenda" aria-label="Événements de la journée"></section></section>'+
+  '<p class="calendar-local-note">Astuce : exporte régulièrement ton calendrier en JSON plus bas pour conserver une copie. Sur un appareil partagé, les données peuvent être visibles par les autres utilisateurs de ce navigateur.</p></div>'+
+  '<dialog id="eventDialog" aria-labelledby="dialogTitle"><form id="eventForm" class="tool-form"><h2 id="dialogTitle">Événement</h2><p id="seriesNotice" class="tool-muted"></p><div class="calendar-form-grid"><label class="calendar-form-wide">Titre<input name="title" maxlength="120" placeholder="Réviser les fractions" required></label><label>Catégorie<select name="type"><option value="revision">Révision</option><option value="devoir">Devoir</option><option value="evaluation">Évaluation</option></select></label><label>Matière<input name="subject" maxlength="80" placeholder="Mathématiques" required></label><label class="calendar-form-wide">Chapitre (facultatif)<input name="chapter" maxlength="120" placeholder="Chapitre ou notion"></label><label>Date<input name="date" type="date" required></label><label>Début<input name="start" type="time" required></label><label>Fin<input name="end" type="time" required></label><label>Répéter<select name="repeat"><option value="none">Jamais</option><option value="weekly">Chaque semaine</option></select></label><label>Rappel sur la page<select name="reminder"><option value="none">Aucun</option><option value="1d">La veille</option><option value="3h">3 heures avant</option><option value="1h">1 heure avant</option></select></label><label class="calendar-form-wide">Description<textarea name="description" maxlength="1000" rows="3"></textarea></label></div><p id="eventError" class="calendar-error" role="alert" hidden></p><div class="tool-actions"><button type="submit" class="primary">Enregistrer</button><button type="button" id="cancel">Annuler</button></div></form><div id="eventActions" class="tool-actions calendar-event-actions"></div></dialog>';
+  const dialog=$('#eventDialog'),form=$('#eventForm'),actions=$('#eventActions');
+  const formatTime=value=>typeof value==='string'&&/^\d{2}:\d{2}$/.test(value)?value:'08:00';
+  function occurrences(start,end){
+    const out=[];
+    if(!validDate(start)||!validDate(end))return out;
+    const startDate=toDay(start);
+    for(const item of data){
+      if(!item||!validDate(item.date)||!allowed.has(item.type))continue;
+      let d=toDay(item.date);
+      if(item.repeat==='weekly'&&d<startDate){
+        const gap=Math.floor((startDate-d)/86400000);
+        d=plusDays(d,Math.max(0,Math.ceil(gap/7)*7));
+        while(dateVal(d)<start)d=plusDays(d,7);
+      }
+      let occurrencesCount=0;
+      do{
+        const iso=dateVal(d);
+        if(iso>=start&&iso<=end){
+          const done=item.repeat==='weekly'?(item.done===true||(Array.isArray(item.completedDates)&&item.completedDates.includes(iso))):item.done===true;
+          out.push({...item,day:iso,done});
+        }
+        if(item.repeat!=='weekly')break;
+        d=plusDays(d,7);
+        occurrencesCount++;
+      }while(dateVal(d)<=end&&occurrencesCount<1000);
+    }
+    return out.sort((x,y)=>(x.day+formatTime(x.start)+String(x.title)).localeCompare(y.day+formatTime(y.start)+String(y.title),'fr'));
+  }
+  const matches=item=>(!category||item.type===category)&&(!query||[item.title,item.subject,item.chapter,item.description].some(value=>String(value||'').toLocaleLowerCase('fr').includes(query)));
+  const empty=(message,day)=>{
+    const wrapper=el('div','calendar-empty');
+    wrapper.append(el('span','calendar-empty-icon','✦'),el('p',null,message));
+    const add=el('button',null,'+ Planifier un événement');add.type='button';add.onclick=()=>edit(null,day||selected);wrapper.append(add);
+    return wrapper;
+  };
+  function eventButton(item,cls='event-chip'){
+    const button=el('button',cls,formatTime(item.start)+' · '+String(item.title||'Événement')+(item.done?' ✓':''));
+    button.type='button';button.dataset.type=item.type;button.classList.toggle('is-done',item.done);
+    button.setAttribute('aria-label','Modifier '+String(item.title||'événement')+' le '+fmt(item.day));
+    button.title='Modifier cet événement';button.onclick=()=>edit(item.id,item.day);
+    return button;
+  }
+  function rowFor(item){
+    const row=el('div','calendar-agenda-row');
+    const badge=el('span','calendar-event-mark');badge.dataset.type=item.type;badge.textContent=types[item.type]||'Événement';
+    const copy=el('div','calendar-agenda-copy');copy.append(badge,el('strong',null,String(item.title||'Événement')));
+    copy.append(el('span','tool-muted',formatTime(item.start)+'–'+formatTime(item.end)+' · '+String(item.subject||'Matière non indiquée')+(item.chapter?' · '+item.chapter:'')));
+    if(item.description)copy.append(el('small','tool-muted',item.description));
+    const editButton=el('button','calendar-agenda-edit',item.done?'✓ Terminé · Modifier':'Modifier');
+    editButton.type='button';editButton.onclick=()=>edit(item.id,item.day);
+    row.append(copy,editButton);return row;
+  }
+  function renderDayAgenda(items,visible=true){
+    const box=$('#dayAgenda');box.replaceChildren();box.hidden=!visible;
+    if(!visible)return;
+    const heading=el('div','calendar-agenda-heading');
+    const title=el('h3',null,longDay(selected));const add=el('button',null,'+ Ajouter ce jour');
+    add.type='button';add.onclick=()=>edit(null,selected);heading.append(title,add);box.append(heading);
+    if(!items.length)box.append(empty(query||category?'Aucun événement ne correspond aux filtres ce jour-là.':'Rien de prévu ce jour-là. Tu peux ajouter une révision.',selected));
+    else for(const item of items)box.append(rowFor(item));
+  }
+  function drawStats(){
+    const end7=dateVal(plusDays(toDay(today),6));
+    const week=occurrences(today,end7);
+    const monthStart=dateVal(new Date(new Date().getFullYear(),new Date().getMonth(),1));
+    const monthEnd=dateVal(new Date(new Date().getFullYear(),new Date().getMonth()+1,0));
+    const month=occurrences(monthStart,monthEnd);
+    const cards=[['Ce mois-ci',month.length,'événement(s) planifié(s)'],['7 prochains jours',week.length,'rendez-vous à venir'],['À faire aujourd’hui',week.filter(x=>x.day===today&&!x.done).length,'événement(s) non terminés']];
+    const box=$('#calendarStats');box.replaceChildren();
+    for(const [label,value,note] of cards){const card=el('div','calendar-stat');card.append(el('span',null,label),el('strong',null,String(value)),el('small',null,note));box.append(card)}
+  }
+  function renderReminders(){
+    const now=Date.now(),end=dateVal(plusDays(new Date(),2));
+    const reminders=occurrences(today,end).filter(item=>!item.done&&item.reminder!=='none').filter(item=>{
+      const date=new Date(item.day+'T'+formatTime(item.start));
+      const delta=date.getTime()-now;
+      return delta>=0&&delta<=({'1d':86400000,'3h':10800000,'1h':3600000}[item.reminder]||0);
+    });
+    const area=$('#reminders');area.textContent=reminders.length?'⏰ Rappel sur cette page : '+reminders.slice(0,3).map(item=>String(item.title)+' · '+fmt(item.day)).join(' · ')+(reminders.length>3?' et '+(reminders.length-3)+' autre(s)':''):'';
+    area.hidden=!reminders.length;
+  }
+  function render(){
+    const y=cursor.getFullYear(),m=cursor.getMonth();
+    const firstMonth=new Date(y,m,1),lastMonth=new Date(y,m+1,0);
+    let start=dateVal(firstMonth),end=dateVal(lastMonth);
+    if(view==='week'){
+      const first=plusDays(toDay(selected),-((toDay(selected).getDay()+6)%7));
+      start=dateVal(first);end=dateVal(plusDays(first,6));
+      $('#period').textContent=fmt(start)+' — '+fmt(end);
+    }else $('#period').textContent=monthTitle(cursor);
+    $('#jumpDate').value=selected;
+    const area=$('#calendarView');area.replaceChildren();
+    let displayStart=start,displayEnd=end;
+    if(view==='month'){
+      const shift=(firstMonth.getDay()+6)%7;
+      displayStart=dateVal(plusDays(firstMonth,-shift));
+      displayEnd=dateVal(plusDays(toDay(displayStart),41));
+    }
+    const all=occurrences(displayStart,displayEnd),entries=all.filter(matches);
+    const buckets=new Map();
+    for(const item of entries){if(!buckets.has(item.day))buckets.set(item.day,[]);buckets.get(item.day).push(item)}
+    if(view==='list'){
+      const list=el('div','calendar-list');
+      if(!entries.length)list.append(empty('Aucun événement pour ce mois avec ces filtres.',start));
+      for(const [day,items] of buckets){
+        const group=el('section','calendar-list-day');
+        group.append(el('h3',null,longDay(day)));
+        for(const item of items)group.append(rowFor(item));
+        list.append(group);
+      }
+      area.append(list);renderDayAgenda([],false);
+    }else{
+      const grid=el('div','calendar-grid '+(view==='week'?'calendar-grid-week':'calendar-grid-month'));
+      grid.setAttribute('role','group');
+      grid.setAttribute('aria-label',view==='month'?'Calendrier de '+monthTitle(cursor):'Semaine du '+fmt(start));
+      for(const label of ['Lun','Mar','Mer','Jeu','Ven','Sam','Dim'])grid.append(el('div','calendar-weekday',label));
+      const first=toDay(displayStart);
+      const length=view==='month'?42:7;
+      for(let i=0;i<length;i++){
+        const day=dateVal(plusDays(first,i)),items=buckets.get(day)||[];
+        const cls='calendar-day'+(day===today?' is-today':'')+(day===selected?' is-selected':'')+(day.slice(0,7)!==start.slice(0,7)&&view==='month'?' is-outside':'');
+        const cell=el('div',cls);
+        const number=el('button','calendar-date',String(Number(day.slice(-2))));
+        number.type='button';number.setAttribute('aria-label',longDay(day)+', '+items.length+' événement(s)');
+        number.setAttribute('aria-pressed',String(day===selected));
+        number.onclick=()=>{selected=day;if(view==='week')cursor=new Date(toDay(day).getFullYear(),toDay(day).getMonth(),1);render()};
+        cell.append(number);
+        const dots=el('div','calendar-day-dots');
+        dots.setAttribute('aria-hidden','true');
+        for(const item of items.slice(0,4)){const dot=el('i','calendar-dot '+item.type);dots.append(dot)}
+        if(items.length>4)dots.append(el('small',null,'+'+(items.length-4)));
+        cell.append(dots);
+        for(const item of items.slice(0,2))cell.append(eventButton(item));
+        if(items.length>2){
+          const more=el('button','calendar-more','+'+(items.length-2)+' autres');more.type='button';
+          more.onclick=()=>{selected=day;render();$('#dayAgenda').scrollIntoView({block:'nearest',behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})};
+          cell.append(more);
+        }
+        const create=el('button','calendar-day-add','+');create.type='button';
+        create.setAttribute('aria-label','Ajouter un événement le '+longDay(day));create.onclick=()=>edit(null,day);
+        cell.append(create);grid.append(cell);
+      }
+      area.append(grid);renderDayAgenda(buckets.get(selected)||[]);
+    }
+    drawStats();renderReminders();
+  }
+  function edit(id,day){
+    editing=id;editingDay=day||today;form.reset();$('#eventError').hidden=true;$('#eventError').textContent='';
+    actions.replaceChildren();
+    const item=id?data.find(x=>x.id===id):null;
+    if(id&&!item)return;
+    const defaults={title:'',type:'revision',subject:'',chapter:'',date:day||today,start:'17:00',end:'18:00',repeat:'none',reminder:'none',description:''};
+    for(const [key,value] of Object.entries({...defaults,...(item||{})})){
+      const field=form.elements.namedItem(key);if(field)field.value=value??'';
+    }
+    $('#dialogTitle').textContent=item?'Modifier un événement':'Nouvel événement';
+    $('#seriesNotice').textContent=item?.repeat==='weekly'?'Cet événement se répète chaque semaine. Les modifications de ce formulaire concernent toute la série.':'Les rappels ne s’affichent que lorsque ce calendrier est ouvert.';
+    if(item){
+      const done=item.repeat==='weekly'?(item.done===true||(Array.isArray(item.completedDates)&&item.completedDates.includes(editingDay))):item.done===true;
+      const toggle=el('button',null,done?'↩ Marquer non terminé':'✓ Marquer terminé');toggle.type='button';
+      toggle.onclick=()=>{
+        const original=JSON.stringify(data);
+        if(item.repeat==='weekly'){
+          if(item.done===true){
+            if(!confirm('Le statut terminé concerne actuellement toute la série. Réactiver les séances pour les suivre individuellement ?'))return;
+            item.done=false;item.completedDates=[];
+          }else{
+            const dates=Array.isArray(item.completedDates)?item.completedDates:[];
+            item.completedDates=done?dates.filter(x=>x!==editingDay):[...new Set([...dates,editingDay])];
+          }
+        }else item.done=!item.done;
+        if(!save()){data=JSON.parse(original);return}
+        dialog.close();render();
+      };
+      const del=el('button','calendar-danger','Supprimer'+(item.repeat==='weekly'?' la série':''));
+      del.type='button';
+      del.onclick=()=>{
+        if(!confirm(item.repeat==='weekly'?'Supprimer toutes les occurrences de cette série hebdomadaire ?':'Supprimer définitivement cet événement ?'))return;
+        const old=data;data=data.filter(x=>x.id!==id);
+        if(!save()){data=old;return}
+        dialog.close();render();
+      };
+      actions.append(toggle,del);
+    }
+    dialog.showModal();
+    form.elements.namedItem('title').focus();
+  }
+  form.onsubmit=event=>{
+    event.preventDefault();
+    const row=Object.fromEntries(new FormData(form).entries());
+    row.title=String(row.title||'').trim();row.subject=String(row.subject||'').trim();
+    const invalid=!row.title||!row.subject||!validDate(row.date)||
+      !window.studybeamSchoolBackup?.validTime(row.start)||!window.studybeamSchoolBackup?.validTime(row.end)||
+      row.end<=row.start||!allowed.has(row.type)||!['none','weekly'].includes(row.repeat)||!['none','1d','3h','1h'].includes(row.reminder);
+    if(invalid){
+      $('#eventError').textContent='Vérifie le titre, la matière, la date et les horaires (la fin doit être après le début).';
+      $('#eventError').hidden=false;return;
+    }
+    const old=editing?data.find(x=>x.id===editing):null;
+    if(!editing&&data.length>=1500){
+      $('#eventError').textContent='Limite de 1 500 événements atteinte. Exporte ou supprime des événements avant d’en ajouter.';
+      $('#eventError').hidden=false;return;
+    }
+    row.id=editing||uid();
+    row.done=old?.done===true;
+    row.completedDates=Array.isArray(old?.completedDates)?old.completedDates:[];
+    const previous=data;
+    data=editing?data.map(item=>item.id===editing?row:item):[...data,row];
+    if(!save()){data=previous;return}
+    const displayDay=old?.repeat==='weekly'&&row.repeat==='weekly'&&old.date===row.date&&validDate(editingDay)?editingDay:row.date;
+    selected=displayDay;cursor=new Date(toDay(displayDay).getFullYear(),toDay(displayDay).getMonth(),1);
+    dialog.close();render();
+  };
+  $('#cancel').onclick=()=>dialog.close();
+  $('#add').onclick=()=>edit(null,selected);
+  const move=direction=>{
+    if(view==='week'){
+      selected=dateVal(plusDays(toDay(selected),direction*7));
+      cursor=new Date(toDay(selected).getFullYear(),toDay(selected).getMonth(),1);
+    }else{
+      cursor=new Date(cursor.getFullYear(),cursor.getMonth()+direction,1);
+      selected=dateVal(cursor);
+    }
+    render();
+  };
+  $('#prev').onclick=()=>move(-1);
+  $('#next').onclick=()=>move(1);
+  $('#now').onclick=()=>{cursor=new Date();cursor.setDate(1);selected=today;render()};
+  $('#mode').onchange=event=>{view=event.target.value;render()};
+  $('#category').onchange=event=>{category=event.target.value;render()};
+  $('#searchEvents').oninput=event=>{query=event.target.value.trim().toLocaleLowerCase('fr');render()};
+  $('#jumpDate').onchange=event=>{if(!validDate(event.target.value))return;selected=event.target.value;cursor=new Date(toDay(selected).getFullYear(),toDay(selected).getMonth(),1);render()};
+  dialog.addEventListener('close',()=>{editing=null;actions.replaceChildren()});
+  render();
+}
 function initGrades(){
 let editingGrade=null;
 root.innerHTML='<h1>Suivi de mes notes</h1><p class="tool-muted">Notes et graphiques personnels enregistrés sur cet appareil. Les résultats ne sont pas synchronisés avec un compte.</p><form id="gradeForm" class="grade-form"><label>Matière<input name="subject" required maxlength="80" placeholder="Mathématiques"></label><label>Note obtenue<input type="number" name="score" min="0" step="0.01" required></label><label>Barème<input type="number" name="max" min="0.1" step="0.01" value="20" required></label><label>Date<input name="date" type="date" required></label><label>Évaluation<input name="label" maxlength="100" placeholder="Contrôle chapitre 2"></label><button type="submit" class="primary">Enregistrer la note</button></form><div class="grade-filters"><label>Matière <select id="subjectFilter"><option value="">Toutes</option></select></label></div><div id="gradeSummary" class="grade-summary"></div><div id="gradeChart" class="grade-chart" role="img" aria-label="Courbe d’évolution des notes sur 20"></div><h2>Historique des notes</h2><div id="gradeRows"></div>';
