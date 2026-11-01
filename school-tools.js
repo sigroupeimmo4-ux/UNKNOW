@@ -166,7 +166,7 @@ function initCalendar(){
         for(const item of items.slice(0,2))cell.append(eventButton(item));
         if(items.length>2){
           const more=el('button','calendar-more','+'+(items.length-2)+' autres');more.type='button';
-          more.onclick=()=>{selected=day;render();$('#dayAgenda').scrollIntoView({block:'nearest',behavior:'smooth'})};
+          more.onclick=()=>{selected=day;render();$('#dayAgenda').scrollIntoView({block:'nearest',behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})};
           cell.append(more);
         }
         const create=el('button','calendar-day-add','+');create.type='button';
@@ -240,7 +240,8 @@ function initCalendar(){
     const previous=data;
     data=editing?data.map(item=>item.id===editing?row:item):[...data,row];
     if(!save()){data=previous;return}
-    selected=row.date;cursor=new Date(toDay(row.date).getFullYear(),toDay(row.date).getMonth(),1);
+    const displayDay=old?.repeat==='weekly'&&row.repeat==='weekly'&&old.date===row.date&&validDate(editingDay)?editingDay:row.date;
+    selected=displayDay;cursor=new Date(toDay(displayDay).getFullYear(),toDay(displayDay).getMonth(),1);
     dialog.close();render();
   };
   $('#cancel').onclick=()=>dialog.close();
