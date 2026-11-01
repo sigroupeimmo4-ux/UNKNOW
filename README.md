@@ -24,6 +24,12 @@ StudyBeam propose une vitrine publique Dreamy Pastel, un espace de révision et 
 | `reset-password.html` | Modification du mot de passe avec une session authentifiée. |
 | `auth-callback.html` | Traitement du retour de confirmation d’e-mail. |
 
+## Mode clair et mode sombre — novembre 2026
+
+Dans **Paramètres → Mode d'affichage**, StudyBeam permet de choisir **Mode clair** (Pastel Dream d'origine) ou **Mode sombre** (bleu nuit, surfaces foncées et texte contrasté). Un bouton ☾/☀ dans la barre supérieure bascule rapidement entre les modes. Le choix reste dans le stockage local du navigateur avec la clé `sw-color-mode-v1` et s'applique au tableau de bord, aux pages pédagogiques, au calendrier et aux notes. Il ne synchronise pas le thème avec un compte. La vitrine publique continue d'utiliser son identité Dreamy Pastel.
+
+Scripts : `theme-mode.js`, `theme-mode.css`. Vérification : `node tests/test_theme_mode.cjs`.
+
 ## Tableau de bord Pastel Dream — novembre 2026
 
 L’espace existant `app.html` a été modernisé : accueil et parcours scolaires réellement enregistrés, objectif du jour, statistiques distinctes, reprise des cours vérifiés, échéances locales, accès direct à Beam et couleurs pastel personnalisables. Les notes saisies en classe restent séparées des résultats des quiz StudyBeam. Aucun cours terminé, chapitre achevé ni taux de réussite global n’est inventé quand le suivi n’existe pas. Les préférences, objectifs, notes et calendriers demeurent **locaux** ; les rappels de la barre supérieure s’affichent seulement pendant la visite. Le dragon officiel existant est conservé : aucun modèle 3D riggé nouveau n’est fourni.
