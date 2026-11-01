@@ -14,6 +14,7 @@ Date : 1er novembre 2026. Dépôt : `sigroupeimmo4-ux/UNKNOW`.
 - `fonctionnalites.html` (nouveau) : page autonome qui renvoie vers les outils réels.
 - `contact.html` (nouveau) : destination publique sans inventer un e-mail ou formulaire ; le canal officiel reste à ouvrir.
 - `tests/test_dreamy_landing.py` (nouveau) : contrôles automatisés des routes, contenus et protections.
+- `.github/workflows/deploy.yml` : exécute les tests Dreamy avant publication et vérifie les deux nouvelles URL après déploiement.
 
 ## Routes principales
 | Label | Destination |
