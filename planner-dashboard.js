@@ -9,7 +9,8 @@
   const node=(tag,cls,text)=>{const x=document.createElement(tag);if(cls)x.className=cls;if(text!==undefined)x.textContent=text;return x};
   const link=(text,url)=>{const a=node('a','planner-link',text);a.href=url;return a};
   const get=key=>{try{return storage?.get(key)??localStorage.getItem(key)}catch{return null}};
-  const save=(key,items)=>{try{localStorage.setItem(key,JSON.stringify(items));return true}catch{
+  const save=(key,items)=>{try{localStorage.setItem(key,JSON.stringify(items));
+    document.dispatchEvent(new Event('studybeam:planner-updated'));return true}catch{
     const status=document.querySelector('#plannerStatus');if(status)status.textContent='Enregistrement indisponible dans ce navigateur.';return false
   }};
   const format=date=>new Intl.DateTimeFormat('fr-FR',{weekday:'short',day:'numeric',month:'short'}).format(core.day(date));

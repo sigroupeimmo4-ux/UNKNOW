@@ -10,6 +10,7 @@
     if(typeof id!=='string'||!/^[a-z0-9-]+$/.test(id))return;
     records=[{id,at:new Date().toISOString()},...records.filter(item=>item?.id!==id)].slice(0,20);
     storage.set('sw-learning-history',JSON.stringify({items:records}));
+    document.dispatchEvent(new Event('studybeam:learning-updated'));
   }
   window.studybeamDashboard={remember,refresh:()=>render()};
   const welcomes=document.querySelectorAll('[data-welcome]');
@@ -33,6 +34,7 @@
       }
     }catch{/* Une indisponibilité du catalogue ne produit pas de faux historique. */}
     for(const box of document.querySelectorAll('[data-resume]')){
+      if(box.closest('#home')?.dataset.dashboardVersion==='2')continue;
       box.replaceChildren();const panel=make('section',undefined,'resume-card');panel.append(make('div','REPRENDRE MON APPRENTISSAGE','section-kicker'));
       if(valid.length){const last=valid[0];panel.append(make('h2',last.title),make('p','Dernier cours consulté sur cet appareil.','muted'),action('Reprendre le cours →','./cours.html?lesson='+encodeURIComponent(last.id)));}
       else panel.append(make('h2',available?'Ton prochain petit pas commence ici.':'Ton espace d’apprentissage'),make('p',available?'Découvre les ressources disponibles et choisis une notion à explorer.':'L’historique ne peut pas être vérifié pour le moment.','muted'),action('Découvrir les programmes →','./programmes.html'));

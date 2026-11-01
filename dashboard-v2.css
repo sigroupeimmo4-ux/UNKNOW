@@ -1,0 +1,262 @@
+/* StudyBeam - tableau de bord Pastel Dream, isolé sur la page app.html.
+   Pas de changement des ressources pédagogiques, du dragon ou des autres pages. */
+body[data-auth-page="app"]:not([data-library]){
+ --bg:#FAF9F5;--paper:#FAF9F5;--surface:#FFFFFF;--primary:#527F99;
+ --purple:#527F99;--purple-dark:#385D76;--soft:#E9F3F6;--ink:#34434A;
+ --muted:#60717A;--line:#E2E9EA;--dash-accent:#BBDCF2;--dash-accent-soft:#EDF6FC;
+ --dash-shadow:0 10px 28px rgba(52,67,74,.07);
+ background:#FAF9F5;color:var(--ink);
+}
+body[data-auth-page="app"][data-dashboard-accent="mint"]{--dash-accent:#C5E9D9;--dash-accent-soft:#F0FAF6}
+body[data-auth-page="app"][data-dashboard-accent="peach"]{--dash-accent:#F8DCCE;--dash-accent-soft:#FFF6F1}
+body[data-auth-page="app"][data-dashboard-accent="yellow"]{--dash-accent:#F7E9AC;--dash-accent-soft:#FFFBEA}
+body[data-auth-page="app"][data-dashboard-accent="pink"]{--dash-accent:#F2DCE8;--dash-accent-soft:#FCF4F8}
+body[data-auth-page="app"]:not([data-library]) .design-topbar{
+ background:#FFFFFFF5!important;border-bottom:1px solid #E5ECEE!important;
+ box-shadow:0 3px 16px rgba(45,66,77,.04);
+}
+body[data-auth-page="app"]:not([data-library]) .global-search input{
+ border:1px solid #DFE9EA;border-radius:14px;background:#F9FCFC;
+}
+body[data-auth-page="app"]:not([data-library]) .top-account{position:relative}
+body[data-auth-page="app"]:not([data-library]) .dash-notification-button{
+ display:inline-grid;place-items:center;position:relative;width:43px;height:43px;
+ border:1px solid #E2EBED;border-radius:14px;color:#527F99;background:#F5FAFB;
+ font-size:1.5rem;font-weight:700;cursor:pointer;flex:none;
+}
+body[data-auth-page="app"]:not([data-library]) .dash-notification-button:hover{background:#E6F3F7}
+body[data-auth-page="app"]:not([data-library]) .dash-notification-count{
+ position:absolute;right:-5px;top:-5px;min-width:20px;height:20px;border-radius:100px;
+ background:#C5E9D9;border:1px solid #FFF;display:grid;place-items:center;color:#34434A;
+ padding:0 4px;font-size:.67rem;line-height:1;font-weight:900;
+}
+body[data-auth-page="app"]:not([data-library]) .dash-notification-count[hidden]{display:none}
+body[data-auth-page="app"]:not([data-library]) .dash-notifications{
+ position:absolute;z-index:150;top:calc(100% + 12px);right:0;
+ width:min(355px,calc(100vw - 24px));max-height:min(60vh,440px);overflow:auto;
+ padding:17px;background:#FFF;border:1px solid #E0E9E9;border-radius:19px;
+ box-shadow:0 18px 44px rgba(30,53,67,.2);
+}
+body[data-auth-page="app"]:not([data-library]) .dash-notifications[hidden]{display:none!important}
+body[data-auth-page="app"]:not([data-library]) .dash-notifications>strong{display:block;margin-bottom:11px}
+body[data-auth-page="app"]:not([data-library]) .dash-notification-item{
+ display:grid;gap:2px;padding:11px 0;border-bottom:1px solid #E8EFF0;font-size:.85rem;
+}
+body[data-auth-page="app"]:not([data-library]) .dash-notification-item strong{font-weight:760;overflow-wrap:anywhere}
+body[data-auth-page="app"]:not([data-library]) .dash-notification-item span{color:#60717A;font-size:.8rem}
+body[data-auth-page="app"]:not([data-library]) .dash-notifications a{display:inline-block;margin-top:13px;font-weight:750}
+body[data-auth-page="app"]:not([data-library]) .route-menu,
+body[data-auth-page="app"]:not([data-library]) .route-menu .sidebar-content{background:#FFFEFC}
+body[data-auth-page="app"]:not([data-library]) .route-menu .app-nav a{
+ color:#536C79;border-radius:12px;min-height:42px;
+}
+body[data-auth-page="app"]:not([data-library]) .route-menu .app-nav a:hover{background:#EDF6F7}
+body[data-auth-page="app"]:not([data-library]) .route-menu .app-nav a[aria-current="page"]{
+ background:var(--dash-accent-soft);color:#35566B;font-weight:790;border-left:3px solid var(--dash-accent);
+}
+body[data-auth-page="app"]:not([data-library]) .app{max-width:1250px}
+body[data-auth-page="app"]:not([data-library]) #home{min-width:0}
+body[data-auth-page="app"]:not([data-library]) #home .dash-welcome{
+ position:relative;display:flex;gap:30px;align-items:center;justify-content:space-between;
+ border-radius:26px;padding:30px 36px;margin:0 0 22px;overflow:hidden;
+ background:radial-gradient(circle at 83% 25%,#C5E9D9B0,transparent 34%),
+ radial-gradient(circle at 15% 95%,#F2DCE8A6,transparent 33%),
+ linear-gradient(125deg,var(--dash-accent-soft),#FFFFFF 80%);
+ border:1px solid #E6ECED;box-shadow:var(--dash-shadow);
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-copy{position:relative;z-index:1;min-width:0}
+body[data-auth-page="app"]:not([data-library]) #home .dash-welcome h1{
+ font-size:clamp(1.75rem,3vw,2.6rem);margin:10px 0 8px;letter-spacing:-.04em;
+ color:#34434A;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-welcome p{font-size:.95rem;color:#586F77;margin:5px 0 10px}
+body[data-auth-page="app"]:not([data-library]) #home #dashboardIdentity{
+ font-weight:750;color:#466B7C;line-height:1.5;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-eyebrow{
+ display:block;font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;
+ color:#5C7D92;font-weight:850;line-height:1.5;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-dragon{
+ width:min(26%,185px);height:auto;object-fit:contain;flex:none;
+ filter:drop-shadow(0 12px 16px #527F9926);
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-favorites{
+ display:flex;gap:7px;flex-wrap:wrap;margin:8px 0 10px;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-favorite-chip{
+ display:inline-block;font-size:.73rem;font-weight:750;color:#49697B;
+ background:#FFFFFFB8;border:1px solid #DFE9EE;padding:5px 10px;border-radius:99px;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:15px}
+body[data-auth-page="app"]:not([data-library]) #home .btn{
+ border-radius:13px;min-height:44px;font-weight:760;box-shadow:none;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-actions .btn:first-child{
+ background:#527F99;color:white;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-actions .btn.ghost{background:#FFFFFF;color:#527F99;border:1px solid #CCDEE6}
+body[data-auth-page="app"]:not([data-library]) #home .dash-daily-focus{
+ border:1px solid #DAEAEA;border-radius:23px;background:linear-gradient(120deg,#F4FAF9,#FFF 70%);
+ display:grid;grid-template-columns:minmax(0,1fr) 220px;gap:24px;
+ padding:27px 30px;margin:0 0 20px;box-shadow:var(--dash-shadow);
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-content{min-width:0}
+body[data-auth-page="app"]:not([data-library]) #home .dash-daily-focus h2{
+ font-size:clamp(1.35rem,2.5vw,1.8rem);line-height:1.25;margin:9px 0;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-desc{max-width:700px;font-size:.93rem;color:#5D737B;line-height:1.6}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-meter{max-width:540px;margin:18px 0}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-progress-label{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:.82rem;font-weight:710}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-meter progress{
+ display:block;width:100%;height:11px;margin:10px 0;appearance:none;accent-color:#83C5AF;
+ border:0;border-radius:20px;overflow:hidden;background:#DAE9E7;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-meter progress::-webkit-progress-bar{background:#DAE9E7}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-meter progress::-webkit-progress-value{background:#83C5AF;border-radius:20px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-meter progress::-moz-progress-bar{background:#83C5AF;border-radius:20px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-art{
+ border-radius:21px;background:linear-gradient(150deg,#C5E9D9,#BBDCF2);
+ display:grid;place-content:center;text-align:center;padding:22px;color:#375A70;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-art span{font-size:3.8rem;color:#F7E9AC}
+body[data-auth-page="app"]:not([data-library]) #home .dash-focus-art p{font-weight:750;margin:9px 0 0;font-size:.85rem}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-grid{
+ display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px;margin:0 0 24px;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-card{
+ display:flex;flex-direction:column;gap:6px;min-width:0;padding:19px 16px;
+ border:1px solid #FFFFFFDB;border-radius:19px;text-decoration:none;color:#34434A;
+ box-shadow:var(--dash-shadow);transition:transform .2s,box-shadow .2s;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-card:hover{transform:translateY(-2px);box-shadow:0 15px 30px #34434A17}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-0{background:#E4F3FC}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-1{background:#F8EDF4}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-2{background:#FEF4D5}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-3{background:#E3F4EA}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-icon{font-size:1.5rem}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-label{font-size:.82rem;font-weight:750;color:#536974}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-value{font-size:2.1rem;line-height:1.1;margin:3px 0}
+body[data-auth-page="app"]:not([data-library]) #home .dash-stat-note{font-size:.76rem;line-height:1.45;color:#607078}
+body[data-auth-page="app"]:not([data-library]) #home .dash-section-heading{
+ display:flex;align-items:center;justify-content:space-between;gap:14px;margin:12px 0 16px;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-section-heading h2{font-size:1.45rem;margin:5px 0 0}
+body[data-auth-page="app"]:not([data-library]) #home .dash-resume-grid{
+ display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin-bottom:24px;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-resume-card,
+body[data-auth-page="app"]:not([data-library]) #home .dash-empty-card{
+ background:#FFF;border:1px solid #E4EBEC;border-radius:20px;
+ padding:20px;box-shadow:var(--dash-shadow);min-width:0;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-resume-card{display:flex;align-items:flex-start;flex-direction:column;gap:9px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-resume-icon{font-size:1.55rem;border-radius:12px;background:#EFF6FC;padding:7px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-resume-subject{font-size:.73rem;font-weight:800;color:#527F99}
+body[data-auth-page="app"]:not([data-library]) #home .dash-resume-card h3{font-size:1.05rem;line-height:1.35;margin:0;overflow-wrap:anywhere}
+body[data-auth-page="app"]:not([data-library]) #home .dash-resume-detail{font-size:.82rem;color:#5D7078;margin:0}
+body[data-auth-page="app"]:not([data-library]) #home .dash-action-link{
+ display:inline-block;font-size:.85rem;font-weight:760;color:#3E6981;text-decoration:none;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-resume-card .dash-action-link{margin-top:auto;padding-top:8px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-action-link:hover{text-decoration:underline}
+body[data-auth-page="app"]:not([data-library]) #home .dash-help{font-size:.77rem;color:#627780;line-height:1.5}
+body[data-auth-page="app"]:not([data-library]) #home .dash-empty-card p{margin:7px 0 15px;color:#60747B}
+body[data-auth-page="app"]:not([data-library]) #home .dash-empty-card{margin-bottom:20px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-bottom-grid{
+ display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;margin:20px 0 26px;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-beam-card,
+body[data-auth-page="app"]:not([data-library]) #home .dash-results-card{
+ background:#FFF;border:1px solid #E2E9EA;border-radius:23px;padding:24px;
+ box-shadow:var(--dash-shadow);min-width:0;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-beam-card{
+ background:linear-gradient(145deg,#FCF4F8,#F7FBFE 76%);
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-beam-card-top{display:flex;justify-content:space-between;gap:12px;align-items:center}
+body[data-auth-page="app"]:not([data-library]) #home .dash-beam-card-top img{width:88px;height:88px;object-fit:contain}
+body[data-auth-page="app"]:not([data-library]) #home .dash-bottom-grid h2{font-size:1.32rem;margin:5px 0 10px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-bottom-grid p{font-size:.89rem;line-height:1.55;color:#586E76}
+body[data-auth-page="app"]:not([data-library]) #home .dash-beam-card .btn{margin:9px 0 8px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-results-card>div{margin:14px 0;padding:12px 0;border-top:1px solid #EBEFF0}
+body[data-auth-page="app"]:not([data-library]) #home .dash-grade-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:5px;align-items:center;margin:13px 0;font-size:.86rem}
+body[data-auth-page="app"]:not([data-library]) #home .dash-grade-row span{overflow-wrap:anywhere}
+body[data-auth-page="app"]:not([data-library]) #home .dash-grade-track{grid-column:1/-1;height:9px;background:#E8EDF0;border-radius:20px;overflow:hidden}
+body[data-auth-page="app"]:not([data-library]) #home .dash-grade-bar{height:100%;background:#88BDAB;border-radius:20px}
+body[data-auth-page="app"]:not([data-library]) #home .dash-empty-small{font-size:.82rem;color:#6C7A81}
+body[data-auth-page="app"]:not([data-library]) #home .dash-demo-result a{font-weight:750;font-size:.84rem}
+body[data-auth-page="app"]:not([data-library]) #home .dash-personal-track{margin-bottom:0!important}
+body[data-auth-page="app"]:not([data-library]) #home .cards .card{
+ background:#fff;border:1px solid #DFEAEB;border-radius:17px;min-height:120px;
+ box-shadow:0 7px 19px #34434A09;text-align:left;padding:17px;
+}
+body[data-auth-page="app"]:not([data-library]) #home .cards .card:nth-child(1){background:#EDF7FE}
+body[data-auth-page="app"]:not([data-library]) #home .cards .card:nth-child(2){background:#FCF0F7}
+body[data-auth-page="app"]:not([data-library]) #home .cards .card:nth-child(3){background:#FFF8DC}
+body[data-auth-page="app"]:not([data-library]) #home .cards .card:nth-child(4){background:#E9F8F1}
+body[data-auth-page="app"]:not([data-library]) #home .cards .card:nth-child(5){background:#FFF1E9}
+body[data-auth-page="app"]:not([data-library]) #home .controls,
+body[data-auth-page="app"]:not([data-library]) #home .panel{
+ border-radius:21px;border:1px solid #E3EBEC;box-shadow:var(--dash-shadow);padding:23px;
+}
+body[data-auth-page="app"]:not([data-library]) #home #studyPlanner .planner-panel,
+body[data-auth-page="app"]:not([data-library]) #home #studyPlanner .planner-subjects{
+ border-radius:21px;box-shadow:var(--dash-shadow);
+}
+body[data-auth-page="app"]:not([data-library]) #home #studyPlanner .planner-overview .planner-stat{
+ border-radius:18px;box-shadow:var(--dash-shadow);
+}
+body[data-auth-page="app"]:not([data-library]) #home #studyPlanner .planner-primary-link{background:#527F99}
+body[data-auth-page="app"]:not([data-library]) #settings .dash-settings-personal{
+ display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;
+ max-width:880px;margin:13px 0 20px;padding:20px;
+ background:#F5FAF8;border:1px solid #E2EEE8;border-radius:16px;
+}
+body[data-auth-page="app"]:not([data-library]) #settings .dash-settings-personal label{
+ display:grid;gap:7px;font-size:.87rem;font-weight:740;color:#435D6A;
+}
+body[data-auth-page="app"]:not([data-library]) #settings .dash-settings-personal select,
+body[data-auth-page="app"]:not([data-library]) #settings .dash-settings-personal input{
+ width:100%;max-width:100%;min-width:0;padding:11px;border:1px solid #D4E3E8;border-radius:11px;
+ background:#FFF;color:#34434A;font:inherit;
+}
+body[data-auth-page="app"]:not([data-library]) #settings #dashboardSavePrefs{grid-column:1/-1;justify-self:start}
+body[data-auth-page="app"]:not([data-library]) #settings #dashboardPrefsStatus{grid-column:1/-1}
+body[data-auth-page="app"]:not([data-library]) :is(a,button,input,select,summary):focus-visible{
+ outline:3px solid #527F99;outline-offset:3px;
+}
+@media(max-width:1060px){
+ body[data-auth-page="app"]:not([data-library]) #home .dash-stat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-resume-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-daily-focus{grid-template-columns:minmax(0,1fr) 160px}
+}
+@media(max-width:790px){
+ body[data-auth-page="app"]:not([data-library]) #home .dash-bottom-grid{grid-template-columns:1fr}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-welcome{padding:23px}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-daily-focus{grid-template-columns:1fr}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-focus-art{display:none}
+}
+@media(max-width:560px){
+ body[data-auth-page="app"]:not([data-library]) #home .dash-welcome{padding:20px;align-items:flex-start;gap:6px}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-dragon{width:95px;max-width:30%;align-self:center}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-welcome h1{font-size:1.7rem}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-welcome p{font-size:.83rem}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-daily-focus{padding:19px}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-stat-grid{gap:8px}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-stat-card{padding:14px 11px;border-radius:14px}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-stat-value{font-size:1.7rem}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-stat-label{font-size:.74rem}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-stat-note{font-size:.69rem}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-resume-grid{grid-template-columns:1fr}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-beam-card,
+ body[data-auth-page="app"]:not([data-library]) #home .dash-results-card{padding:18px}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-actions .btn{width:100%}
+ body[data-auth-page="app"]:not([data-library]) #settings .dash-settings-personal{grid-template-columns:1fr;padding:14px}
+ body[data-auth-page="app"]:not([data-library]) .dash-notification-button{width:37px;height:37px}
+}
+@media(prefers-reduced-motion:reduce){
+ body[data-auth-page="app"]:not([data-library]) #home .dash-stat-card{transition:none!important}
+ body[data-auth-page="app"]:not([data-library]) #home .dash-stat-card:hover{transform:none}
+}
