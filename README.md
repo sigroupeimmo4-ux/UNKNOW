@@ -7,7 +7,7 @@ StudyBeam propose une vitrine publique Dreamy Pastel, un espace de révision et 
 | Page | Rôle |
 | --- | --- |
 | `index.html` | Landing page publique Dreamy Pastel avec le compagnon dragon Beam. |
-| `calendrier.html` | Calendrier local, récurrence hebdomadaire, édition et export/import JSON validé. |
+| `calendrier.html` | Calendrier Dreamy Pastel : vues mois/semaine/liste, recherche, filtres, journée détaillée, récurrence hebdomadaire, édition et sauvegarde JSON locale. |
 | `mes-notes.html` | Suivi et édition locale des notes, graphique, export/import JSON validé. |
 | `beam-3d-apercu.html` | Information sur le futur modèle 3D ; l’ancien prototype géométrique rejeté n’est plus présenté comme le modèle final. |
 | `app.html` | Espace de révision existant : activités disponibles selon le parcours, espace de démonstration, Beam et référentiel. |
@@ -44,6 +44,10 @@ python3 -m http.server 3000 --bind 127.0.0.1
 Ouvrir le site dans un navigateur avec le serveur HTTP. Les fichiers ouverts directement en `file://` ne permettent pas de vérifier les parcours de session et de redirection.
 
 L’application reste publique en démonstration : la connexion n’est pas une protection d’accès à des données privées. Les préférences, objectifs, notes, événements et scores restent dans le stockage du navigateur, sans synchronisation par compte. Les exports JSON des notes et du calendrier peuvent être réimportés localement, après validation et confirmation de remplacement. Les résultats affichés concernent uniquement le quiz de démonstration. Les cartes de l’accueil ouvrent les activités du référentiel lorsqu’elles existent ; les exemples historiques restent dans `app.html#demo`. Beam, le compagnon dragon, ouvre les activités avec ses raccourcis et commandes locales. Son service IA n’est pas encore connecté. Voir `supabase/functions/beam-agent/README.md` pour la préparation serveur et les étapes d’activation.
+
+## Calendrier Dreamy Pastel — 1er novembre 2026
+
+Le calendrier propose désormais une navigation mois/semaine/liste, la recherche, les filtres par catégorie, une sélection de journée adaptée au mobile et un résumé des événements. Les données existantes et le format de sauvegarde JSON restent compatibles. Les rappels s’affichent seulement lorsque la page du calendrier est ouverte, sans notification système. Tests : `node tests/test_calendar_v2.cjs`. Voir `docs/COMPTE_RENDU_CALENDRIER_V2.md`.
 
 ## Nouveautés utiles — 30 octobre 2026
 
