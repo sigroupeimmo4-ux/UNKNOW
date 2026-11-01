@@ -81,6 +81,13 @@ body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-dragon{
  width:min(26%,185px);height:auto;object-fit:contain;flex:none;
  filter:drop-shadow(0 12px 16px #527F9926);
 }
+body[data-auth-page="app"]:not([data-library]) #home .dash-favorites{
+ display:flex;gap:7px;flex-wrap:wrap;margin:8px 0 10px;
+}
+body[data-auth-page="app"]:not([data-library]) #home .dash-favorite-chip{
+ display:inline-block;font-size:.73rem;font-weight:750;color:#49697B;
+ background:#FFFFFFB8;border:1px solid #DFE9EE;padding:5px 10px;border-radius:99px;
+}
 body[data-auth-page="app"]:not([data-library]) #home .dash-welcome-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:15px}
 body[data-auth-page="app"]:not([data-library]) #home .btn{
  border-radius:13px;min-height:44px;font-weight:760;box-shadow:none;
