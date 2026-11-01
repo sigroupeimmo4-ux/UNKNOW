@@ -34,6 +34,8 @@
     document.body.dataset.dashboardAccent=key;
     $('dashboardAccentChoice').value=key;
     $('dashboardFavoriteSubjects').value=get('sw-dashboard-favorites-v1')||'';
+    const favoriteRow=$('dashboardFavoriteChips');
+    if(favoriteRow){favoriteRow.replaceChildren();for(const subject of $('dashboardFavoriteSubjects').value.split(',').map(x=>x.trim()).filter(Boolean).slice(0,8))favoriteRow.append(node('span','dash-favorite-chip',subject));}
   }
   function schoolIdentity(){
     const profile=storage.json('sw-school-profile')||storage.json('sw-profile');
@@ -209,7 +211,19 @@
       $('dashboardPrefsStatus').textContent='Préférences enregistrées sur cet appareil.';
       document.dispatchEvent(new Event('studybeam:dashboard-preferences'));
     });
-    const toggle=$('dashboardNotificationsToggle'),panel=$('dashboardNotifications');
+    let toggle=$('dashboardNotificationsToggle'),panel=$('dashboardNotifications');
+    // Le générateur des pages peut recréer la topbar : installer les contrôles si absents.
+    if(!toggle || !panel){
+      const holder=document.querySelector('.top-account');
+      if(holder){
+        toggle=node('button','dash-notification-button','🔔');toggle.type='button';toggle.id='dashboardNotificationsToggle';
+        toggle.setAttribute('aria-label','Afficher les échéances enregistrées');toggle.setAttribute('aria-expanded','false');
+        toggle.setAttribute('aria-controls','dashboardNotifications');
+        const badge=node('span','dash-notification-count');badge.id='dashboardNotificationsCount';badge.hidden=true;toggle.append(badge);
+        panel=node('div','dash-notifications');panel.id='dashboardNotifications';panel.hidden=true;panel.setAttribute('role','region');panel.setAttribute('aria-label','Mes prochaines échéances');
+        holder.prepend(panel);holder.prepend(toggle);
+      }
+    }
     toggle?.addEventListener('click',()=>{
       panel.hidden=!panel.hidden;
       toggle.setAttribute('aria-expanded',String(!panel.hidden));
@@ -222,7 +236,7 @@
         panel.hidden=true;toggle.setAttribute('aria-expanded','false');
       }
     });
-    const beam=()=>window.studybeamBeamPanel?.open?.() || $('beamLauncher')?.click();
+    const beam=()=>{if(typeof window.studybeamBeamPanel?.open==='function')window.studybeamBeamPanel.open();else $('beamLauncher')?.click()};
     $('dashboardOpenBeam')?.addEventListener('click',beam);
     $('dashboardBeamChat')?.addEventListener('click',beam);
     $('displayNameForm')?.addEventListener('submit',()=>queueMicrotask(render));
