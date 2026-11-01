@@ -55,6 +55,9 @@ class DreamyLandingTests(unittest.TestCase):
         html = read("index.html")
         css = read("landing-dreamy.css")
         self.assertIn("landing-dreamy.css?v=dreamy-20261101", html)
+        self.assertLess(html.index("design.css?v=apple-green-1"), html.index("landing.css?v=landing-1"))
+        self.assertLess(html.index("landing.css?v=landing-1"), html.index("landing-dreamy.css?v=dreamy-20261101"))
+        self.assertIn("body {padding-left:0", css)
         for color in ("#CFE7F7", "#DDD6F7", "#F6D9E8",
                       "#D8F0E4", "#F9E2D2", "#F8EDBE", "#FFFDF8"):
             self.assertIn(color, css)
