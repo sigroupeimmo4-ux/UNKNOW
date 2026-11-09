@@ -1,0 +1,20 @@
+/* StudyBeam — visuels : illustrations vectorielles des cartes de la landing. */
+.vis{display:block;width:100%;height:100%}
+.landing-feature{display:flex;flex-direction:column}
+.landing-feature .feature-art{width:calc(100% + 4px);max-width:none;align-self:stretch;box-sizing:border-box;display:grid;place-items:center;height:118px;margin:-4px -2px 14px;border-radius:16px;background:linear-gradient(145deg,#FFFFFFD6,#FFFFFF66);box-shadow:inset 0 0 0 1px #FFFFFF99;padding:10px 14px;overflow:hidden}
+.landing-feature .feature-art .vis{max-width:150px;transition:transform .25s ease}
+.landing-feature:hover .feature-art .vis{transform:scale(1.06) rotate(-1.5deg)}
+.landing-feature a{margin-top:auto;padding-top:8px}
+.landing-preview-card .preview-art{display:block;width:calc(100% + 8px);max-width:none;align-self:stretch;box-sizing:border-box;height:128px;margin:-6px -4px 14px;border-radius:16px;padding:10px 16px;background:#EDF4FD;overflow:hidden}
+.landing-preview-card:nth-child(2) .preview-art{background:#FFF1E6}
+.landing-preview-card:nth-child(3) .preview-art{background:#E8F8EF}
+.landing-preview-card .preview-art .vis{margin:0 auto;max-width:170px}
+/* Beam : détails repliables au lieu d'un mur de texte */
+.landing-more{margin:12px 0;border:1px solid #E6E7F1;border-radius:14px;background:#FFFFFFB3;padding:2px 14px}
+.landing-more summary{cursor:pointer;font-weight:700;padding:11px 0;min-height:44px;display:flex;align-items:center;color:#4A5F8A}
+.landing-more p{margin:0 0 12px}
+/* Parcours : pastilles plus visuelles */
+.landing-program{transition:transform .18s ease}
+.landing-program:hover{transform:translateY(-2px)}
+.landing-program .icon{font-size:1.6rem}
+@media(prefers-reduced-motion:reduce){.landing-feature .feature-art .vis,.landing-program{transition:none}.landing-feature:hover .feature-art .vis{transform:none}}
