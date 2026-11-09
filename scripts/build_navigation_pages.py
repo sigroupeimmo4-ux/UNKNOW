@@ -53,6 +53,8 @@ def update_menu(s):
  if 'theme-mode.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./theme-mode.css?v=light-dark-1"></head>',1)
  if 'theme-mode.js' not in s:s=s.replace('</head>','<script src="./theme-mode.js?v=light-dark-1"></script></head>',1)
 
+
+ if 'visuals.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./visuals.css?v=4"></head>',1)
  if 'polish.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./polish.css?v=3"></head>',1)
  if 'design.css' not in s:s=s.replace('</head>','<link rel="stylesheet" href="./design.css?v=compact1"></head>',1)
  s=re.sub(r'<script defer src="./navigation.js[^"]*"></script>','',s)
@@ -92,6 +94,9 @@ for filename,(kind,title) in pages.items():
  footer='<footer class="footer">StudyBeam · Démonstration gratuite, couverture scolaire partielle · <a href="./mentions-legales.html">Mentions légales</a> · <a href="./conditions-utilisation.html">CGU</a> · <a href="./confidentialite.html">Confidentialité</a> · <a href="./conditions-vente.html">CGV (paiements inactifs)</a> · <a href="./statut-ouverture.html">État du lancement</a>.</footer>'
  launcher='<a class="beam-launcher beam-character-launcher" href="./app.html#tutor" aria-label="Ouvrir Beam, mon assistant dragon"><img src="./assets/studybeam-logo.webp?v=dragon-1" alt="" width="84" height="84"></a>'
  scripts=''.join('<script defer src="./'+name+'?v='+('beam-visual-repair-1' if name=='navigation.js' else 'source-videos-1' if name=='library.js' else 'planner-1' if name=='dashboard.js' else 'pricing1')+'"></script>' for name in ['navigation.js','storage.js','school-data.js','library-shell.js','curriculum.js','library.js','dashboard.js'])
+ old=(ROOT/filename).read_text(encoding='utf-8') if (ROOT/filename).exists() else ''
+ art=re.search(r'<span class="library-art".*?</svg></span>',old,re.S)
+ if art and 'library-art' not in content:content=content.replace('<div class="library-header">','<div class="library-header">'+art.group(0)+'<div class="library-heading">',1).replace('<p id="libraryIntro"></p></div>','<p id="libraryIntro"></p></div></div>',1)
  s=before+'<main class="app" id="mainContent" tabindex="-1">'+marker+content+bridge+footer+'</main>'+launcher+scripts+'</body></html>\n'
  save(ROOT/filename,s)
 if __name__=='__main__':

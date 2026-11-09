@@ -18,3 +18,34 @@
 .landing-program:hover{transform:translateY(-2px)}
 .landing-program .icon{font-size:1.6rem}
 @media(prefers-reduced-motion:reduce){.landing-feature .feature-art .vis,.landing-program{transition:none}.landing-feature:hover .feature-art .vis{transform:none}}
+
+/* Étapes « Comment ça marche » */
+.landing-how-step .step-art{display:grid;place-items:center;height:96px;margin-bottom:12px;border-radius:16px;background:#F7F9FC;padding:8px 12px}
+.landing-how-step:nth-child(1) .step-art{background:#EAF7F1}
+.landing-how-step:nth-child(2) .step-art{background:#EAF3FB}
+.landing-how-step:nth-child(3) .step-art{background:#FBF4DA}
+.landing-how-step .step-art .vis{max-width:120px}
+/* Parcours : tuiles illustrées */
+.landing-program{display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center}
+.landing-program .program-art{display:block;width:100%;height:74px}
+.landing-program .program-art .vis{max-width:104px;margin:0 auto}
+/* Publics */
+.landing-audience-card .audience-art{display:block;height:92px;margin-bottom:10px}
+.landing-audience-card .audience-art .vis{max-width:130px}
+/* Décor autour du dragon du héros (purement décoratif) */
+.landing-art{position:relative}
+.hero-deco{position:absolute;width:74px;z-index:3;filter:drop-shadow(0 8px 14px #52667C26);animation:deco-float 6s ease-in-out infinite}
+.hero-deco .vis{width:100%;height:auto}
+.hero-deco.d1{top:6%;left:2%}
+.hero-deco.d2{bottom:10%;left:-2%;width:64px;animation-delay:-2s}
+.hero-deco.d3{top:12%;right:0;width:68px;animation-delay:-4s}
+@keyframes deco-float{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-9px) rotate(3deg)}}
+@media(max-width:760px){.hero-deco{width:52px}.hero-deco.d2,.hero-deco.d3{width:48px}}
+@media(prefers-reduced-motion:reduce){.hero-deco{animation:none}}
+/* Pages Cours / Fiches / Audio / Quiz / Vidéos : bannière illustrée */
+.library-header{display:flex;align-items:center;gap:18px;flex-wrap:nowrap;padding:14px 18px;margin-bottom:18px;border-radius:20px;background:linear-gradient(135deg,#F3F0FF,#EAF3FB 55%,#E9F8F0);border:1px solid #E6E7F1}
+.library-header .library-art{flex:none;display:block;width:132px;height:88px}
+.library-header .library-art .vis{width:100%;height:100%}
+.library-header .library-heading{min-width:0}
+.library-header h1{margin:0 0 4px}
+@media(max-width:520px){.library-header{gap:12px;padding:12px}.library-header .library-art{width:92px;height:62px}}
