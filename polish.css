@@ -1,0 +1,38 @@
+/* StudyBeam — finitions : débordements, cibles tactiles, contraste, bouton Beam. */
+
+/* Logo des pages d'outils sans feuille dédiée (ex. mes notes) : évite le débordement horizontal. */
+.school-top>a{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:800}
+.school-top>a img{width:45px;height:45px;max-width:100%;object-fit:contain;flex:none}
+.school-top nav{flex-wrap:wrap}
+
+/* Appel à l'action principal plus lisible (contraste ≥ 4.5:1) et clairement distinct du bouton secondaire. */
+.landing-hero .landing-btn:not(.landing-btn-outline),
+.landing-account .landing-btn:not(.landing-btn-outline){background:#6652C4;border-color:#6652C4;color:#fff!important;box-shadow:0 8px 22px #6652C442}
+.landing-hero .landing-btn:not(.landing-btn-outline):hover,
+.landing-account .landing-btn:not(.landing-btn-outline):hover{background:#5440B0;border-color:#5440B0}
+
+/* Cibles tactiles confortables (≥ 44 px) pour les liens isolés et le pied de page. */
+.landing-footer-links a,.landing-menu-items a,.landing-preview-card a,.landing-how-step a,.landing-muted-link{display:inline-flex;align-items:center;min-height:44px}
+.landing-footer-links{gap:2px 14px}
+@media(pointer:coarse){
+  .tool-actions button,.school-wrap button,.school-top nav a{min-height:44px}
+}
+
+/* Le bouton flottant Beam ne doit pas masquer le texte en bas de page. */
+body{padding-bottom:env(safe-area-inset-bottom)}
+@media(max-width:650px){
+  .landing-footer{padding-bottom:96px}
+  .beam-launcher{transform:scale(.86);transform-origin:bottom right}
+}
+
+/* Barre de recherche : un seul contour (le champ n'ajoute plus sa propre bordure dans le formulaire). */
+body[data-auth-page] .global-search input{border:0!important;box-shadow:none!important;background:transparent!important;border-radius:0!important}
+body[data-auth-page] .global-search:focus-within{outline:3px solid #527F99;outline-offset:2px}
+@media(max-width:580px){
+  .global-search{min-height:44px}
+  .global-search input{min-height:40px;font-size:.9rem}
+}
+@media(max-width:580px){
+  .top-breadcrumb{align-self:center;min-height:44px;align-items:center}
+  .app,.container.dashboard,.dashboard{padding-bottom:112px}
+}
