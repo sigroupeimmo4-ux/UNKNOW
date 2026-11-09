@@ -6,7 +6,7 @@ from urllib.parse import unquote, urlsplit
 import sys
 
 ROOT = Path(__file__).resolve().parent
-EXCLUDED = {".git", "node_modules", ".venv"}
+EXCLUDED = {".git", "node_modules", ".venv", "data"}  # data/ contient des fragments HTML injectés, pas des pages
 FAILURES = []
 WARNINGS = []
 
