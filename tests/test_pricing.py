@@ -24,10 +24,10 @@ class PricingTests(unittest.TestCase):
     def open(self,query=''):self.page.goto(self.base+'learning-pass.html'+query,wait_until='networkidle')
     def fixture(self,config):self.context.route('**/data/learning-pass.json',lambda r:r.fulfill(content_type='application/json',body=json.dumps(config)))
     def config(self):return json.loads((ROOT/'data/learning-pass.json').read_text())
-    def test_no_country_is_inferred_and_prices_are_proposals(self):
-        self.open();expect(self.page.get_by_label('Pays de facturation',exact=True)).to_have_value('')
+    def test_france_is_the_editorial_default_and_prices_are_proposals(self):
+        self.open();expect(self.page.get_by_label('Pays de facturation',exact=True)).to_have_value('FR')
         expect(self.page.locator('#libraryContent')).to_contain_text('Grille commerciale proposée')
-        self.assertEqual(self.page.locator('.plan-price').count(),0)
+        expect(self.page.locator('[data-plan=monthly] .plan-price')).to_have_text('3,99 €')
     def test_senegal_amounts_currency_and_exact_saving(self):
         self.open('?country=SN')
         for plan,amount in [('free','0'),('monthly','2500'),('annual','25000')]:

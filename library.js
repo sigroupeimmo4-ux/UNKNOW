@@ -140,8 +140,8 @@
     box.append(node('p',config.notice,'alert'));box.append(node('p','Aucune souscription ne peut être conclue. Les informations sur l’éditeur, les conditions commerciales et les droits des consommateurs doivent encore être validées.','small muted'),link('Lire les conditions de vente préparatoires','./conditions-vente.html','btn ghost'));
     const field=node('div',undefined,'billing-country');const label=node('label','Pays de facturation');label.htmlFor='billingCountry';
     const country=node('select');country.id='billingCountry';country.name='country';country.add(new Option('Choisir un pays',''));
-    for(const [id,market] of Object.entries(config.markets))country.add(new Option(market.country+' — '+market.currency,id));
-    const countryId=params.get('country')||'';country.value=Object.hasOwn(config.markets,countryId)?countryId:'';
+    for(const [id,market] of Object.entries(config.markets).sort(([x],[y])=>(y==='FR')-(x==='FR')))country.add(new Option(market.country+' — '+market.currency,id));
+    const countryId=params.get('country')||(Object.hasOwn(config.markets,'FR')?'FR':''); /* France par défaut ; l'utilisateur peut changer de pays */ country.value=Object.hasOwn(config.markets,countryId)?countryId:'';
     field.append(label,country);box.append(field);
     country.addEventListener('change',()=>location.assign(href(files.pass,{country:country.value})));
     if(!country.value){empty(countryId?'Ce pays de facturation n’est pas pris en charge. Choisis un pays proposé.':'Sélectionne ton pays pour afficher StudyBeam Free et les formules mensuelle et annuelle.');return;}
