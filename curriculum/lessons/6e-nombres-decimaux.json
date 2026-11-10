@@ -1,0 +1,129 @@
+{
+  "id": "6e-nombres-decimaux",
+  "title": "Lire, comparer et calculer avec les nombres décimaux",
+  "chapter_id": "6e-nombres-decimaux",
+  "program_id": "6e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Dire la valeur de chaque chiffre dans un nombre décimal (dixièmes, centièmes, millièmes).",
+    "Passer d’une écriture à virgule à une écriture en fractions décimales, et inversement.",
+    "Comparer et ranger des nombres décimaux.",
+    "Multiplier et diviser un nombre décimal par 10, 100 et 1 000."
+  ],
+  "skill_ids": [
+    "6e-nombres-decimaux-skill-rang",
+    "6e-nombres-decimaux-skill-comparer",
+    "6e-nombres-decimaux-skill-x10"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Chaque chiffre a sa place",
+      "text": "Dans 4,107, la virgule sépare la partie entière (4) de la partie décimale (107). Après la virgule, on trouve les dixièmes (1), les centièmes (0) et les millièmes (7). Dix millièmes font un centième, dix centièmes font un dixième, dix dixièmes font une unité. Ainsi 1/10 = 0,1 ; 1/100 = 0,01 et 1/1 000 = 0,001."
+    },
+    {
+      "title": "Plusieurs écritures pour un même nombre",
+      "text": "Le nombre 4,107 peut s’écrire 4 + 1/10 + 7/1 000, ou 4 + 107/1 000, ou encore 4 107/1 000. Ce sont quatre écritures du même nombre. Pour passer de la fraction à la virgule, on regarde le dénominateur : 1 000 signifie trois chiffres après la virgule, donc 4 107/1 000 = 4,107."
+    },
+    {
+      "title": "Comparer et ranger",
+      "text": "Pour comparer deux nombres décimaux, on compare d’abord les parties entières. Si elles sont égales, on compare les dixièmes, puis les centièmes, puis les millièmes. Astuce : on peut ajouter des zéros à droite sans changer la valeur. Ainsi 3,5 = 3,50 et 3,50 > 3,45, donc 3,5 > 3,45. Pour ranger 0,5 ; 0,45 ; 0,405 et 0,54 dans l’ordre croissant : 0,405 < 0,45 < 0,5 < 0,54."
+    },
+    {
+      "title": "Multiplier et diviser par 10, 100, 1 000",
+      "text": "Quand on multiplie par 10, chaque chiffre prend une valeur dix fois plus grande : il se décale d’un rang vers la gauche. Par exemple 3,52 × 10 = 35,2 ; 3,52 × 100 = 352 et 3,52 × 1 000 = 3 520. Quand on divise par 10, chaque chiffre devient dix fois plus petit : 7,4 ÷ 10 = 0,74 et 45 ÷ 100 = 0,45. Ce sont les chiffres qui changent de rang, la virgule reste à sa place."
+    }
+  ],
+  "revision_sheet": [
+    "10 dixièmes = 1 unité ; 10 centièmes = 1 dixième ; 10 millièmes = 1 centième.",
+    "1/10 = 0,1 ; 1/100 = 0,01 ; 1/1 000 = 0,001.",
+    "4,107 = 4 + 1/10 + 7/1 000 = 4 107/1 000.",
+    "Pour comparer : parties entières d’abord, puis dixièmes, centièmes, millièmes ; on peut ajouter des zéros à droite.",
+    "Multiplier par 10, 100, 1 000 : les chiffres se décalent de 1, 2, 3 rangs vers la gauche ; diviser : vers la droite."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans 52,637, que représente le chiffre 6 ?",
+      "choices": [
+        "6 centièmes",
+        "6 dixièmes",
+        "6 millièmes"
+      ],
+      "correct_index": 1,
+      "explanation": "Après la virgule, le premier chiffre est celui des dixièmes : 6 dixièmes, c’est 0,6."
+    },
+    {
+      "prompt": "Quelle écriture à virgule correspond à 4 + 7/100 ?",
+      "choices": [
+        "4,7",
+        "4,007",
+        "4,07"
+      ],
+      "correct_index": 2,
+      "explanation": "7/100 = 0,07 (sept centièmes, deux chiffres après la virgule). Donc 4 + 0,07 = 4,07."
+    },
+    {
+      "prompt": "Quel est le plus grand de ces nombres : 3,4 ; 3,38 ; 3,041 ?",
+      "choices": [
+        "3,4",
+        "3,38",
+        "3,041"
+      ],
+      "correct_index": 0,
+      "explanation": "Les parties entières sont égales. On compare les dixièmes : 4 > 3 > 0. Donc 3,4 est le plus grand (3,40 > 3,38 > 3,041)."
+    },
+    {
+      "prompt": "Combien vaut 7,4 ÷ 10 ?",
+      "choices": [
+        "74",
+        "0,74",
+        "0,074"
+      ],
+      "correct_index": 1,
+      "explanation": "Diviser par 10 décale chaque chiffre d’un rang vers la droite : 7,4 devient 0,74."
+    },
+    {
+      "prompt": "Quelle fraction décimale est égale à 0,03 ?",
+      "choices": [
+        "3/10",
+        "3/100",
+        "3/1 000"
+      ],
+      "correct_index": 1,
+      "explanation": "0,03 se lit « trois centièmes », donc 0,03 = 3/100."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Décompose 6,305 en précisant la valeur de chaque chiffre, puis écris-le comme une somme.",
+      "solution": "6 unités, 3 dixièmes, 0 centième et 5 millièmes. 6,305 = 6 + 3/10 + 5/1 000.",
+      "success_criterion": "Nommer les quatre rangs sans oublier le 0 des centièmes."
+    },
+    {
+      "prompt": "Range dans l’ordre croissant : 2,5 ; 2,05 ; 2,49 ; 2,505.",
+      "solution": "2,05 < 2,49 < 2,5 < 2,505.",
+      "success_criterion": "Comparer les dixièmes, puis les centièmes et les millièmes (2,5 = 2,500)."
+    },
+    {
+      "prompt": "Calcule : 0,36 × 10 ; 12,5 × 100 ; 9,2 ÷ 10 ; 0,7 × 1 000 ; 4,5 ÷ 100.",
+      "solution": "0,36 × 10 = 3,6 ; 12,5 × 100 = 1 250 ; 9,2 ÷ 10 = 0,92 ; 0,7 × 1 000 = 700 ; 4,5 ÷ 100 = 0,045.",
+      "success_criterion": "Décaler correctement les chiffres du bon nombre de rangs, en ajoutant des zéros si besoin."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique pourquoi 0,7 est plus grand que 0,65.",
+      "solution": "0,7 = 0,70. On compare les dixièmes : 7 dixièmes sont plus que 6 dixièmes, donc 0,70 > 0,65.",
+      "success_criterion": "Utiliser l’égalité 0,7 = 0,70 et comparer rang par rang, sans dire que « 65 est plus grand que 7 »."
+    },
+    {
+      "prompt": "Écris 3 + 2/10 + 5/1 000 sous forme d’un nombre à virgule.",
+      "solution": "3 + 0,2 + 0,005 = 3,205.",
+      "success_criterion": "Placer 2 aux dixièmes, 0 aux centièmes et 5 aux millièmes."
+    }
+  ],
+  "audio_transcript": "Dans un nombre décimal, chaque chiffre a une valeur qui dépend de sa place. Après la virgule, on trouve les dixièmes, les centièmes, puis les millièmes. Dix dixièmes font une unité. Un dixième s’écrit zéro virgule un, un centième zéro virgule zéro un. Quatre virgule cent sept peut aussi s’écrire quatre plus cent sept millièmes. Pour comparer deux nombres décimaux, on compare d’abord la partie entière, puis les dixièmes, les centièmes et les millièmes. Quand on multiplie par dix, par cent ou par mille, les chiffres se décalent vers la gauche ; quand on divise, ils se décalent vers la droite.",
+  "guided_explanation": "Imagine une tablette de chocolat partagée en dix barres : chaque barre est un dixième. Si tu coupes une barre en dix petits carrés, chaque carré est un centième. Pour 3,45, tu as 3 tablettes entières, 4 barres et 5 petits carrés. Pour comparer 3,5 et 3,45, écris 3,50 : tu as 5 barres contre 4 barres, donc 3,5 est le plus grand. Pour multiplier par 10, dis-toi que chaque morceau devient dix fois plus gros et que les chiffres glissent d’une place vers la gauche."
+}

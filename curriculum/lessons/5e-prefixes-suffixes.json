@@ -1,0 +1,124 @@
+{
+  "id": "5e-prefixes-suffixes",
+  "title": "Préfixes, radicaux et suffixes : comprendre la formation des mots",
+  "chapter_id": "5e-prefixes-suffixes",
+  "program_id": "5e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Décomposer un mot dérivé en préfixe, radical et suffixe.",
+    "Connaître le sens de préfixes et de suffixes fréquents.",
+    "Retrouver une famille de mots.",
+    "Utiliser la dérivation pour mieux orthographier un mot."
+  ],
+  "skill_ids": [
+    "5e-prefixes-suffixes-skill",
+    "5e-prefixes-suffixes-sens",
+    "5e-prefixes-suffixes-orthographe"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Vocabulaire et orthographe lexicale — Identifier les types de relations entre les mots (page 13) ; Comprendre la formation des mots (page 14) (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les trois morceaux d’un mot",
+      "text": "Beaucoup de mots se construisent comme un jeu de construction. Le radical porte le sens principal : dans « refaire », le radical est celui du verbe faire. Le préfixe se place devant le radical : re- dans « refaire ». Le suffixe se place après le radical : -eur dans « chanteur » (chant + eur). Un mot peut avoir un préfixe, un suffixe, ou les deux : dé + charge + ment = déchargement. Les mots qui ont le même radical forment une famille de mots : chant, chanter, chanteur, chanteuse, chanson."
+    },
+    {
+      "title": "Des préfixes à connaitre",
+      "text": "Le préfixe re- (ou r-) indique la répétition : refaire = faire à nouveau. Les préfixes in-, im-, il-, ir- et dé- (dés-) expriment souvent le contraire : inutile, impossible, illisible, irréel, défaire. Le préfixe in- devient im- devant p, b ou m (impossible, imbattable, immobile), il- devant l (illisible) et ir- devant r (irréel). Le préfixe pré- signifie « avant » (préhistoire) ; anti- signifie « contre » (antivol, un dispositif contre le vol) ; sur- signifie « au-dessus » ou « en plus » (surmonter, surcharge)."
+    },
+    {
+      "title": "Des suffixes à connaitre",
+      "text": "Le suffixe -able signifie « qui peut être… » : lavable = qui peut être lavé. Les suffixes -eur et -euse désignent souvent celui ou celle qui fait l’action : chanteur, danseuse, vendeur. Le suffixe -ment, ajouté à un adjectif, forme un adverbe : rapide → rapidement, lent → lentement. Le suffixe -ment ou -tion forme aussi des noms d’action ou de résultat : déchargement, décoration. Le suffixe peut donc changer la classe du mot."
+    },
+    {
+      "title": "La famille de mots aide l’orthographe",
+      "text": "On entend parfois mal la fin d’un mot, mais le mot de la même famille la révèle. Pour savoir comment écrire « grand » ou « lent » au masculin, on pense à « grande » ou « lentement » : la consonne finale (d, t) apparait. De même, « chant » s’écrit avec un t à cause de « chanter » ou « chanteur ». Retrouver le radical d’un mot, c’est donc comprendre son sens et sa façon de s’écrire. Attention : deux mots qui se ressemblent ne sont pas forcément de la même famille (terre et terrible n’ont aucun lien de sens)."
+    }
+  ],
+  "revision_sheet": [
+    "Un mot dérivé = préfixe + radical + suffixe : dé + charge + ment.",
+    "re- : faire à nouveau ; in-, im-, il-, ir-, dé- : souvent le contraire ; pré- : avant ; anti- : contre.",
+    "in- devient im- devant p, b, m (impossible), il- devant l (illisible), ir- devant r (irréel).",
+    "-able : qui peut être… (lavable) ; -eur / -euse : celui qui fait ; -ment : adverbe (rapidement).",
+    "Une famille de mots partage le même radical et un sens lié : chant, chanter, chanteur."
+  ],
+  "quiz": [
+    {
+      "prompt": "Que signifie le préfixe re- dans « refaire » ?",
+      "choices": [
+        "Le contraire",
+        "Faire à nouveau",
+        "Avant"
+      ],
+      "correct_index": 1,
+      "explanation": "Le préfixe re- indique la répétition : refaire, c’est faire à nouveau."
+    },
+    {
+      "prompt": "Quel préfixe permet de former le contraire de « possible » ?",
+      "choices": [
+        "im-",
+        "in-",
+        "il-"
+      ],
+      "correct_index": 0,
+      "explanation": "Devant la lettre p, in- devient im- : impossible."
+    },
+    {
+      "prompt": "Que signifie « lavable » ?",
+      "choices": [
+        "Qui lave",
+        "Qui peut être lavé",
+        "Qui a été lavé"
+      ],
+      "correct_index": 1,
+      "explanation": "Le suffixe -able signifie « qui peut être… » : lavable = qui peut être lavé."
+    },
+    {
+      "prompt": "Quel est le radical de « chanteur » ?",
+      "choices": [
+        "chant",
+        "teur",
+        "chanteu"
+      ],
+      "correct_index": 0,
+      "explanation": "On retrouve le radical « chant » dans chanter et chanson ; -eur est le suffixe."
+    },
+    {
+      "prompt": "Quel mot appartient à la famille de « terre » ?",
+      "choices": [
+        "Atterrir",
+        "Tarte",
+        "Terrible"
+      ],
+      "correct_index": 0,
+      "explanation": "Atterrir (se poser sur la terre) contient le radical terr-. Terrible n’a pas de lien de sens avec terre."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Donne le contraire de chaque mot avec un préfixe : poli ; réel ; mobile ; lisible.",
+      "solution": "impoli ; irréel ; immobile ; illisible.",
+      "success_criterion": "Choisir le bon préfixe (in-, im-, il-, ir-) selon la lettre qui suit."
+    },
+    {
+      "prompt": "Décompose « déchargement » en préfixe, radical et suffixe, puis explique son sens.",
+      "solution": "dé- + charg(e) + -ment. Le préfixe dé- exprime le contraire de « charger » et le suffixe -ment forme un nom d’action : action de décharger.",
+      "success_criterion": "Identifier les trois éléments et déduire le sens."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique le sens du mot « antivol » en t’aidant de sa composition.",
+      "solution": "anti- signifie « contre » et vol vient de voler : un antivol est un dispositif qui protège contre le vol.",
+      "success_criterion": "Utiliser le sens du préfixe et du radical pour déduire le sens du mot."
+    },
+    {
+      "prompt": "Cherche trois mots de la famille de « vent » et dis ce que tu constates sur le radical.",
+      "solution": "Par exemple venteux, éventer, ventilateur. On retrouve le radical vent- ou venti- et un sens lié à l’air qui bouge.",
+      "success_criterion": "Proposer trois mots dérivés dont le sens est lié à celui de « vent »."
+    }
+  ],
+  "audio_transcript": "Beaucoup de mots sont construits avec un préfixe, un radical et un suffixe. Le radical porte le sens principal. Le préfixe se place avant, le suffixe après. Dans déchargement, on trouve dé, charge et ment. Le préfixe re signifie faire à nouveau : refaire. Les préfixes in, im, il et ir expriment souvent le contraire : impossible, illisible, irréel. Le suffixe able signifie qui peut être : lavable veut dire qui peut être lavé. Les mots de la même famille aident à écrire la fin d’un mot : chanter nous rappelle que chant s’écrit avec un t.",
+  "guided_explanation": "Prends un mot que tu ne connais pas, par exemple « inlassable ». Cherche d’abord le radical : on reconnait « las », comme dans « lasser ». Le préfixe in- exprime le contraire, et le suffixe -able signifie « qui peut être ». Un travail inlassable est donc un travail dont on ne peut pas se lasser. Cette méthode marche aussi pour l’orthographe : si tu hésites sur la fin de « grand », pense à « grande » et tu entends le d."
+}

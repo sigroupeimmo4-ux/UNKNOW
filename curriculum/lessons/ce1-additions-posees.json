@@ -1,0 +1,130 @@
+{
+  "id": "ce1-additions-posees",
+  "title": "Poser et calculer des additions en colonnes",
+  "chapter_id": "ce1-additions-posees",
+  "program_id": "CE1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Aligner correctement les chiffres dans une addition posée.",
+    "Utiliser la retenue quand une colonne dépasse 9.",
+    "Vérifier un résultat avec un calcul approché ou mental."
+  ],
+  "skill_ids": [
+    "ce1-additions-posees-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Bien aligner les chiffres",
+      "text": "Pour poser 245 + 437, on écrit les nombres l’un sous l’autre : les unités (5 et 7) sous les unités, les dizaines (4 et 3) sous les dizaines et les centaines (2 et 4) sous les centaines. Si les colonnes sont mal alignées, le résultat est faux."
+    },
+    {
+      "title": "Calculer colonne par colonne avec la retenue",
+      "text": "On commence par les unités. 5 + 7 = 12 : c’est 1 dizaine et 2 unités. On écrit 2 dans les unités et on retient 1 dizaine. Dizaines : 4 + 3 + 1 (retenue) = 8. Centaines : 2 + 4 = 6. Résultat : 245 + 437 = 682."
+    },
+    {
+      "title": "Plusieurs retenues, plusieurs nombres",
+      "text": "218 + 48 : unités 8 + 8 = 16, on écrit 6 et on retient 1 ; dizaines 1 + 4 + 1 = 6 ; centaines 2. Résultat : 266. Avec trois nombres, 76 + 7 + 568 : unités 6 + 7 + 8 = 21, on écrit 1 et on retient 2 ; dizaines 7 + 6 + 2 = 15, on écrit 5 et on retient 1 ; centaines 5 + 1 = 6. Résultat : 651."
+    },
+    {
+      "title": "Calculer de tête quand c’est possible, puis vérifier",
+      "text": "Pour 30 + 20, pas besoin de poser : on pense « 3 dizaines et 2 dizaines, 5 dizaines », donc 50. On pose l’addition quand les nombres sont plus grands. Pour vérifier, arrondis : 218 + 48 est proche de 220 + 50 = 270, et 266 est bien proche de 270."
+    }
+  ],
+  "revision_sheet": [
+    "Unités sous unités, dizaines sous dizaines, centaines sous centaines.",
+    "On calcule en commençant par la droite : les unités d’abord.",
+    "Si une colonne dépasse 9, on écrit le chiffre des unités et on retient la dizaine.",
+    "245 + 437 = 682 ; 218 + 48 = 266 ; 76 + 7 + 568 = 651."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans une addition posée, où écrit-on les unités ?",
+      "choices": [
+        "Sous les centaines",
+        "Sous les dizaines",
+        "Sous les unités"
+      ],
+      "correct_index": 2,
+      "explanation": "Les unités des deux nombres sont écrites l’une sous l’autre, dans la colonne de droite."
+    },
+    {
+      "prompt": "Quel est le résultat de 245 + 437 ?",
+      "choices": [
+        "672",
+        "682",
+        "692"
+      ],
+      "correct_index": 1,
+      "explanation": "5 + 7 = 12 (on écrit 2, retenue 1) ; 4 + 3 + 1 = 8 ; 2 + 4 = 6. On obtient 682."
+    },
+    {
+      "prompt": "Dans la colonne des unités, on trouve 8 + 6 = 14. Que fait-on ?",
+      "choices": [
+        "On écrit 4 et on retient 1 dizaine",
+        "On écrit 14 dans les unités",
+        "On écrit 1 et on retient 4"
+      ],
+      "correct_index": 0,
+      "explanation": "14 unités, c’est 1 dizaine et 4 unités : on écrit 4 et on retient 1 pour la colonne des dizaines."
+    },
+    {
+      "prompt": "Quel est le résultat de 218 + 48 ?",
+      "choices": [
+        "256",
+        "276",
+        "266"
+      ],
+      "correct_index": 2,
+      "explanation": "8 + 8 = 16 (on écrit 6, retenue 1) ; 1 + 4 + 1 = 6 ; 2. Résultat : 266."
+    },
+    {
+      "prompt": "Pour calculer 30 + 20, quelle méthode est la plus rapide ?",
+      "choices": [
+        "Calculer de tête : 3 dizaines + 2 dizaines = 5 dizaines",
+        "Toujours poser l’addition",
+        "Compter un par un"
+      ],
+      "correct_index": 0,
+      "explanation": "Avec des dizaines entières, le calcul mental est très rapide : 30 + 20 = 50."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Pose et calcule 134 + 215.",
+      "solution": "4 + 5 = 9 ; 3 + 1 = 4 ; 1 + 2 = 3. Résultat : 349.",
+      "success_criterion": "Aligner les colonnes et trouver 349."
+    },
+    {
+      "prompt": "Pose et calcule 369 + 158.",
+      "solution": "9 + 8 = 17 (on écrit 7, retenue 1) ; 6 + 5 + 1 = 12 (on écrit 2, retenue 1) ; 3 + 1 + 1 = 5. Résultat : 527.",
+      "success_criterion": "Gérer deux retenues et trouver 527."
+    },
+    {
+      "prompt": "Léa a 128 billes et Tom en a 75. Combien en ont-ils ensemble ?",
+      "solution": "128 + 75 : 8 + 5 = 13 (on écrit 3, retenue 1) ; 2 + 7 + 1 = 10 (on écrit 0, retenue 1) ; 1 + 1 = 2. Résultat : 203 billes.",
+      "success_criterion": "Choisir l’addition, la poser correctement et répondre par une phrase avec l’unité (billes)."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Pose et calcule 476 + 349.",
+      "solution": "6 + 9 = 15 (on écrit 5, retenue 1) ; 7 + 4 + 1 = 12 (on écrit 2, retenue 1) ; 4 + 3 + 1 = 8. Résultat : 825.",
+      "success_criterion": "Trouver 825 avec les retenues placées correctement."
+    },
+    {
+      "prompt": "Pose et calcule 58 + 9 + 234.",
+      "solution": "8 + 9 + 4 = 21 (on écrit 1, retenue 2) ; 5 + 3 + 2 = 10 (on écrit 0, retenue 1) ; 2 + 1 = 3. Résultat : 301.",
+      "success_criterion": "Additionner trois nombres avec une retenue de 2, puis de 1, et trouver 301."
+    },
+    {
+      "prompt": "Pour poser 245 + 37, où place-t-on les chiffres 3 et 7 ? Donne ensuite le résultat.",
+      "solution": "Le 7 se place sous le 5 (unités) et le 3 sous le 4 (dizaines). 5 + 7 = 12 (on écrit 2, retenue 1) ; 4 + 3 + 1 = 8 ; 2. Résultat : 282.",
+      "success_criterion": "Expliquer l’alignement des unités et des dizaines, puis trouver 282."
+    }
+  ],
+  "audio_transcript": "Pour additionner en colonnes, on écrit les nombres l’un sous l’autre. Les unités sont sous les unités, les dizaines sous les dizaines, les centaines sous les centaines. On calcule en commençant par la droite. Si une colonne dépasse neuf, on écrit le chiffre des unités et on retient la dizaine pour la colonne suivante. Par exemple, deux-cent-quarante-cinq plus quatre-cent-trente-sept : cinq plus sept font douze, j’écris deux et je retiens un. Quatre plus trois plus un font huit. Deux plus quatre font six. Le résultat est six-cent-quatre-vingt-deux. Quand le calcul est facile, comme trente plus vingt, on peut le faire de tête.",
+  "guided_explanation": "Pense à des paquets de billes. Pour 128 + 75, range les billes seules, les paquets de dix et les grands sacs de cent. Les billes seules d’abord : 8 + 5 = 13. Treize billes, c’est un paquet de dix et trois billes seules : tu écris 3 et tu retiens un paquet de dix. Les paquets de dix : 2 + 7 + 1 = 10, soit un grand sac de cent et zéro paquet : tu écris 0 et tu retiens un sac. Les sacs de cent : 1 + 1 = 2. Au total, 203 billes. La retenue, c’est simplement un paquet de dix (ou de cent) que l’on envoie dans la colonne d’à côté."
+}

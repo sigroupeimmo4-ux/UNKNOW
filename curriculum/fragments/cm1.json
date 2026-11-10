@@ -1,0 +1,1378 @@
+{
+  "programs": [
+    {
+      "id": "CM1-mathematiques-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CM1",
+      "subject_id": "mathematiques-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/programme-de-math-matiques-pour-le-cycle-3-439827.pdf",
+        "title": "Mathématiques",
+        "text_reference": "Mathématiques (BO n° 16 du 17 avril 2025)",
+        "published_on": "2025-04-17",
+        "checked_on": "2026-10-29",
+        "sha256": "f3f79a75ca8be7f54409b8b7cee3eafd769c23d12e6c822a253454e2c703b508",
+        "source_id": "9fa5d88fd335bb7f"
+      },
+      "effective_from": "2025-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "nombres-calcul-problemes",
+          "title": "Nombres, calcul et résolution de problèmes",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Nombres, calcul et résolution de problèmes, pages 5–6 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm1-nombres-entiers-999999",
+              "title": "Lire, écrire et comparer les nombres jusqu’à 999 999",
+              "title_type": "editorial",
+              "official_section": "Les nombres entiers",
+              "notions": [
+                "Nombres entiers jusqu’à 999 999",
+                "Valeur des chiffres selon leur rang",
+                "Comparaison, encadrement et rangement des nombres entiers"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-nombres-entiers-999999-knowledge",
+                  "text": "Dans l’écriture d’un nombre, la valeur d’un chiffre dépend de son rang ; dix unités d’un rang font une unité du rang suivant, ce qui permet de lire, écrire, comparer et ranger des nombres de six chiffres au plus.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-nombres-entiers-999999-valeur-skill",
+                  "text": "Connaître la valeur des chiffres en fonction de leur position dans un nombre.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-nombres-entiers-999999-lire-ecrire-skill",
+                  "text": "Connaître la suite écrite et la suite orale des nombres jusqu’à 999 999.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-nombres-entiers-999999-comparer-skill",
+                  "text": "Comparer, encadrer, intercaler des nombres entiers en utilisant les symboles =, < et >.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+            },
+            {
+              "id": "cm1-fractions-quantites",
+              "title": "Comprendre les fractions et prendre une fraction d’une quantité",
+              "title_type": "editorial",
+              "official_section": "Les fractions",
+              "notions": [
+                "Fraction comme partie d’un tout partagé en parts égales",
+                "Fractions supérieures à 1 : somme d’un entier et d’une fraction inférieure à 1",
+                "Fraction unitaire d’une quantité ou d’une grandeur"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-fractions-quantites-knowledge",
+                  "text": "Une fraction représente un nombre de parts égales d’un tout partagé ; la fraction unitaire 1/4 est une unité de mesure, et une fraction supérieure à 1 s’écrit comme la somme d’un entier et d’une fraction inférieure à 1 ; une fraction unitaire permet de calculer une partie d’une quantité.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-fractions-quantites-lire-ecrire-skill",
+                  "text": "Savoir interpréter, représenter, écrire et lire des fractions.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-fractions-quantites-superieures-a-1-skill",
+                  "text": "Savoir écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-fractions-quantites-quantite-skill",
+                  "text": "Déterminer une fraction d’une quantité ou d’une grandeur.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+            },
+            {
+              "id": "cm1-dixiemes-centiemes",
+              "title": "Découvrir les dixièmes, les centièmes et l’écriture à virgule",
+              "title_type": "editorial",
+              "official_section": "Les nombres décimaux",
+              "notions": [
+                "Fractions décimales : dixièmes et centièmes",
+                "Écriture à virgule d’un nombre décimal",
+                "Comparaison et rangement de nombres décimaux"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-dixiemes-centiemes-knowledge",
+                  "text": "Une unité vaut 10 dixièmes et 100 centièmes ; l’écriture à virgule est un codage d’une somme d’un entier et de fractions décimales, par exemple 35,78 pour 35 + 7/10 + 8/100.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-dixiemes-centiemes-fractions-decimales-skill",
+                  "text": "Connaître et utiliser les relations entre unités simples, dixièmes et centièmes.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+                  "text": "Passer d’une écriture sous forme d’une fraction décimale ou d’une somme de fractions décimales à une écriture à virgule et réciproquement.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-dixiemes-centiemes-comparer-skill",
+                  "text": "Comparer, encadrer, intercaler, ordonner, par ordre croissant ou décroissant, des nombres décimaux donnés par leur écriture à virgule en utilisant les symboles =, < et >.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo16/MENE2504620A",
+        "source_id": "9a964c7eb0341b3c",
+        "text_reference": "MENE2504620A",
+        "locator": "Article 3 : CM1 et 6e en 2025, CM2 en 2026"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "CM1-francais-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CM1",
+      "subject_id": "francais-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/programme-de-fran-ais-pour-le-cycle-3-439824.pdf",
+        "title": "Français",
+        "text_reference": "Français (BO n° 16 du 17 avril 2025)",
+        "published_on": "2025-04-17",
+        "checked_on": "2026-10-29",
+        "sha256": "e7c27f55c212b5ebb92ba8b60b6b1b0761a2301e7c0d0d780171c4cfb6e121ae",
+        "source_id": "0ef9054d22c787ac"
+      },
+      "effective_from": "2025-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "grammaire-orthographe-grammaticale",
+          "title": "Grammaire et orthographe grammaticale",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale, pages 17–18 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm1-types-formes-phrases",
+              "title": "Reconnaître les types et les formes de phrases",
+              "title_type": "editorial",
+              "official_section": "Identifier les constituants d’une phrase simple",
+              "notions": [
+                "Types de phrases : déclaratif, interrogatif, impératif",
+                "Formes négative et exclamative",
+                "Transformation de phrases et réalisations de l’interrogation"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-types-formes-phrases-knowledge",
+                  "text": "Une phrase est de type déclaratif, interrogatif ou impératif (injonctif) ; elle peut en plus être à la forme négative ou exclamative, et on peut la transformer d’un type ou d’une forme à un autre.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-types-formes-phrases-types-skill",
+                  "text": "Identifier les trois types de phrases (déclaratif, interrogatif, impératif ou injonctif) et comprendre leurs effets dans un texte simple.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-types-formes-phrases-formes-skill",
+                  "text": "Identifier les principales formes de phrases (négative, exclamative) et comprendre leurs effets dans un texte simple.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-types-formes-phrases-transformer-skill",
+                  "text": "Transformer à l’oral puis à l’écrit des phrases d’un type à un autre, d’une forme à une autre.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+            },
+            {
+              "id": "cm1-groupe-nominal-accords",
+              "title": "Le groupe nominal et la chaîne d’accords",
+              "title_type": "editorial",
+              "official_section": "Analyser le groupe nominal ; Acquérir l’orthographe grammaticale",
+              "notions": [
+                "Groupe nominal : déterminant, nom, adjectif",
+                "Nom noyau et donneur d’accord",
+                "Accords en genre et en nombre dans le groupe nominal"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-groupe-nominal-accords-knowledge",
+                  "text": "Un groupe nominal est organisé autour d’un nom noyau ; ce nom donne son genre et son nombre au déterminant et à l’adjectif qui l’accompagnent.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-groupe-nominal-accords-reperer-gn-skill",
+                  "text": "Repérer des groupes nominaux dans une phrase simple et nommer les différents éléments qui les constituent, dont le nom noyau.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-groupe-nominal-accords-accords-skill",
+                  "text": "Réaliser la chaîne d’accords au sein du groupe nominal en repérant le nom noyau, donneur d’accord, et en justifiant les variations.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+            },
+            {
+              "id": "cm1-passe-compose",
+              "title": "Conjuguer au passé composé",
+              "title_type": "editorial",
+              "official_section": "Acquérir l’orthographe grammaticale — Approfondir sa maîtrise de la conjugaison",
+              "notions": [
+                "Passé composé : auxiliaire et participe passé",
+                "Forme négative du passé composé",
+                "Accord du participe passé avec le sujet quand l’auxiliaire est être"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-passe-compose-knowledge",
+                  "text": "Le passé composé se forme avec un auxiliaire (avoir ou être) au présent suivi du participe passé ; à la forme négative, ne … pas encadre l’auxiliaire ; avec être, le participe passé s’accorde avec le sujet.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-passe-compose-composition-skill",
+                  "text": "Connaître la composition du passé composé en deux parties (auxiliaire + participe passé) et retrouver la forme infinitive du verbe.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-passe-compose-negation-skill",
+                  "text": "Effectuer la transformation à la forme négative d’un verbe au passé composé en insérant les adverbes de négation à leur juste place.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-passe-compose-accord-etre-skill",
+                  "text": "Accorder le participe passé avec le sujet dans le cas de l’emploi avec l’auxiliaire être.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo16/MENE2504620A",
+        "source_id": "9a964c7eb0341b3c",
+        "text_reference": "MENE2504620A",
+        "locator": "Article 3 : CM1 et 6e en 2025, CM2 en 2026"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "cm1-nombres-entiers-999999-course",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-nombres-entiers-999999"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres un nombre de six chiffres au plus.",
+        "Donner la valeur d’un chiffre selon son rang et décomposer un nombre.",
+        "Comparer, encadrer et ranger des nombres entiers avec =, < et >."
+      ],
+      "skill_ids": [
+        "cm1-nombres-entiers-999999-valeur-skill",
+        "cm1-nombres-entiers-999999-lire-ecrire-skill",
+        "cm1-nombres-entiers-999999-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-nombres-entiers-999999.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-nombres-entiers-999999-revision_sheet",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-nombres-entiers-999999"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres un nombre de six chiffres au plus.",
+        "Donner la valeur d’un chiffre selon son rang et décomposer un nombre.",
+        "Comparer, encadrer et ranger des nombres entiers avec =, < et >."
+      ],
+      "skill_ids": [
+        "cm1-nombres-entiers-999999-valeur-skill",
+        "cm1-nombres-entiers-999999-lire-ecrire-skill",
+        "cm1-nombres-entiers-999999-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-nombres-entiers-999999.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-nombres-entiers-999999-quiz",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-nombres-entiers-999999"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres un nombre de six chiffres au plus.",
+        "Donner la valeur d’un chiffre selon son rang et décomposer un nombre.",
+        "Comparer, encadrer et ranger des nombres entiers avec =, < et >."
+      ],
+      "skill_ids": [
+        "cm1-nombres-entiers-999999-valeur-skill",
+        "cm1-nombres-entiers-999999-lire-ecrire-skill",
+        "cm1-nombres-entiers-999999-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-nombres-entiers-999999.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-nombres-entiers-999999-exercise",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-nombres-entiers-999999"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres un nombre de six chiffres au plus.",
+        "Donner la valeur d’un chiffre selon son rang et décomposer un nombre.",
+        "Comparer, encadrer et ranger des nombres entiers avec =, < et >."
+      ],
+      "skill_ids": [
+        "cm1-nombres-entiers-999999-valeur-skill",
+        "cm1-nombres-entiers-999999-lire-ecrire-skill",
+        "cm1-nombres-entiers-999999-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-nombres-entiers-999999.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-nombres-entiers-999999-assessment",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-nombres-entiers-999999"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres un nombre de six chiffres au plus.",
+        "Donner la valeur d’un chiffre selon son rang et décomposer un nombre.",
+        "Comparer, encadrer et ranger des nombres entiers avec =, < et >."
+      ],
+      "skill_ids": [
+        "cm1-nombres-entiers-999999-valeur-skill",
+        "cm1-nombres-entiers-999999-lire-ecrire-skill",
+        "cm1-nombres-entiers-999999-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-nombres-entiers-999999.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-nombres-entiers-999999-audio",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-nombres-entiers-999999"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres un nombre de six chiffres au plus.",
+        "Donner la valeur d’un chiffre selon son rang et décomposer un nombre.",
+        "Comparer, encadrer et ranger des nombres entiers avec =, < et >."
+      ],
+      "skill_ids": [
+        "cm1-nombres-entiers-999999-valeur-skill",
+        "cm1-nombres-entiers-999999-lire-ecrire-skill",
+        "cm1-nombres-entiers-999999-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-nombres-entiers-999999.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-nombres-entiers-999999-assistant_explanation",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-nombres-entiers-999999"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres un nombre de six chiffres au plus.",
+        "Donner la valeur d’un chiffre selon son rang et décomposer un nombre.",
+        "Comparer, encadrer et ranger des nombres entiers avec =, < et >."
+      ],
+      "skill_ids": [
+        "cm1-nombres-entiers-999999-valeur-skill",
+        "cm1-nombres-entiers-999999-lire-ecrire-skill",
+        "cm1-nombres-entiers-999999-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-nombres-entiers-999999.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-fractions-quantites-course",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-fractions-quantites"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Interpréter, écrire et lire une fraction à partir d’un partage en parts égales.",
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Calculer une fraction unitaire d’une quantité, comme un tiers de 12 billes ou un quart de 100 mètres."
+      ],
+      "skill_ids": [
+        "cm1-fractions-quantites-lire-ecrire-skill",
+        "cm1-fractions-quantites-superieures-a-1-skill",
+        "cm1-fractions-quantites-quantite-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-fractions-quantites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-fractions-quantites-revision_sheet",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-fractions-quantites"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Interpréter, écrire et lire une fraction à partir d’un partage en parts égales.",
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Calculer une fraction unitaire d’une quantité, comme un tiers de 12 billes ou un quart de 100 mètres."
+      ],
+      "skill_ids": [
+        "cm1-fractions-quantites-lire-ecrire-skill",
+        "cm1-fractions-quantites-superieures-a-1-skill",
+        "cm1-fractions-quantites-quantite-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-fractions-quantites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-fractions-quantites-quiz",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-fractions-quantites"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Interpréter, écrire et lire une fraction à partir d’un partage en parts égales.",
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Calculer une fraction unitaire d’une quantité, comme un tiers de 12 billes ou un quart de 100 mètres."
+      ],
+      "skill_ids": [
+        "cm1-fractions-quantites-lire-ecrire-skill",
+        "cm1-fractions-quantites-superieures-a-1-skill",
+        "cm1-fractions-quantites-quantite-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-fractions-quantites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-fractions-quantites-exercise",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-fractions-quantites"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Interpréter, écrire et lire une fraction à partir d’un partage en parts égales.",
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Calculer une fraction unitaire d’une quantité, comme un tiers de 12 billes ou un quart de 100 mètres."
+      ],
+      "skill_ids": [
+        "cm1-fractions-quantites-lire-ecrire-skill",
+        "cm1-fractions-quantites-superieures-a-1-skill",
+        "cm1-fractions-quantites-quantite-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-fractions-quantites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-fractions-quantites-assessment",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-fractions-quantites"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Interpréter, écrire et lire une fraction à partir d’un partage en parts égales.",
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Calculer une fraction unitaire d’une quantité, comme un tiers de 12 billes ou un quart de 100 mètres."
+      ],
+      "skill_ids": [
+        "cm1-fractions-quantites-lire-ecrire-skill",
+        "cm1-fractions-quantites-superieures-a-1-skill",
+        "cm1-fractions-quantites-quantite-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-fractions-quantites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-fractions-quantites-audio",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-fractions-quantites"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Interpréter, écrire et lire une fraction à partir d’un partage en parts égales.",
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Calculer une fraction unitaire d’une quantité, comme un tiers de 12 billes ou un quart de 100 mètres."
+      ],
+      "skill_ids": [
+        "cm1-fractions-quantites-lire-ecrire-skill",
+        "cm1-fractions-quantites-superieures-a-1-skill",
+        "cm1-fractions-quantites-quantite-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-fractions-quantites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-fractions-quantites-assistant_explanation",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-fractions-quantites"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Interpréter, écrire et lire une fraction à partir d’un partage en parts égales.",
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Calculer une fraction unitaire d’une quantité, comme un tiers de 12 billes ou un quart de 100 mètres."
+      ],
+      "skill_ids": [
+        "cm1-fractions-quantites-lire-ecrire-skill",
+        "cm1-fractions-quantites-superieures-a-1-skill",
+        "cm1-fractions-quantites-quantite-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-fractions-quantites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-dixiemes-centiemes-course",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-dixiemes-centiemes"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes et centièmes.",
+        "Passer d’une somme de fractions décimales à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux ayant au plus deux chiffres après la virgule."
+      ],
+      "skill_ids": [
+        "cm1-dixiemes-centiemes-fractions-decimales-skill",
+        "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+        "cm1-dixiemes-centiemes-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-dixiemes-centiemes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-dixiemes-centiemes-revision_sheet",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-dixiemes-centiemes"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes et centièmes.",
+        "Passer d’une somme de fractions décimales à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux ayant au plus deux chiffres après la virgule."
+      ],
+      "skill_ids": [
+        "cm1-dixiemes-centiemes-fractions-decimales-skill",
+        "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+        "cm1-dixiemes-centiemes-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-dixiemes-centiemes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-dixiemes-centiemes-quiz",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-dixiemes-centiemes"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes et centièmes.",
+        "Passer d’une somme de fractions décimales à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux ayant au plus deux chiffres après la virgule."
+      ],
+      "skill_ids": [
+        "cm1-dixiemes-centiemes-fractions-decimales-skill",
+        "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+        "cm1-dixiemes-centiemes-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-dixiemes-centiemes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-dixiemes-centiemes-exercise",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-dixiemes-centiemes"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes et centièmes.",
+        "Passer d’une somme de fractions décimales à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux ayant au plus deux chiffres après la virgule."
+      ],
+      "skill_ids": [
+        "cm1-dixiemes-centiemes-fractions-decimales-skill",
+        "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+        "cm1-dixiemes-centiemes-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-dixiemes-centiemes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-dixiemes-centiemes-assessment",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-dixiemes-centiemes"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes et centièmes.",
+        "Passer d’une somme de fractions décimales à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux ayant au plus deux chiffres après la virgule."
+      ],
+      "skill_ids": [
+        "cm1-dixiemes-centiemes-fractions-decimales-skill",
+        "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+        "cm1-dixiemes-centiemes-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-dixiemes-centiemes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-dixiemes-centiemes-audio",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-dixiemes-centiemes"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes et centièmes.",
+        "Passer d’une somme de fractions décimales à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux ayant au plus deux chiffres après la virgule."
+      ],
+      "skill_ids": [
+        "cm1-dixiemes-centiemes-fractions-decimales-skill",
+        "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+        "cm1-dixiemes-centiemes-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-dixiemes-centiemes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-dixiemes-centiemes-assistant_explanation",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-dixiemes-centiemes"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes et centièmes.",
+        "Passer d’une somme de fractions décimales à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux ayant au plus deux chiffres après la virgule."
+      ],
+      "skill_ids": [
+        "cm1-dixiemes-centiemes-fractions-decimales-skill",
+        "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+        "cm1-dixiemes-centiemes-comparer-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-dixiemes-centiemes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-types-formes-phrases-course",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-types-formes-phrases"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître les phrases déclaratives, interrogatives et impératives.",
+        "Reconnaître les formes négative et exclamative.",
+        "Transformer une phrase et poser une question de plusieurs façons."
+      ],
+      "skill_ids": [
+        "cm1-types-formes-phrases-types-skill",
+        "cm1-types-formes-phrases-formes-skill",
+        "cm1-types-formes-phrases-transformer-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-types-formes-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-types-formes-phrases-revision_sheet",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-types-formes-phrases"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître les phrases déclaratives, interrogatives et impératives.",
+        "Reconnaître les formes négative et exclamative.",
+        "Transformer une phrase et poser une question de plusieurs façons."
+      ],
+      "skill_ids": [
+        "cm1-types-formes-phrases-types-skill",
+        "cm1-types-formes-phrases-formes-skill",
+        "cm1-types-formes-phrases-transformer-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-types-formes-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-types-formes-phrases-quiz",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-types-formes-phrases"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître les phrases déclaratives, interrogatives et impératives.",
+        "Reconnaître les formes négative et exclamative.",
+        "Transformer une phrase et poser une question de plusieurs façons."
+      ],
+      "skill_ids": [
+        "cm1-types-formes-phrases-types-skill",
+        "cm1-types-formes-phrases-formes-skill",
+        "cm1-types-formes-phrases-transformer-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-types-formes-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-types-formes-phrases-exercise",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-types-formes-phrases"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître les phrases déclaratives, interrogatives et impératives.",
+        "Reconnaître les formes négative et exclamative.",
+        "Transformer une phrase et poser une question de plusieurs façons."
+      ],
+      "skill_ids": [
+        "cm1-types-formes-phrases-types-skill",
+        "cm1-types-formes-phrases-formes-skill",
+        "cm1-types-formes-phrases-transformer-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-types-formes-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-types-formes-phrases-assessment",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-types-formes-phrases"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître les phrases déclaratives, interrogatives et impératives.",
+        "Reconnaître les formes négative et exclamative.",
+        "Transformer une phrase et poser une question de plusieurs façons."
+      ],
+      "skill_ids": [
+        "cm1-types-formes-phrases-types-skill",
+        "cm1-types-formes-phrases-formes-skill",
+        "cm1-types-formes-phrases-transformer-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-types-formes-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-types-formes-phrases-audio",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-types-formes-phrases"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître les phrases déclaratives, interrogatives et impératives.",
+        "Reconnaître les formes négative et exclamative.",
+        "Transformer une phrase et poser une question de plusieurs façons."
+      ],
+      "skill_ids": [
+        "cm1-types-formes-phrases-types-skill",
+        "cm1-types-formes-phrases-formes-skill",
+        "cm1-types-formes-phrases-transformer-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-types-formes-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-types-formes-phrases-assistant_explanation",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-types-formes-phrases"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître les phrases déclaratives, interrogatives et impératives.",
+        "Reconnaître les formes négative et exclamative.",
+        "Transformer une phrase et poser une question de plusieurs façons."
+      ],
+      "skill_ids": [
+        "cm1-types-formes-phrases-types-skill",
+        "cm1-types-formes-phrases-formes-skill",
+        "cm1-types-formes-phrases-transformer-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-types-formes-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-groupe-nominal-accords-course",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-groupe-nominal-accords"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Repérer le déterminant, le nom noyau et l’adjectif dans un groupe nominal.",
+        "Accorder le déterminant et l’adjectif avec le nom noyau en genre et en nombre.",
+        "Justifier les accords effectués."
+      ],
+      "skill_ids": [
+        "cm1-groupe-nominal-accords-reperer-gn-skill",
+        "cm1-groupe-nominal-accords-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-groupe-nominal-accords-revision_sheet",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-groupe-nominal-accords"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Repérer le déterminant, le nom noyau et l’adjectif dans un groupe nominal.",
+        "Accorder le déterminant et l’adjectif avec le nom noyau en genre et en nombre.",
+        "Justifier les accords effectués."
+      ],
+      "skill_ids": [
+        "cm1-groupe-nominal-accords-reperer-gn-skill",
+        "cm1-groupe-nominal-accords-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-groupe-nominal-accords-quiz",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-groupe-nominal-accords"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Repérer le déterminant, le nom noyau et l’adjectif dans un groupe nominal.",
+        "Accorder le déterminant et l’adjectif avec le nom noyau en genre et en nombre.",
+        "Justifier les accords effectués."
+      ],
+      "skill_ids": [
+        "cm1-groupe-nominal-accords-reperer-gn-skill",
+        "cm1-groupe-nominal-accords-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-groupe-nominal-accords-exercise",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-groupe-nominal-accords"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Repérer le déterminant, le nom noyau et l’adjectif dans un groupe nominal.",
+        "Accorder le déterminant et l’adjectif avec le nom noyau en genre et en nombre.",
+        "Justifier les accords effectués."
+      ],
+      "skill_ids": [
+        "cm1-groupe-nominal-accords-reperer-gn-skill",
+        "cm1-groupe-nominal-accords-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-groupe-nominal-accords-assessment",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-groupe-nominal-accords"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Repérer le déterminant, le nom noyau et l’adjectif dans un groupe nominal.",
+        "Accorder le déterminant et l’adjectif avec le nom noyau en genre et en nombre.",
+        "Justifier les accords effectués."
+      ],
+      "skill_ids": [
+        "cm1-groupe-nominal-accords-reperer-gn-skill",
+        "cm1-groupe-nominal-accords-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-groupe-nominal-accords-audio",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-groupe-nominal-accords"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Repérer le déterminant, le nom noyau et l’adjectif dans un groupe nominal.",
+        "Accorder le déterminant et l’adjectif avec le nom noyau en genre et en nombre.",
+        "Justifier les accords effectués."
+      ],
+      "skill_ids": [
+        "cm1-groupe-nominal-accords-reperer-gn-skill",
+        "cm1-groupe-nominal-accords-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-groupe-nominal-accords-assistant_explanation",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-groupe-nominal-accords"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Repérer le déterminant, le nom noyau et l’adjectif dans un groupe nominal.",
+        "Accorder le déterminant et l’adjectif avec le nom noyau en genre et en nombre.",
+        "Justifier les accords effectués."
+      ],
+      "skill_ids": [
+        "cm1-groupe-nominal-accords-reperer-gn-skill",
+        "cm1-groupe-nominal-accords-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-passe-compose-course",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-passe-compose"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Mettre un verbe au passé composé à la forme négative.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être."
+      ],
+      "skill_ids": [
+        "cm1-passe-compose-composition-skill",
+        "cm1-passe-compose-negation-skill",
+        "cm1-passe-compose-accord-etre-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-passe-compose-revision_sheet",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-passe-compose"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Mettre un verbe au passé composé à la forme négative.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être."
+      ],
+      "skill_ids": [
+        "cm1-passe-compose-composition-skill",
+        "cm1-passe-compose-negation-skill",
+        "cm1-passe-compose-accord-etre-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-passe-compose-quiz",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-passe-compose"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Mettre un verbe au passé composé à la forme négative.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être."
+      ],
+      "skill_ids": [
+        "cm1-passe-compose-composition-skill",
+        "cm1-passe-compose-negation-skill",
+        "cm1-passe-compose-accord-etre-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-passe-compose-exercise",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-passe-compose"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Mettre un verbe au passé composé à la forme négative.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être."
+      ],
+      "skill_ids": [
+        "cm1-passe-compose-composition-skill",
+        "cm1-passe-compose-negation-skill",
+        "cm1-passe-compose-accord-etre-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-passe-compose-assessment",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-passe-compose"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Mettre un verbe au passé composé à la forme négative.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être."
+      ],
+      "skill_ids": [
+        "cm1-passe-compose-composition-skill",
+        "cm1-passe-compose-negation-skill",
+        "cm1-passe-compose-accord-etre-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-passe-compose-audio",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-passe-compose"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Mettre un verbe au passé composé à la forme négative.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être."
+      ],
+      "skill_ids": [
+        "cm1-passe-compose-composition-skill",
+        "cm1-passe-compose-negation-skill",
+        "cm1-passe-compose-accord-etre-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-passe-compose-assistant_explanation",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-passe-compose"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Mettre un verbe au passé composé à la forme négative.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être."
+      ],
+      "skill_ids": [
+        "cm1-passe-compose-composition-skill",
+        "cm1-passe-compose-negation-skill",
+        "cm1-passe-compose-accord-etre-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

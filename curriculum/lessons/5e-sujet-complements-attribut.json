@@ -1,0 +1,121 @@
+{
+  "id": "5e-sujet-complements-attribut",
+  "title": "Le sujet, les compléments du verbe et l’attribut du sujet",
+  "chapter_id": "5e-sujet-complements-attribut",
+  "program_id": "5e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Identifier le sujet d’un verbe avec des manipulations.",
+    "Distinguer COD et COI.",
+    "Reconnaître l’attribut du sujet après un verbe d’état.",
+    "Repérer les compléments circonstanciels de lieu, de temps, de cause et de manière."
+  ],
+  "skill_ids": [
+    "5e-sujet-complements-attribut-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Connaitre les différents constituants d’une phrase, pages 16–17 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le sujet",
+      "text": "Le sujet dit qui fait l’action ou de qui (de quoi) on parle. Pour le trouver, on l’encadre par « c’est… qui » : dans « Mon petit frère lit un livre », on dit « C’est mon petit frère qui lit » ; le sujet est « mon petit frère ». On peut aussi le remplacer par un pronom : « Il lit un livre ». Le sujet peut être un groupe nominal, un pronom (il, nous, celui-ci), un nom propre. Il commande l’accord du verbe : « Les élèves lisent »."
+    },
+    {
+      "title": "Le COD et le COI",
+      "text": "Le complément d’objet direct (COD) se construit sans préposition après le verbe. Il répond à « qui ? » ou « quoi ? » posé après le verbe, et on peut le remplacer par le, la, les : « Le chat boit du lait » (boit quoi ? du lait). Le complément d’objet indirect (COI) se construit avec une préposition, souvent à ou de : « Julie parle à sa voisine » (parle à qui ? à sa voisine). On peut le remplacer par lui, leur, en ou y : « Julie lui parle ». Le COD et le COI complètent le verbe : on ne peut généralement pas les supprimer sans changer le sens de la phrase."
+    },
+    {
+      "title": "L’attribut du sujet",
+      "text": "Après un verbe d’état (être, paraître, sembler, devenir, rester, demeurer), le groupe de mots qui suit n’est pas un COD : c’est l’attribut du sujet. Il décrit le sujet. « Les élèves semblent fatigués » : fatigués est l’attribut ; il s’accorde avec le sujet (masculin pluriel). « Léa devient une experte » : experte est l’attribut. On le reconnait parce qu’il désigne la même personne ou la même chose que le sujet et parce qu’on peut remplacer le verbe par « être ». Un COD, lui, désigne quelqu’un ou quelque chose de différent du sujet : « Léa mange une pomme »."
+    },
+    {
+      "title": "Les compléments circonstanciels",
+      "text": "Un complément circonstanciel donne des précisions sur les circonstances de l’action : lieu (où ?), temps (quand ?), cause (pourquoi ?), manière (comment ?). Il peut généralement être déplacé et supprimé. « Hier, nous avons joué dans la cour. » : « Hier » est un complément de temps, « dans la cour » un complément de lieu. « Nous restons à l’intérieur à cause de la pluie » : « à cause de la pluie » est un complément de cause. « Nous marchons lentement » : « lentement » est un complément de manière. Pour s’assurer, on fait des manipulations : « À cause de la pluie, nous restons à l’intérieur »."
+    }
+  ],
+  "revision_sheet": [
+    "Sujet : on l’encadre par « c’est… qui » ou on le remplace par un pronom.",
+    "COD : pas de préposition, répond à « qui ? quoi ? » (le, la, les). COI : avec une préposition à ou de (lui, leur, en, y).",
+    "Attribut du sujet : après un verbe d’état (être, sembler, devenir, rester, paraître, demeurer) ; il décrit le sujet et s’accorde avec lui.",
+    "Compléments circonstanciels : lieu, temps, cause, manière ; ils peuvent être déplacés et supprimés."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « Le chat boit du lait », quel est le COD ?",
+      "choices": [
+        "Le chat",
+        "du lait",
+        "boit"
+      ],
+      "correct_index": 1,
+      "explanation": "On pose la question « boit quoi ? » : du lait. « Le chat » est le sujet."
+    },
+    {
+      "prompt": "Dans « Tom téléphone à sa grand-mère », quelle est la fonction de « à sa grand-mère » ?",
+      "choices": [
+        "Un COD",
+        "Un COI",
+        "Un attribut du sujet"
+      ],
+      "correct_index": 1,
+      "explanation": "Le complément est introduit par la préposition « à » : c’est un COI (on peut dire « Tom lui téléphone »)."
+    },
+    {
+      "prompt": "Dans « Ces fleurs sont magnifiques », quelle est la fonction de « magnifiques » ?",
+      "choices": [
+        "Un COD",
+        "Un complément de manière",
+        "Un attribut du sujet"
+      ],
+      "correct_index": 2,
+      "explanation": "Le verbe « sont » est un verbe d’état : « magnifiques » décrit le sujet « ces fleurs » et s’accorde avec lui."
+    },
+    {
+      "prompt": "Dans « Demain, Léa ira à la piscine », quelle est la fonction de « Demain » ?",
+      "choices": [
+        "Un complément de lieu",
+        "Un complément de temps",
+        "Un complément de manière"
+      ],
+      "correct_index": 1,
+      "explanation": "« Demain » répond à la question « quand ? » : c’est un complément circonstanciel de temps."
+    },
+    {
+      "prompt": "Lequel de ces verbes peut introduire un attribut du sujet ?",
+      "choices": [
+        "Manger",
+        "Chanter",
+        "Devenir"
+      ],
+      "correct_index": 2,
+      "explanation": "Devenir est un verbe d’état, comme être, sembler, paraître, rester, demeurer. Manger et chanter sont des verbes d’action."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Analyse la phrase : « Les enfants ont mangé des fraises dans le jardin. » Donne le sujet, le COD et le complément circonstanciel.",
+      "solution": "Sujet : les enfants. COD : des fraises (mangé quoi ?). Complément circonstanciel de lieu : dans le jardin (où ?).",
+      "success_criterion": "Utiliser les questions et les manipulations (encadrement, pronom, déplacement)."
+    },
+    {
+      "prompt": "Dans « Pierre semble heureux. Il parle à ses amis. », repère l’attribut du sujet et le COI.",
+      "solution": "Attribut du sujet : heureux (après le verbe d’état « semble »). COI : à ses amis (parle à qui ?).",
+      "success_criterion": "Distinguer le verbe d’état du verbe d’action et repérer la préposition."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique la différence entre « Léa mange une pomme » et « Léa devient une experte ».",
+      "solution": "Dans la première phrase, « une pomme » est un COD : elle désigne autre chose que le sujet, complément d’une action. Dans la seconde, « devient » est un verbe d’état et « une experte » est un attribut du sujet : il désigne la même personne que Léa.",
+      "success_criterion": "Nommer les fonctions et justifier par le type de verbe et le référent."
+    },
+    {
+      "prompt": "Écris une phrase avec un sujet, un COD et un complément circonstanciel de lieu, puis souligne chaque élément.",
+      "solution": "Exemple : « Les élèves (sujet) rangent leurs cahiers (COD) dans la classe (lieu). »",
+      "success_criterion": "Phrase correcte, avec les trois fonctions identifiables."
+    }
+  ],
+  "audio_transcript": "Pour analyser une phrase, on repère d’abord le sujet : on l’encadre par c’est qui, ou on le remplace par un pronom. Le complément d’objet direct répond à la question qui ou quoi après le verbe, sans préposition : le chat boit du lait. Le complément d’objet indirect est introduit par une préposition, souvent à ou de : Julie parle à sa voisine. Après un verbe d’état comme être, sembler ou devenir, on trouve un attribut du sujet, qui décrit le sujet : les élèves semblent fatigués. Enfin, les compléments circonstanciels donnent le lieu, le temps, la cause ou la manière, et peuvent être déplacés ou supprimés.",
+  "guided_explanation": "Prends la phrase « Hier, mes cousins ont offert un cadeau à Sam dans le jardin ». Cherche d’abord le verbe : « ont offert ». Qui a offert ? C’est mes cousins qui ont offert : sujet. Ont offert quoi ? un cadeau : COD. Ont offert à qui ? à Sam : COI. Où ? dans le jardin : complément de lieu. Quand ? hier : complément de temps. Pour vérifier, essaie de supprimer « hier » ou « dans le jardin » : la phrase reste correcte. Tu ne peux pas supprimer « un cadeau » sans changer le sens du verbe."
+}

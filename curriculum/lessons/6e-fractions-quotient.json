@@ -1,0 +1,133 @@
+{
+  "id": "6e-fractions-quotient",
+  "title": "Les fractions : quotient et fraction d’une quantité",
+  "chapter_id": "6e-fractions-quotient",
+  "program_id": "6e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Comprendre que 3/4 est le résultat de 3 ÷ 4.",
+    "Passer de quelques fractions usuelles à leur écriture décimale.",
+    "Calculer une fraction d’une quantité.",
+    "Additionner et soustraire des fractions de même dénominateur."
+  ],
+  "skill_ids": [
+    "6e-fractions-quotient-skill-quotient",
+    "6e-fractions-quotient-skill-operateur",
+    "6e-fractions-quotient-skill-operations"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "La fraction comme partage",
+      "text": "Si on partage 3 mètres de ficelle en 4 parts égales, chaque part mesure 3/4 de mètre. La fraction 3/4 est donc le résultat de la division 3 ÷ 4. Plus généralement, a/b est le nombre qui, multiplié par b, donne a : ici 4 × 3/4 = 3. Quand on cherche un nombre manquant dans 4 × ? = 3, la réponse est 3/4."
+    },
+    {
+      "title": "Fractions et écritures décimales",
+      "text": "Il faut connaître par cœur : 1/2 = 0,5 ; 1/4 = 0,25 ; 3/4 = 0,75 ; 3/2 = 1,5 ; 5/2 = 2,5 ; 4/2 = 2. Une fraction peut donc être égale à un nombre entier (4/2 = 2), à un nombre décimal (3/4 = 0,75) ou à un nombre qui n’est pas décimal : 1/3 = 1 ÷ 3 = 0,333… ne s’arrête jamais."
+    },
+    {
+      "title": "Calculer une fraction d’une quantité",
+      "text": "Pour prendre 2/3 de 12 œufs, on partage 12 en 3 parts égales (12 ÷ 3 = 4), puis on prend 2 parts : 2 × 4 = 8 œufs. Pour 3/4 de 10 m : 10 ÷ 4 = 2,5 puis 3 × 2,5 = 7,5 m. On peut aussi écrire 3/4 × 12 = 12 ÷ 4 × 3 = 9."
+    },
+    {
+      "title": "Additionner et soustraire",
+      "text": "Quand deux fractions ont le même dénominateur, on additionne (ou on soustrait) les numérateurs et le dénominateur ne change pas : 2/5 + 1/5 = 3/5 ; 3/4 − 1/4 = 2/4. Quelques relations utiles : 1/2 + 1/2 = 1 ; 3/4 + 1/4 = 1 ; 1 − 1/4 = 3/4 ; 1/2 + 1/4 = 3/4."
+    }
+  ],
+  "revision_sheet": [
+    "a/b = a ÷ b : 3/4 = 3 ÷ 4 = 0,75.",
+    "1/2 = 0,5 ; 1/4 = 0,25 ; 3/4 = 0,75 ; 3/2 = 1,5 ; 5/2 = 2,5.",
+    "Fraction d’une quantité : on divise par le dénominateur, puis on multiplie par le numérateur (2/3 de 12 = 12 ÷ 3 × 2 = 8).",
+    "Même dénominateur : on additionne ou soustrait les numérateurs, le dénominateur reste."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle est l’écriture décimale de 3/4 ?",
+      "choices": [
+        "0,34",
+        "0,75",
+        "0,25"
+      ],
+      "correct_index": 1,
+      "explanation": "3/4 = 3 ÷ 4 = 0,75. Et 1/4 = 0,25, donc 3/4 = 3 × 0,25 = 0,75."
+    },
+    {
+      "prompt": "Quelle fraction correspond à la division 3 ÷ 5 ?",
+      "choices": [
+        "3,5",
+        "5/3",
+        "3/5"
+      ],
+      "correct_index": 2,
+      "explanation": "Diviser a par b donne la fraction a/b : 3 ÷ 5 = 3/5 (c’est 0,6)."
+    },
+    {
+      "prompt": "Combien vaut 2/3 de 12 ?",
+      "choices": [
+        "8",
+        "6",
+        "18"
+      ],
+      "correct_index": 0,
+      "explanation": "12 ÷ 3 = 4 (un tiers), puis 2 × 4 = 8."
+    },
+    {
+      "prompt": "Combien vaut 3/4 + 1/4 ?",
+      "choices": [
+        "4/8",
+        "3/16",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "Même dénominateur : 3/4 + 1/4 = 4/4 = 1."
+    },
+    {
+      "prompt": "Quelle est l’écriture décimale de 5/2 ?",
+      "choices": [
+        "2,5",
+        "2,05",
+        "5,2"
+      ],
+      "correct_index": 0,
+      "explanation": "5 ÷ 2 = 2,5. On peut aussi voir 5/2 = 2 + 1/2 = 2,5."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule 3/4 de 20 m.",
+      "solution": "20 ÷ 4 = 5, puis 3 × 5 = 15. Donc 3/4 de 20 m = 15 m.",
+      "success_criterion": "Diviser par 4 puis multiplier par 3."
+    },
+    {
+      "prompt": "Complète : 6 × ? = 5 et 4 × ? = 3.",
+      "solution": "6 × 5/6 = 5 et 4 × 3/4 = 3.",
+      "success_criterion": "Utiliser a/b comme nombre qui, multiplié par b, donne a."
+    },
+    {
+      "prompt": "Donne l’écriture décimale de 1/2, 3/2 et 1/4.",
+      "solution": "1/2 = 0,5 ; 3/2 = 1,5 ; 1/4 = 0,25.",
+      "success_criterion": "Retrouver les trois équivalences usuelles."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Léa partage un ruban de 3 m en 4 parts égales. Quelle est la longueur d’une part, en fraction puis en nombre décimal ?",
+      "solution": "Une part mesure 3 ÷ 4 = 3/4 m, soit 0,75 m.",
+      "success_criterion": "Écrire la division, la fraction 3/4 et le décimal 0,75."
+    },
+    {
+      "prompt": "Un sac contient 15 billes dont 2/5 sont rouges. Combien y a-t-il de billes rouges ?",
+      "solution": "15 ÷ 5 = 3 puis 2 × 3 = 6. Il y a 6 billes rouges.",
+      "success_criterion": "Diviser par le dénominateur puis multiplier par le numérateur."
+    },
+    {
+      "prompt": "Calcule 1/2 + 1/4.",
+      "solution": "1/2 = 2/4, donc 1/2 + 1/4 = 2/4 + 1/4 = 3/4.",
+      "success_criterion": "Se ramener au dénominateur 4 ou connaître la relation 1/2 + 1/4 = 3/4."
+    }
+  ],
+  "audio_transcript": "Une fraction est aussi une division. Trois quarts, c’est le résultat de trois divisé par quatre, soit zéro virgule soixante-quinze. Si on partage trois mètres de ficelle en quatre parts égales, chaque part mesure trois quarts de mètre. Pour calculer une fraction d’une quantité, on divise par le dénominateur puis on multiplie par le numérateur : deux tiers de douze, c’est douze divisé par trois, soit quatre, multiplié par deux, soit huit. Quand les dénominateurs sont les mêmes, on additionne les numérateurs : trois quarts plus un quart font quatre quarts, c’est-à-dire un.",
+  "guided_explanation": "Prends une barre de chocolat de 12 carrés. Pour trouver les deux tiers, partage-la en 3 groupes égaux : chaque groupe a 4 carrés. Les deux tiers, ce sont 2 groupes, donc 8 carrés. Pour une fraction comme 3/4, pense à 3 ÷ 4 : 3 mètres partagés entre 4 personnes donnent 0,75 m chacune. Tu peux toujours vérifier avec la multiplication : 4 × 0,75 = 3."
+}

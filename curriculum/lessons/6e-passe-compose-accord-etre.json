@@ -1,0 +1,126 @@
+{
+  "id": "6e-passe-compose-accord-etre",
+  "title": "Le passé composé et l’accord du participe passé avec être",
+  "chapter_id": "6e-passe-compose-accord-etre",
+  "program_id": "6e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Former le passé composé avec l’auxiliaire avoir ou être.",
+    "Accorder le participe passé avec le sujet quand l’auxiliaire est être.",
+    "Ne pas accorder le participe passé avec le sujet quand l’auxiliaire est avoir."
+  ],
+  "skill_ids": [
+    "6e-passe-compose-accord-etre-skill-compose",
+    "6e-passe-compose-accord-etre-skill-accord-etre"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Deux morceaux : auxiliaire + participe passé",
+      "text": "Le passé composé se compose de deux parties : l’auxiliaire avoir ou être au présent, puis le participe passé du verbe. Exemples : « j’ai mangé », « nous avons fini », « elle est partie ». Participes passés : chanter → chanté ; finir → fini ; aller → allé ; venir → venu ; faire → fait ; prendre → pris ; voir → vu ; dire → dit."
+    },
+    {
+      "title": "Quel auxiliaire choisir ?",
+      "text": "La plupart des verbes se conjuguent avec avoir : « j’ai chanté », « il a pris ». Quelques verbes de mouvement ou de changement se conjuguent avec être, par exemple aller, venir, arriver, partir, tomber, rester, naître, mourir : « il est arrivé », « elles sont tombées ». Pour t’aider, observe l’infinitif et essaie de dire la phrase à voix haute."
+    },
+    {
+      "title": "Avec être : le participe passé s’accorde avec le sujet",
+      "text": "Avec l’auxiliaire être, le participe passé s’accorde en genre et en nombre avec le sujet, comme un adjectif. Il est parti. Elle est partie. Ils sont partis. Elles sont parties. Avec un sujet qui mélange féminin et masculin, on met le masculin pluriel : « Léa et Tom sont partis ». Pour trouver le sujet, pose la question « qui est-ce qui ? »."
+    },
+    {
+      "title": "Avec avoir : pas d’accord avec le sujet",
+      "text": "Avec l’auxiliaire avoir, le participe passé ne s’accorde pas avec le sujet : « Elle a chanté » ; « Elles ont chanté ». Il s’accorde seulement avec le COD s’il est placé avant le verbe : « Les pommes ? Je les ai mangées. » Au passé composé, la négation encadre l’auxiliaire : « Elle n’est pas partie » ; « Je n’ai pas mangé »."
+    }
+  ],
+  "revision_sheet": [
+    "Passé composé = auxiliaire (avoir ou être au présent) + participe passé.",
+    "Avec être : le participe passé s’accorde avec le sujet (il est parti, elles sont parties).",
+    "Avec avoir : pas d’accord avec le sujet (elles ont chanté) ; accord avec le COD seulement s’il est placé avant (je les ai mangées).",
+    "Négation : ne + auxiliaire + pas + participe passé (elle n’est pas partie)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Complète : « Les filles sont (arriver) tôt. »",
+      "choices": [
+        "arrivé",
+        "arrivées",
+        "arrivés"
+      ],
+      "correct_index": 1,
+      "explanation": "Auxiliaire être : le participe passé s’accorde avec le sujet « les filles » (féminin pluriel) : arrivées."
+    },
+    {
+      "prompt": "Comment est formé le passé composé ?",
+      "choices": [
+        "Auxiliaire + infinitif",
+        "Radical + terminaison",
+        "Auxiliaire + participe passé"
+      ],
+      "correct_index": 2,
+      "explanation": "Le passé composé est formé de l’auxiliaire avoir ou être au présent et du participe passé du verbe."
+    },
+    {
+      "prompt": "Complète : « Elles ont (chanter) ensemble. »",
+      "choices": [
+        "chanté",
+        "chantées",
+        "chantés"
+      ],
+      "correct_index": 0,
+      "explanation": "Auxiliaire avoir : le participe passé ne s’accorde pas avec le sujet. On écrit : chanté."
+    },
+    {
+      "prompt": "Quelle phrase est correctement écrite ?",
+      "choices": [
+        "Léa et Sara sont allé au cinéma.",
+        "Léa et Sara sont allées au cinéma.",
+        "Léa et Sara sont allés au cinéma."
+      ],
+      "correct_index": 1,
+      "explanation": "Avec être, le participe passé s’accorde avec le sujet « Léa et Sara » (féminin pluriel) : allées."
+    },
+    {
+      "prompt": "Quelle est la bonne forme négative de « Il est arrivé » ?",
+      "choices": [
+        "Il n’est pas arrivé.",
+        "Il est n’pas arrivé.",
+        "Il n’est arrivé pas."
+      ],
+      "correct_index": 0,
+      "explanation": "La négation encadre l’auxiliaire : ne + est + pas, puis le participe passé."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Mets au passé composé : « Elle (partir) à huit heures. » ; « Les enfants (aller) à l’école. » ; « Nous (finir) l’exercice. »",
+      "solution": "« Elle est partie à huit heures. » ; « Les enfants sont allés à l’école. » ; « Nous avons fini l’exercice. »",
+      "success_criterion": "Choisir l’auxiliaire et accorder avec le sujet quand c’est être."
+    },
+    {
+      "prompt": "Corrige les erreurs : « Les garçons sont tombé. » ; « Marie a manger une pomme. » ; « Elles sont arrivé. »",
+      "solution": "« Les garçons sont tombés. » ; « Marie a mangé une pomme. » ; « Elles sont arrivées. »",
+      "success_criterion": "Accorder avec le sujet après être ; utiliser le participe passé en -é après avoir."
+    },
+    {
+      "prompt": "Mets à la forme négative : « Tu es venu. » ; « Ils ont fini. »",
+      "solution": "« Tu n’es pas venu. » ; « Ils n’ont pas fini. »",
+      "success_criterion": "Placer ne devant l’auxiliaire et pas après."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique l’accord de « parties » dans « Mes cousines sont parties en vacances. »",
+      "solution": "L’auxiliaire est être, donc le participe passé s’accorde avec le sujet « mes cousines » (féminin pluriel) : parties.",
+      "success_criterion": "Nommer l’auxiliaire, le sujet et son genre et nombre."
+    },
+    {
+      "prompt": "Explique pourquoi « chanté » ne prend ni e ni s dans « Mes cousines ont chanté. »",
+      "solution": "L’auxiliaire est avoir : le participe passé ne s’accorde pas avec le sujet.",
+      "success_criterion": "Nommer l’auxiliaire avoir et énoncer la règle."
+    }
+  ],
+  "audio_transcript": "Le passé composé est un temps en deux parties : l’auxiliaire avoir ou être au présent, puis le participe passé. Avec avoir, le participe passé ne s’accorde pas avec le sujet : elles ont chanté. Avec être, il s’accorde en genre et en nombre avec le sujet : il est parti, elle est partie, ils sont partis, elles sont parties. Pour savoir comment l’écrire, repère le sujet, puis regarde l’auxiliaire. Si tu hésites, remplace le participe par un adjectif comme grand ou grande, et tu entendras la différence.",
+  "guided_explanation": "Avant d’écrire un participe passé, pose-toi trois questions. Un : quel est l’auxiliaire ? Deux : si c’est être, quel est le sujet, est-il masculin ou féminin, singulier ou pluriel ? Trois : j’écris le participe en l’accordant, comme un adjectif. Exemple : « Mes cousines sont (partir) ». L’auxiliaire est être, le sujet est « mes cousines », féminin pluriel : j’écris « parties ». Avec avoir, au contraire, j’écris simplement le participe : « elles ont chanté »."
+}

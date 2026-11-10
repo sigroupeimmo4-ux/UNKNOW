@@ -1,0 +1,126 @@
+{
+  "id": "cm2-phrase-simple-complexe",
+  "title": "Phrase simple et phrase complexe",
+  "chapter_id": "cm2-phrase-simple-complexe",
+  "program_id": "CM2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Repérer les verbes conjugués dans une phrase.",
+    "Distinguer phrase simple (un verbe conjugué) et phrase complexe (plusieurs verbes conjugués).",
+    "Reconnaître les mots qui relient les parties d’une phrase complexe."
+  ],
+  "skill_ids": [
+    "cm2-phrase-simple-complexe-skill",
+    "cm2-phrase-simple-complexe-conjonctions"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Compter les verbes conjugués",
+      "text": "Une phrase simple contient un seul verbe conjugué : « Les oiseaux chantent. » Une phrase complexe en contient plusieurs : « Les oiseaux chantent quand le soleil se lève. » (chantent, se lève). Pour compter, on repère chaque verbe qui change quand on change de personne ou de temps. On ne compte pas l’infinitif : dans « Je veux jouer dehors », il n’y a qu’un verbe conjugué (veux) ; jouer est à l’infinitif. Phrase simple."
+    },
+    {
+      "title": "Attention aux temps composés",
+      "text": "Au passé composé, le verbe est formé de deux mots (auxiliaire + participe passé), mais cela ne fait qu’un seul verbe conjugué. « Le chat a bu son lait. » : un seul verbe conjugué (a bu), phrase simple. « Le chat a bu son lait pendant que nous mangions. » : deux verbes conjugués (a bu, mangions), phrase complexe."
+    },
+    {
+      "title": "Comment relier les verbes ?",
+      "text": "Dans une phrase complexe, les parties peuvent être reliées de trois façons. Par la ponctuation (juxtaposition) : « Il pleut, nous restons à la maison. » Par une conjonction de coordination : mais, ou, et, donc, or, ni, car. Exemple : « Il pleut, donc nous restons à la maison. » Par une conjonction de subordination : quand, lorsque, parce que, si, comme, puisque, que. Exemple : « Nous restons à la maison parce qu’il pleut. »"
+    }
+  ],
+  "revision_sheet": [
+    "Phrase simple : un seul verbe conjugué.",
+    "Phrase complexe : plusieurs verbes conjugués.",
+    "On ne compte pas l’infinitif ; un temps composé (a bu) ne compte que pour un verbe.",
+    "Conjonctions de coordination : mais, ou, et, donc, or, ni, car.",
+    "Conjonctions de subordination : quand, lorsque, parce que, si, comme, que…"
+  ],
+  "quiz": [
+    {
+      "prompt": "La phrase « Le facteur distribue le courrier. » est…",
+      "choices": [
+        "simple",
+        "complexe"
+      ],
+      "correct_index": 0,
+      "explanation": "Il n’y a qu’un seul verbe conjugué : distribue. C’est une phrase simple."
+    },
+    {
+      "prompt": "La phrase « Marie chante pendant que Paul joue de la guitare. » est…",
+      "choices": [
+        "simple",
+        "complexe"
+      ],
+      "correct_index": 1,
+      "explanation": "Elle contient deux verbes conjugués : chante et joue. C’est une phrase complexe."
+    },
+    {
+      "prompt": "Combien de verbes conjugués dans « Je veux manger une glace parce que j’ai chaud. » ?",
+      "choices": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_index": 1,
+      "explanation": "Les verbes conjugués sont veux et ai. « Manger » est à l’infinitif : on ne le compte pas."
+    },
+    {
+      "prompt": "Quel mot est une conjonction de subordination ?",
+      "choices": [
+        "quand",
+        "mais",
+        "donc"
+      ],
+      "correct_index": 0,
+      "explanation": "« Mais » et « donc » sont des conjonctions de coordination. « Quand » introduit une partie qui dépend de l’autre : c’est une conjonction de subordination."
+    },
+    {
+      "prompt": "Combien de verbes conjugués dans « Tom a lu son livre et il s’est endormi. » ?",
+      "choices": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_index": 1,
+      "explanation": "Il y a deux verbes conjugués au passé composé : a lu et s’est endormi. Chacun compte pour un verbe."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Relève les verbes conjugués et dis si la phrase est simple ou complexe : a) Les enfants construisent un château de sable. b) Il pleut, donc nous prenons nos parapluies. c) Papa pense que le train arrive à midi.",
+      "solution": "a) construisent : phrase simple. b) pleut, prenons : phrase complexe. c) pense, arrive : phrase complexe.",
+      "success_criterion": "Repérer correctement tous les verbes conjugués avant de conclure."
+    },
+    {
+      "prompt": "Relie les deux phrases avec « parce que » ou « car » : « Je ne sors pas. Il fait froid. »",
+      "solution": "Je ne sors pas parce qu’il fait froid. (ou : Je ne sors pas, car il fait froid.)",
+      "success_criterion": "Obtenir une phrase complexe avec deux verbes conjugués reliés par une conjonction."
+    },
+    {
+      "prompt": "Transforme en phrase simple : « Quand la cloche sonne, les élèves rentrent. »",
+      "solution": "Les élèves rentrent à la sonnerie. (un seul verbe conjugué : rentrent)",
+      "success_criterion": "Supprimer un verbe conjugué en gardant le sens."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Cette phrase est-elle simple ou complexe ? Justifie. « Ma sœur adore dessiner. »",
+      "solution": "Elle est simple : adore est le seul verbe conjugué, dessiner est à l’infinitif.",
+      "success_criterion": "Justifier par le comptage des verbes conjugués en excluant l’infinitif."
+    },
+    {
+      "prompt": "Cette phrase est-elle simple ou complexe ? Justifie. « Le vent souffle et les feuilles tombent. »",
+      "solution": "Elle est complexe : elle a deux verbes conjugués (souffle, tombent) reliés par la conjonction de coordination « et ».",
+      "success_criterion": "Nommer les deux verbes et la conjonction."
+    },
+    {
+      "prompt": "Écris une phrase complexe avec « lorsque » et souligne les deux verbes conjugués.",
+      "solution": "Exemple : « Je range ma chambre lorsque ma mère arrive. » (range, arrive)",
+      "success_criterion": "Phrase correcte avec deux verbes conjugués reliés par « lorsque »."
+    }
+  ],
+  "audio_transcript": "Une phrase simple contient un seul verbe conjugué. Les oiseaux chantent : il n’y a qu’un verbe, chantent. Une phrase complexe contient plusieurs verbes conjugués. Les oiseaux chantent quand le soleil se lève : il y a deux verbes, chantent et se lève. Attention, l’infinitif ne compte pas. Dans je veux jouer dehors, il n’y a qu’un verbe conjugué, veux. Un verbe au passé composé compte pour un seul verbe, même s’il a deux mots. Pour relier les parties d’une phrase complexe, on peut utiliser une virgule, une conjonction de coordination comme mais, ou, et, donc, or, ni, car, ou une conjonction de subordination comme quand, parce que, si ou lorsque.",
+  "guided_explanation": "Voici une méthode en trois temps. Un : lis la phrase et entoure chaque verbe conjugué ; pour t’aider, change le sujet ou le temps, seuls les verbes conjugués changent. Deux : compte. Un seul verbe conjugué, c’est une phrase simple ; deux ou plus, c’est une phrase complexe. Trois : cherche le petit mot qui relie les verbes, par exemple parce que, quand ou mais. Pour t’entraîner, écris deux phrases simples, comme « Il pleut. » et « Je prends mon parapluie. », puis relie-les avec « donc » ou « car »."
+}

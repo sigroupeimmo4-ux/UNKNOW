@@ -1,0 +1,1408 @@
+{
+  "programs": [
+    {
+      "id": "3e-mathematiques-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "3e",
+      "subject_id": "mathematiques-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/89/1/ensel714_annexe3_1312891.pdf",
+        "title": "Mathématiques",
+        "text_reference": "Mathématiques (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "16efa795f59f25f726e3f443934198e22c01fad04e1ba78a01ed10a11a3a14eb",
+        "source_id": "6f0365b6a54fc983"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": "2028-08-31",
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "nombres-et-calculs",
+          "title": "Nombres et calculs",
+          "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-developper-factoriser",
+              "title": "Développer, factoriser et résoudre une équation produit",
+              "title_type": "editorial",
+              "official_section": "Utiliser le calcul littéral",
+              "notions": [
+                "Distributivité simple et double",
+                "Factorisation de a² − b²",
+                "Annulation d’un produit (équation produit)"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-developper-factoriser-knowledge",
+                  "text": "La distributivité simple et double permet de développer ; l’identité a² − b² = (a − b)(a + b) permet de factoriser ; un produit est nul si et seulement si l’un de ses facteurs est nul.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-developper-factoriser-skill-developper",
+                  "text": "Développer et réduire des expressions algébriques dans des cas très simples (distributivité simple et double).",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-developper-factoriser-skill-factoriser",
+                  "text": "Factoriser des expressions algébriques dans des cas très simples (facteur commun, a² − b²).",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-developper-factoriser-skill-equation-produit",
+                  "text": "Résoudre algébriquement des équations s’y ramenant (équations produits), en particulier du type x² = a.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "donnees-et-fonctions",
+          "title": "Organisation et gestion de données, fonctions",
+          "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-fonctions-lineaires-affines",
+              "title": "Fonctions, fonctions linéaires et fonctions affines",
+              "title_type": "editorial",
+              "official_section": "Comprendre et utiliser la notion de fonction",
+              "notions": [
+                "Variable, fonction, antécédent, image",
+                "Notations f(x) et x ↦ f(x)",
+                "Fonction linéaire et fonction affine"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-fonctions-lineaires-affines-knowledge",
+                  "text": "Une fonction associe à chaque nombre un unique nombre (son image) ; les fonctions linéaires et affines ont pour représentation graphique une droite.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-fonctions-lineaires-affines-skill-image-antecedent",
+                  "text": "Déterminer, à partir d’un mode de représentation, l’image ou un antécédent d’un nombre par une fonction.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-fonctions-lineaires-affines-skill-representer",
+                  "text": "Représenter graphiquement une fonction linéaire, une fonction affine ; passer d’un mode de représentation à un autre.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-fonctions-lineaires-affines-skill-modeliser",
+                  "text": "Modéliser une situation de proportionnalité par une fonction linéaire et résoudre des problèmes modélisés par des fonctions.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "espace-et-geometrie",
+          "title": "Espace et géométrie",
+          "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-theoreme-de-thales",
+              "title": "Le théorème de Thalès et sa réciproque",
+              "title_type": "editorial",
+              "official_section": "Utiliser les notions de géométrie plane pour démontrer",
+              "notions": [
+                "Configurations des triangles emboîtés et du papillon",
+                "Théorème de Thalès",
+                "Réciproque du théorème de Thalès"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-theoreme-de-thales-knowledge",
+                  "text": "Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) relient parallélisme et égalité de rapports de longueurs.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-theoreme-de-thales-skill-calculer",
+                  "text": "Mobiliser les connaissances des figures et des configurations au programme pour déterminer des grandeurs géométriques (calcul d’une longueur avec Thalès).",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-theoreme-de-thales-skill-reciproque",
+                  "text": "Mener des raisonnements et s’initier à la démonstration en utilisant les propriétés des configurations (parallélisme et réciproque de Thalès).",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "3e-francais-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "3e",
+      "subject_id": "francais-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "title": "Français",
+        "text_reference": "Français (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "ae4c7689102b4b3f7e0e573bf03fe5a92ca66c54343a3c215afda34cea1dc7be",
+        "source_id": "7b8272bca664386f"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": "2028-08-31",
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "etude-de-la-langue",
+          "title": "Étude de la langue (grammaire, orthographe, lexique)",
+          "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue (grammaire, orthographe, lexique), pages 20–26 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-phrase-complexe",
+              "title": "Reconnaître et analyser la phrase complexe",
+              "title_type": "editorial",
+              "official_section": "Analyser le fonctionnement de la phrase simple et de la phrase complexe",
+              "notions": [
+                "Phrase simple et phrase complexe",
+                "Juxtaposition, coordination, subordination",
+                "Propositions subordonnées relative et conjonctive"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-phrase-complexe-knowledge",
+                  "text": "La phrase complexe comporte plusieurs propositions reliées par juxtaposition, coordination ou subordination ; le pronom relatif a une fonction dans la subordonnée relative.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-phrase-complexe-skill-propositions",
+                  "text": "Distinguer phrase simple et phrase complexe et identifier les constituants de la phrase complexe.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-phrase-complexe-skill-relations",
+                  "text": "Connaître les notions de juxtaposition, coordination, subordination.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-phrase-complexe-skill-subordonnees",
+                  "text": "Comprendre le fonctionnement de la proposition subordonnée relative et identifier la fonction du pronom relatif ; analyser la position et la fonction des propositions subordonnées.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+            },
+            {
+              "id": "3e-accord-participe-passe",
+              "title": "Accorder le participe passé",
+              "title_type": "editorial",
+              "official_section": "Consolider l’orthographe lexicale et grammaticale",
+              "notions": [
+                "Participe passé avec être",
+                "Participe passé avec avoir et COD antéposé",
+                "Participe passé en apposition"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-accord-participe-passe-knowledge",
+                  "text": "Le participe passé s’accorde avec le sujet quand il est employé avec être, avec le COD antéposé quand il est employé avec avoir, et comme un adjectif en apposition.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord), pages 23–24 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-accord-participe-passe-skill-etre",
+                  "text": "Maîtriser l’accord du participe passé avec être (à rapprocher de l’adjectif).",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord), pages 23–24 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-accord-participe-passe-skill-avoir",
+                  "text": "Maîtriser l’accord du participe passé avec avoir (cas du COD antéposé, cas simples).",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord), pages 23–24 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-accord-participe-passe-skill-apposition",
+                  "text": "Maîtriser l’accord de l’adjectif et du participe passé mis en apposition.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord), pages 23–24 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord), pages 23–24 (pagination du PDF)."
+            },
+            {
+              "id": "3e-discours-rapporte",
+              "title": "Rapporter des paroles : discours direct, indirect et indirect libre",
+              "title_type": "editorial",
+              "official_section": "Connaître les différences entre l’oral et l’écrit",
+              "notions": [
+                "Discours direct",
+                "Discours indirect",
+                "Discours indirect libre"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-discours-rapporte-knowledge",
+                  "text": "Les paroles peuvent être rapportées au discours direct, indirect ou indirect libre ; la transposition modifie les personnes, les temps et les repères de temps et de lieu.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit, pages 21–22 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-discours-rapporte-skill-reconnaitre",
+                  "text": "Reconnaître les paroles rapportées (discours direct, indirect, indirect libre) dans un texte.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit, pages 21–22 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-discours-rapporte-skill-transposer",
+                  "text": "Insérer dans un texte des paroles rapportées et réécrire en faisant varier la façon de rapporter les paroles.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit, pages 21–22 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit, pages 21–22 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "3e-developper-factoriser-course",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-developper-factoriser"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Développer une expression avec la distributivité simple et double, puis la réduire.",
+        "Factoriser une expression avec un facteur commun ou avec l’identité a² − b² = (a − b)(a + b).",
+        "Résoudre une équation produit en utilisant la règle : un produit est nul si et seulement si l’un de ses facteurs est nul."
+      ],
+      "skill_ids": [
+        "3e-developper-factoriser-skill-developper",
+        "3e-developper-factoriser-skill-factoriser",
+        "3e-developper-factoriser-skill-equation-produit"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-developper-factoriser.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-developper-factoriser-revision_sheet",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-developper-factoriser"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Développer une expression avec la distributivité simple et double, puis la réduire.",
+        "Factoriser une expression avec un facteur commun ou avec l’identité a² − b² = (a − b)(a + b).",
+        "Résoudre une équation produit en utilisant la règle : un produit est nul si et seulement si l’un de ses facteurs est nul."
+      ],
+      "skill_ids": [
+        "3e-developper-factoriser-skill-developper",
+        "3e-developper-factoriser-skill-factoriser",
+        "3e-developper-factoriser-skill-equation-produit"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-developper-factoriser.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-developper-factoriser-quiz",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-developper-factoriser"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Développer une expression avec la distributivité simple et double, puis la réduire.",
+        "Factoriser une expression avec un facteur commun ou avec l’identité a² − b² = (a − b)(a + b).",
+        "Résoudre une équation produit en utilisant la règle : un produit est nul si et seulement si l’un de ses facteurs est nul."
+      ],
+      "skill_ids": [
+        "3e-developper-factoriser-skill-developper",
+        "3e-developper-factoriser-skill-factoriser",
+        "3e-developper-factoriser-skill-equation-produit"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-developper-factoriser.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-developper-factoriser-exercise",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-developper-factoriser"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Développer une expression avec la distributivité simple et double, puis la réduire.",
+        "Factoriser une expression avec un facteur commun ou avec l’identité a² − b² = (a − b)(a + b).",
+        "Résoudre une équation produit en utilisant la règle : un produit est nul si et seulement si l’un de ses facteurs est nul."
+      ],
+      "skill_ids": [
+        "3e-developper-factoriser-skill-developper",
+        "3e-developper-factoriser-skill-factoriser",
+        "3e-developper-factoriser-skill-equation-produit"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-developper-factoriser.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-developper-factoriser-assessment",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-developper-factoriser"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Développer une expression avec la distributivité simple et double, puis la réduire.",
+        "Factoriser une expression avec un facteur commun ou avec l’identité a² − b² = (a − b)(a + b).",
+        "Résoudre une équation produit en utilisant la règle : un produit est nul si et seulement si l’un de ses facteurs est nul."
+      ],
+      "skill_ids": [
+        "3e-developper-factoriser-skill-developper",
+        "3e-developper-factoriser-skill-factoriser",
+        "3e-developper-factoriser-skill-equation-produit"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-developper-factoriser.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-developper-factoriser-audio",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-developper-factoriser"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Développer une expression avec la distributivité simple et double, puis la réduire.",
+        "Factoriser une expression avec un facteur commun ou avec l’identité a² − b² = (a − b)(a + b).",
+        "Résoudre une équation produit en utilisant la règle : un produit est nul si et seulement si l’un de ses facteurs est nul."
+      ],
+      "skill_ids": [
+        "3e-developper-factoriser-skill-developper",
+        "3e-developper-factoriser-skill-factoriser",
+        "3e-developper-factoriser-skill-equation-produit"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-developper-factoriser.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-developper-factoriser-assistant_explanation",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-developper-factoriser"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Développer une expression avec la distributivité simple et double, puis la réduire.",
+        "Factoriser une expression avec un facteur commun ou avec l’identité a² − b² = (a − b)(a + b).",
+        "Résoudre une équation produit en utilisant la règle : un produit est nul si et seulement si l’un de ses facteurs est nul."
+      ],
+      "skill_ids": [
+        "3e-developper-factoriser-skill-developper",
+        "3e-developper-factoriser-skill-factoriser",
+        "3e-developper-factoriser-skill-equation-produit"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-developper-factoriser.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-fonctions-lineaires-affines-course",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-fonctions-lineaires-affines"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Utiliser le vocabulaire fonction, image, antécédent et les notations f(x) et x ↦ f(x).",
+        "Calculer l’image et un antécédent d’un nombre pour une fonction donnée par une expression.",
+        "Reconnaître et représenter une fonction linéaire ou affine, et modéliser une situation simple avec une fonction."
+      ],
+      "skill_ids": [
+        "3e-fonctions-lineaires-affines-skill-image-antecedent",
+        "3e-fonctions-lineaires-affines-skill-representer",
+        "3e-fonctions-lineaires-affines-skill-modeliser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-fonctions-lineaires-affines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-fonctions-lineaires-affines-revision_sheet",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-fonctions-lineaires-affines"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Utiliser le vocabulaire fonction, image, antécédent et les notations f(x) et x ↦ f(x).",
+        "Calculer l’image et un antécédent d’un nombre pour une fonction donnée par une expression.",
+        "Reconnaître et représenter une fonction linéaire ou affine, et modéliser une situation simple avec une fonction."
+      ],
+      "skill_ids": [
+        "3e-fonctions-lineaires-affines-skill-image-antecedent",
+        "3e-fonctions-lineaires-affines-skill-representer",
+        "3e-fonctions-lineaires-affines-skill-modeliser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-fonctions-lineaires-affines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-fonctions-lineaires-affines-quiz",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-fonctions-lineaires-affines"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Utiliser le vocabulaire fonction, image, antécédent et les notations f(x) et x ↦ f(x).",
+        "Calculer l’image et un antécédent d’un nombre pour une fonction donnée par une expression.",
+        "Reconnaître et représenter une fonction linéaire ou affine, et modéliser une situation simple avec une fonction."
+      ],
+      "skill_ids": [
+        "3e-fonctions-lineaires-affines-skill-image-antecedent",
+        "3e-fonctions-lineaires-affines-skill-representer",
+        "3e-fonctions-lineaires-affines-skill-modeliser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-fonctions-lineaires-affines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-fonctions-lineaires-affines-exercise",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-fonctions-lineaires-affines"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Utiliser le vocabulaire fonction, image, antécédent et les notations f(x) et x ↦ f(x).",
+        "Calculer l’image et un antécédent d’un nombre pour une fonction donnée par une expression.",
+        "Reconnaître et représenter une fonction linéaire ou affine, et modéliser une situation simple avec une fonction."
+      ],
+      "skill_ids": [
+        "3e-fonctions-lineaires-affines-skill-image-antecedent",
+        "3e-fonctions-lineaires-affines-skill-representer",
+        "3e-fonctions-lineaires-affines-skill-modeliser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-fonctions-lineaires-affines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-fonctions-lineaires-affines-assessment",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-fonctions-lineaires-affines"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Utiliser le vocabulaire fonction, image, antécédent et les notations f(x) et x ↦ f(x).",
+        "Calculer l’image et un antécédent d’un nombre pour une fonction donnée par une expression.",
+        "Reconnaître et représenter une fonction linéaire ou affine, et modéliser une situation simple avec une fonction."
+      ],
+      "skill_ids": [
+        "3e-fonctions-lineaires-affines-skill-image-antecedent",
+        "3e-fonctions-lineaires-affines-skill-representer",
+        "3e-fonctions-lineaires-affines-skill-modeliser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-fonctions-lineaires-affines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-fonctions-lineaires-affines-audio",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-fonctions-lineaires-affines"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Utiliser le vocabulaire fonction, image, antécédent et les notations f(x) et x ↦ f(x).",
+        "Calculer l’image et un antécédent d’un nombre pour une fonction donnée par une expression.",
+        "Reconnaître et représenter une fonction linéaire ou affine, et modéliser une situation simple avec une fonction."
+      ],
+      "skill_ids": [
+        "3e-fonctions-lineaires-affines-skill-image-antecedent",
+        "3e-fonctions-lineaires-affines-skill-representer",
+        "3e-fonctions-lineaires-affines-skill-modeliser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-fonctions-lineaires-affines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-fonctions-lineaires-affines-assistant_explanation",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-fonctions-lineaires-affines"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Utiliser le vocabulaire fonction, image, antécédent et les notations f(x) et x ↦ f(x).",
+        "Calculer l’image et un antécédent d’un nombre pour une fonction donnée par une expression.",
+        "Reconnaître et représenter une fonction linéaire ou affine, et modéliser une situation simple avec une fonction."
+      ],
+      "skill_ids": [
+        "3e-fonctions-lineaires-affines-skill-image-antecedent",
+        "3e-fonctions-lineaires-affines-skill-representer",
+        "3e-fonctions-lineaires-affines-skill-modeliser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-fonctions-lineaires-affines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-theoreme-de-thales-course",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-theoreme-de-thales"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître les configurations des triangles emboîtés et du papillon.",
+        "Utiliser le théorème de Thalès pour calculer une longueur.",
+        "Utiliser la réciproque pour démontrer que deux droites sont parallèles, ou pour montrer qu’elles ne le sont pas."
+      ],
+      "skill_ids": [
+        "3e-theoreme-de-thales-skill-calculer",
+        "3e-theoreme-de-thales-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer (« Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) »), pages 135–136 (pagination du PDF).",
+        "Même programme, Thème C – Grandeurs et mesures / Comprendre l’effet de quelques transformations sur les figures géométriques (lien entre proportionnalité, agrandissement-réduction et triangles semblables), page 134."
+      ],
+      "asset_path": "curriculum/lessons/3e-theoreme-de-thales.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-theoreme-de-thales-revision_sheet",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-theoreme-de-thales"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître les configurations des triangles emboîtés et du papillon.",
+        "Utiliser le théorème de Thalès pour calculer une longueur.",
+        "Utiliser la réciproque pour démontrer que deux droites sont parallèles, ou pour montrer qu’elles ne le sont pas."
+      ],
+      "skill_ids": [
+        "3e-theoreme-de-thales-skill-calculer",
+        "3e-theoreme-de-thales-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer (« Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) »), pages 135–136 (pagination du PDF).",
+        "Même programme, Thème C – Grandeurs et mesures / Comprendre l’effet de quelques transformations sur les figures géométriques (lien entre proportionnalité, agrandissement-réduction et triangles semblables), page 134."
+      ],
+      "asset_path": "curriculum/lessons/3e-theoreme-de-thales.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-theoreme-de-thales-quiz",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-theoreme-de-thales"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître les configurations des triangles emboîtés et du papillon.",
+        "Utiliser le théorème de Thalès pour calculer une longueur.",
+        "Utiliser la réciproque pour démontrer que deux droites sont parallèles, ou pour montrer qu’elles ne le sont pas."
+      ],
+      "skill_ids": [
+        "3e-theoreme-de-thales-skill-calculer",
+        "3e-theoreme-de-thales-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer (« Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) »), pages 135–136 (pagination du PDF).",
+        "Même programme, Thème C – Grandeurs et mesures / Comprendre l’effet de quelques transformations sur les figures géométriques (lien entre proportionnalité, agrandissement-réduction et triangles semblables), page 134."
+      ],
+      "asset_path": "curriculum/lessons/3e-theoreme-de-thales.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-theoreme-de-thales-exercise",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-theoreme-de-thales"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître les configurations des triangles emboîtés et du papillon.",
+        "Utiliser le théorème de Thalès pour calculer une longueur.",
+        "Utiliser la réciproque pour démontrer que deux droites sont parallèles, ou pour montrer qu’elles ne le sont pas."
+      ],
+      "skill_ids": [
+        "3e-theoreme-de-thales-skill-calculer",
+        "3e-theoreme-de-thales-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer (« Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) »), pages 135–136 (pagination du PDF).",
+        "Même programme, Thème C – Grandeurs et mesures / Comprendre l’effet de quelques transformations sur les figures géométriques (lien entre proportionnalité, agrandissement-réduction et triangles semblables), page 134."
+      ],
+      "asset_path": "curriculum/lessons/3e-theoreme-de-thales.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-theoreme-de-thales-assessment",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-theoreme-de-thales"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître les configurations des triangles emboîtés et du papillon.",
+        "Utiliser le théorème de Thalès pour calculer une longueur.",
+        "Utiliser la réciproque pour démontrer que deux droites sont parallèles, ou pour montrer qu’elles ne le sont pas."
+      ],
+      "skill_ids": [
+        "3e-theoreme-de-thales-skill-calculer",
+        "3e-theoreme-de-thales-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer (« Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) »), pages 135–136 (pagination du PDF).",
+        "Même programme, Thème C – Grandeurs et mesures / Comprendre l’effet de quelques transformations sur les figures géométriques (lien entre proportionnalité, agrandissement-réduction et triangles semblables), page 134."
+      ],
+      "asset_path": "curriculum/lessons/3e-theoreme-de-thales.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-theoreme-de-thales-audio",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-theoreme-de-thales"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître les configurations des triangles emboîtés et du papillon.",
+        "Utiliser le théorème de Thalès pour calculer une longueur.",
+        "Utiliser la réciproque pour démontrer que deux droites sont parallèles, ou pour montrer qu’elles ne le sont pas."
+      ],
+      "skill_ids": [
+        "3e-theoreme-de-thales-skill-calculer",
+        "3e-theoreme-de-thales-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer (« Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) »), pages 135–136 (pagination du PDF).",
+        "Même programme, Thème C – Grandeurs et mesures / Comprendre l’effet de quelques transformations sur les figures géométriques (lien entre proportionnalité, agrandissement-réduction et triangles semblables), page 134."
+      ],
+      "asset_path": "curriculum/lessons/3e-theoreme-de-thales.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-theoreme-de-thales-assistant_explanation",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-theoreme-de-thales"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître les configurations des triangles emboîtés et du papillon.",
+        "Utiliser le théorème de Thalès pour calculer une longueur.",
+        "Utiliser la réciproque pour démontrer que deux droites sont parallèles, ou pour montrer qu’elles ne le sont pas."
+      ],
+      "skill_ids": [
+        "3e-theoreme-de-thales-skill-calculer",
+        "3e-theoreme-de-thales-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer (« Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) »), pages 135–136 (pagination du PDF).",
+        "Même programme, Thème C – Grandeurs et mesures / Comprendre l’effet de quelques transformations sur les figures géométriques (lien entre proportionnalité, agrandissement-réduction et triangles semblables), page 134."
+      ],
+      "asset_path": "curriculum/lessons/3e-theoreme-de-thales.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-phrase-complexe-course",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-phrase-complexe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif, puis reconnaître une subordonnée conjonctive."
+      ],
+      "skill_ids": [
+        "3e-phrase-complexe-skill-propositions",
+        "3e-phrase-complexe-skill-relations",
+        "3e-phrase-complexe-skill-subordonnees"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 (pagination du PDF).",
+        "Même programme, Terminologie utilisée (phrase simple / complexe, proposition indépendante / principale / subordonnée, coordination / juxtaposition / subordination), page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-phrase-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-phrase-complexe-revision_sheet",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-phrase-complexe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif, puis reconnaître une subordonnée conjonctive."
+      ],
+      "skill_ids": [
+        "3e-phrase-complexe-skill-propositions",
+        "3e-phrase-complexe-skill-relations",
+        "3e-phrase-complexe-skill-subordonnees"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 (pagination du PDF).",
+        "Même programme, Terminologie utilisée (phrase simple / complexe, proposition indépendante / principale / subordonnée, coordination / juxtaposition / subordination), page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-phrase-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-phrase-complexe-quiz",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-phrase-complexe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif, puis reconnaître une subordonnée conjonctive."
+      ],
+      "skill_ids": [
+        "3e-phrase-complexe-skill-propositions",
+        "3e-phrase-complexe-skill-relations",
+        "3e-phrase-complexe-skill-subordonnees"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 (pagination du PDF).",
+        "Même programme, Terminologie utilisée (phrase simple / complexe, proposition indépendante / principale / subordonnée, coordination / juxtaposition / subordination), page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-phrase-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-phrase-complexe-exercise",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-phrase-complexe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif, puis reconnaître une subordonnée conjonctive."
+      ],
+      "skill_ids": [
+        "3e-phrase-complexe-skill-propositions",
+        "3e-phrase-complexe-skill-relations",
+        "3e-phrase-complexe-skill-subordonnees"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 (pagination du PDF).",
+        "Même programme, Terminologie utilisée (phrase simple / complexe, proposition indépendante / principale / subordonnée, coordination / juxtaposition / subordination), page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-phrase-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-phrase-complexe-assessment",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-phrase-complexe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif, puis reconnaître une subordonnée conjonctive."
+      ],
+      "skill_ids": [
+        "3e-phrase-complexe-skill-propositions",
+        "3e-phrase-complexe-skill-relations",
+        "3e-phrase-complexe-skill-subordonnees"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 (pagination du PDF).",
+        "Même programme, Terminologie utilisée (phrase simple / complexe, proposition indépendante / principale / subordonnée, coordination / juxtaposition / subordination), page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-phrase-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-phrase-complexe-audio",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-phrase-complexe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif, puis reconnaître une subordonnée conjonctive."
+      ],
+      "skill_ids": [
+        "3e-phrase-complexe-skill-propositions",
+        "3e-phrase-complexe-skill-relations",
+        "3e-phrase-complexe-skill-subordonnees"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 (pagination du PDF).",
+        "Même programme, Terminologie utilisée (phrase simple / complexe, proposition indépendante / principale / subordonnée, coordination / juxtaposition / subordination), page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-phrase-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-phrase-complexe-assistant_explanation",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-phrase-complexe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif, puis reconnaître une subordonnée conjonctive."
+      ],
+      "skill_ids": [
+        "3e-phrase-complexe-skill-propositions",
+        "3e-phrase-complexe-skill-relations",
+        "3e-phrase-complexe-skill-subordonnees"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 (pagination du PDF).",
+        "Même programme, Terminologie utilisée (phrase simple / complexe, proposition indépendante / principale / subordonnée, coordination / juxtaposition / subordination), page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-phrase-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-accord-participe-passe-course",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-accord-participe-passe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples).",
+        "Accorder le participe passé mis en apposition comme un adjectif."
+      ],
+      "skill_ids": [
+        "3e-accord-participe-passe-skill-etre",
+        "3e-accord-participe-passe-skill-avoir",
+        "3e-accord-participe-passe-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord : participe passé avec être et avec avoir, cas du COD antéposé ; adjectif et participe passé en apposition), page 23 (pagination du PDF).",
+        "Même programme, même section (formes du participe passé : é, i, u et formes avec consonne finale), page 24."
+      ],
+      "asset_path": "curriculum/lessons/3e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-accord-participe-passe-revision_sheet",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-accord-participe-passe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples).",
+        "Accorder le participe passé mis en apposition comme un adjectif."
+      ],
+      "skill_ids": [
+        "3e-accord-participe-passe-skill-etre",
+        "3e-accord-participe-passe-skill-avoir",
+        "3e-accord-participe-passe-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord : participe passé avec être et avec avoir, cas du COD antéposé ; adjectif et participe passé en apposition), page 23 (pagination du PDF).",
+        "Même programme, même section (formes du participe passé : é, i, u et formes avec consonne finale), page 24."
+      ],
+      "asset_path": "curriculum/lessons/3e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-accord-participe-passe-quiz",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-accord-participe-passe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples).",
+        "Accorder le participe passé mis en apposition comme un adjectif."
+      ],
+      "skill_ids": [
+        "3e-accord-participe-passe-skill-etre",
+        "3e-accord-participe-passe-skill-avoir",
+        "3e-accord-participe-passe-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord : participe passé avec être et avec avoir, cas du COD antéposé ; adjectif et participe passé en apposition), page 23 (pagination du PDF).",
+        "Même programme, même section (formes du participe passé : é, i, u et formes avec consonne finale), page 24."
+      ],
+      "asset_path": "curriculum/lessons/3e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-accord-participe-passe-exercise",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-accord-participe-passe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples).",
+        "Accorder le participe passé mis en apposition comme un adjectif."
+      ],
+      "skill_ids": [
+        "3e-accord-participe-passe-skill-etre",
+        "3e-accord-participe-passe-skill-avoir",
+        "3e-accord-participe-passe-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord : participe passé avec être et avec avoir, cas du COD antéposé ; adjectif et participe passé en apposition), page 23 (pagination du PDF).",
+        "Même programme, même section (formes du participe passé : é, i, u et formes avec consonne finale), page 24."
+      ],
+      "asset_path": "curriculum/lessons/3e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-accord-participe-passe-assessment",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-accord-participe-passe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples).",
+        "Accorder le participe passé mis en apposition comme un adjectif."
+      ],
+      "skill_ids": [
+        "3e-accord-participe-passe-skill-etre",
+        "3e-accord-participe-passe-skill-avoir",
+        "3e-accord-participe-passe-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord : participe passé avec être et avec avoir, cas du COD antéposé ; adjectif et participe passé en apposition), page 23 (pagination du PDF).",
+        "Même programme, même section (formes du participe passé : é, i, u et formes avec consonne finale), page 24."
+      ],
+      "asset_path": "curriculum/lessons/3e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-accord-participe-passe-audio",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-accord-participe-passe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples).",
+        "Accorder le participe passé mis en apposition comme un adjectif."
+      ],
+      "skill_ids": [
+        "3e-accord-participe-passe-skill-etre",
+        "3e-accord-participe-passe-skill-avoir",
+        "3e-accord-participe-passe-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord : participe passé avec être et avec avoir, cas du COD antéposé ; adjectif et participe passé en apposition), page 23 (pagination du PDF).",
+        "Même programme, même section (formes du participe passé : é, i, u et formes avec consonne finale), page 24."
+      ],
+      "asset_path": "curriculum/lessons/3e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-accord-participe-passe-assistant_explanation",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-accord-participe-passe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples).",
+        "Accorder le participe passé mis en apposition comme un adjectif."
+      ],
+      "skill_ids": [
+        "3e-accord-participe-passe-skill-etre",
+        "3e-accord-participe-passe-skill-avoir",
+        "3e-accord-participe-passe-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord : participe passé avec être et avec avoir, cas du COD antéposé ; adjectif et participe passé en apposition), page 23 (pagination du PDF).",
+        "Même programme, même section (formes du participe passé : é, i, u et formes avec consonne finale), page 24."
+      ],
+      "asset_path": "curriculum/lessons/3e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-discours-rapporte-course",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-discours-rapporte"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect (pronoms, temps, repères de temps et de lieu) et inversement.",
+        "Choisir une façon de rapporter des paroles et en percevoir l’effet."
+      ],
+      "skill_ids": [
+        "3e-discours-rapporte-skill-reconnaitre",
+        "3e-discours-rapporte-skill-transposer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit (« insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre » ; exercices de réécriture en faisant varier la façon de rapporter les paroles), pages 21–22 (pagination du PDF).",
+        "Même programme, Construire les notions permettant l’analyse et l’élaboration des textes et des discours (« Reconnaître et utiliser les paroles rapportées, directement ou indirectement »), page 26 ; terminologie : discours direct / indirect / indirect libre, page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-discours-rapporte-revision_sheet",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-discours-rapporte"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect (pronoms, temps, repères de temps et de lieu) et inversement.",
+        "Choisir une façon de rapporter des paroles et en percevoir l’effet."
+      ],
+      "skill_ids": [
+        "3e-discours-rapporte-skill-reconnaitre",
+        "3e-discours-rapporte-skill-transposer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit (« insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre » ; exercices de réécriture en faisant varier la façon de rapporter les paroles), pages 21–22 (pagination du PDF).",
+        "Même programme, Construire les notions permettant l’analyse et l’élaboration des textes et des discours (« Reconnaître et utiliser les paroles rapportées, directement ou indirectement »), page 26 ; terminologie : discours direct / indirect / indirect libre, page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-discours-rapporte-quiz",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-discours-rapporte"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect (pronoms, temps, repères de temps et de lieu) et inversement.",
+        "Choisir une façon de rapporter des paroles et en percevoir l’effet."
+      ],
+      "skill_ids": [
+        "3e-discours-rapporte-skill-reconnaitre",
+        "3e-discours-rapporte-skill-transposer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit (« insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre » ; exercices de réécriture en faisant varier la façon de rapporter les paroles), pages 21–22 (pagination du PDF).",
+        "Même programme, Construire les notions permettant l’analyse et l’élaboration des textes et des discours (« Reconnaître et utiliser les paroles rapportées, directement ou indirectement »), page 26 ; terminologie : discours direct / indirect / indirect libre, page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-discours-rapporte-exercise",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-discours-rapporte"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect (pronoms, temps, repères de temps et de lieu) et inversement.",
+        "Choisir une façon de rapporter des paroles et en percevoir l’effet."
+      ],
+      "skill_ids": [
+        "3e-discours-rapporte-skill-reconnaitre",
+        "3e-discours-rapporte-skill-transposer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit (« insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre » ; exercices de réécriture en faisant varier la façon de rapporter les paroles), pages 21–22 (pagination du PDF).",
+        "Même programme, Construire les notions permettant l’analyse et l’élaboration des textes et des discours (« Reconnaître et utiliser les paroles rapportées, directement ou indirectement »), page 26 ; terminologie : discours direct / indirect / indirect libre, page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-discours-rapporte-assessment",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-discours-rapporte"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect (pronoms, temps, repères de temps et de lieu) et inversement.",
+        "Choisir une façon de rapporter des paroles et en percevoir l’effet."
+      ],
+      "skill_ids": [
+        "3e-discours-rapporte-skill-reconnaitre",
+        "3e-discours-rapporte-skill-transposer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit (« insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre » ; exercices de réécriture en faisant varier la façon de rapporter les paroles), pages 21–22 (pagination du PDF).",
+        "Même programme, Construire les notions permettant l’analyse et l’élaboration des textes et des discours (« Reconnaître et utiliser les paroles rapportées, directement ou indirectement »), page 26 ; terminologie : discours direct / indirect / indirect libre, page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-discours-rapporte-audio",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-discours-rapporte"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect (pronoms, temps, repères de temps et de lieu) et inversement.",
+        "Choisir une façon de rapporter des paroles et en percevoir l’effet."
+      ],
+      "skill_ids": [
+        "3e-discours-rapporte-skill-reconnaitre",
+        "3e-discours-rapporte-skill-transposer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit (« insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre » ; exercices de réécriture en faisant varier la façon de rapporter les paroles), pages 21–22 (pagination du PDF).",
+        "Même programme, Construire les notions permettant l’analyse et l’élaboration des textes et des discours (« Reconnaître et utiliser les paroles rapportées, directement ou indirectement »), page 26 ; terminologie : discours direct / indirect / indirect libre, page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-discours-rapporte-assistant_explanation",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-discours-rapporte"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect (pronoms, temps, repères de temps et de lieu) et inversement.",
+        "Choisir une façon de rapporter des paroles et en percevoir l’effet."
+      ],
+      "skill_ids": [
+        "3e-discours-rapporte-skill-reconnaitre",
+        "3e-discours-rapporte-skill-transposer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit (« insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre » ; exercices de réécriture en faisant varier la façon de rapporter les paroles), pages 21–22 (pagination du PDF).",
+        "Même programme, Construire les notions permettant l’analyse et l’élaboration des textes et des discours (« Reconnaître et utiliser les paroles rapportées, directement ou indirectement »), page 26 ; terminologie : discours direct / indirect / indirect libre, page 26."
+      ],
+      "asset_path": "curriculum/lessons/3e-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "cm2-participe-passe",
+  "title": "Accorder le participe passé avec être et avoir",
+  "chapter_id": "cm2-participe-passe",
+  "program_id": "CM2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître le passé composé (auxiliaire + participe passé) et retrouver l’infinitif.",
+    "Accorder le participe passé employé avec être avec le sujet.",
+    "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples)."
+  ],
+  "skill_ids": [
+    "cm2-participe-passe-skill",
+    "cm2-participe-passe-avoir"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le passé composé en deux parties",
+      "text": "Le passé composé se forme avec un auxiliaire (être ou avoir au présent) et un participe passé : « elle est arrivée », « nous avons chanté ». Le participe passé des verbes du 1er groupe se termine par -é (chanter, chanté), celui de beaucoup de verbes du 2e groupe par -i (finir, fini). Certains verbes du 3e groupe sont irréguliers : faire, fait ; prendre, pris ; voir, vu ; venir, venu ; vouloir, voulu."
+    },
+    {
+      "title": "Avec être : on accorde avec le sujet",
+      "text": "Avec l’auxiliaire être, le participe passé s’accorde en genre et en nombre avec le sujet, comme un adjectif : « Léa est partie. » « Les garçons sont partis. » « Les filles sont arrivées. » Si le sujet réunit un garçon et une fille, on accorde au masculin pluriel : « Paul et Léa sont allés au musée. » Ce sont surtout des verbes comme aller, venir, arriver, partir, tomber, entrer, sortir, rester."
+    },
+    {
+      "title": "Avec avoir : pas d’accord avec le sujet",
+      "text": "Avec avoir, on n’accorde pas avec le sujet : « Les enfants ont chanté. » « Elle a mangé. » Mais si le COD est placé avant le verbe, le participe passé s’accorde avec lui. On cherche : « J’ai cueilli quoi ? » dans « Les pommes que j’ai cueillies sont sucrées. » Le mot « que » reprend « les pommes » (féminin pluriel), placé avant : on écrit cueillies. Comparer : « J’ai cueilli des pommes. » Le COD est après le verbe : on écrit cueilli, sans accord."
+    }
+  ],
+  "revision_sheet": [
+    "Passé composé = auxiliaire (être ou avoir) + participe passé.",
+    "Avec être : le participe passé s’accorde avec le sujet (elle est partie ; ils sont partis).",
+    "Avec avoir : pas d’accord avec le sujet (ils ont chanté).",
+    "Avec avoir : accord avec le COD seulement s’il est placé avant le verbe (les pommes que j’ai cueillies).",
+    "COD après le verbe : pas d’accord (j’ai cueilli des pommes)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Complète : « Léa est … au parc. »",
+      "choices": [
+        "parti",
+        "partie",
+        "partis"
+      ],
+      "correct_index": 1,
+      "explanation": "Avec être, on accorde avec le sujet « Léa » : féminin singulier. On écrit partie."
+    },
+    {
+      "prompt": "Complète : « Les élèves sont … à l’heure. »",
+      "choices": [
+        "arrivé",
+        "arrivés",
+        "arrivées"
+      ],
+      "correct_index": 1,
+      "explanation": "Le sujet « les élèves » est masculin pluriel : on écrit arrivés."
+    },
+    {
+      "prompt": "Complète : « Paul et Léa sont … au musée. »",
+      "choices": [
+        "allé",
+        "allée",
+        "allés",
+        "allées"
+      ],
+      "correct_index": 2,
+      "explanation": "Le sujet réunit un garçon et une fille : on accorde au masculin pluriel. On écrit allés."
+    },
+    {
+      "prompt": "Complète : « Les chansons que j’ai … sont belles. »",
+      "choices": [
+        "chanté",
+        "chantée",
+        "chantées"
+      ],
+      "correct_index": 2,
+      "explanation": "Le COD « que » reprend « les chansons », féminin pluriel, et il est placé avant le verbe. On écrit chantées."
+    },
+    {
+      "prompt": "Complète : « Les enfants ont … leurs devoirs. »",
+      "choices": [
+        "finis",
+        "fini",
+        "finie"
+      ],
+      "correct_index": 1,
+      "explanation": "Avec avoir, le COD « leurs devoirs » est placé après le verbe : pas d’accord. On écrit fini."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Complète avec le participe passé qui convient : a) Mes cousines sont (arriver) hier. b) Elle est (tomber) dans l’escalier. c) Ils sont (sortir) tôt.",
+      "solution": "a) arrivées. b) tombée. c) sortis.",
+      "success_criterion": "Repérer l’auxiliaire être puis accorder avec le sujet."
+    },
+    {
+      "prompt": "Récris au féminin : « Il est parti. » et « Ils sont venus. »",
+      "solution": "Elle est partie. Elles sont venues.",
+      "success_criterion": "Changer le pronom et accorder le participe passé."
+    },
+    {
+      "prompt": "Complète : a) La tarte que maman a (faire) était délicieuse. b) Maman a (faire) une tarte.",
+      "solution": "a) faite (le COD « que » = la tarte est placé avant). b) fait (le COD est après le verbe).",
+      "success_criterion": "Chercher le COD et regarder s’il est placé avant le verbe."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique pourquoi on écrit « Les filles sont tombées » mais « Les filles ont chanté ».",
+      "solution": "Avec être, le participe passé s’accorde avec le sujet « les filles » (féminin pluriel) : tombées. Avec avoir, il ne s’accorde pas avec le sujet, et il n’y a pas de COD placé avant : chanté.",
+      "success_criterion": "Distinguer les deux auxiliaires et la règle de chacun."
+    },
+    {
+      "prompt": "Complète : « Les fleurs que Tom a (cueillir) sont rouges. »",
+      "solution": "cueillies : le COD « que » reprend « les fleurs » (féminin pluriel) et il est placé avant le verbe.",
+      "success_criterion": "Trouver le COD et son genre et nombre."
+    },
+    {
+      "prompt": "Transforme avec « elles » : « Il est allé au marché. »",
+      "solution": "Elles sont allées au marché.",
+      "success_criterion": "Changer l’auxiliaire (sont) et accorder allées."
+    }
+  ],
+  "audio_transcript": "Le passé composé se forme avec un auxiliaire, être ou avoir, et un participe passé. Avec être, le participe passé s’accorde avec le sujet. On écrit : Léa est partie, les garçons sont partis, les filles sont arrivées. Avec avoir, on n’accorde pas avec le sujet : les enfants ont chanté. Mais si le complément d’objet direct est placé avant le verbe, on accorde avec lui : les pommes que j’ai cueillies. Pour le trouver, on pose la question : j’ai cueilli quoi ? La réponse, les pommes, est avant le verbe, donc on écrit cueillies.",
+  "guided_explanation": "Commence toujours par regarder l’auxiliaire. S’il s’agit d’être, accorde le participe comme un adjectif avec le sujet : demande-toi qui fait l’action, est-ce féminin, est-ce pluriel ? S’il s’agit d’avoir, ne regarde pas le sujet. Cherche le COD en demandant « quoi ? » ou « qui ? » après le verbe. Est-il avant le verbe, par exemple avec « que », « la » ou « les » ? Alors accorde avec lui. Sinon, ne change rien au participe passé. Entraîne-toi avec : « Les lettres que j’ai écrites » et « J’ai écrit des lettres »."
+}

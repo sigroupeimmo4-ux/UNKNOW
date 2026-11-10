@@ -1,0 +1,130 @@
+{
+  "id": "ce2-accords-groupe-nominal",
+  "title": "Accorder les mots dans le groupe nominal",
+  "chapter_id": "ce2-accords-groupe-nominal",
+  "program_id": "CE2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Repérer le nom, le déterminant et l’adjectif dans un groupe nominal.",
+    "Mettre au pluriel des groupes nominaux (-s, -x, -al/-aux).",
+    "Mettre au féminin des noms et des adjectifs usuels."
+  ],
+  "skill_ids": [
+    "ce2-accords-groupe-nominal-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "La chaine d’accords",
+      "text": "Un groupe nominal est formé d’un déterminant et d’un nom, souvent complétés par un adjectif : « une petite fille ». Le nom commande les accords : le déterminant et l’adjectif prennent le même genre (masculin ou féminin) et le même nombre (singulier ou pluriel) que lui. Au pluriel : « des petites filles ». Toutes les marques forment une chaine d’accords."
+    },
+    {
+      "title": "Le pluriel des noms et des adjectifs",
+      "text": "En général, on ajoute -s : un chat noir devient des chats noirs. En général, les noms en -eau ou en -eu prennent un -x : un château, des châteaux ; un jeu, des jeux. En général, les noms en -al font -aux : un cheval, des chevaux ; un journal, des journaux. Les mots qui finissent par -s, -x ou -z ne changent pas : un prix, des prix ; une souris, des souris."
+    },
+    {
+      "title": "Le féminin",
+      "text": "Souvent, on ajoute un -e : grand devient grande, un ami devient une amie. Mais parfois le mot change davantage : un lecteur devient une lectrice, un acteur devient une actrice, joyeux devient joyeuse. Exemple complet : « un lecteur joyeux » devient « une lectrice joyeuse »."
+    },
+    {
+      "title": "La méthode",
+      "text": "Pour accorder un groupe nominal : 1) je trouve le nom ; 2) je cherche son genre et son nombre ; 3) j’accorde le déterminant et l’adjectif. Exemple : « les (petit) fleurs (jaune) ». Le nom fleurs est féminin pluriel. J’écris : les petites fleurs jaunes."
+    }
+  ],
+  "revision_sheet": [
+    "Dans un groupe nominal, le déterminant et l’adjectif s’accordent avec le nom en genre et en nombre.",
+    "Pluriel : -s en général ; -x (château, châteaux ; jeu, jeux) ; -al devient -aux (cheval, chevaux) ; les mots en -s, -x, -z ne changent pas (un prix, des prix).",
+    "Féminin : on ajoute souvent -e (grand, grande) ; parfois le mot change (lecteur, lectrice ; joyeux, joyeuse).",
+    "Méthode : je trouve le nom, je cherche son genre et son nombre, puis j’accorde les autres mots."
+  ],
+  "quiz": [
+    {
+      "prompt": "Comment écrit-on : « Les (petit) chats dorment. » ?",
+      "choices": [
+        "petit",
+        "petits",
+        "petites"
+      ],
+      "correct_index": 1,
+      "explanation": "Chats est masculin pluriel : l’adjectif prend un -s et s’écrit petits."
+    },
+    {
+      "prompt": "Quel est le pluriel de « un cheval » ?",
+      "choices": [
+        "des chevaux",
+        "des chevals",
+        "des chevalx"
+      ],
+      "correct_index": 0,
+      "explanation": "Les noms en -al font leur pluriel en -aux : des chevaux."
+    },
+    {
+      "prompt": "Quel est le féminin de « joyeux » ?",
+      "choices": [
+        "joyeuxe",
+        "joyeusse",
+        "joyeuse"
+      ],
+      "correct_index": 2,
+      "explanation": "Le masculin joyeux devient joyeuse au féminin."
+    },
+    {
+      "prompt": "Quel groupe nominal est correctement accordé ?",
+      "choices": [
+        "des belles fleurs rouges",
+        "des belle fleurs rouge",
+        "des belles fleur rouges"
+      ],
+      "correct_index": 0,
+      "explanation": "Fleurs est féminin pluriel : le déterminant, l’adjectif belles et l’adjectif rouges sont accordés avec lui."
+    },
+    {
+      "prompt": "Quel est le pluriel de « un prix » ?",
+      "choices": [
+        "des prixs",
+        "des prixes",
+        "des prix"
+      ],
+      "correct_index": 2,
+      "explanation": "Les noms qui se terminent par -x au singulier ne changent pas au pluriel : des prix."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Accorde les mots entre parenthèses : une (petit) maison (blanc) ; des (ami) (joyeux).",
+      "solution": "une petite maison blanche ; des amis joyeux.",
+      "success_criterion": "Accorder chaque mot avec le nom : -e au féminin, -s au pluriel, joyeux qui ne change pas au pluriel."
+    },
+    {
+      "prompt": "Écris au pluriel : un animal sauvage ; un jeu amusant ; un journal intéressant.",
+      "solution": "des animaux sauvages ; des jeux amusants ; des journaux intéressants.",
+      "success_criterion": "Utiliser -aux, -x et -s correctement et accorder aussi l’adjectif."
+    },
+    {
+      "prompt": "Écris au féminin : un voisin gentil ; un acteur joyeux ; un lecteur curieux.",
+      "solution": "une voisine gentille ; une actrice joyeuse ; une lectrice curieuse.",
+      "success_criterion": "Modifier le nom et l’adjectif et changer le déterminant."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Recopie en corrigeant : « un grande chien noirs ».",
+      "solution": "un grand chien noir.",
+      "success_criterion": "Repérer que chien est masculin singulier et accorder grand et noir en conséquence."
+    },
+    {
+      "prompt": "Explique la chaine d’accords dans « les petites filles joyeuses ».",
+      "solution": "Le nom filles est féminin pluriel. Les est un déterminant au pluriel, petites prend -e (féminin) et -s (pluriel), joyeuses est le féminin de joyeux avec un -s pour le pluriel.",
+      "success_criterion": "Nommer le nom, donner son genre et son nombre et expliquer les marques sur les autres mots."
+    },
+    {
+      "prompt": "Écris au pluriel : le cheval blanc et le gâteau chaud.",
+      "solution": "les chevaux blancs et les gâteaux chauds.",
+      "success_criterion": "Utiliser -aux et -x pour les noms et mettre les adjectifs au pluriel."
+    }
+  ],
+  "audio_transcript": "Dans un groupe nominal, le nom commande les accords. Le déterminant et l’adjectif prennent le même genre et le même nombre que le nom. Une petite fille devient des petites filles au pluriel. En général, on ajoute un s pour le pluriel. Les noms en eau ou en eu prennent un x : des châteaux, des jeux. Les noms en al font aux : un cheval, des chevaux. Au féminin, on ajoute souvent un e : grand, grande. Parfois, le mot change : lecteur, lectrice ; joyeux, joyeuse.",
+  "guided_explanation": "Avant d’écrire un groupe nominal, cherche d’abord le nom. Demande-toi : est-ce un seul ou plusieurs ? Est-ce masculin ou féminin ? Ensuite, accorde le déterminant et l’adjectif avec ce nom. Prenons « les (petit) fleurs (jaune) ». Fleurs est féminin et pluriel. Petit devient petites, jaune devient jaunes. Tu écris : les petites fleurs jaunes. Relis chaque mot en cherchant les marques -e et -s ; elles te montrent la chaine d’accords."
+}

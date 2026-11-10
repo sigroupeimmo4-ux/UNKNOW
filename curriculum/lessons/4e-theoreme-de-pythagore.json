@@ -1,0 +1,126 @@
+{
+  "id": "4e-theoreme-de-pythagore",
+  "title": "Le théorème de Pythagore et sa réciproque",
+  "chapter_id": "4e-theoreme-de-pythagore",
+  "program_id": "4e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître l’hypoténuse d’un triangle rectangle.",
+    "Calculer la longueur d’un côté d’un triangle rectangle avec le théorème de Pythagore.",
+    "Utiliser la réciproque pour savoir si un triangle est rectangle."
+  ],
+  "skill_ids": [
+    "4e-theoreme-de-pythagore-skill",
+    "4e-theoreme-de-pythagore-sqrt"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le triangle rectangle et le théorème",
+      "text": "Dans un triangle rectangle, le côté opposé à l’angle droit s’appelle l’hypoténuse : c’est le plus long côté. Théorème de Pythagore : si le triangle ABC est rectangle en A, alors BC² = AB² + AC². Le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés. Exemple : un triangle de côtés 3, 4 et 5 : 3² + 4² = 9 + 16 = 25 = 5²."
+    },
+    {
+      "title": "Calculer l’hypoténuse",
+      "text": "ABC est rectangle en A avec AB = 6 cm et AC = 8 cm. On rédige : « Le triangle ABC est rectangle en A, donc d’après le théorème de Pythagore, BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100. Donc BC = √100 = 10 cm. » Quand le carré n’est pas parfait, on utilise la calculatrice : avec AB = 2 cm et AC = 3 cm, BC² = 4 + 9 = 13 et BC = √13 ≈ 3,6 cm (valeur arrondie au dixième)."
+    },
+    {
+      "title": "Calculer un côté de l’angle droit",
+      "text": "ABC est rectangle en A, BC = 13 cm (hypoténuse) et AB = 5 cm. On écrit BC² = AB² + AC², donc AC² = BC² − AB² = 169 − 25 = 144, et AC = √144 = 12 cm. Piège à éviter : quand on cherche un côté de l’angle droit, on soustrait ; on n’additionne que pour trouver l’hypoténuse. Vérification : l’hypoténuse doit rester le plus grand côté."
+    },
+    {
+      "title": "La réciproque : un triangle est-il rectangle ?",
+      "text": "Réciproque : si, dans un triangle ABC, on a BC² = AB² + AC², alors le triangle ABC est rectangle en A. On teste le plus grand côté. Triangle de côtés 7, 24 et 25 : 7² + 24² = 49 + 576 = 625 et 25² = 625. Les deux résultats sont égaux : le triangle est rectangle. Triangle de côtés 5, 6 et 8 : 5² + 6² = 25 + 36 = 61 mais 8² = 64. Les résultats sont différents : le triangle n’est pas rectangle."
+    }
+  ],
+  "revision_sheet": [
+    "L’hypoténuse est le côté opposé à l’angle droit, et c’est le plus long côté.",
+    "Si ABC est rectangle en A : BC² = AB² + AC².",
+    "Pour l’hypoténuse on additionne les carrés ; pour un autre côté on soustrait.",
+    "Réciproque : si BC² = AB² + AC², alors ABC est rectangle en A. On compare le carré du plus grand côté à la somme des carrés des deux autres."
+  ],
+  "quiz": [
+    {
+      "prompt": "Le triangle ABC est rectangle en B. Quelle est son hypoténuse ?",
+      "choices": [
+        "[AB]",
+        "[AC]",
+        "[BC]"
+      ],
+      "correct_index": 1,
+      "explanation": "L’hypoténuse est le côté opposé à l’angle droit. L’angle droit est en B, le côté opposé est [AC]."
+    },
+    {
+      "prompt": "DEF est rectangle en D, avec DE = 9 cm et DF = 12 cm. Combien mesure EF ?",
+      "choices": [
+        "15 cm",
+        "21 cm",
+        "225 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "EF² = DE² + DF² = 81 + 144 = 225, donc EF = √225 = 15 cm. 225 est le carré de la longueur, pas la longueur."
+    },
+    {
+      "prompt": "ABC est rectangle en A, avec BC = 10 cm et AB = 6 cm. Combien mesure AC ?",
+      "choices": [
+        "4 cm",
+        "8 cm",
+        "16 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "BC est l’hypoténuse : AC² = BC² − AB² = 100 − 36 = 64, donc AC = 8 cm."
+    },
+    {
+      "prompt": "Un triangle a pour côtés 8 cm, 15 cm et 17 cm. Est-il rectangle ?",
+      "choices": [
+        "Oui, car 8² + 15² = 17²",
+        "Non, car 8 + 15 ≠ 17",
+        "Non, car 8² + 15² ≠ 17²"
+      ],
+      "correct_index": 0,
+      "explanation": "8² + 15² = 64 + 225 = 289 et 17² = 289. Les deux résultats sont égaux : d’après la réciproque, le triangle est rectangle."
+    },
+    {
+      "prompt": "MNP est rectangle en M. Quelle égalité est correcte ?",
+      "choices": [
+        "NP² = MN² + MP²",
+        "MN² = NP² + MP²",
+        "NP = MN + MP"
+      ],
+      "correct_index": 0,
+      "explanation": "L’hypoténuse est [NP], opposée à l’angle droit en M. Son carré est égal à la somme des carrés des deux autres côtés."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "ABC est rectangle en A, avec AB = 5 cm et AC = 12 cm. Calcule BC.",
+      "solution": "BC² = 5² + 12² = 25 + 144 = 169, donc BC = 13 cm.",
+      "success_criterion": "Identifier l’hypoténuse, additionner les carrés, puis prendre la racine carrée."
+    },
+    {
+      "prompt": "IJK est rectangle en I, avec JK = 17 cm et IJ = 8 cm. Calcule IK.",
+      "solution": "IK² = JK² − IJ² = 289 − 64 = 225, donc IK = 15 cm.",
+      "success_criterion": "Reconnaître que JK est l’hypoténuse et soustraire les carrés."
+    },
+    {
+      "prompt": "Un triangle a pour côtés 6 cm, 8 cm et 11 cm. Est-il rectangle ? Justifie.",
+      "solution": "6² + 8² = 36 + 64 = 100 et 11² = 121. Comme 100 ≠ 121, le triangle n’est pas rectangle.",
+      "success_criterion": "Comparer le carré du plus grand côté à la somme des carrés des deux autres."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "RST est rectangle en R, avec RS = 4 cm et RT = 7 cm. Calcule ST, arrondi au dixième.",
+      "solution": "ST² = 4² + 7² = 16 + 49 = 65, donc ST = √65 ≈ 8,1 cm.",
+      "success_criterion": "Rédiger la propriété, calculer 65 et utiliser la calculatrice pour une valeur approchée."
+    },
+    {
+      "prompt": "Une échelle de 2,5 m est appuyée contre un mur vertical. Son pied est à 1,5 m du mur, sur un sol horizontal. À quelle hauteur l’échelle touche-t-elle le mur ?",
+      "solution": "Le triangle formé par le mur, le sol et l’échelle est rectangle ; l’échelle est l’hypoténuse. h² = 2,5² − 1,5² = 6,25 − 2,25 = 4, donc h = 2 m.",
+      "success_criterion": "Modéliser par un triangle rectangle, reconnaître l’hypoténuse (l’échelle) et soustraire les carrés."
+    }
+  ],
+  "audio_transcript": "Dans un triangle rectangle, le côté opposé à l’angle droit s’appelle l’hypoténuse. Le théorème de Pythagore dit que le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés. Si le triangle ABC est rectangle en A, alors BC au carré égale AB au carré plus AC au carré. Avec six et huit, on trouve trente-six plus soixante-quatre, soit cent, donc l’hypoténuse mesure dix. La réciproque permet de savoir si un triangle est rectangle : on compare le carré du plus grand côté à la somme des carrés des deux autres.",
+  "guided_explanation": "Commence toujours par faire un petit schéma et par repérer l’angle droit : le côté en face est l’hypoténuse. Ensuite pose-toi la question : cherche-t-on l’hypoténuse (on additionne les carrés) ou un autre côté (on soustrait) ? Termine en prenant la racine carrée, car on a calculé un carré de longueur. Enfin, vérifie : l’hypoténuse doit être plus longue que les deux autres côtés. Si ce n’est pas le cas, reviens à ton calcul."
+}

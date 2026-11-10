@@ -20,7 +20,6 @@ LINKS=[
 ('cours.html','Mes cours','course'),
 ('fiches.html','Fiches de révision','sheet'),
 ('audio.html','Audio','audio'),
-('videos.html','Vidéos','video'),
 ('quiz.html','Quiz','quiz'),
 ('calendrier.html','Calendrier','programmes'),
 ('mes-notes.html','Mes résultats scolaires','progress'),

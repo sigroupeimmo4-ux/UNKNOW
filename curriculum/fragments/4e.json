@@ -1,0 +1,1322 @@
+{
+  "programs": [
+    {
+      "id": "4e-mathematiques-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "4e",
+      "subject_id": "mathematiques-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/89/1/ensel714_annexe3_1312891.pdf",
+        "title": "Mathématiques",
+        "text_reference": "Mathématiques (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "16efa795f59f25f726e3f443934198e22c01fad04e1ba78a01ed10a11a3a14eb",
+        "source_id": "6f0365b6a54fc983"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": "2027-08-31",
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "nombres-et-calculs",
+          "title": "Nombres et calculs",
+          "source_locator": "Annexe 3 du cycle 4, Mathématiques / Thème A – Nombres et calculs, pages 130–132 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-relatifs-addition-soustraction",
+              "title": "Additionner et soustraire des nombres relatifs",
+              "title_type": "editorial",
+              "official_section": "Utiliser les nombres pour comparer, calculer et résoudre des problèmes",
+              "notions": [
+                "Nombres relatifs (positifs et négatifs) et opposé",
+                "Repérage et comparaison sur une droite graduée",
+                "Addition et soustraction de nombres relatifs"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-relatifs-addition-soustraction-knowledge",
+                  "text": "Nombres décimaux (positifs et négatifs), notion d’opposé.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, page 130 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-relatifs-addition-soustraction-skill",
+                  "text": "Calculer avec des nombres relatifs, des fractions, des nombres décimaux.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, page 131 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-relatifs-addition-soustraction-order",
+                  "text": "Comparer, ranger, encadrer des nombres rationnels en écriture décimale, fractionnaire ou scientifique.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comparaisons de nombres, page 130 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+            },
+            {
+              "id": "4e-calcul-litteral-developper-reduire",
+              "title": "Calcul littéral : réduire et développer",
+              "title_type": "editorial",
+              "official_section": "Utiliser le calcul littéral",
+              "notions": [
+                "Conventions d’écriture du calcul littéral",
+                "Réduction d’une expression",
+                "Distributivité simple",
+                "Preuve d’une propriété générale"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-calcul-litteral-developper-reduire-knowledge",
+                  "text": "Propriétés de distributivité (simple et double) ; ce chapitre traite la distributivité simple.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, page 131 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-calcul-litteral-developper-reduire-skill",
+                  "text": "Développer, factoriser, réduire des expressions algébriques dans des cas très simples (ce chapitre traite le développement et la réduction).",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, page 131 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-calcul-litteral-developper-reduire-general",
+                  "text": "Utiliser le calcul littéral pour traduire une propriété générale (par exemple la distributivité simple) et pour démontrer un résultat général (par exemple que la somme de trois entiers consécutifs est un multiple de trois).",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, page 131 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "espace-et-geometrie",
+          "title": "Espace et géométrie",
+          "source_locator": "Annexe 3 du cycle 4, Mathématiques / Thème D – Espace et géométrie, pages 135–136 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-theoreme-de-pythagore",
+              "title": "Le théorème de Pythagore et sa réciproque",
+              "title_type": "editorial",
+              "official_section": "Utiliser les notions de géométrie plane pour démontrer",
+              "notions": [
+                "Triangle rectangle et hypoténuse",
+                "Calcul d’une longueur avec le théorème de Pythagore",
+                "Réciproque : reconnaître un triangle rectangle",
+                "Racine carrée"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-theoreme-de-pythagore-knowledge",
+                  "text": "Le théorème de Pythagore et sa réciproque.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, page 135 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-theoreme-de-pythagore-skill",
+                  "text": "Mobiliser les connaissances des figures, des configurations et des transformations au programme pour déterminer des grandeurs géométriques.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie / Compétences associées, pages 135–136 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-theoreme-de-pythagore-sqrt",
+                  "text": "Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, page 131 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "4e-francais-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "4e",
+      "subject_id": "francais-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "title": "Français",
+        "text_reference": "Français (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "ae4c7689102b4b3f7e0e573bf03fe5a92ca66c54343a3c215afda34cea1dc7be",
+        "source_id": "7b8272bca664386f"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": "2027-08-31",
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "etude-de-la-langue",
+          "title": "Étude de la langue (grammaire, orthographe, lexique)",
+          "source_locator": "Annexe 3 du cycle 4, Français / Étude de la langue (grammaire, orthographe, lexique), pages 21–26 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-phrase-complexe-propositions",
+              "title": "La phrase complexe : juxtaposition, coordination, subordination",
+              "title_type": "editorial",
+              "official_section": "Analyser le fonctionnement de la phrase simple et de la phrase complexe",
+              "notions": [
+                "Phrase simple et phrase complexe",
+                "Juxtaposition, coordination, subordination",
+                "Proposition subordonnée relative et fonction du pronom relatif"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-phrase-complexe-propositions-knowledge",
+                  "text": "Distinguer phrase simple / complexe ; connaître les notions de juxtaposition, coordination, subordination.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Fonctionnement de la phrase complexe, page 23 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-phrase-complexe-propositions-skill",
+                  "text": "Identifier les constituants de la phrase complexe et connaître les notions de juxtaposition, coordination, subordination.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Fonctionnement de la phrase complexe, page 23 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-phrase-complexe-propositions-relative",
+                  "text": "Comprendre le fonctionnement de la proposition subordonnée relative et identifier la fonction du pronom relatif dans la subordonnée.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Fonctionnement de la phrase complexe, page 23 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+            },
+            {
+              "id": "4e-accord-participe-passe",
+              "title": "L’accord du participe passé avec être et avoir",
+              "title_type": "editorial",
+              "official_section": "Consolider l’orthographe lexicale et grammaticale",
+              "notions": [
+                "Participe passé employé avec être",
+                "Participe passé employé avec avoir et COD placé avant le verbe",
+                "Formes du participe passé (é, i, u, consonne finale)"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-accord-participe-passe-knowledge",
+                  "text": "Fonctionnement des chaînes d’accord ; formes du participe passé des verbes (é, i, u et formes avec consonne finale).",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-accord-participe-passe-skill",
+                  "text": "Maîtriser l’accord du participe passé avec être (à rapprocher de l’adjectif) et avec avoir (cas du COD antéposé), cas simples.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, page 23 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "culture-litteraire-et-artistique",
+          "title": "Culture littéraire et artistique",
+          "source_locator": "Annexe 3 du cycle 4, Français / Culture littéraire et artistique, Quatrième, pages 29–30 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-informer-s-informer-deformer",
+              "title": "Informer, s’informer, déformer ?",
+              "title_type": "editorial",
+              "official_section": "Agir sur le monde — Informer, s’informer, déformer ?",
+              "notions": [
+                "Fait, opinion et information",
+                "Vérification et recoupement des sources",
+                "Citation réduite, titre et montage"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-informer-s-informer-deformer-knowledge",
+                  "text": "Comprendre l’importance de la vérification et du recoupement des sources, la différence entre fait brut et information, les effets de la rédaction, de la citation réduite et du montage.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-informer-s-informer-deformer-skill",
+                  "text": "Découvrir des articles, des reportages, des images d’information sur des supports et dans des formats variés, se rapportant à un même événement ou à une même question de société.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-informer-s-informer-deformer-sources",
+                  "text": "Comprendre l’importance de la vérification et du recoupement des sources et repérer les effets de la rédaction, de la citation réduite et du montage.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "4e-relatifs-addition-soustraction-course",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-relatifs-addition-soustraction"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Repérer, comparer et ranger des nombres relatifs sur une droite graduée.",
+        "Additionner deux nombres relatifs en utilisant les distances à zéro et les signes.",
+        "Transformer une soustraction en addition de l’opposé et calculer."
+      ],
+      "skill_ids": [
+        "4e-relatifs-addition-soustraction-skill",
+        "4e-relatifs-addition-soustraction-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-relatifs-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-relatifs-addition-soustraction-revision_sheet",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-relatifs-addition-soustraction"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Repérer, comparer et ranger des nombres relatifs sur une droite graduée.",
+        "Additionner deux nombres relatifs en utilisant les distances à zéro et les signes.",
+        "Transformer une soustraction en addition de l’opposé et calculer."
+      ],
+      "skill_ids": [
+        "4e-relatifs-addition-soustraction-skill",
+        "4e-relatifs-addition-soustraction-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-relatifs-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-relatifs-addition-soustraction-quiz",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-relatifs-addition-soustraction"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Repérer, comparer et ranger des nombres relatifs sur une droite graduée.",
+        "Additionner deux nombres relatifs en utilisant les distances à zéro et les signes.",
+        "Transformer une soustraction en addition de l’opposé et calculer."
+      ],
+      "skill_ids": [
+        "4e-relatifs-addition-soustraction-skill",
+        "4e-relatifs-addition-soustraction-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-relatifs-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-relatifs-addition-soustraction-exercise",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-relatifs-addition-soustraction"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Repérer, comparer et ranger des nombres relatifs sur une droite graduée.",
+        "Additionner deux nombres relatifs en utilisant les distances à zéro et les signes.",
+        "Transformer une soustraction en addition de l’opposé et calculer."
+      ],
+      "skill_ids": [
+        "4e-relatifs-addition-soustraction-skill",
+        "4e-relatifs-addition-soustraction-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-relatifs-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-relatifs-addition-soustraction-assessment",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-relatifs-addition-soustraction"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Repérer, comparer et ranger des nombres relatifs sur une droite graduée.",
+        "Additionner deux nombres relatifs en utilisant les distances à zéro et les signes.",
+        "Transformer une soustraction en addition de l’opposé et calculer."
+      ],
+      "skill_ids": [
+        "4e-relatifs-addition-soustraction-skill",
+        "4e-relatifs-addition-soustraction-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-relatifs-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-relatifs-addition-soustraction-audio",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-relatifs-addition-soustraction"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Repérer, comparer et ranger des nombres relatifs sur une droite graduée.",
+        "Additionner deux nombres relatifs en utilisant les distances à zéro et les signes.",
+        "Transformer une soustraction en addition de l’opposé et calculer."
+      ],
+      "skill_ids": [
+        "4e-relatifs-addition-soustraction-skill",
+        "4e-relatifs-addition-soustraction-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-relatifs-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-relatifs-addition-soustraction-assistant_explanation",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-relatifs-addition-soustraction"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Repérer, comparer et ranger des nombres relatifs sur une droite graduée.",
+        "Additionner deux nombres relatifs en utilisant les distances à zéro et les signes.",
+        "Transformer une soustraction en addition de l’opposé et calculer."
+      ],
+      "skill_ids": [
+        "4e-relatifs-addition-soustraction-skill",
+        "4e-relatifs-addition-soustraction-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-relatifs-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-theoreme-de-pythagore-course",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-theoreme-de-pythagore"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître l’hypoténuse d’un triangle rectangle.",
+        "Calculer la longueur d’un côté d’un triangle rectangle avec le théorème de Pythagore.",
+        "Utiliser la réciproque pour savoir si un triangle est rectangle."
+      ],
+      "skill_ids": [
+        "4e-theoreme-de-pythagore-skill",
+        "4e-theoreme-de-pythagore-sqrt"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-theoreme-de-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-theoreme-de-pythagore-revision_sheet",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-theoreme-de-pythagore"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître l’hypoténuse d’un triangle rectangle.",
+        "Calculer la longueur d’un côté d’un triangle rectangle avec le théorème de Pythagore.",
+        "Utiliser la réciproque pour savoir si un triangle est rectangle."
+      ],
+      "skill_ids": [
+        "4e-theoreme-de-pythagore-skill",
+        "4e-theoreme-de-pythagore-sqrt"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-theoreme-de-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-theoreme-de-pythagore-quiz",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-theoreme-de-pythagore"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître l’hypoténuse d’un triangle rectangle.",
+        "Calculer la longueur d’un côté d’un triangle rectangle avec le théorème de Pythagore.",
+        "Utiliser la réciproque pour savoir si un triangle est rectangle."
+      ],
+      "skill_ids": [
+        "4e-theoreme-de-pythagore-skill",
+        "4e-theoreme-de-pythagore-sqrt"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-theoreme-de-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-theoreme-de-pythagore-exercise",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-theoreme-de-pythagore"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître l’hypoténuse d’un triangle rectangle.",
+        "Calculer la longueur d’un côté d’un triangle rectangle avec le théorème de Pythagore.",
+        "Utiliser la réciproque pour savoir si un triangle est rectangle."
+      ],
+      "skill_ids": [
+        "4e-theoreme-de-pythagore-skill",
+        "4e-theoreme-de-pythagore-sqrt"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-theoreme-de-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-theoreme-de-pythagore-assessment",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-theoreme-de-pythagore"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître l’hypoténuse d’un triangle rectangle.",
+        "Calculer la longueur d’un côté d’un triangle rectangle avec le théorème de Pythagore.",
+        "Utiliser la réciproque pour savoir si un triangle est rectangle."
+      ],
+      "skill_ids": [
+        "4e-theoreme-de-pythagore-skill",
+        "4e-theoreme-de-pythagore-sqrt"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-theoreme-de-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-theoreme-de-pythagore-audio",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-theoreme-de-pythagore"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître l’hypoténuse d’un triangle rectangle.",
+        "Calculer la longueur d’un côté d’un triangle rectangle avec le théorème de Pythagore.",
+        "Utiliser la réciproque pour savoir si un triangle est rectangle."
+      ],
+      "skill_ids": [
+        "4e-theoreme-de-pythagore-skill",
+        "4e-theoreme-de-pythagore-sqrt"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-theoreme-de-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-theoreme-de-pythagore-assistant_explanation",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-theoreme-de-pythagore"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître l’hypoténuse d’un triangle rectangle.",
+        "Calculer la longueur d’un côté d’un triangle rectangle avec le théorème de Pythagore.",
+        "Utiliser la réciproque pour savoir si un triangle est rectangle."
+      ],
+      "skill_ids": [
+        "4e-theoreme-de-pythagore-skill",
+        "4e-theoreme-de-pythagore-sqrt"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème D – Espace et géométrie, pages 135–136 ; Thème A, page 131 pour la racine carrée (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-theoreme-de-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-calcul-litteral-developper-reduire-course",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-calcul-litteral-developper-reduire"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Appliquer les conventions d’écriture du calcul littéral.",
+        "Réduire une expression en regroupant les termes de même nature.",
+        "Développer une expression avec la distributivité simple et démontrer une propriété générale."
+      ],
+      "skill_ids": [
+        "4e-calcul-litteral-developper-reduire-skill",
+        "4e-calcul-litteral-developper-reduire-general"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-calcul-litteral-developper-reduire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-calcul-litteral-developper-reduire-revision_sheet",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-calcul-litteral-developper-reduire"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Appliquer les conventions d’écriture du calcul littéral.",
+        "Réduire une expression en regroupant les termes de même nature.",
+        "Développer une expression avec la distributivité simple et démontrer une propriété générale."
+      ],
+      "skill_ids": [
+        "4e-calcul-litteral-developper-reduire-skill",
+        "4e-calcul-litteral-developper-reduire-general"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-calcul-litteral-developper-reduire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-calcul-litteral-developper-reduire-quiz",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-calcul-litteral-developper-reduire"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Appliquer les conventions d’écriture du calcul littéral.",
+        "Réduire une expression en regroupant les termes de même nature.",
+        "Développer une expression avec la distributivité simple et démontrer une propriété générale."
+      ],
+      "skill_ids": [
+        "4e-calcul-litteral-developper-reduire-skill",
+        "4e-calcul-litteral-developper-reduire-general"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-calcul-litteral-developper-reduire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-calcul-litteral-developper-reduire-exercise",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-calcul-litteral-developper-reduire"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Appliquer les conventions d’écriture du calcul littéral.",
+        "Réduire une expression en regroupant les termes de même nature.",
+        "Développer une expression avec la distributivité simple et démontrer une propriété générale."
+      ],
+      "skill_ids": [
+        "4e-calcul-litteral-developper-reduire-skill",
+        "4e-calcul-litteral-developper-reduire-general"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-calcul-litteral-developper-reduire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-calcul-litteral-developper-reduire-assessment",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-calcul-litteral-developper-reduire"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Appliquer les conventions d’écriture du calcul littéral.",
+        "Réduire une expression en regroupant les termes de même nature.",
+        "Développer une expression avec la distributivité simple et démontrer une propriété générale."
+      ],
+      "skill_ids": [
+        "4e-calcul-litteral-developper-reduire-skill",
+        "4e-calcul-litteral-developper-reduire-general"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-calcul-litteral-developper-reduire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-calcul-litteral-developper-reduire-audio",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-calcul-litteral-developper-reduire"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Appliquer les conventions d’écriture du calcul littéral.",
+        "Réduire une expression en regroupant les termes de même nature.",
+        "Développer une expression avec la distributivité simple et démontrer une propriété générale."
+      ],
+      "skill_ids": [
+        "4e-calcul-litteral-developper-reduire-skill",
+        "4e-calcul-litteral-developper-reduire-general"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-calcul-litteral-developper-reduire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-calcul-litteral-developper-reduire-assistant_explanation",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-calcul-litteral-developper-reduire"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Appliquer les conventions d’écriture du calcul littéral.",
+        "Réduire une expression en regroupant les termes de même nature.",
+        "Développer une expression avec la distributivité simple et démontrer une propriété générale."
+      ],
+      "skill_ids": [
+        "4e-calcul-litteral-developper-reduire-skill",
+        "4e-calcul-litteral-developper-reduire-general"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-calcul-litteral-developper-reduire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-phrase-complexe-propositions-course",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-phrase-complexe-propositions"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif."
+      ],
+      "skill_ids": [
+        "4e-phrase-complexe-propositions-skill",
+        "4e-phrase-complexe-propositions-relative"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-phrase-complexe-propositions-revision_sheet",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-phrase-complexe-propositions"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif."
+      ],
+      "skill_ids": [
+        "4e-phrase-complexe-propositions-skill",
+        "4e-phrase-complexe-propositions-relative"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-phrase-complexe-propositions-quiz",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-phrase-complexe-propositions"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif."
+      ],
+      "skill_ids": [
+        "4e-phrase-complexe-propositions-skill",
+        "4e-phrase-complexe-propositions-relative"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-phrase-complexe-propositions-exercise",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-phrase-complexe-propositions"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif."
+      ],
+      "skill_ids": [
+        "4e-phrase-complexe-propositions-skill",
+        "4e-phrase-complexe-propositions-relative"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-phrase-complexe-propositions-assessment",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-phrase-complexe-propositions"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif."
+      ],
+      "skill_ids": [
+        "4e-phrase-complexe-propositions-skill",
+        "4e-phrase-complexe-propositions-relative"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-phrase-complexe-propositions-audio",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-phrase-complexe-propositions"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif."
+      ],
+      "skill_ids": [
+        "4e-phrase-complexe-propositions-skill",
+        "4e-phrase-complexe-propositions-relative"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-phrase-complexe-propositions-assistant_explanation",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-phrase-complexe-propositions"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+        "Reconnaître la juxtaposition, la coordination et la subordination.",
+        "Identifier une proposition subordonnée relative et la fonction du pronom relatif."
+      ],
+      "skill_ids": [
+        "4e-phrase-complexe-propositions-skill",
+        "4e-phrase-complexe-propositions-relative"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-accord-participe-passe-course",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-accord-participe-passe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant le verbe.",
+        "Choisir la bonne forme du participe passé (é ou er, i, u, consonne finale)."
+      ],
+      "skill_ids": [
+        "4e-accord-participe-passe-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-accord-participe-passe-revision_sheet",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-accord-participe-passe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant le verbe.",
+        "Choisir la bonne forme du participe passé (é ou er, i, u, consonne finale)."
+      ],
+      "skill_ids": [
+        "4e-accord-participe-passe-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-accord-participe-passe-quiz",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-accord-participe-passe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant le verbe.",
+        "Choisir la bonne forme du participe passé (é ou er, i, u, consonne finale)."
+      ],
+      "skill_ids": [
+        "4e-accord-participe-passe-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-accord-participe-passe-exercise",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-accord-participe-passe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant le verbe.",
+        "Choisir la bonne forme du participe passé (é ou er, i, u, consonne finale)."
+      ],
+      "skill_ids": [
+        "4e-accord-participe-passe-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-accord-participe-passe-assessment",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-accord-participe-passe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant le verbe.",
+        "Choisir la bonne forme du participe passé (é ou er, i, u, consonne finale)."
+      ],
+      "skill_ids": [
+        "4e-accord-participe-passe-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-accord-participe-passe-audio",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-accord-participe-passe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant le verbe.",
+        "Choisir la bonne forme du participe passé (é ou er, i, u, consonne finale)."
+      ],
+      "skill_ids": [
+        "4e-accord-participe-passe-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-accord-participe-passe-assistant_explanation",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-accord-participe-passe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant le verbe.",
+        "Choisir la bonne forme du participe passé (é ou er, i, u, consonne finale)."
+      ],
+      "skill_ids": [
+        "4e-accord-participe-passe-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-accord-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-informer-s-informer-deformer-course",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-informer-s-informer-deformer"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer un fait vérifiable d’une opinion dans un texte d’information.",
+        "Vérifier une information en identifiant sa source et en recoupant plusieurs sources.",
+        "Repérer comment un titre, une citation réduite ou un montage peut déformer une information."
+      ],
+      "skill_ids": [
+        "4e-informer-s-informer-deformer-skill",
+        "4e-informer-s-informer-deformer-sources"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-informer-s-informer-deformer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-informer-s-informer-deformer-revision_sheet",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-informer-s-informer-deformer"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer un fait vérifiable d’une opinion dans un texte d’information.",
+        "Vérifier une information en identifiant sa source et en recoupant plusieurs sources.",
+        "Repérer comment un titre, une citation réduite ou un montage peut déformer une information."
+      ],
+      "skill_ids": [
+        "4e-informer-s-informer-deformer-skill",
+        "4e-informer-s-informer-deformer-sources"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-informer-s-informer-deformer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-informer-s-informer-deformer-quiz",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-informer-s-informer-deformer"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer un fait vérifiable d’une opinion dans un texte d’information.",
+        "Vérifier une information en identifiant sa source et en recoupant plusieurs sources.",
+        "Repérer comment un titre, une citation réduite ou un montage peut déformer une information."
+      ],
+      "skill_ids": [
+        "4e-informer-s-informer-deformer-skill",
+        "4e-informer-s-informer-deformer-sources"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-informer-s-informer-deformer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-informer-s-informer-deformer-exercise",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-informer-s-informer-deformer"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer un fait vérifiable d’une opinion dans un texte d’information.",
+        "Vérifier une information en identifiant sa source et en recoupant plusieurs sources.",
+        "Repérer comment un titre, une citation réduite ou un montage peut déformer une information."
+      ],
+      "skill_ids": [
+        "4e-informer-s-informer-deformer-skill",
+        "4e-informer-s-informer-deformer-sources"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-informer-s-informer-deformer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-informer-s-informer-deformer-assessment",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-informer-s-informer-deformer"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer un fait vérifiable d’une opinion dans un texte d’information.",
+        "Vérifier une information en identifiant sa source et en recoupant plusieurs sources.",
+        "Repérer comment un titre, une citation réduite ou un montage peut déformer une information."
+      ],
+      "skill_ids": [
+        "4e-informer-s-informer-deformer-skill",
+        "4e-informer-s-informer-deformer-sources"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-informer-s-informer-deformer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-informer-s-informer-deformer-audio",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-informer-s-informer-deformer"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer un fait vérifiable d’une opinion dans un texte d’information.",
+        "Vérifier une information en identifiant sa source et en recoupant plusieurs sources.",
+        "Repérer comment un titre, une citation réduite ou un montage peut déformer une information."
+      ],
+      "skill_ids": [
+        "4e-informer-s-informer-deformer-skill",
+        "4e-informer-s-informer-deformer-sources"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-informer-s-informer-deformer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-informer-s-informer-deformer-assistant_explanation",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-informer-s-informer-deformer"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer un fait vérifiable d’une opinion dans un texte d’information.",
+        "Vérifier une information en identifiant sa source et en recoupant plusieurs sources.",
+        "Repérer comment un titre, une citation réduite ou un montage peut déformer une information."
+      ],
+      "skill_ids": [
+        "4e-informer-s-informer-deformer-skill",
+        "4e-informer-s-informer-deformer-sources"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-informer-s-informer-deformer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

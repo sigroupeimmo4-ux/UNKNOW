@@ -1,0 +1,134 @@
+{
+  "id": "3e-theoreme-de-thales",
+  "title": "Le théorème de Thalès et sa réciproque",
+  "chapter_id": "3e-theoreme-de-thales",
+  "program_id": "3e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître les configurations des triangles emboîtés et du papillon.",
+    "Utiliser le théorème de Thalès pour calculer une longueur.",
+    "Utiliser la réciproque pour démontrer que deux droites sont parallèles, ou pour montrer qu’elles ne le sont pas."
+  ],
+  "skill_ids": [
+    "3e-theoreme-de-thales-skill-calculer",
+    "3e-theoreme-de-thales-skill-reciproque"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer (« Le théorème de Thalès et sa réciproque (configurations des triangles emboîtés et du papillon) »), pages 135–136 (pagination du PDF).",
+    "Même programme, Thème C – Grandeurs et mesures / Comprendre l’effet de quelques transformations sur les figures géométriques (lien entre proportionnalité, agrandissement-réduction et triangles semblables), page 134."
+  ],
+  "course": [
+    {
+      "title": "Reconnaître la configuration",
+      "text": "On part d’un triangle ABC. Un point M est sur la droite (AB), un point N est sur la droite (AC), et les droites (MN) et (BC) sont parallèles. Deux cas se présentent. Triangles emboîtés : M est sur le segment [AB] et N sur le segment [AC], le petit triangle AMN est dans le grand triangle ABC. Papillon : A est situé entre M et B, et entre N et C, les deux triangles sont de part et d’autre de A. Dans les deux cas, les deux triangles ont la même forme : l’un est un agrandissement de l’autre."
+    },
+    {
+      "title": "Le théorème de Thalès",
+      "text": "Si (MN) // (BC), avec M sur (AB) et N sur (AC), alors AM/AB = AN/AC = MN/BC. Les longueurs du triangle AMN sont proportionnelles à celles du triangle ABC. Exemple (triangles emboîtés) : AM = 3, AB = 5, AC = 10, BC = 8. Alors 3/5 = AN/10 = MN/8. On trouve AN = 10 × 3 ÷ 5 = 6 et MN = 8 × 3 ÷ 5 = 4,8. Pour le papillon, avec O point d’intersection de (AD) et (BE) et (AB) // (DE) : OA/OD = OB/OE = AB/DE. Si OA = 2, OD = 5, OB = 3 et AB = 4, alors OE = 3 × 5 ÷ 2 = 7,5 et DE = 4 × 5 ÷ 2 = 10."
+    },
+    {
+      "title": "La réciproque : démontrer un parallélisme",
+      "text": "La réciproque sert à prouver que deux droites sont parallèles. Si les points A, M, B sont alignés, si les points A, N, C sont alignés dans le même ordre, et si AM/AB = AN/AC, alors (MN) // (BC). Exemple : AM = 2, AB = 5, AN = 3, AC = 7,5, avec M sur [AB] et N sur [AC]. On calcule 2/5 = 0,4 et 3/7,5 = 0,4 : les rapports sont égaux, donc (MN) // (BC). Si les rapports sont différents, par exemple AM = 2, AB = 5, AN = 3, AC = 8, alors 2/5 = 0,4 et 3/8 = 0,375. Les rapports ne sont pas égaux : les droites ne sont pas parallèles."
+    },
+    {
+      "title": "Bien rédiger et éviter les pièges",
+      "text": "Une rédaction claire suit quatre étapes. 1) Les données : « Dans le triangle ABC, M est sur [AB], N est sur [AC] et (MN) // (BC). » 2) Le théorème : « D’après le théorème de Thalès, AM/AB = AN/AC = MN/BC. » 3) Le calcul avec les valeurs de l’énoncé. 4) La conclusion avec l’unité. Pièges fréquents : comparer une partie au tout, c’est-à-dire AM/AB et non AM/MB ; garder les mêmes ordres dans les deux rapports (petit triangle sur grand triangle) ; ne jamais utiliser Thalès sans parallélisme connu."
+    }
+  ],
+  "revision_sheet": [
+    "Thalès : si (MN) // (BC), M sur (AB) et N sur (AC), alors AM/AB = AN/AC = MN/BC.",
+    "Deux configurations : triangles emboîtés et papillon. Le sommet commun est le point A (ou O).",
+    "Calcul d’une longueur : produit en croix. Par exemple AN = AC × AM ÷ AB.",
+    "Réciproque : si AM/AB = AN/AC et si les points sont alignés dans le même ordre, alors (MN) // (BC).",
+    "Si les deux rapports sont différents, les droites ne sont pas parallèles.",
+    "Écrire toujours : les données, le théorème cité, le calcul, la conclusion."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans le triangle ABC, M est sur [AB], N est sur [AC] et (MN) // (BC). Quelle égalité est exacte ?",
+      "choices": [
+        "AM/MB = AN/AC",
+        "AM/AB = NC/BC",
+        "AM/AB = AN/AC"
+      ],
+      "correct_index": 2,
+      "explanation": "Le théorème de Thalès compare le petit triangle au grand : AM/AB = AN/AC = MN/BC. Dans les autres propositions, les rapports ne comparent pas les mêmes côtés."
+    },
+    {
+      "prompt": "On a (MN) // (BC), AM = 3, AB = 5 et AC = 10 (M sur [AB], N sur [AC]). Quelle est la longueur AN ?",
+      "choices": [
+        "6",
+        "15",
+        "7"
+      ],
+      "correct_index": 0,
+      "explanation": "AN/AC = AM/AB donc AN = 10 × 3 ÷ 5 = 6."
+    },
+    {
+      "prompt": "Que faut-il absolument connaître pour utiliser le théorème de Thalès ?",
+      "choices": [
+        "Un triangle rectangle",
+        "Deux droites parallèles coupées par deux droites sécantes",
+        "Deux angles égaux"
+      ],
+      "correct_index": 1,
+      "explanation": "Le théorème de Thalès s’applique quand deux droites sont parallèles et coupent deux droites sécantes. Il n’a pas besoin d’angle droit."
+    },
+    {
+      "prompt": "Papillon : (AD) et (BE) se coupent en O, (AB) // (DE), OA = 2, OD = 5 et AB = 4. Quelle est la longueur DE ?",
+      "choices": [
+        "1,6",
+        "8",
+        "10"
+      ],
+      "correct_index": 2,
+      "explanation": "OA/OD = AB/DE donc 2/5 = 4/DE. On obtient DE = 4 × 5 ÷ 2 = 10."
+    },
+    {
+      "prompt": "M est sur [AB] et N est sur [AC], avec AM = 2, AB = 5, AN = 3 et AC = 7,5. Les droites (MN) et (BC) sont-elles parallèles ?",
+      "choices": [
+        "Non, car 2/5 est différent de 3/7,5",
+        "Oui, car 2/5 = 3/7,5 = 0,4 et les points sont alignés dans le même ordre",
+        "On ne peut pas savoir"
+      ],
+      "correct_index": 1,
+      "explanation": "2/5 = 0,4 et 3/7,5 = 0,4. Les rapports sont égaux et les points sont alignés dans le même ordre : d’après la réciproque du théorème de Thalès, (MN) // (BC)."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Dans le triangle ABC, M est sur [AB], N est sur [AC] et (MN) // (BC). On donne AM = 4 cm, AB = 10 cm, AC = 15 cm et BC = 12 cm. Calcule AN et MN.",
+      "solution": "D’après le théorème de Thalès, AM/AB = AN/AC = MN/BC, soit 4/10 = AN/15 = MN/12. AN = 15 × 4 ÷ 10 = 6 cm et MN = 12 × 4 ÷ 10 = 4,8 cm.",
+      "success_criterion": "Citer le théorème, écrire les trois rapports égaux, calculer avec le produit en croix et donner l’unité."
+    },
+    {
+      "prompt": "Papillon : les droites (BE) et (CD) se coupent en A, et (BC) // (DE). On donne AB = 3, AE = 9, AC = 4 et BC = 5. Calcule AD et DE.",
+      "solution": "D’après le théorème de Thalès, AB/AE = AC/AD = BC/DE, soit 3/9 = 4/AD = 5/DE. AD = 4 × 9 ÷ 3 = 12 et DE = 5 × 9 ÷ 3 = 15.",
+      "success_criterion": "Repérer le papillon, associer les bons côtés et obtenir AD = 12 et DE = 15."
+    },
+    {
+      "prompt": "M est sur [AB] et N est sur [AC]. On donne AM = 3, AB = 7, AN = 4,5 et AC = 10,5. Les droites (MN) et (BC) sont-elles parallèles ?",
+      "solution": "AM/AB = 3/7 et AN/AC = 4,5/10,5 = 45/105 = 3/7. Les rapports sont égaux et les points sont alignés dans le même ordre : d’après la réciproque du théorème de Thalès, (MN) // (BC).",
+      "success_criterion": "Calculer les deux rapports, constater l’égalité, citer la réciproque et conclure."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "À un instant donné, un bâton vertical de 1,5 m projette une ombre de 2 m. Au même moment, un arbre projette une ombre de 12 m. Quelle est la hauteur de l’arbre ? (On suppose que les rayons du soleil sont parallèles.)",
+      "solution": "Le bâton et l’arbre forment avec leurs ombres deux triangles rectangles dont les rayons du soleil sont des côtés parallèles. D’après le théorème de Thalès, 1,5/h = 2/12. Donc h = 1,5 × 12 ÷ 2 = 9. L’arbre mesure 9 m.",
+      "success_criterion": "Modéliser par deux triangles emboîtés, écrire l’égalité des rapports et trouver 9 m."
+    },
+    {
+      "prompt": "M est sur [AB] et N est sur [AC], avec AM = 3, AB = 7, AN = 4 et AC = 10. Les droites (MN) et (BC) sont-elles parallèles ? Justifie.",
+      "solution": "AM/AB = 3/7 et AN/AC = 4/10 = 2/5. Or 3 × 10 = 30 et 7 × 4 = 28, donc 3/7 est différent de 4/10. Si les droites étaient parallèles, Thalès donnerait des rapports égaux. Les droites (MN) et (BC) ne sont pas parallèles.",
+      "success_criterion": "Montrer que les deux rapports sont différents (par produit en croix ou en comparant des décimaux) et conclure que les droites ne sont pas parallèles."
+    },
+    {
+      "prompt": "Un élève écrit AM/MB = AN/AC. Explique pourquoi c’est une erreur et corrige.",
+      "solution": "Le rapport AM/MB compare AM à MB, une partie à une autre partie, alors que AN/AC compare AN à AC. Le théorème de Thalès compare les côtés du petit triangle à ceux du grand : AM/AB = AN/AC.",
+      "success_criterion": "Expliquer que les rapports doivent comparer le petit triangle au grand triangle et écrire AM/AB."
+    }
+  ],
+  "audio_transcript": "Le théorème de Thalès s’utilise quand deux droites sont parallèles. Dans un triangle ABC, avec M sur le côté AB, N sur le côté AC et MN parallèle à BC, on a : AM sur AB égale AN sur AC égale MN sur BC. Pour calculer une longueur, on fait un produit en croix. Par exemple, avec AM égale 3, AB égale 5 et AC égale 10, AN vaut 10 fois 3 divisé par 5, soit 6. La réciproque permet de prouver un parallélisme : si les deux rapports sont égaux et si les points sont alignés dans le même ordre, alors les droites sont parallèles. Si les rapports sont différents, elles ne le sont pas.",
+  "guided_explanation": "Imagine que tu agrandis une photo. Le petit triangle AMN est la photo d’origine, le grand triangle ABC est l’agrandissement. Chaque longueur est multipliée par le même nombre. Ici, AB est 5 pour AM = 3 : on multiplie par 5/3. Alors AC vaut AN multiplié par 5/3. C’est le théorème de Thalès. Retiens une règle simple : toujours comparer le petit triangle avec le grand, dans le même ordre. Pour la réciproque, tu calcules les deux rapports et tu les compares : s’ils sont égaux, les droites sont parallèles ; sinon, elles ne le sont pas."
+}

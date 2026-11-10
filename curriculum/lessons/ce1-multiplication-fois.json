@@ -1,0 +1,130 @@
+{
+  "id": "ce1-multiplication-fois",
+  "title": "Découvrir la multiplication : « fois »",
+  "chapter_id": "ce1-multiplication-fois",
+  "program_id": "CE1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Lire et écrire une multiplication avec le symbole × (« fois »).",
+    "Relier une multiplication à une addition répétée.",
+    "Comprendre que 8 × 4 et 4 × 8 donnent le même résultat."
+  ],
+  "skill_ids": [
+    "ce1-multiplication-fois-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Des paquets tous pareils",
+      "text": "Jan a 4 paquets de biscuits et chaque paquet contient 5 biscuits. On peut calculer 5 + 5 + 5 + 5 = 20. Comme on ajoute 5 quatre fois, on écrit plus court : 4 × 5 = 20, et on lit « quatre fois cinq égale vingt »."
+    },
+    {
+      "title": "Écrire la multiplication avec l’unité",
+      "text": "Jan a 7 paquets de 20 biscuits. Combien de biscuits ? Jan a « sept fois vingt biscuits » : 7 × 20 biscuits = 140 biscuits. Cela veut dire qu’on ajoute 20 sept fois. Écrire l’unité (biscuits) aide à comprendre le calcul."
+    },
+    {
+      "title": "L’ordre ne change pas le résultat",
+      "text": "Un potager a 8 colonnes de 4 salades : il y a 8 × 4 salades. Si on le regarde dans l’autre sens, il a 4 rangées de 8 salades : 4 × 8 salades. Dans les deux cas, on compte les mêmes salades : 8 × 4 = 4 × 8 = 32. On dit que la multiplication est commutative : l’ordre des nombres n’a pas d’importance."
+    },
+    {
+      "title": "Quand utiliser la multiplication ?",
+      "text": "On l’utilise quand on a plusieurs groupes qui contiennent tous le même nombre d’objets. Exemple : 6 boîtes de 3 œufs, c’est 6 × 3 = 18 œufs (3 + 3 + 3 + 3 + 3 + 3 = 18). Si les groupes n’ont pas le même nombre d’objets, on doit faire une addition."
+    }
+  ],
+  "revision_sheet": [
+    "Le signe × se lit « fois ».",
+    "4 × 5 veut dire 5 + 5 + 5 + 5 (on ajoute 5 quatre fois) : 4 × 5 = 20.",
+    "L’ordre n’a pas d’importance : 8 × 4 = 4 × 8 = 32.",
+    "On multiplie quand tous les groupes ont le même nombre d’objets."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle addition correspond à 3 × 4 ?",
+      "choices": [
+        "3 + 4",
+        "4 + 4 + 4",
+        "4 + 4 + 4 + 4"
+      ],
+      "correct_index": 1,
+      "explanation": "3 × 4 se lit « trois fois quatre » : on ajoute 4 trois fois, soit 4 + 4 + 4 = 12."
+    },
+    {
+      "prompt": "Combien font 5 × 6 ?",
+      "choices": [
+        "11",
+        "30",
+        "36"
+      ],
+      "correct_index": 1,
+      "explanation": "5 × 6 = 6 + 6 + 6 + 6 + 6 = 30."
+    },
+    {
+      "prompt": "Que peut-on dire de 8 × 4 et de 4 × 8 ?",
+      "choices": [
+        "Ils donnent le même résultat",
+        "8 × 4 donne un résultat plus grand",
+        "Ils donnent des résultats différents"
+      ],
+      "correct_index": 0,
+      "explanation": "L’ordre n’a pas d’importance dans une multiplication : 8 × 4 = 4 × 8 = 32."
+    },
+    {
+      "prompt": "Il y a 5 sachets de 10 billes. Combien y a-t-il de billes ?",
+      "choices": [
+        "15 billes",
+        "50 billes",
+        "510 billes"
+      ],
+      "correct_index": 1,
+      "explanation": "5 sachets de 10 billes : 5 × 10 = 50 billes."
+    },
+    {
+      "prompt": "Combien font 2 × 7 ?",
+      "choices": [
+        "9",
+        "12",
+        "14"
+      ],
+      "correct_index": 2,
+      "explanation": "2 × 7 = 7 + 7 = 14."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris 6 + 6 + 6 + 6 sous la forme d’une multiplication et calcule.",
+      "solution": "On ajoute 6 quatre fois : 4 × 6 = 24.",
+      "success_criterion": "Écrire 4 × 6 et trouver 24."
+    },
+    {
+      "prompt": "Une boîte contient 10 crayons. Il y a 9 boîtes. Combien y a-t-il de crayons ?",
+      "solution": "9 × 10 crayons = 90 crayons.",
+      "success_criterion": "Écrire 9 × 10 avec l’unité et répondre 90 crayons."
+    },
+    {
+      "prompt": "Un potager a 6 rangées de 7 salades. Écris deux multiplications qui donnent le nombre de salades et calcule.",
+      "solution": "6 × 7 = 42 et 7 × 6 = 42 : il y a 42 salades.",
+      "success_criterion": "Écrire les deux multiplications et trouver 42."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un paquet contient 25 cartes. Combien de cartes y a-t-il dans 4 paquets ?",
+      "solution": "4 × 25 cartes = 100 cartes (25 + 25 + 25 + 25 = 100).",
+      "success_criterion": "Écrire 4 × 25 et trouver 100 cartes."
+    },
+    {
+      "prompt": "Explique pourquoi 9 × 3 = 3 × 9.",
+      "solution": "Avec 9 rangées de 3 jetons ou 3 rangées de 9 jetons, on compte les mêmes jetons : 27. L’ordre des nombres ne change pas le résultat.",
+      "success_criterion": "Expliquer, avec un dessin ou une phrase, que l’on compte la même quantité dans les deux sens."
+    },
+    {
+      "prompt": "Complète : 2 × … = 12.",
+      "solution": "2 × 6 = 12, car 6 + 6 = 12.",
+      "success_criterion": "Trouver 6 en s’aidant de l’addition répétée."
+    }
+  ],
+  "audio_transcript": "Le signe multiplier se lit fois. Quatre fois cinq, cela veut dire cinq plus cinq plus cinq plus cinq, soit vingt. On utilise la multiplication quand on a plusieurs groupes qui contiennent tous le même nombre d’objets. Par exemple, sept paquets de vingt biscuits, c’est sept fois vingt biscuits, soit cent-quarante biscuits. Dans une multiplication, l’ordre ne compte pas : huit fois quatre et quatre fois huit donnent le même résultat, trente-deux.",
+  "guided_explanation": "Dessine un petit potager avec 8 colonnes de 4 salades. Compte les salades colonne par colonne : 4, 8, 12, 16, 20, 24, 28, 32. Il y en a 32, et tu as écrit 8 × 4. Tourne ta feuille : tu vois maintenant 4 rangées de 8 salades, c’est 4 × 8. Tu n’as ajouté aucune salade, tu n’en as retiré aucune : le résultat est le même. C’est pour cela qu’on peut écrire 8 × 4 = 4 × 8 = 32."
+}

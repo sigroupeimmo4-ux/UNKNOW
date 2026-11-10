@@ -1,0 +1,129 @@
+{
+  "id": "cm1-fractions-quantites",
+  "title": "Comprendre les fractions et prendre une fraction d’une quantité",
+  "chapter_id": "cm1-fractions-quantites",
+  "program_id": "CM1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Interpréter, écrire et lire une fraction à partir d’un partage en parts égales.",
+    "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+    "Calculer une fraction unitaire d’une quantité, comme un tiers de 12 billes ou un quart de 100 mètres."
+  ],
+  "skill_ids": [
+    "cm1-fractions-quantites-lire-ecrire-skill",
+    "cm1-fractions-quantites-superieures-a-1-skill",
+    "cm1-fractions-quantites-quantite-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les fractions, pages 5–6 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Partager en parts égales",
+      "text": "Une fraction décrit un tout partagé en parts égales. Le dénominateur (en bas) dit en combien de parts égales le tout est partagé ; le numérateur (en haut) dit combien de parts on prend. Une tablette de chocolat est partagée en 8 carrés égaux ; Léa en mange 3 : elle a mangé 3/8 de la tablette, qui se lit « trois huitièmes ». Attention : les parts doivent être égales. On lit 1/2 « un demi », 1/3 « un tiers », 1/4 « un quart », puis 1/5 « un cinquième », 1/6 « un sixième », et ainsi de suite."
+    },
+    {
+      "title": "Les fractions plus grandes que 1",
+      "text": "La fraction 1/4 sert d’unité : 7/4, c’est 7 fois 1/4, soit sept quarts. Comme 4 quarts font 1 entier, 4/4 = 1. On peut donc écrire 7/4 = 4/4 + 3/4 = 1 + 3/4 : « un et trois quarts ». Sur une demi-droite graduée en quarts, 7/4 se place à la septième graduation après 0, entre 1 et 2. Dans l’autre sens : 2 + 1/3 = 6/3 + 1/3 = 7/3, car 2 entiers font 6 tiers."
+    },
+    {
+      "title": "Prendre une fraction d’une quantité",
+      "text": "Pour calculer un tiers de 12 billes, on partage 12 en 3 parts égales : 12 ÷ 3 = 4. Un tiers de 12 billes, c’est 4 billes. De même, un quart de 100 mètres, c’est 100 ÷ 4 = 25 mètres, et un cinquième de 40 euros, c’est 40 ÷ 5 = 8 euros. Pour une fraction de la forme 1/n d’une quantité, on divise la quantité par n. Pour vérifier, on peut remettre les parts ensemble : 3 × 4 = 12."
+    }
+  ],
+  "revision_sheet": [
+    "Fraction = tout partagé en parts égales : numérateur (parts prises) sur dénominateur (parts du tout).",
+    "3/8 se lit « trois huitièmes ». Les parts doivent être égales.",
+    "4/4 = 1 ; 7/4 = 4/4 + 3/4 = 1 + 3/4.",
+    "Un entier se transforme en fraction : 2 = 6/3, donc 2 + 1/3 = 7/3.",
+    "La fraction 1/n d’une quantité : on divise la quantité par n (un tiers de 12 = 12 ÷ 3 = 4)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Une pizza est partagée en 8 parts égales. Léa mange 3 parts. Quelle fraction de la pizza a-t-elle mangée ?",
+      "choices": [
+        "3/8",
+        "8/3",
+        "3/5"
+      ],
+      "correct_index": 0,
+      "explanation": "Le dénominateur est le nombre de parts du tout (8) et le numérateur le nombre de parts prises (3) : 3/8."
+    },
+    {
+      "prompt": "Combien font un cinquième de 30 billes ?",
+      "choices": [
+        "5 billes",
+        "6 billes",
+        "25 billes"
+      ],
+      "correct_index": 1,
+      "explanation": "Un cinquième de 30, c’est 30 ÷ 5 = 6. Vérification : 5 × 6 = 30."
+    },
+    {
+      "prompt": "Quelle écriture est égale à 9/4 ?",
+      "choices": [
+        "4 + 1/9",
+        "1 + 1/4",
+        "2 + 1/4"
+      ],
+      "correct_index": 2,
+      "explanation": "9/4 = 8/4 + 1/4 = 2 + 1/4, car 4/4 = 1 donc 8/4 = 2."
+    },
+    {
+      "prompt": "Entre quels deux nombres entiers consécutifs se trouve 7/3 ?",
+      "choices": [
+        "1 et 2",
+        "2 et 3",
+        "3 et 4"
+      ],
+      "correct_index": 1,
+      "explanation": "7/3 = 6/3 + 1/3 = 2 + 1/3 : ce nombre est plus grand que 2 et plus petit que 3."
+    },
+    {
+      "prompt": "Combien font un quart de 100 mètres ?",
+      "choices": [
+        "400 m",
+        "50 m",
+        "25 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Un quart de 100 m, c’est 100 ÷ 4 = 25 m. Vérification : 4 × 25 = 100."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Un rectangle est partagé en 6 parts égales et 5 parts sont coloriées. Écris la fraction coloriée et dis comment elle se lit.",
+      "solution": "5/6, qui se lit « cinq sixièmes ».",
+      "success_criterion": "Mettre 6 au dénominateur (parts du tout) et 5 au numérateur (parts coloriées)."
+    },
+    {
+      "prompt": "Calcule : un tiers de 24 ; un cinquième de 45 ; un dixième de 90.",
+      "solution": "Un tiers de 24 = 24 ÷ 3 = 8 ; un cinquième de 45 = 45 ÷ 5 = 9 ; un dixième de 90 = 90 ÷ 10 = 9.",
+      "success_criterion": "Diviser la quantité par le dénominateur de la fraction unitaire."
+    },
+    {
+      "prompt": "Écris 11/4 comme la somme d’un entier et d’une fraction inférieure à 1.",
+      "solution": "11/4 = 8/4 + 3/4 = 2 + 3/4.",
+      "success_criterion": "Trouver le plus grand nombre entier de quarts complets (2 entiers = 8/4) et garder 3/4."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris 3 + 2/5 sous la forme d’une seule fraction.",
+      "solution": "3 = 15/5, donc 3 + 2/5 = 15/5 + 2/5 = 17/5.",
+      "success_criterion": "Transformer 3 entiers en cinquièmes avant d’ajouter les 2/5."
+    },
+    {
+      "prompt": "Une ficelle mesure 60 cm. Léo en coupe un quart. Quelle longueur coupe-t-il ? Quelle longueur reste-t-il ?",
+      "solution": "Il coupe 60 ÷ 4 = 15 cm. Il reste 60 − 15 = 45 cm.",
+      "success_criterion": "Calculer le quart par une division, puis répondre aux deux questions avec des unités."
+    },
+    {
+      "prompt": "Entre quels deux nombres entiers consécutifs se trouve 13/5 ? Justifie.",
+      "solution": "13/5 = 10/5 + 3/5 = 2 + 3/5, donc 13/5 est compris entre 2 et 3.",
+      "success_criterion": "Décomposer la fraction en entier plus fraction inférieure à 1."
+    }
+  ],
+  "audio_transcript": "Une fraction décrit un tout partagé en parts égales. Le nombre du bas, le dénominateur, dit en combien de parts égales on partage le tout. Le nombre du haut, le numérateur, dit combien de parts on prend. Trois huitièmes, c’est trois parts d’un tout partagé en huit parts égales. Quatre quarts font un entier, donc sept quarts, c’est un entier et trois quarts. Pour calculer un tiers de douze billes, on partage douze en trois parts égales : douze divisé par trois égale quatre.",
+  "guided_explanation": "Dessine une bande de papier et partage-la en parts égales : chaque part est une fraction de la bande. Si tu colories trois parts sur huit, tu as colorié trois huitièmes. Pour dépasser 1, utilise plusieurs bandes : sept quarts, c’est une bande entière (quatre quarts) plus trois quarts. Pour trouver un tiers de douze billes, fais trois tas égaux avec les douze billes : chaque tas contient quatre billes, c’est un tiers. Tu peux toujours vérifier en remettant les tas ensemble."
+}

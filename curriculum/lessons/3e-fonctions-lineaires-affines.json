@@ -1,0 +1,129 @@
+{
+  "id": "3e-fonctions-lineaires-affines",
+  "title": "Fonctions, fonctions linéaires et fonctions affines",
+  "chapter_id": "3e-fonctions-lineaires-affines",
+  "program_id": "3e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Utiliser le vocabulaire fonction, image, antécédent et les notations f(x) et x ↦ f(x).",
+    "Calculer l’image et un antécédent d’un nombre pour une fonction donnée par une expression.",
+    "Reconnaître et représenter une fonction linéaire ou affine, et modéliser une situation simple avec une fonction."
+  ],
+  "skill_ids": [
+    "3e-fonctions-lineaires-affines-skill-image-antecedent",
+    "3e-fonctions-lineaires-affines-skill-representer",
+    "3e-fonctions-lineaires-affines-skill-modeliser"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Qu’est-ce qu’une fonction ?",
+      "text": "Une fonction est un procédé qui, à chaque nombre x, associe un seul nombre noté f(x). On écrit aussi x ↦ f(x). Exemple : f(x) = 3x − 2, c’est le programme « multiplie par 3, puis enlève 2 ». On calcule f(4) = 3 × 4 − 2 = 10. On dit que 10 est l’image de 4, et que 4 est un antécédent de 10. Tableau de valeurs : pour x = −1, 0, 2, 4, on obtient f(x) = −5, −2, 4, 10. Pour trouver un antécédent de 7, on résout 3x − 2 = 7, donc 3x = 9 et x = 3. Un nombre a une seule image, mais il peut avoir plusieurs antécédents : pour f(x) = x², le nombre 9 a deux antécédents, 3 et −3."
+    },
+    {
+      "title": "La fonction linéaire f(x) = ax",
+      "text": "Une fonction linéaire s’écrit f(x) = ax, où a est un nombre fixé appelé coefficient. Elle modélise une situation de proportionnalité. Exemple : 1 kg de pommes coûte 2,5 €, donc f(x) = 2,5x donne le prix de x kg. Ainsi f(6) = 2,5 × 6 = 15 € et f(0) = 0. Sa représentation graphique est une droite qui passe par l’origine du repère. Pour la tracer, il suffit de placer l’origine et un autre point, par exemple (2 ; 5) pour f(x) = 2,5x."
+    },
+    {
+      "title": "La fonction affine f(x) = ax + b",
+      "text": "Une fonction affine s’écrit f(x) = ax + b. Sa représentation graphique est une droite. Le nombre b est l’image de 0 : la droite coupe l’axe des ordonnées au point (0 ; b). Le nombre a indique de combien f(x) change quand x augmente de 1. Exemple : f(x) = 2x + 1. Les points (0 ; 1) et (3 ; 7) suffisent pour tracer la droite. Une fonction linéaire est une fonction affine avec b = 0. Si b est différent de 0, la situation n’est pas proportionnelle : pour f(x) = 2x + 1, f(2) = 5 mais f(4) = 9, qui n’est pas le double de 5."
+    },
+    {
+      "title": "Modéliser une situation",
+      "text": "Une salle de sport demande 8 € de frais d’inscription, puis 3 € par séance. Le prix pour x séances est f(x) = 3x + 8, une fonction affine. Pour 5 séances : f(5) = 3 × 5 + 8 = 23 €. Combien de séances pour 41 € ? On résout 3x + 8 = 41, donc 3x = 33 et x = 11 séances. Si l’on connaît deux valeurs d’une fonction affine, par exemple f(1) = 5 et f(3) = 11, on trouve a = (11 − 5) ÷ (3 − 1) = 3, puis b = 5 − 3 = 2, donc f(x) = 3x + 2. Vérification : f(1) = 5 et f(3) = 11."
+    }
+  ],
+  "revision_sheet": [
+    "Une fonction associe à chaque nombre x un seul nombre f(x) : son image. On note x ↦ f(x).",
+    "Si f(4) = 10, alors 10 est l’image de 4 et 4 est un antécédent de 10.",
+    "Image : on remplace x dans l’expression. Antécédent : on résout une équation.",
+    "Fonction linéaire f(x) = ax : proportionnalité, droite passant par l’origine.",
+    "Fonction affine f(x) = ax + b : droite qui coupe l’axe des ordonnées en (0 ; b).",
+    "Pour tracer une droite, deux points suffisent."
+  ],
+  "quiz": [
+    {
+      "prompt": "Soit f(x) = 5x − 3. Quelle est l’image de 2 ?",
+      "choices": [
+        "13",
+        "7",
+        "−1"
+      ],
+      "correct_index": 1,
+      "explanation": "f(2) = 5 × 2 − 3 = 10 − 3 = 7. L’image de 2 est 7."
+    },
+    {
+      "prompt": "On sait que f(4) = 11. Quelle phrase est correcte ?",
+      "choices": [
+        "11 est un antécédent de 4",
+        "4 est l’image de 11",
+        "4 est un antécédent de 11"
+      ],
+      "correct_index": 2,
+      "explanation": "Si f(4) = 11, alors 11 est l’image de 4, et 4 est un antécédent de 11."
+    },
+    {
+      "prompt": "Parmi ces fonctions, laquelle est linéaire ?",
+      "choices": [
+        "f(x) = x + 4",
+        "f(x) = 7x",
+        "f(x) = 7x − 2"
+      ],
+      "correct_index": 1,
+      "explanation": "Une fonction linéaire s’écrit f(x) = ax, sans terme constant. Seule f(x) = 7x convient."
+    },
+    {
+      "prompt": "La représentation graphique de g(x) = 2x + 1 est :",
+      "choices": [
+        "une droite passant par l’origine",
+        "une parabole",
+        "une droite qui coupe l’axe des ordonnées au point (0 ; 1)"
+      ],
+      "correct_index": 2,
+      "explanation": "g est affine, donc sa représentation est une droite. Comme g(0) = 1, elle passe par le point (0 ; 1) et pas par l’origine."
+    },
+    {
+      "prompt": "Soit h(x) = −2x + 6. Quel est l’antécédent de 0 ?",
+      "choices": [
+        "3",
+        "−3",
+        "6"
+      ],
+      "correct_index": 0,
+      "explanation": "On résout −2x + 6 = 0, donc −2x = −6 et x = 3. Vérification : h(3) = −6 + 6 = 0."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Soit f(x) = −3x + 4. Calcule f(0), f(2) et f(−1), puis cherche l’antécédent de 10.",
+      "solution": "f(0) = 4. f(2) = −6 + 4 = −2. f(−1) = 3 + 4 = 7. Pour l’antécédent de 10 : −3x + 4 = 10, donc −3x = 6 et x = −2. Vérification : f(−2) = 6 + 4 = 10.",
+      "success_criterion": "Remplacer x avec soin (signes) et résoudre l’équation pour l’antécédent."
+    },
+    {
+      "prompt": "Une fonction linéaire g vérifie g(4) = 10. Donne l’expression de g(x), puis calcule g(7).",
+      "solution": "g(x) = ax avec 4a = 10, donc a = 2,5 et g(x) = 2,5x. Alors g(7) = 2,5 × 7 = 17,5.",
+      "success_criterion": "Trouver le coefficient a avec la valeur connue, puis calculer l’image."
+    },
+    {
+      "prompt": "Pour f(x) = 2x − 1, complète le tableau de valeurs pour x = −2, 0, 1, 3, puis explique comment tracer la représentation graphique.",
+      "solution": "f(−2) = −5, f(0) = −1, f(1) = 1, f(3) = 5. On place les points (−2 ; −5), (0 ; −1), (1 ; 1) et (3 ; 5) : ils sont alignés. On trace la droite qui passe par ces points.",
+      "success_criterion": "Calculer correctement les quatre images et indiquer que la représentation est une droite."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un cinéma propose deux formules. Formule A : 8 € la séance, soit f(x) = 8x. Formule B : abonnement de 30 € puis 5 € la séance, soit g(x) = 5x + 30. Calcule le prix pour 5, 10 et 15 séances avec chaque formule. À partir de combien de séances la formule B est-elle la moins chère ?",
+      "solution": "Formule A : 40 €, 80 € et 120 €. Formule B : 55 €, 80 € et 105 €. Pour 10 séances, les prix sont égaux (80 €). Pour 11 séances : A donne 88 € et B donne 85 €. La formule B est donc la moins chère à partir de 11 séances.",
+      "success_criterion": "Calculer les six prix, repérer l’égalité à 10 séances et conclure avec 11 séances."
+    },
+    {
+      "prompt": "Une fonction affine f vérifie f(0) = 3 et f(2) = 7. Détermine f(x).",
+      "solution": "f(x) = ax + b. Comme f(0) = 3, b = 3. Comme f(2) = 7, 2a + 3 = 7, donc 2a = 4 et a = 2. Ainsi f(x) = 2x + 3. Vérification : f(2) = 4 + 3 = 7.",
+      "success_criterion": "Utiliser f(0) pour b, puis résoudre une équation pour a et vérifier."
+    }
+  ],
+  "audio_transcript": "Une fonction associe à chaque nombre x un unique nombre noté f de x. Si f de x égale 3x moins 2, alors f de 4 vaut 10. On dit que 10 est l’image de 4, et que 4 est un antécédent de 10. Une fonction linéaire s’écrit f de x égale a x. Sa représentation est une droite qui passe par l’origine. Une fonction affine s’écrit f de x égale a x plus b. Sa représentation est une droite qui coupe l’axe vertical en b. Pour tracer une droite, deux points suffisent. Pour trouver un antécédent, on résout une équation.",
+  "guided_explanation": "Imagine une machine : tu mets un nombre dedans, elle applique toujours la même recette et te rend un seul nombre. La recette de f(x) = 3x − 2 est : multiplier par 3, puis retirer 2. Si tu entres 4, tu obtiens 10 : c’est l’image. Chercher un antécédent, c’est faire le chemin inverse : on sait ce qui sort et on cherche ce qui est entré. Par exemple, pour obtenir 7, on résout 3x − 2 = 7 et on trouve 3. Avec une fonction affine, le prix d’un abonnement est un bon exemple : une partie fixe (b) et une partie qui augmente à chaque unité (a)."
+}

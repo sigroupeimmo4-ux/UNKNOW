@@ -1,0 +1,132 @@
+{
+  "id": "cm2-grands-nombres",
+  "title": "Les grands nombres jusqu’à 999 999 999",
+  "chapter_id": "cm2-grands-nombres",
+  "program_id": "CM2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Lire et écrire en chiffres et en lettres des nombres entiers jusqu’à neuf chiffres.",
+    "Connaître la valeur d’un chiffre selon sa position et décomposer un grand nombre.",
+    "Comparer et ranger des grands nombres avec les symboles <, > et =."
+  ],
+  "skill_ids": [
+    "cm2-grands-nombres-skill",
+    "cm2-grands-nombres-compare"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les classes d’un nombre",
+      "text": "Un grand nombre s’écrit en groupes de trois chiffres, appelés classes, séparés par une espace. De droite à gauche : la classe des unités, la classe des milliers, puis la classe des millions. Chaque classe contient des centaines, des dizaines et des unités. Avec trois classes, on écrit des nombres jusqu’à neuf chiffres, comme 482 056 319. On le lit : « quatre cent quatre-vingt-deux millions cinquante-six mille trois cent dix-neuf »."
+    },
+    {
+      "title": "La valeur d’un chiffre",
+      "text": "Dans 482 056 319, le 4 est le chiffre des centaines de millions : il vaut 400 000 000. Le 8 vaut 80 000 000 (dizaines de millions), le 2 vaut 2 000 000, le 0 n’ajoute rien, le 5 vaut 50 000, le 6 vaut 6 000, puis 300, 10 et 9. Décomposition : 482 056 319 = 400 000 000 + 80 000 000 + 2 000 000 + 50 000 + 6 000 + 300 + 10 + 9. On peut aussi écrire 482 × 1 000 000 + 56 × 1 000 + 319. Un million vaut mille milliers."
+    },
+    {
+      "title": "Écrire en chiffres avec les zéros",
+      "text": "Pour écrire « trois millions quatre mille vingt », on utilise les classes : 3 millions ; 4 mille, qu’on écrit 004 ; vingt, qu’on écrit 020. On obtient 3 004 020. Chaque classe doit avoir trois chiffres (sauf la première à gauche) : les zéros gardent les places vides. Sans eux, 3 4 20 serait un autre nombre."
+    },
+    {
+      "title": "Comparer et ranger",
+      "text": "Un nombre qui a plus de chiffres (sans zéro inutile à gauche) est plus grand : 98 765 432 a 8 chiffres et 123 456 789 en a 9, donc 98 765 432 < 123 456 789. Si deux nombres ont autant de chiffres, on compare de gauche à droite jusqu’à trouver le premier chiffre différent : 245 300 000 > 245 030 000, car 3 centaines de mille sont plus que 0."
+    }
+  ],
+  "revision_sheet": [
+    "Classes : unités, milliers, millions (groupes de trois chiffres).",
+    "Un million = 1 000 milliers = 1 000 000.",
+    "482 056 319 = 482 × 1 000 000 + 56 × 1 000 + 319.",
+    "Les zéros gardent les places vides : trois millions quatre mille vingt s’écrit 3 004 020.",
+    "Plus de chiffres = plus grand ; à égalité, on compare de gauche à droite."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans 36 408 275, que représente le chiffre 6 ?",
+      "choices": [
+        "6 000",
+        "600 000",
+        "6 000 000"
+      ],
+      "correct_index": 2,
+      "explanation": "Le 6 est le dernier chiffre de la classe des millions (36) : il compte 6 unités de million, soit 6 000 000."
+    },
+    {
+      "prompt": "Comment s’écrit « douze millions cinq mille trois » ?",
+      "choices": [
+        "12 005 003",
+        "12 500 003",
+        "12 050 003"
+      ],
+      "correct_index": 0,
+      "explanation": "12 millions ; 5 mille s’écrit 005 ; 3 s’écrit 003. On obtient 12 005 003."
+    },
+    {
+      "prompt": "Quel est le plus grand de ces nombres ?",
+      "choices": [
+        "99 999 999",
+        "100 000 000",
+        "9 999 999"
+      ],
+      "correct_index": 1,
+      "explanation": "100 000 000 a 9 chiffres alors que les deux autres en ont 8 et 7. Il est donc le plus grand."
+    },
+    {
+      "prompt": "Que vaut 25 × 1 000 000 + 3 × 1 000 + 40 ?",
+      "choices": [
+        "25 003 040",
+        "25 300 040",
+        "253 040"
+      ],
+      "correct_index": 0,
+      "explanation": "25 000 000 + 3 000 + 40 = 25 003 040. Les milliers s’écrivent 003 dans la deuxième classe."
+    },
+    {
+      "prompt": "Combien de milliers y a-t-il dans un million ?",
+      "choices": [
+        "1 000",
+        "100",
+        "10 000"
+      ],
+      "correct_index": 0,
+      "explanation": "1 000 000 = 1 000 × 1 000. Un million contient donc mille milliers."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris en chiffres : sept cent huit millions quarante mille neuf cent.",
+      "solution": "708 040 900.",
+      "success_criterion": "Placer 708 dans les millions, 040 dans les milliers et 900 dans les unités."
+    },
+    {
+      "prompt": "Décompose 305 070 810 en une somme de valeurs de chiffres.",
+      "solution": "305 070 810 = 300 000 000 + 5 000 000 + 70 000 + 800 + 10.",
+      "success_criterion": "Ne pas écrire de terme pour les chiffres 0 et donner la bonne valeur aux autres."
+    },
+    {
+      "prompt": "Range dans l’ordre croissant : 45 090 000 ; 45 009 000 ; 4 590 000 ; 45 900 000.",
+      "solution": "4 590 000 < 45 009 000 < 45 090 000 < 45 900 000.",
+      "success_criterion": "Compter les chiffres, puis comparer de gauche à droite."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris 3 004 020 en lettres.",
+      "solution": "Trois millions quatre mille vingt.",
+      "success_criterion": "Lire classe par classe : millions, milliers, unités."
+    },
+    {
+      "prompt": "Compare 123 456 789 et 123 465 789 avec le symbole < ou >.",
+      "solution": "123 456 789 < 123 465 789. Les premiers chiffres sont identiques ; au cinquième chiffre, 5 est plus petit que 6.",
+      "success_criterion": "Trouver le premier chiffre différent et justifier."
+    },
+    {
+      "prompt": "Dans 740 215 006, donne la valeur du chiffre 4 et celle du chiffre 5.",
+      "solution": "Le 4 est le chiffre des dizaines de millions : 40 000 000. Le 5 est le chiffre des unités de mille : 5 000.",
+      "success_criterion": "Nommer le rang de chaque chiffre et écrire sa valeur."
+    }
+  ],
+  "audio_transcript": "Pour lire un grand nombre, on le coupe en classes de trois chiffres : les unités, les milliers et les millions. Le nombre quatre cent quatre-vingt-deux millions cinquante-six mille trois cent dix-neuf s’écrit en chiffres quatre cent quatre-vingt-deux, zéro cinquante-six, trois cent dix-neuf. Le chiffre quatre vaut quatre cents millions, car il est à la place des centaines de millions. Les zéros sont importants : ils gardent les places vides. Trois millions quatre mille vingt s’écrit trois, zéro zéro quatre, zéro vingt. Pour comparer, on regarde d’abord le nombre de chiffres, puis on compare de gauche à droite.",
+  "guided_explanation": "Aide-toi d’un tableau avec trois grandes colonnes : millions, milliers et unités. Dans chaque colonne, mets trois cases : centaines, dizaines, unités. Place ensuite chaque chiffre dans sa case, en partant de la droite, et complète les cases vides avec des zéros. Pour 3 004 020 : 3 va dans les unités de millions, 4 dans les unités de mille, 2 dans les dizaines. Pour comparer deux nombres, aligne-les dans le tableau : le premier chiffre qui diffère, en partant de la gauche, te donne la réponse."
+}

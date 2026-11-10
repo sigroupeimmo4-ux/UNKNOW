@@ -1,0 +1,128 @@
+{
+  "id": "cm1-groupe-nominal-accords",
+  "title": "Le groupe nominal et la chaîne d’accords",
+  "chapter_id": "cm1-groupe-nominal-accords",
+  "program_id": "CM1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Repérer le déterminant, le nom noyau et l’adjectif dans un groupe nominal.",
+    "Accorder le déterminant et l’adjectif avec le nom noyau en genre et en nombre.",
+    "Justifier les accords effectués."
+  ],
+  "skill_ids": [
+    "cm1-groupe-nominal-accords-reperer-gn-skill",
+    "cm1-groupe-nominal-accords-accords-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser le groupe nominal et Réaliser la chaîne d’accords au sein du groupe nominal, page 18 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le groupe nominal",
+      "text": "Un groupe nominal (GN) est un groupe de mots organisé autour d’un nom. Il peut s’écrire : déterminant + nom (« le chat »), déterminant + nom + adjectif (« un chien fidèle ») ou déterminant + adjectif + nom (« une grande maison »). Le nom principal s’appelle le nom noyau. L’adjectif qui décrit le nom s’appelle un adjectif épithète : on peut le supprimer et la phrase reste correcte. Les déterminants sont par exemple le, la, les, un, une, des, mon, ma, mes, ce, cette, ces."
+    },
+    {
+      "title": "Le nom noyau, donneur d’accord",
+      "text": "Le nom noyau donne son genre (masculin ou féminin) et son nombre (singulier ou pluriel) aux autres mots du groupe nominal : on dit qu’il est le donneur d’accord. Le déterminant et l’adjectif s’accordent avec lui. « le chat noir » devient « les chats noirs » : le nom noyau chats est au pluriel, donc le déterminant est les et l’adjectif prend un s. « la voiture rouge » devient « les voitures rouges ». Pour mettre au féminin, on ajoute le plus souvent un e à l’adjectif : « un ami poli » → « une amie polie »."
+    },
+    {
+      "title": "Transformer un groupe nominal",
+      "text": "Pour changer le genre ou le nombre d’un groupe nominal, suis quatre étapes. 1. Repère le nom noyau. 2. Change-le (genre ou nombre). 3. Accorde le déterminant et l’adjectif avec lui. 4. Justifie : « Fleurs est féminin pluriel, donc j’écris les belles fleurs. » Exemples : « la belle fleur » → « les belles fleurs » ; « le grand voisin » → « la grande voisine » ; « ce petit oiseau » → « ces petits oiseaux »."
+    }
+  ],
+  "revision_sheet": [
+    "Un groupe nominal est organisé autour du nom noyau : déterminant + nom, déterminant + nom + adjectif, déterminant + adjectif + nom.",
+    "Le nom noyau est le donneur d’accord : il donne genre et nombre au déterminant et à l’adjectif.",
+    "Pluriel régulier : on ajoute s. Féminin régulier : on ajoute e (poli → polie).",
+    "Déterminants : le/la/les, un/une/des, mon/ma/mes, ce/cette/ces.",
+    "Pour accorder : repérer le noyau, le changer, accorder les autres mots, justifier."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « la petite fille », quel est le nom noyau ?",
+      "choices": [
+        "la",
+        "fille",
+        "petite"
+      ],
+      "correct_index": 1,
+      "explanation": "Fille est le nom : il donne son genre (féminin) et son nombre (singulier) à « la » et à « petite »."
+    },
+    {
+      "prompt": "Quel groupe nominal est correctement accordé ?",
+      "choices": [
+        "des fleurs rouges",
+        "des fleurs rouge",
+        "des fleur rouges"
+      ],
+      "correct_index": 0,
+      "explanation": "Le nom noyau « fleurs » est au pluriel : le déterminant est « des » et l’adjectif prend un s."
+    },
+    {
+      "prompt": "Comment met-on « un ami poli » au féminin ?",
+      "choices": [
+        "un amie polie",
+        "une ami poli",
+        "une amie polie"
+      ],
+      "correct_index": 2,
+      "explanation": "Le noyau devient « amie » (féminin) : le déterminant devient « une » et l’adjectif prend un e, « polie »."
+    },
+    {
+      "prompt": "Quel est le pluriel de « ce grand arbre » ?",
+      "choices": [
+        "ce grands arbres",
+        "ces grands arbres",
+        "ces grand arbre"
+      ],
+      "correct_index": 1,
+      "explanation": "Au pluriel, ce devient ces, l’adjectif grand prend un s et le nom arbre prend un s."
+    },
+    {
+      "prompt": "Quel mot donne le genre et le nombre aux autres mots d’un groupe nominal ?",
+      "choices": [
+        "Le déterminant",
+        "L’adjectif",
+        "Le nom noyau"
+      ],
+      "correct_index": 2,
+      "explanation": "Le nom noyau est le donneur d’accord : le déterminant et l’adjectif s’accordent avec lui."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Pour chaque groupe nominal, donne le déterminant, le nom noyau et l’adjectif : un chien fidèle ; une grande maison ; les nuages gris.",
+      "solution": "un / chien / fidèle ; une / maison / grande ; les / nuages / gris.",
+      "success_criterion": "Identifier les trois éléments, même quand l’adjectif est placé avant le nom."
+    },
+    {
+      "prompt": "Mets au pluriel : la belle fleur ; un chat noir ; ce petit oiseau.",
+      "solution": "les belles fleurs ; des chats noirs ; ces petits oiseaux.",
+      "success_criterion": "Changer le déterminant et ajouter la marque du pluriel au nom et à l’adjectif."
+    },
+    {
+      "prompt": "Mets au féminin : un grand voisin ; le petit ami ; un élève poli.",
+      "solution": "une grande voisine ; la petite amie ; une élève polie.",
+      "success_criterion": "Changer le déterminant et ajouter e à l’adjectif et au nom quand il varie."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Recopie en corrigeant et justifie : « les petite chiens fidèle ».",
+      "solution": "les petits chiens fidèles. Le nom noyau « chiens » est masculin pluriel : « petite » devient « petits » et « fidèle » devient « fidèles » (il prend un s ; il ne change pas au masculin).",
+      "success_criterion": "Repérer le nom noyau et expliquer chaque accord à partir de lui."
+    },
+    {
+      "prompt": "Écris au féminin singulier : « des amis polis ».",
+      "solution": "une amie polie.",
+      "success_criterion": "Changer à la fois le genre et le nombre, avec un e et sans s."
+    },
+    {
+      "prompt": "Pourquoi écrit-on « des voitures rapides » avec un s à « rapides » ?",
+      "solution": "Le nom noyau « voitures » est au pluriel ; l’adjectif « rapides » s’accorde avec lui et prend la marque du pluriel.",
+      "success_criterion": "Nommer le nom noyau comme donneur d’accord."
+    }
+  ],
+  "audio_transcript": "Un groupe nominal est organisé autour d’un nom, qu’on appelle le nom noyau. Autour de lui, il y a un déterminant, comme le, une ou mes, et parfois un adjectif, comme grand ou rouge. Le nom noyau est le donneur d’accord : il donne son genre et son nombre aux autres mots. Dans les petites maisons blanches, maisons est féminin pluriel, donc le déterminant, l’adjectif petite et l’adjectif blanche s’accordent avec lui.",
+  "guided_explanation": "Pour accorder un groupe nominal, pose-toi trois questions. Quel est le nom noyau ? Il est comme le chef du groupe. Est-il masculin ou féminin, singulier ou pluriel ? Les autres mots du groupe doivent s’accorder avec lui. Si tu changes le nom, change aussi le déterminant et l’adjectif, un mot après l’autre. À la fin, relis le groupe en disant à voix haute pourquoi chaque mot s’écrit ainsi : si tu peux justifier chaque marque, ton accord est bon."
+}

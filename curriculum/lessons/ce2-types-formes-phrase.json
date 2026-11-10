@@ -1,0 +1,128 @@
+{
+  "id": "ce2-types-formes-phrase",
+  "title": "Les types et les formes de phrases",
+  "chapter_id": "ce2-types-formes-phrase",
+  "program_id": "CE2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaitre une phrase déclarative, interrogative ou impérative.",
+    "Transformer une phrase à la forme négative.",
+    "Reconnaitre une phrase exclamative et choisir la bonne ponctuation de fin de phrase."
+  ],
+  "skill_ids": [
+    "ce2-types-formes-phrase-skill-types",
+    "ce2-types-formes-phrase-skill-formes"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les trois types de phrases",
+      "text": "La phrase déclarative donne une information et se termine par un point : « Le chat dort sur le canapé. » La phrase interrogative pose une question et se termine par un point d’interrogation : « Où est mon cartable ? » La phrase impérative donne un ordre, un conseil ou une consigne : « Range ta chambre. » Son verbe est à l’impératif et souvent il n’y a pas de sujet."
+    },
+    {
+      "title": "La forme négative",
+      "text": "Une phrase à la forme négative dit que quelque chose n’est pas vrai ou n’a pas lieu. On entoure le verbe avec ne ... pas : « Jean, ferme la porte. » devient « Jean, ne ferme pas la porte. » On peut aussi utiliser ne ... jamais, ne ... plus ou ne ... rien. Devant une voyelle, ne s’écrit n’ : « Le chien n’aboie pas. »"
+    },
+    {
+      "title": "La forme exclamative et la ponctuation",
+      "text": "Une phrase exclamative exprime une émotion : la surprise, la joie, la colère. Elle se termine par un point d’exclamation : « Quel beau dessin ! » On peut aussi mettre un point d’exclamation à la fin d’un ordre : « Viens vite ! » Toute phrase commence par une majuscule et se termine par un point (.), un point d’interrogation (?) ou un point d’exclamation (!)."
+    }
+  ],
+  "revision_sheet": [
+    "Phrase déclarative : elle donne une information (point). Phrase interrogative : elle pose une question (?). Phrase impérative : elle donne un ordre ou un conseil.",
+    "Phrase exclamative : elle exprime une émotion et finit par un point d’exclamation (!).",
+    "Forme négative : on entoure le verbe avec ne ... pas ; ne devient n’ devant une voyelle.",
+    "Jean, ferme la porte. devient Jean, ne ferme pas la porte.",
+    "Toute phrase commence par une majuscule et finit par . ? ou !"
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est le type de la phrase « Où as-tu mis ton manteau ? » ?",
+      "choices": [
+        "Déclarative",
+        "Interrogative",
+        "Impérative"
+      ],
+      "correct_index": 1,
+      "explanation": "La phrase pose une question et se termine par un point d’interrogation : elle est interrogative."
+    },
+    {
+      "prompt": "Quel est le type de la phrase « Ouvre ton cahier à la page 12. » ?",
+      "choices": [
+        "Interrogative",
+        "Déclarative",
+        "Impérative"
+      ],
+      "correct_index": 2,
+      "explanation": "Cette phrase donne une consigne avec un verbe à l’impératif : elle est impérative."
+    },
+    {
+      "prompt": "Quelle est la forme négative de « Le chien aboie. » ?",
+      "choices": [
+        "Le chien n’aboie pas.",
+        "Le chien aboie pas.",
+        "Le chien ne aboie pas."
+      ],
+      "correct_index": 0,
+      "explanation": "On entoure le verbe avec ne ... pas, et ne devient n’ devant la voyelle a : Le chien n’aboie pas."
+    },
+    {
+      "prompt": "Quelle phrase est exclamative ?",
+      "choices": [
+        "Tu veux du gâteau ?",
+        "Mange ton gâteau.",
+        "Quel beau gâteau !"
+      ],
+      "correct_index": 2,
+      "explanation": "« Quel beau gâteau ! » exprime une émotion et se termine par un point d’exclamation."
+    },
+    {
+      "prompt": "Quelle ponctuation faut-il à la fin de « Est-ce que tu viens avec nous » ?",
+      "choices": [
+        ".",
+        "?",
+        "!"
+      ],
+      "correct_index": 1,
+      "explanation": "C’est une question : on termine par un point d’interrogation."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Indique le type de chaque phrase : a) Il pleut ce matin. b) Veux-tu m’aider ? c) Prends ton manteau.",
+      "solution": "a) déclarative ; b) interrogative ; c) impérative.",
+      "success_criterion": "Justifier chaque réponse par le sens ou la ponctuation de la phrase."
+    },
+    {
+      "prompt": "Mets à la forme négative : a) Léa aime les épinards. b) Tu ouvres la fenêtre.",
+      "solution": "a) Léa n’aime pas les épinards. b) Tu n’ouvres pas la fenêtre.",
+      "success_criterion": "Placer ne (ou n’) devant le verbe et pas après le verbe."
+    },
+    {
+      "prompt": "Écris une phrase exclamative pour dire que tu es content d’un cadeau.",
+      "solution": "Par exemple : « Quel beau cadeau ! » ou « Comme je suis content ! »",
+      "success_criterion": "Écrire une phrase qui exprime une émotion, avec une majuscule et un point d’exclamation."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris une phrase déclarative, une phrase interrogative et une phrase impérative sur le thème de l’école.",
+      "solution": "Par exemple : « La maitresse corrige les cahiers. » ; « Quand commence la récréation ? » ; « Range ta trousse. »",
+      "success_criterion": "Produire trois phrases correctes, avec la bonne ponctuation et la majuscule."
+    },
+    {
+      "prompt": "Mets à la forme négative : a) Les enfants jouent dans la cour. b) Mange ta soupe.",
+      "solution": "a) Les enfants ne jouent pas dans la cour. b) Ne mange pas ta soupe.",
+      "success_criterion": "Entourer le verbe avec ne ... pas dans les deux phrases."
+    },
+    {
+      "prompt": "Corrige la ponctuation et la majuscule : « quel beau jour. » et « Pourquoi tu pleures. »",
+      "solution": "« Quel beau jour ! » et « Pourquoi tu pleures ? »",
+      "success_criterion": "Ajouter la majuscule et choisir ! pour l’exclamation et ? pour la question."
+    }
+  ],
+  "audio_transcript": "Il existe trois types de phrases. La phrase déclarative donne une information et se termine par un point. La phrase interrogative pose une question et se termine par un point d’interrogation. La phrase impérative donne un ordre ou un conseil. Une phrase peut aussi être exclamative : elle exprime une émotion et se termine par un point d’exclamation. À la forme négative, on entoure le verbe avec ne et pas. Jean, ferme la porte devient : Jean, ne ferme pas la porte.",
+  "guided_explanation": "Pour reconnaitre le type d’une phrase, pose-toi trois questions. Est-ce qu’on me donne une information ? C’est une phrase déclarative. Est-ce qu’on me pose une question ? C’est une phrase interrogative. Est-ce qu’on me demande de faire quelque chose ? C’est une phrase impérative. Pour la mettre à la forme négative, trouve le verbe, mets ne avant lui et pas après lui : « Il mange » devient « Il ne mange pas ». N’oublie pas la majuscule au début et la ponctuation à la fin."
+}

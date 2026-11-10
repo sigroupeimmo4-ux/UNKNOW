@@ -29,7 +29,7 @@ class DesignTests(unittest.TestCase):
     def nav(self,name):return self.page.get_by_role('navigation',name='Menu principal').get_by_role('link',name=name,exact=True)
     def test_eleven_sidebar_routes_reload_and_active_state(self):
         self.open('index.html')
-        for name,route in [('Accueil','index.html'),('Programmes','programmes.html'),('Cours','cours.html'),('Fiches','fiches.html'),('Audio','audio.html'),('Quiz','quiz.html'),('Vidéos','videos.html'),('Learning Pass','learning-pass.html'),('Mon dragon','app.html#dragon'),('Progression','app.html#progress'),('Paramètres','app.html#settings')]:
+        for name,route in [('Accueil','index.html'),('Programmes','programmes.html'),('Cours','cours.html'),('Fiches','fiches.html'),('Audio','audio.html'),('Quiz','quiz.html'),('Learning Pass','learning-pass.html'),('Mon dragon','app.html#dragon'),('Progression','app.html#progress'),('Paramètres','app.html#settings')]:
             with self.subTest(name=name):
                 self.nav(name).click();expect(self.page).to_have_url(self.base+route)
                 expect(self.nav(name)).to_have_attribute('aria-current','page')

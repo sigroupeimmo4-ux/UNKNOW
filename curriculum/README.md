@@ -10,8 +10,8 @@
 | Entrées classe/matière/type/variante | 296 références identifiées, sans présumer leur exhaustivité |
 | Références avec date d’application contrôlée | 72 |
 | Sources archivées avec empreinte SHA-256 | 96, dont 21 PDF |
-| Chapitres avec activités reliées à une source | 3, en mathématiques au CP |
-| Formats de contenu associés | 21 : 7 formats par chapitre |
+| Chapitres avec activités reliées à une source | 51 : CP (3) puis CE1 à 3e, 3 chapitres de maths et 3 de français par classe |
+| Formats de contenu associés | 357 : 7 formats par chapitre |
 | Programmes entièrement intégrés | **0** |
 
 Ces chiffres ne signifient pas que toutes les matières sont couvertes. Les entrées peuvent désigner un groupe de matières ou une même référence reprise dans plusieurs classes. L’inventaire détaillé des langues, séries, options et diplômes professionnels reste à compléter et à vérifier.

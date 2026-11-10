@@ -1,0 +1,133 @@
+{
+  "id": "ce2-nombres-10000",
+  "title": "Lire, écrire et décomposer les nombres jusqu’à 10 000",
+  "chapter_id": "ce2-nombres-10000",
+  "program_id": "CE2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Connaitre les relations entre unités, dizaines, centaines et milliers.",
+    "Donner la valeur d’un chiffre selon sa position dans un nombre jusqu’à 10 000.",
+    "Écrire un même nombre de plusieurs façons (somme, unités de numération, lettres)."
+  ],
+  "skill_ids": [
+    "ce2-nombres-10000-skill",
+    "ce2-nombres-10000-skill-repr"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les unités de numération",
+      "text": "Dix unités forment une dizaine. Dix dizaines forment une centaine. Dix centaines forment un millier, c’est-à-dire 1 000. Dix milliers forment 10 000. Avec des cubes, des barres de dix, des plaques de cent et un gros cube de mille, tu peux construire n’importe quel nombre jusqu’à 10 000."
+    },
+    {
+      "title": "La valeur d’un chiffre dépend de sa place",
+      "text": "Dans 4 635, le chiffre 4 est à la place des milliers : il vaut 4 000. Le 6 est à la place des centaines : il vaut 600. Le 3 vaut 30 et le 5 vaut 5. On écrit 4 635 = 4 000 + 600 + 30 + 5, ou encore (4 × 1 000) + (6 × 100) + (3 × 10) + (5 × 1). Le zéro garde une place vide : dans 4 035, il n’y a aucune centaine."
+    },
+    {
+      "title": "Plusieurs écritures pour un même nombre",
+      "text": "Le nombre 4 635 peut s’écrire de plusieurs façons. En lettres : quatre-mille-six-cent-trente-cinq. En unités de numération : 4 milliers, 6 centaines, 3 dizaines et 5 unités. On peut aussi dire 463 dizaines et 5 unités, car 463 × 10 = 4 630 et 4 630 + 5 = 4 635. Ou encore 4 635 unités. Toutes ces écritures désignent la même quantité."
+    },
+    {
+      "title": "Grouper pour dénombrer",
+      "text": "Une entreprise a besoin de 1 235 filtres et achète seulement des lots de cent. Avec 12 lots, elle a 1 200 filtres : ce n’est pas assez. Avec 13 lots, elle a 1 300 filtres : c’est suffisant. Il faut donc acheter 13 lots."
+    }
+  ],
+  "revision_sheet": [
+    "10 unités = 1 dizaine ; 10 dizaines = 1 centaine ; 10 centaines = 1 millier (1 000) ; 10 milliers = 10 000.",
+    "La valeur d’un chiffre dépend de sa position : dans 4 635, le 6 vaut 600.",
+    "4 635 = 4 000 + 600 + 30 + 5 = (4 × 1 000) + (6 × 100) + (3 × 10) + (5 × 1).",
+    "4 635 = 463 dizaines et 5 unités = 4 635 unités.",
+    "Le zéro garde la place d’une unité de numération absente : 4 035 n’a aucune centaine."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans 7 285, quelle est la valeur du chiffre 2 ?",
+      "choices": [
+        "2",
+        "20",
+        "200",
+        "2 000"
+      ],
+      "correct_index": 2,
+      "explanation": "Le 2 est à la place des centaines : il vaut 2 centaines, c’est-à-dire 200."
+    },
+    {
+      "prompt": "Quelle décomposition est égale à 5 308 ?",
+      "choices": [
+        "5 000 + 300 + 80",
+        "5 000 + 300 + 8",
+        "5 000 + 30 + 8"
+      ],
+      "correct_index": 1,
+      "explanation": "5 308 contient 5 milliers, 3 centaines, 0 dizaine et 8 unités : 5 000 + 300 + 8."
+    },
+    {
+      "prompt": "Quel nombre s’écrit avec 3 milliers, 0 centaine, 9 dizaines et 4 unités ?",
+      "choices": [
+        "3 094",
+        "3 904",
+        "394"
+      ],
+      "correct_index": 0,
+      "explanation": "3 000 + 0 + 90 + 4 = 3 094. Le zéro garde la place des centaines."
+    },
+    {
+      "prompt": "Quel nombre est égal à 527 dizaines et 4 unités ?",
+      "choices": [
+        "574",
+        "52 704",
+        "5 274"
+      ],
+      "correct_index": 2,
+      "explanation": "527 dizaines valent 5 270. Avec 4 unités, on obtient 5 270 + 4 = 5 274."
+    },
+    {
+      "prompt": "Une entreprise a besoin de 1 235 filtres et n’achète que des lots de cent. Combien de lots doit-elle acheter pour en avoir assez ?",
+      "choices": [
+        "12",
+        "13",
+        "123"
+      ],
+      "correct_index": 1,
+      "explanation": "12 lots font 1 200, ce qui est trop peu. 13 lots font 1 300, ce qui suffit."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris 6 408 comme une somme de milliers, centaines, dizaines et unités.",
+      "solution": "6 408 = 6 000 + 400 + 8.",
+      "success_criterion": "Écrire 6 000 + 400 + 8 sans inventer de dizaines : le chiffre des dizaines est 0."
+    },
+    {
+      "prompt": "Écris en chiffres : 8 milliers, 2 centaines, 7 dizaines et 1 unité.",
+      "solution": "8 000 + 200 + 70 + 1 = 8 271.",
+      "success_criterion": "Placer chaque chiffre à sa position et écrire 8 271."
+    },
+    {
+      "prompt": "Combien y a-t-il de dizaines dans 3 460 ?",
+      "solution": "3 460 = 346 dizaines, car 346 × 10 = 3 460.",
+      "success_criterion": "Répondre 346 en expliquant que 3 460 est dix fois 346."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique pourquoi 4 305 et 4 350 ne sont pas le même nombre.",
+      "solution": "4 305 = 4 000 + 300 + 5 : il y a 0 dizaine et 5 unités. 4 350 = 4 000 + 300 + 50 : il y a 5 dizaines et 0 unité.",
+      "success_criterion": "Comparer la valeur du 5 dans chaque nombre (5 unités ou 5 dizaines)."
+    },
+    {
+      "prompt": "Donne trois écritures différentes du nombre 2 718.",
+      "solution": "Par exemple : 2 000 + 700 + 10 + 8 ; 27 centaines et 18 unités (2 700 + 18) ; 271 dizaines et 8 unités (2 710 + 8).",
+      "success_criterion": "Écrire au moins trois écritures correctes qui valent toutes 2 718."
+    },
+    {
+      "prompt": "Une classe a 1 450 billes. Elle les range dans des sachets de cent billes. Combien de sachets complets peut-elle remplir ? Combien de billes restent ?",
+      "solution": "14 sachets complets (14 × 100 = 1 400). Il reste 50 billes.",
+      "success_criterion": "Trouver 14 sachets et 50 billes restantes en s’aidant des centaines du nombre."
+    }
+  ],
+  "audio_transcript": "Dans un nombre, la valeur d’un chiffre dépend de sa place. Dix unités forment une dizaine, dix dizaines forment une centaine, dix centaines forment un millier. Prenons le nombre quatre-mille-six-cent-trente-cinq. Le quatre vaut quatre mille, le six vaut six cents, le trois vaut trente et le cinq vaut cinq. On peut aussi dire : quatre cent soixante-trois dizaines et cinq unités. Le zéro garde la place quand il manque une unité de numération : dans quatre-mille-trente-cinq, il n’y a aucune centaine.",
+  "guided_explanation": "Imagine que tu ranges des petits cubes. Dix cubes forment une barre, dix barres forment une plaque, dix plaques forment un gros cube de mille. Pour le nombre 4 635, il te faut 4 gros cubes, 6 plaques, 3 barres et 5 petits cubes. Chaque chiffre te dit combien de paquets de chaque sorte tu prends. Si une sorte manque, comme les plaques dans 4 035, on met un zéro pour ne pas se tromper. Pour vérifier, additionne : 4 000 + 600 + 30 + 5 doit redonner 4 635."
+}

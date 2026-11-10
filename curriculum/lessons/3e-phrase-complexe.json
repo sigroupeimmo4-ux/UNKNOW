@@ -1,0 +1,129 @@
+{
+  "id": "3e-phrase-complexe",
+  "title": "Reconnaître et analyser la phrase complexe",
+  "chapter_id": "3e-phrase-complexe",
+  "program_id": "3e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer une phrase simple d’une phrase complexe en repérant les verbes conjugués.",
+    "Reconnaître la juxtaposition, la coordination et la subordination.",
+    "Identifier une proposition subordonnée relative et la fonction du pronom relatif, puis reconnaître une subordonnée conjonctive."
+  ],
+  "skill_ids": [
+    "3e-phrase-complexe-skill-propositions",
+    "3e-phrase-complexe-skill-relations",
+    "3e-phrase-complexe-skill-subordonnees"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe, pages 22–23 (pagination du PDF).",
+    "Même programme, Terminologie utilisée (phrase simple / complexe, proposition indépendante / principale / subordonnée, coordination / juxtaposition / subordination), page 26."
+  ],
+  "course": [
+    {
+      "title": "Phrase simple et phrase complexe",
+      "text": "Une proposition est un groupe de mots organisé autour d’un verbe conjugué. Une phrase simple ne contient qu’une proposition : « Léa lit. » Une phrase complexe contient plusieurs propositions, donc plusieurs verbes conjugués : « Léa lit pendant que son frère dort. » (lit, dort). Pour compter les propositions, repère les verbes conjugués. Attention : un verbe à l’infinitif ne compte pas. « Léa aime lire. » est une phrase simple, car seul « aime » est conjugué."
+    },
+    {
+      "title": "Juxtaposition, coordination, subordination",
+      "text": "Les propositions d’une phrase complexe peuvent être reliées de trois façons. La juxtaposition : les propositions sont séparées par une virgule, un point-virgule ou deux-points, sans mot de liaison. « Il pleut, nous restons à la maison. » La coordination : les propositions sont reliées par une conjonction de coordination (mais, ou, et, donc, or, ni, car). « Il pleut mais nous sortons. » Les propositions sont alors de même niveau. La subordination : une proposition dépend d’une autre, la principale, grâce à un mot subordonnant (conjonction de subordination ou pronom relatif). « Nous sortons bien qu’il pleuve. » Ici « bien qu’il pleuve » est la proposition subordonnée."
+    },
+    {
+      "title": "La proposition subordonnée relative",
+      "text": "La subordonnée relative commence par un pronom relatif (qui, que, dont, où, lequel...). Elle complète un nom, appelé antécédent. « Le livre que j’ai lu est passionnant. » Antécédent : livre. Le pronom relatif a une fonction dans sa propre proposition. « Qui » est sujet : « La fille qui chante est ma sœur. » (qui = sujet de chante). « Que » est complément d’objet direct : dans « Le livre que j’ai lu », que est COD de « ai lu ». « Où » est complément circonstanciel de lieu ou de temps : « La maison où nous habitons est vieille. » « Dont » introduit un complément de verbe ou de nom : « Le film dont je parle est sorti hier. » Astuce : remplace le pronom relatif par son antécédent pour trouver sa fonction : « J’ai lu le livre » donne que = COD."
+    },
+    {
+      "title": "Les autres subordonnées",
+      "text": "La subordonnée conjonctive est introduite par une conjonction de subordination (que, quand, parce que, si, bien que, pour que...). Elle peut être complément d’objet direct : « Je pense que tu as raison. » Elle peut aussi être complément circonstanciel : « Elle sourit parce qu’elle est heureuse. » (cause). La subordonnée interrogative indirecte rapporte une question : « Je me demande s’il viendra. » On rencontre aussi la subordonnée infinitive (« Je regarde les enfants jouer. ») et la subordonnée participiale (« Le soleil étant couché, nous rentrons. »). Pour analyser une phrase : repère les verbes conjugués, découpe les propositions, trouve le mot qui les relie, puis indique la nature et la fonction de chaque proposition."
+    }
+  ],
+  "revision_sheet": [
+    "Une proposition s’organise autour d’un verbe conjugué. Phrase simple : 1 proposition ; phrase complexe : au moins 2.",
+    "Juxtaposition : ponctuation sans mot de liaison. Coordination : mais, ou, et, donc, or, ni, car. Subordination : une proposition dépend d’une principale.",
+    "Subordonnée relative : pronom relatif (qui, que, dont, où) + antécédent. Qui = sujet ; que = COD ; où = complément circonstanciel de lieu ou de temps.",
+    "Subordonnée conjonctive : introduite par une conjonction de subordination (que, quand, parce que, si, bien que...).",
+    "Un infinitif seul ne compte pas comme proposition (sauf proposition infinitive avec son propre sujet)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de propositions contient la phrase : « Quand la cloche sonne, les élèves rangent leurs affaires et sortent. » ?",
+      "choices": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "Il y a trois verbes conjugués : sonne, rangent, sortent. La phrase contient donc trois propositions."
+    },
+    {
+      "prompt": "« Il fait beau, nous allons à la plage. » Comment les propositions sont-elles reliées ?",
+      "choices": [
+        "Par coordination",
+        "Par juxtaposition",
+        "Par subordination"
+      ],
+      "correct_index": 1,
+      "explanation": "Les deux propositions sont séparées par une virgule, sans conjonction ni pronom relatif : c’est une juxtaposition."
+    },
+    {
+      "prompt": "Dans « Le chien que tu as adopté est adorable. », quelle est la fonction de « que » ?",
+      "choices": [
+        "Sujet de « est »",
+        "Complément circonstanciel de lieu",
+        "COD de « as adopté »"
+      ],
+      "correct_index": 2,
+      "explanation": "« Que » remplace « le chien » : tu as adopté le chien. Il est donc complément d’objet direct de « as adopté »."
+    },
+    {
+      "prompt": "Quelle phrase contient une proposition subordonnée relative ?",
+      "choices": [
+        "L’élève qui a gagné reçoit un prix.",
+        "Je pense que tu as raison.",
+        "Elle sourit parce qu’elle est heureuse."
+      ],
+      "correct_index": 0,
+      "explanation": "« Qui a gagné » commence par un pronom relatif et complète le nom « élève ». Dans les autres phrases, les subordonnées sont introduites par les conjonctions « que » et « parce que »."
+    },
+    {
+      "prompt": "Dans « Je veux un chien mais ma mère préfère un chat. », quelle est la nature de « mais » ?",
+      "choices": [
+        "Pronom relatif",
+        "Conjonction de coordination",
+        "Conjonction de subordination"
+      ],
+      "correct_index": 1,
+      "explanation": "« Mais » relie deux propositions de même niveau : c’est une conjonction de coordination."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Relève les verbes conjugués et dis si la phrase est simple ou complexe. a) Les oiseaux migrent vers le sud avant l’hiver. b) Quand l’hiver arrive, les oiseaux migrent. c) Elle a décidé de partir.",
+      "solution": "a) Verbe conjugué : migrent. Phrase simple. b) Verbes conjugués : arrive, migrent. Phrase complexe (2 propositions). c) Verbe conjugué : a décidé ; « partir » est à l’infinitif. Phrase simple.",
+      "success_criterion": "Repérer les verbes conjugués et ne pas compter l’infinitif."
+    },
+    {
+      "prompt": "Réunis chaque paire de phrases en une seule, avec une proposition subordonnée relative, et précise la fonction du pronom relatif. a) Le film est sorti hier. Je l’ai vu. b) La maison est vieille. Nous y habitons.",
+      "solution": "a) Le film que j’ai vu est sorti hier. « Que » est COD de « ai vu ». b) La maison où nous habitons est vieille. « Où » est complément circonstanciel de lieu.",
+      "success_criterion": "Choisir le bon pronom relatif (que, où) et justifier sa fonction."
+    },
+    {
+      "prompt": "Indique le type de liaison (juxtaposition, coordination ou subordination). a) Il étudie, il réussit. b) Il étudie donc il réussit. c) Il réussit parce qu’il étudie.",
+      "solution": "a) Juxtaposition (virgule). b) Coordination (conjonction de coordination « donc »). c) Subordination (conjonction de subordination « parce que » ; subordonnée conjonctive complément circonstanciel de cause).",
+      "success_criterion": "Repérer la ponctuation ou le mot de liaison et en déduire le type de liaison."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Analyse la phrase : « Le livre que tu m’as prêté me plaît, mais je ne l’ai pas fini. » Donne les propositions, leurs relations et la fonction de « que ».",
+      "solution": "Trois propositions : « Le livre me plaît » (principale), « que tu m’as prêté » (subordonnée relative qui complète « livre ») et « mais je ne l’ai pas fini » (proposition coordonnée à la principale par « mais »). Le pronom relatif « que » est COD de « as prêté ».",
+      "success_criterion": "Identifier trois verbes conjugués, la subordonnée relative avec son antécédent, la coordination par « mais » et la fonction COD de « que »."
+    },
+    {
+      "prompt": "Écris une phrase complexe contenant une subordonnée relative introduite par « qui », et indique la fonction de « qui ».",
+      "solution": "Exemple : « J’ai un ami qui habite à Lyon. » La subordonnée relative « qui habite à Lyon » complète « ami ». « Qui » est sujet du verbe « habite ».",
+      "success_criterion": "Produire une phrase correcte avec antécédent, relative introduite par « qui », et indiquer la fonction sujet."
+    }
+  ],
+  "audio_transcript": "Une phrase simple contient un seul verbe conjugué. Une phrase complexe en contient plusieurs. Les propositions peuvent être juxtaposées, avec une virgule, coordonnées, avec mais, ou, et, donc, or, ni, car, ou bien subordonnées. Une proposition subordonnée dépend d’une proposition principale. La subordonnée relative est introduite par un pronom relatif comme qui, que, dont ou où. Qui est sujet. Que est complément d’objet direct. Où est complément circonstanciel de lieu ou de temps. La subordonnée conjonctive est introduite par une conjonction de subordination, comme que, quand ou parce que.",
+  "guided_explanation": "Pour analyser une phrase complexe, avance par étapes. Première étape : entoure les verbes conjugués. Chaque verbe indique une proposition. Deuxième étape : cherche ce qui relie les propositions. Une virgule seule indique la juxtaposition. Un mot comme mais ou donc indique la coordination. Un pronom relatif ou une conjonction de subordination indique la subordination. Troisième étape : pour un pronom relatif, remplace-le par son antécédent et pose la question : est-il sujet, COD, ou complément de lieu ? Avec « Le livre que j’ai lu », on dit « j’ai lu le livre » : que est donc COD. Entraîne-toi sur tes propres phrases, c’est la meilleure méthode."
+}

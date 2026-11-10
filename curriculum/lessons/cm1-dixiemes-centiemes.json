@@ -1,0 +1,129 @@
+{
+  "id": "cm1-dixiemes-centiemes",
+  "title": "Découvrir les dixièmes, les centièmes et l’écriture à virgule",
+  "chapter_id": "cm1-dixiemes-centiemes",
+  "program_id": "CM1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Connaître les relations entre unités, dixièmes et centièmes.",
+    "Passer d’une somme de fractions décimales à l’écriture à virgule, et inversement.",
+    "Comparer et ranger des nombres décimaux ayant au plus deux chiffres après la virgule."
+  ],
+  "skill_ids": [
+    "cm1-dixiemes-centiemes-fractions-decimales-skill",
+    "cm1-dixiemes-centiemes-ecriture-virgule-skill",
+    "cm1-dixiemes-centiemes-comparer-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres décimaux, page 6 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les dixièmes et les centièmes",
+      "text": "Quand on partage une unité en 10 parts égales, chaque part est un dixième : 1/10. Quand on la partage en 100 parts égales, chaque part est un centième : 1/100. Donc 1 = 10/10 = 100/100, et 1 dixième = 10 centièmes (1/10 = 10/100). Les fractions dont le dénominateur est 10 ou 100 sont des fractions décimales : 3/10 se lit « trois dixièmes » et 47/100 se lit « quarante-sept centièmes ». Avec la monnaie, 1 centime est un centième d’euro."
+    },
+    {
+      "title": "L’écriture à virgule",
+      "text": "L’écriture à virgule est une façon courte d’écrire une somme : 35,78 = 35 + 7/10 + 8/100. Le chiffre avant la virgule compte les unités (la partie entière est 35), le premier chiffre après la virgule compte les dixièmes (7), le deuxième compte les centièmes (8). Ainsi 3/10 = 0,3 ; 7/100 = 0,07 ; 25/100 = 0,25 ; 125/100 = 1 + 25/100 = 1,25. Attention : 0,07 et 0,7 ne sont pas le même nombre (7 centièmes et 7 dixièmes). Avec la monnaie, 3,50 € se lit 3 euros et 50 centimes."
+    },
+    {
+      "title": "Comparer des nombres décimaux",
+      "text": "Pour comparer deux nombres décimaux, on compare d’abord les parties entières. Si elles sont égales, on compare les dixièmes, puis les centièmes. Ainsi 4,6 > 4,58 car 4,6 = 4,60 et 6 dixièmes, c’est plus que 5 dixièmes. Ne te laisse pas piéger par le nombre de chiffres après la virgule : 3,07 < 3,7. Pour ranger dans l’ordre croissant 2,5 ; 2,05 ; 2,15 ; 2,51, on trouve 2,05 < 2,15 < 2,5 < 2,51."
+    }
+  ],
+  "revision_sheet": [
+    "1 unité = 10 dixièmes = 100 centièmes ; 1 dixième = 10 centièmes.",
+    "35,78 = 35 + 7/10 + 8/100 (35 unités, 7 dixièmes, 8 centièmes).",
+    "3/10 = 0,3 ; 7/100 = 0,07 ; 125/100 = 1,25.",
+    "Comparer : parties entières, puis dixièmes, puis centièmes.",
+    "4,6 = 4,60 ; 3,07 < 3,7 : on ne compare pas la longueur des écritures."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de dixièmes y a-t-il dans 1 unité ?",
+      "choices": [
+        "1",
+        "100",
+        "10"
+      ],
+      "correct_index": 2,
+      "explanation": "Une unité partagée en 10 parts égales donne 10 dixièmes : 1 = 10/10."
+    },
+    {
+      "prompt": "Quelle est l’écriture à virgule de 7/10 + 5/100 ?",
+      "choices": [
+        "0,75",
+        "0,705",
+        "7,5"
+      ],
+      "correct_index": 0,
+      "explanation": "7 dixièmes et 5 centièmes donnent 0,75 : le 7 est au rang des dixièmes et le 5 au rang des centièmes."
+    },
+    {
+      "prompt": "Dans 35,78, quel chiffre représente les centièmes ?",
+      "choices": [
+        "7",
+        "5",
+        "8"
+      ],
+      "correct_index": 2,
+      "explanation": "Le deuxième chiffre après la virgule compte les centièmes : c’est 8 (8/100)."
+    },
+    {
+      "prompt": "Quel est le plus grand de ces nombres ?",
+      "choices": [
+        "4,09",
+        "4,9",
+        "4,19"
+      ],
+      "correct_index": 1,
+      "explanation": "Les parties entières sont égales (4). On compare les dixièmes : 9 est plus grand que 1 et que 0, donc 4,9 est le plus grand."
+    },
+    {
+      "prompt": "Comment écrit-on 125/100 avec une virgule ?",
+      "choices": [
+        "1,25",
+        "12,5",
+        "0,125"
+      ],
+      "correct_index": 0,
+      "explanation": "125/100 = 100/100 + 25/100 = 1 + 25/100 = 1,25."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris avec une virgule : 6 + 3/10 + 2/100.",
+      "solution": "6,32.",
+      "success_criterion": "Placer 3 au rang des dixièmes et 2 au rang des centièmes."
+    },
+    {
+      "prompt": "Écris sous la forme d’une fraction décimale : 0,9 et 0,09.",
+      "solution": "0,9 = 9/10 et 0,09 = 9/100.",
+      "success_criterion": "Distinguer 9 dixièmes de 9 centièmes."
+    },
+    {
+      "prompt": "Range dans l’ordre croissant : 5,3 ; 5,03 ; 5,13 ; 5,31.",
+      "solution": "5,03 < 5,13 < 5,3 < 5,31.",
+      "success_criterion": "Comparer les dixièmes puis les centièmes, sans se fier au nombre de chiffres."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Compare 7,8 et 7,08 avec le symbole <, > ou =, puis explique.",
+      "solution": "7,8 > 7,08. Les parties entières sont égales ; 7,8 a 8 dixièmes alors que 7,08 en a 0.",
+      "success_criterion": "Comparer les dixièmes avant les centièmes et expliquer pourquoi 7,8 = 7,80."
+    },
+    {
+      "prompt": "Décompose 12,46 en unités, dixièmes et centièmes. Quelle est sa partie entière ?",
+      "solution": "12,46 = 12 + 4/10 + 6/100. Sa partie entière est 12.",
+      "success_criterion": "Écrire la somme avec les bonnes fractions décimales et donner 12."
+    },
+    {
+      "prompt": "Un ruban mesure 2,35 m. Écris 2,35 sous la forme d’une somme d’un entier et de fractions décimales.",
+      "solution": "2,35 = 2 + 3/10 + 5/100.",
+      "success_criterion": "Associer 3 aux dixièmes et 5 aux centièmes."
+    }
+  ],
+  "audio_transcript": "Quand on partage une unité en dix parts égales, chaque part est un dixième. Quand on la partage en cent parts égales, chaque part est un centième. Une unité vaut donc dix dixièmes ou cent centièmes. L’écriture à virgule est une écriture courte : trente-cinq virgule soixante-dix-huit signifie trente-cinq, plus sept dixièmes, plus huit centièmes. Pour comparer deux nombres décimaux, on compare d’abord les parties entières, puis les dixièmes, puis les centièmes. Ainsi, quatre virgule neuf est plus grand que quatre virgule zéro neuf.",
+  "guided_explanation": "Imagine une barre de chocolat entière : c’est une unité. Coupe-la en dix morceaux égaux : chaque morceau est un dixième. Coupe un morceau en dix petits carrés : chaque carré est un centième. Pour lire 2,35, pense à 2 barres entières, 3 morceaux de dixième et 5 petits carrés de centième. Pour comparer 7,8 et 7,08, compare les morceaux de dixième : 7,8 en a 8, mais 7,08 n’en a aucun, seulement 8 petits carrés. Tu peux aussi écrire 7,8 sous la forme 7,80 pour mieux voir."
+}

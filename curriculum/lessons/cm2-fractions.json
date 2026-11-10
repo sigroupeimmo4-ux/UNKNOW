@@ -1,0 +1,134 @@
+{
+  "id": "cm2-fractions",
+  "title": "Les fractions : entier plus fraction et fraction d’une quantité",
+  "chapter_id": "cm2-fractions",
+  "program_id": "CM2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+    "Encadrer une fraction entre deux entiers consécutifs et la repérer sur une demi-droite graduée.",
+    "Calculer une fraction d’une quantité.",
+    "Additionner, soustraire et comparer des fractions de même dénominateur."
+  ],
+  "skill_ids": [
+    "cm2-fractions-skill",
+    "cm2-fractions-quantite",
+    "cm2-fractions-operations"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Une fraction, c’est un partage en parts égales",
+      "text": "Dans la fraction 3/4, le dénominateur 4 dit en combien de parts égales on partage l’unité, et le numérateur 3 dit combien de parts on prend : trois quarts. On peut prendre plus de parts qu’il n’y en a dans une unité : 7/4 se lit « sept quarts ». Comme 4/4 = 1, la fraction 7/4 est supérieure à 1."
+    },
+    {
+      "title": "Entier plus fraction",
+      "text": "On peut regrouper les quarts par paquets de 4/4 = 1 : 7/4 = 4/4 + 3/4 = 1 + 3/4. De même 11/3 = 9/3 + 2/3 = 3 + 2/3. Dans l’autre sens : 2 + 1/5 = 10/5 + 1/5 = 11/5. On en déduit un encadrement : 3 < 11/3 < 4. Sur une demi-droite graduée en tiers, 11/3 est la onzième graduation : après 9/3 (qui est 3) et avant 12/3 (qui est 4)."
+    },
+    {
+      "title": "Calculer une fraction d’une quantité",
+      "text": "Pour trouver une fraction d’une quantité, on divise par le dénominateur puis on multiplie par le numérateur. Un tiers de 12 € : 12 ÷ 3 = 4 €. Deux tiers de 12 € : 4 × 2 = 8 €. Trois quarts de 100 m : 100 ÷ 4 = 25, puis 25 × 3 = 75 m."
+    },
+    {
+      "title": "Additionner, soustraire et comparer",
+      "text": "Quand deux fractions ont le même dénominateur, on additionne ou on soustrait les numérateurs et le dénominateur ne change pas : 3/8 + 2/8 = 5/8 et 7/8 − 4/8 = 3/8. Avec le même dénominateur, la plus grande fraction est celle qui a le plus grand numérateur : 5/8 > 3/8. Avec le même numérateur, plus le dénominateur est grand, plus les parts sont petites : 1/3 > 1/5."
+    }
+  ],
+  "revision_sheet": [
+    "Dénominateur : nombre de parts égales de l’unité. Numérateur : nombre de parts prises.",
+    "7/4 = 4/4 + 3/4 = 1 + 3/4 ; 2 + 1/5 = 11/5.",
+    "Fraction d’une quantité : diviser par le dénominateur, multiplier par le numérateur.",
+    "Même dénominateur : 3/8 + 2/8 = 5/8 (le dénominateur ne change pas).",
+    "Même numérateur : plus le dénominateur est grand, plus la fraction est petite."
+  ],
+  "quiz": [
+    {
+      "prompt": "Comment écrire 9/4 comme somme d’un entier et d’une fraction inférieure à 1 ?",
+      "choices": [
+        "2 + 1/4",
+        "1 + 1/4",
+        "2 + 1/2"
+      ],
+      "correct_index": 0,
+      "explanation": "9/4 = 8/4 + 1/4. Comme 8/4 = 2, on obtient 2 + 1/4."
+    },
+    {
+      "prompt": "Comment écrire 3 + 2/5 comme une seule fraction ?",
+      "choices": [
+        "6/5",
+        "17/5",
+        "32/5"
+      ],
+      "correct_index": 1,
+      "explanation": "3 = 15/5 (car 3 × 5 = 15). Puis 15/5 + 2/5 = 17/5."
+    },
+    {
+      "prompt": "Entre quels entiers consécutifs se trouve 11/3 ?",
+      "choices": [
+        "2 et 3",
+        "3 et 4",
+        "4 et 5"
+      ],
+      "correct_index": 1,
+      "explanation": "9/3 = 3 et 12/3 = 4. Comme 9 < 11 < 12, on a 3 < 11/3 < 4."
+    },
+    {
+      "prompt": "Combien valent trois quarts de 100 m ?",
+      "choices": [
+        "25 m",
+        "75 m",
+        "300 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Un quart de 100 m est 100 ÷ 4 = 25 m. Trois quarts : 25 × 3 = 75 m."
+    },
+    {
+      "prompt": "Combien font 5/8 + 2/8 ?",
+      "choices": [
+        "7/16",
+        "7/8",
+        "10/8"
+      ],
+      "correct_index": 1,
+      "explanation": "Les dénominateurs sont identiques : on additionne les numérateurs (5 + 2 = 7) et on garde 8. Résultat : 7/8."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule trois cinquièmes de 40 kg.",
+      "solution": "Un cinquième de 40 kg : 40 ÷ 5 = 8 kg. Trois cinquièmes : 8 × 3 = 24 kg.",
+      "success_criterion": "Diviser par le dénominateur, puis multiplier par le numérateur."
+    },
+    {
+      "prompt": "Écris 13/5 comme somme d’un entier et d’une fraction inférieure à 1.",
+      "solution": "13/5 = 10/5 + 3/5 = 2 + 3/5.",
+      "success_criterion": "Repérer que 10/5 = 2 et que le reste est 3/5."
+    },
+    {
+      "prompt": "Calcule 9/7 − 4/7.",
+      "solution": "9/7 − 4/7 = 5/7.",
+      "success_criterion": "Soustraire les numérateurs et conserver le dénominateur 7."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un livre a 120 pages. Léa en a lu les 3/8. Combien de pages a-t-elle lues ? Combien lui en reste-t-il ?",
+      "solution": "Un huitième de 120 : 120 ÷ 8 = 15 pages. Trois huitièmes : 15 × 3 = 45 pages lues. Il reste 120 − 45 = 75 pages.",
+      "success_criterion": "Calculer la fraction de la quantité, puis répondre aux deux questions avec des unités."
+    },
+    {
+      "prompt": "Place 7/4 sur une demi-droite graduée en quarts et encadre-le par deux entiers consécutifs.",
+      "solution": "7/4 est la septième graduation. 4/4 = 1 et 8/4 = 2, donc 1 < 7/4 < 2. On peut écrire 7/4 = 1 + 3/4.",
+      "success_criterion": "Utiliser 4/4 = 1 et 8/4 = 2 pour encadrer."
+    },
+    {
+      "prompt": "Explique pourquoi 1/3 est plus grand que 1/5.",
+      "solution": "Partager une unité en 3 parts égales donne des parts plus grandes que la partager en 5 parts égales. Quand le numérateur est le même, plus le dénominateur est grand, plus la fraction est petite.",
+      "success_criterion": "Raisonner sur la taille des parts, sans seulement dire que 3 est plus petit que 5."
+    }
+  ],
+  "audio_transcript": "Une fraction partage l’unité en parts égales. Dans trois quarts, le quatre dit en combien de parts on partage, et le trois dit combien on en prend. Sept quarts, c’est quatre quarts plus trois quarts, donc un plus trois quarts. Pour calculer une fraction d’une quantité, on divise par le dénominateur puis on multiplie par le numérateur. Trois quarts de cent mètres : cent divisé par quatre fait vingt-cinq, puis vingt-cinq fois trois fait soixante-quinze mètres. Quand deux fractions ont le même dénominateur, on additionne les numérateurs et le dénominateur ne change pas.",
+  "guided_explanation": "Imagine une tablette de chocolat de 8 carrés. Trois huitièmes, c’est 3 carrés. Si tu en as 2 de plus, cela fait 5 carrés : 3/8 + 2/8 = 5/8. Pour une fraction d’une quantité, fais pareil avec des objets : tu as 12 billes et tu veux les deux tiers. Fais 3 tas égaux : chaque tas contient 4 billes (12 ÷ 3). Deux tiers, ce sont 2 tas : 8 billes. Pour vérifier une fraction supérieure à 1, groupe les parts : avec 11 tiers, tu fais des groupes de 3 tiers, ce qui forme une unité. Tu obtiens 3 groupes complets et il reste 2 tiers : 3 + 2/3."
+}

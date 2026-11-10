@@ -1,0 +1,133 @@
+{
+  "id": "cm1-passe-compose",
+  "title": "Conjuguer au passé composé",
+  "chapter_id": "cm1-passe-compose",
+  "program_id": "CM1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+    "Mettre un verbe au passé composé à la forme négative.",
+    "Accorder le participe passé avec le sujet quand l’auxiliaire est être."
+  ],
+  "skill_ids": [
+    "cm1-passe-compose-composition-skill",
+    "cm1-passe-compose-negation-skill",
+    "cm1-passe-compose-accord-etre-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison et Accorder le sujet et le verbe, page 18 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Deux mots pour un seul verbe",
+      "text": "Le passé composé exprime une action terminée dans le passé. Il est formé de deux parties : l’auxiliaire avoir ou être conjugué au présent, puis le participe passé du verbe. « J’ai mangé », « elle est partie ». Pour retrouver l’infinitif, on cherche le verbe du participe : « nous avons chanté » → chanter. Quelques participes passés : chanter → chanté, finir → fini, prendre → pris, faire → fait, aller → allé, venir → venu, voir → vu, dire → dit, vouloir → voulu. Présent d’avoir : j’ai, tu as, il a, nous avons, vous avez, ils ont. Présent d’être : je suis, tu es, il est, nous sommes, vous êtes, ils sont."
+    },
+    {
+      "title": "Avoir ou être ?",
+      "text": "La plupart des verbes se conjuguent avec l’auxiliaire avoir : « Tu as vu un oiseau. » Quelques verbes, surtout des verbes de mouvement ou de changement, se conjuguent avec être : aller, venir, arriver, partir, entrer, sortir, tomber, rester. « Il est tombé. » « Nous sommes arrivés. »"
+    },
+    {
+      "title": "Accorder le participe passé avec être",
+      "text": "Avec l’auxiliaire être, le participe passé s’accorde en genre et en nombre avec le sujet : « Il est parti. » « Elle est partie. » « Ils sont partis. » « Elles sont parties. » Avec l’auxiliaire avoir, le participe passé ne s’accorde pas avec le sujet : « Elle a chanté. » « Elles ont chanté. »"
+    },
+    {
+      "title": "La forme négative",
+      "text": "Au passé composé, ne … pas (ou ne … jamais, ne … plus) encadre l’auxiliaire, pas le participe passé : « Je n’ai pas mangé. » « Elle n’est pas partie. » « Nous n’avons jamais vu ce film. » Devant une voyelle ou un h muet, ne devient n’."
+    }
+  ],
+  "revision_sheet": [
+    "Passé composé = auxiliaire avoir ou être au présent + participe passé.",
+    "Avec avoir : pas d’accord du participe passé avec le sujet (Elles ont chanté).",
+    "Avec être : le participe passé s’accorde avec le sujet (Elles sont parties).",
+    "Verbes avec être : aller, venir, arriver, partir, entrer, sortir, tomber, rester.",
+    "Négation : ne … pas autour de l’auxiliaire (Je n’ai pas fini)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est l’infinitif du verbe dans « Tu as fini » ?",
+      "choices": [
+        "finir",
+        "fini",
+        "avoir"
+      ],
+      "correct_index": 0,
+      "explanation": "Le participe passé « fini » vient du verbe finir ; « as » est seulement l’auxiliaire."
+    },
+    {
+      "prompt": "Quelle phrase est au passé composé ?",
+      "choices": [
+        "Elle chante.",
+        "Elle a chanté.",
+        "Elle chantera."
+      ],
+      "correct_index": 1,
+      "explanation": "« a chanté » est formé de l’auxiliaire avoir au présent et du participe passé chanté."
+    },
+    {
+      "prompt": "Complète : « Les filles sont … au marché. » (verbe aller)",
+      "choices": [
+        "allées",
+        "allés",
+        "allé"
+      ],
+      "correct_index": 0,
+      "explanation": "Avec être, le participe passé s’accorde avec le sujet « les filles », féminin pluriel : allées."
+    },
+    {
+      "prompt": "Quelle est la forme négative de « J’ai fini. » ?",
+      "choices": [
+        "Je n’ai fini pas.",
+        "Je ne pas ai fini.",
+        "Je n’ai pas fini."
+      ],
+      "correct_index": 2,
+      "explanation": "Ne … pas encadre l’auxiliaire « ai » : Je n’ai pas fini."
+    },
+    {
+      "prompt": "Quelle phrase est correctement écrite ?",
+      "choices": [
+        "Elles ont chantées.",
+        "Elles sont chanté.",
+        "Elles ont chanté."
+      ],
+      "correct_index": 2,
+      "explanation": "Chanter se conjugue avec avoir, et avec avoir le participe passé ne s’accorde pas avec le sujet : Elles ont chanté."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris au passé composé : a) Je mange une pomme. b) Nous finissons l’exercice. c) Tu vois un oiseau.",
+      "solution": "a) J’ai mangé une pomme. b) Nous avons fini l’exercice. c) Tu as vu un oiseau.",
+      "success_criterion": "Conjuguer l’auxiliaire avoir au présent et choisir le bon participe passé."
+    },
+    {
+      "prompt": "Accorde le participe passé : Léa est (arriver). Les enfants sont (partir). Ma sœur est (tomber).",
+      "solution": "Léa est arrivée. Les enfants sont partis. Ma sœur est tombée.",
+      "success_criterion": "Accorder le participe passé avec le sujet en genre et en nombre."
+    },
+    {
+      "prompt": "Mets à la forme négative : « Il a pris son sac. » et « Elles sont sorties. »",
+      "solution": "Il n’a pas pris son sac. Elles ne sont pas sorties.",
+      "success_criterion": "Placer ne et pas autour de l’auxiliaire."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Conjugue au passé composé : « faire » avec nous et « aller » avec elles.",
+      "solution": "Nous avons fait. Elles sont allées.",
+      "success_criterion": "Choisir le bon auxiliaire et accorder allées avec « elles »."
+    },
+    {
+      "prompt": "Explique pourquoi on écrit « Elle est partie » avec un e, mais « Elle a chanté » sans e.",
+      "solution": "Avec l’auxiliaire être, le participe passé s’accorde avec le sujet (elle est féminin, donc partie). Avec l’auxiliaire avoir, il ne s’accorde pas avec le sujet : chanté reste inchangé.",
+      "success_criterion": "Relier l’accord au choix de l’auxiliaire."
+    },
+    {
+      "prompt": "Retrouve l’infinitif : « ils ont voulu » ; « tu es venu » ; « elle a dit ».",
+      "solution": "vouloir ; venir ; dire.",
+      "success_criterion": "Isoler le participe passé et retrouver le verbe à l’infinitif."
+    }
+  ],
+  "audio_transcript": "Le passé composé est un temps du passé. Il est formé de deux parties : l’auxiliaire avoir ou être au présent, puis le participe passé du verbe. J’ai mangé, elle est partie. Avec l’auxiliaire être, le participe passé s’accorde avec le sujet : elle est partie, ils sont partis. Avec l’auxiliaire avoir, le participe passé ne s’accorde pas avec le sujet : elles ont chanté. À la forme négative, ne et pas encadrent l’auxiliaire : je n’ai pas mangé.",
+  "guided_explanation": "Pour écrire un verbe au passé composé, pense à deux boîtes. Dans la première boîte, mets l’auxiliaire, avoir ou être, au présent, avec la bonne personne. Dans la seconde, mets le participe passé du verbe. Demande-toi ensuite quel auxiliaire tu as utilisé : si c’est être, accorde le participe passé avec le sujet, comme un adjectif ; si c’est avoir, ne l’accorde pas avec le sujet. Pour la négation, entoure l’auxiliaire avec ne et pas, puis relis la phrase à voix haute."
+}

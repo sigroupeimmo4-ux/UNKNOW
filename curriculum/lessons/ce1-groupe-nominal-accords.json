@@ -1,0 +1,130 @@
+{
+  "id": "ce1-groupe-nominal-accords",
+  "title": "Le groupe nominal et les accords (genre et nombre)",
+  "chapter_id": "ce1-groupe-nominal-accords",
+  "program_id": "CE1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaitre un déterminant, un nom commun, un nom propre et un adjectif.",
+    "Repérer le genre et le nombre d’un groupe nominal.",
+    "Accorder le déterminant, le nom et l’adjectif (féminin en -e, pluriel en -s)."
+  ],
+  "skill_ids": [
+    "ce1-groupe-nominal-accords-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les noms et les déterminants",
+      "text": "Un nom commun désigne une personne, un animal, une chose, un sentiment : chat, jardin, joie. Avant lui, on met souvent un déterminant : le, la, un, une, des, mon… Un nom propre désigne une personne ou un lieu en particulier et commence par une majuscule : Astérix, Marseille. On ne met pas de déterminant devant la plupart des noms propres."
+    },
+    {
+      "title": "L’adjectif",
+      "text": "L’adjectif donne une information sur le nom : un chat noir, une grande maison. Le groupe « déterminant + nom + adjectif » s’appelle un groupe nominal (GN) : « le petit chat noir »."
+    },
+    {
+      "title": "Genre et nombre : la chaine d’accords",
+      "text": "Un nom est masculin ou féminin (genre), singulier ou pluriel (nombre). Le déterminant et l’adjectif s’accordent avec le nom. Féminin : on ajoute souvent -e : un petit garçon → une petite fille. Pluriel : on ajoute souvent -s : un joli vélo → de jolis vélos ; le chat noir → les chats noirs."
+    },
+    {
+      "title": "Devinettes orthographiques",
+      "text": "Pour bien écrire un adjectif, on cherche le nom qu’il accompagne. « Je suis bleue » : suis-je la mer ou l’océan ? Comme « bleue » est au féminin, je suis la mer. Plus tard, tu apprendras que certains mots ont des accords particuliers ; pour l’instant, retiens les marques -e et -s."
+    }
+  ],
+  "revision_sheet": [
+    "Le déterminant (le, une, des…) accompagne le nom.",
+    "Nom propre : majuscule (Marseille). Adjectif : donne une information sur le nom.",
+    "Féminin : souvent + e (petit → petite). Pluriel : souvent + s (chat → chats).",
+    "Dans un GN, le déterminant, le nom et l’adjectif s’accordent : les petits chats noirs."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « la petite fille », quel mot est le déterminant ?",
+      "choices": [
+        "petite",
+        "la",
+        "fille"
+      ],
+      "correct_index": 1,
+      "explanation": "« la » accompagne le nom fille : c’est un déterminant."
+    },
+    {
+      "prompt": "Quel mot est un nom propre ?",
+      "choices": [
+        "Marseille",
+        "ville",
+        "grande"
+      ],
+      "correct_index": 0,
+      "explanation": "Marseille désigne un lieu en particulier et commence par une majuscule."
+    },
+    {
+      "prompt": "Quel est le pluriel de « une petite fille » ?",
+      "choices": [
+        "des petit filles",
+        "des petites fille",
+        "des petites filles"
+      ],
+      "correct_index": 2,
+      "explanation": "Le déterminant, l’adjectif et le nom prennent la marque du pluriel : des petites filles."
+    },
+    {
+      "prompt": "Dans « un chat noir », quel mot est l’adjectif ?",
+      "choices": [
+        "un",
+        "noir",
+        "chat"
+      ],
+      "correct_index": 1,
+      "explanation": "« noir » donne une information sur le nom chat."
+    },
+    {
+      "prompt": "« Je suis bleue. » Qui suis-je ?",
+      "choices": [
+        "l’océan",
+        "la mer",
+        "le ciel"
+      ],
+      "correct_index": 1,
+      "explanation": "L’adjectif « bleue » est au féminin : il s’accorde avec un nom féminin, donc c’est la mer."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Classe ces mots : le, Paul, jardin, vert, une.",
+      "solution": "Déterminants : le, une. Nom propre : Paul. Nom commun : jardin. Adjectif : vert.",
+      "success_criterion": "Classer correctement les cinq mots."
+    },
+    {
+      "prompt": "Mets au féminin : « un petit ami » ; « un grand garçon ».",
+      "solution": "une petite amie ; une grande fille.",
+      "success_criterion": "Changer le déterminant et ajouter -e à l’adjectif."
+    },
+    {
+      "prompt": "Mets au pluriel : « le chien noir » ; « une pomme rouge ».",
+      "solution": "les chiens noirs ; des pommes rouges.",
+      "success_criterion": "Accorder le déterminant, le nom et l’adjectif."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Complète avec les bonnes marques : des ballon… rouge… ; une fleur jaun…",
+      "solution": "des ballons rouges ; une fleur jaune.",
+      "success_criterion": "Ajouter -s au nom et à l’adjectif pour le pluriel, et -e à jaun- pour le féminin."
+    },
+    {
+      "prompt": "Dans « les belles fleurs », indique le genre et le nombre du groupe nominal.",
+      "solution": "Féminin pluriel : fleurs est un nom féminin et il y a plusieurs fleurs.",
+      "success_criterion": "Donner le genre et le nombre en justifiant avec le nom."
+    },
+    {
+      "prompt": "Explique pourquoi on écrit « des chats noirs » avec un -s à chats et à noirs.",
+      "solution": "Le nom chats est au pluriel et l’adjectif noirs s’accorde avec lui, donc il prend aussi un -s.",
+      "success_criterion": "Dire que l’adjectif s’accorde avec le nom."
+    }
+  ],
+  "audio_transcript": "Dans un groupe nominal, il y a un déterminant, un nom et souvent un adjectif. Le déterminant, comme le, la, un, une ou des, accompagne le nom. Le nom propre désigne une personne ou un lieu en particulier et commence par une majuscule, comme Marseille. L’adjectif donne une information sur le nom, comme noir dans un chat noir. Tous ces mots s’accordent en genre et en nombre. Au féminin, on ajoute souvent un e. Au pluriel, on ajoute souvent un s. On écrit donc les petits chats noirs.",
+  "guided_explanation": "Regarde le groupe nominal « une petite fille ». Pose-toi trois questions. Quel est le nom ? Fille. Est-il masculin ou féminin ? Féminin, car on dit une fille. Est-il au singulier ou au pluriel ? Singulier. Maintenant, mets-le au pluriel : le déterminant change (des), le nom prend un s (filles) et l’adjectif aussi (petites). Tu obtiens « des petites filles ». Tu as suivi la chaine d’accords du début à la fin."
+}

@@ -1,0 +1,128 @@
+{
+  "id": "3e-discours-rapporte",
+  "title": "Rapporter des paroles : discours direct, indirect et indirect libre",
+  "chapter_id": "3e-discours-rapporte",
+  "program_id": "3e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+    "Transposer des paroles du discours direct au discours indirect (pronoms, temps, repères de temps et de lieu) et inversement.",
+    "Choisir une façon de rapporter des paroles et en percevoir l’effet."
+  ],
+  "skill_ids": [
+    "3e-discours-rapporte-skill-reconnaitre",
+    "3e-discours-rapporte-skill-transposer"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Connaître les différences entre l’oral et l’écrit (« insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre » ; exercices de réécriture en faisant varier la façon de rapporter les paroles), pages 21–22 (pagination du PDF).",
+    "Même programme, Construire les notions permettant l’analyse et l’élaboration des textes et des discours (« Reconnaître et utiliser les paroles rapportées, directement ou indirectement »), page 26 ; terminologie : discours direct / indirect / indirect libre, page 26."
+  ],
+  "course": [
+    {
+      "title": "Le discours direct",
+      "text": "Au discours direct, on rapporte les paroles exactement comme elles ont été dites. Elles sont signalées par des deux-points et des guillemets, ou, dans un dialogue, par un tiret à chaque changement de locuteur. Un verbe de parole (dire, demander, répondre, s’écrier, murmurer...) indique qui parle. « Léa dit : « Je suis fatiguée. » » Le verbe peut aussi se placer dans une incise : « Je suis fatiguée, dit Léa. » Les paroles gardent leur propre point de vue : pronoms de la 1re et de la 2e personne (je, tu, nous, vous), temps du moment où l’on parle, repères comme demain, ici, hier."
+    },
+    {
+      "title": "Le discours indirect",
+      "text": "Au discours indirect, les paroles sont intégrées à la phrase du narrateur, sans guillemets, dans une proposition subordonnée introduite par que, si, ou un mot interrogatif (où, quand, ce que...). Il faut adapter la phrase. Personnes : « Je suis fatiguée » devient « Léa a dit qu’elle était fatiguée. » Temps, quand le verbe introducteur est au passé : le présent devient imparfait, le futur devient conditionnel, le passé composé devient plus-que-parfait. Repères : demain devient le lendemain, hier devient la veille, aujourd’hui devient ce jour-là, ici devient là. Exemples : « Nous partirons demain » devient « Il a annoncé qu’ils partiraient le lendemain. » « J’ai fini mon travail » devient « Il a dit qu’il avait fini son travail. » Questions : « Où vas-tu ? » devient « Il m’a demandé où j’allais. » (plus de point d’interrogation). « Veux-tu du thé ? » devient « Elle m’a demandé si je voulais du thé. » Ordres : « Viens ! » devient « Il lui a dit de venir. »"
+    },
+    {
+      "title": "Le discours indirect libre",
+      "text": "Au discours indirect libre, les paroles ou les pensées d’un personnage sont intégrées au récit, sans guillemets, sans verbe de parole et sans « que ». Le temps est celui du récit, mais on entend la voix du personnage, souvent grâce à la ponctuation expressive. « Il regarda l’horloge. Il était déjà tard ! Il allait manquer son train. » Ici, on lit les pensées du personnage sans que l’auteur écrive « il pensa que ». Ce procédé est fréquent dans les romans : il permet de passer du récit à la pensée de façon fluide."
+    },
+    {
+      "title": "Choisir et transposer avec méthode",
+      "text": "Le discours direct donne de la vivacité et rend la voix des personnages. Le discours indirect résume, accélère le récit et garde la voix du narrateur. Le choix du verbe introducteur ajoute une nuance : murmurer, hurler, avouer, protester. Pour transposer du direct à l’indirect, suis quatre étapes. 1) Repère qui parle à qui. 2) Supprime les guillemets et ajoute que, si ou un mot interrogatif. 3) Change les pronoms et les possessifs (mon devient son). 4) Adapte les temps et les repères de temps et de lieu. Pour l’inverse, on rétablit les guillemets et on remet les paroles à la bonne personne et au bon temps."
+    }
+  ],
+  "revision_sheet": [
+    "Discours direct : paroles exactes, deux-points, guillemets ou tirets, verbe de parole.",
+    "Discours indirect : subordonnée introduite par que, si ou un mot interrogatif ; pas de guillemets.",
+    "Changements au discours indirect (verbe introducteur au passé) : pronoms, présent vers imparfait, futur vers conditionnel, passé composé vers plus-que-parfait, demain vers le lendemain, hier vers la veille.",
+    "Question indirecte : pas de point d’interrogation. Ordre indirect : de + infinitif.",
+    "Discours indirect libre : pas de guillemets ni de verbe de parole ; pensées ou paroles intégrées au récit."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle phrase est au discours direct ?",
+      "choices": [
+        "Il a dit qu’il viendrait.",
+        "Il a dit : « Je viendrai. »",
+        "Il a demandé s’il pouvait venir."
+      ],
+      "correct_index": 1,
+      "explanation": "Les paroles sont rapportées telles quelles, après deux-points et entre guillemets : c’est le discours direct."
+    },
+    {
+      "prompt": "« Je serai là demain », a dit Paul. Comment transposer au discours indirect ? Paul a dit qu’il...",
+      "choices": [
+        "sera là demain",
+        "est là le lendemain",
+        "serait là le lendemain"
+      ],
+      "correct_index": 2,
+      "explanation": "Le verbe introducteur est au passé : le futur « serai » devient le conditionnel « serait », « je » devient « il » et « demain » devient « le lendemain »."
+    },
+    {
+      "prompt": "Comment transposer « Où habites-tu ? » au discours indirect ?",
+      "choices": [
+        "Il m’a demandé : où habites-tu ?",
+        "Il m’a demandé que j’habite où.",
+        "Il m’a demandé où j’habitais."
+      ],
+      "correct_index": 2,
+      "explanation": "On garde le mot interrogatif « où », on supprime le point d’interrogation, on change le pronom (tu devient je) et le temps (présent devient imparfait)."
+    },
+    {
+      "prompt": "Qu’est-ce qui caractérise le discours indirect libre ?",
+      "choices": [
+        "Il y a des guillemets et un verbe de parole.",
+        "Il n’y a ni guillemets ni verbe introducteur : les paroles ou pensées sont intégrées au récit.",
+        "Il faut toujours une proposition introduite par « que »."
+      ],
+      "correct_index": 1,
+      "explanation": "Le discours indirect libre mêle la voix du personnage au récit, sans guillemets ni « que »."
+    },
+    {
+      "prompt": "Comment transposer « Prends ton manteau ! » au discours indirect ?",
+      "choices": [
+        "Elle m’a dit de prendre mon manteau.",
+        "Elle m’a dit prends ton manteau.",
+        "Elle m’a dit que prends mon manteau."
+      ],
+      "correct_index": 0,
+      "explanation": "Un ordre au discours indirect se rapporte avec « de » + infinitif, et le possessif change : ton devient mon."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Transpose au discours indirect (verbe introducteur au passé). a) Tom a dit : « J’ai faim. » b) Sara a annoncé : « Je partirai demain. » c) « Où as-tu mis mes clés ? » m’a demandé mon père.",
+      "solution": "a) Tom a dit qu’il avait faim. b) Sara a annoncé qu’elle partirait le lendemain. c) Mon père m’a demandé où j’avais mis ses clés.",
+      "success_criterion": "Changer les pronoms et possessifs, les temps et les repères de temps, et supprimer le point d’interrogation."
+    },
+    {
+      "prompt": "Transpose au discours direct. a) Il m’a répondu qu’il n’avait pas le temps. b) Elle a demandé à son frère s’il voulait l’aider.",
+      "solution": "a) Il m’a répondu : « Je n’ai pas le temps. » b) Elle a demandé à son frère : « Veux-tu m’aider ? » (ou « Est-ce que tu veux m’aider ? »)",
+      "success_criterion": "Rétablir les guillemets, la personne et le temps des paroles d’origine et la ponctuation de la question."
+    },
+    {
+      "prompt": "Indique s’il s’agit de discours direct, indirect ou indirect libre. a) « Je ne viendrai pas », déclara-t-il. b) Il déclara qu’il ne viendrait pas. c) Il referma la porte. Non, il ne viendrait pas, c’était décidé.",
+      "solution": "a) Discours direct. b) Discours indirect. c) Discours indirect libre : la pensée du personnage est intégrée au récit, sans guillemets ni verbe de parole.",
+      "success_criterion": "Justifier chaque réponse par la présence ou l’absence de guillemets, de verbe introducteur et de « que »."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Réécris ce dialogue en récit au discours indirect, avec des verbes introducteurs au passé : « Que fais-tu ce soir ? demanda Inès. — Je révise mon contrôle, répondit Hugo. »",
+      "solution": "Inès demanda à Hugo ce qu’il faisait ce soir-là. Hugo répondit qu’il révisait son contrôle.",
+      "success_criterion": "Utiliser « ce qu’il faisait », adapter « ce soir » en « ce soir-là », changer les pronoms et mettre les verbes à l’imparfait."
+    },
+    {
+      "prompt": "Explique en deux ou trois phrases la différence d’effet entre le discours direct et le discours indirect, avec un exemple.",
+      "solution": "Le discours direct rend la voix exacte du personnage et donne de la vivacité : Léa dit : « Je suis épuisée ! » Le discours indirect résume les paroles et garde le point de vue du narrateur : Léa dit qu’elle est épuisée. Il est plus fluide et moins expressif.",
+      "success_criterion": "Mentionner la vivacité et la fidélité du direct, le résumé et la fluidité de l’indirect, et donner un exemple correct."
+    }
+  ],
+  "audio_transcript": "Pour rapporter des paroles, on dispose de trois façons. Au discours direct, on les cite exactement, avec deux-points et guillemets. Au discours indirect, on les intègre dans la phrase du narrateur avec que, si ou un mot interrogatif. Il faut alors changer les pronoms, les temps et les repères : demain devient le lendemain, hier devient la veille. Un présent devient un imparfait, un futur devient un conditionnel. Au discours indirect libre, les paroles ou les pensées s’intègrent au récit, sans guillemets, sans verbe de parole et sans que. On entend la voix du personnage dans le récit.",
+  "guided_explanation": "Imagine que tu racontes à un ami ce que quelqu’un t’a dit hier. Tu peux imiter la voix de la personne : « Je suis fatiguée », c’est le discours direct. Ou tu peux dire : elle m’a dit qu’elle était fatiguée, c’est le discours indirect. Quand tu passes à l’indirect, les mots se réorganisent. Le « je » de la personne devient « elle ». Le présent devient imparfait, parce que l’on raconte au passé. Demain devient le lendemain, parce que l’on ne se place plus au moment où elle parlait. Pour t’entraîner, prends une phrase d’un dialogue de roman et transforme-la en suivant les quatre étapes de la méthode."
+}

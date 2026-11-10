@@ -1,0 +1,133 @@
+{
+  "id": "3e-developper-factoriser",
+  "title": "Développer, factoriser et résoudre une équation produit",
+  "chapter_id": "3e-developper-factoriser",
+  "program_id": "3e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Développer une expression avec la distributivité simple et double, puis la réduire.",
+    "Factoriser une expression avec un facteur commun ou avec l’identité a² − b² = (a − b)(a + b).",
+    "Résoudre une équation produit en utilisant la règle : un produit est nul si et seulement si l’un de ses facteurs est nul."
+  ],
+  "skill_ids": [
+    "3e-developper-factoriser-skill-developper",
+    "3e-developper-factoriser-skill-factoriser",
+    "3e-developper-factoriser-skill-equation-produit"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Développer avec la distributivité simple",
+      "text": "Développer, c’est transformer un produit en somme. La distributivité simple s’écrit k(a + b) = ka + kb. Exemples : 3(x + 5) = 3x + 15 et 2x(x − 4) = 2x² − 8x. Factoriser, c’est faire le chemin inverse : transformer une somme en produit en repérant un facteur commun. Ainsi 6x + 9 = 3(2x + 3), car 3 × 2x = 6x et 3 × 3 = 9. Tu peux toujours vérifier en redéveloppant."
+    },
+    {
+      "title": "Développer avec la double distributivité",
+      "text": "Pour développer (a + b)(c + d), on multiplie chaque terme de la première parenthèse par chaque terme de la seconde : (a + b)(c + d) = ac + ad + bc + bd. Exemple : (x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + 5x + 6. Attention aux signes : (2x − 1)(x + 4) = 2x² + 8x − x − 4 = 2x² + 7x − 4. Après avoir développé, on réduit l’expression en regroupant les termes de même nature (ici 8x − x = 7x)."
+    },
+    {
+      "title": "Factoriser avec a² − b²",
+      "text": "L’identité à connaître est a² − b² = (a − b)(a + b). Elle permet de factoriser une différence de deux carrés. Exemples : x² − 9 = x² − 3² = (x − 3)(x + 3) et 4x² − 25 = (2x)² − 5² = (2x − 5)(2x + 5). Vérification : (x − 3)(x + 3) = x² + 3x − 3x − 9 = x² − 9. Cette identité sert aussi au calcul mental : 51 × 49 = (50 + 1)(50 − 1) = 50² − 1² = 2 500 − 1 = 2 499."
+    },
+    {
+      "title": "Résoudre une équation produit",
+      "text": "Règle : un produit de facteurs est nul si et seulement si l’un au moins de ses facteurs est nul. Pour (x − 3)(x + 5) = 0, on a x − 3 = 0 ou x + 5 = 0, donc x = 3 ou x = −5. L’équation a deux solutions. Pour résoudre x² − 9 = 0, on factorise d’abord : (x − 3)(x + 3) = 0, donc x = 3 ou x = −3. Attention : cette règle ne marche que si le produit est égal à 0. Pour (x − 3)(x + 5) = 8, on ne peut pas conclure de cette façon."
+    }
+  ],
+  "revision_sheet": [
+    "Distributivité simple : k(a + b) = ka + kb. Développer : produit vers somme ; factoriser : somme vers produit.",
+    "Double distributivité : (a + b)(c + d) = ac + ad + bc + bd, puis on réduit.",
+    "Identité à connaître : a² − b² = (a − b)(a + b).",
+    "Un produit est nul si et seulement si l’un de ses facteurs est nul : A × B = 0 donne A = 0 ou B = 0.",
+    "Pour vérifier une factorisation, on redéveloppe et on doit retrouver l’expression de départ."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est le développement de 4(x + 3) ?",
+      "choices": [
+        "4x + 3",
+        "4x + 12",
+        "x + 12"
+      ],
+      "correct_index": 1,
+      "explanation": "On multiplie chaque terme de la parenthèse par 4 : 4 × x = 4x et 4 × 3 = 12. On obtient 4x + 12."
+    },
+    {
+      "prompt": "Quel est le développement réduit de (x + 2)(x + 5) ?",
+      "choices": [
+        "x² + 7x + 10",
+        "x² + 10",
+        "x² + 7x + 7"
+      ],
+      "correct_index": 0,
+      "explanation": "(x + 2)(x + 5) = x² + 5x + 2x + 10 = x² + 7x + 10."
+    },
+    {
+      "prompt": "Quelle est la factorisation de x² − 49 ?",
+      "choices": [
+        "(x − 7)²",
+        "(x + 7)²",
+        "(x − 7)(x + 7)"
+      ],
+      "correct_index": 2,
+      "explanation": "49 = 7², donc x² − 49 = x² − 7² = (x − 7)(x + 7). En redéveloppant, les termes en x s’annulent et on retrouve x² − 49."
+    },
+    {
+      "prompt": "Quelles sont les solutions de (x − 4)(x + 1) = 0 ?",
+      "choices": [
+        "−4 et 1",
+        "4 et −1",
+        "4 et 1"
+      ],
+      "correct_index": 1,
+      "explanation": "Un produit est nul si l’un des facteurs est nul : x − 4 = 0 donne x = 4, et x + 1 = 0 donne x = −1."
+    },
+    {
+      "prompt": "Quelle est la factorisation de 5x + 10 ?",
+      "choices": [
+        "5(x + 10)",
+        "5(x + 2)",
+        "10(x + 5)"
+      ],
+      "correct_index": 1,
+      "explanation": "Le facteur commun est 5 : 5x = 5 × x et 10 = 5 × 2. Donc 5x + 10 = 5(x + 2). Les autres propositions donnent 5x + 50 et 10x + 50."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Développe et réduis : A = (x + 3)(x − 2) ; B = 2x(3x − 5) ; C = (2x + 1)(x + 3).",
+      "solution": "A = x² − 2x + 3x − 6 = x² + x − 6. B = 6x² − 10x. C = 2x² + 6x + x + 3 = 2x² + 7x + 3.",
+      "success_criterion": "Multiplier chaque terme par chaque terme, soigner les signes et réduire les termes en x."
+    },
+    {
+      "prompt": "Factorise : D = 9x² − 16 ; E = 12x + 18 ; F = x² − 1.",
+      "solution": "D = (3x)² − 4² = (3x − 4)(3x + 4). E = 6(2x + 3). F = (x − 1)(x + 1).",
+      "success_criterion": "Reconnaître le facteur commun pour E et la différence de deux carrés pour D et F."
+    },
+    {
+      "prompt": "Résous les équations : (2x − 6)(x + 7) = 0 puis x² − 25 = 0.",
+      "solution": "2x − 6 = 0 donne x = 3 ; x + 7 = 0 donne x = −7. Les solutions sont 3 et −7. Pour x² − 25 = 0 : (x − 5)(x + 5) = 0, donc x = 5 ou x = −5.",
+      "success_criterion": "Écrire chaque facteur égal à zéro, résoudre séparément et donner toutes les solutions."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Sans calculatrice, calcule 61 × 59 en utilisant l’identité a² − b² = (a − b)(a + b).",
+      "solution": "61 × 59 = (60 + 1)(60 − 1) = 60² − 1² = 3 600 − 1 = 3 599.",
+      "success_criterion": "Écrire 61 et 59 sous la forme 60 + 1 et 60 − 1 et appliquer l’identité."
+    },
+    {
+      "prompt": "Démontre que la somme de trois entiers consécutifs est toujours un multiple de 3. Appelle n le plus petit des trois.",
+      "solution": "Les trois entiers sont n, n + 1 et n + 2. Leur somme est n + (n + 1) + (n + 2) = 3n + 3 = 3(n + 1). Comme n + 1 est un entier, cette somme est un multiple de 3.",
+      "success_criterion": "Utiliser une lettre pour un entier quelconque, réduire la somme, factoriser par 3 et conclure."
+    },
+    {
+      "prompt": "Résous l’équation (x − 1)(2x + 4) = 0.",
+      "solution": "x − 1 = 0 donne x = 1 ; 2x + 4 = 0 donne 2x = −4 donc x = −2. Les solutions sont 1 et −2.",
+      "success_criterion": "Appliquer la règle du produit nul puis résoudre deux équations simples."
+    }
+  ],
+  "audio_transcript": "Développer, c’est passer d’un produit à une somme. Factoriser, c’est faire l’inverse. La distributivité simple dit que k fois a plus b égale k a plus k b. Pour deux parenthèses, on multiplie chaque terme de la première par chaque terme de la seconde : x plus 2 fois x plus 3 donne x au carré plus 5 x plus 6. L’identité à retenir est a au carré moins b au carré égale a moins b fois a plus b. Enfin, un produit est nul si l’un de ses facteurs est nul. Donc x moins 3 fois x plus 5 égale zéro a deux solutions : 3 et moins 5.",
+  "guided_explanation": "Pense à un rectangle. Un rectangle de largeur 3 et de longueur x + 5 a pour aire 3 fois x + 5. Tu peux aussi l’imaginer coupé en deux : un rectangle d’aire 3x et un autre d’aire 15. C’est la distributivité : 3(x + 5) = 3x + 15. Factoriser, c’est recoller les morceaux. Pour une équation produit, imagine deux nombres dont le produit vaut zéro : l’un des deux est forcément zéro, car multiplier par un nombre non nul ne peut pas donner zéro. Vérifie toujours tes solutions en les remplaçant dans l’équation de départ."
+}

@@ -1,0 +1,1343 @@
+{
+  "programs": [
+    {
+      "id": "CM2-mathematiques-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CM2",
+      "subject_id": "mathematiques-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/programme-de-math-matiques-pour-le-cycle-3-439827.pdf",
+        "title": "Mathématiques",
+        "text_reference": "Mathématiques (BO n° 16 du 17 avril 2025) - NOUVEAU",
+        "published_on": "2025-04-17",
+        "checked_on": "2026-10-29",
+        "sha256": "f3f79a75ca8be7f54409b8b7cee3eafd769c23d12e6c822a253454e2c703b508",
+        "source_id": "9fa5d88fd335bb7f"
+      },
+      "effective_from": "2026-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "nombres-calcul-problemes",
+          "title": "Nombres, calcul et résolution de problèmes",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année, pages 9–10 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm2-nombres-decimaux",
+              "title": "Les nombres décimaux : dixièmes, centièmes, millièmes",
+              "title_type": "editorial",
+              "official_section": "Les nombres décimaux",
+              "notions": [
+                "Dixièmes, centièmes et millièmes",
+                "Fraction décimale et écriture à virgule",
+                "Comparer et ranger des nombres décimaux",
+                "Partie entière et arrondi à l’entier"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-nombres-decimaux-knowledge",
+                  "text": "Une unité vaut dix dixièmes, cent centièmes ou mille millièmes ; l’écriture à virgule code la somme d’un entier et de fractions décimales.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-nombres-decimaux-skill",
+                  "text": "Connaître les relations entre unités simples, dixièmes, centièmes et millièmes, et passer d’une fraction décimale à l’écriture à virgule et réciproquement.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-nombres-decimaux-compare",
+                  "text": "Comparer, encadrer, ordonner des nombres décimaux en écriture à virgule ; donner la partie entière et l’arrondi à l’entier.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+            },
+            {
+              "id": "cm2-fractions",
+              "title": "Les fractions : entier plus fraction et fraction d’une quantité",
+              "title_type": "editorial",
+              "official_section": "Les fractions",
+              "notions": [
+                "Fraction supérieure à 1",
+                "Somme d’un entier et d’une fraction",
+                "Demi-droite graduée et encadrement",
+                "Fraction d’une quantité",
+                "Addition et soustraction de fractions de même dénominateur"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-fractions-knowledge",
+                  "text": "Une fraction représente un partage en parts égales ; une fraction supérieure à 1 s’écrit comme la somme d’un entier et d’une fraction inférieure à 1, et une fraction peut servir à calculer une partie d’une quantité.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-fractions-skill",
+                  "text": "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et réciproquement ; l’encadrer entre deux entiers consécutifs.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-fractions-quantite",
+                  "text": "Déterminer une fraction d’une quantité ou d’une grandeur, comme deux tiers de 12 €.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-fractions-operations",
+                  "text": "Comparer, additionner et soustraire des fractions de même dénominateur.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+            },
+            {
+              "id": "cm2-grands-nombres",
+              "title": "Les grands nombres jusqu’à 999 999 999",
+              "title_type": "editorial",
+              "official_section": "Les nombres entiers",
+              "notions": [
+                "Classes des unités, des milliers et des millions",
+                "Valeur d’un chiffre selon sa position",
+                "Lire et écrire les nombres jusqu’à neuf chiffres",
+                "Comparer et ranger des grands nombres"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-grands-nombres-knowledge",
+                  "text": "L’écriture chiffrée des nombres entiers jusqu’à neuf chiffres s’organise en classes de trois chiffres (unités, milliers, millions) ; la valeur d’un chiffre dépend de sa position.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-grands-nombres-skill",
+                  "text": "Lire, écrire et décomposer des nombres entiers jusqu’à 999 999 999 en connaissant la valeur des chiffres selon leur position.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-grands-nombres-compare",
+                  "text": "Comparer, encadrer et ordonner des nombres entiers en utilisant les symboles =, < et >.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo16/MENE2504620A",
+        "source_id": "9a964c7eb0341b3c",
+        "text_reference": "MENE2504620A",
+        "locator": "Article 3 : CM1 et 6e en 2025, CM2 en 2026"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "CM2-francais-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CM2",
+      "subject_id": "francais-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/programme-de-fran-ais-pour-le-cycle-3-439824.pdf",
+        "title": "Français",
+        "text_reference": "Français (BO n° 16 du 17 avril 2025) - NOUVEAU",
+        "published_on": "2025-04-17",
+        "checked_on": "2026-10-29",
+        "sha256": "e7c27f55c212b5ebb92ba8b60b6b1b0761a2301e7c0d0d780171c4cfb6e121ae",
+        "source_id": "0ef9054d22c787ac"
+      },
+      "effective_from": "2026-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "grammaire-orthographe-grammaticale",
+          "title": "Grammaire et orthographe grammaticale",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année, pages 15 et 19–20 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm2-complements-circonstanciels",
+              "title": "Les compléments circonstanciels de temps, de lieu et de cause",
+              "title_type": "editorial",
+              "official_section": "Analyser une phrase simple",
+              "notions": [
+                "Complément circonstanciel (facultatif et déplaçable)",
+                "Temps, lieu, cause",
+                "Différence avec le complément d’objet",
+                "Manipulations syntaxiques : déplacement et suppression"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-complements-circonstanciels-knowledge",
+                  "text": "Un complément circonstanciel apporte une circonstance (temps, lieu, cause) ; il se reconnaît par des manipulations syntaxiques comme le déplacement et la suppression, contrairement au complément d’objet.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-complements-circonstanciels-skill",
+                  "text": "Différencier les compléments circonstanciels de temps, de lieu et de cause.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-complements-circonstanciels-objet",
+                  "text": "Distinguer le complément d’objet du complément circonstanciel en utilisant le déplacement et la suppression.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+            },
+            {
+              "id": "cm2-phrase-simple-complexe",
+              "title": "Phrase simple et phrase complexe",
+              "title_type": "editorial",
+              "official_section": "Se repérer dans la phrase complexe",
+              "notions": [
+                "Verbe conjugué",
+                "Phrase simple et phrase complexe",
+                "Conjonctions de coordination",
+                "Conjonctions de subordination"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-phrase-simple-complexe-knowledge",
+                  "text": "Une phrase simple contient un seul verbe conjugué ; une phrase complexe en contient plusieurs, reliés par la ponctuation ou par des conjonctions.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-phrase-simple-complexe-skill",
+                  "text": "Distinguer phrase simple et phrase complexe à partir du repérage des verbes conjugués.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-phrase-simple-complexe-conjonctions",
+                  "text": "Identifier et nommer les conjonctions de coordination et de subordination qui relient les verbes d’une phrase complexe.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+            },
+            {
+              "id": "cm2-participe-passe",
+              "title": "Accorder le participe passé avec être et avoir",
+              "title_type": "editorial",
+              "official_section": "Approfondir sa maîtrise de la conjugaison",
+              "notions": [
+                "Passé composé : auxiliaire et participe passé",
+                "Accord avec le sujet (auxiliaire être)",
+                "Accord avec le COD placé avant (auxiliaire avoir), cas simples"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-participe-passe-knowledge",
+                  "text": "Au passé composé, le participe passé employé avec être s’accorde avec le sujet ; avec avoir, il s’accorde avec le COD seulement si celui-ci est placé avant le verbe.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-participe-passe-skill",
+                  "text": "Accorder le participe passé avec le sujet dans le cas de l’auxiliaire être.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-participe-passe-avoir",
+                  "text": "Accorder le participe passé avec le COD placé avant le verbe pour les verbes conjugués avec l’auxiliaire avoir (cas simples).",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo16/MENE2504620A",
+        "source_id": "9a964c7eb0341b3c",
+        "text_reference": "MENE2504620A",
+        "locator": "Article 3 : CM1 et 6e en 2025, CM2 en 2026"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "cm2-nombres-decimaux-course",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-nombres-decimaux"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes, centièmes et millièmes.",
+        "Passer d’une fraction décimale à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux, donner leur partie entière et leur arrondi à l’entier."
+      ],
+      "skill_ids": [
+        "cm2-nombres-decimaux-skill",
+        "cm2-nombres-decimaux-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-nombres-decimaux-revision_sheet",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-nombres-decimaux"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes, centièmes et millièmes.",
+        "Passer d’une fraction décimale à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux, donner leur partie entière et leur arrondi à l’entier."
+      ],
+      "skill_ids": [
+        "cm2-nombres-decimaux-skill",
+        "cm2-nombres-decimaux-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-nombres-decimaux-quiz",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-nombres-decimaux"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes, centièmes et millièmes.",
+        "Passer d’une fraction décimale à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux, donner leur partie entière et leur arrondi à l’entier."
+      ],
+      "skill_ids": [
+        "cm2-nombres-decimaux-skill",
+        "cm2-nombres-decimaux-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-nombres-decimaux-exercise",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-nombres-decimaux"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes, centièmes et millièmes.",
+        "Passer d’une fraction décimale à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux, donner leur partie entière et leur arrondi à l’entier."
+      ],
+      "skill_ids": [
+        "cm2-nombres-decimaux-skill",
+        "cm2-nombres-decimaux-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-nombres-decimaux-assessment",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-nombres-decimaux"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes, centièmes et millièmes.",
+        "Passer d’une fraction décimale à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux, donner leur partie entière et leur arrondi à l’entier."
+      ],
+      "skill_ids": [
+        "cm2-nombres-decimaux-skill",
+        "cm2-nombres-decimaux-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-nombres-decimaux-audio",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-nombres-decimaux"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes, centièmes et millièmes.",
+        "Passer d’une fraction décimale à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux, donner leur partie entière et leur arrondi à l’entier."
+      ],
+      "skill_ids": [
+        "cm2-nombres-decimaux-skill",
+        "cm2-nombres-decimaux-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-nombres-decimaux-assistant_explanation",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-nombres-decimaux"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Connaître les relations entre unités, dixièmes, centièmes et millièmes.",
+        "Passer d’une fraction décimale à l’écriture à virgule, et inversement.",
+        "Comparer et ranger des nombres décimaux, donner leur partie entière et leur arrondi à l’entier."
+      ],
+      "skill_ids": [
+        "cm2-nombres-decimaux-skill",
+        "cm2-nombres-decimaux-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-fractions-course",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-fractions"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Encadrer une fraction entre deux entiers consécutifs et la repérer sur une demi-droite graduée.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner, soustraire et comparer des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "cm2-fractions-skill",
+        "cm2-fractions-quantite",
+        "cm2-fractions-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-fractions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-fractions-revision_sheet",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-fractions"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Encadrer une fraction entre deux entiers consécutifs et la repérer sur une demi-droite graduée.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner, soustraire et comparer des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "cm2-fractions-skill",
+        "cm2-fractions-quantite",
+        "cm2-fractions-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-fractions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-fractions-quiz",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-fractions"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Encadrer une fraction entre deux entiers consécutifs et la repérer sur une demi-droite graduée.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner, soustraire et comparer des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "cm2-fractions-skill",
+        "cm2-fractions-quantite",
+        "cm2-fractions-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-fractions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-fractions-exercise",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-fractions"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Encadrer une fraction entre deux entiers consécutifs et la repérer sur une demi-droite graduée.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner, soustraire et comparer des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "cm2-fractions-skill",
+        "cm2-fractions-quantite",
+        "cm2-fractions-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-fractions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-fractions-assessment",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-fractions"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Encadrer une fraction entre deux entiers consécutifs et la repérer sur une demi-droite graduée.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner, soustraire et comparer des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "cm2-fractions-skill",
+        "cm2-fractions-quantite",
+        "cm2-fractions-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-fractions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-fractions-audio",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-fractions"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Encadrer une fraction entre deux entiers consécutifs et la repérer sur une demi-droite graduée.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner, soustraire et comparer des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "cm2-fractions-skill",
+        "cm2-fractions-quantite",
+        "cm2-fractions-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-fractions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-fractions-assistant_explanation",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-fractions"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Écrire une fraction supérieure à 1 comme la somme d’un entier et d’une fraction inférieure à 1, et inversement.",
+        "Encadrer une fraction entre deux entiers consécutifs et la repérer sur une demi-droite graduée.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner, soustraire et comparer des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "cm2-fractions-skill",
+        "cm2-fractions-quantite",
+        "cm2-fractions-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les fractions, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-fractions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-grands-nombres-course",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-grands-nombres"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres des nombres entiers jusqu’à neuf chiffres.",
+        "Connaître la valeur d’un chiffre selon sa position et décomposer un grand nombre.",
+        "Comparer et ranger des grands nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "cm2-grands-nombres-skill",
+        "cm2-grands-nombres-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-grands-nombres.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-grands-nombres-revision_sheet",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-grands-nombres"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres des nombres entiers jusqu’à neuf chiffres.",
+        "Connaître la valeur d’un chiffre selon sa position et décomposer un grand nombre.",
+        "Comparer et ranger des grands nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "cm2-grands-nombres-skill",
+        "cm2-grands-nombres-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-grands-nombres.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-grands-nombres-quiz",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-grands-nombres"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres des nombres entiers jusqu’à neuf chiffres.",
+        "Connaître la valeur d’un chiffre selon sa position et décomposer un grand nombre.",
+        "Comparer et ranger des grands nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "cm2-grands-nombres-skill",
+        "cm2-grands-nombres-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-grands-nombres.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-grands-nombres-exercise",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-grands-nombres"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres des nombres entiers jusqu’à neuf chiffres.",
+        "Connaître la valeur d’un chiffre selon sa position et décomposer un grand nombre.",
+        "Comparer et ranger des grands nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "cm2-grands-nombres-skill",
+        "cm2-grands-nombres-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-grands-nombres.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-grands-nombres-assessment",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-grands-nombres"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres des nombres entiers jusqu’à neuf chiffres.",
+        "Connaître la valeur d’un chiffre selon sa position et décomposer un grand nombre.",
+        "Comparer et ranger des grands nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "cm2-grands-nombres-skill",
+        "cm2-grands-nombres-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-grands-nombres.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-grands-nombres-audio",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-grands-nombres"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres des nombres entiers jusqu’à neuf chiffres.",
+        "Connaître la valeur d’un chiffre selon sa position et décomposer un grand nombre.",
+        "Comparer et ranger des grands nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "cm2-grands-nombres-skill",
+        "cm2-grands-nombres-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-grands-nombres.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-grands-nombres-assistant_explanation",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-grands-nombres"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Lire et écrire en chiffres et en lettres des nombres entiers jusqu’à neuf chiffres.",
+        "Connaître la valeur d’un chiffre selon sa position et décomposer un grand nombre.",
+        "Comparer et ranger des grands nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "cm2-grands-nombres-skill",
+        "cm2-grands-nombres-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres entiers, page 9 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-grands-nombres.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-complements-circonstanciels-course",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-complements-circonstanciels"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître un complément circonstanciel par le déplacement et la suppression.",
+        "Distinguer les compléments circonstanciels de temps, de lieu et de cause.",
+        "Ne pas confondre un complément circonstanciel avec un complément d’objet."
+      ],
+      "skill_ids": [
+        "cm2-complements-circonstanciels-skill",
+        "cm2-complements-circonstanciels-objet"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-complements-circonstanciels.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-complements-circonstanciels-revision_sheet",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-complements-circonstanciels"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître un complément circonstanciel par le déplacement et la suppression.",
+        "Distinguer les compléments circonstanciels de temps, de lieu et de cause.",
+        "Ne pas confondre un complément circonstanciel avec un complément d’objet."
+      ],
+      "skill_ids": [
+        "cm2-complements-circonstanciels-skill",
+        "cm2-complements-circonstanciels-objet"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-complements-circonstanciels.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-complements-circonstanciels-quiz",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-complements-circonstanciels"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître un complément circonstanciel par le déplacement et la suppression.",
+        "Distinguer les compléments circonstanciels de temps, de lieu et de cause.",
+        "Ne pas confondre un complément circonstanciel avec un complément d’objet."
+      ],
+      "skill_ids": [
+        "cm2-complements-circonstanciels-skill",
+        "cm2-complements-circonstanciels-objet"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-complements-circonstanciels.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-complements-circonstanciels-exercise",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-complements-circonstanciels"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître un complément circonstanciel par le déplacement et la suppression.",
+        "Distinguer les compléments circonstanciels de temps, de lieu et de cause.",
+        "Ne pas confondre un complément circonstanciel avec un complément d’objet."
+      ],
+      "skill_ids": [
+        "cm2-complements-circonstanciels-skill",
+        "cm2-complements-circonstanciels-objet"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-complements-circonstanciels.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-complements-circonstanciels-assessment",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-complements-circonstanciels"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître un complément circonstanciel par le déplacement et la suppression.",
+        "Distinguer les compléments circonstanciels de temps, de lieu et de cause.",
+        "Ne pas confondre un complément circonstanciel avec un complément d’objet."
+      ],
+      "skill_ids": [
+        "cm2-complements-circonstanciels-skill",
+        "cm2-complements-circonstanciels-objet"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-complements-circonstanciels.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-complements-circonstanciels-audio",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-complements-circonstanciels"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître un complément circonstanciel par le déplacement et la suppression.",
+        "Distinguer les compléments circonstanciels de temps, de lieu et de cause.",
+        "Ne pas confondre un complément circonstanciel avec un complément d’objet."
+      ],
+      "skill_ids": [
+        "cm2-complements-circonstanciels-skill",
+        "cm2-complements-circonstanciels-objet"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-complements-circonstanciels.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-complements-circonstanciels-assistant_explanation",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-complements-circonstanciels"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître un complément circonstanciel par le déplacement et la suppression.",
+        "Distinguer les compléments circonstanciels de temps, de lieu et de cause.",
+        "Ne pas confondre un complément circonstanciel avec un complément d’objet."
+      ],
+      "skill_ids": [
+        "cm2-complements-circonstanciels-skill",
+        "cm2-complements-circonstanciels-objet"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-complements-circonstanciels.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-phrase-simple-complexe-course",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-phrase-simple-complexe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Repérer les verbes conjugués dans une phrase.",
+        "Distinguer phrase simple (un verbe conjugué) et phrase complexe (plusieurs verbes conjugués).",
+        "Reconnaître les mots qui relient les parties d’une phrase complexe."
+      ],
+      "skill_ids": [
+        "cm2-phrase-simple-complexe-skill",
+        "cm2-phrase-simple-complexe-conjonctions"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-phrase-simple-complexe-revision_sheet",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-phrase-simple-complexe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Repérer les verbes conjugués dans une phrase.",
+        "Distinguer phrase simple (un verbe conjugué) et phrase complexe (plusieurs verbes conjugués).",
+        "Reconnaître les mots qui relient les parties d’une phrase complexe."
+      ],
+      "skill_ids": [
+        "cm2-phrase-simple-complexe-skill",
+        "cm2-phrase-simple-complexe-conjonctions"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-phrase-simple-complexe-quiz",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-phrase-simple-complexe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Repérer les verbes conjugués dans une phrase.",
+        "Distinguer phrase simple (un verbe conjugué) et phrase complexe (plusieurs verbes conjugués).",
+        "Reconnaître les mots qui relient les parties d’une phrase complexe."
+      ],
+      "skill_ids": [
+        "cm2-phrase-simple-complexe-skill",
+        "cm2-phrase-simple-complexe-conjonctions"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-phrase-simple-complexe-exercise",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-phrase-simple-complexe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Repérer les verbes conjugués dans une phrase.",
+        "Distinguer phrase simple (un verbe conjugué) et phrase complexe (plusieurs verbes conjugués).",
+        "Reconnaître les mots qui relient les parties d’une phrase complexe."
+      ],
+      "skill_ids": [
+        "cm2-phrase-simple-complexe-skill",
+        "cm2-phrase-simple-complexe-conjonctions"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-phrase-simple-complexe-assessment",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-phrase-simple-complexe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Repérer les verbes conjugués dans une phrase.",
+        "Distinguer phrase simple (un verbe conjugué) et phrase complexe (plusieurs verbes conjugués).",
+        "Reconnaître les mots qui relient les parties d’une phrase complexe."
+      ],
+      "skill_ids": [
+        "cm2-phrase-simple-complexe-skill",
+        "cm2-phrase-simple-complexe-conjonctions"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-phrase-simple-complexe-audio",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-phrase-simple-complexe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Repérer les verbes conjugués dans une phrase.",
+        "Distinguer phrase simple (un verbe conjugué) et phrase complexe (plusieurs verbes conjugués).",
+        "Reconnaître les mots qui relient les parties d’une phrase complexe."
+      ],
+      "skill_ids": [
+        "cm2-phrase-simple-complexe-skill",
+        "cm2-phrase-simple-complexe-conjonctions"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-phrase-simple-complexe-assistant_explanation",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-phrase-simple-complexe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Repérer les verbes conjugués dans une phrase.",
+        "Distinguer phrase simple (un verbe conjugué) et phrase complexe (plusieurs verbes conjugués).",
+        "Reconnaître les mots qui relient les parties d’une phrase complexe."
+      ],
+      "skill_ids": [
+        "cm2-phrase-simple-complexe-skill",
+        "cm2-phrase-simple-complexe-conjonctions"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Se repérer dans la phrase complexe, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-participe-passe-course",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-participe-passe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître le passé composé (auxiliaire + participe passé) et retrouver l’infinitif.",
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples)."
+      ],
+      "skill_ids": [
+        "cm2-participe-passe-skill",
+        "cm2-participe-passe-avoir"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-participe-passe-revision_sheet",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-participe-passe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître le passé composé (auxiliaire + participe passé) et retrouver l’infinitif.",
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples)."
+      ],
+      "skill_ids": [
+        "cm2-participe-passe-skill",
+        "cm2-participe-passe-avoir"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-participe-passe-quiz",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-participe-passe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître le passé composé (auxiliaire + participe passé) et retrouver l’infinitif.",
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples)."
+      ],
+      "skill_ids": [
+        "cm2-participe-passe-skill",
+        "cm2-participe-passe-avoir"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-participe-passe-exercise",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-participe-passe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître le passé composé (auxiliaire + participe passé) et retrouver l’infinitif.",
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples)."
+      ],
+      "skill_ids": [
+        "cm2-participe-passe-skill",
+        "cm2-participe-passe-avoir"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-participe-passe-assessment",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-participe-passe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître le passé composé (auxiliaire + participe passé) et retrouver l’infinitif.",
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples)."
+      ],
+      "skill_ids": [
+        "cm2-participe-passe-skill",
+        "cm2-participe-passe-avoir"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-participe-passe-audio",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-participe-passe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître le passé composé (auxiliaire + participe passé) et retrouver l’infinitif.",
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples)."
+      ],
+      "skill_ids": [
+        "cm2-participe-passe-skill",
+        "cm2-participe-passe-avoir"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-participe-passe-assistant_explanation",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-participe-passe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître le passé composé (auxiliaire + participe passé) et retrouver l’infinitif.",
+        "Accorder le participe passé employé avec être avec le sujet.",
+        "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples)."
+      ],
+      "skill_ids": [
+        "cm2-participe-passe-skill",
+        "cm2-participe-passe-avoir"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "4e-relatifs-addition-soustraction",
+  "title": "Additionner et soustraire des nombres relatifs",
+  "chapter_id": "4e-relatifs-addition-soustraction",
+  "program_id": "4e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Repérer, comparer et ranger des nombres relatifs sur une droite graduée.",
+    "Additionner deux nombres relatifs en utilisant les distances à zéro et les signes.",
+    "Transformer une soustraction en addition de l’opposé et calculer."
+  ],
+  "skill_ids": [
+    "4e-relatifs-addition-soustraction-skill",
+    "4e-relatifs-addition-soustraction-order"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Nombres, Comparaisons de nombres et Pratiquer le calcul, pages 130–131 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Nombres positifs, négatifs et opposés",
+      "text": "Un nombre relatif est un nombre accompagné d’un signe + ou −. Il sert par exemple à écrire une température : −5 °C signifie « 5 degrés en dessous de zéro ». Sur une droite graduée, les nombres positifs sont à droite de 0 et les nombres négatifs à gauche. La distance à zéro de −5 et de +5 est la même : 5. On dit que −5 et +5 sont opposés. La somme de deux nombres opposés vaut toujours 0 : (−5) + (+5) = 0."
+    },
+    {
+      "title": "Comparer et ranger",
+      "text": "Sur la droite graduée, un nombre est plus grand que tous ceux qui sont à sa gauche. Ainsi −7 < −2 < 0 < +3. Attention : entre deux nombres négatifs, le plus grand est celui qui est le plus proche de zéro. Donc −2 > −7, même si 7 est plus grand que 2. Pour ranger dans l’ordre croissant, on part du plus à gauche : −11 < −4 < −1 < 0 < +3."
+    },
+    {
+      "title": "Additionner deux nombres relatifs",
+      "text": "Même signe : on additionne les distances à zéro et on garde le signe. (+3) + (+4) = +7 et (−3) + (−4) = −7. Signes différents : on soustrait la plus petite distance à zéro de la plus grande, et on garde le signe du nombre qui a la plus grande distance à zéro. (−8) + (+5) = −3 car 8 − 5 = 3 et 8 est du côté négatif. (+8) + (−5) = +3. Enfin (−5) + (+5) = 0."
+    },
+    {
+      "title": "Soustraire : ajouter l’opposé",
+      "text": "Soustraire un nombre revient à ajouter son opposé : a − b = a + (opposé de b). (+3) − (+5) = (+3) + (−5) = −2. (−4) − (−6) = (−4) + (+6) = +2. (−2) − (+7) = (−2) + (−7) = −9. Cela explique aussi les variations de température : de −3 °C à +5 °C, la variation est (+5) − (−3) = (+5) + (+3) = +8, donc la température a monté de 8 °C."
+    }
+  ],
+  "revision_sheet": [
+    "Deux nombres opposés ont la même distance à zéro et des signes contraires : leur somme vaut 0.",
+    "Entre deux nombres négatifs, le plus grand est le plus proche de 0 : −2 > −7.",
+    "Même signe : on additionne les distances à zéro et on garde le signe. Signes différents : on soustrait les distances et on garde le signe de la plus grande.",
+    "a − b = a + (opposé de b) : on transforme toujours la soustraction en addition."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est l’opposé de −7 ?",
+      "choices": [
+        "−7",
+        "+7",
+        "1/7"
+      ],
+      "correct_index": 1,
+      "explanation": "Deux nombres opposés ont des signes contraires et la même distance à zéro : l’opposé de −7 est +7, car (−7) + (+7) = 0."
+    },
+    {
+      "prompt": "Combien vaut (−6) + (+2) ?",
+      "choices": [
+        "−8",
+        "−4",
+        "+4"
+      ],
+      "correct_index": 1,
+      "explanation": "Les signes sont différents. 6 − 2 = 4 et la plus grande distance à zéro (6) est du côté négatif : le résultat est −4."
+    },
+    {
+      "prompt": "Combien vaut (−3) − (−5) ?",
+      "choices": [
+        "−8",
+        "−2",
+        "+2"
+      ],
+      "correct_index": 2,
+      "explanation": "On ajoute l’opposé : (−3) − (−5) = (−3) + (+5). Les signes sont différents : 5 − 3 = 2, le signe est + : le résultat est +2."
+    },
+    {
+      "prompt": "Quel est le plus petit de ces nombres : −2 ; −9 ; 0 ?",
+      "choices": [
+        "−2",
+        "−9",
+        "0"
+      ],
+      "correct_index": 1,
+      "explanation": "Sur la droite graduée, −9 est le plus à gauche : −9 < −2 < 0."
+    },
+    {
+      "prompt": "Il fait −4 °C le matin, puis la température monte de 9 °C. Quelle température fait-il ensuite ?",
+      "choices": [
+        "13 °C",
+        "5 °C",
+        "−5 °C"
+      ],
+      "correct_index": 1,
+      "explanation": "On calcule (−4) + (+9). Signes différents : 9 − 4 = 5, et le signe est + : il fait 5 °C."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule : (+7) + (−12) ; (−5) + (−8) ; (−9) + (+9).",
+      "solution": "(+7) + (−12) = −5 ; (−5) + (−8) = −13 ; (−9) + (+9) = 0.",
+      "success_criterion": "Appliquer la bonne règle selon que les signes sont identiques ou différents, et reconnaître deux opposés."
+    },
+    {
+      "prompt": "Transforme chaque soustraction en addition, puis calcule : (+4) − (+10) ; (−6) − (−2) ; (−3) − (+5).",
+      "solution": "(+4) + (−10) = −6 ; (−6) + (+2) = −4 ; (−3) + (−5) = −8.",
+      "success_criterion": "Écrire l’opposé du deuxième nombre avant de calculer."
+    },
+    {
+      "prompt": "Range dans l’ordre croissant : −4 ; +3 ; −11 ; 0 ; −1.",
+      "solution": "−11 < −4 < −1 < 0 < +3.",
+      "success_criterion": "Placer correctement les nombres négatifs, le plus petit étant le plus éloigné de zéro côté négatif."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique pourquoi (−8) + (+3) est négatif, puis donne le résultat.",
+      "solution": "Les signes sont différents. Les distances à zéro sont 8 et 3 ; la plus grande (8) est du côté négatif, donc le résultat est négatif. 8 − 3 = 5, donc (−8) + (+3) = −5.",
+      "success_criterion": "Comparer les distances à zéro, justifier le signe, puis calculer −5."
+    },
+    {
+      "prompt": "Un plongeur est à −12 m. Il remonte à −4 m. Calcule la variation de profondeur avec une soustraction de relatifs.",
+      "solution": "(−4) − (−12) = (−4) + (+12) = +8. Le plongeur est remonté de 8 mètres.",
+      "success_criterion": "Écrire « arrivée − départ », transformer en addition de l’opposé et interpréter le résultat."
+    }
+  ],
+  "audio_transcript": "Un nombre relatif est un nombre avec un signe plus ou moins. Deux nombres opposés ont la même distance à zéro et des signes contraires : leur somme vaut zéro. Pour additionner deux nombres de même signe, on additionne les distances à zéro et on garde le signe. Si les signes sont différents, on soustrait les distances à zéro et on garde le signe du nombre qui a la plus grande distance. Pour soustraire, on ajoute l’opposé. Par exemple, moins trois moins moins cinq égale moins trois plus cinq, soit plus deux.",
+  "guided_explanation": "Imagine un thermomètre. Quand tu ajoutes un nombre positif, tu montes ; quand tu ajoutes un nombre négatif, tu descends. Pour (−6) + (+2), tu pars de −6 et tu montes de 2 : tu arrives à −4. Pour une soustraction, retiens le réflexe : « soustraire, c’est ajouter l’opposé ». Si tu hésites, dessine une droite graduée et fais le trajet avec ton crayon, puis vérifie avec la règle des distances à zéro."
+}

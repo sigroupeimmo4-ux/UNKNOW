@@ -1,0 +1,1416 @@
+{
+  "programs": [
+    {
+      "id": "6e-mathematiques-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "6e",
+      "subject_id": "mathematiques-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/programme-de-math-matiques-pour-le-cycle-3-439827.pdf",
+        "title": "Mathématiques",
+        "text_reference": "Mathématiques (BO n° 16 du 17 avril 2025)",
+        "published_on": "2025-04-17",
+        "checked_on": "2026-10-29",
+        "sha256": "f3f79a75ca8be7f54409b8b7cee3eafd769c23d12e6c822a253454e2c703b508",
+        "source_id": "9fa5d88fd335bb7f"
+      },
+      "effective_from": "2025-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "nombres-calculs",
+          "title": "Nombres et calculs",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, pages 13–16 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "6e-nombres-decimaux",
+              "title": "Lire, comparer et calculer avec les nombres décimaux",
+              "title_type": "editorial",
+              "official_section": "Les nombres entiers et décimaux",
+              "notions": [
+                "Valeur des chiffres selon leur rang (dixième, centième, millième)",
+                "Écritures d’un nombre décimal : virgule, fraction décimale, somme",
+                "Comparer et ranger des nombres décimaux",
+                "Multiplier et diviser par 10, 100, 1 000"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-nombres-decimaux-knowledge-dix-rangs",
+                  "text": "Dans l’écriture d’un nombre, la valeur d’un chiffre dépend de son rang ; 10 unités d’un rang font 1 unité du rang supérieur (unité, dixième, centième, millième).",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-nombres-decimaux-knowledge-ecritures",
+                  "text": "Un nombre décimal peut s’écrire à virgule, avec des fractions décimales (1/10, 1/100, 1/1 000) ou comme une somme de ces fractions.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-nombres-decimaux-skill-rang",
+                  "text": "Connaître et utiliser la valeur des chiffres selon leur rang dans l’écriture d’un nombre décimal.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-nombres-decimaux-skill-comparer",
+                  "text": "Comparer deux nombres décimaux et ordonner une liste de nombres décimaux.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-nombres-decimaux-skill-x10",
+                  "text": "Multiplier et diviser un nombre décimal par 10, 100 ou 1 000 en lien avec la numération.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+            },
+            {
+              "id": "6e-fractions-quotient",
+              "title": "Les fractions : quotient et fraction d’une quantité",
+              "title_type": "editorial",
+              "official_section": "Les fractions",
+              "notions": [
+                "Fraction comme quotient de deux entiers",
+                "Fractions et écritures décimales (1/2, 1/4, 3/4)",
+                "Fraction d’une quantité (2/3 de 12)",
+                "Addition et soustraction de fractions de même dénominateur"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-fractions-quotient-knowledge-quotient",
+                  "text": "La fraction a/b (b non nul) est le nombre qui, multiplié par b, donne a ; c’est le résultat exact de la division de a par b.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-fractions-quotient-knowledge-operateur",
+                  "text": "Prendre une fraction d’une quantité revient à diviser par le dénominateur puis à multiplier par le numérateur.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-fractions-quotient-skill-quotient",
+                  "text": "Relier une fraction au résultat exact de la division de son numérateur par son dénominateur.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-fractions-quotient-skill-operateur",
+                  "text": "Utiliser une multiplication pour appliquer une fraction à un nombre entier.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-fractions-quotient-skill-operations",
+                  "text": "Additionner et soustraire des fractions dans des cas simples.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "grandeurs-mesures",
+          "title": "Grandeurs et mesures",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "6e-perimetre-aire",
+              "title": "Périmètres et aires du carré et du rectangle",
+              "title_type": "editorial",
+              "official_section": "Grandeurs et mesures : les longueurs et les aires",
+              "notions": [
+                "Périmètre d’un carré et d’un rectangle",
+                "Aire d’un carré et d’un rectangle",
+                "Unités d’aire : cm², dm², m²",
+                "Conversions d’unités d’aire"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-perimetre-aire-knowledge-formules",
+                  "text": "Le périmètre d’une figure plane est la longueur de son contour ; l’aire d’un rectangle est le produit de sa longueur par sa largeur (dans la même unité).",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-perimetre-aire-knowledge-conversions",
+                  "text": "1 m² = 100 dm² et 1 dm² = 100 cm² ; 1 cm² est l’aire d’un carré de 1 cm de côté.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-perimetre-aire-skill-perimetre",
+                  "text": "Calculer le périmètre d’un carré et d’un rectangle.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-perimetre-aire-skill-aire",
+                  "text": "Connaître la formule de l’aire d’un carré ou d’un rectangle et calculer cette aire.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-perimetre-aire-skill-conversions",
+                  "text": "Effectuer des conversions d’unités d’aire (m², dm², cm²).",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo16/MENE2504620A",
+        "source_id": "9a964c7eb0341b3c",
+        "text_reference": "MENE2504620A",
+        "locator": "Article 3 : CM1 et 6e en 2025, CM2 en 2026"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "6e-francais-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "6e",
+      "subject_id": "francais-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/programme-de-fran-ais-pour-le-cycle-3-439824.pdf",
+        "title": "Français",
+        "text_reference": "Français (BO n° 16 du 17 avril 2025)",
+        "published_on": "2025-04-17",
+        "checked_on": "2026-10-29",
+        "sha256": "e7c27f55c212b5ebb92ba8b60b6b1b0761a2301e7c0d0d780171c4cfb6e121ae",
+        "source_id": "0ef9054d22c787ac"
+      },
+      "effective_from": "2025-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "grammaire-orthographe-grammaticale",
+          "title": "Grammaire et orthographe grammaticale",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, pages 20–21 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "6e-attribut-sujet-cod",
+              "title": "Distinguer l’attribut du sujet et le COD",
+              "title_type": "editorial",
+              "official_section": "Grammaire et orthographe grammaticale : analyser une phrase simple",
+              "notions": [
+                "Complément d’objet direct (COD)",
+                "Attribut du sujet et verbes d’état",
+                "Manipulations syntaxiques (remplacement par un pronom)"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-attribut-sujet-cod-knowledge-cod",
+                  "text": "Le complément d’objet direct complète le verbe sans préposition ; il peut être remplacé par un pronom comme le, la, les et désigne autre chose que le sujet.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-attribut-sujet-cod-knowledge-attribut",
+                  "text": "L’attribut du sujet suit un verbe d’état (être, sembler, devenir…) et exprime une qualité ou une identité du sujet.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-attribut-sujet-cod-skill-cod",
+                  "text": "Identifier le complément d’objet direct (COD) par des manipulations syntaxiques.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-attribut-sujet-cod-skill-attribut",
+                  "text": "Opposer et distinguer attribut du sujet et complément d’objet direct.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+            },
+            {
+              "id": "6e-phrase-complexe-propositions",
+              "title": "La phrase complexe : propositions, juxtaposition, coordination et subordination",
+              "title_type": "editorial",
+              "official_section": "Grammaire et orthographe grammaticale : se repérer dans la phrase complexe",
+              "notions": [
+                "Proposition",
+                "Phrase simple et phrase complexe",
+                "Juxtaposition, coordination, subordination",
+                "Conjonctions de coordination et de subordination"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-phrase-complexe-propositions-knowledge-proposition",
+                  "text": "Une proposition s’organise autour d’un verbe conjugué ; une phrase simple en contient une, une phrase complexe en contient plusieurs.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-phrase-complexe-propositions-knowledge-articulation",
+                  "text": "Les propositions d’une phrase complexe sont juxtaposées (ponctuation), coordonnées (conjonction de coordination) ou liées par subordination (conjonction de subordination).",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-phrase-complexe-propositions-skill-proposition",
+                  "text": "Distinguer phrase simple et phrase complexe à partir du repérage des propositions.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-phrase-complexe-propositions-skill-articulation",
+                  "text": "Repérer la juxtaposition, la coordination et la subordination et distinguer le rôle des deux types de conjonctions.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+            },
+            {
+              "id": "6e-passe-compose-accord-etre",
+              "title": "Le passé composé et l’accord du participe passé avec être",
+              "title_type": "editorial",
+              "official_section": "Grammaire et orthographe grammaticale : approfondir sa maîtrise de la conjugaison",
+              "notions": [
+                "Composition du passé composé (auxiliaire + participe passé)",
+                "Accord du participe passé avec le sujet (auxiliaire être)",
+                "Participe passé avec avoir : pas d’accord avec le sujet"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-passe-compose-accord-etre-knowledge-compose",
+                  "text": "Le passé composé se forme avec l’auxiliaire avoir ou être au présent, suivi du participe passé du verbe.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-passe-compose-accord-etre-knowledge-accord",
+                  "text": "Avec l’auxiliaire être, le participe passé s’accorde en genre et en nombre avec le sujet ; avec avoir, il ne s’accorde pas avec le sujet.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-passe-compose-accord-etre-skill-compose",
+                  "text": "Connaître la composition en deux parties (auxiliaire + participe passé) du passé composé.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-passe-compose-accord-etre-skill-accord-etre",
+                  "text": "Maîtriser l’accord du participe passé employé avec l’auxiliaire être.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo16/MENE2504620A",
+        "source_id": "9a964c7eb0341b3c",
+        "text_reference": "MENE2504620A",
+        "locator": "Article 3 : CM1 et 6e en 2025, CM2 en 2026"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "6e-nombres-decimaux-course",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-nombres-decimaux"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Dire la valeur de chaque chiffre dans un nombre décimal (dixièmes, centièmes, millièmes).",
+        "Passer d’une écriture à virgule à une écriture en fractions décimales, et inversement.",
+        "Comparer et ranger des nombres décimaux.",
+        "Multiplier et diviser un nombre décimal par 10, 100 et 1 000."
+      ],
+      "skill_ids": [
+        "6e-nombres-decimaux-skill-rang",
+        "6e-nombres-decimaux-skill-comparer",
+        "6e-nombres-decimaux-skill-x10"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-nombres-decimaux-revision_sheet",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-nombres-decimaux"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Dire la valeur de chaque chiffre dans un nombre décimal (dixièmes, centièmes, millièmes).",
+        "Passer d’une écriture à virgule à une écriture en fractions décimales, et inversement.",
+        "Comparer et ranger des nombres décimaux.",
+        "Multiplier et diviser un nombre décimal par 10, 100 et 1 000."
+      ],
+      "skill_ids": [
+        "6e-nombres-decimaux-skill-rang",
+        "6e-nombres-decimaux-skill-comparer",
+        "6e-nombres-decimaux-skill-x10"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-nombres-decimaux-quiz",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-nombres-decimaux"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Dire la valeur de chaque chiffre dans un nombre décimal (dixièmes, centièmes, millièmes).",
+        "Passer d’une écriture à virgule à une écriture en fractions décimales, et inversement.",
+        "Comparer et ranger des nombres décimaux.",
+        "Multiplier et diviser un nombre décimal par 10, 100 et 1 000."
+      ],
+      "skill_ids": [
+        "6e-nombres-decimaux-skill-rang",
+        "6e-nombres-decimaux-skill-comparer",
+        "6e-nombres-decimaux-skill-x10"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-nombres-decimaux-exercise",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-nombres-decimaux"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Dire la valeur de chaque chiffre dans un nombre décimal (dixièmes, centièmes, millièmes).",
+        "Passer d’une écriture à virgule à une écriture en fractions décimales, et inversement.",
+        "Comparer et ranger des nombres décimaux.",
+        "Multiplier et diviser un nombre décimal par 10, 100 et 1 000."
+      ],
+      "skill_ids": [
+        "6e-nombres-decimaux-skill-rang",
+        "6e-nombres-decimaux-skill-comparer",
+        "6e-nombres-decimaux-skill-x10"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-nombres-decimaux-assessment",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-nombres-decimaux"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Dire la valeur de chaque chiffre dans un nombre décimal (dixièmes, centièmes, millièmes).",
+        "Passer d’une écriture à virgule à une écriture en fractions décimales, et inversement.",
+        "Comparer et ranger des nombres décimaux.",
+        "Multiplier et diviser un nombre décimal par 10, 100 et 1 000."
+      ],
+      "skill_ids": [
+        "6e-nombres-decimaux-skill-rang",
+        "6e-nombres-decimaux-skill-comparer",
+        "6e-nombres-decimaux-skill-x10"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-nombres-decimaux-audio",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-nombres-decimaux"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Dire la valeur de chaque chiffre dans un nombre décimal (dixièmes, centièmes, millièmes).",
+        "Passer d’une écriture à virgule à une écriture en fractions décimales, et inversement.",
+        "Comparer et ranger des nombres décimaux.",
+        "Multiplier et diviser un nombre décimal par 10, 100 et 1 000."
+      ],
+      "skill_ids": [
+        "6e-nombres-decimaux-skill-rang",
+        "6e-nombres-decimaux-skill-comparer",
+        "6e-nombres-decimaux-skill-x10"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-nombres-decimaux-assistant_explanation",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-nombres-decimaux"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Dire la valeur de chaque chiffre dans un nombre décimal (dixièmes, centièmes, millièmes).",
+        "Passer d’une écriture à virgule à une écriture en fractions décimales, et inversement.",
+        "Comparer et ranger des nombres décimaux.",
+        "Multiplier et diviser un nombre décimal par 10, 100 et 1 000."
+      ],
+      "skill_ids": [
+        "6e-nombres-decimaux-skill-rang",
+        "6e-nombres-decimaux-skill-comparer",
+        "6e-nombres-decimaux-skill-x10"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux, pages 13–14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-nombres-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-fractions-quotient-course",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-fractions-quotient"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Comprendre que 3/4 est le résultat de 3 ÷ 4.",
+        "Passer de quelques fractions usuelles à leur écriture décimale.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner et soustraire des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "6e-fractions-quotient-skill-quotient",
+        "6e-fractions-quotient-skill-operateur",
+        "6e-fractions-quotient-skill-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-fractions-quotient.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-fractions-quotient-revision_sheet",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-fractions-quotient"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Comprendre que 3/4 est le résultat de 3 ÷ 4.",
+        "Passer de quelques fractions usuelles à leur écriture décimale.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner et soustraire des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "6e-fractions-quotient-skill-quotient",
+        "6e-fractions-quotient-skill-operateur",
+        "6e-fractions-quotient-skill-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-fractions-quotient.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-fractions-quotient-quiz",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-fractions-quotient"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Comprendre que 3/4 est le résultat de 3 ÷ 4.",
+        "Passer de quelques fractions usuelles à leur écriture décimale.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner et soustraire des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "6e-fractions-quotient-skill-quotient",
+        "6e-fractions-quotient-skill-operateur",
+        "6e-fractions-quotient-skill-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-fractions-quotient.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-fractions-quotient-exercise",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-fractions-quotient"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Comprendre que 3/4 est le résultat de 3 ÷ 4.",
+        "Passer de quelques fractions usuelles à leur écriture décimale.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner et soustraire des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "6e-fractions-quotient-skill-quotient",
+        "6e-fractions-quotient-skill-operateur",
+        "6e-fractions-quotient-skill-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-fractions-quotient.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-fractions-quotient-assessment",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-fractions-quotient"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Comprendre que 3/4 est le résultat de 3 ÷ 4.",
+        "Passer de quelques fractions usuelles à leur écriture décimale.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner et soustraire des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "6e-fractions-quotient-skill-quotient",
+        "6e-fractions-quotient-skill-operateur",
+        "6e-fractions-quotient-skill-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-fractions-quotient.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-fractions-quotient-audio",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-fractions-quotient"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Comprendre que 3/4 est le résultat de 3 ÷ 4.",
+        "Passer de quelques fractions usuelles à leur écriture décimale.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner et soustraire des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "6e-fractions-quotient-skill-quotient",
+        "6e-fractions-quotient-skill-operateur",
+        "6e-fractions-quotient-skill-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-fractions-quotient.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-fractions-quotient-assistant_explanation",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-fractions-quotient"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Comprendre que 3/4 est le résultat de 3 ÷ 4.",
+        "Passer de quelques fractions usuelles à leur écriture décimale.",
+        "Calculer une fraction d’une quantité.",
+        "Additionner et soustraire des fractions de même dénominateur."
+      ],
+      "skill_ids": [
+        "6e-fractions-quotient-skill-quotient",
+        "6e-fractions-quotient-skill-operateur",
+        "6e-fractions-quotient-skill-operations"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les fractions, pages 14–16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-fractions-quotient.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-perimetre-aire-course",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-perimetre-aire"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Calculer le périmètre d’un carré et d’un rectangle.",
+        "Calculer l’aire d’un carré et d’un rectangle.",
+        "Ne pas confondre périmètre et aire.",
+        "Convertir des aires entre m², dm² et cm²."
+      ],
+      "skill_ids": [
+        "6e-perimetre-aire-skill-perimetre",
+        "6e-perimetre-aire-skill-aire",
+        "6e-perimetre-aire-skill-conversions"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-perimetre-aire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-perimetre-aire-revision_sheet",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-perimetre-aire"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Calculer le périmètre d’un carré et d’un rectangle.",
+        "Calculer l’aire d’un carré et d’un rectangle.",
+        "Ne pas confondre périmètre et aire.",
+        "Convertir des aires entre m², dm² et cm²."
+      ],
+      "skill_ids": [
+        "6e-perimetre-aire-skill-perimetre",
+        "6e-perimetre-aire-skill-aire",
+        "6e-perimetre-aire-skill-conversions"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-perimetre-aire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-perimetre-aire-quiz",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-perimetre-aire"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Calculer le périmètre d’un carré et d’un rectangle.",
+        "Calculer l’aire d’un carré et d’un rectangle.",
+        "Ne pas confondre périmètre et aire.",
+        "Convertir des aires entre m², dm² et cm²."
+      ],
+      "skill_ids": [
+        "6e-perimetre-aire-skill-perimetre",
+        "6e-perimetre-aire-skill-aire",
+        "6e-perimetre-aire-skill-conversions"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-perimetre-aire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-perimetre-aire-exercise",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-perimetre-aire"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Calculer le périmètre d’un carré et d’un rectangle.",
+        "Calculer l’aire d’un carré et d’un rectangle.",
+        "Ne pas confondre périmètre et aire.",
+        "Convertir des aires entre m², dm² et cm²."
+      ],
+      "skill_ids": [
+        "6e-perimetre-aire-skill-perimetre",
+        "6e-perimetre-aire-skill-aire",
+        "6e-perimetre-aire-skill-conversions"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-perimetre-aire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-perimetre-aire-assessment",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-perimetre-aire"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Calculer le périmètre d’un carré et d’un rectangle.",
+        "Calculer l’aire d’un carré et d’un rectangle.",
+        "Ne pas confondre périmètre et aire.",
+        "Convertir des aires entre m², dm² et cm²."
+      ],
+      "skill_ids": [
+        "6e-perimetre-aire-skill-perimetre",
+        "6e-perimetre-aire-skill-aire",
+        "6e-perimetre-aire-skill-conversions"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-perimetre-aire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-perimetre-aire-audio",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-perimetre-aire"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Calculer le périmètre d’un carré et d’un rectangle.",
+        "Calculer l’aire d’un carré et d’un rectangle.",
+        "Ne pas confondre périmètre et aire.",
+        "Convertir des aires entre m², dm² et cm²."
+      ],
+      "skill_ids": [
+        "6e-perimetre-aire-skill-perimetre",
+        "6e-perimetre-aire-skill-aire",
+        "6e-perimetre-aire-skill-conversions"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-perimetre-aire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-perimetre-aire-assistant_explanation",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-perimetre-aire"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Calculer le périmètre d’un carré et d’un rectangle.",
+        "Calculer l’aire d’un carré et d’un rectangle.",
+        "Ne pas confondre périmètre et aire.",
+        "Convertir des aires entre m², dm² et cm²."
+      ],
+      "skill_ids": [
+        "6e-perimetre-aire-skill-perimetre",
+        "6e-perimetre-aire-skill-aire",
+        "6e-perimetre-aire-skill-conversions"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-perimetre-aire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-attribut-sujet-cod-course",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-attribut-sujet-cod"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître le verbe, le sujet et le COD dans une phrase.",
+        "Reconnaître un verbe d’état et l’attribut du sujet.",
+        "Distinguer l’attribut du sujet du COD grâce à des tests simples."
+      ],
+      "skill_ids": [
+        "6e-attribut-sujet-cod-skill-cod",
+        "6e-attribut-sujet-cod-skill-attribut"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-attribut-sujet-cod.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-attribut-sujet-cod-revision_sheet",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-attribut-sujet-cod"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître le verbe, le sujet et le COD dans une phrase.",
+        "Reconnaître un verbe d’état et l’attribut du sujet.",
+        "Distinguer l’attribut du sujet du COD grâce à des tests simples."
+      ],
+      "skill_ids": [
+        "6e-attribut-sujet-cod-skill-cod",
+        "6e-attribut-sujet-cod-skill-attribut"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-attribut-sujet-cod.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-attribut-sujet-cod-quiz",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-attribut-sujet-cod"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître le verbe, le sujet et le COD dans une phrase.",
+        "Reconnaître un verbe d’état et l’attribut du sujet.",
+        "Distinguer l’attribut du sujet du COD grâce à des tests simples."
+      ],
+      "skill_ids": [
+        "6e-attribut-sujet-cod-skill-cod",
+        "6e-attribut-sujet-cod-skill-attribut"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-attribut-sujet-cod.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-attribut-sujet-cod-exercise",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-attribut-sujet-cod"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître le verbe, le sujet et le COD dans une phrase.",
+        "Reconnaître un verbe d’état et l’attribut du sujet.",
+        "Distinguer l’attribut du sujet du COD grâce à des tests simples."
+      ],
+      "skill_ids": [
+        "6e-attribut-sujet-cod-skill-cod",
+        "6e-attribut-sujet-cod-skill-attribut"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-attribut-sujet-cod.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-attribut-sujet-cod-assessment",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-attribut-sujet-cod"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître le verbe, le sujet et le COD dans une phrase.",
+        "Reconnaître un verbe d’état et l’attribut du sujet.",
+        "Distinguer l’attribut du sujet du COD grâce à des tests simples."
+      ],
+      "skill_ids": [
+        "6e-attribut-sujet-cod-skill-cod",
+        "6e-attribut-sujet-cod-skill-attribut"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-attribut-sujet-cod.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-attribut-sujet-cod-audio",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-attribut-sujet-cod"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître le verbe, le sujet et le COD dans une phrase.",
+        "Reconnaître un verbe d’état et l’attribut du sujet.",
+        "Distinguer l’attribut du sujet du COD grâce à des tests simples."
+      ],
+      "skill_ids": [
+        "6e-attribut-sujet-cod-skill-cod",
+        "6e-attribut-sujet-cod-skill-attribut"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-attribut-sujet-cod.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-attribut-sujet-cod-assistant_explanation",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-attribut-sujet-cod"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître le verbe, le sujet et le COD dans une phrase.",
+        "Reconnaître un verbe d’état et l’attribut du sujet.",
+        "Distinguer l’attribut du sujet du COD grâce à des tests simples."
+      ],
+      "skill_ids": [
+        "6e-attribut-sujet-cod-skill-cod",
+        "6e-attribut-sujet-cod-skill-attribut"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-attribut-sujet-cod.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-phrase-complexe-propositions-course",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-phrase-complexe-propositions"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Compter les propositions d’une phrase à partir de ses verbes conjugués.",
+        "Distinguer phrase simple et phrase complexe.",
+        "Reconnaître la juxtaposition, la coordination et la subordination."
+      ],
+      "skill_ids": [
+        "6e-phrase-complexe-propositions-skill-proposition",
+        "6e-phrase-complexe-propositions-skill-articulation"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-phrase-complexe-propositions-revision_sheet",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-phrase-complexe-propositions"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Compter les propositions d’une phrase à partir de ses verbes conjugués.",
+        "Distinguer phrase simple et phrase complexe.",
+        "Reconnaître la juxtaposition, la coordination et la subordination."
+      ],
+      "skill_ids": [
+        "6e-phrase-complexe-propositions-skill-proposition",
+        "6e-phrase-complexe-propositions-skill-articulation"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-phrase-complexe-propositions-quiz",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-phrase-complexe-propositions"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Compter les propositions d’une phrase à partir de ses verbes conjugués.",
+        "Distinguer phrase simple et phrase complexe.",
+        "Reconnaître la juxtaposition, la coordination et la subordination."
+      ],
+      "skill_ids": [
+        "6e-phrase-complexe-propositions-skill-proposition",
+        "6e-phrase-complexe-propositions-skill-articulation"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-phrase-complexe-propositions-exercise",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-phrase-complexe-propositions"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Compter les propositions d’une phrase à partir de ses verbes conjugués.",
+        "Distinguer phrase simple et phrase complexe.",
+        "Reconnaître la juxtaposition, la coordination et la subordination."
+      ],
+      "skill_ids": [
+        "6e-phrase-complexe-propositions-skill-proposition",
+        "6e-phrase-complexe-propositions-skill-articulation"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-phrase-complexe-propositions-assessment",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-phrase-complexe-propositions"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Compter les propositions d’une phrase à partir de ses verbes conjugués.",
+        "Distinguer phrase simple et phrase complexe.",
+        "Reconnaître la juxtaposition, la coordination et la subordination."
+      ],
+      "skill_ids": [
+        "6e-phrase-complexe-propositions-skill-proposition",
+        "6e-phrase-complexe-propositions-skill-articulation"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-phrase-complexe-propositions-audio",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-phrase-complexe-propositions"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Compter les propositions d’une phrase à partir de ses verbes conjugués.",
+        "Distinguer phrase simple et phrase complexe.",
+        "Reconnaître la juxtaposition, la coordination et la subordination."
+      ],
+      "skill_ids": [
+        "6e-phrase-complexe-propositions-skill-proposition",
+        "6e-phrase-complexe-propositions-skill-articulation"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-phrase-complexe-propositions-assistant_explanation",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-phrase-complexe-propositions"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Compter les propositions d’une phrase à partir de ses verbes conjugués.",
+        "Distinguer phrase simple et phrase complexe.",
+        "Reconnaître la juxtaposition, la coordination et la subordination."
+      ],
+      "skill_ids": [
+        "6e-phrase-complexe-propositions-skill-proposition",
+        "6e-phrase-complexe-propositions-skill-articulation"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-phrase-complexe-propositions.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-passe-compose-accord-etre-course",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-passe-compose-accord-etre"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être.",
+        "Ne pas accorder le participe passé avec le sujet quand l’auxiliaire est avoir."
+      ],
+      "skill_ids": [
+        "6e-passe-compose-accord-etre-skill-compose",
+        "6e-passe-compose-accord-etre-skill-accord-etre"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-passe-compose-accord-etre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-passe-compose-accord-etre-revision_sheet",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-passe-compose-accord-etre"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être.",
+        "Ne pas accorder le participe passé avec le sujet quand l’auxiliaire est avoir."
+      ],
+      "skill_ids": [
+        "6e-passe-compose-accord-etre-skill-compose",
+        "6e-passe-compose-accord-etre-skill-accord-etre"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-passe-compose-accord-etre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-passe-compose-accord-etre-quiz",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-passe-compose-accord-etre"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être.",
+        "Ne pas accorder le participe passé avec le sujet quand l’auxiliaire est avoir."
+      ],
+      "skill_ids": [
+        "6e-passe-compose-accord-etre-skill-compose",
+        "6e-passe-compose-accord-etre-skill-accord-etre"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-passe-compose-accord-etre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-passe-compose-accord-etre-exercise",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-passe-compose-accord-etre"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être.",
+        "Ne pas accorder le participe passé avec le sujet quand l’auxiliaire est avoir."
+      ],
+      "skill_ids": [
+        "6e-passe-compose-accord-etre-skill-compose",
+        "6e-passe-compose-accord-etre-skill-accord-etre"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-passe-compose-accord-etre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-passe-compose-accord-etre-assessment",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-passe-compose-accord-etre"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être.",
+        "Ne pas accorder le participe passé avec le sujet quand l’auxiliaire est avoir."
+      ],
+      "skill_ids": [
+        "6e-passe-compose-accord-etre-skill-compose",
+        "6e-passe-compose-accord-etre-skill-accord-etre"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-passe-compose-accord-etre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-passe-compose-accord-etre-audio",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-passe-compose-accord-etre"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être.",
+        "Ne pas accorder le participe passé avec le sujet quand l’auxiliaire est avoir."
+      ],
+      "skill_ids": [
+        "6e-passe-compose-accord-etre-skill-compose",
+        "6e-passe-compose-accord-etre-skill-accord-etre"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-passe-compose-accord-etre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-passe-compose-accord-etre-assistant_explanation",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-passe-compose-accord-etre"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être.",
+        "Ne pas accorder le participe passé avec le sujet quand l’auxiliaire est avoir."
+      ],
+      "skill_ids": [
+        "6e-passe-compose-accord-etre-skill-compose",
+        "6e-passe-compose-accord-etre-skill-accord-etre"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-passe-compose-accord-etre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ce1-centaines-dizaines-unites",
+  "title": "Centaines, dizaines et unités jusqu’à 1 000",
+  "chapter_id": "ce1-centaines-dizaines-unites",
+  "program_id": "CE1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Regrouper des unités en dizaines et des dizaines en centaines.",
+    "Lire, écrire et décomposer un nombre jusqu’à 999 (par exemple 635 = 600 + 30 + 5).",
+    "Comparer deux nombres avec les symboles <, > et =."
+  ],
+  "skill_ids": [
+    "ce1-centaines-dizaines-unites-skill",
+    "ce1-centaines-dizaines-unites-compare"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Dix unités, une dizaine ; dix dizaines, une centaine",
+      "text": "Avec des cubes, dix cubes isolés forment une barre : c’est une dizaine. Dix barres forment une plaque de cent cubes : c’est une centaine. Donc 10 unités = 1 dizaine, 10 dizaines = 1 centaine, et 1 centaine = 100 unités."
+    },
+    {
+      "title": "Lire un nombre à trois chiffres",
+      "text": "Dans 635, le chiffre 6 est à la place des centaines (6 centaines = 600), le chiffre 3 est à la place des dizaines (3 dizaines = 30) et le chiffre 5 est à la place des unités (5 unités = 5). On dit « six-cent-trente-cinq »."
+    },
+    {
+      "title": "Décomposer un nombre",
+      "text": "On peut écrire 635 = 600 + 30 + 5, ou encore 635 = (6 × 100) + (3 × 10) + (5 × 1). Le zéro garde une place vide : dans 408, il y a 4 centaines, 0 dizaine et 8 unités, donc 408 = 400 + 8. Ce n’est pas la même chose que 480."
+    },
+    {
+      "title": "Comparer des nombres",
+      "text": "Pour comparer deux nombres, on regarde d’abord les centaines, puis les dizaines, puis les unités. 243 et 234 ont le même chiffre des centaines (2). Mais 243 a 4 dizaines et 234 a 3 dizaines : donc 243 > 234. Le signe < ou > s’ouvre vers le plus grand nombre : 234 < 243."
+    }
+  ],
+  "revision_sheet": [
+    "10 unités = 1 dizaine ; 10 dizaines = 1 centaine = 100.",
+    "635 = 600 + 30 + 5 = (6 × 100) + (3 × 10) + (5 × 1).",
+    "Le zéro garde la place : 408 n’est pas 480.",
+    "Pour comparer : centaines d’abord, puis dizaines, puis unités ; 243 > 234."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien y a-t-il de dizaines dans une centaine ?",
+      "choices": [
+        "1",
+        "10",
+        "100"
+      ],
+      "correct_index": 1,
+      "explanation": "Une centaine, c’est 100 unités, donc 10 groupes de dix : 10 dizaines."
+    },
+    {
+      "prompt": "Quel nombre s’écrit avec 4 centaines, 0 dizaine et 7 unités ?",
+      "choices": [
+        "47",
+        "470",
+        "407"
+      ],
+      "correct_index": 2,
+      "explanation": "4 centaines = 400, 0 dizaine = 0 et 7 unités = 7 : 400 + 7 = 407."
+    },
+    {
+      "prompt": "Dans 635, que représente le chiffre 3 ?",
+      "choices": [
+        "3 unités",
+        "3 centaines",
+        "3 dizaines"
+      ],
+      "correct_index": 2,
+      "explanation": "Le 3 est à la place des dizaines : il vaut 30."
+    },
+    {
+      "prompt": "Quelle décomposition correspond à 582 ?",
+      "choices": [
+        "500 + 80 + 2",
+        "50 + 80 + 2",
+        "5 + 8 + 2"
+      ],
+      "correct_index": 0,
+      "explanation": "582 = 5 centaines + 8 dizaines + 2 unités = 500 + 80 + 2."
+    },
+    {
+      "prompt": "Quel signe complète 243 … 234 ?",
+      "choices": [
+        "<",
+        ">",
+        "="
+      ],
+      "correct_index": 1,
+      "explanation": "Les centaines sont égales (2), mais 4 dizaines est plus grand que 3 dizaines : 243 > 234."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris en chiffres : 7 centaines, 2 dizaines et 5 unités.",
+      "solution": "700 + 20 + 5 = 725.",
+      "success_criterion": "Écrire 725 en plaçant chaque chiffre à sa bonne place."
+    },
+    {
+      "prompt": "Décompose 806 en centaines, dizaines et unités.",
+      "solution": "806 = 8 centaines, 0 dizaine et 6 unités, soit 800 + 6.",
+      "success_criterion": "Indiquer qu’il y a 0 dizaine et écrire 800 + 6."
+    },
+    {
+      "prompt": "Range du plus petit au plus grand : 234, 243, 239, 300 et 229.",
+      "solution": "229, 234, 239, 243, 300.",
+      "success_criterion": "Comparer d’abord les centaines, puis les dizaines, puis les unités, et obtenir l’ordre correct."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris en chiffres : 63 dizaines et 5 unités.",
+      "solution": "63 dizaines = 630 ; 630 + 5 = 635.",
+      "success_criterion": "Convertir les dizaines en unités (630) puis ajouter 5 unités."
+    },
+    {
+      "prompt": "Explique pourquoi 408 et 480 ne représentent pas le même nombre.",
+      "solution": "408 = 4 centaines, 0 dizaine et 8 unités ; 480 = 4 centaines, 8 dizaines et 0 unité. Le 8 n’est pas à la même place, donc il ne vaut pas la même chose.",
+      "success_criterion": "Décrire la position du 8 (unités ou dizaines) dans chaque nombre."
+    },
+    {
+      "prompt": "Compare 576 et 567 avec le signe < ou >.",
+      "solution": "576 > 567, car les centaines sont égales (5) et 7 dizaines est plus grand que 6 dizaines.",
+      "success_criterion": "Écrire 576 > 567 et justifier avec les dizaines."
+    }
+  ],
+  "audio_transcript": "Dix unités forment une dizaine. Dix dizaines forment une centaine, c’est-à-dire cent unités. Dans six-cent-trente-cinq, le six compte les centaines, le trois compte les dizaines et le cinq compte les unités. On écrit six-cent-trente-cinq égale six cents plus trente plus cinq. Attention au zéro : quatre-cent-huit et quatre-cent-quatre-vingts ne sont pas le même nombre. Pour comparer deux nombres, on regarde d’abord les centaines, puis les dizaines, puis les unités.",
+  "guided_explanation": "Imagine un magasin de timbres. Les timbres sont vendus par plaques de cent, par carnets de dix, ou à l’unité. Pour avoir deux-cent-trente-cinq timbres, tu peux acheter deux plaques, trois carnets et cinq timbres seuls : 200 + 30 + 5 = 235. Le 2 compte les plaques, le 3 compte les carnets et le 5 compte les timbres seuls. Pour comparer 243 et 234, regarde d’abord les plaques : il y en a autant. Puis regarde les carnets : 4 carnets, c’est plus que 3 carnets, donc 243 est plus grand que 234."
+}

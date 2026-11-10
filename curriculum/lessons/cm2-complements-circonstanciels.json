@@ -1,0 +1,122 @@
+{
+  "id": "cm2-complements-circonstanciels",
+  "title": "Les compléments circonstanciels de temps, de lieu et de cause",
+  "chapter_id": "cm2-complements-circonstanciels",
+  "program_id": "CM2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître un complément circonstanciel par le déplacement et la suppression.",
+    "Distinguer les compléments circonstanciels de temps, de lieu et de cause.",
+    "Ne pas confondre un complément circonstanciel avec un complément d’objet."
+  ],
+  "skill_ids": [
+    "cm2-complements-circonstanciels-skill",
+    "cm2-complements-circonstanciels-objet"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 ; principes, page 15 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Un complément qu’on peut déplacer et supprimer",
+      "text": "Observe : « Les élèves jouent dans la cour pendant la récréation. » On peut supprimer « dans la cour » et « pendant la récréation » : « Les élèves jouent. » La phrase reste correcte. On peut aussi les déplacer : « Pendant la récréation, les élèves jouent dans la cour. » Ces groupes sont des compléments circonstanciels (CC). Ils donnent une circonstance : le moment, l’endroit, la raison de l’action."
+    },
+    {
+      "title": "Temps, lieu ou cause ?",
+      "text": "Le CC de temps répond à la question « quand ? » : hier soir, le matin, pendant la récréation. Le CC de lieu répond à « où ? » : dans la cour, sur le canapé, à Dakar. Le CC de cause répond à « pourquoi ? » : à cause de la pluie, par peur du noir, grâce à son aide. Exemples : « Hier soir, nous avons mangé des crêpes. » (temps) ; « Le chat dort sur le canapé. » (lieu) ; « À cause de la pluie, le match est annulé. » (cause)."
+    },
+    {
+      "title": "Ne pas confondre avec le complément d’objet",
+      "text": "Le complément d’objet complète le verbe : on ne peut pas le supprimer ni le déplacer sans changer la phrase. Dans « Tom prend son cartable le matin. », « son cartable » est le COD : « Tom prend le matin. » n’est pas correct, et « Son cartable, Tom prend le matin. » non plus. Au contraire, « le matin » est un CC de temps : « Le matin, Tom prend son cartable. » est correct. Pour trouver le COD, on pose la question « Tom prend quoi ? » après le verbe."
+    }
+  ],
+  "revision_sheet": [
+    "Un complément circonstanciel (CC) peut se supprimer et se déplacer.",
+    "CC de temps : quand ? CC de lieu : où ? CC de cause : pourquoi ?",
+    "Le COD répond à « qui ? / quoi ? » après le verbe ; on ne le supprime pas.",
+    "« Le matin, Tom prend son cartable. » : le matin = CC de temps ; son cartable = COD."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « Ce soir, nous mangeons chez mamie. », quelle est la nature du complément circonstanciel « chez mamie » ?",
+      "choices": [
+        "Temps",
+        "Lieu",
+        "Cause"
+      ],
+      "correct_index": 1,
+      "explanation": "« Chez mamie » répond à la question « où ? ». C’est un complément circonstanciel de lieu."
+    },
+    {
+      "prompt": "Dans « À cause du verglas, la route est fermée. », que exprime « à cause du verglas » ?",
+      "choices": [
+        "Le lieu",
+        "Le temps",
+        "La cause"
+      ],
+      "correct_index": 2,
+      "explanation": "On répond à la question « pourquoi la route est-elle fermée ? » : à cause du verglas. C’est un CC de cause."
+    },
+    {
+      "prompt": "Dans « Les enfants chantent après l’école dans la cour. », quel groupe est un CC de temps ?",
+      "choices": [
+        "Les enfants",
+        "après l’école",
+        "dans la cour"
+      ],
+      "correct_index": 1,
+      "explanation": "« Après l’école » répond à « quand ? ». « Dans la cour » répond à « où ? » (lieu)."
+    },
+    {
+      "prompt": "Dans « Mia dessine un dragon le soir. », quel groupe est le COD ?",
+      "choices": [
+        "le soir",
+        "un dragon",
+        "Mia"
+      ],
+      "correct_index": 1,
+      "explanation": "On demande « Mia dessine quoi ? » : un dragon. « Le soir » peut se déplacer : c’est un CC de temps."
+    },
+    {
+      "prompt": "Quelle manipulation aide à reconnaître un complément circonstanciel ?",
+      "choices": [
+        "Le mettre au pluriel",
+        "Le déplacer ou le supprimer",
+        "Le remplacer par un verbe"
+      ],
+      "correct_index": 1,
+      "explanation": "Un CC est facultatif et mobile : on peut le supprimer ou le déplacer, et la phrase reste correcte."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Dans « Hier, les randonneurs ont dormi dans un refuge à cause de l’orage. », trouve les compléments circonstanciels et donne leur nature.",
+      "solution": "« Hier » : temps. « Dans un refuge » : lieu. « À cause de l’orage » : cause.",
+      "success_criterion": "Trouver les trois CC et utiliser les questions quand ? où ? pourquoi ?"
+    },
+    {
+      "prompt": "Récris en déplaçant le CC de lieu en début de phrase : « Le renard se cache derrière le buisson. »",
+      "solution": "Derrière le buisson, le renard se cache.",
+      "success_criterion": "Déplacer le groupe complet et ajouter la virgule."
+    },
+    {
+      "prompt": "Ajoute un CC de cause à la phrase : « Les élèves restent à l’intérieur. »",
+      "solution": "Exemple : « À cause de la pluie, les élèves restent à l’intérieur. »",
+      "success_criterion": "Écrire un groupe qui répond à « pourquoi ? » (par exemple à cause de, par peur de)."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Dans « Chaque matin, Samir arrose les tomates dans le jardin. », identifie le COD et les compléments circonstanciels avec leur nature.",
+      "solution": "COD : « les tomates » (Samir arrose quoi ?). « Chaque matin » : CC de temps. « Dans le jardin » : CC de lieu.",
+      "success_criterion": "Distinguer le COD (non supprimable) des deux CC."
+    },
+    {
+      "prompt": "Explique pourquoi « son cartable » n’est pas un CC dans « Tom prend son cartable le matin. »",
+      "solution": "On ne peut pas le supprimer : « Tom prend le matin. » est incorrect. C’est le COD, qui complète le verbe prendre.",
+      "success_criterion": "Utiliser la suppression comme preuve."
+    }
+  ],
+  "audio_transcript": "Un complément circonstanciel donne une information sur le moment, l’endroit ou la raison de l’action. On peut le supprimer ou le déplacer dans la phrase. Hier soir, nous avons mangé des crêpes : hier soir répond à la question quand, c’est un complément de temps. Le chat dort sur le canapé : sur le canapé répond à la question où, c’est un complément de lieu. À cause de la pluie, le match est annulé : à cause de la pluie répond à la question pourquoi, c’est un complément de cause. Attention, le complément d’objet direct complète le verbe et ne peut pas être supprimé.",
+  "guided_explanation": "Quand tu analyses une phrase, fais d’abord le test de la suppression. Efface un groupe : si la phrase reste correcte, c’est peut-être un complément circonstanciel. Fais ensuite le test du déplacement : peux-tu mettre ce groupe au début de la phrase ? Puis pose la bonne question : quand ? pour le temps, où ? pour le lieu, pourquoi ? pour la cause. Si le groupe répond à « qui ? » ou « quoi ? » juste après le verbe et que tu ne peux pas l’enlever, c’est un complément d’objet."
+}

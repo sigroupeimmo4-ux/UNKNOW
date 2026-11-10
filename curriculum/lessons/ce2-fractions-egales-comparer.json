@@ -1,0 +1,128 @@
+{
+  "id": "ce2-fractions-egales-comparer",
+  "title": "Fractions égales et comparaison de fractions",
+  "chapter_id": "ce2-fractions-egales-comparer",
+  "program_id": "CE2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Lire une fraction d’un tout et nommer le numérateur et le dénominateur.",
+    "Établir et justifier des égalités simples comme 1/2 = 2/4 ou 3/4 = 6/8.",
+    "Comparer deux fractions de même dénominateur, de même numérateur, ou dont un dénominateur est multiple de l’autre."
+  ],
+  "skill_ids": [
+    "ce2-fractions-egales-comparer-skill-egalite",
+    "ce2-fractions-egales-comparer-skill-comparer"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Lire une fraction d’un tout",
+      "text": "Une fraction dit combien de parts égales on prend dans un tout. Dans 3/4, le dénominateur 4 indique que le tout est partagé en 4 parts égales ; le numérateur 3 indique qu’on en prend 3. Attention : les parts doivent être toutes de la même taille. On lit « trois quarts »."
+    },
+    {
+      "title": "Des fractions différentes, la même quantité",
+      "text": "Partage deux bandes identiques : l’une en 2 parts, l’autre en 4 parts. Une moitié de la première bande recouvre exactement 2 quarts de la seconde. Donc 1/2 = 2/4. De même 1/2 = 3/6 = 5/10. On peut expliquer : « Si je fais des parts deux fois plus petites et que je prends deux fois plus de parts, j’en prends la même quantité. » C’est pour cela que 3/4 = 6/8. Pour trouver le numérateur manquant dans ?/8 = 1/2 : la moitié de 8 parts, c’est 4 parts, donc 4/8 = 1/2."
+    },
+    {
+      "title": "Comparer des fractions",
+      "text": "Même dénominateur : les parts ont la même taille, on compare le nombre de parts. 5/12 < 7/12. Même numérateur : on prend le même nombre de parts, mais elles n’ont pas la même taille. Plus on partage en parts, plus elles sont petites : 5/8 > 5/12. Un dénominateur multiple de l’autre : on remplace une fraction par une fraction égale. Pour comparer 7/12 et 5/6, on remarque que 5/6 = 10/12 (6 × 2 = 12 ; 5 × 2 = 10). Comme 7/12 < 10/12, on a 7/12 < 5/6."
+    }
+  ],
+  "revision_sheet": [
+    "Dénominateur = nombre de parts égales du tout ; numérateur = nombre de parts prises.",
+    "1/2 = 2/4 = 3/6 = 5/10 : des parts plus petites et plus nombreuses, la même quantité.",
+    "Même dénominateur : la plus grande fraction a le plus grand numérateur (5/12 < 7/12).",
+    "Même numérateur : la plus grande fraction a le plus petit dénominateur (5/8 > 5/12).",
+    "Si un dénominateur est multiple de l’autre, on écrit des fractions égales de même dénominateur : 5/6 = 10/12."
+  ],
+  "quiz": [
+    {
+      "prompt": "Parmi ces fractions, lesquelles sont égales à 1/2 ?",
+      "choices": [
+        "1/3 et 2/6",
+        "2/4 et 3/6",
+        "3/4 et 3/6"
+      ],
+      "correct_index": 1,
+      "explanation": "2/4 : la moitié de 4 parts est 2 parts. 3/6 : la moitié de 6 parts est 3 parts. En revanche 1/3, 2/6 et 3/4 ne valent pas une moitié."
+    },
+    {
+      "prompt": "Quel numérateur manque dans ?/8 = 1/2 ?",
+      "choices": [
+        "8",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Une moitié de 8 parts est égale à 4 parts : 4/8 = 1/2."
+    },
+    {
+      "prompt": "Quelle comparaison est juste ?",
+      "choices": [
+        "5/12 < 7/12",
+        "5/12 > 7/12",
+        "5/12 = 7/12"
+      ],
+      "correct_index": 0,
+      "explanation": "Les parts sont des douzièmes dans les deux cas. 5 parts sont moins que 7 parts."
+    },
+    {
+      "prompt": "Quelle fraction est la plus grande : 5/12 ou 5/8 ?",
+      "choices": [
+        "5/12",
+        "5/8",
+        "Elles sont égales"
+      ],
+      "correct_index": 1,
+      "explanation": "On prend 5 parts dans les deux cas, mais les huitièmes sont plus grands que les douzièmes. Donc 5/8 > 5/12."
+    },
+    {
+      "prompt": "Quelle comparaison est juste entre 7/12 et 5/6 ?",
+      "choices": [
+        "7/12 < 5/6",
+        "7/12 > 5/6",
+        "7/12 = 5/6"
+      ],
+      "correct_index": 0,
+      "explanation": "5/6 = 10/12, et 7/12 est plus petit que 10/12. Donc 7/12 < 5/6."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Explique pourquoi 6/8 = 3/4.",
+      "solution": "En partageant chaque quart en deux parts égales, on obtient des huitièmes : 3 quarts font 6 huitièmes.",
+      "success_criterion": "Parler de parts deux fois plus petites et deux fois plus nombreuses, ou s’appuyer sur un schéma."
+    },
+    {
+      "prompt": "Complète : ?/10 = 1/2 ; ?/6 = 1/2 ; ?/12 = 3/4.",
+      "solution": "5/10 = 1/2 ; 3/6 = 1/2 ; 9/12 = 3/4.",
+      "success_criterion": "Trouver 5, 3 et 9 et justifier au moins une réponse."
+    },
+    {
+      "prompt": "Compare 3/10 et 3/5, puis 4/9 et 7/9.",
+      "solution": "3/10 < 3/5 (même numérateur, les cinquièmes sont plus grands que les dixièmes). 4/9 < 7/9 (même dénominateur, 4 parts sont moins que 7 parts).",
+      "success_criterion": "Choisir la bonne règle (même numérateur ou même dénominateur) et justifier."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Range dans l’ordre croissant : 4/5, 1/5, 2/5.",
+      "solution": "1/5 < 2/5 < 4/5.",
+      "success_criterion": "Comparer les numérateurs, car les dénominateurs sont identiques."
+    },
+    {
+      "prompt": "Léa dit : « 1/8 est plus grand que 1/4 parce que 8 est plus grand que 4. » A-t-elle raison ?",
+      "solution": "Non. Partager un tout en 8 parts donne des parts plus petites qu’en 4 parts. Donc 1/8 < 1/4.",
+      "success_criterion": "Expliquer que plus il y a de parts, plus chaque part est petite."
+    },
+    {
+      "prompt": "Parmi 2/4, 3/4, 5/10, 3/6 et 1/3, lesquelles sont égales à 1/2 ?",
+      "solution": "2/4, 5/10 et 3/6 sont égales à 1/2. 3/4 et 1/3 ne le sont pas.",
+      "success_criterion": "Trouver les trois fractions et justifier avec la moitié du dénominateur."
+    }
+  ],
+  "audio_transcript": "Une fraction dit combien de parts égales on prend dans un tout. Dans trois quarts, le dénominateur quatre indique que le tout est coupé en quatre parts égales, et le numérateur trois indique qu’on en prend trois. Une moitié est égale à deux quarts, à trois sixièmes et à cinq dixièmes. Pour comparer deux fractions qui ont le même dénominateur, on regarde le numérateur : cinq douzièmes est plus petit que sept douzièmes. Si le numérateur est le même, la fraction avec le plus petit dénominateur est la plus grande : cinq huitièmes est plus grand que cinq douzièmes.",
+  "guided_explanation": "Prends deux bandes de papier de la même longueur. Plie la première en 2 parts égales et la seconde en 4 parts égales. Colorie une part de la première : elle couvre exactement 2 parts de la seconde. Tu vois que 1/2 = 2/4. Pour comparer 5/8 et 5/12, imagine deux tablettes de chocolat identiques : l’une est partagée en 8 morceaux, l’autre en 12. Les morceaux en 8 sont plus gros. Avec 5 gros morceaux, tu as plus de chocolat qu’avec 5 petits morceaux. Dessine toujours le tout avant de comparer."
+}

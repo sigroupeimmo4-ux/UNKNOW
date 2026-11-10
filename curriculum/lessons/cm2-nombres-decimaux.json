@@ -1,0 +1,132 @@
+{
+  "id": "cm2-nombres-decimaux",
+  "title": "Les nombres décimaux : dixièmes, centièmes, millièmes",
+  "chapter_id": "cm2-nombres-decimaux",
+  "program_id": "CM2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Connaître les relations entre unités, dixièmes, centièmes et millièmes.",
+    "Passer d’une fraction décimale à l’écriture à virgule, et inversement.",
+    "Comparer et ranger des nombres décimaux, donner leur partie entière et leur arrondi à l’entier."
+  ],
+  "skill_ids": [
+    "cm2-nombres-decimaux-skill",
+    "cm2-nombres-decimaux-compare"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les nombres décimaux, page 10 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Dixièmes, centièmes, millièmes",
+      "text": "Une unité se partage en 10 parts égales : chaque part est un dixième. On écrit 1/10 = 0,1. Un dixième se partage lui-même en 10 : on obtient des centièmes, et 1/100 = 0,01. Un centième se partage encore en 10 : on obtient des millièmes, et 1/1 000 = 0,001. Donc 1 unité = 10 dixièmes = 100 centièmes = 1 000 millièmes."
+    },
+    {
+      "title": "Lire l’écriture à virgule",
+      "text": "Dans 35,782, la virgule sépare la partie entière (35) de la partie décimale (782). Le 7 compte les dixièmes, le 8 les centièmes et le 2 les millièmes : 35,782 = 35 + 7/10 + 8/100 + 2/1 000. Pour passer d’une fraction décimale à l’écriture à virgule : 47/100 = 0,47 ; 253/1 000 = 0,253 ; 5/100 = 0,05 (le zéro garde la place des dixièmes) ; 3/1 000 = 0,003."
+    },
+    {
+      "title": "Comparer et ranger",
+      "text": "Pour comparer deux nombres décimaux, on compare d’abord les parties entières, puis les dixièmes, puis les centièmes, puis les millièmes. Ainsi 4,56 < 4,6, car 5 dixièmes sont moins que 6 dixièmes : avoir plus de chiffres ne rend pas un nombre plus grand. Ajouter des zéros à la fin de la partie décimale ne change pas la valeur : 0,7 = 0,70. Dans l’ordre croissant : 3,052 < 3,2 < 3,25 < 3,5."
+    },
+    {
+      "title": "Partie entière et arrondi à l’entier",
+      "text": "La partie entière d’un nombre décimal est ce qui se trouve avant la virgule : pour 7,8 c’est 7. On encadre 7,8 entre deux entiers consécutifs : 7 < 7,8 < 8. L’arrondi à l’entier est l’entier le plus proche : 7,8 s’arrondit à 8, 7,3 s’arrondit à 7. Quand le chiffre des dixièmes est 5 ou plus, on prend l’entier suivant ; s’il est 4 ou moins, on garde la partie entière."
+    }
+  ],
+  "revision_sheet": [
+    "1 unité = 10 dixièmes = 100 centièmes = 1 000 millièmes.",
+    "1/10 = 0,1 ; 1/100 = 0,01 ; 1/1 000 = 0,001.",
+    "35,782 = 35 + 7/10 + 8/100 + 2/1 000.",
+    "Pour comparer : parties entières, puis dixièmes, centièmes, millièmes. 4,56 < 4,6.",
+    "Partie entière de 7,8 : 7. Arrondi à l’entier : 8."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle écriture à virgule correspond à la fraction 47/100 ?",
+      "choices": [
+        "4,7",
+        "0,47",
+        "0,047"
+      ],
+      "correct_index": 1,
+      "explanation": "47/100 se lit « quarante-sept centièmes » : 4 dixièmes et 7 centièmes, soit 0,47."
+    },
+    {
+      "prompt": "Dans 12,408, quel est le chiffre des centièmes ?",
+      "choices": [
+        "4",
+        "0",
+        "8"
+      ],
+      "correct_index": 1,
+      "explanation": "Après la virgule : 4 est le chiffre des dixièmes, 0 celui des centièmes et 8 celui des millièmes."
+    },
+    {
+      "prompt": "Quel est le plus grand de ces trois nombres ?",
+      "choices": [
+        "2,9",
+        "2,15",
+        "2,099"
+      ],
+      "correct_index": 0,
+      "explanation": "Les parties entières sont égales. On compare les dixièmes : 9 est plus grand que 1 et que 0. Donc 2,9 est le plus grand."
+    },
+    {
+      "prompt": "Combien vaut 3 + 5/10 + 2/1 000 ?",
+      "choices": [
+        "3,52",
+        "3,502",
+        "3,052"
+      ],
+      "correct_index": 1,
+      "explanation": "5/10 donne 5 dixièmes, 0 centième, puis 2/1 000 donne 2 millièmes : on écrit 3,502."
+    },
+    {
+      "prompt": "Quel est l’arrondi à l’entier de 6,49 ?",
+      "choices": [
+        "6",
+        "7",
+        "6,5"
+      ],
+      "correct_index": 0,
+      "explanation": "Le chiffre des dixièmes est 4, donc 6,49 est plus proche de 6 que de 7. L’arrondi à l’entier est 6."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris 3/10 + 4/100 + 9/1 000 en écriture à virgule.",
+      "solution": "3/10 + 4/100 + 9/1 000 = 0,349.",
+      "success_criterion": "Placer 3 dixièmes, 4 centièmes et 9 millièmes dans le bon ordre après la virgule."
+    },
+    {
+      "prompt": "Range dans l’ordre croissant : 5,07 ; 5,7 ; 5,007 ; 5,17.",
+      "solution": "5,007 < 5,07 < 5,17 < 5,7.",
+      "success_criterion": "Comparer chiffre par chiffre à partir des dixièmes, sans se fier au nombre de chiffres."
+    },
+    {
+      "prompt": "Écris 8,25 sous la forme d’une somme d’un entier et de fractions décimales.",
+      "solution": "8,25 = 8 + 2/10 + 5/100.",
+      "success_criterion": "Associer 2 aux dixièmes et 5 aux centièmes."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique pourquoi 0,5 et 0,50 sont égaux, mais pas 0,5 et 0,05.",
+      "solution": "0,5 = 5 dixièmes = 50 centièmes, donc 0,5 = 0,50. Mais 0,05 vaut seulement 5 centièmes, soit dix fois moins.",
+      "success_criterion": "Relier les écritures aux dixièmes et aux centièmes, pas seulement « ajouter un zéro »."
+    },
+    {
+      "prompt": "Encadre 6,48 entre deux entiers consécutifs, puis donne son arrondi à l’entier.",
+      "solution": "6 < 6,48 < 7. L’arrondi à l’entier est 6, car le chiffre des dixièmes est 4.",
+      "success_criterion": "Donner l’encadrement correct et justifier avec le chiffre des dixièmes."
+    },
+    {
+      "prompt": "Écris 253/1 000 en écriture à virgule et donne son chiffre des centièmes.",
+      "solution": "253/1 000 = 0,253. Le chiffre des centièmes est 5.",
+      "success_criterion": "Écrire 0,253 et identifier 2 dixièmes, 5 centièmes, 3 millièmes."
+    }
+  ],
+  "audio_transcript": "Une unité se partage en dix dixièmes. Un dixième se partage en dix centièmes, et un centième en dix millièmes. Une unité vaut donc mille millièmes. Dans trente-cinq virgule sept cent quatre-vingt-deux, le sept compte les dixièmes, le huit les centièmes et le deux les millièmes. Pour comparer deux nombres décimaux, on regarde d’abord la partie entière, puis les dixièmes, puis les centièmes. Quatre virgule cinquante-six est plus petit que quatre virgule six, car cinq dixièmes sont moins que six dixièmes. Retiens : plus de chiffres après la virgule ne veut pas dire plus grand.",
+  "guided_explanation": "Pense à l’argent et aux longueurs. Un centime est un centième d’euro : 0,01 €. Dix centimes font un dixième d’euro : 0,10 €. De même, un millimètre est un millième de mètre : 0,001 m. Quand tu lis 4,56 m, tu as 4 mètres, 5 dixièmes de mètre (5 décimètres) et 6 centièmes (6 centimètres). Et 4,6 m, c’est 4 mètres et 6 décimètres : c’est plus long, même s’il y a moins de chiffres. Pour t’aider, tu peux toujours ajouter un zéro : 4,6 = 4,60, puis compare 56 centièmes et 60 centièmes."
+}

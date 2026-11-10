@@ -1,0 +1,126 @@
+{
+  "id": "4e-informer-s-informer-deformer",
+  "title": "Informer, s’informer, déformer ?",
+  "chapter_id": "4e-informer-s-informer-deformer",
+  "program_id": "4e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer un fait vérifiable d’une opinion dans un texte d’information.",
+    "Vérifier une information en identifiant sa source et en recoupant plusieurs sources.",
+    "Repérer comment un titre, une citation réduite ou un montage peut déformer une information."
+  ],
+  "skill_ids": [
+    "4e-informer-s-informer-deformer-skill",
+    "4e-informer-s-informer-deformer-sources"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Culture littéraire et artistique / Quatrième, Agir sur le monde : Informer, s’informer, déformer ?, page 30 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Fait, opinion, information",
+      "text": "Un fait est quelque chose que l’on peut vérifier : « Le collège compte 600 élèves. » Une opinion exprime un avis, une préférence ou un jugement : « Le règlement est trop sévère. » Une information est un fait rapporté par quelqu’un (journaliste, site, personne) pour le faire connaître : elle a été choisie, rédigée et mise en forme. Des mots comme « magnifique », « scandaleux » ou « incroyable » signalent souvent une opinion."
+    },
+    {
+      "title": "Vérifier et recouper",
+      "text": "Avant de croire ou de partager une information, pose-toi des questions : Qui l’a publiée ? Quand ? D’où vient l’information (témoin, document, communiqué officiel) ? Recouper, c’est comparer plusieurs sources indépendantes, par exemple deux médias différents et un site officiel. Si une seule source la rapporte, ou si les sources se copient entre elles, il faut rester prudent. Le nombre de partages ne prouve pas qu’une information est vraie."
+    },
+    {
+      "title": "Comment une information peut être déformée",
+      "text": "La déformation peut venir du titre : « Scandale au collège ! » pour un simple changement d’horaires. Elle peut venir d’une citation réduite : si quelqu’un dit « Je ne dis pas que ce film est mauvais, mais il est long » et qu’on ne garde que « ce film est mauvais », le sens est trahi. Elle peut aussi venir du montage d’une image ou d’un cadrage (une photo qui montre seulement une partie de la scène) ou du choix des mots : « une foule » ou « quelques personnes » ne donnent pas la même impression."
+    },
+    {
+      "title": "Rédiger une brève fidèle",
+      "text": "Une brève répond aux questions Qui ? Quoi ? Où ? Quand ? Pourquoi ou comment ? Elle donne les faits dans un ordre clair, sans jugement. À partir des notes « le 14 mars ; collège des Lilas ; sortie au musée ; 3 classes de 4e ; 75 élèves », on peut écrire : « Le 14 mars, trois classes de 4e du collège des Lilas, soit 75 élèves, ont visité le musée. » Un titre fidèle reprend l’essentiel : « 75 élèves de 4e en sortie au musée »."
+    }
+  ],
+  "revision_sheet": [
+    "Un fait se vérifie ; une opinion exprime un avis.",
+    "Pour vérifier : qui a publié ? quand ? d’où vient l’information ? Puis recouper avec plusieurs sources indépendantes.",
+    "Le nombre de partages ne prouve pas la vérité d’une information.",
+    "Un titre exagéré, une citation réduite, un cadrage ou un choix de mots peuvent déformer le sens."
+  ],
+  "quiz": [
+    {
+      "prompt": "Laquelle de ces phrases énonce un fait ?",
+      "choices": [
+        "Ce film est ennuyeux.",
+        "Le film dure 2 h 10.",
+        "Ce film est le plus beau de l’année."
+      ],
+      "correct_index": 1,
+      "explanation": "La durée d’un film se vérifie. Les deux autres phrases expriment des jugements, donc des opinions."
+    },
+    {
+      "prompt": "Que veut dire « recouper » une information ?",
+      "choices": [
+        "Relire plusieurs fois le même article",
+        "Comparer plusieurs sources indépendantes",
+        "La partager avec ses amis"
+      ],
+      "correct_index": 1,
+      "explanation": "Recouper, c’est confronter l’information à d’autres sources indépendantes pour voir si elles la confirment."
+    },
+    {
+      "prompt": "Une personne dit : « Je ne dis pas que le projet est mauvais, il manque seulement de moyens. » Un article écrit : « Selon elle, le projet est mauvais. » Que fait l’article ?",
+      "choices": [
+        "Il rapporte fidèlement ses propos",
+        "Il déforme ses propos par une citation réduite",
+        "Il reformule simplement la phrase"
+      ],
+      "correct_index": 1,
+      "explanation": "En coupant la phrase, l’article change le sens : la personne ne disait pas que le projet était mauvais."
+    },
+    {
+      "prompt": "Un article titré « Scandale au collège ! » annonce seulement un changement d’horaires de cantine. Que peut-on dire du titre ?",
+      "choices": [
+        "Il est exagéré et peut déformer l’information",
+        "Il est le plus fiable de l’article",
+        "Il est un fait vérifiable"
+      ],
+      "correct_index": 0,
+      "explanation": "« Scandale » est un mot fort qui exprime un jugement et dramatise un fait simple : le titre risque de déformer l’information."
+    },
+    {
+      "prompt": "Quelle question aide le mieux à vérifier une source ?",
+      "choices": [
+        "Combien de personnes l’ont partagée ?",
+        "Qui l’a publiée et d’où vient l’information ?",
+        "L’information est-elle surprenante ?"
+      ],
+      "correct_index": 1,
+      "explanation": "Identifier l’auteur et l’origine permet de juger la fiabilité. Le nombre de partages ou la surprise ne prouvent rien."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Classe chaque phrase en fait ou opinion : a) Le collège ouvre à 8 h. b) Cette cantine est la meilleure. c) Le CDI possède 4 000 livres. d) Ce professeur est trop sévère.",
+      "solution": "a) fait ; b) opinion ; c) fait (vérifiable en comptant ou en demandant au CDI) ; d) opinion.",
+      "success_criterion": "Savoir si l’on peut vérifier la phrase et repérer les mots de jugement."
+    },
+    {
+      "prompt": "Un entraîneur déclare : « Le match était difficile, mais nous avons mérité la victoire. » Un site ne garde que « Le match était difficile ». Que change cette citation réduite ?",
+      "solution": "On perd la fin de la phrase : l’entraîneur affirme que la victoire est méritée. Avec la seule première partie, on donne une impression plus négative ou on laisse croire qu’il doute.",
+      "success_criterion": "Comparer la citation complète et la citation réduite et expliquer le changement de sens."
+    },
+    {
+      "prompt": "Écris une brève de deux phrases à partir de ces notes : le 14 mars, collège des Lilas, sortie au musée, 3 classes de 4e, 75 élèves.",
+      "solution": "Exemple : « Le 14 mars, trois classes de 4e du collège des Lilas ont visité le musée. Au total, 75 élèves ont participé à la sortie. »",
+      "success_criterion": "Répondre à Qui ? Quoi ? Où ? Quand ?, rester factuel, ne pas ajouter de jugement."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un article titré « Les élèves de 4e privés de récréation ! » explique que la récréation de l’après-midi passe de 15 à 10 minutes pendant des travaux. Quel est le fait ? Le titre est-il fidèle ? Propose un titre plus fidèle.",
+      "solution": "Le fait : la récréation de l’après-midi passe de 15 à 10 minutes à cause des travaux. Le titre n’est pas fidèle : « privés de récréation » exagère, car la récréation est raccourcie, pas supprimée. Titre possible : « Récréation de l’après-midi raccourcie à 10 minutes pendant les travaux ».",
+      "success_criterion": "Isoler le fait, comparer avec le titre, proposer un titre exact et sans jugement."
+    },
+    {
+      "prompt": "Une publication très partagée affirme qu’une règle va changer. Décris en trois étapes comment tu vérifies l’information.",
+      "solution": "1) Identifier l’auteur et la source de la publication ; 2) chercher la date et l’origine de l’information ; 3) recouper avec au moins deux autres sources fiables indépendantes (presse, site officiel).",
+      "success_criterion": "Citer l’identification de la source, la date ou l’origine, et le recoupement avec plusieurs sources."
+    }
+  ],
+  "audio_transcript": "Un fait se vérifie, une opinion exprime un avis. Une information est un fait rapporté, choisi et rédigé par quelqu’un. Avant de croire ou de partager une information, demande-toi qui l’a publiée, quand, et d’où elle vient. Puis recoupe : compare plusieurs sources indépendantes. Le nombre de partages ne prouve rien. Un titre exagéré, une citation réduite ou un montage d’image peuvent déformer le sens. Quand tu rédiges une brève, réponds aux questions qui, quoi, où, quand, sans ajouter de jugement.",
+  "guided_explanation": "Imagine que tu reçois un message qui annonce une grande nouvelle. Respire, et pose-toi trois questions : qui parle ? Est-ce que je peux le vérifier ? Est-ce que d’autres sources sérieuses disent la même chose ? Ensuite, relis le titre et les mots forts : sont-ils des faits ou des jugements ? Si une phrase est citée, cherche-la en entier. Prendre quelques minutes pour vérifier te protège, toi et tes camarades, des fausses informations."
+}

@@ -37,10 +37,10 @@ class DreamyLandingTests(unittest.TestCase):
         self.assertNotIn("beam-live.js", html)
         self.assertIn('href="./signup.html" class="landing-btn"', html)
 
-    def test_five_feature_cards(self):
+    def test_four_feature_cards_videos_set_aside(self):
         html = read("index.html")
-        self.assertEqual(len(re.findall(r'<article class="landing-feature ', html)), 5)
-        for route in ("cours.html", "fiches.html", "audio.html", "quiz.html", "videos.html"):
+        self.assertEqual(len(re.findall(r'<article class="landing-feature ', html)), 4)
+        for route in ("cours.html", "fiches.html", "audio.html", "quiz.html"):
             self.assertIn('href="./' + route + '"', html)
 
     def test_unreleased_capabilities_not_misrepresented(self):
@@ -66,7 +66,7 @@ class DreamyLandingTests(unittest.TestCase):
 
     def test_new_subpages_are_honest(self):
         features, contact = read("fonctionnalites.html"), read("contact.html")
-        for route in ("cours.html", "fiches.html", "audio.html", "quiz.html", "videos.html"):
+        for route in ("cours.html", "fiches.html", "audio.html", "quiz.html"):
             self.assertIn('href="./' + route + '"', features)
         self.assertIn("L'IA générative", features)
         self.assertIn("n'est pas encore communiqué", contact)

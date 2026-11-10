@@ -1,0 +1,126 @@
+{
+  "id": "6e-attribut-sujet-cod",
+  "title": "Distinguer l’attribut du sujet et le COD",
+  "chapter_id": "6e-attribut-sujet-cod",
+  "program_id": "6e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître le verbe, le sujet et le COD dans une phrase.",
+    "Reconnaître un verbe d’état et l’attribut du sujet.",
+    "Distinguer l’attribut du sujet du COD grâce à des tests simples."
+  ],
+  "skill_ids": [
+    "6e-attribut-sujet-cod-skill-cod",
+    "6e-attribut-sujet-cod-skill-attribut"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Analyser une phrase simple, page 20 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le COD complète le verbe",
+      "text": "Dans « Léa mange une pomme », on trouve d’abord le verbe (mange) puis le sujet (Léa). On pose la question « Léa mange quoi ? » : une pomme. « Une pomme » est le COD. Il suit le verbe sans préposition et on peut le remplacer par un pronom : Léa la mange. Le COD désigne une personne ou une chose différente du sujet : Léa n’est pas une pomme."
+    },
+    {
+      "title": "L’attribut du sujet suit un verbe d’état",
+      "text": "Les verbes d’état sont être, sembler, paraître, devenir, rester, demeurer et avoir l’air. Dans « Léa est contente », « contente » est l’attribut du sujet : il dit comment est Léa. Dans « Mon frère devient architecte », « architecte » dit ce qu’est devenu mon frère. L’attribut désigne la même personne que le sujet : Léa = contente ; mon frère = architecte."
+    },
+    {
+      "title": "Deux tests pour ne pas se tromper",
+      "text": "Test 1 : peut-on remplacer le verbe par « est » et dire que le sujet est cette chose ? « Le ciel paraît gris » : le ciel est gris, c’est un attribut. « Le chat mord le facteur » : le chat n’est pas le facteur, c’est un COD. Test 2 : si l’adjectif attribut change quand le sujet change, c’est un attribut : « Les nuages semblent menaçants ». Le COD, lui, ne s’accorde pas avec le sujet : « Les enfants lisent un roman »."
+    },
+    {
+      "title": "Méthode en trois étapes",
+      "text": "Étape 1 : je cherche le verbe conjugué puis son sujet. Étape 2 : je regarde si le verbe est un verbe d’état. Étape 3 : je teste avec « est » ou avec un pronom (le, la, les). Si le groupe désigne la même chose que le sujet, c’est l’attribut ; si le groupe désigne autre chose et complète un verbe d’action, c’est le COD."
+    }
+  ],
+  "revision_sheet": [
+    "COD : complète le verbe sans préposition ; se remplace par le, la, les.",
+    "Attribut du sujet : après un verbe d’état (être, sembler, paraître, devenir, rester) ; il décrit le sujet.",
+    "Sujet = attribut (Léa = contente) ; sujet ≠ COD (Léa ≠ une pomme).",
+    "L’attribut s’accorde avec le sujet quand c’est un adjectif."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « Les élèves lisent un roman », quelle est la fonction de « un roman » ?",
+      "choices": [
+        "Attribut du sujet",
+        "COD",
+        "Sujet"
+      ],
+      "correct_index": 1,
+      "explanation": "Qui lit quoi ? Les élèves lisent un roman. On peut dire : ils le lisent. C’est un COD."
+    },
+    {
+      "prompt": "Dans « Mon voisin est médecin », quelle est la fonction de « médecin » ?",
+      "choices": [
+        "COD",
+        "Complément du nom",
+        "Attribut du sujet"
+      ],
+      "correct_index": 2,
+      "explanation": "Le verbe être est un verbe d’état et « médecin » dit ce qu’est le voisin : attribut du sujet."
+    },
+    {
+      "prompt": "Lequel de ces verbes est un verbe d’état ?",
+      "choices": [
+        "sembler",
+        "ouvrir",
+        "manger"
+      ],
+      "correct_index": 0,
+      "explanation": "Sembler, comme être, paraître ou devenir, introduit un attribut du sujet."
+    },
+    {
+      "prompt": "Dans « Tom ferme la porte », par quel pronom remplace-t-on le COD ?",
+      "choices": [
+        "il",
+        "la",
+        "lui"
+      ],
+      "correct_index": 1,
+      "explanation": "On dit : Tom la ferme. « La porte » est le COD, remplacé par le pronom « la »."
+    },
+    {
+      "prompt": "Pourquoi écrit-on « Les nuages semblent menaçants » avec un s à « menaçants » ?",
+      "choices": [
+        "Parce que l’attribut s’accorde avec le sujet « nuages »",
+        "Parce que « menaçants » est un COD",
+        "Parce que le verbe est au pluriel seulement"
+      ],
+      "correct_index": 0,
+      "explanation": "L’adjectif attribut s’accorde en genre et en nombre avec le sujet : nuages est masculin pluriel."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Dans chaque phrase, dis si le groupe de mots final est un COD ou un attribut du sujet : « Elle semble heureuse. » ; « Elle cueille des fleurs. » ; « Mon père est boulanger. »",
+      "solution": "« heureuse » : attribut du sujet ; « des fleurs » : COD ; « boulanger » : attribut du sujet.",
+      "success_criterion": "Repérer le verbe d’état dans la première et la troisième phrases, le verbe d’action dans la deuxième."
+    },
+    {
+      "prompt": "Complète avec un verbe d’état : « Ce gâteau ... délicieux. » ; « Mes sœurs ... fatiguées. » ; « Il ... capitaine du navire. »",
+      "solution": "Par exemple : « Ce gâteau semble délicieux. » ; « Mes sœurs paraissent fatiguées. » ; « Il devient capitaine du navire. » (être, rester… conviennent aussi selon le sens).",
+      "success_criterion": "Choisir un verbe d’état et accorder l’attribut avec le sujet."
+    },
+    {
+      "prompt": "Écris une phrase avec un COD et une phrase avec un attribut du sujet, en utilisant le mot « chien ».",
+      "solution": "Par exemple : « Le chien mord l’os. » (COD : l’os) ; « Le chien reste calme. » (attribut : calme).",
+      "success_criterion": "Verbe d’action avec complément pour la première, verbe d’état avec qualité pour la seconde."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Quelle est la fonction de « musiciennes » dans « Mes cousines deviennent musiciennes » ? Justifie.",
+      "solution": "C’est l’attribut du sujet : « devenir » est un verbe d’état, « musiciennes » désigne la même personne que le sujet (mes cousines = musiciennes) et s’accorde au féminin pluriel avec lui.",
+      "success_criterion": "Citer le verbe d’état et au moins un test (sujet = attribut, accord)."
+    },
+    {
+      "prompt": "Quelle est la fonction de « les lettres » dans « Le facteur apporte les lettres » ? Justifie.",
+      "solution": "C’est le COD : « le facteur les apporte » et les lettres ne sont pas le facteur ; le verbe apporter est un verbe d’action.",
+      "success_criterion": "Utiliser le remplacement par « les » et la différence avec le sujet."
+    }
+  ],
+  "audio_transcript": "Le complément d’objet direct, ou COD, complète le verbe sans préposition. Dans « Léa mange une pomme », on peut dire « Léa la mange » : une pomme est le COD. L’attribut du sujet, lui, vient après un verbe d’état comme être, sembler, paraître ou devenir. Dans « Léa est contente », contente décrit Léa : c’est l’attribut du sujet. Pour ne pas se tromper, demande-toi : est-ce que le groupe désigne la même personne ou la même chose que le sujet ? Si oui, c’est un attribut. Sinon, et si le verbe est un verbe d’action, c’est probablement un COD.",
+  "guided_explanation": "Pense à une étiquette. L’attribut est une étiquette collée sur le sujet : « Léa est contente », l’étiquette « contente » décrit Léa. Le COD est un objet que le verbe fait agir : « Léa mange une pomme », la pomme est mangée, elle n’a rien à voir avec Léa. Quand tu hésites, remplace le verbe par « est » : « Le ciel est gris » a du sens, donc gris est un attribut ; « Le chat est le facteur » n’a pas de sens, donc c’est un COD."
+}

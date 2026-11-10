@@ -26,7 +26,7 @@ class NavigationTests(unittest.TestCase):
     def open(self,path):
         self.page.goto(self.base+path,wait_until='networkidle')
     def test_all_main_destinations_are_distinct_pages(self):
-        for name,file in [('Accueil','index.html'),('Programmes','programmes.html'),('Cours','cours.html'),('Fiches','fiches.html'),('Audio','audio.html'),('Quiz','quiz.html'),('Vidéos','videos.html'),('Learning Pass','learning-pass.html'),('Connexion','login.html'),('Inscription','signup.html')]:
+        for name,file in [('Accueil','index.html'),('Programmes','programmes.html'),('Cours','cours.html'),('Fiches','fiches.html'),('Audio','audio.html'),('Quiz','quiz.html'),('Learning Pass','learning-pass.html'),('Connexion','login.html'),('Inscription','signup.html')]:
             with self.subTest(name=name):
                 self.open('index.html');a=self.page.get_by_role('navigation',name='Menu principal').get_by_role('link',name=name,exact=True)
                 self.assertEqual(urlparse(a.get_attribute('href')).fragment,'')

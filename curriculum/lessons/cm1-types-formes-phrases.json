@@ -1,0 +1,133 @@
+{
+  "id": "cm1-types-formes-phrases",
+  "title": "Reconnaître les types et les formes de phrases",
+  "chapter_id": "cm1-types-formes-phrases",
+  "program_id": "CM1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître les phrases déclaratives, interrogatives et impératives.",
+    "Reconnaître les formes négative et exclamative.",
+    "Transformer une phrase et poser une question de plusieurs façons."
+  ],
+  "skill_ids": [
+    "cm1-types-formes-phrases-types-skill",
+    "cm1-types-formes-phrases-formes-skill",
+    "cm1-types-formes-phrases-transformer-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Identifier les constituants d’une phrase simple / Connaître les trois types de phrases et leurs formes, page 17 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les trois types de phrases",
+      "text": "La phrase déclarative donne une information ou raconte : « Le chat dort sur le canapé. » Elle se termine le plus souvent par un point. La phrase interrogative pose une question et se termine par un point d’interrogation : « Où dort le chat ? » La phrase impérative (ou injonctive) donne un ordre, un conseil ou une consigne : « Viens ici. » Son verbe est à l’impératif et, le plus souvent, elle n’a pas de sujet exprimé."
+    },
+    {
+      "title": "Les formes négative et exclamative",
+      "text": "Une phrase peut aussi avoir une forme. À la forme négative, on encadre le verbe avec ne … pas (ou ne … jamais, ne … plus, ne … rien) : « Le chat ne dort pas. » Devant une voyelle, ne devient n’ : « Il n’aime pas le bruit. » La forme exclamative exprime une émotion (surprise, joie, colère) et se termine par un point d’exclamation : « Quel beau chat ! » Type et forme se combinent : « Ne cours pas ! » est une phrase impérative à la forme négative."
+    },
+    {
+      "title": "Poser une question de plusieurs façons",
+      "text": "On peut poser la même question de trois façons. À l’oral, on peut simplement monter la voix : « Tu viens ? » On peut aussi utiliser est-ce que : « Est-ce que tu viens ? » Enfin, on peut inverser le sujet et le verbe, avec un trait d’union : « Viens-tu ? » À l’écrit, on termine toujours par un point d’interrogation."
+    },
+    {
+      "title": "Transformer une phrase",
+      "text": "On peut changer le type ou la forme d’une phrase. Partons de « Tu ouvres la fenêtre. » (déclarative). En interrogative : « Ouvres-tu la fenêtre ? » En impérative : « Ouvre la fenêtre. » (pour les verbes en -er, pas de s à l’impératif présent à la 2e personne du singulier). En forme négative : « Tu n’ouvres pas la fenêtre. »"
+    }
+  ],
+  "revision_sheet": [
+    "Déclarative : informe ou raconte (point). Interrogative : pose une question (?). Impérative : ordre, conseil, consigne.",
+    "Forme négative : ne … pas, ne … jamais, ne … plus autour du verbe ; ne devient n’ devant une voyelle.",
+    "Forme exclamative : exprime une émotion et se termine par un point d’exclamation.",
+    "Trois façons d’interroger : intonation, est-ce que, inversion du sujet (Viens-tu ?).",
+    "Impératif présent des verbes en -er : pas de s à la 2e personne du singulier (Mange !)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est le type de la phrase « Range ta chambre avant le dîner. » ?",
+      "choices": [
+        "Déclarative",
+        "Interrogative",
+        "Impérative"
+      ],
+      "correct_index": 2,
+      "explanation": "La phrase donne un ordre et son verbe est à l’impératif, sans sujet : c’est une phrase impérative."
+    },
+    {
+      "prompt": "Quelle phrase est à la forme négative ?",
+      "choices": [
+        "Nous ne jouons plus au ballon.",
+        "Nous jouons au ballon !",
+        "Jouons-nous au ballon ?"
+      ],
+      "correct_index": 0,
+      "explanation": "Ne … plus encadre le verbe « jouons » : c’est la forme négative."
+    },
+    {
+      "prompt": "Quelle phrase est une question correctement écrite ?",
+      "choices": [
+        "Tu as faim.",
+        "Est-ce que tu as faim ?",
+        "As tu faim."
+      ],
+      "correct_index": 1,
+      "explanation": "Est-ce que tu as faim ? est interrogative et se termine par un point d’interrogation."
+    },
+    {
+      "prompt": "Quelle est la phrase impérative qui correspond à « Tu manges ta soupe. » ?",
+      "choices": [
+        "Manges ta soupe.",
+        "Mange ta soupe.",
+        "Est-ce que tu manges ta soupe ?"
+      ],
+      "correct_index": 1,
+      "explanation": "À l’impératif présent, les verbes en -er n’ont pas de s à la 2e personne du singulier : « Mange ta soupe. »"
+    },
+    {
+      "prompt": "Quelle phrase est exclamative ?",
+      "choices": [
+        "Quelle heure est-il ?",
+        "Il fait beau.",
+        "Quelle belle journée !"
+      ],
+      "correct_index": 2,
+      "explanation": "Quelle belle journée ! exprime une émotion et se termine par un point d’exclamation. « Quelle heure est-il ? » pose une question."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Indique le type de chaque phrase : a) Où vas-tu ? b) Ferme la porte. c) Le train arrive à midi.",
+      "solution": "a) interrogative ; b) impérative (injonctive) ; c) déclarative.",
+      "success_criterion": "Identifier le type grâce au sens et à la ponctuation."
+    },
+    {
+      "prompt": "Mets à la forme négative : « Elle chante. » et « Nous aimons les épinards. »",
+      "solution": "Elle ne chante pas. Nous n’aimons pas les épinards.",
+      "success_criterion": "Placer ne et pas de chaque côté du verbe, avec n’ devant « aimons »."
+    },
+    {
+      "prompt": "Pose de trois façons différentes la question correspondant à « Tu viens demain. »",
+      "solution": "Tu viens demain ? / Est-ce que tu viens demain ? / Viens-tu demain ?",
+      "success_criterion": "Utiliser l’intonation, est-ce que et l’inversion avec trait d’union."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Transforme « Tu prends ton manteau. » en phrase interrogative avec inversion du sujet, puis en phrase impérative.",
+      "solution": "Prends-tu ton manteau ? / Prends ton manteau.",
+      "success_criterion": "Inverser le sujet avec un trait d’union et mettre le verbe à l’impératif (prends, avec s, car prendre n’est pas un verbe en -er)."
+    },
+    {
+      "prompt": "Explique pourquoi « Ne touche pas ! » est à la fois une phrase impérative et une phrase à la forme négative.",
+      "solution": "C’est une phrase impérative car elle donne un ordre avec un verbe à l’impératif sans sujet. Elle est à la forme négative car ne … pas encadre le verbe.",
+      "success_criterion": "Distinguer le type (impératif) de la forme (négative)."
+    },
+    {
+      "prompt": "Écris une phrase exclamative pour exprimer ta surprise devant un très grand gâteau.",
+      "solution": "Exemple : « Quel énorme gâteau ! »",
+      "success_criterion": "Écrire une phrase qui exprime une émotion et se termine par un point d’exclamation."
+    }
+  ],
+  "audio_transcript": "Il existe trois types de phrases. La phrase déclarative donne une information. La phrase interrogative pose une question et se termine par un point d’interrogation. La phrase impérative donne un ordre ou un conseil. Une phrase peut aussi être à la forme négative, avec ne et pas autour du verbe, ou à la forme exclamative, pour exprimer une émotion. Pour poser une question, on peut monter la voix, dire est-ce que, ou inverser le sujet et le verbe : viens-tu ?",
+  "guided_explanation": "Pour trouver le type d’une phrase, demande-toi ce que la personne qui parle veut faire. Elle informe : phrase déclarative. Elle demande quelque chose : phrase interrogative. Elle ordonne ou conseille : phrase impérative. Ensuite, regarde la forme : cherche ne et pas autour du verbe pour la forme négative, et cherche une émotion avec un point d’exclamation pour la forme exclamative. Pour transformer une phrase, change un seul élément à la fois et relis-la à voix haute pour vérifier qu’elle a du sens."
+}

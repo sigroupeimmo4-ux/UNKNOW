@@ -1,0 +1,125 @@
+{
+  "id": "5e-priorites-operatoires",
+  "title": "Enchaîner des opérations : priorités et distributivité",
+  "chapter_id": "5e-priorites-operatoires",
+  "program_id": "5e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Nommer un calcul : somme, produit, termes, facteurs.",
+    "Appliquer les priorités opératoires.",
+    "Écrire un programme de calcul ou un problème en une seule expression.",
+    "Utiliser la distributivité simple pour calculer."
+  ],
+  "skill_ids": [
+    "5e-priorites-operatoires-skill",
+    "5e-priorites-operatoires-traduire",
+    "5e-priorites-operatoires-distrib",
+    "5e-priorites-operatoires-vocab"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le vocabulaire des calculs",
+      "text": "Une somme est le résultat d’une addition ; ses nombres s’appellent des termes. Un produit est le résultat d’une multiplication ; ses nombres s’appellent des facteurs. L’expression 5 + 2 × 3 est une somme de deux termes : 5 et le produit 2 × 3. L’expression (5 + 2) × 3 est un produit de deux facteurs : la somme 5 + 2 et le nombre 3. Le dernier calcul à effectuer donne son nom à l’expression."
+    },
+    {
+      "title": "Les priorités opératoires",
+      "text": "Règle 1 : on calcule d’abord ce qui est entre parenthèses. Règle 2 : on effectue ensuite les multiplications et les divisions avant les additions et les soustractions. Règle 3 : quand il y a seulement des additions et soustractions (ou seulement des multiplications et divisions), on calcule de gauche à droite. Exemples : 3 + 4 × 5 = 3 + 20 = 23 ; (3 + 4) × 5 = 7 × 5 = 35 ; 20 − 8 + 3 = 12 + 3 = 15 ; 24 ÷ 4 × 3 = 6 × 3 = 18 ; 18 − 2 × (4 + 1) = 18 − 2 × 5 = 18 − 10 = 8."
+    },
+    {
+      "title": "Écrire en une seule expression",
+      "text": "Programme de calcul : « Choisis un nombre, multiplie-le par 3, puis ajoute 5. » Avec 4, on écrit 3 × 4 + 5 = 12 + 5 = 17. Si on veut d’abord ajouter 5 puis multiplier par 3, il faut des parenthèses : 3 × (4 + 5) = 27. Autre exemple : « Léa achète 3 cahiers à 2 € et un stylo à 4 €. » La dépense est 3 × 2 + 4 = 6 + 4 = 10 €. Les parenthèses ne servent que quand elles changent l’ordre des calculs."
+    },
+    {
+      "title": "La distributivité simple",
+      "text": "Multiplier un nombre par une somme revient à multiplier chaque terme puis à additionner : k × (a + b) = k × a + k × b. De même, k × (a − b) = k × a − k × b. Cela aide au calcul mental : 7 × 13 = 7 × (10 + 3) = 70 + 21 = 91 ; 6 × 9 = 6 × (10 − 1) = 60 − 6 = 54. On peut aussi lire l’égalité dans l’autre sens : 4 × 15 + 4 × 5 = 4 × (15 + 5) = 4 × 20 = 80."
+    }
+  ],
+  "revision_sheet": [
+    "Somme : résultat d’une addition (termes). Produit : résultat d’une multiplication (facteurs).",
+    "Ordre des calculs : parenthèses, puis × et ÷, puis + et −, et de gauche à droite à priorité égale.",
+    "3 + 4 × 5 = 23 mais (3 + 4) × 5 = 35 : les parenthèses changent le résultat.",
+    "Distributivité : k × (a + b) = k × a + k × b et k × (a − b) = k × a − k × b.",
+    "7 × 13 = 7 × 10 + 7 × 3 = 91."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien vaut 12 − 3 × 2 ?",
+      "choices": [
+        "18",
+        "6",
+        "24"
+      ],
+      "correct_index": 1,
+      "explanation": "La multiplication est prioritaire : 3 × 2 = 6, puis 12 − 6 = 6."
+    },
+    {
+      "prompt": "Combien vaut 24 ÷ 4 × 3 ?",
+      "choices": [
+        "2",
+        "18",
+        "8"
+      ],
+      "correct_index": 1,
+      "explanation": "Il n’y a que des multiplications et des divisions : on calcule de gauche à droite. 24 ÷ 4 = 6, puis 6 × 3 = 18."
+    },
+    {
+      "prompt": "Programme : « Choisis 4, multiplie par 3, puis ajoute 5. » Quelle expression et quel résultat ?",
+      "choices": [
+        "3 × (4 + 5) = 27",
+        "3 × 4 + 5 = 17",
+        "4 + 3 × 5 = 19"
+      ],
+      "correct_index": 1,
+      "explanation": "On multiplie 4 par 3, ce qui donne 12, puis on ajoute 5 : 3 × 4 + 5 = 17. Il ne faut pas de parenthèses ici."
+    },
+    {
+      "prompt": "Quelle écriture est égale à 8 × 12 ?",
+      "choices": [
+        "8 × 10 + 2",
+        "8 × 10 + 8 × 2",
+        "8 × 1 + 8 × 2"
+      ],
+      "correct_index": 1,
+      "explanation": "12 = 10 + 2, donc 8 × 12 = 8 × 10 + 8 × 2 = 80 + 16 = 96."
+    },
+    {
+      "prompt": "Que représente l’expression 5 + 2 × 3 ?",
+      "choices": [
+        "Une somme",
+        "Un produit",
+        "Une différence"
+      ],
+      "correct_index": 0,
+      "explanation": "Le dernier calcul effectué est une addition : c’est une somme de deux termes, 5 et 2 × 3."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule : 18 − 3 × (2 + 1) ; 15 + (20 − 8) ÷ 4 ; 5 × 4 + 6 ÷ 2.",
+      "solution": "18 − 3 × 3 = 18 − 9 = 9 ; 15 + 12 ÷ 4 = 15 + 3 = 18 ; 20 + 3 = 23.",
+      "success_criterion": "Respecter l’ordre : parenthèses, puis × et ÷, puis + et −."
+    },
+    {
+      "prompt": "Calcule mentalement 14 × 5 en utilisant 14 = 10 + 4, puis 9 × 12 en utilisant 12 = 10 + 2.",
+      "solution": "14 × 5 = 10 × 5 + 4 × 5 = 50 + 20 = 70. 9 × 12 = 9 × 10 + 9 × 2 = 90 + 18 = 108.",
+      "success_criterion": "Utiliser k × (a + b) = k × a + k × b."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris en une seule expression puis calcule : « Je multiplie 6 par la somme de 4 et 5. »",
+      "solution": "6 × (4 + 5) = 6 × 9 = 54.",
+      "success_criterion": "Utiliser des parenthèses autour de la somme et calculer dans le bon ordre."
+    },
+    {
+      "prompt": "Léa achète 3 cahiers à 2 € et un stylo à 4 €. Écris une seule expression pour la dépense totale et calcule-la.",
+      "solution": "3 × 2 + 4 = 6 + 4 = 10. Léa dépense 10 €.",
+      "success_criterion": "Écrire le produit avant l’addition, sans parenthèses inutiles, et conclure avec l’unité."
+    }
+  ],
+  "audio_transcript": "Une somme est le résultat d’une addition, avec des termes. Un produit est le résultat d’une multiplication, avec des facteurs. Pour calculer un enchaînement d’opérations, on commence par les parenthèses, puis on fait les multiplications et les divisions, puis les additions et les soustractions. Quand les opérations ont la même priorité, on calcule de gauche à droite. Trois plus quatre fois cinq égale vingt-trois, mais trois plus quatre, le tout multiplié par cinq, égale trente-cinq. La distributivité dit que sept fois treize, c’est sept fois dix plus sept fois trois, soit quatre-vingt-onze.",
+  "guided_explanation": "Imagine que les opérations font la queue. Les parenthèses passent en premier, comme des invités prioritaires. Ensuite viennent la multiplication et la division, qui sont plus fortes que l’addition et la soustraction. Pour 3 + 4 × 5, tu calcules d’abord 4 × 5 = 20, puis 3 + 20 = 23. Si tu veux obliger l’addition à passer d’abord, tu mets des parenthèses : (3 + 4) × 5 = 35. Pour la distributivité, pense à un rectangle de 7 sur 13 que tu coupes en un rectangle de 7 sur 10 et un rectangle de 7 sur 3 : l’aire totale est la somme des deux aires."
+}

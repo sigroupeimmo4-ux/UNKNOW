@@ -13,7 +13,7 @@ assert.match(html,/dashboard-v2\.js\?v=dashboard-20261101/);
 for(const id of ['dashboardDailyFocus','dashboardStatCards','dashboardIdentity','dashboardBeamAdvice','dashboardGradesSummary','dashboardFavoriteSubjects','dashboardAccentChoice','dashboardOpenBeam','dashboardBeamChat','pathSummary','homeProgress','grade','schoolPathway']){
   assert.match(html,new RegExp('id="'+id+'"'),'missing '+id);
 }
-for(const route of ['cours.html','fiches.html','audio.html','quiz.html','videos.html','calendrier.html','mes-notes.html']){
+for(const route of ['cours.html','fiches.html','audio.html','quiz.html','calendrier.html','mes-notes.html']){
   assert.ok(html.includes('href="./'+route+'"'),'missing route '+route);
 }
 for(const value of ['#BBDCF2','#C5E9D9','#F8DCCE','#F7E9AC','#F2DCE8','#FAF9F5','#527F99','#34434A']){

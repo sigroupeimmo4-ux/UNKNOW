@@ -1,0 +1,124 @@
+{
+  "id": "5e-fractions-comparer-additionner",
+  "title": "Comparer, additionner et soustraire des fractions",
+  "chapter_id": "5e-fractions-comparer-additionner",
+  "program_id": "5e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître des fractions égales et les mettre au même dénominateur.",
+    "Comparer deux fractions.",
+    "Additionner et soustraire des fractions de dénominateurs différents.",
+    "Résoudre un petit problème avec des fractions."
+  ],
+  "skill_ids": [
+    "5e-fractions-comparer-skill",
+    "5e-fractions-additionner-skill",
+    "5e-fractions-problemes-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Nombres rationnels, page 8 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Des fractions égales",
+      "text": "Si on multiplie le numérateur et le dénominateur d’une fraction par le même nombre (différent de 0), on obtient une fraction égale : 2/3 = (2 × 5)/(3 × 5) = 10/15. On peut aussi diviser les deux par un même nombre : 8/12 = 4/6 = 2/3. Cela permet de mettre deux fractions au même dénominateur : 3/4 = 6/8 et 5/8 restent faciles à comparer. Une fraction supérieure à 1 peut s’écrire comme un entier plus une fraction inférieure à 1 : 17/5 = 15/5 + 2/5 = 3 + 2/5."
+    },
+    {
+      "title": "Comparer des fractions",
+      "text": "Avec le même dénominateur, la plus grande fraction est celle qui a le plus grand numérateur : 2/7 < 5/7. Avec le même numérateur, la plus grande fraction est celle qui a le plus petit dénominateur : 3/4 > 3/8 (des quarts sont plus gros que des huitièmes). Dans les autres cas, on met les fractions au même dénominateur. Exemple : 2/3 et 3/5. On écrit 2/3 = 10/15 et 3/5 = 9/15. Comme 10 > 9, on a 2/3 > 3/5. On peut aussi comparer à 1/2 ou à 1 pour se repérer."
+    },
+    {
+      "title": "Additionner et soustraire",
+      "text": "Quand les dénominateurs sont les mêmes, on additionne ou on soustrait les numérateurs et on garde le dénominateur : 3/5 + 4/5 = 7/5 = 1 + 2/5 ; 1 − 2/3 = 3/3 − 2/3 = 1/3. Quand ils sont différents, on commence par les mettre au même dénominateur : 2/5 + 1/4 = 8/20 + 5/20 = 13/20 ; 4/7 − 2/21 = 12/21 − 2/21 = 10/21. On n’additionne jamais les dénominateurs entre eux : 1/2 + 1/3 n’est pas 2/5, c’est 3/6 + 2/6 = 5/6."
+    },
+    {
+      "title": "Résoudre un problème",
+      "text": "Léa mange 1/4 d’un gâteau et Tom en mange 2/5. Quelle fraction du gâteau ont-ils mangée ? On calcule 1/4 + 2/5 = 5/20 + 8/20 = 13/20. Quelle fraction reste-t-il ? Le gâteau entier vaut 20/20, donc il reste 20/20 − 13/20 = 7/20. Vérifie toujours que ton résultat est vraisemblable : ici 13/20 est plus que 1/2 et moins que 1."
+    }
+  ],
+  "revision_sheet": [
+    "On ne change pas une fraction en multipliant (ou en divisant) numérateur et dénominateur par le même nombre : 2/3 = 10/15.",
+    "Même dénominateur : on compare les numérateurs. Sinon, on met au même dénominateur.",
+    "Même dénominateur : on additionne ou on soustrait les numérateurs et on garde le dénominateur.",
+    "Dénominateurs différents : on les met d’abord au même dénominateur (2/5 + 1/4 = 8/20 + 5/20 = 13/20).",
+    "17/5 = 3 + 2/5 : une fraction peut s’écrire comme un entier plus une fraction inférieure à 1."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle fraction est égale à 2/3 ?",
+      "choices": [
+        "4/5",
+        "8/12",
+        "2/6"
+      ],
+      "correct_index": 1,
+      "explanation": "8/12 = (2 × 4)/(3 × 4) = 2/3. La fraction 2/6 vaut 1/3, et 4/5 est une autre valeur."
+    },
+    {
+      "prompt": "Combien vaut 3/5 + 4/5 ?",
+      "choices": [
+        "7/10",
+        "7/5",
+        "12/5"
+      ],
+      "correct_index": 1,
+      "explanation": "Les dénominateurs sont identiques : on additionne les numérateurs (3 + 4 = 7) et on garde 5. Le résultat est 7/5."
+    },
+    {
+      "prompt": "Quelle comparaison est juste ?",
+      "choices": [
+        "3/4 < 5/8",
+        "3/4 > 5/8",
+        "3/4 = 5/8"
+      ],
+      "correct_index": 1,
+      "explanation": "3/4 = 6/8, et 6/8 > 5/8. Donc 3/4 > 5/8."
+    },
+    {
+      "prompt": "Combien vaut 1/2 + 1/3 ?",
+      "choices": [
+        "2/5",
+        "5/6",
+        "1/5"
+      ],
+      "correct_index": 1,
+      "explanation": "On met au dénominateur 6 : 1/2 = 3/6 et 1/3 = 2/6. Donc 3/6 + 2/6 = 5/6."
+    },
+    {
+      "prompt": "Combien vaut 1 − 2/5 ?",
+      "choices": [
+        "3/5",
+        "2/5",
+        "1/5"
+      ],
+      "correct_index": 0,
+      "explanation": "1 = 5/5, donc 5/5 − 2/5 = 3/5."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Compare 5/6 et 7/9.",
+      "solution": "5/6 = 15/18 et 7/9 = 14/18. Comme 15 > 14, on a 5/6 > 7/9.",
+      "success_criterion": "Choisir un dénominateur commun (18) et comparer les numérateurs."
+    },
+    {
+      "prompt": "Calcule 2/5 + 1/4 puis 7/4 − 3/8.",
+      "solution": "2/5 + 1/4 = 8/20 + 5/20 = 13/20. 7/4 − 3/8 = 14/8 − 3/8 = 11/8.",
+      "success_criterion": "Mettre au même dénominateur avant d’additionner ou de soustraire."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une bouteille d’eau est remplie aux 3/4. On en boit 1/3 de la bouteille. Quelle fraction de la bouteille reste-t-il ?",
+      "solution": "3/4 − 1/3 = 9/12 − 4/12 = 5/12. Il reste 5/12 de la bouteille.",
+      "success_criterion": "Mettre au dénominateur 12, soustraire les numérateurs et conclure par une phrase."
+    },
+    {
+      "prompt": "Écris 17/5 sous la forme d’un entier plus une fraction inférieure à 1.",
+      "solution": "17/5 = 15/5 + 2/5 = 3 + 2/5.",
+      "success_criterion": "Repérer le plus grand multiple de 5 inférieur à 17."
+    }
+  ],
+  "audio_transcript": "Une fraction ne change pas quand on multiplie son numérateur et son dénominateur par le même nombre : deux tiers égale dix quinzièmes. Pour comparer deux fractions, on les met au même dénominateur, puis on compare les numérateurs : deux tiers, c’est dix quinzièmes, et trois cinquièmes, c’est neuf quinzièmes, donc deux tiers est plus grand que trois cinquièmes. Pour additionner ou soustraire des fractions qui ont le même dénominateur, on calcule avec les numérateurs et on garde le dénominateur : trois cinquièmes plus quatre cinquièmes égale sept cinquièmes. Quand les dénominateurs sont différents, on commence par les rendre égaux : un demi plus un tiers, c’est trois sixièmes plus deux sixièmes, soit cinq sixièmes. On n’additionne jamais les dénominateurs.",
+  "guided_explanation": "Pense à une tablette de chocolat. Un demi, c’est la tablette coupée en deux ; un tiers, c’est coupée en trois. Les morceaux n’ont pas la même taille : on ne peut pas les additionner directement. Alors on coupe la tablette en six parts égales : un demi devient trois sixièmes et un tiers devient deux sixièmes. Maintenant les parts ont la même taille, et on peut les compter : trois plus deux font cinq sixièmes. Le dénominateur te dit la taille des parts, le numérateur te dit combien tu en prends."
+}

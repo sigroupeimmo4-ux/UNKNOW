@@ -1,0 +1,138 @@
+{
+  "id": "ce2-multiplication-division",
+  "title": "Facteurs, produit, multiples et division",
+  "chapter_id": "ce2-multiplication-division",
+  "program_id": "CE2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Employer les mots facteur, produit et multiple.",
+    "Comprendre que la division est l’opération inverse de la multiplication et utiliser le symbole ÷.",
+    "Utiliser les tables de multiplication dans les deux sens pour compléter des égalités à trou."
+  ],
+  "skill_ids": [
+    "ce2-multiplication-division-skill-vocabulaire",
+    "ce2-multiplication-division-skill-division",
+    "ce2-multiplication-division-skill-tables"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Facteurs et produit",
+      "text": "Dans la multiplication 3 × 25 = 75, les nombres 3 et 25 sont les facteurs, et 75 est le produit. On dit : « Le produit de 3 et de 25 est 75. » Multiplier, c’est répéter une addition : 3 × 25 = 25 + 25 + 25. Il faut connaitre les tables dans les deux sens : 9 × 6 = 54, et aussi 7 × … = 42, qui se complète par 6."
+    },
+    {
+      "title": "Les multiples",
+      "text": "Les multiples de 25 sont les résultats de la table de 25 : 25, 50, 75, 100... On dit que 75 est un multiple de 25, car 75 = 3 × 25. Les nombres pairs sont les multiples de 2 : 2, 4, 6, 8, 10... Les nombres impairs, comme 7 ou 31, ne sont pas des multiples de 2."
+    },
+    {
+      "title": "La division, opération inverse",
+      "text": "La division sert à partager en parts égales ou à chercher combien de fois un nombre est contenu dans un autre. Elle s’écrit avec le symbole ÷. Si tu ranges 48 crayons dans des boîtes de 6, tu cherches 48 ÷ 6. Comme 6 × 8 = 48, on a 48 ÷ 6 = 8 : il faut 8 boîtes. Dans ce chapitre, on utilise des divisions qui tombent juste. On a aussi 7 × 13 = 91, donc 91 ÷ 7 = 13 et 91 ÷ 13 = 7."
+    },
+    {
+      "title": "Une famille de calculs",
+      "text": "Un seul fait de table donne quatre calculs : 6 × 9 = 54, 9 × 6 = 54, 54 ÷ 6 = 9 et 54 ÷ 9 = 6. Quand tu dois calculer une division, cherche la multiplication qui lui correspond."
+    }
+  ],
+  "revision_sheet": [
+    "Dans 3 × 25 = 75 : 3 et 25 sont les facteurs ; 75 est le produit.",
+    "Les multiples de 25 : 25, 50, 75, 100. Les nombres pairs sont les multiples de 2 ; les nombres impairs n’en sont pas.",
+    "La division est l’inverse de la multiplication : 7 × 13 = 91 donc 91 ÷ 7 = 13 et 91 ÷ 13 = 7.",
+    "Un fait de table donne quatre calculs : 6 × 9 = 54, 9 × 6 = 54, 54 ÷ 6 = 9, 54 ÷ 9 = 6.",
+    "Il faut connaitre les tables dans les deux sens : 7 × … = 42 donc … = 6."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans 4 × 15 = 60, comment appelle-t-on le nombre 60 ?",
+      "choices": [
+        "Un facteur",
+        "Le produit",
+        "La différence"
+      ],
+      "correct_index": 1,
+      "explanation": "Le résultat d’une multiplication s’appelle le produit. 4 et 15 sont les facteurs."
+    },
+    {
+      "prompt": "Lequel de ces nombres est un multiple de 25 ?",
+      "choices": [
+        "45",
+        "60",
+        "75"
+      ],
+      "correct_index": 2,
+      "explanation": "75 = 3 × 25. Les multiples de 25 sont 25, 50, 75, 100..."
+    },
+    {
+      "prompt": "Sachant que 7 × 6 = 42, combien vaut 42 ÷ 7 ?",
+      "choices": [
+        "6",
+        "35",
+        "49"
+      ],
+      "correct_index": 0,
+      "explanation": "La division est l’inverse de la multiplication : 42 ÷ 7 = 6."
+    },
+    {
+      "prompt": "Lequel de ces nombres n’est pas un multiple de 2 ?",
+      "choices": [
+        "18",
+        "31",
+        "40"
+      ],
+      "correct_index": 1,
+      "explanation": "31 est un nombre impair : il n’est pas dans la table de 2. 18 = 2 × 9 et 40 = 2 × 20."
+    },
+    {
+      "prompt": "Quel nombre complète 9 × … = 54 ?",
+      "choices": [
+        "5",
+        "7",
+        "6"
+      ],
+      "correct_index": 2,
+      "explanation": "9 × 6 = 54, donc le nombre manquant est 6."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Complète : 7 × … = 42 ; 9 × 6 = … ; 70 = 7 × …",
+      "solution": "7 × 6 = 42 ; 9 × 6 = 54 ; 70 = 7 × 10.",
+      "success_criterion": "Trouver 6, 54 et 10 en utilisant les tables dans les deux sens."
+    },
+    {
+      "prompt": "Écris les quatre premiers multiples de 25.",
+      "solution": "25, 50, 75 et 100.",
+      "success_criterion": "Écrire 25 × 1, 25 × 2, 25 × 3 et 25 × 4 avec les bons résultats."
+    },
+    {
+      "prompt": "Avec 8 × 5 = 40, écris deux divisions.",
+      "solution": "40 ÷ 8 = 5 et 40 ÷ 5 = 8.",
+      "success_criterion": "Écrire les deux divisions en utilisant le symbole ÷."
+    },
+    {
+      "prompt": "Une maitresse range 48 crayons dans des boîtes de 6. Combien de boîtes lui faut-il ?",
+      "solution": "48 ÷ 6 = 8, car 6 × 8 = 48. Il faut 8 boîtes.",
+      "success_criterion": "Choisir la division et vérifier avec la multiplication."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Sachant que 7 × 13 = 91, écris deux divisions qui en découlent.",
+      "solution": "91 ÷ 7 = 13 et 91 ÷ 13 = 7.",
+      "success_criterion": "Expliquer que la division est l’opération inverse de la multiplication."
+    },
+    {
+      "prompt": "Dans 6 × 9 = 54, nomme les facteurs et le produit. Dis aussi de quels nombres 54 est un multiple.",
+      "solution": "Les facteurs sont 6 et 9, le produit est 54. 54 est un multiple de 6 et de 9.",
+      "success_criterion": "Utiliser correctement les mots facteur, produit et multiple."
+    },
+    {
+      "prompt": "Parmi 14, 25, 36 et 47, lesquels sont des multiples de 2 ?",
+      "solution": "14 = 2 × 7 et 36 = 2 × 18 sont des multiples de 2. 25 et 47 sont impairs.",
+      "success_criterion": "Identifier 14 et 36 et justifier avec la table de 2 ou la notion de nombre pair."
+    }
+  ],
+  "audio_transcript": "Dans une multiplication, les nombres que l’on multiplie s’appellent les facteurs et le résultat s’appelle le produit. Trois fois vingt-cinq égale soixante-quinze. Trois et vingt-cinq sont les facteurs, soixante-quinze est le produit, et c’est aussi un multiple de vingt-cinq. Les nombres pairs sont les multiples de deux. La division est l’opération inverse de la multiplication. Sept fois treize égale quatre-vingt-onze, donc quatre-vingt-onze divisé par sept égale treize, et quatre-vingt-onze divisé par treize égale sept.",
+  "guided_explanation": "Pour calculer une division, pense à la multiplication qui lui correspond. Par exemple, pour 48 ÷ 6, demande-toi : « Par combien dois-je multiplier 6 pour obtenir 48 ? » Dans la table de 6, tu trouves 6 × 8 = 48. Donc 48 ÷ 6 = 8. Pour vérifier, refais la multiplication : 6 × 8 = 48, c’est bon. Une même table te donne quatre calculs : deux multiplications et deux divisions. Plus tu connais tes tables, plus les divisions deviennent faciles."
+}

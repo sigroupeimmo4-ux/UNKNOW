@@ -1,0 +1,1264 @@
+{
+  "programs": [
+    {
+      "id": "CE1-mathematiques-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CE1",
+      "subject_id": "mathematiques-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%204%20%E2%80%93%20Programme%20de%20math%C3%A9matiques%20du%20cycle%202-403821.pdf",
+        "title": "Mathématiques",
+        "text_reference": "Mathématiques (BO n° 41 du 31 octobre 2024)",
+        "published_on": "2024-10-31",
+        "checked_on": "2026-10-29",
+        "sha256": "0fe8dfba39f78215e4d44f0dc871df80d7c9530267d6de40b49d205d3506caed",
+        "source_id": "726f9656fb518da3"
+      },
+      "effective_from": "2025-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "nombres-calcul-problemes",
+          "title": "Nombres, calcul et résolution de problèmes",
+          "source_locator": "Annexe 4, pages 10–13, Cours élémentaire première année / Les nombres entiers ; Les quatre opérations",
+          "chapters": [
+            {
+              "id": "ce1-centaines-dizaines-unites",
+              "title": "Centaines, dizaines et unités jusqu’à 1 000",
+              "title_type": "editorial",
+              "official_section": "Les nombres entiers",
+              "notions": [
+                "Nombres entiers jusqu’à mille",
+                "Centaine, dizaine et unité",
+                "Valeur des chiffres selon leur position",
+                "Décompositions d’un nombre",
+                "Comparaison de nombres avec =, < et >"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-centaines-dizaines-unites-knowledge",
+                  "text": "Dix unités forment une dizaine, dix dizaines forment une centaine ; la valeur d’un chiffre dépend de sa position dans le nombre.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-centaines-dizaines-unites-skill",
+                  "text": "Connaitre la valeur des chiffres en fonction de leur position dans un nombre et utiliser diverses représentations d’un nombre (jusqu’à mille).",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+                },
+                {
+                  "id": "ce1-centaines-dizaines-unites-compare",
+                  "text": "Comparer et ordonner des nombres entiers en utilisant les symboles =, < et >.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+            },
+            {
+              "id": "ce1-additions-posees",
+              "title": "Poser et calculer des additions en colonnes",
+              "title_type": "editorial",
+              "official_section": "Les quatre opérations",
+              "notions": [
+                "Addition posée en colonnes",
+                "Alignement des unités, dizaines et centaines",
+                "Retenue",
+                "Addition de deux ou trois nombres"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-additions-posees-knowledge",
+                  "text": "Pour poser une addition en colonnes, on place les unités sous les unités, les dizaines sous les dizaines et les centaines sous les centaines ; une colonne qui dépasse 9 donne une retenue à la colonne suivante.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-additions-posees-skill",
+                  "text": "Poser et effectuer des additions en colonnes de deux ou trois nombres à un, deux ou trois chiffres.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+            },
+            {
+              "id": "ce1-multiplication-fois",
+              "title": "Découvrir la multiplication : « fois »",
+              "title_type": "editorial",
+              "official_section": "Les quatre opérations",
+              "notions": [
+                "Symbole × lu « fois »",
+                "Multiplication et addition répétée",
+                "Commutativité de la multiplication"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-multiplication-fois-knowledge",
+                  "text": "Le symbole × se lit « fois » ; une multiplication résume l’addition répétée d’un même nombre, et l’ordre des facteurs n’a pas d’incidence sur le résultat.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-multiplication-fois-skill",
+                  "text": "Comprendre et utiliser le symbole « × » et savoir que la multiplication est commutative.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2024/Hebdo41/MENE2415135A",
+        "source_id": "16378116af3b9bb9",
+        "text_reference": "MENE2415135A",
+        "locator": "Article 3"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "CE1-francais-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CE1",
+      "subject_id": "francais-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%203%20%E2%80%93%20Programme%20de%20fran%C3%A7ais%20du%20cycle%202-403818.pdf",
+        "title": "Français",
+        "text_reference": "Français (BO n° 41 du 31 octobre 2024)",
+        "published_on": "2024-10-31",
+        "checked_on": "2026-10-29",
+        "sha256": "4a15d1446a0b46866a7b672b9c12fbd86ccaf6ad92ac878ded677d92ab8b102a",
+        "source_id": "9a7a539d375b4614"
+      },
+      "effective_from": "2025-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "grammaire-orthographe",
+          "title": "Grammaire et orthographe",
+          "source_locator": "Annexe 3, page 21, Cours élémentaire première année / Grammaire et orthographe",
+          "chapters": [
+            {
+              "id": "ce1-types-de-phrases",
+              "title": "La phrase : types, formes négative et exclamative",
+              "title_type": "editorial",
+              "official_section": "Se repérer dans la phrase simple",
+              "notions": [
+                "Phrase simple : majuscule, ponctuation finale, sens",
+                "Groupe sujet, verbe et compléments",
+                "Phrases déclarative, interrogative et impérative",
+                "Formes négative et exclamative"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-types-de-phrases-knowledge",
+                  "text": "Une phrase simple commence par une majuscule, se termine par une ponctuation et a un sens ; elle comprend un groupe sujet, un verbe et des compléments, et peut être déclarative, interrogative ou impérative, à la forme négative ou exclamative.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-types-de-phrases-skill",
+                  "text": "Identifier la phrase simple et ses constituants (groupe sujet, verbe, compléments) ; reconnaitre les trois types de phrases et les formes négative et exclamative, et savoir les transformer.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+            },
+            {
+              "id": "ce1-groupe-nominal-accords",
+              "title": "Le groupe nominal et les accords (genre et nombre)",
+              "title_type": "editorial",
+              "official_section": "Se repérer dans la phrase simple ; orthographe grammaticale",
+              "notions": [
+                "Déterminant, nom commun, nom propre, adjectif",
+                "Groupe nominal",
+                "Genre et nombre",
+                "Chaîne d’accords (déterminant, nom, adjectif)"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-groupe-nominal-accords-knowledge",
+                  "text": "Le déterminant, le nom et l’adjectif d’un groupe nominal s’accordent en genre (masculin, féminin) et en nombre (singulier, pluriel) : on ajoute souvent un -e au féminin et un -s au pluriel.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-groupe-nominal-accords-skill",
+                  "text": "Différencier le déterminant, le nom commun, le nom propre et l’adjectif ; reconnaitre le groupe nominal et utiliser les marques d’accord (pluriel en -s, féminin en -e).",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+            },
+            {
+              "id": "ce1-verbe-present",
+              "title": "Le verbe et sa conjugaison au présent",
+              "title_type": "editorial",
+              "official_section": "Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale",
+              "notions": [
+                "Relation entre le sujet et le verbe",
+                "Infinitif, radical et terminaison",
+                "Présent des verbes du premier groupe",
+                "Présent de être et avoir"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-verbe-present-knowledge",
+                  "text": "Le verbe s’accorde avec son sujet ; un verbe du premier groupe a un infinitif en -er, un radical et une terminaison qui change avec le sujet ; être et avoir se conjuguent de façon particulière.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-verbe-present-skill",
+                  "text": "Identifier la relation sujet-verbe, trouver l’infinitif et distinguer le radical et la terminaison d’un verbe du premier groupe, et conjuguer au présent être, avoir et les verbes du premier groupe.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2024/Hebdo41/MENE2415135A",
+        "source_id": "16378116af3b9bb9",
+        "text_reference": "MENE2415135A",
+        "locator": "Article 3"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "ce1-centaines-dizaines-unites-course",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-centaines-dizaines-unites"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Regrouper des unités en dizaines et des dizaines en centaines.",
+        "Lire, écrire et décomposer un nombre jusqu’à 999 (par exemple 635 = 600 + 30 + 5).",
+        "Comparer deux nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "ce1-centaines-dizaines-unites-skill",
+        "ce1-centaines-dizaines-unites-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-centaines-dizaines-unites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-centaines-dizaines-unites-revision_sheet",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-centaines-dizaines-unites"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Regrouper des unités en dizaines et des dizaines en centaines.",
+        "Lire, écrire et décomposer un nombre jusqu’à 999 (par exemple 635 = 600 + 30 + 5).",
+        "Comparer deux nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "ce1-centaines-dizaines-unites-skill",
+        "ce1-centaines-dizaines-unites-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-centaines-dizaines-unites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-centaines-dizaines-unites-quiz",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-centaines-dizaines-unites"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Regrouper des unités en dizaines et des dizaines en centaines.",
+        "Lire, écrire et décomposer un nombre jusqu’à 999 (par exemple 635 = 600 + 30 + 5).",
+        "Comparer deux nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "ce1-centaines-dizaines-unites-skill",
+        "ce1-centaines-dizaines-unites-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-centaines-dizaines-unites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-centaines-dizaines-unites-exercise",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-centaines-dizaines-unites"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Regrouper des unités en dizaines et des dizaines en centaines.",
+        "Lire, écrire et décomposer un nombre jusqu’à 999 (par exemple 635 = 600 + 30 + 5).",
+        "Comparer deux nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "ce1-centaines-dizaines-unites-skill",
+        "ce1-centaines-dizaines-unites-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-centaines-dizaines-unites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-centaines-dizaines-unites-assessment",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-centaines-dizaines-unites"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Regrouper des unités en dizaines et des dizaines en centaines.",
+        "Lire, écrire et décomposer un nombre jusqu’à 999 (par exemple 635 = 600 + 30 + 5).",
+        "Comparer deux nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "ce1-centaines-dizaines-unites-skill",
+        "ce1-centaines-dizaines-unites-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-centaines-dizaines-unites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-centaines-dizaines-unites-audio",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-centaines-dizaines-unites"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Regrouper des unités en dizaines et des dizaines en centaines.",
+        "Lire, écrire et décomposer un nombre jusqu’à 999 (par exemple 635 = 600 + 30 + 5).",
+        "Comparer deux nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "ce1-centaines-dizaines-unites-skill",
+        "ce1-centaines-dizaines-unites-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-centaines-dizaines-unites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-centaines-dizaines-unites-assistant_explanation",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-centaines-dizaines-unites"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Regrouper des unités en dizaines et des dizaines en centaines.",
+        "Lire, écrire et décomposer un nombre jusqu’à 999 (par exemple 635 = 600 + 30 + 5).",
+        "Comparer deux nombres avec les symboles <, > et =."
+      ],
+      "skill_ids": [
+        "ce1-centaines-dizaines-unites-skill",
+        "ce1-centaines-dizaines-unites-compare"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les nombres entiers, pages 10–11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-centaines-dizaines-unites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-additions-posees-course",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-additions-posees"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Aligner correctement les chiffres dans une addition posée.",
+        "Utiliser la retenue quand une colonne dépasse 9.",
+        "Vérifier un résultat avec un calcul approché ou mental."
+      ],
+      "skill_ids": [
+        "ce1-additions-posees-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-additions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-additions-posees-revision_sheet",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-additions-posees"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Aligner correctement les chiffres dans une addition posée.",
+        "Utiliser la retenue quand une colonne dépasse 9.",
+        "Vérifier un résultat avec un calcul approché ou mental."
+      ],
+      "skill_ids": [
+        "ce1-additions-posees-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-additions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-additions-posees-quiz",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-additions-posees"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Aligner correctement les chiffres dans une addition posée.",
+        "Utiliser la retenue quand une colonne dépasse 9.",
+        "Vérifier un résultat avec un calcul approché ou mental."
+      ],
+      "skill_ids": [
+        "ce1-additions-posees-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-additions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-additions-posees-exercise",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-additions-posees"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Aligner correctement les chiffres dans une addition posée.",
+        "Utiliser la retenue quand une colonne dépasse 9.",
+        "Vérifier un résultat avec un calcul approché ou mental."
+      ],
+      "skill_ids": [
+        "ce1-additions-posees-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-additions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-additions-posees-assessment",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-additions-posees"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Aligner correctement les chiffres dans une addition posée.",
+        "Utiliser la retenue quand une colonne dépasse 9.",
+        "Vérifier un résultat avec un calcul approché ou mental."
+      ],
+      "skill_ids": [
+        "ce1-additions-posees-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-additions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-additions-posees-audio",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-additions-posees"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Aligner correctement les chiffres dans une addition posée.",
+        "Utiliser la retenue quand une colonne dépasse 9.",
+        "Vérifier un résultat avec un calcul approché ou mental."
+      ],
+      "skill_ids": [
+        "ce1-additions-posees-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-additions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-additions-posees-assistant_explanation",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-additions-posees"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Aligner correctement les chiffres dans une addition posée.",
+        "Utiliser la retenue quand une colonne dépasse 9.",
+        "Vérifier un résultat avec un calcul approché ou mental."
+      ],
+      "skill_ids": [
+        "ce1-additions-posees-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-additions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-multiplication-fois-course",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-multiplication-fois"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Lire et écrire une multiplication avec le symbole × (« fois »).",
+        "Relier une multiplication à une addition répétée.",
+        "Comprendre que 8 × 4 et 4 × 8 donnent le même résultat."
+      ],
+      "skill_ids": [
+        "ce1-multiplication-fois-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-multiplication-fois.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-multiplication-fois-revision_sheet",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-multiplication-fois"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Lire et écrire une multiplication avec le symbole × (« fois »).",
+        "Relier une multiplication à une addition répétée.",
+        "Comprendre que 8 × 4 et 4 × 8 donnent le même résultat."
+      ],
+      "skill_ids": [
+        "ce1-multiplication-fois-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-multiplication-fois.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-multiplication-fois-quiz",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-multiplication-fois"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Lire et écrire une multiplication avec le symbole × (« fois »).",
+        "Relier une multiplication à une addition répétée.",
+        "Comprendre que 8 × 4 et 4 × 8 donnent le même résultat."
+      ],
+      "skill_ids": [
+        "ce1-multiplication-fois-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-multiplication-fois.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-multiplication-fois-exercise",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-multiplication-fois"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Lire et écrire une multiplication avec le symbole × (« fois »).",
+        "Relier une multiplication à une addition répétée.",
+        "Comprendre que 8 × 4 et 4 × 8 donnent le même résultat."
+      ],
+      "skill_ids": [
+        "ce1-multiplication-fois-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-multiplication-fois.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-multiplication-fois-assessment",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-multiplication-fois"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Lire et écrire une multiplication avec le symbole × (« fois »).",
+        "Relier une multiplication à une addition répétée.",
+        "Comprendre que 8 × 4 et 4 × 8 donnent le même résultat."
+      ],
+      "skill_ids": [
+        "ce1-multiplication-fois-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-multiplication-fois.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-multiplication-fois-audio",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-multiplication-fois"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Lire et écrire une multiplication avec le symbole × (« fois »).",
+        "Relier une multiplication à une addition répétée.",
+        "Comprendre que 8 × 4 et 4 × 8 donnent le même résultat."
+      ],
+      "skill_ids": [
+        "ce1-multiplication-fois-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-multiplication-fois.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-multiplication-fois-assistant_explanation",
+      "program_id": "CE1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-multiplication-fois"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Lire et écrire une multiplication avec le symbole × (« fois »).",
+        "Relier une multiplication à une addition répétée.",
+        "Comprendre que 8 × 4 et 4 × 8 donnent le même résultat."
+      ],
+      "skill_ids": [
+        "ce1-multiplication-fois-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les quatre opérations, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-multiplication-fois.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-types-de-phrases-course",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-types-de-phrases"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaitre une phrase simple et repérer son groupe sujet et son verbe.",
+        "Distinguer les phrases déclarative, interrogative et impérative grâce au sens et à la ponctuation.",
+        "Transformer une phrase à la forme négative et écrire une phrase exclamative."
+      ],
+      "skill_ids": [
+        "ce1-types-de-phrases-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-types-de-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-types-de-phrases-revision_sheet",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-types-de-phrases"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaitre une phrase simple et repérer son groupe sujet et son verbe.",
+        "Distinguer les phrases déclarative, interrogative et impérative grâce au sens et à la ponctuation.",
+        "Transformer une phrase à la forme négative et écrire une phrase exclamative."
+      ],
+      "skill_ids": [
+        "ce1-types-de-phrases-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-types-de-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-types-de-phrases-quiz",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-types-de-phrases"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaitre une phrase simple et repérer son groupe sujet et son verbe.",
+        "Distinguer les phrases déclarative, interrogative et impérative grâce au sens et à la ponctuation.",
+        "Transformer une phrase à la forme négative et écrire une phrase exclamative."
+      ],
+      "skill_ids": [
+        "ce1-types-de-phrases-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-types-de-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-types-de-phrases-exercise",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-types-de-phrases"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaitre une phrase simple et repérer son groupe sujet et son verbe.",
+        "Distinguer les phrases déclarative, interrogative et impérative grâce au sens et à la ponctuation.",
+        "Transformer une phrase à la forme négative et écrire une phrase exclamative."
+      ],
+      "skill_ids": [
+        "ce1-types-de-phrases-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-types-de-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-types-de-phrases-assessment",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-types-de-phrases"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaitre une phrase simple et repérer son groupe sujet et son verbe.",
+        "Distinguer les phrases déclarative, interrogative et impérative grâce au sens et à la ponctuation.",
+        "Transformer une phrase à la forme négative et écrire une phrase exclamative."
+      ],
+      "skill_ids": [
+        "ce1-types-de-phrases-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-types-de-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-types-de-phrases-audio",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-types-de-phrases"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaitre une phrase simple et repérer son groupe sujet et son verbe.",
+        "Distinguer les phrases déclarative, interrogative et impérative grâce au sens et à la ponctuation.",
+        "Transformer une phrase à la forme négative et écrire une phrase exclamative."
+      ],
+      "skill_ids": [
+        "ce1-types-de-phrases-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-types-de-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-types-de-phrases-assistant_explanation",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-types-de-phrases"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaitre une phrase simple et repérer son groupe sujet et son verbe.",
+        "Distinguer les phrases déclarative, interrogative et impérative grâce au sens et à la ponctuation.",
+        "Transformer une phrase à la forme négative et écrire une phrase exclamative."
+      ],
+      "skill_ids": [
+        "ce1-types-de-phrases-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-types-de-phrases.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-groupe-nominal-accords-course",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-groupe-nominal-accords"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaitre un déterminant, un nom commun, un nom propre et un adjectif.",
+        "Repérer le genre et le nombre d’un groupe nominal.",
+        "Accorder le déterminant, le nom et l’adjectif (féminin en -e, pluriel en -s)."
+      ],
+      "skill_ids": [
+        "ce1-groupe-nominal-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-groupe-nominal-accords-revision_sheet",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-groupe-nominal-accords"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaitre un déterminant, un nom commun, un nom propre et un adjectif.",
+        "Repérer le genre et le nombre d’un groupe nominal.",
+        "Accorder le déterminant, le nom et l’adjectif (féminin en -e, pluriel en -s)."
+      ],
+      "skill_ids": [
+        "ce1-groupe-nominal-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-groupe-nominal-accords-quiz",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-groupe-nominal-accords"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaitre un déterminant, un nom commun, un nom propre et un adjectif.",
+        "Repérer le genre et le nombre d’un groupe nominal.",
+        "Accorder le déterminant, le nom et l’adjectif (féminin en -e, pluriel en -s)."
+      ],
+      "skill_ids": [
+        "ce1-groupe-nominal-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-groupe-nominal-accords-exercise",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-groupe-nominal-accords"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaitre un déterminant, un nom commun, un nom propre et un adjectif.",
+        "Repérer le genre et le nombre d’un groupe nominal.",
+        "Accorder le déterminant, le nom et l’adjectif (féminin en -e, pluriel en -s)."
+      ],
+      "skill_ids": [
+        "ce1-groupe-nominal-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-groupe-nominal-accords-assessment",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-groupe-nominal-accords"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaitre un déterminant, un nom commun, un nom propre et un adjectif.",
+        "Repérer le genre et le nombre d’un groupe nominal.",
+        "Accorder le déterminant, le nom et l’adjectif (féminin en -e, pluriel en -s)."
+      ],
+      "skill_ids": [
+        "ce1-groupe-nominal-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-groupe-nominal-accords-audio",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-groupe-nominal-accords"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaitre un déterminant, un nom commun, un nom propre et un adjectif.",
+        "Repérer le genre et le nombre d’un groupe nominal.",
+        "Accorder le déterminant, le nom et l’adjectif (féminin en -e, pluriel en -s)."
+      ],
+      "skill_ids": [
+        "ce1-groupe-nominal-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-groupe-nominal-accords-assistant_explanation",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-groupe-nominal-accords"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaitre un déterminant, un nom commun, un nom propre et un adjectif.",
+        "Repérer le genre et le nombre d’un groupe nominal.",
+        "Accorder le déterminant, le nom et l’adjectif (féminin en -e, pluriel en -s)."
+      ],
+      "skill_ids": [
+        "ce1-groupe-nominal-accords-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple (classes de mots) et Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (groupe nominal, chaîne d’accords), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-groupe-nominal-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-verbe-present-course",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-verbe-present"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Relier un verbe à son sujet et trouver son infinitif.",
+        "Conjuguer un verbe du premier groupe au présent (radical + terminaison).",
+        "Conjuguer être et avoir au présent."
+      ],
+      "skill_ids": [
+        "ce1-verbe-present-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-verbe-present.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-verbe-present-revision_sheet",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-verbe-present"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Relier un verbe à son sujet et trouver son infinitif.",
+        "Conjuguer un verbe du premier groupe au présent (radical + terminaison).",
+        "Conjuguer être et avoir au présent."
+      ],
+      "skill_ids": [
+        "ce1-verbe-present-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-verbe-present.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-verbe-present-quiz",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-verbe-present"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Relier un verbe à son sujet et trouver son infinitif.",
+        "Conjuguer un verbe du premier groupe au présent (radical + terminaison).",
+        "Conjuguer être et avoir au présent."
+      ],
+      "skill_ids": [
+        "ce1-verbe-present-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-verbe-present.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-verbe-present-exercise",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-verbe-present"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Relier un verbe à son sujet et trouver son infinitif.",
+        "Conjuguer un verbe du premier groupe au présent (radical + terminaison).",
+        "Conjuguer être et avoir au présent."
+      ],
+      "skill_ids": [
+        "ce1-verbe-present-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-verbe-present.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-verbe-present-assessment",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-verbe-present"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Relier un verbe à son sujet et trouver son infinitif.",
+        "Conjuguer un verbe du premier groupe au présent (radical + terminaison).",
+        "Conjuguer être et avoir au présent."
+      ],
+      "skill_ids": [
+        "ce1-verbe-present-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-verbe-present.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-verbe-present-audio",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-verbe-present"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Relier un verbe à son sujet et trouver son infinitif.",
+        "Conjuguer un verbe du premier groupe au présent (radical + terminaison).",
+        "Conjuguer être et avoir au présent."
+      ],
+      "skill_ids": [
+        "ce1-verbe-present-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-verbe-present.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-verbe-present-assistant_explanation",
+      "program_id": "CE1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-verbe-present"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Relier un verbe à son sujet et trouver son infinitif.",
+        "Conjuguer un verbe du premier groupe au présent (radical + terminaison).",
+        "Conjuguer être et avoir au présent."
+      ],
+      "skill_ids": [
+        "ce1-verbe-present-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-verbe-present.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

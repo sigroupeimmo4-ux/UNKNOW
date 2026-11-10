@@ -1,0 +1,133 @@
+{
+  "id": "cm1-nombres-entiers-999999",
+  "title": "Lire, écrire et comparer les nombres jusqu’à 999 999",
+  "chapter_id": "cm1-nombres-entiers-999999",
+  "program_id": "CM1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Lire et écrire en chiffres et en lettres un nombre de six chiffres au plus.",
+    "Donner la valeur d’un chiffre selon son rang et décomposer un nombre.",
+    "Comparer, encadrer et ranger des nombres entiers avec =, < et >."
+  ],
+  "skill_ids": [
+    "cm1-nombres-entiers-999999-valeur-skill",
+    "cm1-nombres-entiers-999999-lire-ecrire-skill",
+    "cm1-nombres-entiers-999999-comparer-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Les nombres entiers, page 5 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les rangs d’un nombre",
+      "text": "Un nombre de six chiffres comporte six rangs, de droite à gauche : les unités, les dizaines, les centaines, les unités de mille, les dizaines de mille et les centaines de mille. Dans 346 528, le 8 est au rang des unités, le 2 au rang des dizaines, le 5 au rang des centaines, le 6 au rang des unités de mille, le 4 au rang des dizaines de mille et le 3 au rang des centaines de mille. Dix unités d’un rang font une unité du rang suivant : 10 centaines = 1 millier, 10 milliers = 1 dizaine de mille et 10 dizaines de mille = 1 centaine de mille. On laisse un petit espace entre les milliers et les centaines pour lire plus facilement."
+    },
+    {
+      "title": "Lire, écrire et décomposer",
+      "text": "On lit un nombre par tranches : d’abord les milliers, puis le reste. 346 528 se lit « trois cent quarante-six mille cinq cent vingt-huit ». Le mot « mille » ne prend pas de s. La valeur d’un chiffre dépend de son rang : dans 346 528, le 4 vaut 40 000. On peut décomposer : 346 528 = 300 000 + 40 000 + 6 000 + 500 + 20 + 8. Quand il y a un zéro, il garde la place du rang vide : 205 040 se lit « deux cent cinq mille quarante » et se décompose en 200 000 + 5 000 + 40."
+    },
+    {
+      "title": "Comparer et ranger des nombres",
+      "text": "Pour comparer deux nombres entiers, on regarde d’abord le nombre de chiffres : celui qui en a le plus est le plus grand (98 765 < 102 300). S’ils ont autant de chiffres, on compare de gauche à droite, rang par rang, jusqu’à trouver deux chiffres différents : 45 872 > 45 827 car, au rang des dizaines, 7 est plus grand que 2. Les symboles sont = (égal à), < (inférieur à) et > (supérieur à). Ranger dans l’ordre croissant, c’est aller du plus petit au plus grand ; dans l’ordre décroissant, du plus grand au plus petit."
+    },
+    {
+      "title": "Encadrer un nombre",
+      "text": "Encadrer un nombre, c’est trouver deux nombres qui l’entourent. Pour 45 872, on peut écrire 45 000 < 45 872 < 46 000 (encadrement entre deux milliers consécutifs) ou encore 45 800 < 45 872 < 45 900 (entre deux centaines consécutives). On dit aussi que 45 872 est compris entre 45 000 et 46 000."
+    }
+  ],
+  "revision_sheet": [
+    "Les rangs, de droite à gauche : unités, dizaines, centaines, unités de mille, dizaines de mille, centaines de mille.",
+    "10 unités d’un rang = 1 unité du rang suivant (10 centaines = 1 millier).",
+    "346 528 = 300 000 + 40 000 + 6 000 + 500 + 20 + 8 ; « mille » ne prend pas de s.",
+    "Comparer : d’abord le nombre de chiffres, puis de gauche à droite, rang par rang.",
+    "Symboles : = égal à ; < inférieur à ; > supérieur à."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans 372 450, quelle est la valeur du chiffre 7 ?",
+      "choices": [
+        "70",
+        "7 000",
+        "70 000"
+      ],
+      "correct_index": 2,
+      "explanation": "Le 7 est au rang des dizaines de mille : il vaut 7 × 10 000 = 70 000."
+    },
+    {
+      "prompt": "Comment écrit-on en chiffres « cent huit mille quarante-trois » ?",
+      "choices": [
+        "108 043",
+        "180 043",
+        "108 430"
+      ],
+      "correct_index": 0,
+      "explanation": "Cent huit mille s’écrit 108 000 ; avec quarante-trois, on obtient 108 043. Le rang des centaines est vide : on y écrit 0."
+    },
+    {
+      "prompt": "Quel symbole complète 56 309 … 56 390 ?",
+      "choices": [
+        ">",
+        "<",
+        "="
+      ],
+      "correct_index": 1,
+      "explanation": "Les chiffres sont identiques jusqu’aux centaines. Aux dizaines, 0 est plus petit que 9 : 56 309 < 56 390."
+    },
+    {
+      "prompt": "Quel est le plus grand de ces nombres ?",
+      "choices": [
+        "99 999",
+        "98 765",
+        "100 000"
+      ],
+      "correct_index": 2,
+      "explanation": "100 000 s’écrit avec six chiffres, les deux autres avec cinq : 100 000 est le plus grand."
+    },
+    {
+      "prompt": "10 centaines égalent…",
+      "choices": [
+        "1 dizaine de mille",
+        "1 millier",
+        "1 centaine de mille"
+      ],
+      "correct_index": 1,
+      "explanation": "10 centaines = 1 000 = 1 millier. Dix unités d’un rang font une unité du rang suivant."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris en chiffres : sept cent vingt-quatre mille six cent cinq.",
+      "solution": "724 605.",
+      "success_criterion": "Écrire 724 pour les milliers puis 605, avec le 0 des dizaines bien placé."
+    },
+    {
+      "prompt": "Décompose 408 070 en additionnant la valeur de chaque chiffre.",
+      "solution": "408 070 = 400 000 + 8 000 + 70.",
+      "success_criterion": "Ne pas écrire les rangs vides (les zéros) et donner la bonne valeur à chaque chiffre."
+    },
+    {
+      "prompt": "Range du plus petit au plus grand : 52 340 ; 5 234 ; 52 430 ; 25 340.",
+      "solution": "5 234 < 25 340 < 52 340 < 52 430.",
+      "success_criterion": "Comparer d’abord le nombre de chiffres, puis les chiffres de gauche à droite."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Compare 345 678 et 345 687 avec le symbole <, > ou =, puis explique ton choix.",
+      "solution": "345 678 < 345 687. Les chiffres sont identiques jusqu’aux centaines (3, 4, 5, 6) ; aux dizaines, 7 est plus petit que 8.",
+      "success_criterion": "Comparer rang par rang en partant de la gauche et nommer le rang qui permet de conclure."
+    },
+    {
+      "prompt": "Dans 618 245, quel est le chiffre des unités de mille ? Quelle est la valeur du chiffre 1 ?",
+      "solution": "Le chiffre des unités de mille est 8. Le chiffre 1 est au rang des dizaines de mille : il vaut 10 000.",
+      "success_criterion": "Repérer correctement les rangs et donner la valeur, pas seulement le chiffre."
+    },
+    {
+      "prompt": "Encadre 45 872 entre deux milliers consécutifs.",
+      "solution": "45 000 < 45 872 < 46 000.",
+      "success_criterion": "Choisir deux milliers qui se suivent et utiliser correctement le symbole <."
+    }
+  ],
+  "audio_transcript": "Un nombre de six chiffres se lit en deux parties : d’abord les milliers, puis les centaines, les dizaines et les unités. Trois cent quarante-six mille cinq cent vingt-huit s’écrit trois, quatre, six, cinq, deux, huit, avec un petit espace après le chiffre des unités de mille. Dans ce nombre, le chiffre quatre est au rang des dizaines de mille : il vaut quarante mille. Pour comparer deux nombres, on regarde d’abord combien ils ont de chiffres. S’ils en ont autant, on compare de gauche à droite, rang par rang, jusqu’au premier chiffre différent.",
+  "guided_explanation": "Imagine un grand tableau avec six cases, de droite à gauche : unités, dizaines, centaines, unités de mille, dizaines de mille, centaines de mille. Écris ton nombre dans le tableau, un chiffre par case : tu vois tout de suite la valeur de chaque chiffre. Pour comparer deux nombres, place-les l’un sous l’autre dans le tableau et lis de gauche à droite : le premier rang où les chiffres sont différents décide. Si un nombre a une case vide à gauche, il est plus petit. Tu peux vérifier en lisant les deux nombres à voix haute."
+}

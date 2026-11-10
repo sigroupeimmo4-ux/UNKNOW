@@ -1,0 +1,125 @@
+{
+  "id": "4e-accord-participe-passe",
+  "title": "L’accord du participe passé avec être et avoir",
+  "chapter_id": "4e-accord-participe-passe",
+  "program_id": "4e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Accorder le participe passé employé avec être avec le sujet.",
+    "Accorder le participe passé employé avec avoir quand le COD est placé avant le verbe.",
+    "Choisir la bonne forme du participe passé (é ou er, i, u, consonne finale)."
+  ],
+  "skill_ids": [
+    "4e-accord-participe-passe-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Avec être : on accorde avec le sujet",
+      "text": "Le participe passé employé avec l’auxiliaire être se comporte comme un adjectif : il s’accorde en genre et en nombre avec le sujet. « Marie est partie. » (féminin singulier) ; « Mes cousins sont arrivés. » (masculin pluriel) ; « Les voitures sont garées. » (féminin pluriel). Pour vérifier, essaie de remplacer le participe par un adjectif : « Marie est contente. »"
+    },
+    {
+      "title": "Avec avoir : on regarde le COD",
+      "text": "Le participe passé employé avec l’auxiliaire avoir ne s’accorde jamais avec le sujet. Il s’accorde avec le COD seulement si ce COD est placé avant le verbe. « Elle a mangé des pommes. » Le COD (des pommes) est après le verbe : pas d’accord. « Les pommes qu’elle a mangées étaient bonnes. » Le COD est « que », mis pour les pommes (féminin pluriel) ; il est avant le verbe : on écrit mangées. « Je les ai vues » : les (féminin pluriel) est avant le verbe, donc vues."
+    },
+    {
+      "title": "Méthode : trouver le COD",
+      "text": "Pour un verbe avec avoir : 1) trouve le sujet et le verbe ; 2) pose la question « quoi ? » ou « qui ? » après le verbe pour trouver le COD ; 3) regarde où il se trouve. Après le verbe : on n’accorde pas. Avant le verbe : on accorde avec ce COD en genre et en nombre. Exemple : « Les fleurs que Paul a cueillies sont belles. » Paul a cueilli quoi ? Les fleurs (que), placé avant : cueillies."
+    },
+    {
+      "title": "Écrire la bonne forme du participe passé",
+      "text": "Les participes passés des verbes en -er finissent par -é (chanté), ceux du 2e groupe par -i (fini). Pour les autres, il faut apprendre : pris, mis, fait, dit, écrit, ouvert, vu, lu, perdu. Astuce pour choisir é ou er : remplace le verbe par un verbe du 3e groupe comme vendre. Si tu peux dire « vendu », écris é ; si tu dis « vendre », écris er. « Il a chanté » (comme « il a vendu ») ; « Il va chanter » (comme « il va vendre »). Le féminin permet aussi de trouver la lettre finale muette : écrit → écrite, ouvert → ouverte."
+    }
+  ],
+  "revision_sheet": [
+    "Avec être : le participe passé s’accorde avec le sujet (comme un adjectif).",
+    "Avec avoir : jamais d’accord avec le sujet ; accord avec le COD seulement s’il est placé avant le verbe.",
+    "Pour trouver le COD : poser « quoi ? » ou « qui ? » après le verbe, puis regarder s’il est avant ou après.",
+    "é ou er ? Remplace par vendu / vendre : vendu → é ; vendre → er."
+  ],
+  "quiz": [
+    {
+      "prompt": "Mes cousins sont ______ (arriver) hier.",
+      "choices": [
+        "arrivé",
+        "arrivés",
+        "arrivées"
+      ],
+      "correct_index": 1,
+      "explanation": "Avec être, on accorde avec le sujet « mes cousins » (masculin pluriel) : arrivés."
+    },
+    {
+      "prompt": "Marie est ______ (partir) très tôt.",
+      "choices": [
+        "parti",
+        "partie",
+        "partis"
+      ],
+      "correct_index": 1,
+      "explanation": "Avec être, on accorde avec le sujet « Marie » (féminin singulier) : partie."
+    },
+    {
+      "prompt": "Les chansons que j’ai ______ (écouter) hier étaient belles.",
+      "choices": [
+        "écouté",
+        "écoutés",
+        "écoutées"
+      ],
+      "correct_index": 2,
+      "explanation": "Le COD « que » (= les chansons, féminin pluriel) est placé avant le verbe : on écrit écoutées."
+    },
+    {
+      "prompt": "Elle a ______ (finir) ses devoirs.",
+      "choices": [
+        "fini",
+        "finie",
+        "finis"
+      ],
+      "correct_index": 0,
+      "explanation": "Le COD « ses devoirs » est placé après le verbe : le participe passé ne s’accorde pas."
+    },
+    {
+      "prompt": "Tes amies, je les ai ______ (voir) hier.",
+      "choices": [
+        "vu",
+        "vus",
+        "vues"
+      ],
+      "correct_index": 2,
+      "explanation": "Le COD « les » (= tes amies, féminin pluriel) est placé avant le verbe : on écrit vues."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Accorde le participe passé : a) Les filles sont (rentrer) tard. b) Les tomates que j’ai (acheter) sont mûres. c) Il a (ouvrir) la fenêtre. d) Ces romans, je les ai (lire).",
+      "solution": "a) rentrées ; b) achetées ; c) ouvert ; d) lus.",
+      "success_criterion": "Distinguer être et avoir, repérer le COD antéposé et choisir la bonne terminaison."
+    },
+    {
+      "prompt": "Choisis é ou er : a) Il a (oublier) son sac. b) Il va (oublier) son sac. c) Les cahiers que j’ai (perdre) sont retrouvés.",
+      "solution": "a) oublié ; b) oublier ; c) perdus (accord avec le COD « que » = les cahiers, masculin pluriel).",
+      "success_criterion": "Utiliser l’astuce vendu / vendre et accorder quand le COD est avant le verbe."
+    },
+    {
+      "prompt": "Explique pourquoi on écrit « Les lettres qu’il a écrites ».",
+      "solution": "Le verbe est conjugué avec avoir. Le COD « que » remplace « les lettres » (féminin pluriel) et il est placé avant le verbe : le participe passé s’accorde donc au féminin pluriel : écrites.",
+      "success_criterion": "Nommer l’auxiliaire, repérer le COD antéposé, donner son genre et son nombre."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Complète et justifie : a) Les photos que ma tante a (prendre) sont magnifiques. b) Ma tante a (prendre) de belles photos.",
+      "solution": "a) prises : avec avoir, le COD « que » (les photos, féminin pluriel) est avant le verbe. b) pris : le COD « de belles photos » est après le verbe, donc pas d’accord.",
+      "success_criterion": "Justifier chaque réponse en parlant de l’auxiliaire et de la place du COD."
+    },
+    {
+      "prompt": "Corrige les erreurs : « Les pommes qu’elle a mangé étaient bonnes. » « Elles sont tombé. »",
+      "solution": "« Les pommes qu’elle a mangées étaient bonnes. » (COD que = pommes, avant le verbe) ; « Elles sont tombées. » (avec être, accord avec le sujet féminin pluriel).",
+      "success_criterion": "Corriger les deux erreurs en expliquant la règle utilisée."
+    }
+  ],
+  "audio_transcript": "Avec l’auxiliaire être, le participe passé s’accorde avec le sujet, comme un adjectif : Marie est partie, mes cousins sont arrivés. Avec l’auxiliaire avoir, le participe passé ne s’accorde jamais avec le sujet. Il s’accorde avec le complément d’objet direct seulement si celui-ci est placé avant le verbe. Elle a mangé des pommes : pas d’accord. Les pommes qu’elle a mangées : accord, car que, mis pour les pommes, est placé avant le verbe. Pour choisir entre é et er, remplace par vendu ou vendre.",
+  "guided_explanation": "Fais toujours les choses dans le même ordre. D’abord, regarde l’auxiliaire. Si c’est être, accorde avec le sujet. Si c’est avoir, cherche le COD en posant la question quoi ou qui après le verbe. Si le COD est après le verbe, tu n’accordes pas. S’il est avant, souvent un pronom comme les ou que, tu accordes avec lui. Tu peux t’aider de petits tableaux de classement de tes erreurs pour repérer tes pièges favoris."
+}

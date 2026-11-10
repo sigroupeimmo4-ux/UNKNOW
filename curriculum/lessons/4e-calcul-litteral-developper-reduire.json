@@ -1,0 +1,131 @@
+{
+  "id": "4e-calcul-litteral-developper-reduire",
+  "title": "Calcul littéral : réduire et développer",
+  "chapter_id": "4e-calcul-litteral-developper-reduire",
+  "program_id": "4e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Appliquer les conventions d’écriture du calcul littéral.",
+    "Réduire une expression en regroupant les termes de même nature.",
+    "Développer une expression avec la distributivité simple et démontrer une propriété générale."
+  ],
+  "skill_ids": [
+    "4e-calcul-litteral-developper-reduire-skill",
+    "4e-calcul-litteral-developper-reduire-general"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Utiliser le calcul littéral, pages 131–132 (conventions d’écriture, page 132) (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Écrire avec des lettres",
+      "text": "Une lettre peut représenter un nombre. On simplifie l’écriture en omettant le signe × devant une lettre ou une parenthèse : 3 × a = 3a ; 1 × a = a ; a × a = a² ; 2 × (x + 1) = 2(x + 1). Exemple : le périmètre d’un rectangle de longueur L et de largeur l est 2 × (L + l) = 2(L + l). Pour L = 5 et l = 3, on trouve 2 × (5 + 3) = 16."
+    },
+    {
+      "title": "Réduire une expression",
+      "text": "Réduire, c’est regrouper les termes de même nature. On peut additionner 3x + 5x = (3 + 5)x = 8x et 7x − 2x = 5x. Mais on ne peut pas réduire 4x + 3x², car x et x² ne sont pas de même nature. Pour 2x + 3 + 5x − 1, on regroupe les termes en x et les nombres : (2x + 5x) + (3 − 1) = 7x + 2."
+    },
+    {
+      "title": "La distributivité simple",
+      "text": "Pour tous nombres k, a et b : k(a + b) = ka + kb et k(a − b) = ka − kb. Développer, c’est transformer un produit en somme. Exemples : 3(x + 4) = 3x + 12 ; 5(2x − 3) = 10x − 15. Cela sert aussi en calcul mental : 7 × 98 = 7 × (100 − 2) = 700 − 14 = 686."
+    },
+    {
+      "title": "Démontrer avec une lettre",
+      "text": "Tester quelques valeurs ne prouve pas une propriété générale, mais un seul test qui échoue montre qu’il y a une erreur. Pour 3(x + 4) = 3x + 12, avec x = 2 : 3 × 6 = 18 et 6 + 12 = 18. Le calcul littéral permet de prouver : trois entiers consécutifs s’écrivent n, n + 1 et n + 2. Leur somme est n + (n + 1) + (n + 2) = 3n + 3 = 3(n + 1), qui est un multiple de 3. Par exemple 7 + 8 + 9 = 24 = 3 × 8."
+    }
+  ],
+  "revision_sheet": [
+    "On omet le signe × devant une lettre ou une parenthèse : 3 × x = 3x et a × a = a².",
+    "Réduire : on regroupe les termes de même nature : 3x + 5x = 8x ; mais 4x + 3x² ne se réduit pas.",
+    "Distributivité simple : k(a + b) = ka + kb et k(a − b) = ka − kb.",
+    "Pour prouver une propriété pour tous les nombres, on utilise une lettre ; un test avec une valeur ne suffit pas."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle est l’écriture simplifiée de 4 × x ?",
+      "choices": [
+        "4 + x",
+        "4x",
+        "x⁴"
+      ],
+      "correct_index": 1,
+      "explanation": "On omet le signe × entre un nombre et une lettre : 4 × x = 4x."
+    },
+    {
+      "prompt": "Réduis 5x + 2x.",
+      "choices": [
+        "7x",
+        "7x²",
+        "10x"
+      ],
+      "correct_index": 0,
+      "explanation": "5x + 2x = (5 + 2)x = 7x. On additionne les coefficients, la lettre ne change pas."
+    },
+    {
+      "prompt": "Développe 3(x + 5).",
+      "choices": [
+        "3x + 5",
+        "3x + 15",
+        "x + 15"
+      ],
+      "correct_index": 1,
+      "explanation": "Il faut multiplier chaque terme de la parenthèse par 3 : 3 × x + 3 × 5 = 3x + 15."
+    },
+    {
+      "prompt": "Développe 4(2x − 3).",
+      "choices": [
+        "8x − 3",
+        "8x − 12",
+        "2x − 12"
+      ],
+      "correct_index": 1,
+      "explanation": "4 × 2x = 8x et 4 × 3 = 12, donc 4(2x − 3) = 8x − 12."
+    },
+    {
+      "prompt": "Réduis 6x + 4 − 2x + 1.",
+      "choices": [
+        "4x + 5",
+        "8x + 5",
+        "4x + 3"
+      ],
+      "correct_index": 0,
+      "explanation": "Termes en x : 6x − 2x = 4x. Nombres : 4 + 1 = 5. Le résultat est 4x + 5."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris plus simplement : 5 × a ; a × a ; 2 × (n + 3).",
+      "solution": "5a ; a² ; 2(n + 3).",
+      "success_criterion": "Omettre le signe × quand c’est possible et reconnaître le carré."
+    },
+    {
+      "prompt": "Réduis : 9x − 4x ; 3x + 7 + 2x − 5.",
+      "solution": "9x − 4x = 5x ; 3x + 7 + 2x − 5 = 5x + 2.",
+      "success_criterion": "Regrouper les termes en x puis les nombres."
+    },
+    {
+      "prompt": "Développe puis réduis : 2(x + 3) + 4x ; puis développe 5(3x − 2).",
+      "solution": "2(x + 3) + 4x = 2x + 6 + 4x = 6x + 6 ; 5(3x − 2) = 15x − 10.",
+      "success_criterion": "Multiplier chaque terme de la parenthèse, puis réduire."
+    },
+    {
+      "prompt": "Calcule mentalement 6 × 47 en écrivant 47 = 50 − 3.",
+      "solution": "6 × 47 = 6 × (50 − 3) = 300 − 18 = 282.",
+      "success_criterion": "Utiliser la distributivité sur une soustraction."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Développe 7(3x + 2), puis vérifie ton résultat pour x = 2.",
+      "solution": "7(3x + 2) = 21x + 14. Pour x = 2 : 7 × (6 + 2) = 56 et 21 × 2 + 14 = 56. Les deux valeurs sont égales.",
+      "success_criterion": "Développer correctement et faire un test numérique des deux membres."
+    },
+    {
+      "prompt": "Montre que la somme de trois entiers consécutifs est toujours un multiple de 3.",
+      "solution": "Soit n le premier entier. La somme est n + (n + 1) + (n + 2) = 3n + 3 = 3(n + 1), qui est un multiple de 3.",
+      "success_criterion": "Écrire les trois entiers avec une lettre, réduire, puis factoriser par 3 pour conclure."
+    }
+  ],
+  "audio_transcript": "En calcul littéral, une lettre représente un nombre. On omet le signe fois devant une lettre : trois fois a s’écrit trois a. Pour réduire une expression, on regroupe les termes de même nature : trois x plus cinq x égale huit x. La distributivité simple dit que k fois a plus b égale k a plus k b. Ainsi trois fois x plus quatre égale trois x plus douze. Avec une lettre, on peut aussi prouver une propriété générale, par exemple que la somme de trois entiers consécutifs est un multiple de trois.",
+  "guided_explanation": "Pense à une lettre comme à une boîte qui contient un nombre inconnu. Trois boîtes plus cinq boîtes font huit boîtes : 3x + 5x = 8x. Pour développer 3(x + 4), imagine trois paquets qui contiennent chacun une boîte et quatre jetons : tu as trois boîtes et douze jetons, soit 3x + 12. Pour vérifier, remplace x par un nombre simple comme 2 des deux côtés : si les résultats sont différents, tu as fait une erreur."
+}

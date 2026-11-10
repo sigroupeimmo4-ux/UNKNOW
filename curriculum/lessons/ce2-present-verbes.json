@@ -1,0 +1,132 @@
+{
+  "id": "ce2-present-verbes",
+  "title": "Conjuguer au présent : être, avoir et les verbes en -er",
+  "chapter_id": "ce2-present-verbes",
+  "program_id": "CE2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Identifier le sujet d’un verbe et accorder le verbe avec lui.",
+    "Conjuguer être, avoir et les verbes en -er au présent.",
+    "Retrouver l’infinitif d’un verbe conjugué grâce au radical."
+  ],
+  "skill_ids": [
+    "ce2-present-verbes-skill-sujet-verbe",
+    "ce2-present-verbes-skill-conjugaison"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le sujet et le verbe",
+      "text": "Le verbe change selon son sujet : « Je joue au ballon. » ; « Les enfants jouent au ballon. » ; « Nous jouons au ballon. » Pour trouver le sujet, on pose la question « Qui est-ce qui ? » devant le verbe. On peut remplacer un groupe sujet par un pronom : « Les enfants jouent » devient « Ils jouent »."
+    },
+    {
+      "title": "Être et avoir au présent",
+      "text": "Être : je suis, tu es, il (elle) est, nous sommes, vous êtes, ils (elles) sont. Avoir : j’ai, tu as, il (elle) a, nous avons, vous avez, ils (elles) ont. Attention à ne pas confondre « ils sont » (verbe être) et « ils ont » (verbe avoir)."
+    },
+    {
+      "title": "Les verbes en -er",
+      "text": "Les verbes du premier groupe ont un infinitif en -er : chanter, jouer, regarder. On garde le radical (chant-) et on ajoute la terminaison : je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent. À la fin de « ils chantent », la terminaison -ent ne s’entend pas, mais il faut l’écrire. Le verbe aller est irrégulier : je vais, tu vas, il va, nous allons, vous allez, ils vont."
+    },
+    {
+      "title": "Retrouver l’infinitif",
+      "text": "Pour trouver l’infinitif d’un verbe, on cherche le radical commun aux formes conjuguées. Dans « tu as plié, vous pliez, ils plieront », le radical est pli- : l’infinitif est plier."
+    }
+  ],
+  "revision_sheet": [
+    "Le verbe s’accorde avec son sujet : je joue, nous jouons, les enfants jouent.",
+    "Être : je suis, tu es, il est, nous sommes, vous êtes, ils sont. Avoir : j’ai, tu as, il a, nous avons, vous avez, ils ont.",
+    "Verbes en -er : radical + -e, -es, -e, -ons, -ez, -ent (je chante, nous chantons, ils chantent).",
+    "Aller est irrégulier : je vais, tu vas, il va, nous allons, vous allez, ils vont.",
+    "Pour trouver l’infinitif, on cherche le radical commun : tu as plié, vous pliez, plier."
+  ],
+  "quiz": [
+    {
+      "prompt": "Comment écrit-on : « Nous (chanter) une chanson. » ?",
+      "choices": [
+        "chantez",
+        "chantons",
+        "chantent"
+      ],
+      "correct_index": 1,
+      "explanation": "Avec le sujet nous, la terminaison des verbes en -er est -ons : nous chantons."
+    },
+    {
+      "prompt": "Quelle forme complète « Tu ... en retard. » (verbe être) ?",
+      "choices": [
+        "es",
+        "est",
+        "as"
+      ],
+      "correct_index": 0,
+      "explanation": "Au présent, être se conjugue : tu es."
+    },
+    {
+      "prompt": "Comment écrit-on : « Les enfants (jouer) dans la cour. » ?",
+      "choices": [
+        "joue",
+        "jouons",
+        "jouent"
+      ],
+      "correct_index": 2,
+      "explanation": "Le sujet les enfants correspond à ils : la terminaison est -ent, jouent."
+    },
+    {
+      "prompt": "Quelle forme complète « Vous ... faim. » (verbe avoir) ?",
+      "choices": [
+        "avez",
+        "avons",
+        "ont"
+      ],
+      "correct_index": 0,
+      "explanation": "Au présent, avoir se conjugue : vous avez."
+    },
+    {
+      "prompt": "Quel est l’infinitif de « elles regardent » ?",
+      "choices": [
+        "regardent",
+        "regardé",
+        "regarder"
+      ],
+      "correct_index": 2,
+      "explanation": "Le radical est regard- et l’infinitif est regarder."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Conjugue le verbe parler au présent avec nous, vous et ils.",
+      "solution": "nous parlons, vous parlez, ils parlent.",
+      "success_criterion": "Ajouter les bonnes terminaisons -ons, -ez et -ent au radical parl-."
+    },
+    {
+      "prompt": "Complète avec être ou avoir au présent : a) Nous ... contents. b) Ils ... un chien. c) Elle ... à la maison. d) J’... dix ans.",
+      "solution": "a) Nous sommes contents. b) Ils ont un chien. c) Elle est à la maison. d) J’ai dix ans.",
+      "success_criterion": "Choisir le bon verbe, puis la bonne forme selon le sujet."
+    },
+    {
+      "prompt": "Remplace le groupe sujet par un pronom : a) Mes amis chantent. b) Ma sœur regarde un film.",
+      "solution": "a) Ils chantent. b) Elle regarde un film.",
+      "success_criterion": "Choisir ils ou elle selon le genre et le nombre du groupe sujet."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris les verbes au présent : a) Les élèves (écouter) la maitresse. b) Tu (ranger) ta chambre. c) Nous (aimer) lire.",
+      "solution": "a) Les élèves écoutent la maitresse. b) Tu ranges ta chambre. c) Nous aimons lire.",
+      "success_criterion": "Identifier le sujet et utiliser -ent, -es et -ons."
+    },
+    {
+      "prompt": "Retrouve l’infinitif du verbe dans : « tu as dansé, ils dansent, nous dansons ».",
+      "solution": "L’infinitif est danser, car le radical commun est dans-.",
+      "success_criterion": "Repérer le radical commun et écrire danser."
+    },
+    {
+      "prompt": "Explique la différence entre « ils sont » et « ils ont ».",
+      "solution": "« Ils sont » est le verbe être (ils sont contents). « Ils ont » est le verbe avoir (ils ont un chat). On peut remplacer sont par étaient : « ils étaient contents ».",
+      "success_criterion": "Nommer les deux verbes et donner un exemple pour chacun."
+    }
+  ],
+  "audio_transcript": "Le verbe change selon son sujet. Je joue, nous jouons, les enfants jouent. Au présent, le verbe être se conjugue : je suis, tu es, il est, nous sommes, vous êtes, ils sont. Le verbe avoir se conjugue : j’ai, tu as, il a, nous avons, vous avez, ils ont. Pour les verbes en e r, comme chanter, on garde le radical chant et on ajoute les terminaisons e, es, e, ons, ez, ent. Pour retrouver l’infinitif, on cherche le radical qui reste le même.",
+  "guided_explanation": "Pour bien accorder un verbe, commence par chercher son sujet : pose la question « Qui est-ce qui ? » devant le verbe. Puis demande-toi quel pronom pourrait le remplacer : je, tu, il, elle, nous, vous, ils ou elles. Enfin, choisis la terminaison qui correspond. Par exemple, dans « Les enfants jouent dans la cour », le sujet est « les enfants », donc ils : on écrit jouent avec -ent. Si tu hésites entre « sont » et « ont », essaie de remplacer par « étaient » : si la phrase garde son sens, c’est le verbe être."
+}

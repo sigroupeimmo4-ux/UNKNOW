@@ -1,0 +1,128 @@
+{
+  "id": "6e-perimetre-aire",
+  "title": "Périmètres et aires du carré et du rectangle",
+  "chapter_id": "6e-perimetre-aire",
+  "program_id": "6e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Calculer le périmètre d’un carré et d’un rectangle.",
+    "Calculer l’aire d’un carré et d’un rectangle.",
+    "Ne pas confondre périmètre et aire.",
+    "Convertir des aires entre m², dm² et cm²."
+  ],
+  "skill_ids": [
+    "6e-perimetre-aire-skill-perimetre",
+    "6e-perimetre-aire-skill-aire",
+    "6e-perimetre-aire-skill-conversions"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires), page 19 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le périmètre : la longueur du contour",
+      "text": "Le périmètre est la longueur du contour d’une figure. Pour un carré de côté c, on ajoute quatre côtés égaux : P = 4 × c. Un carré de 5 cm de côté a un périmètre de 4 × 5 = 20 cm. Pour un rectangle de longueur L et de largeur l, P = 2 × (L + l). Pour un rectangle de 8 cm sur 3 cm : P = 2 × (8 + 3) = 22 cm."
+    },
+    {
+      "title": "L’aire : la taille de la surface",
+      "text": "L’aire mesure la surface d’une figure. Le cm² est l’aire d’un carré de 1 cm de côté : on peut compter les carreaux d’un quadrillage. Pour un rectangle, A = L × l ; pour un carré, A = c × c. Le rectangle de 8 cm sur 3 cm a pour aire 8 × 3 = 24 cm². Le carré de 5 cm de côté a pour aire 5 × 5 = 25 cm². Attention : le périmètre s’exprime en cm, l’aire en cm²."
+    },
+    {
+      "title": "Ne pas confondre périmètre et aire",
+      "text": "Deux figures peuvent avoir le même périmètre et des aires différentes. Un rectangle de 6 cm sur 2 cm a pour périmètre 16 cm et pour aire 12 cm². Un carré de 4 cm de côté a aussi pour périmètre 16 cm, mais son aire est 16 cm². Avant de calculer, vérifie toujours que les longueurs sont dans la même unité."
+    },
+    {
+      "title": "Convertir des aires",
+      "text": "Un carré de 1 m de côté mesure aussi 10 dm sur 10 dm : 1 m² = 10 × 10 dm² = 100 dm². De même, 1 dm² = 10 × 10 cm² = 100 cm², donc 1 m² = 10 000 cm². Pour passer d’une unité à la suivante plus petite, on multiplie par 100 : 3 m² = 300 dm². Dans l’autre sens, on divise par 100 : 450 cm² = 4,5 dm². On retient aussi 1 cm² = 0,01 dm²."
+    }
+  ],
+  "revision_sheet": [
+    "Carré : P = 4 × c ; A = c × c.",
+    "Rectangle : P = 2 × (L + l) ; A = L × l.",
+    "Le périmètre se mesure en cm, m… ; l’aire en cm², dm², m².",
+    "1 m² = 100 dm² ; 1 dm² = 100 cm² ; 1 cm² = 0,01 dm²."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est le périmètre d’un carré de 7 cm de côté ?",
+      "choices": [
+        "28 cm",
+        "49 cm",
+        "14 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "P = 4 × 7 = 28 cm. (49 est l’aire en cm², pas le périmètre.)"
+    },
+    {
+      "prompt": "Quelle est l’aire d’un rectangle de 9 cm sur 4 cm ?",
+      "choices": [
+        "26 cm²",
+        "36 cm²",
+        "36 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "A = 9 × 4 = 36 et l’aire s’exprime en cm²."
+    },
+    {
+      "prompt": "Quel est le périmètre d’un rectangle de 10 cm sur 3 cm ?",
+      "choices": [
+        "30 cm",
+        "26 cm",
+        "13 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "P = 2 × (10 + 3) = 2 × 13 = 26 cm. (30 est l’aire, en cm².)"
+    },
+    {
+      "prompt": "Combien y a-t-il de dm² dans 1 m² ?",
+      "choices": [
+        "10 dm²",
+        "100 dm²",
+        "1 000 dm²"
+      ],
+      "correct_index": 1,
+      "explanation": "1 m² = 10 dm × 10 dm = 100 dm²."
+    },
+    {
+      "prompt": "Convertis 300 cm² en dm².",
+      "choices": [
+        "3 dm²",
+        "30 dm²",
+        "0,3 dm²"
+      ],
+      "correct_index": 0,
+      "explanation": "1 dm² = 100 cm², donc 300 cm² = 300 ÷ 100 = 3 dm²."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Un rectangle mesure 12 cm sur 5 cm. Calcule son périmètre et son aire.",
+      "solution": "P = 2 × (12 + 5) = 34 cm ; A = 12 × 5 = 60 cm².",
+      "success_criterion": "Utiliser les deux formules et les bonnes unités (cm et cm²)."
+    },
+    {
+      "prompt": "Un carré a un périmètre de 36 cm. Quel est son côté ? Quelle est son aire ?",
+      "solution": "Côté = 36 ÷ 4 = 9 cm ; aire = 9 × 9 = 81 cm².",
+      "success_criterion": "Retrouver le côté en divisant par 4, puis calculer c × c."
+    },
+    {
+      "prompt": "Convertis : 5 m² en dm² ; 700 cm² en dm² ; 3 dm² en cm².",
+      "solution": "5 m² = 500 dm² ; 700 cm² = 7 dm² ; 3 dm² = 300 cm².",
+      "success_criterion": "Multiplier ou diviser par 100 selon le sens de la conversion."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un terrain rectangulaire mesure 20 m sur 15 m. Quelle longueur de clôture faut-il pour en faire le tour ? Quelle est la surface de gazon nécessaire ?",
+      "solution": "Clôture : P = 2 × (20 + 15) = 70 m. Gazon : A = 20 × 15 = 300 m².",
+      "success_criterion": "Reconnaître que la clôture est un périmètre et le gazon une aire."
+    },
+    {
+      "prompt": "Un rectangle de 8 cm sur 2 cm et un carré de 5 cm de côté ont-ils le même périmètre ? la même aire ?",
+      "solution": "Périmètre du rectangle : 2 × (8 + 2) = 20 cm ; du carré : 4 × 5 = 20 cm. Même périmètre. Aires : 8 × 2 = 16 cm² et 5 × 5 = 25 cm². Aires différentes.",
+      "success_criterion": "Calculer les quatre valeurs et conclure sans confondre périmètre et aire."
+    }
+  ],
+  "audio_transcript": "Le périmètre d’une figure est la longueur de son contour. Pour un carré, on multiplie le côté par quatre. Pour un rectangle, on additionne la longueur et la largeur, puis on double. L’aire mesure la surface : pour un rectangle, on multiplie la longueur par la largeur, et le résultat s’exprime en centimètres carrés, en décimètres carrés ou en mètres carrés. Attention, périmètre et aire sont deux choses différentes. Enfin, un mètre carré vaut cent décimètres carrés, et un décimètre carré vaut cent centimètres carrés.",
+  "guided_explanation": "Pour distinguer périmètre et aire, imagine un jardin rectangulaire. Le périmètre, c’est la longueur de grillage nécessaire pour faire le tour. L’aire, c’est la quantité de pelouse qui recouvre le sol. Pour un jardin de 20 m sur 15 m, le grillage mesure 2 × (20 + 15) = 70 m et la pelouse couvre 20 × 15 = 300 m². Pour convertir des aires, pense à un carré de 1 m de côté : il contient 10 rangées de 10 carrés de 1 dm de côté, donc 100 dm²."
+}

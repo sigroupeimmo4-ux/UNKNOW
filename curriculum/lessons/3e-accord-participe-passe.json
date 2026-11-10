@@ -1,0 +1,129 @@
+{
+  "id": "3e-accord-participe-passe",
+  "title": "Accorder le participe passé",
+  "chapter_id": "3e-accord-participe-passe",
+  "program_id": "3e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Accorder le participe passé employé avec être avec le sujet.",
+    "Accorder le participe passé employé avec avoir avec le COD quand il est placé avant le verbe (cas simples).",
+    "Accorder le participe passé mis en apposition comme un adjectif."
+  ],
+  "skill_ids": [
+    "3e-accord-participe-passe-skill-etre",
+    "3e-accord-participe-passe-skill-avoir",
+    "3e-accord-participe-passe-skill-apposition"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (chaînes d’accord : participe passé avec être et avec avoir, cas du COD antéposé ; adjectif et participe passé en apposition), page 23 (pagination du PDF).",
+    "Même programme, même section (formes du participe passé : é, i, u et formes avec consonne finale), page 24."
+  ],
+  "course": [
+    {
+      "title": "Les formes du participe passé",
+      "text": "Le participe passé sert à former les temps composés (passé composé, plus-que-parfait...) avec l’auxiliaire être ou avoir. Il se termine par é (chanté), i (fini), u (vendu) ou par une consonne (pris, mis, écrit, fait, ouvert). Pour trouver la bonne finale d’un verbe du 3e groupe, remplace-le par « vendre » ou « prendre » : on dit « vendu, pris », donc on écrit « tenu, appris ». Le participe passé se comporte comme un adjectif : il peut prendre les marques du féminin (e) et du pluriel (s)."
+    },
+    {
+      "title": "Avec l’auxiliaire être : accord avec le sujet",
+      "text": "Quand le participe passé est employé avec être, il s’accorde en genre et en nombre avec le sujet, comme un adjectif attribut. « Elle est arrivée. » « Les enfants sont partis. » « Les filles sont tombées. » Si le sujet est formé d’un nom masculin et d’un nom féminin, le masculin pluriel l’emporte : « Tom et Léa sont allés au cinéma. » Astuce : remplace le sujet féminin par un sujet masculin pour entendre la différence : « Il est arrivé / elle est arrivée. » Les verbes pronominaux se conjuguent aussi avec être ; certains cas (comme « elles se sont parlé ») sont plus délicats et ne sont pas traités ici."
+    },
+    {
+      "title": "Avec l’auxiliaire avoir : accord avec le COD placé avant",
+      "text": "Avec avoir, le participe passé ne s’accorde jamais avec le sujet. Il s’accorde avec le complément d’objet direct (COD) seulement si ce COD est placé avant le verbe. Méthode : 1) trouve le sujet et le verbe ; 2) pose la question « qui ? » ou « quoi ? » après le verbe pour trouver le COD ; 3) regarde où il se trouve. COD après le verbe : pas d’accord. « Elle a mangé des pommes. » COD avant le verbe : accord avec ce COD. « Les pommes qu’elle a mangées étaient bonnes. » (que = les pommes, féminin pluriel). « Je les ai vues. » (les = des filles, féminin pluriel). Sans COD, pas d’accord : « Elles ont dormi. »"
+    },
+    {
+      "title": "Le participe passé en apposition",
+      "text": "Un participe passé peut être mis en apposition : il est séparé du nom par une virgule, il apporte une précision comme un adjectif et s’accorde avec le nom auquel il se rapporte. « Fatiguée par la route, Léa s’est endormie. » (fatiguée, féminin singulier, comme Léa). « Surpris par l’orage, les randonneurs se sont abrités. » (surpris, masculin pluriel). « Épuisés, les coureurs ont franchi la ligne. » Pour vérifier : remplace le participe par un adjectif comme « content » ou « contente ». Si l’adjectif prend un e ou un s, le participe aussi."
+    }
+  ],
+  "revision_sheet": [
+    "Avec être : le participe passé s’accorde en genre et en nombre avec le sujet.",
+    "Avec avoir : jamais d’accord avec le sujet ; accord avec le COD seulement s’il est placé avant le verbe.",
+    "Méthode du COD : sujet, verbe, puis « qui ? / quoi ? » après le verbe ; regarder si la réponse est avant ou après.",
+    "Sans COD ou avec un COD après le verbe : pas d’accord. Exemple : « Elles ont dormi. »",
+    "Participe passé en apposition : il s’accorde comme un adjectif avec le nom auquel il se rapporte."
+  ],
+  "quiz": [
+    {
+      "prompt": "Complète : « Les élèves sont (arriver) à l’heure. »",
+      "choices": [
+        "arrivé",
+        "arrivées",
+        "arrivés"
+      ],
+      "correct_index": 2,
+      "explanation": "Avec être, le participe s’accorde avec le sujet « les élèves », masculin pluriel : arrivés."
+    },
+    {
+      "prompt": "Complète : « Elle a (manger) trois pommes. »",
+      "choices": [
+        "mangé",
+        "mangée",
+        "mangées"
+      ],
+      "correct_index": 0,
+      "explanation": "Avec avoir, le COD « trois pommes » est placé après le verbe : le participe reste invariable."
+    },
+    {
+      "prompt": "Complète : « Les lettres que j’ai (écrire) hier sont parties. »",
+      "choices": [
+        "écrit",
+        "écrits",
+        "écrites"
+      ],
+      "correct_index": 2,
+      "explanation": "« Que » représente « les lettres » (féminin pluriel) et il est COD placé avant le verbe : écrites."
+    },
+    {
+      "prompt": "Complète : « Voici mes cousines : je les ai (inviter). »",
+      "choices": [
+        "invité",
+        "invitées",
+        "invités"
+      ],
+      "correct_index": 1,
+      "explanation": "« Les » est le COD placé avant le verbe et remplace « mes cousines », féminin pluriel : invitées."
+    },
+    {
+      "prompt": "Dans « Marie est tombée », avec quoi le participe passé s’accorde-t-il ?",
+      "choices": [
+        "Le complément du nom",
+        "Le COD placé avant le verbe",
+        "Le sujet « Marie »"
+      ],
+      "correct_index": 2,
+      "explanation": "Le verbe est conjugué avec être : le participe passé s’accorde avec le sujet, ici « Marie » (féminin singulier)."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris le participe passé entre parenthèses avec la bonne terminaison. a) Les fleurs sont (cueillir). b) Mes sœurs sont (partir) tôt. c) Tom et Léa sont (aller) au musée.",
+      "solution": "a) cueillies. b) parties. c) allés (le masculin pluriel l’emporte).",
+      "success_criterion": "Accorder avec le sujet en genre et en nombre, y compris pour le sujet mixte."
+    },
+    {
+      "prompt": "Accorde si nécessaire. a) La chanson que nous avons (chanter). b) Ils ont (finir) leurs devoirs. c) Les photos que tu as (prendre) sont belles. d) Ces histoires, je les ai (lire) toutes.",
+      "solution": "a) chantée (que = la chanson, COD avant). b) fini (COD après le verbe). c) prises (que = les photos). d) lues (les = ces histoires).",
+      "success_criterion": "Chercher le COD, regarder sa place et justifier l’accord ou l’absence d’accord."
+    },
+    {
+      "prompt": "Complète avec un participe passé en apposition : a) (Surprendre) par la pluie, les enfants courent. b) (Fatiguer) par le voyage, Inès s’est couchée tôt.",
+      "solution": "a) Surpris (masculin pluriel, comme « les enfants »). b) Fatiguée (féminin singulier, comme « Inès »).",
+      "success_criterion": "Accorder le participe comme un adjectif avec le nom auquel il se rapporte."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Corrige les erreurs et justifie chaque correction : a) Les chansons que j’ai écouté m’ont plu. b) Elles sont allé au cinéma. c) La pomme qu’il a mangé était mûre.",
+      "solution": "a) écoutées : COD « que » (les chansons) placé avant le verbe. b) allées : avec être, accord avec le sujet « elles ». c) mangée : COD « que » (la pomme) placé avant le verbe, féminin singulier.",
+      "success_criterion": "Trouver l’auxiliaire, repérer le sujet ou le COD, et corriger en expliquant la règle."
+    },
+    {
+      "prompt": "Rédige deux phrases : l’une avec un participe passé employé avec être, l’autre avec avoir et un COD placé avant le verbe. Explique les accords.",
+      "solution": "Exemple : « Mes amies sont arrivées en retard. » (avec être, accord avec le sujet féminin pluriel). « Les exercices que j’ai faits étaient faciles. » (avec avoir, le COD « que » représente « les exercices », masculin pluriel, placé avant le verbe : faits).",
+      "success_criterion": "Produire deux phrases correctes et expliquer l’accord par le sujet puis par le COD antéposé."
+    }
+  ],
+  "audio_transcript": "Le participe passé s’accorde selon son auxiliaire. Avec être, il s’accorde avec le sujet : les élèves sont arrivés, elle est arrivée. Avec avoir, il ne s’accorde jamais avec le sujet. Il s’accorde avec le complément d’objet direct, seulement si celui-ci est placé avant le verbe : les pommes que j’ai mangées, mais j’ai mangé des pommes. Pour trouver le COD, on pose la question qui ou quoi après le verbe. Enfin, un participe passé en apposition s’accorde comme un adjectif : fatiguée par la route, Léa s’est endormie.",
+  "guided_explanation": "Avant d’écrire un participe passé, pose-toi trois questions. Un : quel est l’auxiliaire ? Si c’est être, accorde avec le sujet. Deux : si c’est avoir, y a-t-il un COD, et est-il placé avant le verbe ? Pour le trouver, demande « j’ai mangé quoi ? ». Si la réponse est après le verbe, rien ne change. Si elle est avant, comme dans « les pommes que j’ai mangées », tu accordes avec elle. Trois : le participe est-il mis en apposition, séparé par une virgule ? Dans ce cas, accorde-le comme un adjectif. Relis toujours ta phrase en remplaçant le sujet ou le COD par un autre mot, par exemple masculin à la place d’un féminin, pour vérifier."
+}

@@ -1,0 +1,125 @@
+{
+  "id": "5e-nombres-relatifs",
+  "title": "Les nombres relatifs : opposé, comparaison et addition",
+  "chapter_id": "5e-nombres-relatifs",
+  "program_id": "5e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Placer et lire un nombre relatif sur une droite graduée.",
+    "Donner l’opposé et la valeur absolue d’un nombre relatif.",
+    "Comparer et ranger des nombres relatifs.",
+    "Additionner deux nombres relatifs et résoudre un petit problème de température ou d’altitude."
+  ],
+  "skill_ids": [
+    "5e-nombres-relatifs-skill",
+    "5e-nombres-relatifs-compare",
+    "5e-nombres-relatifs-add"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Nombres relatifs, pages 7–8 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Des nombres pour aller sous zéro",
+      "text": "Il fait 3 °C le soir et la température baisse de 5 degrés : elle passe sous zéro. Pour décrire cela, on utilise les nombres relatifs. Un nombre relatif a un signe : + (positif) ou − (négatif). Par exemple +3 et −2,5 sont des nombres relatifs. Le nombre 0 est à la fois positif et négatif, sans signe. Sur une droite graduée, chaque nombre relatif est repéré par son abscisse : les positifs sont à droite de 0, les négatifs à gauche. On les utilise pour la température (−4 °C), l’altitude (−12 m sous le niveau de la mer) ou le temps (−3 s avant le départ)."
+    },
+    {
+      "title": "Opposé et valeur absolue",
+      "text": "Deux nombres sont opposés quand ils sont à la même distance de 0, de part et d’autre de 0. L’opposé de +5 est −5 ; l’opposé de −7,5 est +7,5 ; l’opposé de 0 est 0. La valeur absolue d’un nombre est sa distance à 0 : elle est toujours positive ou nulle. Elle se note | |. Ainsi |−6| = 6 et |+6| = 6. Un nombre et son opposé ont donc la même valeur absolue."
+    },
+    {
+      "title": "Comparer et ranger",
+      "text": "Sur la droite graduée, un nombre est plus petit que tous ceux qui sont à sa droite. Trois règles : un nombre négatif est plus petit que 0 et que tout nombre positif ; entre deux nombres positifs, le plus grand est celui qui a la plus grande valeur absolue ; entre deux nombres négatifs, c’est le contraire : le plus petit est celui qui a la plus grande valeur absolue. Ainsi −9 < −2, car −9 est plus loin de 0 vers la gauche. Rangés dans l’ordre croissant, −3 ; 0 ; −1,5 ; 2 donnent −3 < −1,5 < 0 < 2."
+    },
+    {
+      "title": "Additionner deux nombres relatifs",
+      "text": "Si les deux nombres ont le même signe, on additionne les valeurs absolues et on garde le signe : (+3) + (+4) = +7 et (−3) + (−4) = −7. Si les signes sont différents, on soustrait la plus petite valeur absolue de la plus grande et on garde le signe du nombre qui a la plus grande valeur absolue : (−5) + (+2) = −3 car 5 − 2 = 3 et 5 est du côté négatif ; (+6) + (−9) = −3 car 9 − 6 = 3 et 9 est du côté négatif. Deux nombres opposés ont une somme nulle : (−2,5) + (+2,5) = 0. Astuce : « −5 + 2 » se lit comme un déplacement de 2 vers la droite à partir de −5."
+    }
+  ],
+  "revision_sheet": [
+    "Un nombre relatif a un signe + ou − ; les négatifs sont à gauche de 0 sur la droite graduée.",
+    "L’opposé de a est le nombre à la même distance de 0 de l’autre côté : l’opposé de −7,5 est +7,5.",
+    "La valeur absolue est la distance à 0 : |−6| = 6.",
+    "Entre deux négatifs, le plus petit est celui qui a la plus grande valeur absolue : −9 < −2.",
+    "Même signe : on additionne les valeurs absolues et on garde le signe. Signes différents : on soustrait et on garde le signe du plus « fort ».",
+    "Un nombre et son opposé ont pour somme 0."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est l’opposé de −7,5 ?",
+      "choices": [
+        "−7,5",
+        "+7,5",
+        "0,75"
+      ],
+      "correct_index": 1,
+      "explanation": "L’opposé est le nombre à la même distance de 0 de l’autre côté : l’opposé de −7,5 est +7,5."
+    },
+    {
+      "prompt": "Quel est le plus petit de ces nombres : −1,5 ; 0 ; −3 ; 2 ?",
+      "choices": [
+        "−1,5",
+        "−3",
+        "0"
+      ],
+      "correct_index": 1,
+      "explanation": "Parmi les négatifs, le plus petit est celui qui a la plus grande valeur absolue : 3 > 1,5, donc −3 < −1,5."
+    },
+    {
+      "prompt": "Combien vaut (−4) + (−5) ?",
+      "choices": [
+        "−1",
+        "−9",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "Les deux nombres sont négatifs : on additionne 4 + 5 = 9 et on garde le signe − ; le résultat est −9."
+    },
+    {
+      "prompt": "Combien vaut (−8) + (+3) ?",
+      "choices": [
+        "5",
+        "−5",
+        "−11"
+      ],
+      "correct_index": 1,
+      "explanation": "Les signes sont différents : 8 − 3 = 5, et 8 est du côté négatif ; le résultat est −5."
+    },
+    {
+      "prompt": "Il fait −4 °C le matin. La température monte de 7 degrés. Quelle température fait-il ?",
+      "choices": [
+        "3 °C",
+        "−3 °C",
+        "−11 °C"
+      ],
+      "correct_index": 0,
+      "explanation": "On calcule (−4) + (+7) : 7 − 4 = 3 et 7 est du côté positif ; il fait +3 °C."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Range dans l’ordre croissant : 3 ; −2 ; −0,5 ; 1,5 ; −2,5.",
+      "solution": "−2,5 < −2 < −0,5 < 1,5 < 3.",
+      "success_criterion": "Placer d’abord les négatifs en comparant leurs valeurs absolues, puis les positifs."
+    },
+    {
+      "prompt": "Calcule : (−7) + (+4) ; (−3,5) + (−1,5) ; (+2,4) + (−2,4).",
+      "solution": "(−7) + (+4) = −3 ; (−3,5) + (−1,5) = −5 ; (+2,4) + (−2,4) = 0.",
+      "success_criterion": "Distinguer les cas « même signe » et « signes différents » et reconnaître deux opposés."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un plongeur est à −12 m. Il remonte de 5 m. À quelle altitude se trouve-t-il ?",
+      "solution": "(−12) + (+5) = −7 : il est à −7 m, soit 7 m sous le niveau de la mer.",
+      "success_criterion": "Traduire la situation par une addition et conclure avec le bon signe et l’unité."
+    },
+    {
+      "prompt": "Explique pourquoi −9 < −2 alors que 9 > 2.",
+      "solution": "Sur la droite graduée, −9 est plus à gauche que −2 : il est plus loin de 0 du côté négatif. Pour deux négatifs, celui qui a la plus grande valeur absolue est le plus petit.",
+      "success_criterion": "Utiliser la droite graduée ou la valeur absolue pour justifier."
+    }
+  ],
+  "audio_transcript": "Les nombres relatifs servent à décrire des grandeurs qui peuvent passer sous zéro, comme une température de moins quatre degrés. Un nombre relatif est positif ou négatif. L’opposé de moins sept virgule cinq est plus sept virgule cinq. La valeur absolue d’un nombre est sa distance à zéro : la valeur absolue de moins six est six. Pour comparer deux nombres négatifs, le plus petit est celui qui est le plus loin de zéro : moins neuf est plus petit que moins deux. Pour additionner, si les signes sont les mêmes, on additionne les valeurs absolues et on garde le signe : moins quatre plus moins cinq égale moins neuf. Si les signes sont différents, on soustrait les valeurs absolues et on garde le signe du plus grand : moins huit plus trois égale moins cinq.",
+  "guided_explanation": "Imagine un thermomètre vertical. Zéro est la ligne de l’eau qui gèle. Au-dessus, ce sont les températures positives ; en dessous, les négatives. Si tu pars de −4 et que tu montes de 7 graduations, tu passes par −3, −2, −1, 0, puis tu continues jusqu’à 3 : (−4) + (+7) = +3. Pour comparer, demande-toi toujours : « Qui est le plus bas sur le thermomètre ? ». Moins neuf est plus bas que moins deux, donc −9 < −2. Quand tu additionnes deux nombres de signes différents, pense à un déplacement : le plus grand déplacement décide du signe du résultat."
+}

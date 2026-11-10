@@ -1,0 +1,1334 @@
+{
+  "programs": [
+    {
+      "id": "CE2-mathematiques-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CE2",
+      "subject_id": "mathematiques-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%204%20%E2%80%93%20Programme%20de%20math%C3%A9matiques%20du%20cycle%202-403821.pdf",
+        "title": "Mathématiques",
+        "text_reference": "Mathématiques (BO n° 41 du 31 octobre 2024)",
+        "published_on": "2024-10-31",
+        "checked_on": "2026-10-29",
+        "sha256": "0fe8dfba39f78215e4d44f0dc871df80d7c9530267d6de40b49d205d3506caed",
+        "source_id": "726f9656fb518da3"
+      },
+      "effective_from": "2025-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "nombres-calcul-problemes",
+          "title": "Nombres, calcul et résolution de problèmes",
+          "source_locator": "Annexe 4, pages 19–22, Cours élémentaire deuxième année (CE2) / Les nombres entiers, Les fractions, Les quatre opérations, Mémoriser des faits numériques",
+          "chapters": [
+            {
+              "id": "ce2-nombres-10000",
+              "title": "Lire, écrire et décomposer les nombres jusqu’à 10 000",
+              "title_type": "editorial",
+              "official_section": "Les nombres entiers",
+              "notions": [
+                "Nombres entiers jusqu’à 10 000",
+                "Unités, dizaines, centaines et milliers",
+                "Valeur d’un chiffre selon sa position",
+                "Différentes écritures d’un même nombre"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-nombres-10000-knowledge",
+                  "text": "Dans l’écriture d’un nombre, la valeur d’un chiffre dépend de sa position : 10 unités font 1 dizaine, 10 dizaines font 1 centaine, 10 centaines font 1 millier.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-nombres-10000-skill",
+                  "text": "Connaitre la valeur des chiffres en fonction de leur position dans un nombre.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-nombres-10000-skill-repr",
+                  "text": "Connaitre et utiliser diverses représentations d’un nombre et passer de l’une à l’autre.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+            },
+            {
+              "id": "ce2-fractions-egales-comparer",
+              "title": "Fractions égales et comparaison de fractions",
+              "title_type": "editorial",
+              "official_section": "Les fractions",
+              "notions": [
+                "Fractions d’un tout inférieures ou égales à 1",
+                "Numérateur et dénominateur",
+                "Égalité de fractions",
+                "Comparaison de fractions inférieures à 1"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-fractions-egales-comparer-knowledge-egalite",
+                  "text": "Une fraction d’un tout se lit avec un dénominateur (nombre de parts égales du tout) et un numérateur (nombre de parts prises) ; des fractions différentes peuvent représenter la même quantité du tout, par exemple 1/2 = 2/4.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-fractions-egales-comparer-knowledge-comparaison",
+                  "text": "Pour comparer des fractions inférieures à 1, on s’appuie sur la taille et le nombre des parts : même dénominateur, même numérateur, ou dénominateur multiple de l’autre.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-fractions-egales-comparer-skill-egalite",
+                  "text": "Savoir établir des égalités de fractions inférieures ou égales à 1.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-fractions-egales-comparer-skill-comparer",
+                  "text": "Comparer des fractions inférieures à 1.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+            },
+            {
+              "id": "ce2-multiplication-division",
+              "title": "Facteurs, produit, multiples et division",
+              "title_type": "editorial",
+              "official_section": "Les quatre opérations ; Mémoriser des faits numériques",
+              "notions": [
+                "Facteur, produit et multiple",
+                "Multiples de 2 et de 25 ; nombres pairs et impairs",
+                "Sens de la division et symbole ÷",
+                "Division, opération inverse de la multiplication",
+                "Tables de multiplication dans les deux sens"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-multiplication-division-knowledge-vocabulaire",
+                  "text": "Dans une multiplication, les nombres multipliés sont les facteurs et le résultat est le produit ; un multiple d’un nombre est un produit de ce nombre par un entier.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-multiplication-division-knowledge-division",
+                  "text": "La division est l’opération inverse de la multiplication : 7 × 13 = 91, donc 91 ÷ 7 = 13 et 91 ÷ 13 = 7.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-multiplication-division-skill-vocabulaire",
+                  "text": "Comprendre et utiliser les mots « facteur », « produit » et « multiple ».",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-multiplication-division-skill-division",
+                  "text": "Comprendre le sens de la division et utiliser le symbole « ÷ ».",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-multiplication-division-skill-tables",
+                  "text": "Connaitre dans les deux sens les tables de multiplication.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2024/Hebdo41/MENE2415135A",
+        "source_id": "16378116af3b9bb9",
+        "text_reference": "MENE2415135A",
+        "locator": "Article 3"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "CE2-francais-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CE2",
+      "subject_id": "francais-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/document/Annexe%203%20%E2%80%93%20Programme%20de%20fran%C3%A7ais%20du%20cycle%202-403818.pdf",
+        "title": "Français",
+        "text_reference": "Français (BO n° 41 du 31 octobre 2024)",
+        "published_on": "2024-10-31",
+        "checked_on": "2026-10-29",
+        "sha256": "4a15d1446a0b46866a7b672b9c12fbd86ccaf6ad92ac878ded677d92ab8b102a",
+        "source_id": "9a7a539d375b4614"
+      },
+      "effective_from": "2025-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "grammaire-orthographe",
+          "title": "Grammaire et orthographe",
+          "source_locator": "Annexe 3, page 22, Cours élémentaire deuxième année (CE2) / Grammaire et orthographe",
+          "chapters": [
+            {
+              "id": "ce2-types-formes-phrase",
+              "title": "Les types et les formes de phrases",
+              "title_type": "editorial",
+              "official_section": "Se repérer dans la phrase simple",
+              "notions": [
+                "Phrase déclarative, interrogative et impérative",
+                "Formes négative et exclamative",
+                "Ponctuation de fin de phrase (. ! ?)"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-types-formes-phrase-knowledge",
+                  "text": "Une phrase est déclarative, interrogative ou impérative ; elle peut aussi être à la forme négative ou exclamative, et sa ponctuation de fin (. ! ?) en est une marque.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-types-formes-phrase-skill-types",
+                  "text": "Reconnaitre et produire les trois types de phrases : déclarative, interrogative et impérative.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-types-formes-phrase-skill-formes",
+                  "text": "Reconnaitre et produire les formes négative et exclamative, et utiliser la ponctuation de fin de phrase (. ! ?).",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+            },
+            {
+              "id": "ce2-accords-groupe-nominal",
+              "title": "Accorder les mots dans le groupe nominal",
+              "title_type": "editorial",
+              "official_section": "Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale",
+              "notions": [
+                "Groupe nominal : déterminant, nom, adjectif",
+                "Accord en genre et en nombre",
+                "Pluriels en -s, -x et -aux",
+                "Féminin des noms et des adjectifs"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-accords-groupe-nominal-knowledge",
+                  "text": "Dans un groupe nominal, le déterminant et l’adjectif s’accordent avec le nom en genre et en nombre ; ces marques forment une chaine d’accords.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-accords-groupe-nominal-skill",
+                  "text": "Repérer, comprendre et mettre en œuvre les marques d’accord au sein du groupe nominal.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+            },
+            {
+              "id": "ce2-present-verbes",
+              "title": "Conjuguer au présent : être, avoir et les verbes en -er",
+              "title_type": "editorial",
+              "official_section": "Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale",
+              "notions": [
+                "Relation entre le sujet et le verbe",
+                "Présent de être et avoir",
+                "Présent des verbes du premier groupe",
+                "Radical, terminaison et infinitif"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-present-verbes-knowledge",
+                  "text": "Le verbe s’accorde avec son sujet ; au présent, les verbes du premier groupe se forment avec un radical et les terminaisons -e, -es, -e, -ons, -ez, -ent, et être et avoir ont des formes particulières.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-present-verbes-skill-sujet-verbe",
+                  "text": "Identifier, dans des situations simples, la relation sujet-verbe.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-present-verbes-skill-conjugaison",
+                  "text": "Conjuguer au présent de l’indicatif être et avoir et les verbes du premier groupe, et trouver l’infinitif d’un verbe conjugué.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2024/Hebdo41/MENE2415135A",
+        "source_id": "16378116af3b9bb9",
+        "text_reference": "MENE2415135A",
+        "locator": "Article 3"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "ce2-nombres-10000-course",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-nombres-10000"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Connaitre les relations entre unités, dizaines, centaines et milliers.",
+        "Donner la valeur d’un chiffre selon sa position dans un nombre jusqu’à 10 000.",
+        "Écrire un même nombre de plusieurs façons (somme, unités de numération, lettres)."
+      ],
+      "skill_ids": [
+        "ce2-nombres-10000-skill",
+        "ce2-nombres-10000-skill-repr"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-nombres-10000.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-nombres-10000-revision_sheet",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-nombres-10000"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Connaitre les relations entre unités, dizaines, centaines et milliers.",
+        "Donner la valeur d’un chiffre selon sa position dans un nombre jusqu’à 10 000.",
+        "Écrire un même nombre de plusieurs façons (somme, unités de numération, lettres)."
+      ],
+      "skill_ids": [
+        "ce2-nombres-10000-skill",
+        "ce2-nombres-10000-skill-repr"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-nombres-10000.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-nombres-10000-quiz",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-nombres-10000"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Connaitre les relations entre unités, dizaines, centaines et milliers.",
+        "Donner la valeur d’un chiffre selon sa position dans un nombre jusqu’à 10 000.",
+        "Écrire un même nombre de plusieurs façons (somme, unités de numération, lettres)."
+      ],
+      "skill_ids": [
+        "ce2-nombres-10000-skill",
+        "ce2-nombres-10000-skill-repr"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-nombres-10000.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-nombres-10000-exercise",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-nombres-10000"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Connaitre les relations entre unités, dizaines, centaines et milliers.",
+        "Donner la valeur d’un chiffre selon sa position dans un nombre jusqu’à 10 000.",
+        "Écrire un même nombre de plusieurs façons (somme, unités de numération, lettres)."
+      ],
+      "skill_ids": [
+        "ce2-nombres-10000-skill",
+        "ce2-nombres-10000-skill-repr"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-nombres-10000.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-nombres-10000-assessment",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-nombres-10000"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Connaitre les relations entre unités, dizaines, centaines et milliers.",
+        "Donner la valeur d’un chiffre selon sa position dans un nombre jusqu’à 10 000.",
+        "Écrire un même nombre de plusieurs façons (somme, unités de numération, lettres)."
+      ],
+      "skill_ids": [
+        "ce2-nombres-10000-skill",
+        "ce2-nombres-10000-skill-repr"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-nombres-10000.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-nombres-10000-audio",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-nombres-10000"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Connaitre les relations entre unités, dizaines, centaines et milliers.",
+        "Donner la valeur d’un chiffre selon sa position dans un nombre jusqu’à 10 000.",
+        "Écrire un même nombre de plusieurs façons (somme, unités de numération, lettres)."
+      ],
+      "skill_ids": [
+        "ce2-nombres-10000-skill",
+        "ce2-nombres-10000-skill-repr"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-nombres-10000.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-nombres-10000-assistant_explanation",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-nombres-10000"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Connaitre les relations entre unités, dizaines, centaines et milliers.",
+        "Donner la valeur d’un chiffre selon sa position dans un nombre jusqu’à 10 000.",
+        "Écrire un même nombre de plusieurs façons (somme, unités de numération, lettres)."
+      ],
+      "skill_ids": [
+        "ce2-nombres-10000-skill",
+        "ce2-nombres-10000-skill-repr"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les nombres entiers, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-nombres-10000.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-fractions-egales-comparer-course",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-fractions-egales-comparer"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Lire une fraction d’un tout et nommer le numérateur et le dénominateur.",
+        "Établir et justifier des égalités simples comme 1/2 = 2/4 ou 3/4 = 6/8.",
+        "Comparer deux fractions de même dénominateur, de même numérateur, ou dont un dénominateur est multiple de l’autre."
+      ],
+      "skill_ids": [
+        "ce2-fractions-egales-comparer-skill-egalite",
+        "ce2-fractions-egales-comparer-skill-comparer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-fractions-egales-comparer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-fractions-egales-comparer-revision_sheet",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-fractions-egales-comparer"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Lire une fraction d’un tout et nommer le numérateur et le dénominateur.",
+        "Établir et justifier des égalités simples comme 1/2 = 2/4 ou 3/4 = 6/8.",
+        "Comparer deux fractions de même dénominateur, de même numérateur, ou dont un dénominateur est multiple de l’autre."
+      ],
+      "skill_ids": [
+        "ce2-fractions-egales-comparer-skill-egalite",
+        "ce2-fractions-egales-comparer-skill-comparer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-fractions-egales-comparer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-fractions-egales-comparer-quiz",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-fractions-egales-comparer"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Lire une fraction d’un tout et nommer le numérateur et le dénominateur.",
+        "Établir et justifier des égalités simples comme 1/2 = 2/4 ou 3/4 = 6/8.",
+        "Comparer deux fractions de même dénominateur, de même numérateur, ou dont un dénominateur est multiple de l’autre."
+      ],
+      "skill_ids": [
+        "ce2-fractions-egales-comparer-skill-egalite",
+        "ce2-fractions-egales-comparer-skill-comparer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-fractions-egales-comparer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-fractions-egales-comparer-exercise",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-fractions-egales-comparer"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Lire une fraction d’un tout et nommer le numérateur et le dénominateur.",
+        "Établir et justifier des égalités simples comme 1/2 = 2/4 ou 3/4 = 6/8.",
+        "Comparer deux fractions de même dénominateur, de même numérateur, ou dont un dénominateur est multiple de l’autre."
+      ],
+      "skill_ids": [
+        "ce2-fractions-egales-comparer-skill-egalite",
+        "ce2-fractions-egales-comparer-skill-comparer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-fractions-egales-comparer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-fractions-egales-comparer-assessment",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-fractions-egales-comparer"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Lire une fraction d’un tout et nommer le numérateur et le dénominateur.",
+        "Établir et justifier des égalités simples comme 1/2 = 2/4 ou 3/4 = 6/8.",
+        "Comparer deux fractions de même dénominateur, de même numérateur, ou dont un dénominateur est multiple de l’autre."
+      ],
+      "skill_ids": [
+        "ce2-fractions-egales-comparer-skill-egalite",
+        "ce2-fractions-egales-comparer-skill-comparer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-fractions-egales-comparer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-fractions-egales-comparer-audio",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-fractions-egales-comparer"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Lire une fraction d’un tout et nommer le numérateur et le dénominateur.",
+        "Établir et justifier des égalités simples comme 1/2 = 2/4 ou 3/4 = 6/8.",
+        "Comparer deux fractions de même dénominateur, de même numérateur, ou dont un dénominateur est multiple de l’autre."
+      ],
+      "skill_ids": [
+        "ce2-fractions-egales-comparer-skill-egalite",
+        "ce2-fractions-egales-comparer-skill-comparer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-fractions-egales-comparer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-fractions-egales-comparer-assistant_explanation",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-fractions-egales-comparer"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Lire une fraction d’un tout et nommer le numérateur et le dénominateur.",
+        "Établir et justifier des égalités simples comme 1/2 = 2/4 ou 3/4 = 6/8.",
+        "Comparer deux fractions de même dénominateur, de même numérateur, ou dont un dénominateur est multiple de l’autre."
+      ],
+      "skill_ids": [
+        "ce2-fractions-egales-comparer-skill-egalite",
+        "ce2-fractions-egales-comparer-skill-comparer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les fractions, pages 20–21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-fractions-egales-comparer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-multiplication-division-course",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-multiplication-division"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Employer les mots facteur, produit et multiple.",
+        "Comprendre que la division est l’opération inverse de la multiplication et utiliser le symbole ÷.",
+        "Utiliser les tables de multiplication dans les deux sens pour compléter des égalités à trou."
+      ],
+      "skill_ids": [
+        "ce2-multiplication-division-skill-vocabulaire",
+        "ce2-multiplication-division-skill-division",
+        "ce2-multiplication-division-skill-tables"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-multiplication-division.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-multiplication-division-revision_sheet",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-multiplication-division"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Employer les mots facteur, produit et multiple.",
+        "Comprendre que la division est l’opération inverse de la multiplication et utiliser le symbole ÷.",
+        "Utiliser les tables de multiplication dans les deux sens pour compléter des égalités à trou."
+      ],
+      "skill_ids": [
+        "ce2-multiplication-division-skill-vocabulaire",
+        "ce2-multiplication-division-skill-division",
+        "ce2-multiplication-division-skill-tables"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-multiplication-division.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-multiplication-division-quiz",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-multiplication-division"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Employer les mots facteur, produit et multiple.",
+        "Comprendre que la division est l’opération inverse de la multiplication et utiliser le symbole ÷.",
+        "Utiliser les tables de multiplication dans les deux sens pour compléter des égalités à trou."
+      ],
+      "skill_ids": [
+        "ce2-multiplication-division-skill-vocabulaire",
+        "ce2-multiplication-division-skill-division",
+        "ce2-multiplication-division-skill-tables"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-multiplication-division.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-multiplication-division-exercise",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-multiplication-division"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Employer les mots facteur, produit et multiple.",
+        "Comprendre que la division est l’opération inverse de la multiplication et utiliser le symbole ÷.",
+        "Utiliser les tables de multiplication dans les deux sens pour compléter des égalités à trou."
+      ],
+      "skill_ids": [
+        "ce2-multiplication-division-skill-vocabulaire",
+        "ce2-multiplication-division-skill-division",
+        "ce2-multiplication-division-skill-tables"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-multiplication-division.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-multiplication-division-assessment",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-multiplication-division"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Employer les mots facteur, produit et multiple.",
+        "Comprendre que la division est l’opération inverse de la multiplication et utiliser le symbole ÷.",
+        "Utiliser les tables de multiplication dans les deux sens pour compléter des égalités à trou."
+      ],
+      "skill_ids": [
+        "ce2-multiplication-division-skill-vocabulaire",
+        "ce2-multiplication-division-skill-division",
+        "ce2-multiplication-division-skill-tables"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-multiplication-division.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-multiplication-division-audio",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-multiplication-division"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Employer les mots facteur, produit et multiple.",
+        "Comprendre que la division est l’opération inverse de la multiplication et utiliser le symbole ÷.",
+        "Utiliser les tables de multiplication dans les deux sens pour compléter des égalités à trou."
+      ],
+      "skill_ids": [
+        "ce2-multiplication-division-skill-vocabulaire",
+        "ce2-multiplication-division-skill-division",
+        "ce2-multiplication-division-skill-tables"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-multiplication-division.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-multiplication-division-assistant_explanation",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-multiplication-division"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Employer les mots facteur, produit et multiple.",
+        "Comprendre que la division est l’opération inverse de la multiplication et utiliser le symbole ÷.",
+        "Utiliser les tables de multiplication dans les deux sens pour compléter des égalités à trou."
+      ],
+      "skill_ids": [
+        "ce2-multiplication-division-skill-vocabulaire",
+        "ce2-multiplication-division-skill-division",
+        "ce2-multiplication-division-skill-tables"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 ; Mémoriser des faits numériques (tables de multiplication), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-multiplication-division.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-types-formes-phrase-course",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-types-formes-phrase"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaitre une phrase déclarative, interrogative ou impérative.",
+        "Transformer une phrase à la forme négative.",
+        "Reconnaitre une phrase exclamative et choisir la bonne ponctuation de fin de phrase."
+      ],
+      "skill_ids": [
+        "ce2-types-formes-phrase-skill-types",
+        "ce2-types-formes-phrase-skill-formes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-types-formes-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-types-formes-phrase-revision_sheet",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-types-formes-phrase"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaitre une phrase déclarative, interrogative ou impérative.",
+        "Transformer une phrase à la forme négative.",
+        "Reconnaitre une phrase exclamative et choisir la bonne ponctuation de fin de phrase."
+      ],
+      "skill_ids": [
+        "ce2-types-formes-phrase-skill-types",
+        "ce2-types-formes-phrase-skill-formes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-types-formes-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-types-formes-phrase-quiz",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-types-formes-phrase"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaitre une phrase déclarative, interrogative ou impérative.",
+        "Transformer une phrase à la forme négative.",
+        "Reconnaitre une phrase exclamative et choisir la bonne ponctuation de fin de phrase."
+      ],
+      "skill_ids": [
+        "ce2-types-formes-phrase-skill-types",
+        "ce2-types-formes-phrase-skill-formes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-types-formes-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-types-formes-phrase-exercise",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-types-formes-phrase"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaitre une phrase déclarative, interrogative ou impérative.",
+        "Transformer une phrase à la forme négative.",
+        "Reconnaitre une phrase exclamative et choisir la bonne ponctuation de fin de phrase."
+      ],
+      "skill_ids": [
+        "ce2-types-formes-phrase-skill-types",
+        "ce2-types-formes-phrase-skill-formes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-types-formes-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-types-formes-phrase-assessment",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-types-formes-phrase"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaitre une phrase déclarative, interrogative ou impérative.",
+        "Transformer une phrase à la forme négative.",
+        "Reconnaitre une phrase exclamative et choisir la bonne ponctuation de fin de phrase."
+      ],
+      "skill_ids": [
+        "ce2-types-formes-phrase-skill-types",
+        "ce2-types-formes-phrase-skill-formes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-types-formes-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-types-formes-phrase-audio",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-types-formes-phrase"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaitre une phrase déclarative, interrogative ou impérative.",
+        "Transformer une phrase à la forme négative.",
+        "Reconnaitre une phrase exclamative et choisir la bonne ponctuation de fin de phrase."
+      ],
+      "skill_ids": [
+        "ce2-types-formes-phrase-skill-types",
+        "ce2-types-formes-phrase-skill-formes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-types-formes-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-types-formes-phrase-assistant_explanation",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-types-formes-phrase"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaitre une phrase déclarative, interrogative ou impérative.",
+        "Transformer une phrase à la forme négative.",
+        "Reconnaitre une phrase exclamative et choisir la bonne ponctuation de fin de phrase."
+      ],
+      "skill_ids": [
+        "ce2-types-formes-phrase-skill-types",
+        "ce2-types-formes-phrase-skill-formes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-types-formes-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-accords-groupe-nominal-course",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-accords-groupe-nominal"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Repérer le nom, le déterminant et l’adjectif dans un groupe nominal.",
+        "Mettre au pluriel des groupes nominaux (-s, -x, -al/-aux).",
+        "Mettre au féminin des noms et des adjectifs usuels."
+      ],
+      "skill_ids": [
+        "ce2-accords-groupe-nominal-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-accords-groupe-nominal.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-accords-groupe-nominal-revision_sheet",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-accords-groupe-nominal"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Repérer le nom, le déterminant et l’adjectif dans un groupe nominal.",
+        "Mettre au pluriel des groupes nominaux (-s, -x, -al/-aux).",
+        "Mettre au féminin des noms et des adjectifs usuels."
+      ],
+      "skill_ids": [
+        "ce2-accords-groupe-nominal-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-accords-groupe-nominal.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-accords-groupe-nominal-quiz",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-accords-groupe-nominal"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Repérer le nom, le déterminant et l’adjectif dans un groupe nominal.",
+        "Mettre au pluriel des groupes nominaux (-s, -x, -al/-aux).",
+        "Mettre au féminin des noms et des adjectifs usuels."
+      ],
+      "skill_ids": [
+        "ce2-accords-groupe-nominal-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-accords-groupe-nominal.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-accords-groupe-nominal-exercise",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-accords-groupe-nominal"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Repérer le nom, le déterminant et l’adjectif dans un groupe nominal.",
+        "Mettre au pluriel des groupes nominaux (-s, -x, -al/-aux).",
+        "Mettre au féminin des noms et des adjectifs usuels."
+      ],
+      "skill_ids": [
+        "ce2-accords-groupe-nominal-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-accords-groupe-nominal.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-accords-groupe-nominal-assessment",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-accords-groupe-nominal"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Repérer le nom, le déterminant et l’adjectif dans un groupe nominal.",
+        "Mettre au pluriel des groupes nominaux (-s, -x, -al/-aux).",
+        "Mettre au féminin des noms et des adjectifs usuels."
+      ],
+      "skill_ids": [
+        "ce2-accords-groupe-nominal-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-accords-groupe-nominal.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-accords-groupe-nominal-audio",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-accords-groupe-nominal"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Repérer le nom, le déterminant et l’adjectif dans un groupe nominal.",
+        "Mettre au pluriel des groupes nominaux (-s, -x, -al/-aux).",
+        "Mettre au féminin des noms et des adjectifs usuels."
+      ],
+      "skill_ids": [
+        "ce2-accords-groupe-nominal-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-accords-groupe-nominal.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-accords-groupe-nominal-assistant_explanation",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-accords-groupe-nominal"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Repérer le nom, le déterminant et l’adjectif dans un groupe nominal.",
+        "Mettre au pluriel des groupes nominaux (-s, -x, -al/-aux).",
+        "Mettre au féminin des noms et des adjectifs usuels."
+      ],
+      "skill_ids": [
+        "ce2-accords-groupe-nominal-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-accords-groupe-nominal.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-present-verbes-course",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-present-verbes"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Identifier le sujet d’un verbe et accorder le verbe avec lui.",
+        "Conjuguer être, avoir et les verbes en -er au présent.",
+        "Retrouver l’infinitif d’un verbe conjugué grâce au radical."
+      ],
+      "skill_ids": [
+        "ce2-present-verbes-skill-sujet-verbe",
+        "ce2-present-verbes-skill-conjugaison"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-present-verbes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-present-verbes-revision_sheet",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-present-verbes"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Identifier le sujet d’un verbe et accorder le verbe avec lui.",
+        "Conjuguer être, avoir et les verbes en -er au présent.",
+        "Retrouver l’infinitif d’un verbe conjugué grâce au radical."
+      ],
+      "skill_ids": [
+        "ce2-present-verbes-skill-sujet-verbe",
+        "ce2-present-verbes-skill-conjugaison"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-present-verbes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-present-verbes-quiz",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-present-verbes"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Identifier le sujet d’un verbe et accorder le verbe avec lui.",
+        "Conjuguer être, avoir et les verbes en -er au présent.",
+        "Retrouver l’infinitif d’un verbe conjugué grâce au radical."
+      ],
+      "skill_ids": [
+        "ce2-present-verbes-skill-sujet-verbe",
+        "ce2-present-verbes-skill-conjugaison"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-present-verbes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-present-verbes-exercise",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-present-verbes"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Identifier le sujet d’un verbe et accorder le verbe avec lui.",
+        "Conjuguer être, avoir et les verbes en -er au présent.",
+        "Retrouver l’infinitif d’un verbe conjugué grâce au radical."
+      ],
+      "skill_ids": [
+        "ce2-present-verbes-skill-sujet-verbe",
+        "ce2-present-verbes-skill-conjugaison"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-present-verbes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-present-verbes-assessment",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-present-verbes"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Identifier le sujet d’un verbe et accorder le verbe avec lui.",
+        "Conjuguer être, avoir et les verbes en -er au présent.",
+        "Retrouver l’infinitif d’un verbe conjugué grâce au radical."
+      ],
+      "skill_ids": [
+        "ce2-present-verbes-skill-sujet-verbe",
+        "ce2-present-verbes-skill-conjugaison"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-present-verbes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-present-verbes-audio",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-present-verbes"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Identifier le sujet d’un verbe et accorder le verbe avec lui.",
+        "Conjuguer être, avoir et les verbes en -er au présent.",
+        "Retrouver l’infinitif d’un verbe conjugué grâce au radical."
+      ],
+      "skill_ids": [
+        "ce2-present-verbes-skill-sujet-verbe",
+        "ce2-present-verbes-skill-conjugaison"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-present-verbes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-present-verbes-assistant_explanation",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-present-verbes"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Identifier le sujet d’un verbe et accorder le verbe avec lui.",
+        "Conjuguer être, avoir et les verbes en -er au présent.",
+        "Retrouver l’infinitif d’un verbe conjugué grâce au radical."
+      ],
+      "skill_ids": [
+        "ce2-present-verbes-skill-sujet-verbe",
+        "ce2-present-verbes-skill-conjugaison"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-present-verbes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

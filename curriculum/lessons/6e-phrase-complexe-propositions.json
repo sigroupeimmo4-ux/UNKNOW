@@ -1,0 +1,126 @@
+{
+  "id": "6e-phrase-complexe-propositions",
+  "title": "La phrase complexe : propositions, juxtaposition, coordination et subordination",
+  "chapter_id": "6e-phrase-complexe-propositions",
+  "program_id": "6e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Compter les propositions d’une phrase à partir de ses verbes conjugués.",
+    "Distinguer phrase simple et phrase complexe.",
+    "Reconnaître la juxtaposition, la coordination et la subordination."
+  ],
+  "skill_ids": [
+    "6e-phrase-complexe-propositions-skill-proposition",
+    "6e-phrase-complexe-propositions-skill-articulation"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Se repérer dans la phrase complexe, page 20 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "La proposition",
+      "text": "Une proposition est un groupe de mots organisé autour d’un verbe conjugué. « Léa chante. » est une phrase simple : un seul verbe conjugué, donc une proposition. « Léa chante et Tom joue du piano. » est une phrase complexe : deux verbes conjugués (chante, joue), donc deux propositions. Attention : un verbe à l’infinitif ne compte pas. « Léa veut chanter » n’a qu’un verbe conjugué (veut) : c’est une phrase simple."
+    },
+    {
+      "title": "La juxtaposition",
+      "text": "Des propositions sont juxtaposées quand elles sont séparées par un signe de ponctuation (virgule, point-virgule, deux-points) sans mot de liaison. Exemple : « Il pleut, nous restons à la maison. » Les deux propositions sont côte à côte."
+    },
+    {
+      "title": "La coordination",
+      "text": "Des propositions sont coordonnées quand elles sont reliées par une conjonction de coordination : mais, ou, et, donc, or, ni, car. Exemple : « Il pleut mais nous sortons. » Les deux propositions sont au même niveau : on pourrait les écrire chacune comme une phrase."
+    },
+    {
+      "title": "La subordination",
+      "text": "Dans la subordination, une proposition dépend d’une autre : c’est la proposition subordonnée. Elle est introduite par une conjonction de subordination : que, quand, lorsque, parce que, puisque, si, comme… Exemple : « Nous restons à la maison parce qu’il pleut. » La proposition « parce qu’il pleut » ne peut pas se comprendre seule. Rôle des conjonctions : la conjonction de coordination relie deux propositions de même niveau ; la conjonction de subordination fait dépendre une proposition d’une autre."
+    }
+  ],
+  "revision_sheet": [
+    "Une proposition = un verbe conjugué. Phrase simple : 1 proposition ; phrase complexe : plusieurs.",
+    "Juxtaposition : propositions séparées par une ponctuation, sans mot de liaison.",
+    "Coordination : mais, ou, et, donc, or, ni, car.",
+    "Subordination : que, quand, lorsque, parce que, puisque, si, comme…"
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de propositions contient « Les enfants jouent dans la cour. » ?",
+      "choices": [
+        "2",
+        "1",
+        "3"
+      ],
+      "correct_index": 1,
+      "explanation": "Il n’y a qu’un verbe conjugué (jouent) : une seule proposition, c’est une phrase simple."
+    },
+    {
+      "prompt": "Comment les propositions de « Il fait beau, nous allons au parc. » sont-elles reliées ?",
+      "choices": [
+        "Par juxtaposition",
+        "Par coordination",
+        "Par subordination"
+      ],
+      "correct_index": 0,
+      "explanation": "Elles sont séparées par une virgule, sans mot de liaison : c’est une juxtaposition."
+    },
+    {
+      "prompt": "Quel mot introduit la proposition subordonnée dans « Je sors parce qu’il ne pleut plus » ?",
+      "choices": [
+        "et",
+        "parce que",
+        "sors"
+      ],
+      "correct_index": 1,
+      "explanation": "« Parce que » est une conjonction de subordination ; elle introduit « parce qu’il ne pleut plus »."
+    },
+    {
+      "prompt": "Combien de propositions contient « Tom lit et Léa dessine » ?",
+      "choices": [
+        "1",
+        "3",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "Deux verbes conjugués (lit, dessine) donc deux propositions, coordonnées par « et »."
+    },
+    {
+      "prompt": "Laquelle de ces conjonctions est une conjonction de coordination ?",
+      "choices": [
+        "quand",
+        "car",
+        "puisque"
+      ],
+      "correct_index": 1,
+      "explanation": "Car fait partie de mais, ou, et, donc, or, ni, car. Quand et puisque sont des conjonctions de subordination."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Compte les verbes conjugués et les propositions : « Je voudrais partir mais il est tard. » ; « Quand la cloche sonne, les élèves rentrent. »",
+      "solution": "Première phrase : « voudrais » et « est » sont conjugués (« partir » est à l’infinitif) : 2 propositions. Deuxième phrase : « sonne » et « rentrent » : 2 propositions.",
+      "success_criterion": "Ne pas compter l’infinitif ; compter uniquement les verbes conjugués."
+    },
+    {
+      "prompt": "À partir de « Il a froid. » et « Il met son manteau. », écris une phrase par juxtaposition, une par coordination et une par subordination.",
+      "solution": "Par exemple : « Il a froid, il met son manteau. » ; « Il a froid donc il met son manteau. » ; « Il met son manteau parce qu’il a froid. »",
+      "success_criterion": "Utiliser la ponctuation seule, une conjonction de coordination, puis une conjonction de subordination."
+    },
+    {
+      "prompt": "Indique le mode d’articulation : « Léa rit, Tom pleure. » ; « Léa rit car Tom a fait une grimace. » ; « Léa rit et Tom sourit. »",
+      "solution": "Juxtaposition (virgule) ; coordination (« car » est une conjonction de coordination) ; coordination (« et »).",
+      "success_criterion": "Repérer la présence ou l’absence d’une conjonction et sa nature."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Combien de propositions y a-t-il dans « Nous irons à la plage si le temps le permet. » ? Comment sont-elles reliées ?",
+      "solution": "Deux propositions (irons ; permet). Elles sont reliées par subordination : « si » est une conjonction de subordination.",
+      "success_criterion": "Compter les verbes conjugués et nommer la conjonction de subordination."
+    },
+    {
+      "prompt": "Le chien aboie, le chat s’enfuit. Comment sont reliées les propositions ? Récris la phrase avec une coordination.",
+      "solution": "Elles sont juxtaposées (virgule). Avec une coordination : « Le chien aboie et le chat s’enfuit. »",
+      "success_criterion": "Reconnaître la juxtaposition et ajouter une conjonction de coordination."
+    }
+  ],
+  "audio_transcript": "Une proposition est organisée autour d’un verbe conjugué. Une phrase simple contient une seule proposition. Une phrase complexe en contient plusieurs. Les propositions peuvent être juxtaposées, c’est-à-dire séparées par une virgule ou un point-virgule. Elles peuvent être coordonnées par mais, ou, et, donc, or, ni, car. Elles peuvent enfin être liées par subordination, avec une conjonction comme que, quand, parce que ou si. Dans ce cas, la proposition subordonnée dépend de l’autre. Pour compter les propositions, compte les verbes conjugués, et n’oublie pas qu’un infinitif ne compte pas.",
+  "guided_explanation": "Pour analyser une phrase, souligne d’abord tous les verbes conjugués. Chaque verbe conjugué annonce une proposition. Regarde ensuite ce qu’il y a entre elles. Une virgule seule : juxtaposition. Un petit mot comme mais, et, donc, car : coordination. Un mot comme parce que, quand, si, que : subordination. Essaie avec « Je reste parce qu’il pleut » : deux verbes (reste, pleut), le mot parce que introduit la proposition qui dépend de l’autre."
+}

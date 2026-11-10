@@ -1,0 +1,130 @@
+{
+  "id": "ce1-verbe-present",
+  "title": "Le verbe et sa conjugaison au présent",
+  "chapter_id": "ce1-verbe-present",
+  "program_id": "CE1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Relier un verbe à son sujet et trouver son infinitif.",
+    "Conjuguer un verbe du premier groupe au présent (radical + terminaison).",
+    "Conjuguer être et avoir au présent."
+  ],
+  "skill_ids": [
+    "ce1-verbe-present-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale (relation sujet-verbe, radical et terminaison, conjugaison), page 21 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le sujet et le verbe vont ensemble",
+      "text": "Le verbe change selon son sujet : « Le chat miaule. » mais « Les chats miaulent. » Pour trouver le sujet, on se demande « qui est-ce qui … ? ». Les pronoms sujets sont : je, tu, il/elle, nous, vous, ils/elles."
+    },
+    {
+      "title": "L’infinitif, le radical et la terminaison",
+      "text": "Le nom du verbe est son infinitif. Les verbes du premier groupe ont un infinitif en -er : chanter, jouer, regarder. Dans « nous chantons », on retrouve l’infinitif chanter. Chant- est le radical (il ne change pas) et -ons est la terminaison (elle change selon le sujet)."
+    },
+    {
+      "title": "Le présent des verbes du premier groupe",
+      "text": "On garde le radical et on ajoute la terminaison. Chanter : je chante, tu chantes, il/elle chante, nous chantons, vous chantez, ils/elles chantent. Les terminaisons sont : -e, -es, -e, -ons, -ez, -ent."
+    },
+    {
+      "title": "Être et avoir au présent",
+      "text": "Ces deux verbes très fréquents ne suivent pas la règle. Être : je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Avoir : j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont."
+    }
+  ],
+  "revision_sheet": [
+    "Le verbe s’accorde avec son sujet : le chat miaule, les chats miaulent.",
+    "Verbe du 1er groupe : infinitif en -er ; radical + terminaison.",
+    "Présent en -er : -e, -es, -e, -ons, -ez, -ent.",
+    "Être : suis, es, est, sommes, êtes, sont. Avoir : ai, as, a, avons, avez, ont."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est l’infinitif de « nous jouons » ?",
+      "choices": [
+        "jouons",
+        "joue",
+        "jouer"
+      ],
+      "correct_index": 2,
+      "explanation": "On retrouve le radical jou- et l’infinitif en -er : jouer."
+    },
+    {
+      "prompt": "Complète : « Les enfants (jouer) dans la cour. »",
+      "choices": [
+        "jouent",
+        "joue",
+        "jouons"
+      ],
+      "correct_index": 0,
+      "explanation": "Le sujet « Les enfants » correspond à ils : on écrit jouent."
+    },
+    {
+      "prompt": "Complète avec le verbe être : « Tu … content. »",
+      "choices": [
+        "est",
+        "es",
+        "êtes"
+      ],
+      "correct_index": 1,
+      "explanation": "Avec tu, le verbe être s’écrit es."
+    },
+    {
+      "prompt": "Complète avec le verbe avoir : « Nous … un chat. »",
+      "choices": [
+        "avons",
+        "avez",
+        "ont"
+      ],
+      "correct_index": 0,
+      "explanation": "Avec nous, le verbe avoir s’écrit avons."
+    },
+    {
+      "prompt": "Dans « Mes amis chantent fort. », quel est le sujet du verbe chantent ?",
+      "choices": [
+        "chantent",
+        "fort",
+        "Mes amis"
+      ],
+      "correct_index": 2,
+      "explanation": "On se demande qui chante : « Mes amis »."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Conjugue le verbe regarder au présent.",
+      "solution": "Je regarde, tu regardes, il regarde, nous regardons, vous regardez, ils regardent.",
+      "success_criterion": "Garder le radical regard- et mettre les six terminaisons correctes."
+    },
+    {
+      "prompt": "Donne l’infinitif : « elles dansent » ; « il marche » ; « vous chantez ».",
+      "solution": "danser ; marcher ; chanter.",
+      "success_criterion": "Retrouver l’infinitif en -er."
+    },
+    {
+      "prompt": "Complète avec être ou avoir : « Elle … fatiguée. » ; « Ils … deux chiens. » ; « Vous … en avance. »",
+      "solution": "Elle est fatiguée. Ils ont deux chiens. Vous êtes en avance.",
+      "success_criterion": "Choisir le bon verbe et la bonne forme."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Conjugue le verbe porter au présent avec « nous » et avec « ils ».",
+      "solution": "Nous portons ; ils portent.",
+      "success_criterion": "Écrire -ons avec nous et -ent avec ils sur le radical port-."
+    },
+    {
+      "prompt": "Écris les verbes au présent : « Mon frère (aimer) le chocolat. » ; « Les voitures (rouler) vite. »",
+      "solution": "Mon frère aime le chocolat. Les voitures roulent vite.",
+      "success_criterion": "Accorder le verbe avec son sujet (singulier -e, pluriel -ent)."
+    },
+    {
+      "prompt": "Explique pourquoi on écrit « Le chat miaule » mais « Les chats miaulent ».",
+      "solution": "Le sujet « Le chat » est singulier, le verbe prend -e. Le sujet « Les chats » est pluriel (ils), le verbe prend -ent.",
+      "success_criterion": "Relier la terminaison du verbe au sujet."
+    }
+  ],
+  "audio_transcript": "Un verbe change selon son sujet. Le chat miaule, mais les chats miaulent. L’infinitif d’un verbe du premier groupe se termine par er, comme chanter. Dans chantons, chant est le radical et ons est la terminaison. Au présent, les verbes en er prennent e, es, e, ons, ez, ent. Je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent. Les verbes être et avoir sont spéciaux. Je suis, tu es, il est, nous sommes, vous êtes, ils sont. J’ai, tu as, il a, nous avons, vous avez, ils ont.",
+  "guided_explanation": "Pour écrire un verbe correctement, suis trois étapes. Un : trouve le sujet en demandant « qui est-ce qui ? ». Dans « Les voitures roulent vite », ce sont les voitures. Deux : retrouve l’infinitif : rouler, un verbe en er. Trois : choisis la terminaison qui va avec le sujet. Les voitures, c’est ils : roul + ent. Si le sujet était « la voiture », ce serait elle : roul + e. Tu peux aussi remplacer le groupe sujet par un pronom pour vérifier."
+}

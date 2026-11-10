@@ -1,0 +1,123 @@
+{
+  "id": "5e-paroles-rapportees",
+  "title": "Paroles rapportées : discours direct et discours indirect",
+  "chapter_id": "5e-paroles-rapportees",
+  "program_id": "5e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer discours direct et discours indirect.",
+    "Ponctuer correctement des paroles au discours direct.",
+    "Repérer le verbe introducteur et l’incise.",
+    "Insérer un dialogue dans un récit."
+  ],
+  "skill_ids": [
+    "5e-paroles-rapportees-skill",
+    "5e-paroles-rapportees-inserer"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Analyser et employer des paroles rapportées, page 17 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Deux façons de rapporter des paroles",
+      "text": "Au discours direct, on reproduit les mots exacts de la personne : Léa dit : « J’ai faim. » On les reconnait aux guillemets ou, dans un dialogue, aux tirets, et à la ponctuation de la phrase prononcée. Au discours indirect, le narrateur raconte ce qui a été dit, sans guillemets : Léa dit qu’elle a faim. Les paroles forment alors une proposition qui dépend du verbe de parole (dire, demander, répondre, expliquer…) et qui est souvent introduite par « que », « si » ou un mot interrogatif."
+    },
+    {
+      "title": "Ponctuer le discours direct",
+      "text": "Avant les paroles, on met le plus souvent deux-points puis des guillemets ouvrants : Marc répond : « Je viens. » La phrase prononcée commence par une majuscule et garde sa ponctuation (point d’interrogation ou d’exclamation) : Léa demande : « Où est mon sac ? » Quand la partie qui indique qui parle est placée au milieu ou à la fin, c’est une incise, séparée par des virgules, et la phrase prononcée n’a pas de majuscule après l’incise : « Je rentre, dit Paul, car il est tard. » Dans un dialogue, on va à la ligne et on met un tiret à chaque changement de locuteur."
+    },
+    {
+      "title": "Insérer un dialogue dans un récit",
+      "text": "Pour rendre un récit vivant, on peut insérer des paroles. Exemple : Sam pousse la porte du grenier. — Qui est là ? demande-t-il. Personne ne répond. — Allez, montre-toi ! ajoute-t-il. Le verbe introducteur (demande, ajoute, répond, murmure, s’écrie…) précise la manière de parler. Après une incise avec un verbe et un pronom sujet, on met un trait d’union : demande-t-il. On varie les verbes introducteurs pour éviter de répéter « dit »."
+    },
+    {
+      "title": "Du direct à l’indirect : ce qui change",
+      "text": "Pour passer du discours direct au discours indirect, on supprime les guillemets et on adapte la phrase. Les pronoms changent : « J’ai faim », dit Léa devient Léa dit qu’elle a faim. Si le verbe de parole est au passé, le temps du verbe change aussi : Léa a dit qu’elle avait faim (présent → imparfait). Les mots qui indiquent le temps ou le lieu peuvent changer : « demain » devient « le lendemain ». Tu n’as pas besoin de tout maitriser : retiens surtout comment reconnaitre les deux types de discours."
+    }
+  ],
+  "revision_sheet": [
+    "Discours direct : les mots exacts, entre guillemets ou après un tiret (Léa dit : « J’ai faim. »).",
+    "Discours indirect : le narrateur raconte, sans guillemets, avec que / si… (Léa dit qu’elle a faim).",
+    "Ponctuation : deux-points, guillemets, majuscule ; incise entre virgules ; tiret et retour à la ligne pour changer de locuteur.",
+    "Le verbe introducteur (dire, demander, répondre, s’écrier…) indique qui parle et comment.",
+    "Passage au discours indirect : les pronoms changent, et le temps aussi si le verbe de parole est au passé."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle phrase est au discours direct ?",
+      "choices": [
+        "Paul annonce qu’il viendra demain.",
+        "Paul annonce : « Je viendrai demain. »",
+        "Paul annonce sa venue demain."
+      ],
+      "correct_index": 1,
+      "explanation": "Les mots exacts de Paul sont reproduits entre guillemets après deux-points : c’est le discours direct."
+    },
+    {
+      "prompt": "La phrase « Marie explique qu’elle est en retard » est au discours…",
+      "choices": [
+        "direct",
+        "indirect",
+        "ni l’un ni l’autre"
+      ],
+      "correct_index": 1,
+      "explanation": "Il n’y a pas de guillemets et les paroles sont introduites par « que » : c’est le discours indirect."
+    },
+    {
+      "prompt": "Quelle phrase est correctement ponctuée ?",
+      "choices": [
+        "Léa demande « où est mon sac. »",
+        "Léa demande : « Où est mon sac ? »",
+        "Léa demande où est mon sac ?"
+      ],
+      "correct_index": 1,
+      "explanation": "On met deux-points, des guillemets, une majuscule et le point d’interrogation de la phrase prononcée."
+    },
+    {
+      "prompt": "Comment dit-on « Je suis fatigué », dit Marc au discours indirect ?",
+      "choices": [
+        "Marc dit que je suis fatigué.",
+        "Marc dit qu’il est fatigué.",
+        "Marc dit : qu’il est fatigué."
+      ],
+      "correct_index": 1,
+      "explanation": "Le pronom « je » devient « il » et on supprime les guillemets : Marc dit qu’il est fatigué."
+    },
+    {
+      "prompt": "Dans un dialogue écrit, que fait-on quand un nouveau personnage prend la parole ?",
+      "choices": [
+        "On va à la ligne et on met un tiret",
+        "On met un point d’exclamation",
+        "On met seulement une virgule"
+      ],
+      "correct_index": 0,
+      "explanation": "Le retour à la ligne et le tiret indiquent le changement de locuteur."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Indique pour chaque phrase s’il s’agit du discours direct ou indirect. a) Tom répond : « Je n’ai pas compris. » b) Tom répond qu’il n’a pas compris. c) « Viens vite ! » crie Inès.",
+      "solution": "a) direct ; b) indirect ; c) direct.",
+      "success_criterion": "Repérer les guillemets ou la présence de « que »."
+    },
+    {
+      "prompt": "Mets au discours direct : Sam explique qu’il a perdu ses clés.",
+      "solution": "Sam explique : « J’ai perdu mes clés. »",
+      "success_criterion": "Remettre les mots à la première personne et ponctuer avec deux-points, guillemets et point final."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris un court dialogue de deux répliques entre deux amis qui se retrouvent à la sortie de l’école, avec la ponctuation du discours direct.",
+      "solution": "Exemple : Inès aperçoit Tom près du portail. — Tu as fini ton exposé ? demande-t-elle. — Oui, je le présente demain, répond Tom.",
+      "success_criterion": "Tirets, retours à la ligne, incises avec verbe de parole, ponctuation correcte."
+    },
+    {
+      "prompt": "Dans « Je rentre, dit Paul, car il est tard. », nomme l’incise et explique sa ponctuation.",
+      "solution": "L’incise est « dit Paul » : elle indique qui parle. Elle est encadrée par deux virgules et la suite de la phrase n’a pas de majuscule.",
+      "success_criterion": "Identifier l’incise et justifier virgules et absence de majuscule."
+    }
+  ],
+  "audio_transcript": "Il y a deux façons de rapporter des paroles. Au discours direct, on reproduit les mots exacts : Léa dit, deux-points, guillemets, j’ai faim. Au discours indirect, le narrateur raconte sans guillemets : Léa dit qu’elle a faim. Dans le discours direct, la phrase prononcée commence par une majuscule et garde son point d’interrogation ou d’exclamation. Dans un dialogue, on va à la ligne et on met un tiret chaque fois qu’une nouvelle personne parle. Le verbe introducteur, comme demander, répondre ou s’écrier, dit comment on parle.",
+  "guided_explanation": "Pour savoir si des paroles sont au discours direct ou indirect, cherche les guillemets et le mot « que ». S’il y a des guillemets ou des tirets, ce sont les mots exacts : discours direct. S’il n’y en a pas et que les paroles sont intégrées à la phrase avec « que » ou « si », c’est le discours indirect. Quand tu écris un dialogue, imagine une scène de théâtre : chaque fois qu’un acteur change, tu passes à la ligne avec un tiret. Entre les répliques, tu peux ajouter un verbe comme « murmure » ou « s’exclame » pour montrer le ton de la voix."
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ce1-types-de-phrases",
+  "title": "La phrase : types, formes négative et exclamative",
+  "chapter_id": "ce1-types-de-phrases",
+  "program_id": "CE1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaitre une phrase simple et repérer son groupe sujet et son verbe.",
+    "Distinguer les phrases déclarative, interrogative et impérative grâce au sens et à la ponctuation.",
+    "Transformer une phrase à la forme négative et écrire une phrase exclamative."
+  ],
+  "skill_ids": [
+    "ce1-types-de-phrases-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe — Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Qu’est-ce qu’une phrase simple ?",
+      "text": "Une phrase commence par une majuscule, se termine par un point (. ? !) et a un sens. Dans « Le petit chat dort sur le canapé. », le groupe sujet est « Le petit chat » (qui fait l’action), le verbe est « dort » et « sur le canapé » complète le verbe."
+    },
+    {
+      "title": "Les trois types de phrases",
+      "text": "La phrase déclarative donne une information et se termine souvent par un point : « Léa mange une pomme. » La phrase interrogative pose une question et se termine par un point d’interrogation : « Où est ton cartable ? » La phrase impérative donne un ordre ou un conseil : « Range ta chambre. »"
+    },
+    {
+      "title": "La forme négative et la phrase exclamative",
+      "text": "À la forme négative, on entoure le verbe avec ne … pas : « Le chat dort. » devient « Le chat ne dort pas. ». Devant une voyelle, ne devient n’ : « Il n’aime pas le chou. » La phrase exclamative exprime une émotion et se termine par un point d’exclamation : « Quel beau dessin ! »"
+    },
+    {
+      "title": "Transformer une phrase",
+      "text": "On peut changer une phrase sans changer ses mots principaux : « Tu viens au parc. » (déclarative) devient « Tu viens au parc ? » (interrogative) ou « Viens au parc ! » (impérative). On peut aussi déplacer un groupe : « Elle mange tous les jours à la cantine. » devient « Tous les jours, elle mange à la cantine. »"
+    }
+  ],
+  "revision_sheet": [
+    "Une phrase : majuscule au début, ponctuation à la fin, un sens.",
+    "Une phrase simple a un groupe sujet, un verbe et des compléments.",
+    "Déclarative : on informe. Interrogative : on questionne (?). Impérative : on ordonne ou conseille.",
+    "Négative : ne … pas autour du verbe. Exclamative : émotion, point d’exclamation (!)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est le type de la phrase « Où est ton cartable ? »",
+      "choices": [
+        "Déclarative",
+        "Interrogative",
+        "Impérative"
+      ],
+      "correct_index": 1,
+      "explanation": "C’est une question, avec un point d’interrogation : la phrase est interrogative."
+    },
+    {
+      "prompt": "Quel est le type de la phrase « Range ta chambre. » ?",
+      "choices": [
+        "Déclarative",
+        "Interrogative",
+        "Impérative"
+      ],
+      "correct_index": 2,
+      "explanation": "La phrase donne un ordre : elle est impérative."
+    },
+    {
+      "prompt": "Quelle phrase est à la forme négative ?",
+      "choices": [
+        "Le chien n’aboie pas.",
+        "Le chien aboie.",
+        "Le chien aboie fort !"
+      ],
+      "correct_index": 0,
+      "explanation": "On trouve « n’ … pas » autour du verbe aboie."
+    },
+    {
+      "prompt": "Une phrase commence par … et se termine par …",
+      "choices": [
+        "une minuscule … un mot",
+        "une majuscule … un point (., ? ou !)",
+        "un chiffre … une virgule"
+      ],
+      "correct_index": 1,
+      "explanation": "Une phrase commence par une majuscule et se termine par un point, un point d’interrogation ou un point d’exclamation."
+    },
+    {
+      "prompt": "Dans « Le petit chat dort sur le canapé. », quel est le groupe sujet ?",
+      "choices": [
+        "dort",
+        "sur le canapé",
+        "Le petit chat"
+      ],
+      "correct_index": 2,
+      "explanation": "Le groupe sujet dit qui dort : « Le petit chat »."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Recopie en ajoutant la majuscule et la ponctuation : les enfants jouent dans la cour",
+      "solution": "Les enfants jouent dans la cour.",
+      "success_criterion": "Ajouter une majuscule à « Les » et un point final."
+    },
+    {
+      "prompt": "Transforme à la forme négative : « Mon frère aime les épinards. »",
+      "solution": "Mon frère n’aime pas les épinards.",
+      "success_criterion": "Entourer le verbe avec n’ … pas."
+    },
+    {
+      "prompt": "Transforme en question : « Tu viens au parc. »",
+      "solution": "Tu viens au parc ? (ou : Est-ce que tu viens au parc ?)",
+      "success_criterion": "Terminer par un point d’interrogation."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Donne le type de chaque phrase : « Ferme la porte, s’il te plait. » ; « Pourquoi pleures-tu ? » ; « Il pleut. »",
+      "solution": "Ferme la porte, s’il te plait. : impérative. Pourquoi pleures-tu ? : interrogative. Il pleut. : déclarative.",
+      "success_criterion": "Reconnaitre les trois types avec la ponctuation et le sens."
+    },
+    {
+      "prompt": "Dans « Ma petite sœur mange une pomme. », trouve le groupe sujet, le verbe et le complément.",
+      "solution": "Groupe sujet : Ma petite sœur. Verbe : mange. Complément : une pomme.",
+      "success_criterion": "Repérer les trois constituants sans les confondre."
+    },
+    {
+      "prompt": "Écris une phrase exclamative de ton choix.",
+      "solution": "Exemple : « Quel beau dessin ! »",
+      "success_criterion": "La phrase a une majuscule, un sens et se termine par un point d’exclamation."
+    }
+  ],
+  "audio_transcript": "Une phrase commence par une majuscule, se termine par un point et a un sens. Elle contient un groupe sujet et un verbe. Il existe trois types de phrases. La phrase déclarative donne une information. La phrase interrogative pose une question et se termine par un point d’interrogation. La phrase impérative donne un ordre ou un conseil. On peut aussi écrire une phrase à la forme négative avec ne et pas autour du verbe, ou une phrase exclamative qui exprime une émotion.",
+  "guided_explanation": "Prends la phrase « Le chat dort. ». Pour trouver le verbe, demande-toi quel mot change si on parle d’hier : « Le chat dormait. » C’est donc dormir. Pour trouver le groupe sujet, pose la question « qui est-ce qui dort ? » : le chat. Maintenant, joue avec la phrase. Négative : « Le chat ne dort pas. » Interrogative : « Le chat dort-il ? » ou « Est-ce que le chat dort ? » Impérative : « Dors, petit chat. » À chaque fois, vérifie la majuscule et la ponctuation finale."
+}
