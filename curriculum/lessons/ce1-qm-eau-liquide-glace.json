@@ -1,0 +1,131 @@
+{
+  "id": "ce1-qm-eau-liquide-glace",
+  "title": "L’eau liquide et la glace",
+  "chapter_id": "ce1-qm-eau-liquide-glace",
+  "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer l’eau liquide et la glace par leurs propriétés.",
+    "Nommer et expliquer la solidification et la fusion de l’eau.",
+    "Reconnaître de l’eau liquide ou solide dans des phénomènes de la vie quotidienne."
+  ],
+  "skill_ids": [
+    "ce1-qm-eau-liquide-glace-skill"
+  ],
+  "source_locators": [
+    "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+  ],
+  "course": [
+    {
+      "title": "L’eau liquide",
+      "text": "L’eau du robinet, de la pluie ou d’une rivière est de l’eau liquide. Elle coule et on ne peut pas la tenir dans la main sans récipient. Elle prend la forme du récipient où on la verse : un verre, une bouteille ou une bassine."
+    },
+    {
+      "title": "La glace : de l’eau solide",
+      "text": "Un glaçon est de l’eau à l’état solide. Il est dur et il garde sa forme. La neige et la grêle sont aussi de l’eau à l’état solide. Dans la nature, la glace se trouve par exemple sur les glaciers et sur la banquise."
+    },
+    {
+      "title": "Quand l’eau gèle : la solidification",
+      "text": "Quand on met de l’eau liquide dans un congélateur, elle devient de la glace : on dit qu’elle se solidifie. Cela arrive quand il fait très froid, à 0 degré Celsius ou moins. Une flaque peut geler en hiver."
+    },
+    {
+      "title": "Quand la glace fond : la fusion",
+      "text": "Quand on sort un glaçon du congélateur, il devient de l’eau liquide : on dit qu’il fond. C’est la fusion. Elle arrive quand la glace se réchauffe. Le glaçon fond plus vite au soleil ou dans la main que dans un endroit froid. Après la fusion, c’est toujours de l’eau, mais liquide."
+    }
+  ],
+  "revision_sheet": [
+    "L’eau liquide coule et prend la forme du récipient.",
+    "La glace est de l’eau solide : elle est dure et garde sa forme.",
+    "Solidification : l’eau liquide devient glace quand il fait très froid.",
+    "Fusion : la glace devient de l’eau liquide quand elle se réchauffe.",
+    "La pluie est de l’eau liquide ; la neige, la grêle et la glace sont de l’eau solide."
+  ],
+  "quiz": [
+    {
+      "prompt": "Comment dit-on quand l’eau liquide devient de la glace ?",
+      "choices": [
+        "Elle fond",
+        "Elle se solidifie",
+        "Elle coule"
+      ],
+      "correct_index": 1,
+      "explanation": "L’eau liquide qui devient de la glace se solidifie : c’est la solidification."
+    },
+    {
+      "prompt": "Que devient un glaçon posé dans une pièce chaude ?",
+      "choices": [
+        "Il fond et devient de l’eau liquide",
+        "Il devient plus dur",
+        "Il reste toujours pareil"
+      ],
+      "correct_index": 0,
+      "explanation": "La glace se réchauffe, alors elle fond : c’est la fusion."
+    },
+    {
+      "prompt": "Quelle phrase est vraie ?",
+      "choices": [
+        "La glace coule comme l’eau",
+        "L’eau liquide prend la forme de son récipient",
+        "L’eau liquide est dure"
+      ],
+      "correct_index": 1,
+      "explanation": "L’eau liquide prend la forme de son récipient. La glace est dure et garde sa forme."
+    },
+    {
+      "prompt": "Laquelle de ces choses est de l’eau liquide ?",
+      "choices": [
+        "La pluie",
+        "La grêle",
+        "La neige"
+      ],
+      "correct_index": 0,
+      "explanation": "La pluie est de l’eau liquide. La grêle et la neige sont de l’eau solide."
+    },
+    {
+      "prompt": "Quand l’eau liquide gèle-t-elle ?",
+      "choices": [
+        "Quand il fait très chaud",
+        "À 0 degré Celsius ou moins",
+        "À 20 degrés Celsius"
+      ],
+      "correct_index": 1,
+      "explanation": "L’eau gèle quand la température est de 0 degré Celsius ou moins."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Un glaçon est posé sur une assiette. Que se passe-t-il après quelques minutes ? Comment s’appelle ce changement ?",
+      "solution": "Le glaçon fond et devient de l’eau liquide. C’est la fusion.",
+      "success_criterion": "Dire que le glaçon devient de l’eau liquide et nommer la fusion."
+    },
+    {
+      "prompt": "Classe : pluie, glaçon, neige, eau du robinet. Quelles sont de l’eau liquide ? de l’eau solide ?",
+      "solution": "Eau liquide : pluie, eau du robinet. Eau solide : glaçon, neige.",
+      "success_criterion": "Classer correctement les quatre exemples."
+    },
+    {
+      "prompt": "On met un verre d’eau dans le congélateur. Que va-t-il arriver ? Comment s’appelle ce changement ?",
+      "solution": "L’eau devient de la glace. C’est la solidification.",
+      "success_criterion": "Dire que l’eau devient glace et nommer la solidification."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique la différence entre l’eau liquide et la glace en deux phrases.",
+      "solution": "L’eau liquide coule et prend la forme de son récipient. La glace est dure et garde sa forme.",
+      "success_criterion": "Donner une propriété de chaque état."
+    },
+    {
+      "prompt": "Hiver : une flaque est gelée le matin. Au milieu de la journée, il y a de l’eau à la place. Explique ce qui s’est passé.",
+      "solution": "Il faisait très froid la nuit, donc l’eau s’est solidifiée en glace. Dans la journée, il a fait plus chaud, donc la glace a fondu.",
+      "success_criterion": "Utiliser les idées de solidification et de fusion avec le froid et le chaud."
+    },
+    {
+      "prompt": "Donne un exemple de glace dans la nature.",
+      "solution": "La banquise, un glacier ou de la grêle.",
+      "success_criterion": "Citer un exemple correct de glace naturelle."
+    }
+  ],
+  "audio_transcript": "L’eau existe sous plusieurs formes. L’eau liquide coule et prend la forme de son récipient. La glace est de l’eau solide : elle est dure et garde sa forme. Quand l’eau liquide devient de la glace, on dit qu’elle se solidifie. Cela arrive quand il fait très froid, à zéro degré ou moins. Quand la glace devient de l’eau liquide, on dit qu’elle fond. La pluie est de l’eau liquide, tandis que la neige et la grêle sont de l’eau solide.",
+  "guided_explanation": "Mets un glaçon dans une assiette et regarde-le toutes les minutes. Au début, il est dur. Puis il devient tout humide, puis il se transforme en eau liquide : c’est la fusion. Tu peux dire : le glaçon était de l’eau solide, maintenant c’est de l’eau liquide. Pour l’inverse, on peut mettre de l’eau dans un petit récipient au congélateur. Quand l’eau devient de la glace, c’est la solidification. Dans les deux cas, c’est toujours de l’eau : seul son état change."
+}

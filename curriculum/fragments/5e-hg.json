@@ -1,0 +1,698 @@
+{
+  "programs": [
+    {
+      "id": "5e-histoire-geographie-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "5e",
+      "subject_id": "histoire-geographie-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/89/1/ensel714_annexe3_1312891.pdf",
+        "title": "Histoire-géographie",
+        "text_reference": "Histoire-géographie (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "16efa795f59f25f726e3f443934198e22c01fad04e1ba78a01ed10a11a3a14eb",
+        "source_id": "6f0365b6a54fc983"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "5e-hg-histoire",
+          "title": "Histoire : le Moyen Âge (classe de 5e)",
+          "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e, pages 81-82 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "5e-hg-islam-monde-musulman",
+              "title": "La naissance de l’islam et le monde musulman jusqu’à la prise de Bagdad (1258)",
+              "title_type": "editorial",
+              "official_section": "Thème 1 – Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact : de la naissance de l’islam à la prise de Bagdad par les Mongols",
+              "notions": [
+                "Naissance de l’islam et Hégire",
+                "Calife : fonction et pouvoir",
+                "Califats omeyyade et abbasside",
+                "Bagdad, ville de savoir et d’échanges",
+                "Prise de Bagdad par les Mongols (1258)"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-hg-islam-monde-musulman-knowledge",
+                  "text": "L’islam naît au VIIe siècle en Arabie ; des califes dirigent ensuite un vaste empire dont Bagdad devient un grand centre de pouvoir, de commerce et de savoir, jusqu’à sa prise par les Mongols en 1258.",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-hg-islam-monde-musulman-skill",
+                  "text": "Décrire les pouvoirs, les sociétés et les cultures du monde musulman, de la naissance de l’islam à la prise de Bagdad par les Mongols.",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-hg-islam-monde-musulman-timeline",
+                  "text": "Situer des faits dans une période donnée et les ordonner les uns par rapport aux autres sur une frise chronologique.",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF)."
+            },
+            {
+              "id": "5e-hg-ordre-seigneurial",
+              "title": "L’ordre seigneurial : seigneurs et paysans dans les campagnes",
+              "title_type": "editorial",
+              "official_section": "Thème 2 – Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) : l’ordre seigneurial, la formation et la domination des campagnes",
+              "notions": [
+                "Seigneur laïc et ecclésiastique",
+                "Château fort",
+                "Seigneurie : réserve et tenures",
+                "Redevances, corvées, banalités et dîme",
+                "Paysans libres et serfs",
+                "Défrichements"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-hg-ordre-seigneurial-knowledge",
+                  "text": "Dans l’Occident médiéval, les campagnes sont dominées par des seigneurs, laïcs ou ecclésiastiques, qui font travailler les paysans et en reçoivent des redevances ; les terres cultivées s’étendent grâce aux défrichements.",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-hg-ordre-seigneurial-skill",
+                  "text": "Décrire l’organisation d’une seigneurie et les liens entre seigneurs et paysans dans les campagnes de l’occident féodal.",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-hg-ordre-seigneurial-timeline",
+                  "text": "Situer un fait dans une époque ou une période donnée (Moyen Âge, XIe-XIIIe siècles).",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "5e-hg-geographie",
+          "title": "Géographie : la question démographique (classe de 5e)",
+          "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e, pages 86-87 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "5e-hg-croissance-demographique",
+              "title": "La croissance démographique et ses effets",
+              "title_type": "editorial",
+              "official_section": "Thème 1 – La question démographique et l’inégal développement : la croissance démographique et ses effets",
+              "notions": [
+                "Population mondiale et croissance démographique",
+                "Natalité, mortalité et croissance naturelle",
+                "Évolutions différentes selon les pays (Chine, Inde, Afrique, Europe, États-Unis)",
+                "Vieillissement de la population",
+                "Effets de la croissance : alimentation et santé",
+                "Objectifs de développement durable de l’ONU (ODD 2 et 3)"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-hg-croissance-demographique-knowledge",
+                  "text": "La population mondiale a fortement augmenté depuis le XIXe siècle ; cette croissance est inégale selon les pays et pose, surtout dans les pays en développement et en émergence, la question de l’accès de tous à l’alimentation et à la santé, que les objectifs de développement durable de l’ONU cherchent à traiter.",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-hg-croissance-demographique-skill",
+                  "text": "Décrire l’évolution de la population mondiale et comparer la question démographique dans des pays différents (puissance émergente, Afrique, États-Unis, Europe).",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-hg-croissance-demographique-space",
+                  "text": "Lire une carte ou un graphique pour repérer les inégalités de répartition et de croissance de la population dans le monde.",
+                  "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "5e-hg-islam-monde-musulman-course",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-islam-monde-musulman"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Situer la naissance de l’islam (Arabie, VIIe siècle) et expliquer ce qu’est l’Hégire.",
+        "Expliquer ce qu’est un calife et distinguer les califats omeyyade (Damas) et abbasside (Bagdad).",
+        "Décrire Bagdad comme un lieu d’échanges et de savoirs et situer sa prise par les Mongols en 1258."
+      ],
+      "skill_ids": [
+        "5e-hg-islam-monde-musulman-skill",
+        "5e-hg-islam-monde-musulman-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-islam-monde-musulman.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-islam-monde-musulman-revision_sheet",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-islam-monde-musulman"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Situer la naissance de l’islam (Arabie, VIIe siècle) et expliquer ce qu’est l’Hégire.",
+        "Expliquer ce qu’est un calife et distinguer les califats omeyyade (Damas) et abbasside (Bagdad).",
+        "Décrire Bagdad comme un lieu d’échanges et de savoirs et situer sa prise par les Mongols en 1258."
+      ],
+      "skill_ids": [
+        "5e-hg-islam-monde-musulman-skill",
+        "5e-hg-islam-monde-musulman-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-islam-monde-musulman.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-islam-monde-musulman-quiz",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-islam-monde-musulman"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Situer la naissance de l’islam (Arabie, VIIe siècle) et expliquer ce qu’est l’Hégire.",
+        "Expliquer ce qu’est un calife et distinguer les califats omeyyade (Damas) et abbasside (Bagdad).",
+        "Décrire Bagdad comme un lieu d’échanges et de savoirs et situer sa prise par les Mongols en 1258."
+      ],
+      "skill_ids": [
+        "5e-hg-islam-monde-musulman-skill",
+        "5e-hg-islam-monde-musulman-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-islam-monde-musulman.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-islam-monde-musulman-exercise",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-islam-monde-musulman"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Situer la naissance de l’islam (Arabie, VIIe siècle) et expliquer ce qu’est l’Hégire.",
+        "Expliquer ce qu’est un calife et distinguer les califats omeyyade (Damas) et abbasside (Bagdad).",
+        "Décrire Bagdad comme un lieu d’échanges et de savoirs et situer sa prise par les Mongols en 1258."
+      ],
+      "skill_ids": [
+        "5e-hg-islam-monde-musulman-skill",
+        "5e-hg-islam-monde-musulman-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-islam-monde-musulman.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-islam-monde-musulman-assessment",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-islam-monde-musulman"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Situer la naissance de l’islam (Arabie, VIIe siècle) et expliquer ce qu’est l’Hégire.",
+        "Expliquer ce qu’est un calife et distinguer les califats omeyyade (Damas) et abbasside (Bagdad).",
+        "Décrire Bagdad comme un lieu d’échanges et de savoirs et situer sa prise par les Mongols en 1258."
+      ],
+      "skill_ids": [
+        "5e-hg-islam-monde-musulman-skill",
+        "5e-hg-islam-monde-musulman-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-islam-monde-musulman.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-islam-monde-musulman-audio",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-islam-monde-musulman"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Situer la naissance de l’islam (Arabie, VIIe siècle) et expliquer ce qu’est l’Hégire.",
+        "Expliquer ce qu’est un calife et distinguer les califats omeyyade (Damas) et abbasside (Bagdad).",
+        "Décrire Bagdad comme un lieu d’échanges et de savoirs et situer sa prise par les Mongols en 1258."
+      ],
+      "skill_ids": [
+        "5e-hg-islam-monde-musulman-skill",
+        "5e-hg-islam-monde-musulman-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-islam-monde-musulman.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-islam-monde-musulman-assistant_explanation",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-islam-monde-musulman"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Situer la naissance de l’islam (Arabie, VIIe siècle) et expliquer ce qu’est l’Hégire.",
+        "Expliquer ce qu’est un calife et distinguer les califats omeyyade (Damas) et abbasside (Bagdad).",
+        "Décrire Bagdad comme un lieu d’échanges et de savoirs et situer sa prise par les Mongols en 1258."
+      ],
+      "skill_ids": [
+        "5e-hg-islam-monde-musulman-skill",
+        "5e-hg-islam-monde-musulman-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-islam-monde-musulman.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-ordre-seigneurial-course",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-ordre-seigneurial"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Décrire une seigneurie (château, réserve, tenures) et le rôle du seigneur.",
+        "Distinguer les principales obligations des paysans : cens, champart, corvées, banalités, dîme.",
+        "Expliquer comment les défrichements et de nouvelles techniques agrandissent les terres cultivées."
+      ],
+      "skill_ids": [
+        "5e-hg-ordre-seigneurial-skill",
+        "5e-hg-ordre-seigneurial-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-ordre-seigneurial.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-ordre-seigneurial-revision_sheet",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-ordre-seigneurial"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Décrire une seigneurie (château, réserve, tenures) et le rôle du seigneur.",
+        "Distinguer les principales obligations des paysans : cens, champart, corvées, banalités, dîme.",
+        "Expliquer comment les défrichements et de nouvelles techniques agrandissent les terres cultivées."
+      ],
+      "skill_ids": [
+        "5e-hg-ordre-seigneurial-skill",
+        "5e-hg-ordre-seigneurial-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-ordre-seigneurial.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-ordre-seigneurial-quiz",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-ordre-seigneurial"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Décrire une seigneurie (château, réserve, tenures) et le rôle du seigneur.",
+        "Distinguer les principales obligations des paysans : cens, champart, corvées, banalités, dîme.",
+        "Expliquer comment les défrichements et de nouvelles techniques agrandissent les terres cultivées."
+      ],
+      "skill_ids": [
+        "5e-hg-ordre-seigneurial-skill",
+        "5e-hg-ordre-seigneurial-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-ordre-seigneurial.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-ordre-seigneurial-exercise",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-ordre-seigneurial"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Décrire une seigneurie (château, réserve, tenures) et le rôle du seigneur.",
+        "Distinguer les principales obligations des paysans : cens, champart, corvées, banalités, dîme.",
+        "Expliquer comment les défrichements et de nouvelles techniques agrandissent les terres cultivées."
+      ],
+      "skill_ids": [
+        "5e-hg-ordre-seigneurial-skill",
+        "5e-hg-ordre-seigneurial-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-ordre-seigneurial.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-ordre-seigneurial-assessment",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-ordre-seigneurial"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Décrire une seigneurie (château, réserve, tenures) et le rôle du seigneur.",
+        "Distinguer les principales obligations des paysans : cens, champart, corvées, banalités, dîme.",
+        "Expliquer comment les défrichements et de nouvelles techniques agrandissent les terres cultivées."
+      ],
+      "skill_ids": [
+        "5e-hg-ordre-seigneurial-skill",
+        "5e-hg-ordre-seigneurial-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-ordre-seigneurial.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-ordre-seigneurial-audio",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-ordre-seigneurial"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Décrire une seigneurie (château, réserve, tenures) et le rôle du seigneur.",
+        "Distinguer les principales obligations des paysans : cens, champart, corvées, banalités, dîme.",
+        "Expliquer comment les défrichements et de nouvelles techniques agrandissent les terres cultivées."
+      ],
+      "skill_ids": [
+        "5e-hg-ordre-seigneurial-skill",
+        "5e-hg-ordre-seigneurial-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-ordre-seigneurial.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-ordre-seigneurial-assistant_explanation",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-ordre-seigneurial"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Décrire une seigneurie (château, réserve, tenures) et le rôle du seigneur.",
+        "Distinguer les principales obligations des paysans : cens, champart, corvées, banalités, dîme.",
+        "Expliquer comment les défrichements et de nouvelles techniques agrandissent les terres cultivées."
+      ],
+      "skill_ids": [
+        "5e-hg-ordre-seigneurial-skill",
+        "5e-hg-ordre-seigneurial-timeline"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-ordre-seigneurial.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-croissance-demographique-course",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-croissance-demographique"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Expliquer la croissance de la population mondiale et la calculer à l’aide de la natalité et de la mortalité.",
+        "Comparer la situation démographique de pays différents (Chine, Inde, Afrique, Europe, États-Unis).",
+        "Relier croissance démographique, alimentation et santé, et citer deux objectifs de développement durable (ODD 2 et ODD 3)."
+      ],
+      "skill_ids": [
+        "5e-hg-croissance-demographique-skill",
+        "5e-hg-croissance-demographique-space"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-croissance-demographique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-croissance-demographique-revision_sheet",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-croissance-demographique"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Expliquer la croissance de la population mondiale et la calculer à l’aide de la natalité et de la mortalité.",
+        "Comparer la situation démographique de pays différents (Chine, Inde, Afrique, Europe, États-Unis).",
+        "Relier croissance démographique, alimentation et santé, et citer deux objectifs de développement durable (ODD 2 et ODD 3)."
+      ],
+      "skill_ids": [
+        "5e-hg-croissance-demographique-skill",
+        "5e-hg-croissance-demographique-space"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-croissance-demographique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-croissance-demographique-quiz",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-croissance-demographique"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Expliquer la croissance de la population mondiale et la calculer à l’aide de la natalité et de la mortalité.",
+        "Comparer la situation démographique de pays différents (Chine, Inde, Afrique, Europe, États-Unis).",
+        "Relier croissance démographique, alimentation et santé, et citer deux objectifs de développement durable (ODD 2 et ODD 3)."
+      ],
+      "skill_ids": [
+        "5e-hg-croissance-demographique-skill",
+        "5e-hg-croissance-demographique-space"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-croissance-demographique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-croissance-demographique-exercise",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-croissance-demographique"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Expliquer la croissance de la population mondiale et la calculer à l’aide de la natalité et de la mortalité.",
+        "Comparer la situation démographique de pays différents (Chine, Inde, Afrique, Europe, États-Unis).",
+        "Relier croissance démographique, alimentation et santé, et citer deux objectifs de développement durable (ODD 2 et ODD 3)."
+      ],
+      "skill_ids": [
+        "5e-hg-croissance-demographique-skill",
+        "5e-hg-croissance-demographique-space"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-croissance-demographique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-croissance-demographique-assessment",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-croissance-demographique"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Expliquer la croissance de la population mondiale et la calculer à l’aide de la natalité et de la mortalité.",
+        "Comparer la situation démographique de pays différents (Chine, Inde, Afrique, Europe, États-Unis).",
+        "Relier croissance démographique, alimentation et santé, et citer deux objectifs de développement durable (ODD 2 et ODD 3)."
+      ],
+      "skill_ids": [
+        "5e-hg-croissance-demographique-skill",
+        "5e-hg-croissance-demographique-space"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-croissance-demographique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-croissance-demographique-audio",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-croissance-demographique"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Expliquer la croissance de la population mondiale et la calculer à l’aide de la natalité et de la mortalité.",
+        "Comparer la situation démographique de pays différents (Chine, Inde, Afrique, Europe, États-Unis).",
+        "Relier croissance démographique, alimentation et santé, et citer deux objectifs de développement durable (ODD 2 et ODD 3)."
+      ],
+      "skill_ids": [
+        "5e-hg-croissance-demographique-skill",
+        "5e-hg-croissance-demographique-space"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-croissance-demographique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-hg-croissance-demographique-assistant_explanation",
+      "program_id": "5e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-hg-croissance-demographique"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Expliquer la croissance de la population mondiale et la calculer à l’aide de la natalité et de la mortalité.",
+        "Comparer la situation démographique de pays différents (Chine, Inde, Afrique, Europe, États-Unis).",
+        "Relier croissance démographique, alimentation et santé, et citer deux objectifs de développement durable (ODD 2 et ODD 3)."
+      ],
+      "skill_ids": [
+        "5e-hg-croissance-demographique-skill",
+        "5e-hg-croissance-demographique-space"
+      ],
+      "source_locators": [
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF).",
+        "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-hg-croissance-demographique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ce1-qm-jours-mois-heures",
+  "title": "Le temps qui passe : jours, mois et heures",
+  "chapter_id": "ce1-qm-jours-mois-heures",
+  "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Retrouver l’ordre des jours de la semaine, des mois et des saisons.",
+    "Savoir qu’une semaine a 7 jours, une année 12 mois, un jour 24 heures, une heure 60 minutes.",
+    "Lire une date sur un calendrier et situer un événement avant ou après un autre."
+  ],
+  "skill_ids": [
+    "ce1-qm-jours-mois-heures-skill"
+  ],
+  "source_locators": [
+    "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le jour et la nuit",
+      "text": "Chaque jour est suivi d’une nuit, puis d’un nouveau jour. Cela se répète sans arrêt : on dit que le temps est cyclique. Les jours se répètent en semaines, les semaines forment des mois, et les mois forment une année."
+    },
+    {
+      "title": "La semaine, les mois et les saisons",
+      "text": "Une semaine a 7 jours : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche. Une année a 12 mois, de janvier à décembre. Un mois a 28, 29, 30 ou 31 jours. Il y a 4 saisons qui se suivent dans cet ordre : le printemps, l’été, l’automne et l’hiver. Après l’hiver, le printemps revient."
+    },
+    {
+      "title": "Heures, minutes et secondes",
+      "text": "Une journée compte 24 heures. Une heure compte 60 minutes, et une minute compte 60 secondes. Sur une horloge à aiguilles, la petite aiguille montre les heures et la grande aiguille montre les minutes. Une horloge digitale affiche les chiffres, par exemple 9 : 30."
+    },
+    {
+      "title": "Avant, après, pendant",
+      "text": "Un calendrier sert à retrouver la date d’un événement. Pour ranger des événements, on dit qu’ils sont avant, après ou pendant un autre. Exemple : le petit-déjeuner est avant l’école, et la récréation est pendant la journée d’école. Le temps qui passe ne revient pas en arrière."
+    }
+  ],
+  "revision_sheet": [
+    "Le jour et la nuit se répètent, la semaine aussi : c’est un cycle.",
+    "1 semaine = 7 jours ; 1 année = 12 mois.",
+    "Les 4 saisons : printemps, été, automne, hiver.",
+    "1 jour = 24 heures ; 1 heure = 60 minutes ; 1 minute = 60 secondes.",
+    "Avant, après, pendant : ces mots aident à ranger des événements."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien y a-t-il de jours dans une semaine ?",
+      "choices": [
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "Une semaine compte 7 jours, du lundi au dimanche."
+    },
+    {
+      "prompt": "Quel jour vient juste après mardi ?",
+      "choices": [
+        "lundi",
+        "mercredi",
+        "jeudi"
+      ],
+      "correct_index": 1,
+      "explanation": "Dans l’ordre : lundi, mardi, mercredi. Le jour après mardi est mercredi."
+    },
+    {
+      "prompt": "Combien y a-t-il de mois dans une année ?",
+      "choices": [
+        "7",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "Une année a 12 mois, de janvier à décembre."
+    },
+    {
+      "prompt": "Quelle saison vient juste après l’été ?",
+      "choices": [
+        "l’automne",
+        "le printemps",
+        "l’hiver"
+      ],
+      "correct_index": 0,
+      "explanation": "Les saisons se suivent : printemps, été, automne, hiver."
+    },
+    {
+      "prompt": "Combien de minutes y a-t-il dans une heure ?",
+      "choices": [
+        "24",
+        "60",
+        "100"
+      ],
+      "correct_index": 1,
+      "explanation": "Une heure dure 60 minutes."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris les 7 jours de la semaine dans l’ordre.",
+      "solution": "Lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche.",
+      "success_criterion": "Écrire les 7 jours dans le bon ordre."
+    },
+    {
+      "prompt": "Complète : il y a ... heures dans une journée et ... minutes dans une heure.",
+      "solution": "Il y a 24 heures dans une journée et 60 minutes dans une heure.",
+      "success_criterion": "Trouver 24 et 60."
+    },
+    {
+      "prompt": "Range dans l’ordre : je mange à midi, je me lève, je me couche.",
+      "solution": "Je me lève, je mange à midi, je me couche.",
+      "success_criterion": "Ranger les trois événements dans l’ordre d’une journée."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris les quatre saisons dans l’ordre en commençant par le printemps.",
+      "solution": "Le printemps, l’été, l’automne, l’hiver.",
+      "success_criterion": "Écrire les quatre saisons dans le bon ordre."
+    },
+    {
+      "prompt": "Aujourd’hui nous sommes jeudi. Quel jour était-ce hier ? Quel jour sera-ce demain ?",
+      "solution": "Hier, c’était mercredi. Demain, ce sera vendredi.",
+      "success_criterion": "Trouver mercredi et vendredi."
+    },
+    {
+      "prompt": "Une récréation dure 15 minutes. Est-ce plus long ou plus court qu’une heure ? Explique.",
+      "solution": "C’est plus court : une heure dure 60 minutes et 15 est plus petit que 60.",
+      "success_criterion": "Comparer 15 minutes et 60 minutes."
+    }
+  ],
+  "audio_transcript": "Le jour et la nuit se suivent et se répètent. Une semaine a sept jours : lundi, mardi, mercredi, jeudi, vendredi, samedi et dimanche. Une année a douze mois et quatre saisons : le printemps, l’été, l’automne et l’hiver. Une journée a vingt-quatre heures, une heure a soixante minutes, et une minute a soixante secondes. Pour ranger des événements, on dit qu’ils ont lieu avant, après ou pendant un autre.",
+  "guided_explanation": "Prends ton emploi du temps d’une journée. Écris trois choses que tu fais : te lever, aller à l’école, te coucher. Mets-les dans l’ordre avec les mots avant et après. Regarde ensuite le calendrier : trouve le jour d’aujourd’hui, puis le jour d’hier et le jour de demain. Compte les jours de la semaine avec tes doigts : il y en a 7. Puis regarde une horloge : la petite aiguille montre les heures et la grande les minutes. Une heure, c’est 60 minutes."
+}

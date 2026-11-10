@@ -1,0 +1,133 @@
+{
+  "id": "ce2-qm-espace-cartes",
+  "title": "Se repérer dans l’espace : positions, plans et cartes",
+  "chapter_id": "ce2-qm-espace-cartes",
+  "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Utiliser le vocabulaire de position et de déplacement pour situer un objet ou décrire un trajet.",
+    "Nommer les quatre éléments d’une carte (titre, échelle, orientation, légende) et dire à quoi ils servent.",
+    "Situer la France, l’Europe et les autres continents sur un globe ou un planisphère."
+  ],
+  "skill_ids": [
+    "ce2-qm-espace-cartes-skill-position",
+    "ce2-qm-espace-cartes-skill-carte",
+    "ce2-qm-espace-cartes-skill-globe"
+  ],
+  "source_locators": [
+    "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Dire où se trouve quelque chose",
+      "text": "Pour expliquer où est un objet, on le compare à un autre repère. Ton cahier est à gauche de ta trousse, ou au-dessus de ton sac, ou derrière ton voisin. Voici des mots utiles : gauche, droite, au-dessus, en dessous, devant, derrière, près, loin. Pour décrire un déplacement, on dit : avancer, reculer, tourner à droite, tourner à gauche, monter, descendre. Avec ces mots, on peut expliquer un trajet, par exemple de la porte de la classe à la cour."
+    },
+    {
+      "title": "Les points cardinaux",
+      "text": "Pour se repérer dans un grand espace, on utilise quatre directions : le nord, le sud, l’est et l’ouest. On les appelle les points cardinaux. Le Soleil se lève à peu près à l’est et se couche à peu près à l’ouest. Une boussole a une aiguille qui montre le nord. Si tu regardes vers le nord, ta main droite est du côté de l’est et ta main gauche du côté de l’ouest."
+    },
+    {
+      "title": "Lire un plan et une carte",
+      "text": "Un plan montre un petit lieu vu d’en haut, comme ton école. Une carte montre un lieu plus grand, comme un quartier, un pays ou le monde. Pour bien lire une carte, on regarde quatre choses. Le titre dit ce que représente la carte. L’échelle montre comment les distances de la carte correspondent aux distances réelles : une petite longueur sur la carte représente une grande longueur dans la réalité. L’orientation, souvent une flèche ou une rose des vents, indique où est le nord. La légende explique le sens des couleurs et des signes dessinés."
+    },
+    {
+      "title": "Du lieu proche au monde entier",
+      "text": "Un globe est une boule qui représente la Terre. Un planisphère est une carte à plat de toute la Terre. Sur ces deux outils, on voit les grandes étendues de terre, appelées continents (l’Europe, l’Afrique, l’Asie, l’Amérique, l’Océanie, l’Antarctique), et les très grandes étendues d’eau salée, appelées océans (l’océan Atlantique, l’océan Pacifique, l’océan Indien…). La France (métropolitaine) se trouve en Europe. L’équateur est une ligne imaginaire autour de la Terre, à égale distance des deux pôles."
+    }
+  ],
+  "revision_sheet": [
+    "Position : gauche, droite, au-dessus, en dessous, devant, derrière, près, loin. Déplacement : avancer, reculer, tourner à droite ou à gauche, monter, descendre.",
+    "Les points cardinaux sont le nord, le sud, l’est et l’ouest. Le Soleil se lève à peu près à l’est et se couche à peu près à l’ouest.",
+    "Une carte a un titre, une échelle, une orientation et une légende.",
+    "La légende explique les couleurs et les signes de la carte ; l’échelle relie les distances de la carte à la réalité.",
+    "Le globe représente la Terre en boule ; le planisphère la représente à plat. La France (métropolitaine) est en Europe."
+  ],
+  "quiz": [
+    {
+      "prompt": "Sur une carte, quel élément explique le sens des couleurs et des signes dessinés ?",
+      "choices": [
+        "Le titre",
+        "L’échelle",
+        "La légende"
+      ],
+      "correct_index": 2,
+      "explanation": "La légende explique ce que signifient les couleurs et les signes. Le titre donne le sujet de la carte et l’échelle renseigne sur les distances."
+    },
+    {
+      "prompt": "Le Soleil se lève à peu près dans quelle direction ?",
+      "choices": [
+        "À l’ouest",
+        "À l’est",
+        "Au sud"
+      ],
+      "correct_index": 1,
+      "explanation": "Le Soleil se lève à peu près à l’est et se couche à peu près à l’ouest."
+    },
+    {
+      "prompt": "Quelle expression décrit un déplacement ?",
+      "choices": [
+        "Derrière la porte",
+        "Tourner à gauche",
+        "Loin de l’école"
+      ],
+      "correct_index": 1,
+      "explanation": "Tourner à gauche est une action de déplacement. « Derrière » et « loin » indiquent une position."
+    },
+    {
+      "prompt": "Quel objet possède une aiguille qui montre la direction du nord ?",
+      "choices": [
+        "La toise",
+        "L’horloge",
+        "La boussole"
+      ],
+      "correct_index": 2,
+      "explanation": "L’aiguille d’une boussole indique le nord. Une toise sert à mesurer la taille et une horloge à lire l’heure."
+    },
+    {
+      "prompt": "Sur un globe, sur quel continent se trouve la France (métropolitaine) ?",
+      "choices": [
+        "En Afrique",
+        "En Europe",
+        "En Asie"
+      ],
+      "correct_index": 1,
+      "explanation": "La France métropolitaine se trouve en Europe."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Avec des mots de position, écris deux phrases pour dire où se trouve ton cahier sur ta table.",
+      "solution": "Par exemple : « Mon cahier est à gauche de ma trousse. » et « Mon cahier est devant mon stylo. »",
+      "success_criterion": "Écrire deux phrases correctes qui situent le cahier par rapport à un autre objet avec un mot de position."
+    },
+    {
+      "prompt": "Cite les quatre éléments à regarder sur une carte et explique à quoi sert la légende.",
+      "solution": "Le titre, l’échelle, l’orientation et la légende. La légende explique le sens des couleurs et des signes de la carte.",
+      "success_criterion": "Nommer les quatre éléments et dire que la légende explique les signes et les couleurs."
+    },
+    {
+      "prompt": "Tu regardes vers le nord. De quel côté est l’est : à ta droite ou à ta gauche ?",
+      "solution": "L’est est à ta droite, l’ouest est à ta gauche.",
+      "success_criterion": "Répondre « à droite » en se représentant la position du nord devant soi."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris trois consignes de déplacement pour aller de la porte de ta classe jusqu’à ton bureau.",
+      "solution": "Par exemple : « Avance de cinq pas. Tourne à droite. Avance jusqu’au bureau. »",
+      "success_criterion": "Écrire trois consignes avec des verbes de déplacement (avancer, tourner à droite ou à gauche…) dans un ordre logique."
+    },
+    {
+      "prompt": "Sur une carte, un petit rond rouge est dessiné. Que dois-tu regarder pour savoir ce qu’il représente ?",
+      "solution": "Il faut regarder la légende, qui explique le sens des signes et des couleurs.",
+      "success_criterion": "Répondre « la légende »."
+    },
+    {
+      "prompt": "Explique la différence entre un globe et un planisphère.",
+      "solution": "Le globe est une boule qui représente la Terre. Le planisphère est une carte à plat de toute la Terre.",
+      "success_criterion": "Dire que le globe est en forme de boule et que le planisphère est une carte à plat."
+    }
+  ],
+  "audio_transcript": "Pour se repérer, on utilise des mots précis : à gauche, à droite, devant, derrière, près, loin. Pour un trajet, on dit : avance, tourne à droite, tourne à gauche. Dans un grand espace, on utilise les points cardinaux : le nord, le sud, l’est et l’ouest. Une carte a un titre, une échelle, une orientation et une légende. La légende explique les signes et les couleurs. Le globe représente la Terre en boule. Le planisphère la représente à plat. La France métropolitaine se trouve en Europe.",
+  "guided_explanation": "Imagine que tu dois expliquer à un ami comment trouver la bibliothèque de ton école. Tu dis d’abord où commencer, puis tu donnes des déplacements : avance jusqu’au bout du couloir, tourne à gauche, monte l’escalier. Si ton ami a un plan, il regarde le titre pour savoir ce que le plan montre, la légende pour comprendre les signes, et l’orientation pour savoir où est le nord. Pour un grand voyage, on prend un globe ou un planisphère : on cherche l’Europe, puis la France."
+}

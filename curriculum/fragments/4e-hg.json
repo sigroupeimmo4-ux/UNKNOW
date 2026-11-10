@@ -1,0 +1,675 @@
+{
+  "programs": [
+    {
+      "id": "4e-histoire-geographie-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "4e",
+      "subject_id": "histoire-geographie-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/89/1/ensel714_annexe3_1312891.pdf",
+        "title": "Histoire-géographie",
+        "text_reference": "Histoire-géographie (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "16efa795f59f25f726e3f443934198e22c01fad04e1ba78a01ed10a11a3a14eb",
+        "source_id": "6f0365b6a54fc983"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "histoire",
+          "title": "Histoire",
+          "source_locator": "Annexe 3 du cycle 4, Histoire et géographie / Histoire, Classe de 4e, pages 82-83 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-hg-revolution-francaise-empire",
+              "title": "La Révolution française et l’Empire (1789-1815)",
+              "title_type": "editorial",
+              "official_section": "Thème 1 : Le XVIIIe siècle. Expansions, Lumières et révolutions",
+              "notions": [
+                "Société d’ordres et privilèges avant 1789",
+                "Les grandes étapes de la Révolution : 1789, monarchie constitutionnelle, République",
+                "Déclaration des droits de l’homme et du citoyen",
+                "Bonaparte, le Consulat et l’Empire",
+                "Réformes administratives et sociales de la Révolution et de l’Empire"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-hg-revolution-francaise-empire-knowledge",
+                  "text": "La Révolution française (1789) met fin à la société d’ordres et à la monarchie absolue ; elle proclame l’égalité devant la loi et la souveraineté de la nation, puis la République (1792) ; Napoléon Bonaparte prend le pouvoir en 1799, devient empereur en 1804 et conserve de grandes réformes administratives et sociales jusqu’à sa chute en 1815.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-hg-revolution-francaise-empire-skill",
+                  "text": "Situer et ordonner sur une frise chronologique les principaux événements de la Révolution française et de l’Empire (1789-1815).",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-hg-revolution-francaise-empire-reforms",
+                  "text": "Caractériser les apports de la Révolution et de l’Empire dans les domaines politique, social et administratif.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+            },
+            {
+              "id": "4e-hg-revolution-industrielle-europe",
+              "title": "L’Europe de la « révolution industrielle » au XIXe siècle",
+              "title_type": "editorial",
+              "official_section": "Thème 2 : L’Europe et le monde au XIXe siècle",
+              "notions": [
+                "Industrialisation et révolution énergétique : charbon, puis pétrole et électricité",
+                "Nouvelles organisations de la production : usines, machines, chemin de fer",
+                "Transformation des paysages, des villes et des campagnes",
+                "Salariat, condition ouvrière et « question sociale »",
+                "Émigration européenne"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-hg-revolution-industrielle-europe-knowledge",
+                  "text": "Au XIXe siècle, l’Europe s’industrialise : les machines, le charbon et les usines transforment la production, les paysages et la société, avec l’essor des villes, des ouvriers salariés, une « question sociale » et d’importantes émigrations.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-hg-revolution-industrielle-europe-skill",
+                  "text": "Décrire les transformations économiques et sociales liées à l’industrialisation de l’Europe au XIXe siècle.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-hg-revolution-industrielle-europe-sources",
+                  "text": "Lire un document simple (image, tableau, texte) pour caractériser la condition ouvrière et les changements des paysages.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "geographie",
+          "title": "Géographie",
+          "source_locator": "Annexe 3 du cycle 4, Histoire et géographie / Géographie, Classe de 4e, pages 88-89 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-hg-urbanisation-du-monde",
+              "title": "L’urbanisation du monde : centres, périphéries et villes connectées",
+              "title_type": "editorial",
+              "official_section": "Thème 1 : L’urbanisation du monde",
+              "notions": [
+                "Urbanisation : plus de la moitié de l’humanité vit en ville depuis 2007",
+                "Espaces et paysages urbains : centre, périphérie, étalement urbain",
+                "Vocabulaire de base de la géographie urbaine",
+                "Villes connectées aux réseaux de la mondialisation",
+                "Villes à l’écart et « villes qui rétrécissent » (Detroit)"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-hg-urbanisation-du-monde-knowledge",
+                  "text": "Le monde s’urbanise rapidement depuis 1945 : depuis 2007, plus de la moitié de l’humanité habite en ville ; les villes se composent de centres et de périphéries et sont inégalement connectées aux réseaux de la mondialisation, certaines connaissant même un « rétrécissement ».",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-hg-urbanisation-du-monde-skill",
+                  "text": "Décrire et nommer les principaux espaces et paysages d’une ville (centre, périphérie) en utilisant le vocabulaire de base de la géographie urbaine.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-hg-urbanisation-du-monde-connexion",
+                  "text": "Expliquer pourquoi des villes sont plus ou moins connectées aux réseaux de la mondialisation, à partir d’exemples.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "4e-hg-revolution-francaise-empire-course",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-francaise-empire"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Situer les grandes étapes de la Révolution française et de l’Empire entre 1789 et 1815.",
+        "Expliquer ce que la Déclaration des droits de l’homme et du citoyen change dans la société française.",
+        "Décrire les réformes de la Révolution et de l’Empire qui durent encore aujourd’hui."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-francaise-empire-skill",
+        "4e-hg-revolution-francaise-empire-reforms"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-francaise-empire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-francaise-empire-revision_sheet",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-francaise-empire"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Situer les grandes étapes de la Révolution française et de l’Empire entre 1789 et 1815.",
+        "Expliquer ce que la Déclaration des droits de l’homme et du citoyen change dans la société française.",
+        "Décrire les réformes de la Révolution et de l’Empire qui durent encore aujourd’hui."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-francaise-empire-skill",
+        "4e-hg-revolution-francaise-empire-reforms"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-francaise-empire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-francaise-empire-quiz",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-francaise-empire"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Situer les grandes étapes de la Révolution française et de l’Empire entre 1789 et 1815.",
+        "Expliquer ce que la Déclaration des droits de l’homme et du citoyen change dans la société française.",
+        "Décrire les réformes de la Révolution et de l’Empire qui durent encore aujourd’hui."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-francaise-empire-skill",
+        "4e-hg-revolution-francaise-empire-reforms"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-francaise-empire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-francaise-empire-exercise",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-francaise-empire"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Situer les grandes étapes de la Révolution française et de l’Empire entre 1789 et 1815.",
+        "Expliquer ce que la Déclaration des droits de l’homme et du citoyen change dans la société française.",
+        "Décrire les réformes de la Révolution et de l’Empire qui durent encore aujourd’hui."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-francaise-empire-skill",
+        "4e-hg-revolution-francaise-empire-reforms"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-francaise-empire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-francaise-empire-assessment",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-francaise-empire"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Situer les grandes étapes de la Révolution française et de l’Empire entre 1789 et 1815.",
+        "Expliquer ce que la Déclaration des droits de l’homme et du citoyen change dans la société française.",
+        "Décrire les réformes de la Révolution et de l’Empire qui durent encore aujourd’hui."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-francaise-empire-skill",
+        "4e-hg-revolution-francaise-empire-reforms"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-francaise-empire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-francaise-empire-audio",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-francaise-empire"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Situer les grandes étapes de la Révolution française et de l’Empire entre 1789 et 1815.",
+        "Expliquer ce que la Déclaration des droits de l’homme et du citoyen change dans la société française.",
+        "Décrire les réformes de la Révolution et de l’Empire qui durent encore aujourd’hui."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-francaise-empire-skill",
+        "4e-hg-revolution-francaise-empire-reforms"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-francaise-empire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-francaise-empire-assistant_explanation",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-francaise-empire"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Situer les grandes étapes de la Révolution française et de l’Empire entre 1789 et 1815.",
+        "Expliquer ce que la Déclaration des droits de l’homme et du citoyen change dans la société française.",
+        "Décrire les réformes de la Révolution et de l’Empire qui durent encore aujourd’hui."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-francaise-empire-skill",
+        "4e-hg-revolution-francaise-empire-reforms"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-francaise-empire.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-industrielle-europe-course",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-industrielle-europe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Expliquer ce qu’est la révolution industrielle et citer ses nouveautés (machines, usines, charbon, chemin de fer).",
+        "Décrire les conséquences de l’industrialisation sur les villes, les campagnes et les ouvriers.",
+        "Expliquer pourquoi des Européens émigrent au XIXe siècle, à l’aide de l’exemple irlandais."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-industrielle-europe-skill",
+        "4e-hg-revolution-industrielle-europe-sources"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-industrielle-europe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-industrielle-europe-revision_sheet",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-industrielle-europe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Expliquer ce qu’est la révolution industrielle et citer ses nouveautés (machines, usines, charbon, chemin de fer).",
+        "Décrire les conséquences de l’industrialisation sur les villes, les campagnes et les ouvriers.",
+        "Expliquer pourquoi des Européens émigrent au XIXe siècle, à l’aide de l’exemple irlandais."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-industrielle-europe-skill",
+        "4e-hg-revolution-industrielle-europe-sources"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-industrielle-europe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-industrielle-europe-quiz",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-industrielle-europe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Expliquer ce qu’est la révolution industrielle et citer ses nouveautés (machines, usines, charbon, chemin de fer).",
+        "Décrire les conséquences de l’industrialisation sur les villes, les campagnes et les ouvriers.",
+        "Expliquer pourquoi des Européens émigrent au XIXe siècle, à l’aide de l’exemple irlandais."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-industrielle-europe-skill",
+        "4e-hg-revolution-industrielle-europe-sources"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-industrielle-europe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-industrielle-europe-exercise",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-industrielle-europe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Expliquer ce qu’est la révolution industrielle et citer ses nouveautés (machines, usines, charbon, chemin de fer).",
+        "Décrire les conséquences de l’industrialisation sur les villes, les campagnes et les ouvriers.",
+        "Expliquer pourquoi des Européens émigrent au XIXe siècle, à l’aide de l’exemple irlandais."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-industrielle-europe-skill",
+        "4e-hg-revolution-industrielle-europe-sources"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-industrielle-europe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-industrielle-europe-assessment",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-industrielle-europe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Expliquer ce qu’est la révolution industrielle et citer ses nouveautés (machines, usines, charbon, chemin de fer).",
+        "Décrire les conséquences de l’industrialisation sur les villes, les campagnes et les ouvriers.",
+        "Expliquer pourquoi des Européens émigrent au XIXe siècle, à l’aide de l’exemple irlandais."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-industrielle-europe-skill",
+        "4e-hg-revolution-industrielle-europe-sources"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-industrielle-europe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-industrielle-europe-audio",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-industrielle-europe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Expliquer ce qu’est la révolution industrielle et citer ses nouveautés (machines, usines, charbon, chemin de fer).",
+        "Décrire les conséquences de l’industrialisation sur les villes, les campagnes et les ouvriers.",
+        "Expliquer pourquoi des Européens émigrent au XIXe siècle, à l’aide de l’exemple irlandais."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-industrielle-europe-skill",
+        "4e-hg-revolution-industrielle-europe-sources"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-industrielle-europe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-revolution-industrielle-europe-assistant_explanation",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-revolution-industrielle-europe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Expliquer ce qu’est la révolution industrielle et citer ses nouveautés (machines, usines, charbon, chemin de fer).",
+        "Décrire les conséquences de l’industrialisation sur les villes, les campagnes et les ouvriers.",
+        "Expliquer pourquoi des Européens émigrent au XIXe siècle, à l’aide de l’exemple irlandais."
+      ],
+      "skill_ids": [
+        "4e-hg-revolution-industrielle-europe-skill",
+        "4e-hg-revolution-industrielle-europe-sources"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-revolution-industrielle-europe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-urbanisation-du-monde-course",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-urbanisation-du-monde"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Expliquer l’urbanisation du monde et citer le repère de 2007.",
+        "Décrire les paysages d’une ville : centre, quartier d’affaires, banlieue, espaces périurbains.",
+        "Distinguer une ville bien connectée à la mondialisation d’une ville à l’écart ou en déclin."
+      ],
+      "skill_ids": [
+        "4e-hg-urbanisation-du-monde-skill",
+        "4e-hg-urbanisation-du-monde-connexion"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-urbanisation-du-monde.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-urbanisation-du-monde-revision_sheet",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-urbanisation-du-monde"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Expliquer l’urbanisation du monde et citer le repère de 2007.",
+        "Décrire les paysages d’une ville : centre, quartier d’affaires, banlieue, espaces périurbains.",
+        "Distinguer une ville bien connectée à la mondialisation d’une ville à l’écart ou en déclin."
+      ],
+      "skill_ids": [
+        "4e-hg-urbanisation-du-monde-skill",
+        "4e-hg-urbanisation-du-monde-connexion"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-urbanisation-du-monde.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-urbanisation-du-monde-quiz",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-urbanisation-du-monde"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Expliquer l’urbanisation du monde et citer le repère de 2007.",
+        "Décrire les paysages d’une ville : centre, quartier d’affaires, banlieue, espaces périurbains.",
+        "Distinguer une ville bien connectée à la mondialisation d’une ville à l’écart ou en déclin."
+      ],
+      "skill_ids": [
+        "4e-hg-urbanisation-du-monde-skill",
+        "4e-hg-urbanisation-du-monde-connexion"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-urbanisation-du-monde.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-urbanisation-du-monde-exercise",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-urbanisation-du-monde"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Expliquer l’urbanisation du monde et citer le repère de 2007.",
+        "Décrire les paysages d’une ville : centre, quartier d’affaires, banlieue, espaces périurbains.",
+        "Distinguer une ville bien connectée à la mondialisation d’une ville à l’écart ou en déclin."
+      ],
+      "skill_ids": [
+        "4e-hg-urbanisation-du-monde-skill",
+        "4e-hg-urbanisation-du-monde-connexion"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-urbanisation-du-monde.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-urbanisation-du-monde-assessment",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-urbanisation-du-monde"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Expliquer l’urbanisation du monde et citer le repère de 2007.",
+        "Décrire les paysages d’une ville : centre, quartier d’affaires, banlieue, espaces périurbains.",
+        "Distinguer une ville bien connectée à la mondialisation d’une ville à l’écart ou en déclin."
+      ],
+      "skill_ids": [
+        "4e-hg-urbanisation-du-monde-skill",
+        "4e-hg-urbanisation-du-monde-connexion"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-urbanisation-du-monde.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-urbanisation-du-monde-audio",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-urbanisation-du-monde"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Expliquer l’urbanisation du monde et citer le repère de 2007.",
+        "Décrire les paysages d’une ville : centre, quartier d’affaires, banlieue, espaces périurbains.",
+        "Distinguer une ville bien connectée à la mondialisation d’une ville à l’écart ou en déclin."
+      ],
+      "skill_ids": [
+        "4e-hg-urbanisation-du-monde-skill",
+        "4e-hg-urbanisation-du-monde-connexion"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-urbanisation-du-monde.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-hg-urbanisation-du-monde-assistant_explanation",
+      "program_id": "4e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-hg-urbanisation-du-monde"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Expliquer l’urbanisation du monde et citer le repère de 2007.",
+        "Décrire les paysages d’une ville : centre, quartier d’affaires, banlieue, espaces périurbains.",
+        "Distinguer une ville bien connectée à la mondialisation d’une ville à l’écart ou en déclin."
+      ],
+      "skill_ids": [
+        "4e-hg-urbanisation-du-monde-skill",
+        "4e-hg-urbanisation-du-monde-connexion"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-hg-urbanisation-du-monde.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

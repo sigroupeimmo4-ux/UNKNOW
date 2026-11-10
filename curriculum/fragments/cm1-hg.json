@@ -1,0 +1,674 @@
+{
+  "programs": [
+    {
+      "id": "CM1-histoire-geographie-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CM1",
+      "subject_id": "histoire-geographie-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://www.education.gouv.fr/sites/default/files/document/annexe-4-programme-d-histoire-geographie-cycle-3-516779.pdf",
+        "title": "Histoire-géographie",
+        "text_reference": "Histoire-géographie (BO n° 22 du 28 mai 2026) - NOUVEAU",
+        "published_on": "2026-05-28",
+        "checked_on": "2026-10-29",
+        "sha256": "da8530cf06ab706f181fd83c524c4a0b30ac765d74955f8ae1102513b207daae",
+        "source_id": "9124c29e3827a735"
+      },
+      "effective_from": "2026-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "histoire",
+          "title": "Histoire",
+          "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thèmes 1 et 2, pages 4-5 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm1-hg-moyen-age-seigneurie",
+              "title": "La vie quotidienne au Moyen Âge (XIe - XIIIe siècles)",
+              "title_type": "editorial",
+              "official_section": "Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles)",
+              "notions": [
+                "Le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle",
+                "Seigneurie, seigneur et château",
+                "Paysannes et paysans : travaux, corvée et dîme",
+                "Paroisse et rôle de l’Église",
+                "Activités des villes : marché, foire, artisanat",
+                "Art roman et art gothique"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-hg-moyen-age-seigneurie-knowledge",
+                  "text": "Au Moyen Âge, la vie des femmes et des hommes s’organise dans la seigneurie (la domination d’un seigneur sur un territoire et les hommes qui y vivent) et dans la paroisse (l’encadrement par l’Église de la vie des gens, de leur naissance à leur mort).",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-hg-moyen-age-seigneurie-skill-chateau",
+                  "text": "Décrire les fonctions d’un château (lieu de protection, lieu de vie du seigneur, symbole de sa puissance) ou le fonctionnement d’une seigneurie.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-hg-moyen-age-seigneurie-skill-paysans",
+                  "text": "Raconter la vie quotidienne des paysannes et des paysans (travaux de l’année, obligations envers le seigneur et l’Église) et situer le Moyen Âge sur une frise chronologique (476-1492).",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+            },
+            {
+              "id": "cm1-hg-monarchie-xvie-xviie",
+              "title": "La monarchie en France aux XVIe et XVIIe siècles",
+              "title_type": "editorial",
+              "official_section": "Thème 2 : La monarchie en France (XVIe – XVIIe siècles)",
+              "notions": [
+                "François Ier (1515-1547), mécène de la Renaissance",
+                "Henri IV (1589-1610), pacificateur du royaume, édit de Nantes (1598)",
+                "Louis XIV (1643-1715), monarchie absolue et château de Versailles",
+                "Société d’Ancien Régime : clergé, noblesse, tiers état"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-hg-monarchie-xvie-xviie-knowledge",
+                  "text": "Aux XVIe et XVIIe siècles, le roi incarne le pouvoir : François Ier est un roi mécène de la Renaissance, Henri IV pacifie le royaume, Louis XIV affirme son pouvoir absolu ; la société est divisée en trois ordres (clergé, noblesse, tiers état).",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+                  "text": "Situer sur une frise chronologique les règnes de François Ier, Henri IV et Louis XIV.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi",
+                  "text": "Expliquer le rôle de François Ier avec Léonard de Vinci, la pacification de Henri IV et l’expression du pouvoir absolu de Louis XIV à Versailles ; décrire la société d’ordres.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "geographie",
+          "title": "Géographie : la diversité des modes de vie dans le monde",
+          "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3, page 12 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm1-hg-se-deplacer",
+              "title": "Se déplacer dans le monde",
+              "title_type": "editorial",
+              "official_section": "Thème 3 : Se déplacer",
+              "notions": [
+                "Modes de déplacement des élèves de la classe, dont la marche",
+                "Modes de transport de personnes et infrastructures associées",
+                "Distance kilométrique et distance en temps",
+                "Choisir un mode de déplacement selon la distance à parcourir"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-hg-se-deplacer-knowledge",
+                  "text": "On se déplace de différentes manières (marche, vélo, voiture, métro, train, bateau, avion), chacune avec ses infrastructures (voie cyclable, route, station, gare, port, aéroport) ; on mesure un déplacement en distance kilométrique ou en distance en temps.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-hg-se-deplacer-skill-modes-transport",
+                  "text": "Identifier les principaux modes de transport de personnes et les infrastructures associées.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-hg-se-deplacer-skill-distance-temps",
+                  "text": "Identifier la diversité des modalités de déplacement à différentes périodes de temps (journée, semaine, etc.) en les associant à la distance à parcourir (distance kilométrique et distance en temps).",
+                  "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo22/MENE2608631A",
+        "source_id": "ad4eb79b607135f6",
+        "text_reference": "MENE2608631A",
+        "locator": "Article 3 : CP et CM1 en 2026, autres classes des cycles 2 et 3 en 2027"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "cm1-hg-moyen-age-seigneurie-course",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-moyen-age-seigneurie"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Situer le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle sur une frise chronologique.",
+        "Décrire une seigneurie et les fonctions d’un château.",
+        "Raconter la vie des paysannes et des paysans, et décrire le rôle de l’Église et l’activité des villes."
+      ],
+      "skill_ids": [
+        "cm1-hg-moyen-age-seigneurie-skill-chateau",
+        "cm1-hg-moyen-age-seigneurie-skill-paysans"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-moyen-age-seigneurie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-moyen-age-seigneurie-revision_sheet",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-moyen-age-seigneurie"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Situer le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle sur une frise chronologique.",
+        "Décrire une seigneurie et les fonctions d’un château.",
+        "Raconter la vie des paysannes et des paysans, et décrire le rôle de l’Église et l’activité des villes."
+      ],
+      "skill_ids": [
+        "cm1-hg-moyen-age-seigneurie-skill-chateau",
+        "cm1-hg-moyen-age-seigneurie-skill-paysans"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-moyen-age-seigneurie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-moyen-age-seigneurie-quiz",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-moyen-age-seigneurie"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Situer le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle sur une frise chronologique.",
+        "Décrire une seigneurie et les fonctions d’un château.",
+        "Raconter la vie des paysannes et des paysans, et décrire le rôle de l’Église et l’activité des villes."
+      ],
+      "skill_ids": [
+        "cm1-hg-moyen-age-seigneurie-skill-chateau",
+        "cm1-hg-moyen-age-seigneurie-skill-paysans"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-moyen-age-seigneurie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-moyen-age-seigneurie-exercise",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-moyen-age-seigneurie"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Situer le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle sur une frise chronologique.",
+        "Décrire une seigneurie et les fonctions d’un château.",
+        "Raconter la vie des paysannes et des paysans, et décrire le rôle de l’Église et l’activité des villes."
+      ],
+      "skill_ids": [
+        "cm1-hg-moyen-age-seigneurie-skill-chateau",
+        "cm1-hg-moyen-age-seigneurie-skill-paysans"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-moyen-age-seigneurie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-moyen-age-seigneurie-assessment",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-moyen-age-seigneurie"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Situer le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle sur une frise chronologique.",
+        "Décrire une seigneurie et les fonctions d’un château.",
+        "Raconter la vie des paysannes et des paysans, et décrire le rôle de l’Église et l’activité des villes."
+      ],
+      "skill_ids": [
+        "cm1-hg-moyen-age-seigneurie-skill-chateau",
+        "cm1-hg-moyen-age-seigneurie-skill-paysans"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-moyen-age-seigneurie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-moyen-age-seigneurie-audio",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-moyen-age-seigneurie"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Situer le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle sur une frise chronologique.",
+        "Décrire une seigneurie et les fonctions d’un château.",
+        "Raconter la vie des paysannes et des paysans, et décrire le rôle de l’Église et l’activité des villes."
+      ],
+      "skill_ids": [
+        "cm1-hg-moyen-age-seigneurie-skill-chateau",
+        "cm1-hg-moyen-age-seigneurie-skill-paysans"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-moyen-age-seigneurie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-moyen-age-seigneurie-assistant_explanation",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-moyen-age-seigneurie"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Situer le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle sur une frise chronologique.",
+        "Décrire une seigneurie et les fonctions d’un château.",
+        "Raconter la vie des paysannes et des paysans, et décrire le rôle de l’Église et l’activité des villes."
+      ],
+      "skill_ids": [
+        "cm1-hg-moyen-age-seigneurie-skill-chateau",
+        "cm1-hg-moyen-age-seigneurie-skill-paysans"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-moyen-age-seigneurie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-monarchie-xvie-xviie-course",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-monarchie-xvie-xviie"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Situer sur une frise les règnes de François Ier (1515-1547), Henri IV (1589-1610) et Louis XIV (1643-1715).",
+        "Expliquer le rôle de ces trois rois (mécène, pacificateur, roi absolu).",
+        "Décrire la société d’ordres : clergé, noblesse, tiers état."
+      ],
+      "skill_ids": [
+        "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+        "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-monarchie-xvie-xviie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-monarchie-xvie-xviie-revision_sheet",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-monarchie-xvie-xviie"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Situer sur une frise les règnes de François Ier (1515-1547), Henri IV (1589-1610) et Louis XIV (1643-1715).",
+        "Expliquer le rôle de ces trois rois (mécène, pacificateur, roi absolu).",
+        "Décrire la société d’ordres : clergé, noblesse, tiers état."
+      ],
+      "skill_ids": [
+        "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+        "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-monarchie-xvie-xviie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-monarchie-xvie-xviie-quiz",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-monarchie-xvie-xviie"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Situer sur une frise les règnes de François Ier (1515-1547), Henri IV (1589-1610) et Louis XIV (1643-1715).",
+        "Expliquer le rôle de ces trois rois (mécène, pacificateur, roi absolu).",
+        "Décrire la société d’ordres : clergé, noblesse, tiers état."
+      ],
+      "skill_ids": [
+        "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+        "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-monarchie-xvie-xviie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-monarchie-xvie-xviie-exercise",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-monarchie-xvie-xviie"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Situer sur une frise les règnes de François Ier (1515-1547), Henri IV (1589-1610) et Louis XIV (1643-1715).",
+        "Expliquer le rôle de ces trois rois (mécène, pacificateur, roi absolu).",
+        "Décrire la société d’ordres : clergé, noblesse, tiers état."
+      ],
+      "skill_ids": [
+        "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+        "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-monarchie-xvie-xviie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-monarchie-xvie-xviie-assessment",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-monarchie-xvie-xviie"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Situer sur une frise les règnes de François Ier (1515-1547), Henri IV (1589-1610) et Louis XIV (1643-1715).",
+        "Expliquer le rôle de ces trois rois (mécène, pacificateur, roi absolu).",
+        "Décrire la société d’ordres : clergé, noblesse, tiers état."
+      ],
+      "skill_ids": [
+        "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+        "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-monarchie-xvie-xviie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-monarchie-xvie-xviie-audio",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-monarchie-xvie-xviie"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Situer sur une frise les règnes de François Ier (1515-1547), Henri IV (1589-1610) et Louis XIV (1643-1715).",
+        "Expliquer le rôle de ces trois rois (mécène, pacificateur, roi absolu).",
+        "Décrire la société d’ordres : clergé, noblesse, tiers état."
+      ],
+      "skill_ids": [
+        "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+        "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-monarchie-xvie-xviie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-monarchie-xvie-xviie-assistant_explanation",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-monarchie-xvie-xviie"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Situer sur une frise les règnes de François Ier (1515-1547), Henri IV (1589-1610) et Louis XIV (1643-1715).",
+        "Expliquer le rôle de ces trois rois (mécène, pacificateur, roi absolu).",
+        "Décrire la société d’ordres : clergé, noblesse, tiers état."
+      ],
+      "skill_ids": [
+        "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+        "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-monarchie-xvie-xviie.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-se-deplacer-course",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-se-deplacer"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Nommer les principaux modes de transport de personnes et les infrastructures associées.",
+        "Distinguer la distance kilométrique et la distance en temps.",
+        "Associer un mode de déplacement à la distance à parcourir."
+      ],
+      "skill_ids": [
+        "cm1-hg-se-deplacer-skill-modes-transport",
+        "cm1-hg-se-deplacer-skill-distance-temps"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-se-deplacer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-se-deplacer-revision_sheet",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-se-deplacer"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Nommer les principaux modes de transport de personnes et les infrastructures associées.",
+        "Distinguer la distance kilométrique et la distance en temps.",
+        "Associer un mode de déplacement à la distance à parcourir."
+      ],
+      "skill_ids": [
+        "cm1-hg-se-deplacer-skill-modes-transport",
+        "cm1-hg-se-deplacer-skill-distance-temps"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-se-deplacer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-se-deplacer-quiz",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-se-deplacer"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Nommer les principaux modes de transport de personnes et les infrastructures associées.",
+        "Distinguer la distance kilométrique et la distance en temps.",
+        "Associer un mode de déplacement à la distance à parcourir."
+      ],
+      "skill_ids": [
+        "cm1-hg-se-deplacer-skill-modes-transport",
+        "cm1-hg-se-deplacer-skill-distance-temps"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-se-deplacer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-se-deplacer-exercise",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-se-deplacer"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Nommer les principaux modes de transport de personnes et les infrastructures associées.",
+        "Distinguer la distance kilométrique et la distance en temps.",
+        "Associer un mode de déplacement à la distance à parcourir."
+      ],
+      "skill_ids": [
+        "cm1-hg-se-deplacer-skill-modes-transport",
+        "cm1-hg-se-deplacer-skill-distance-temps"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-se-deplacer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-se-deplacer-assessment",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-se-deplacer"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Nommer les principaux modes de transport de personnes et les infrastructures associées.",
+        "Distinguer la distance kilométrique et la distance en temps.",
+        "Associer un mode de déplacement à la distance à parcourir."
+      ],
+      "skill_ids": [
+        "cm1-hg-se-deplacer-skill-modes-transport",
+        "cm1-hg-se-deplacer-skill-distance-temps"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-se-deplacer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-se-deplacer-audio",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-se-deplacer"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Nommer les principaux modes de transport de personnes et les infrastructures associées.",
+        "Distinguer la distance kilométrique et la distance en temps.",
+        "Associer un mode de déplacement à la distance à parcourir."
+      ],
+      "skill_ids": [
+        "cm1-hg-se-deplacer-skill-modes-transport",
+        "cm1-hg-se-deplacer-skill-distance-temps"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-se-deplacer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-hg-se-deplacer-assistant_explanation",
+      "program_id": "CM1-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-hg-se-deplacer"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Nommer les principaux modes de transport de personnes et les infrastructures associées.",
+        "Distinguer la distance kilométrique et la distance en temps.",
+        "Associer un mode de déplacement à la distance à parcourir."
+      ],
+      "skill_ids": [
+        "cm1-hg-se-deplacer-skill-modes-transport",
+        "cm1-hg-se-deplacer-skill-distance-temps"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-hg-se-deplacer.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

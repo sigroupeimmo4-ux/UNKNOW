@@ -1,0 +1,132 @@
+{
+  "id": "cm1-hg-monarchie-xvie-xviie",
+  "title": "La monarchie en France aux XVIe et XVIIe siècles",
+  "chapter_id": "cm1-hg-monarchie-xvie-xviie",
+  "program_id": "CM1-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Situer sur une frise les règnes de François Ier (1515-1547), Henri IV (1589-1610) et Louis XIV (1643-1715).",
+    "Expliquer le rôle de ces trois rois (mécène, pacificateur, roi absolu).",
+    "Décrire la société d’ordres : clergé, noblesse, tiers état."
+  ],
+  "skill_ids": [
+    "cm1-hg-monarchie-xvie-xviie-skill-frise-rois",
+    "cm1-hg-monarchie-xvie-xviie-skill-pouvoir-roi"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 2 : La monarchie en France (XVIe – XVIIe siècles), page 5 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "François Ier, un roi mécène",
+      "text": "François Ier est roi de France de 1515 à 1547. C’est un roi de la Renaissance, une période de renouveau des arts et des idées. Il est mécène : il protège et aide des artistes. En 1515, l’artiste italien Léonard de Vinci vient séjourner en France ; il y reste jusqu’à sa mort, en 1519. Grâce aux rois mécènes comme François Ier, les idées et les arts de la Renaissance se diffusent en France."
+    },
+    {
+      "title": "Henri IV, un roi pacificateur",
+      "text": "Henri IV est roi de 1589 à 1610. À cette époque, les catholiques et les protestants s’affrontent dans les guerres de religion. En 1598, Henri IV signe l’édit de Nantes : ce texte permet aux protestants de pratiquer leur religion dans certaines conditions. Cela contribue à ramener la paix dans le royaume de France."
+    },
+    {
+      "title": "Louis XIV, un roi au pouvoir absolu",
+      "text": "Louis XIV règne de 1643 à 1715, soit 72 ans. Il est un roi absolu : il détient tous les pouvoirs et décide sans les partager. On l’appelle le Roi-Soleil. Il fait de Versailles un très grand château où vit la Cour, c’est-à-dire l’entourage du roi. Versailles exprime la puissance du roi. Des femmes, comme la reine et les dames de la Cour, participent aux fêtes et aux cérémonies de la vie de cour."
+    },
+    {
+      "title": "Une société divisée en trois ordres",
+      "text": "Sous les rois de cette époque, la société est divisée en trois ordres. Le clergé regroupe les religieux. La noblesse regroupe les nobles. Le tiers état regroupe tous les autres : paysans, artisans, commerçants. Le tiers état est de loin le plus nombreux, et il est composé surtout de paysans. On appelle cette société la société d’ordres."
+    }
+  ],
+  "revision_sheet": [
+    "Règnes à retenir : François Ier (1515-1547), Henri IV (1589-1610), Louis XIV (1643-1715).",
+    "François Ier est un roi mécène de la Renaissance : il aide des artistes comme Léonard de Vinci, qui séjourne en France à partir de 1515 jusqu’à sa mort en 1519.",
+    "Henri IV signe l’édit de Nantes en 1598 : il contribue à pacifier le royaume pendant les guerres de religion (catholiques et protestants).",
+    "Louis XIV est un roi absolu (monarchie absolue) ; Versailles exprime sa puissance.",
+    "La société est divisée en trois ordres : clergé, noblesse, tiers état (surtout des paysans)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Qu’est-ce qu’un mécène ?",
+      "choices": [
+        "Une personne qui protège et aide des artistes",
+        "Un soldat du roi",
+        "Un paysan qui travaille pour le seigneur"
+      ],
+      "correct_index": 0,
+      "explanation": "Un mécène est une personne qui aide les artistes, par exemple en les accueillant ou en finançant leurs œuvres, comme François Ier."
+    },
+    {
+      "prompt": "Quel roi signe l’édit de Nantes en 1598 ?",
+      "choices": [
+        "Louis XIV",
+        "François Ier",
+        "Henri IV"
+      ],
+      "correct_index": 2,
+      "explanation": "L’édit de Nantes est signé par Henri IV en 1598, ce qui contribue à ramener la paix entre catholiques et protestants."
+    },
+    {
+      "prompt": "Quand règne Louis XIV ?",
+      "choices": [
+        "De 1643 à 1715",
+        "De 1515 à 1547",
+        "De 1589 à 1610"
+      ],
+      "correct_index": 0,
+      "explanation": "Louis XIV règne de 1643 à 1715. François Ier règne de 1515 à 1547 et Henri IV de 1589 à 1610."
+    },
+    {
+      "prompt": "Quels sont les trois ordres de la société d’Ancien Régime ?",
+      "choices": [
+        "Le clergé, la noblesse et le tiers état",
+        "Le roi, la reine et le prince",
+        "Les paysans, les artisans et les marchands"
+      ],
+      "correct_index": 0,
+      "explanation": "Les trois ordres sont le clergé, la noblesse et le tiers état. Le tiers état regroupe tous ceux qui ne sont ni religieux ni nobles."
+    },
+    {
+      "prompt": "Que montre le château de Versailles ?",
+      "choices": [
+        "La pauvreté du royaume",
+        "Le pouvoir et la puissance du roi",
+        "Le pouvoir des paysans"
+      ],
+      "correct_index": 1,
+      "explanation": "Le château de Versailles exprime la puissance du roi Louis XIV, un roi au pouvoir absolu."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Range ces trois rois dans l’ordre chronologique : Louis XIV, François Ier, Henri IV.",
+      "solution": "François Ier (1515-1547), puis Henri IV (1589-1610), puis Louis XIV (1643-1715).",
+      "success_criterion": "Ordre correct : François Ier, Henri IV, Louis XIV."
+    },
+    {
+      "prompt": "Associe chaque roi à son rôle : François Ier ; Henri IV ; Louis XIV. Rôles : roi pacificateur ; roi au pouvoir absolu ; roi mécène de la Renaissance.",
+      "solution": "François Ier : roi mécène de la Renaissance. Henri IV : roi pacificateur. Louis XIV : roi au pouvoir absolu.",
+      "success_criterion": "Trois associations correctes."
+    },
+    {
+      "prompt": "Nomme les trois ordres de la société d’Ancien Régime et dis lequel est le plus nombreux.",
+      "solution": "Le clergé, la noblesse et le tiers état. Le tiers état est le plus nombreux, avec surtout des paysans.",
+      "success_criterion": "Nommer les trois ordres et identifier le tiers état."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique pourquoi on dit que François Ier est un roi mécène. Donne un exemple.",
+      "solution": "François Ier protège et aide des artistes. Par exemple, Léonard de Vinci vient séjourner en France en 1515 et y reste jusqu’à sa mort en 1519.",
+      "success_criterion": "Définir mécène et citer Léonard de Vinci."
+    },
+    {
+      "prompt": "Explique en une ou deux phrases comment Henri IV contribue à pacifier le royaume.",
+      "solution": "Pendant les guerres de religion, catholiques et protestants s’opposent. En 1598, Henri IV signe l’édit de Nantes, qui permet aux protestants de pratiquer leur religion dans certaines conditions et contribue à ramener la paix.",
+      "success_criterion": "Citer les guerres de religion et l’édit de Nantes (1598)."
+    },
+    {
+      "prompt": "Louis XIV règne de 1643 à 1715. Combien d’années dure son règne ? Montre ton calcul.",
+      "solution": "1715 - 1643 = 72 : son règne dure 72 ans.",
+      "success_criterion": "Calcul 1715 - 1643 et résultat 72."
+    }
+  ],
+  "audio_transcript": "Aux seizième et dix-septième siècles, le roi incarne le pouvoir en France. François Ier règne de quinze cent quinze à quinze cent quarante-sept. C’est un roi mécène de la Renaissance : il aide les artistes, comme Léonard de Vinci, qui séjourne en France à partir de quinze cent quinze jusqu’à sa mort, en quinze cent dix-neuf. Henri IV règne de quinze cent quatre-vingt-neuf à seize cent dix. Pendant les guerres de religion, il signe l’édit de Nantes, en quinze cent quatre-vingt-dix-huit, et contribue à ramener la paix. Louis XIV règne de seize cent quarante-trois à dix-sept cent quinze. C’est un roi absolu, et le château de Versailles montre sa puissance. La société est divisée en trois ordres : le clergé, la noblesse et le tiers état.",
+  "guided_explanation": "Dessine une longue ligne et marque quatre dates : 1515, 1589, 1643 et 1715. Entre 1515 et 1547, écris François Ier : c’est le roi qui accueille Léonard de Vinci et aide les artistes. Entre 1589 et 1610, écris Henri IV : en 1598, son édit de Nantes aide à ramener la paix entre catholiques et protestants. Entre 1643 et 1715, écris Louis XIV : son grand château de Versailles montre qu’il détient tous les pouvoirs. Pour t’en souvenir, associe chaque roi à un mot : François Ier, mécène ; Henri IV, paix ; Louis XIV, pouvoir absolu. Ensuite, dessine un triangle à trois étages avec clergé, noblesse et tiers état, et rappelle-toi que le tiers état est le plus nombreux."
+}

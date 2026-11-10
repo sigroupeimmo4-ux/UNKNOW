@@ -1,0 +1,134 @@
+{
+  "id": "5e-hg-islam-monde-musulman",
+  "title": "La naissance de l’islam et le monde musulman jusqu’à la prise de Bagdad (1258)",
+  "chapter_id": "5e-hg-islam-monde-musulman",
+  "program_id": "5e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Situer la naissance de l’islam (Arabie, VIIe siècle) et expliquer ce qu’est l’Hégire.",
+    "Expliquer ce qu’est un calife et distinguer les califats omeyyade (Damas) et abbasside (Bagdad).",
+    "Décrire Bagdad comme un lieu d’échanges et de savoirs et situer sa prise par les Mongols en 1258."
+  ],
+  "skill_ids": [
+    "5e-hg-islam-monde-musulman-skill",
+    "5e-hg-islam-monde-musulman-timeline"
+  ],
+  "source_locators": [
+    "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 1 « Chrétientés et islam (VIe-XIIIe siècles), des mondes en contact », page 81 (pagination du PDF).",
+    "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "La naissance de l’islam en Arabie",
+      "text": "Au VIIe siècle, la péninsule arabique est occupée par des tribus nomades et par des marchands qui vivent dans des villes comme La Mecque et Médine. La Mecque est un lieu de pèlerinage où se trouve la Kaaba. Mahomet (Muhammad), né à La Mecque vers 570, est un marchand. Selon la tradition musulmane, il reçoit vers 610 des révélations de Dieu et appelle à ne croire qu’en un seul Dieu. Il doit quitter La Mecque pour Médine en 622 : ce départ s’appelle l’Hégire. Cette année 622 est l’année 1 du calendrier musulman. Mahomet meurt en 632."
+    },
+    {
+      "title": "Une religion, un livre, cinq piliers",
+      "text": "Les musulmans sont les fidèles de l’islam. Leur livre sacré est le Coran, qui rassemble, selon eux, la parole de Dieu transmise à Mahomet ; il est mis par écrit peu après sa mort. La pratique de l’islam repose sur cinq piliers : la profession de foi (croire en un Dieu unique et en Mahomet comme son prophète), la prière, l’aumône, le jeûne pendant le mois de ramadan et le pèlerinage à La Mecque, que chaque musulman doit faire une fois dans sa vie s’il le peut. Attention : être musulman, c’est pratiquer une religion ; être arabe, c’est parler l’arabe ou appartenir à une culture arabe. Tous les musulmans ne sont pas arabes."
+    },
+    {
+      "title": "Les califes et un vaste empire",
+      "text": "Après la mort de Mahomet, ses successeurs s’appellent les califes. Le calife dirige la communauté des musulmans : il a un pouvoir à la fois politique, militaire et religieux. Les armées arabo-musulmanes conquièrent en moins d’un siècle de vastes territoires, de l’Espagne à l’Asie centrale. La dynastie des Omeyyades (661-750) gouverne depuis Damas. Les Abbassides, qui leur succèdent en 750, fondent en 762 une nouvelle capitale, Bagdad. En Orient, le calife se distingue du basileus, l’empereur de Byzance, et de l’empereur d’Occident, qui sont des souverains chrétiens."
+    },
+    {
+      "title": "Bagdad, ville de savoirs et d’échanges, jusqu’en 1258",
+      "text": "Située sur le fleuve Tigre, Bagdad devient au IXe siècle l’une des plus grandes villes du monde, un carrefour de marchands et de voyageurs. Les savants y traduisent en arabe des ouvrages grecs, indiens et persans et font progresser les mathématiques, l’astronomie ou la médecine. Le mathématicien al-Khwarizmi (IXe siècle) a laissé son nom au mot « algorithme », et le titre d’un de ses livres est à l’origine du mot « algèbre ». La Méditerranée est aussi un espace où circulent les marins, les marchands et les idées, entre le monde musulman, Byzance et l’Europe. En 1258, les Mongols prennent et ravagent Bagdad : c’est la fin du califat abbasside de Bagdad."
+    }
+  ],
+  "revision_sheet": [
+    "L’islam naît en Arabie au VIIe siècle avec Mahomet ; l’Hégire (622) est le départ de La Mecque pour Médine et marque l’an 1 du calendrier musulman.",
+    "Le Coran est le livre sacré des musulmans ; l’islam repose sur cinq piliers.",
+    "Le calife est le successeur de Mahomet à la tête de la communauté des musulmans.",
+    "Omeyyades (661-750) : capitale Damas. Abbassides (750-1258) : capitale Bagdad, fondée en 762.",
+    "Bagdad est un carrefour d’échanges et un centre de savoir ; elle est prise par les Mongols en 1258.",
+    "Musulman et arabe ne veulent pas dire la même chose."
+  ],
+  "quiz": [
+    {
+      "prompt": "Que désigne l’Hégire, en 622 ?",
+      "choices": [
+        "Le départ de Mahomet de La Mecque vers Médine",
+        "La mort de Mahomet",
+        "La prise de Bagdad par les Mongols"
+      ],
+      "correct_index": 0,
+      "explanation": "L’Hégire est le départ de Mahomet de La Mecque pour Médine en 622. Cette année est l’an 1 du calendrier musulman."
+    },
+    {
+      "prompt": "Qu’est-ce qu’un calife ?",
+      "choices": [
+        "Un marchand de La Mecque",
+        "Le successeur de Mahomet à la tête de la communauté des musulmans",
+        "L’empereur de Byzance"
+      ],
+      "correct_index": 1,
+      "explanation": "Le mot calife signifie « successeur » : il dirige la communauté des musulmans après la mort de Mahomet. L’empereur de Byzance s’appelle le basileus."
+    },
+    {
+      "prompt": "Quelle ville les Abbassides fondent-ils comme capitale en 762 ?",
+      "choices": [
+        "Damas",
+        "Bagdad",
+        "Constantinople"
+      ],
+      "correct_index": 1,
+      "explanation": "Bagdad est fondée en 762 sur le Tigre. Damas était la capitale des Omeyyades, et Constantinople celle de Byzance."
+    },
+    {
+      "prompt": "Qui prend Bagdad en 1258 ?",
+      "choices": [
+        "Les Mongols",
+        "Les Omeyyades",
+        "Les Carolingiens"
+      ],
+      "correct_index": 0,
+      "explanation": "Les Mongols prennent Bagdad en 1258, ce qui met fin au califat abbasside de cette ville."
+    },
+    {
+      "prompt": "Combien y a-t-il de piliers dans l’islam ?",
+      "choices": [
+        "Trois",
+        "Cinq",
+        "Dix"
+      ],
+      "correct_index": 1,
+      "explanation": "L’islam repose sur cinq piliers : la profession de foi, la prière, l’aumône, le jeûne du ramadan et le pèlerinage à La Mecque."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Place dans l’ordre chronologique : la prise de Bagdad par les Mongols, l’Hégire, la fondation de Bagdad.",
+      "solution": "1) L’Hégire (622) ; 2) la fondation de Bagdad (762) ; 3) la prise de Bagdad par les Mongols (1258).",
+      "success_criterion": "Ordonner correctement les trois faits avec leurs dates."
+    },
+    {
+      "prompt": "Complète : les Omeyyades gouvernent depuis la ville de … ; les Abbassides gouvernent depuis la ville de ….",
+      "solution": "Les Omeyyades gouvernent depuis Damas ; les Abbassides gouvernent depuis Bagdad.",
+      "success_criterion": "Associer Damas aux Omeyyades et Bagdad aux Abbassides."
+    },
+    {
+      "prompt": "Vrai ou faux ? « Tous les musulmans sont arabes. » Justifie.",
+      "solution": "Faux. Être musulman, c’est pratiquer l’islam ; être arabe renvoie à la langue ou à la culture arabe. Des musulmans ne sont pas arabes, et des Arabes ne sont pas tous musulmans.",
+      "success_criterion": "Répondre « faux » et distinguer religion et culture."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique ce qu’est un calife et dis en quoi son rôle diffère de celui d’un empereur de Byzance (le basileus).",
+      "solution": "Le calife est le successeur de Mahomet à la tête de la communauté des musulmans ; il a un pouvoir politique, militaire et religieux. Le basileus est l’empereur de Byzance, un souverain chrétien. Ce sont deux fonctions de pouvoir dans deux mondes différents.",
+      "success_criterion": "Définir le calife comme successeur de Mahomet et citer le basileus comme empereur de Byzance."
+    },
+    {
+      "prompt": "Qu’est-ce que l’Hégire ? Pourquoi est-ce un repère important pour les musulmans ?",
+      "solution": "L’Hégire est le départ de Mahomet de La Mecque vers Médine, en 622. C’est le point de départ (l’an 1) du calendrier musulman.",
+      "success_criterion": "Donner la date 622, le trajet La Mecque – Médine et le lien avec le calendrier."
+    },
+    {
+      "prompt": "En quelques phrases, explique pourquoi Bagdad est un lieu important entre 762 et 1258.",
+      "solution": "Bagdad est la capitale des Abbassides, fondée en 762. C’est une grande ville de commerce où des savants traduisent des ouvrages et font progresser les sciences. Elle est prise et ravagée par les Mongols en 1258.",
+      "success_criterion": "Mentionner la capitale abbasside, les échanges ou le savoir, et la date 1258."
+    }
+  ],
+  "audio_transcript": "L’islam naît au septième siècle en Arabie, avec Mahomet. En six cent vingt-deux, il quitte La Mecque pour Médine : c’est l’Hégire, qui marque l’an un du calendrier musulman. Le livre sacré des musulmans est le Coran, et l’islam repose sur cinq piliers. Après la mort de Mahomet, ses successeurs, les califes, dirigent la communauté des musulmans. Les Omeyyades gouvernent depuis Damas, puis les Abbassides fondent Bagdad en sept cent soixante-deux. Bagdad devient une grande ville d’échanges et de savoir, où l’on traduit des livres grecs, indiens et persans. En mille deux cent cinquante-huit, les Mongols prennent Bagdad.",
+  "guided_explanation": "Dessine une frise chronologique avec trois repères : 622, 762 et 1258. Sous 622, écris « Hégire : Mahomet part de La Mecque pour Médine ». Sous 762, écris « Les Abbassides fondent Bagdad ». Sous 1258, écris « Les Mongols prennent Bagdad ». Compte ensuite l’écart entre 762 et 1258 : cela fait presque cinq siècles pendant lesquels Bagdad est une grande ville. Entre les repères, ajoute les mots Omeyyades (Damas) et Abbassides (Bagdad). Tu peux ainsi raconter l’histoire du monde musulman en suivant ta frise."
+}

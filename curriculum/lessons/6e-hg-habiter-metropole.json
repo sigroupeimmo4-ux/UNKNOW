@@ -1,0 +1,132 @@
+{
+  "id": "6e-hg-habiter-metropole",
+  "title": "Habiter une métropole",
+  "chapter_id": "6e-hg-habiter-metropole",
+  "program_id": "6e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Définir ce qu’est une métropole et citer ses fonctions économiques, politiques, culturelles et sociales.",
+    "Distinguer les différents habitants d’une métropole : résidents, migrants pendulaires, touristes, usagers occasionnels.",
+    "Identifier quelques problèmes d’une métropole (transports, pollution, logement, inégalités) et des réponses possibles.",
+    "Imaginer une ville de demain plus durable."
+  ],
+  "skill_ids": [
+    "6e-hg-habiter-metropole-skill"
+  ],
+  "source_locators": [
+    "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Qu’est-ce qu’une métropole ?",
+      "text": "Une métropole est une très grande ville qui rassemble beaucoup d’habitants et qui concentre des entreprises, des emplois, des universités, des hôpitaux, des administrations, des musées et des théâtres. Elle a donc des fonctions économiques, sociales, politiques et culturelles. Elle rayonne bien au-delà de ses limites : elle attire des personnes et des activités et elle est reliée à d’autres villes du monde par des gares, des aéroports ou des ports. Paris est un exemple de métropole d’un pays développé."
+    },
+    {
+      "title": "Des habitants qui pratiquent la métropole différemment",
+      "text": "Tous les habitants ne vivent pas la métropole de la même façon. Les résidents y habitent. Les migrants pendulaires y viennent chaque jour pour travailler ou étudier, puis repartent chez eux, dans une autre commune. Les touristes y passent quelques jours pour visiter. Les usagers occasionnels viennent de temps en temps pour une démarche, des soins, des achats ou un spectacle. Ces habitants se déplacent sans arrêt : on parle de flux de personnes, de marchandises et d’informations."
+    },
+    {
+      "title": "Des problèmes et des contraintes",
+      "text": "Dans de nombreuses métropoles, il y a des difficultés : transports saturés et embouteillages, pollution de l’air, bruit, logements chers ou trop peu nombreux, inégalités entre les quartiers. La ville qui s’étend peut aussi prendre la place de terres agricoles ou d’espaces naturels. Les métropoles des pays développés et celles des pays émergents ou en développement, comme Mumbai en Inde, ont des points communs, mais aussi des différences. Dans certaines métropoles à croissance rapide, une part importante des habitants vit dans des quartiers précaires construits sans autorisation."
+    },
+    {
+      "title": "Imaginer la ville de demain",
+      "text": "Pour mieux vivre ensemble, on cherche à construire des villes plus durables. Le développement durable consiste à répondre aux besoins d’aujourd’hui sans empêcher les générations futures de répondre aux leurs. Pour la ville de demain, on peut imaginer plus de transports en commun, de pistes cyclables et de rues piétonnes (mobilités douces), plus d’espaces verts, des bâtiments qui consomment moins d’énergie, le recyclage des déchets et des aliments produits plus près de la ville."
+    }
+  ],
+  "revision_sheet": [
+    "Une métropole est une très grande ville qui concentre habitants, activités, pouvoirs et services, et qui rayonne au-delà de ses limites.",
+    "Fonctions d’une métropole : économiques, sociales, politiques et culturelles.",
+    "Ses habitants : résidents, migrants pendulaires (trajet régulier domicile-travail ou études), touristes, usagers occasionnels.",
+    "Problèmes fréquents : transports saturés, pollution, logement, inégalités entre quartiers.",
+    "Ville de demain : mobilités douces, nature en ville, bâtiments économes, recyclage ; développement durable = répondre aux besoins d’aujourd’hui sans compromettre ceux des générations futures."
+  ],
+  "quiz": [
+    {
+      "prompt": "Qu’est-ce qu’une métropole ?",
+      "choices": [
+        "Un petit village qui produit du blé",
+        "Une très grande ville qui concentre habitants, activités et pouvoirs, et qui rayonne au-delà de ses limites",
+        "Un quartier d’une ville de campagne"
+      ],
+      "correct_index": 1,
+      "explanation": "Une métropole est une très grande ville qui concentre population, activités et fonctions importantes et qui exerce une influence sur un vaste territoire."
+    },
+    {
+      "prompt": "Qui est un migrant pendulaire ?",
+      "choices": [
+        "Une personne qui change de pays chaque année",
+        "Une personne qui se déplace régulièrement entre son lieu de résidence et son lieu de travail ou d’études",
+        "Un touriste qui passe une semaine de vacances"
+      ],
+      "correct_index": 1,
+      "explanation": "Le migrant pendulaire fait régulièrement, souvent chaque jour, l’aller-retour entre son domicile et son lieu de travail ou d’études, situés dans des communes différentes."
+    },
+    {
+      "prompt": "Lequel de ces problèmes est fréquent dans les métropoles ?",
+      "choices": [
+        "Des transports saturés et de la pollution de l’air",
+        "L’absence totale de commerces",
+        "L’absence de tout habitant"
+      ],
+      "correct_index": 0,
+      "explanation": "Dans de nombreuses métropoles, la forte concentration de population et d’activités crée des embouteillages, de la pollution et d’autres difficultés."
+    },
+    {
+      "prompt": "Lequel est un exemple de mobilité douce ?",
+      "choices": [
+        "Le vélo et la marche à pied",
+        "L’avion pour aller au travail",
+        "La voiture seul à bord"
+      ],
+      "correct_index": 0,
+      "explanation": "Les mobilités douces sont les déplacements peu polluants comme la marche et le vélo."
+    },
+    {
+      "prompt": "Que signifie développement durable ?",
+      "choices": [
+        "Construire le plus vite possible, sans se préoccuper de l’avenir",
+        "Répondre aux besoins d’aujourd’hui sans empêcher les générations futures de répondre aux leurs",
+        "Ne plus rien construire du tout"
+      ],
+      "correct_index": 1,
+      "explanation": "Le développement durable cherche un équilibre entre les besoins actuels et la préservation des ressources pour les générations futures."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Classe ces personnes : (a) une famille qui habite en centre-ville ; (b) une salariée qui prend le train chaque matin d’une commune voisine pour travailler en ville ; (c) un groupe venu visiter des musées pendant le week-end ; (d) un habitant d’une autre région venu consulter un hôpital.",
+      "solution": "(a) résidents ; (b) migrante pendulaire ; (c) touristes ; (d) usager occasionnel.",
+      "success_criterion": "Associer correctement les quatre situations aux quatre types d’habitants."
+    },
+    {
+      "prompt": "Donne deux exemples de fonctions d’une métropole et illustre chacun par un lieu ou une activité.",
+      "solution": "Fonction économique : entreprises, bureaux, aéroport. Fonction culturelle : musées, théâtres, universités. (Fonctions politiques : administrations ; sociales : hôpitaux, écoles.)",
+      "success_criterion": "Nommer deux fonctions et donner un exemple adapté pour chacune."
+    },
+    {
+      "prompt": "Propose un problème d’une métropole et une solution possible.",
+      "solution": "Exemple : embouteillages et pollution ; solution : développer les transports en commun et les pistes cyclables.",
+      "success_criterion": "Relier un problème réel à une réponse cohérente."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique en quelques phrases pourquoi une métropole attire beaucoup de personnes.",
+      "solution": "Elle offre beaucoup d’emplois, d’écoles et d’universités, de services (hôpitaux, administrations) et d’activités culturelles. Elle est aussi bien reliée aux autres villes par les transports.",
+      "success_criterion": "Donner au moins deux raisons précises liées aux fonctions de la métropole."
+    },
+    {
+      "prompt": "Pourquoi dit-on que les habitants d’une métropole sont divers ?",
+      "solution": "Parce que les résidents, les migrants pendulaires, les touristes et les usagers occasionnels pratiquent la métropole différemment : certains y habitent, d’autres y viennent travailler, visiter ou faire des démarches.",
+      "success_criterion": "Citer au moins trois types d’habitants et leur façon différente de pratiquer la métropole."
+    },
+    {
+      "prompt": "Décris en quatre ou cinq lignes ta ville de demain : deux idées pour les déplacements, une pour la nature, une pour les déchets ou l’énergie.",
+      "solution": "Exemple de production : transports en commun fréquents, rues piétonnes et vélos, parcs et arbres dans les rues, tri et recyclage des déchets, bâtiments qui consomment peu d’énergie.",
+      "success_criterion": "Proposer des idées réalistes qui respectent le développement durable."
+    }
+  ],
+  "audio_transcript": "Une métropole est une très grande ville. Elle rassemble beaucoup d’habitants, d’entreprises, de services, d’universités et d’équipements culturels. Elle a des fonctions économiques, sociales, politiques et culturelles et elle rayonne bien au-delà de ses limites. Ses habitants la pratiquent de façons différentes : les résidents y vivent, les migrants pendulaires y viennent chaque jour travailler ou étudier, les touristes la visitent, et les usagers occasionnels y viennent de temps en temps. Les métropoles posent des problèmes : transports saturés, pollution, logements chers, inégalités entre quartiers. Pour la ville de demain, on imagine plus de vélos, de transports en commun, d’espaces verts et de recyclage, dans une démarche de développement durable.",
+  "guided_explanation": "Pense à ta ville ou à une grande ville que tu connais. Dresse la liste de tout ce qu’on peut y faire : travailler, étudier, se soigner, visiter, prendre le train ou l’avion. Plus une ville offre de choses, plus elle attire de monde : c’est ce qui en fait une métropole. Pense ensuite aux différentes personnes dans la rue : certaines habitent là, d’autres arrivent le matin et repartent le soir, d’autres sont juste de passage. Ce sont les résidents, les migrants pendulaires, les touristes et les usagers occasionnels. Enfin, demande-toi : qu’est-ce qui rend la vie difficile là-bas, et comment l’améliorer sans abîmer l’avenir ? Tu réfléchis alors comme un géographe qui prépare la ville de demain."
+}

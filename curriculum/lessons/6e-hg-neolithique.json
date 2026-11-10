@@ -1,0 +1,132 @@
+{
+  "id": "6e-hg-neolithique",
+  "title": "La « révolution » néolithique",
+  "chapter_id": "6e-hg-neolithique",
+  "program_id": "6e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Décrire le mode de vie des chasseurs-cueilleurs nomades avant le Néolithique.",
+    "Expliquer en quoi l’agriculture, l’élevage et la sédentarisation changent la vie des groupes humains au Néolithique.",
+    "Comprendre pourquoi on parle de « révolution » néolithique alors que le changement est lent et inégal selon les régions.",
+    "Citer des traces archéologiques qui permettent de connaître le Néolithique."
+  ],
+  "skill_ids": [
+    "6e-hg-neolithique-skill"
+  ],
+  "source_locators": [
+    "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Avant le Néolithique : des groupes nomades",
+      "text": "Pendant très longtemps, les êtres humains ne produisent pas leur nourriture. Ce sont des chasseurs-cueilleurs : ils chassent des animaux, pêchent et ramassent des fruits, des graines et des racines. Quand il n’y a plus assez de gibier ou de plantes autour d’eux, ils partent ailleurs : ils sont nomades. Ils vivent en petits groupes et installent des campements, parfois dans des grottes ou des abris sous roche."
+    },
+    {
+      "title": "Le Néolithique : cultiver et élever",
+      "text": "Le mot Néolithique veut dire « nouvel âge de la pierre ». Il y a plus de 10 000 ans, dans une région du Proche-Orient, des groupes humains commencent à semer des céréales comme le blé et l’orge et à élever des animaux comme les moutons et les chèvres. Ils produisent désormais une partie de leur nourriture : c’est l’agriculture et l’élevage. Ailleurs dans le monde, d’autres peuples cultivent d’autres plantes, par exemple le riz en Chine ou le maïs en Amérique, mais pas aux mêmes moments."
+    },
+    {
+      "title": "Des villages et une vie sédentaire",
+      "text": "Pour s’occuper des champs et des troupeaux, il faut rester au même endroit : les groupes se sédentarisent. Ils construisent des maisons solides et des villages. Ils fabriquent des poteries en terre cuite pour conserver les récoltes et cuire les aliments, et ils stockent des réserves de grains. Ils défrichent des terres, créent des champs et des pâturages : les humains transforment leur environnement."
+    },
+    {
+      "title": "Une « révolution » lente, connue grâce aux traces",
+      "text": "On parle de « révolution » néolithique parce que la vie change profondément. Pourtant, ce changement dure des milliers d’années et n’a pas lieu en même temps partout. Pour le connaître, les archéologues fouillent le sol et étudient des restes de graines, des ossements d’animaux, des poteries, des outils en pierre polie et des fondations de maisons. Çatal Höyük, en Turquie actuelle, est un village néolithique célèbre ; les alignements de pierres dressées de Carnac, en Bretagne, datent aussi du Néolithique."
+    }
+  ],
+  "revision_sheet": [
+    "Avant le Néolithique, les humains sont des chasseurs-cueilleurs nomades : ils chassent, pêchent, cueillent et se déplacent.",
+    "Au Néolithique, des groupes pratiquent l’agriculture (cultiver des plantes) et l’élevage (élever des animaux). Cela commence il y a plus de 10 000 ans au Proche-Orient.",
+    "Sédentarisation : rester vivre au même endroit, dans des villages. On fabrique des poteries et on stocke des réserves.",
+    "On parle de « révolution » mais le changement est lent et ne se produit pas en même temps dans toutes les régions.",
+    "Les archéologues connaissent le Néolithique grâce aux traces : graines, ossements, poteries, outils, restes de maisons."
+  ],
+  "quiz": [
+    {
+      "prompt": "Comment vivent les humains avant l’agriculture ?",
+      "choices": [
+        "Ils sont chasseurs-cueilleurs et se déplacent souvent",
+        "Ils vivent dans de grandes villes",
+        "Ils cultivent des champs de blé toute l’année"
+      ],
+      "correct_index": 0,
+      "explanation": "Avant le Néolithique, les humains chassent, pêchent et cueillent, et ils se déplacent pour suivre le gibier et les plantes : ils sont nomades."
+    },
+    {
+      "prompt": "Que veut dire « se sédentariser » ?",
+      "choices": [
+        "Voyager d’un pays à un autre",
+        "Vivre durablement au même endroit",
+        "Chasser de plus en plus loin"
+      ],
+      "correct_index": 1,
+      "explanation": "Se sédentariser, c’est s’installer durablement au même endroit, par exemple dans un village, au lieu de se déplacer sans cesse."
+    },
+    {
+      "prompt": "Quelles sont les deux grandes nouveautés du Néolithique ?",
+      "choices": [
+        "L’agriculture et l’élevage",
+        "L’imprimerie et l’électricité",
+        "Le commerce par avion et l’écriture numérique"
+      ],
+      "correct_index": 0,
+      "explanation": "Au Néolithique, des groupes humains cultivent des plantes (agriculture) et élèvent des animaux (élevage)."
+    },
+    {
+      "prompt": "Pourquoi écrit-on « révolution » néolithique avec des guillemets ?",
+      "choices": [
+        "Parce qu’elle a été très rapide et violente",
+        "Parce que le changement est lent, étalé sur des milliers d’années, et inégal selon les régions",
+        "Parce qu’elle n’a existé qu’en Europe"
+      ],
+      "correct_index": 1,
+      "explanation": "Le mot « révolution » peut faire croire à un changement brutal. En réalité, les changements prennent des milliers d’années et ne se produisent pas en même temps partout."
+    },
+    {
+      "prompt": "Quel objet sert à conserver des aliments dans les villages néolithiques ?",
+      "choices": [
+        "Un vase en terre cuite (poterie)",
+        "Un réfrigérateur",
+        "Un livre"
+      ],
+      "correct_index": 0,
+      "explanation": "Les poteries en terre cuite permettent de conserver des grains et d’autres aliments, et de cuire les repas."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Complète : les chasseurs-cueilleurs sont ... parce qu’ils se déplacent ; les agriculteurs-éleveurs sont ... parce qu’ils restent au même endroit.",
+      "solution": "Les chasseurs-cueilleurs sont nomades ; les agriculteurs-éleveurs sont sédentaires.",
+      "success_criterion": "Utiliser correctement les mots nomades et sédentaires."
+    },
+    {
+      "prompt": "Cite deux animaux élevés au Néolithique et deux plantes cultivées dans le monde à cette période.",
+      "solution": "Animaux : mouton, chèvre (d’autres élevages existent aussi). Plantes : blé, orge au Proche-Orient ; riz en Chine ; maïs en Amérique.",
+      "success_criterion": "Donner deux animaux et deux plantes exacts."
+    },
+    {
+      "prompt": "Explique pourquoi la poterie est utile quand on vit dans un village et qu’on récolte des grains.",
+      "solution": "On peut y conserver les grains récoltés pour les manger plus tard et y cuire des aliments : on a des réserves et on peut rester au même endroit.",
+      "success_criterion": "Mentionner le stockage ou la conservation des réserves."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Décris en trois ou quatre phrases la vie d’un groupe de chasseurs-cueilleurs, puis celle d’un village néolithique.",
+      "solution": "Les chasseurs-cueilleurs chassent, pêchent et cueillent, se déplacent selon les saisons et vivent dans des campements. Dans un village néolithique, on cultive des champs, on élève des animaux, on habite des maisons durables et on stocke des réserves.",
+      "success_criterion": "Distinguer clairement nomadisme et sédentarité avec au moins deux différences."
+    },
+    {
+      "prompt": "Un archéologue découvre des graines de blé brûlées, des os de mouton et des fondations de maisons. Que peut-il en conclure ?",
+      "solution": "Ces traces montrent que des gens cultivaient des céréales, élevaient des moutons et vivaient dans un village : ils étaient sédentaires et pratiquaient l’agriculture et l’élevage.",
+      "success_criterion": "Relier chaque trace à un élément du mode de vie néolithique."
+    },
+    {
+      "prompt": "Pourquoi dit-on que l’agriculture n’apparaît pas au même moment dans tous les espaces du monde ?",
+      "solution": "Les groupes humains n’ont pas tous les mêmes plantes, les mêmes animaux ni le même climat : ils se sédentarisent et cultivent à des moments différents selon les régions.",
+      "success_criterion": "Expliquer que le changement dépend des espaces géographiques et n’est pas simultané."
+    }
+  ],
+  "audio_transcript": "Pendant très longtemps, les humains sont des chasseurs-cueilleurs. Ils chassent, pêchent et cueillent, et ils se déplacent : ils sont nomades. Il y a plus de dix mille ans, au Proche-Orient, certains groupes commencent à cultiver des céréales et à élever des animaux. C’est le Néolithique. Pour s’occuper des champs et des troupeaux, il faut rester au même endroit : les humains se sédentarisent et construisent des villages. Ils fabriquent des poteries et stockent des réserves. On parle de révolution néolithique, mais ce changement est lent : il dure des milliers d’années et n’arrive pas en même temps partout. Les archéologues le connaissent grâce aux traces retrouvées dans le sol.",
+  "guided_explanation": "Imagine deux familles. La première suit les troupeaux de gibier et change de campement quand il n’y a plus rien à manger : elle est nomade. La seconde sème des graines au printemps, attend la récolte, soigne ses moutons et reste près de ses champs : elle est sédentaire. Pour garder la récolte pendant l’hiver, elle a besoin de poteries et de réserves. Regarde ce que fait un archéologue : il retrouve des graines, des os de moutons et des restes de maisons au même endroit. Chaque trace raconte un morceau de la vie du village. Retiens aussi que ce grand changement n’est pas un événement d’un jour : il prend des milliers d’années."
+}

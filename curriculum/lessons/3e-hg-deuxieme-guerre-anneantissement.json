@@ -1,0 +1,131 @@
+{
+  "id": "3e-hg-deuxieme-guerre-anneantissement",
+  "title": "La Deuxième Guerre mondiale, une guerre d’anéantissement",
+  "chapter_id": "3e-hg-deuxieme-guerre-anneantissement",
+  "program_id": "3e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Situer le début et la fin de la Deuxième Guerre mondiale.",
+    "Expliquer pourquoi on parle de guerre d’anéantissement et de violence de masse.",
+    "Définir le génocide des Juifs (Shoah) et citer le génocide des Tziganes."
+  ],
+  "skill_ids": [
+    "3e-hg-deuxieme-guerre-anneantissement-skill"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Un conflit mondial (1939-1945)",
+      "text": "La Deuxième Guerre mondiale commence le 1er septembre 1939, quand l’Allemagne nazie envahit la Pologne. La France et le Royaume-Uni déclarent la guerre à l’Allemagne le 3 septembre. Le conflit s’étend ensuite à l’Europe, à l’Afrique, à l’Asie et aux océans : c’est une guerre aux dimensions planétaires. L’Allemagne attaque l’URSS en juin 1941, et les États-Unis entrent en guerre à la fin de 1941."
+    },
+    {
+      "title": "Une guerre d’anéantissement",
+      "text": "Cette guerre est marquée par une violence de masse. Les civils sont des victimes très nombreuses : bombardements de villes, massacres, déportations, travail forcé. Le régime nazi mène une guerre d’anéantissement, surtout à l’Est : l’objectif n’est pas seulement de vaincre l’armée adverse, mais aussi de détruire des populations entières. Il y a des dizaines de millions de morts, dont une grande partie de civils."
+    },
+    {
+      "title": "Le génocide des Juifs et des Tziganes",
+      "text": "Le régime nazi persécute puis assassine les Juifs d’Europe : c’est la Shoah, un génocide qui fait environ six millions de victimes. Les Juifs sont arrêtés, enfermés dans des ghettos ou déportés vers des camps, dont des camps d’extermination comme Auschwitz-Birkenau. Les Tziganes (Roms et Sinti) sont eux aussi victimes d’un génocide. D’autres groupes sont persécutés, par exemple des opposants politiques et des personnes handicapées."
+    },
+    {
+      "title": "La fin de la guerre",
+      "text": "L’Allemagne nazie capitule le 8 mai 1945 : c’est la fin de la guerre en Europe. La guerre se termine dans le monde le 2 septembre 1945, avec la capitulation du Japon, après les bombardements atomiques américains d’Hiroshima et de Nagasaki en août 1945. Les camps nazis sont découverts par les armées alliées ; ils montrent l’ampleur des crimes commis."
+    }
+  ],
+  "revision_sheet": [
+    "La Deuxième Guerre mondiale dure de 1939 à 1945 (1er septembre 1939 : invasion de la Pologne).",
+    "C’est une guerre planétaire, marquée par la violence de masse contre les civils.",
+    "La Shoah est le génocide des Juifs d’Europe par le régime nazi : environ 6 millions de victimes.",
+    "Les Tziganes sont aussi victimes d’un génocide ; d’autres minorités sont persécutées.",
+    "Fin de la guerre en Europe : 8 mai 1945 ; fin dans le monde : 2 septembre 1945."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel événement marque le début de la Deuxième Guerre mondiale en 1939 ?",
+      "choices": [
+        "L’invasion de la Pologne par l’Allemagne nazie",
+        "L’armistice de 1918",
+        "La capitulation du Japon"
+      ],
+      "correct_index": 0,
+      "explanation": "Le 1er septembre 1939, l’Allemagne nazie envahit la Pologne ; la France et le Royaume-Uni lui déclarent la guerre le 3 septembre."
+    },
+    {
+      "prompt": "Quelle est la date de la fin de la guerre en Europe ?",
+      "choices": [
+        "Le 11 novembre 1918",
+        "Le 8 mai 1945",
+        "Le 1er septembre 1939"
+      ],
+      "correct_index": 1,
+      "explanation": "L’Allemagne nazie capitule le 8 mai 1945, ce qui met fin à la guerre en Europe."
+    },
+    {
+      "prompt": "Que désigne le mot « Shoah » ?",
+      "choices": [
+        "Le génocide des Juifs d’Europe par le régime nazi",
+        "Une bataille de 1940",
+        "Un traité de paix"
+      ],
+      "correct_index": 0,
+      "explanation": "La Shoah est le génocide des Juifs d’Europe organisé par le régime nazi."
+    },
+    {
+      "prompt": "Environ combien de Juifs ont été assassinés pendant la Shoah ?",
+      "choices": [
+        "Environ 6 000",
+        "Environ 600 000",
+        "Environ 6 millions"
+      ],
+      "correct_index": 2,
+      "explanation": "On estime à environ six millions le nombre de Juifs d’Europe assassinés pendant la Shoah."
+    },
+    {
+      "prompt": "Quel autre groupe a été victime d’un génocide par le régime nazi ?",
+      "choices": [
+        "Les Tziganes",
+        "Les marins",
+        "Les agriculteurs"
+      ],
+      "correct_index": 0,
+      "explanation": "Les Tziganes (Roms et Sinti) ont été victimes d’un génocide ; d’autres minorités ont aussi été persécutées."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Donne la date de début de la guerre et la date de sa fin en Europe.",
+      "solution": "Elle commence le 1er septembre 1939 et se termine en Europe le 8 mai 1945.",
+      "success_criterion": "Donner les deux dates exactes."
+    },
+    {
+      "prompt": "Pourquoi dit-on que la Deuxième Guerre mondiale est une guerre planétaire ?",
+      "solution": "Parce que les combats ont lieu sur plusieurs continents (Europe, Afrique, Asie) et sur les océans, et que de nombreux pays du monde sont engagés.",
+      "success_criterion": "Citer plusieurs continents ou la participation de nombreux pays."
+    },
+    {
+      "prompt": "Définis le mot « génocide » avec tes mots.",
+      "solution": "Un génocide est la destruction volontaire et organisée d’un groupe de personnes à cause de ce qu’il est.",
+      "success_criterion": "Mentionner la volonté de détruire un groupe de personnes."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique en deux phrases ce que signifie « guerre d’anéantissement ».",
+      "solution": "C’est une guerre dont le but est de détruire des populations entières et pas seulement de vaincre une armée. Elle s’accompagne d’une violence de masse contre les civils.",
+      "success_criterion": "Parler de destruction de populations et de violence contre les civils."
+    },
+    {
+      "prompt": "Cite deux groupes persécutés par le régime nazi, dont un victime d’un génocide.",
+      "solution": "Par exemple : les Juifs (Shoah) et les Tziganes, tous deux victimes d’un génocide ; d’autres sont persécutés, comme des opposants politiques ou des personnes handicapées.",
+      "success_criterion": "Citer deux groupes exacts dont au moins un victime de génocide."
+    },
+    {
+      "prompt": "Place sur une frise les dates : 1er septembre 1939, 8 mai 1945, 2 septembre 1945. Explique chaque date en quelques mots.",
+      "solution": "1er septembre 1939 : invasion de la Pologne, début de la guerre. 8 mai 1945 : capitulation de l’Allemagne, fin en Europe. 2 septembre 1945 : capitulation du Japon, fin dans le monde.",
+      "success_criterion": "Ranger les trois dates dans l’ordre et les expliquer correctement."
+    }
+  ],
+  "audio_transcript": "La Deuxième Guerre mondiale commence le premier septembre mille neuf cent trente-neuf, quand l’Allemagne nazie envahit la Pologne. C’est un conflit aux dimensions planétaires, marqué par une violence de masse : les civils sont très nombreux parmi les victimes. Le régime nazi mène une guerre d’anéantissement. Il organise le génocide des Juifs, appelé la Shoah, qui fait environ six millions de victimes, et un génocide des Tziganes. L’Allemagne capitule le huit mai mille neuf cent quarante-cinq, et la guerre se termine dans le monde le deux septembre mille neuf cent quarante-cinq.",
+  "guided_explanation": "Prends une frise et marque trois repères : le 1er septembre 1939, début de la guerre avec l’invasion de la Pologne ; le 8 mai 1945, fin en Europe ; le 2 septembre 1945, fin dans le monde. Entre ces dates, retiens deux idées. D’abord, la guerre touche toute la planète et les civils en sont des victimes très nombreuses. Ensuite, le régime nazi organise des génocides : la Shoah, qui détruit environ six millions de Juifs, et celui des Tziganes. Un génocide vise un groupe entier à cause de ce qu’il est."
+}

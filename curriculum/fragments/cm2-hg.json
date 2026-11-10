@@ -1,0 +1,674 @@
+{
+ "programs": [
+  {
+   "id": "CM2-histoire-geographie-commun",
+   "version": "2026-2027-reference-1",
+   "scope_id": "CM2",
+   "subject_id": "histoire-geographie-commun",
+   "teaching_type": "commun",
+   "variant": "",
+   "source": {
+    "url": "https://eduscol.education.gouv.fr/media/100806/download?attachment",
+    "title": "Histoire-géographie",
+    "text_reference": "Histoire-géographie (BO n° 31 du 30 juillet 2020)",
+    "published_on": "2020-07-30",
+    "checked_on": "2026-10-29",
+    "sha256": "879251a7b7b6dbf63cc982b6b3684e33c51c0661bbac190e381490c9d61aad0f",
+    "source_id": "6c4a972c138daa2e"
+   },
+   "effective_from": "2020-09-01",
+   "effective_until": "2027-08-31",
+   "reference_status": "verified",
+   "review_status": "partial",
+   "coverage_status": "partial",
+   "domains": [
+    {
+     "id": "cm2-hg-histoire",
+     "title": "Histoire : le temps de la République et la France au vingtième siècle",
+     "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thèmes 1 et 3, pages 71-72 du PDF (pagination imprimée 70-71).",
+     "chapters": [
+      {
+       "id": "cm2-hg-republique-ecole-ferry",
+       "title": "La République et l’école de Jules Ferry",
+       "title_type": "editorial",
+       "official_section": "Thème 1 – Le temps de la République",
+       "notions": [
+        "Centenaire de la République en 1892",
+        "Symboles de la République",
+        "L’école gratuite, laïque et obligatoire",
+        "Libertés, droits et devoirs des citoyens"
+       ],
+       "knowledge": [
+        {
+         "id": "cm2-hg-republique-ecole-ferry-knowledge",
+         "text": "Les Français célèbrent le centenaire de la République en 1892 ; à partir des années 1880, l’école gratuite, laïque et obligatoire contribue à faire adhérer les citoyens à la République ; les libertés et les droits d’aujourd’hui sont le fruit d’une évolution de la société et de la démocratie.",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+        }
+       ],
+       "skills": [
+        {
+         "id": "cm2-hg-republique-ecole-ferry-situer",
+         "text": "Se repérer dans le temps : situer l’école de Jules Ferry et le centenaire de 1892 sur une frise chronologique.",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+        },
+        {
+         "id": "cm2-hg-republique-ecole-ferry-droits",
+         "text": "Comprendre, à partir d’exemples simples, que les libertés et les droits d’aujourd’hui se sont construits peu à peu et s’accompagnent de devoirs.",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+        }
+       ],
+       "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+      },
+      {
+       "id": "cm2-hg-guerres-mondiales-europe",
+       "title": "Les deux guerres mondiales et la construction européenne",
+       "title_type": "editorial",
+       "official_section": "Thème 3 – La France, des guerres mondiales à l’Union européenne",
+       "notions": [
+        "Grande Guerre (1914-1918)",
+        "Seconde Guerre mondiale (1939-1945)",
+        "Résistance, France combattante et collaboration",
+        "Génocide des Juifs et persécutions",
+        "Construction européenne et Union européenne"
+       ],
+       "knowledge": [
+        {
+         "id": "cm2-hg-guerres-mondiales-europe-knowledge",
+         "text": "Le vingtième siècle est marqué par deux guerres mondiales, la Grande Guerre et la Seconde Guerre mondiale, dont on retrouve des traces dans l’environnement proche ; des pays européens autrefois en guerre les uns contre les autres sont aujourd’hui rassemblés dans l’Union européenne.",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+        }
+       ],
+       "skills": [
+        {
+         "id": "cm2-hg-guerres-mondiales-europe-situer",
+         "text": "Situer les deux guerres mondiales sur une frise chronologique et dans leurs contextes européen et mondial.",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+        },
+        {
+         "id": "cm2-hg-guerres-mondiales-europe-memoire",
+         "text": "Identifier des traces et des commémorations des deux guerres (monuments, dates) et expliquer ce qu’elles rappellent.",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+        }
+       ],
+       "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+      }
+     ]
+    },
+    {
+     "id": "cm2-hg-geographie",
+     "title": "Géographie : se déplacer",
+     "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1, page 75 du PDF (pagination imprimée 74).",
+     "chapters": [
+      {
+       "id": "cm2-hg-se-deplacer",
+       "title": "Se déplacer en France et dans le monde",
+       "title_type": "editorial",
+       "official_section": "Thème 1 – Se déplacer",
+       "notions": [
+        "Se déplacer au quotidien",
+        "Modes de transport et réseaux",
+        "Infrastructures de communication",
+        "Se déplacer de ville en ville",
+        "Déplacements et développement durable"
+       ],
+       "knowledge": [
+        {
+         "id": "cm2-hg-se-deplacer-knowledge",
+         "text": "On étudie les modes et les réseaux de transport utilisés par les habitants au quotidien ou pour des déplacements plus lointains, en France, en Europe et dans le monde, ainsi que les aménagements liés aux infrastructures ; on étudie les déplacements dans le cadre du développement durable (lutte contre la pollution, moyens de transport).",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+        }
+       ],
+       "skills": [
+        {
+         "id": "cm2-hg-se-deplacer-transports",
+         "text": "Identifier des modes de transport, des réseaux et des infrastructures à partir de documents (cartes, photographies, plans).",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+        },
+        {
+         "id": "cm2-hg-se-deplacer-durable",
+         "text": "Expliquer comment certains choix de déplacement peuvent limiter la pollution et contribuer au développement durable.",
+         "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+        }
+       ],
+       "source_locator": "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+      }
+     ]
+    }
+   ],
+   "legal_source": {
+    "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+    "source_id": "7b8272bca664386f",
+    "text_reference": "MENE2018714A.htm",
+    "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+   },
+   "effective_from_basis": "school_year_start_normalized"
+  }
+ ],
+ "contents": [
+  {
+   "id": "cm2-hg-republique-ecole-ferry-course",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-republique-ecole-ferry"
+   ],
+   "kind": "course",
+   "learning_objectives": [
+    "Situer 1892 (centenaire de la République) et les lois de Jules Ferry (1881-1882) dans le temps.",
+    "Décrire l’école de la République au temps de Jules Ferry et la comparer à l’école d’aujourd’hui.",
+    "Donner des exemples de libertés, de droits et de devoirs en République."
+   ],
+   "skill_ids": [
+    "cm2-hg-republique-ecole-ferry-situer",
+    "cm2-hg-republique-ecole-ferry-droits"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-republique-ecole-ferry.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-republique-ecole-ferry-revision_sheet",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-republique-ecole-ferry"
+   ],
+   "kind": "revision_sheet",
+   "learning_objectives": [
+    "Situer 1892 (centenaire de la République) et les lois de Jules Ferry (1881-1882) dans le temps.",
+    "Décrire l’école de la République au temps de Jules Ferry et la comparer à l’école d’aujourd’hui.",
+    "Donner des exemples de libertés, de droits et de devoirs en République."
+   ],
+   "skill_ids": [
+    "cm2-hg-republique-ecole-ferry-situer",
+    "cm2-hg-republique-ecole-ferry-droits"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-republique-ecole-ferry.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-republique-ecole-ferry-quiz",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-republique-ecole-ferry"
+   ],
+   "kind": "quiz",
+   "learning_objectives": [
+    "Situer 1892 (centenaire de la République) et les lois de Jules Ferry (1881-1882) dans le temps.",
+    "Décrire l’école de la République au temps de Jules Ferry et la comparer à l’école d’aujourd’hui.",
+    "Donner des exemples de libertés, de droits et de devoirs en République."
+   ],
+   "skill_ids": [
+    "cm2-hg-republique-ecole-ferry-situer",
+    "cm2-hg-republique-ecole-ferry-droits"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-republique-ecole-ferry.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-republique-ecole-ferry-exercise",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-republique-ecole-ferry"
+   ],
+   "kind": "exercise",
+   "learning_objectives": [
+    "Situer 1892 (centenaire de la République) et les lois de Jules Ferry (1881-1882) dans le temps.",
+    "Décrire l’école de la République au temps de Jules Ferry et la comparer à l’école d’aujourd’hui.",
+    "Donner des exemples de libertés, de droits et de devoirs en République."
+   ],
+   "skill_ids": [
+    "cm2-hg-republique-ecole-ferry-situer",
+    "cm2-hg-republique-ecole-ferry-droits"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-republique-ecole-ferry.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-republique-ecole-ferry-assessment",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-republique-ecole-ferry"
+   ],
+   "kind": "assessment",
+   "learning_objectives": [
+    "Situer 1892 (centenaire de la République) et les lois de Jules Ferry (1881-1882) dans le temps.",
+    "Décrire l’école de la République au temps de Jules Ferry et la comparer à l’école d’aujourd’hui.",
+    "Donner des exemples de libertés, de droits et de devoirs en République."
+   ],
+   "skill_ids": [
+    "cm2-hg-republique-ecole-ferry-situer",
+    "cm2-hg-republique-ecole-ferry-droits"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-republique-ecole-ferry.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-republique-ecole-ferry-audio",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-republique-ecole-ferry"
+   ],
+   "kind": "audio",
+   "learning_objectives": [
+    "Situer 1892 (centenaire de la République) et les lois de Jules Ferry (1881-1882) dans le temps.",
+    "Décrire l’école de la République au temps de Jules Ferry et la comparer à l’école d’aujourd’hui.",
+    "Donner des exemples de libertés, de droits et de devoirs en République."
+   ],
+   "skill_ids": [
+    "cm2-hg-republique-ecole-ferry-situer",
+    "cm2-hg-republique-ecole-ferry-droits"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-republique-ecole-ferry.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-republique-ecole-ferry-assistant_explanation",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-republique-ecole-ferry"
+   ],
+   "kind": "assistant_explanation",
+   "learning_objectives": [
+    "Situer 1892 (centenaire de la République) et les lois de Jules Ferry (1881-1882) dans le temps.",
+    "Décrire l’école de la République au temps de Jules Ferry et la comparer à l’école d’aujourd’hui.",
+    "Donner des exemples de libertés, de droits et de devoirs en République."
+   ],
+   "skill_ids": [
+    "cm2-hg-republique-ecole-ferry-situer",
+    "cm2-hg-republique-ecole-ferry-droits"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-republique-ecole-ferry.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-guerres-mondiales-europe-course",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-guerres-mondiales-europe"
+   ],
+   "kind": "course",
+   "learning_objectives": [
+    "Situer la Première et la Seconde Guerre mondiale dans le temps (1914-1918 ; 1939-1945).",
+    "Expliquer ce que sont la Résistance, la collaboration et le génocide des Juifs.",
+    "Expliquer pourquoi et comment des pays européens se sont rassemblés dans l’Union européenne."
+   ],
+   "skill_ids": [
+    "cm2-hg-guerres-mondiales-europe-situer",
+    "cm2-hg-guerres-mondiales-europe-memoire"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-guerres-mondiales-europe.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-guerres-mondiales-europe-revision_sheet",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-guerres-mondiales-europe"
+   ],
+   "kind": "revision_sheet",
+   "learning_objectives": [
+    "Situer la Première et la Seconde Guerre mondiale dans le temps (1914-1918 ; 1939-1945).",
+    "Expliquer ce que sont la Résistance, la collaboration et le génocide des Juifs.",
+    "Expliquer pourquoi et comment des pays européens se sont rassemblés dans l’Union européenne."
+   ],
+   "skill_ids": [
+    "cm2-hg-guerres-mondiales-europe-situer",
+    "cm2-hg-guerres-mondiales-europe-memoire"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-guerres-mondiales-europe.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-guerres-mondiales-europe-quiz",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-guerres-mondiales-europe"
+   ],
+   "kind": "quiz",
+   "learning_objectives": [
+    "Situer la Première et la Seconde Guerre mondiale dans le temps (1914-1918 ; 1939-1945).",
+    "Expliquer ce que sont la Résistance, la collaboration et le génocide des Juifs.",
+    "Expliquer pourquoi et comment des pays européens se sont rassemblés dans l’Union européenne."
+   ],
+   "skill_ids": [
+    "cm2-hg-guerres-mondiales-europe-situer",
+    "cm2-hg-guerres-mondiales-europe-memoire"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-guerres-mondiales-europe.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-guerres-mondiales-europe-exercise",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-guerres-mondiales-europe"
+   ],
+   "kind": "exercise",
+   "learning_objectives": [
+    "Situer la Première et la Seconde Guerre mondiale dans le temps (1914-1918 ; 1939-1945).",
+    "Expliquer ce que sont la Résistance, la collaboration et le génocide des Juifs.",
+    "Expliquer pourquoi et comment des pays européens se sont rassemblés dans l’Union européenne."
+   ],
+   "skill_ids": [
+    "cm2-hg-guerres-mondiales-europe-situer",
+    "cm2-hg-guerres-mondiales-europe-memoire"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-guerres-mondiales-europe.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-guerres-mondiales-europe-assessment",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-guerres-mondiales-europe"
+   ],
+   "kind": "assessment",
+   "learning_objectives": [
+    "Situer la Première et la Seconde Guerre mondiale dans le temps (1914-1918 ; 1939-1945).",
+    "Expliquer ce que sont la Résistance, la collaboration et le génocide des Juifs.",
+    "Expliquer pourquoi et comment des pays européens se sont rassemblés dans l’Union européenne."
+   ],
+   "skill_ids": [
+    "cm2-hg-guerres-mondiales-europe-situer",
+    "cm2-hg-guerres-mondiales-europe-memoire"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-guerres-mondiales-europe.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-guerres-mondiales-europe-audio",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-guerres-mondiales-europe"
+   ],
+   "kind": "audio",
+   "learning_objectives": [
+    "Situer la Première et la Seconde Guerre mondiale dans le temps (1914-1918 ; 1939-1945).",
+    "Expliquer ce que sont la Résistance, la collaboration et le génocide des Juifs.",
+    "Expliquer pourquoi et comment des pays européens se sont rassemblés dans l’Union européenne."
+   ],
+   "skill_ids": [
+    "cm2-hg-guerres-mondiales-europe-situer",
+    "cm2-hg-guerres-mondiales-europe-memoire"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-guerres-mondiales-europe.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-guerres-mondiales-europe-assistant_explanation",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-guerres-mondiales-europe"
+   ],
+   "kind": "assistant_explanation",
+   "learning_objectives": [
+    "Situer la Première et la Seconde Guerre mondiale dans le temps (1914-1918 ; 1939-1945).",
+    "Expliquer ce que sont la Résistance, la collaboration et le génocide des Juifs.",
+    "Expliquer pourquoi et comment des pays européens se sont rassemblés dans l’Union européenne."
+   ],
+   "skill_ids": [
+    "cm2-hg-guerres-mondiales-europe-situer",
+    "cm2-hg-guerres-mondiales-europe-memoire"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-guerres-mondiales-europe.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-se-deplacer-course",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-se-deplacer"
+   ],
+   "kind": "course",
+   "learning_objectives": [
+    "Décrire des déplacements du quotidien et les modes de transport utilisés.",
+    "Identifier des infrastructures et des réseaux de transport (routes, voies ferrées, gares, ports, aéroports).",
+    "Expliquer comment se déplacer en limitant la pollution."
+   ],
+   "skill_ids": [
+    "cm2-hg-se-deplacer-transports",
+    "cm2-hg-se-deplacer-durable"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-se-deplacer.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-se-deplacer-revision_sheet",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-se-deplacer"
+   ],
+   "kind": "revision_sheet",
+   "learning_objectives": [
+    "Décrire des déplacements du quotidien et les modes de transport utilisés.",
+    "Identifier des infrastructures et des réseaux de transport (routes, voies ferrées, gares, ports, aéroports).",
+    "Expliquer comment se déplacer en limitant la pollution."
+   ],
+   "skill_ids": [
+    "cm2-hg-se-deplacer-transports",
+    "cm2-hg-se-deplacer-durable"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-se-deplacer.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-se-deplacer-quiz",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-se-deplacer"
+   ],
+   "kind": "quiz",
+   "learning_objectives": [
+    "Décrire des déplacements du quotidien et les modes de transport utilisés.",
+    "Identifier des infrastructures et des réseaux de transport (routes, voies ferrées, gares, ports, aéroports).",
+    "Expliquer comment se déplacer en limitant la pollution."
+   ],
+   "skill_ids": [
+    "cm2-hg-se-deplacer-transports",
+    "cm2-hg-se-deplacer-durable"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-se-deplacer.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-se-deplacer-exercise",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-se-deplacer"
+   ],
+   "kind": "exercise",
+   "learning_objectives": [
+    "Décrire des déplacements du quotidien et les modes de transport utilisés.",
+    "Identifier des infrastructures et des réseaux de transport (routes, voies ferrées, gares, ports, aéroports).",
+    "Expliquer comment se déplacer en limitant la pollution."
+   ],
+   "skill_ids": [
+    "cm2-hg-se-deplacer-transports",
+    "cm2-hg-se-deplacer-durable"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-se-deplacer.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-se-deplacer-assessment",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-se-deplacer"
+   ],
+   "kind": "assessment",
+   "learning_objectives": [
+    "Décrire des déplacements du quotidien et les modes de transport utilisés.",
+    "Identifier des infrastructures et des réseaux de transport (routes, voies ferrées, gares, ports, aéroports).",
+    "Expliquer comment se déplacer en limitant la pollution."
+   ],
+   "skill_ids": [
+    "cm2-hg-se-deplacer-transports",
+    "cm2-hg-se-deplacer-durable"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-se-deplacer.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-se-deplacer-audio",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-se-deplacer"
+   ],
+   "kind": "audio",
+   "learning_objectives": [
+    "Décrire des déplacements du quotidien et les modes de transport utilisés.",
+    "Identifier des infrastructures et des réseaux de transport (routes, voies ferrées, gares, ports, aéroports).",
+    "Expliquer comment se déplacer en limitant la pollution."
+   ],
+   "skill_ids": [
+    "cm2-hg-se-deplacer-transports",
+    "cm2-hg-se-deplacer-durable"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-se-deplacer.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  },
+  {
+   "id": "cm2-hg-se-deplacer-assistant_explanation",
+   "program_id": "CM2-histoire-geographie-commun",
+   "program_version": "2026-2027-reference-1",
+   "chapter_ids": [
+    "cm2-hg-se-deplacer"
+   ],
+   "kind": "assistant_explanation",
+   "learning_objectives": [
+    "Décrire des déplacements du quotidien et les modes de transport utilisés.",
+    "Identifier des infrastructures et des réseaux de transport (routes, voies ferrées, gares, ports, aéroports).",
+    "Expliquer comment se déplacer en limitant la pollution."
+   ],
+   "skill_ids": [
+    "cm2-hg-se-deplacer-transports",
+    "cm2-hg-se-deplacer-durable"
+   ],
+   "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+   ],
+   "asset_path": "curriculum/lessons/cm2-hg-se-deplacer.json",
+   "review_status": "verified",
+   "reviewed_on": "2026-11-10",
+   "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+  }
+ ]
+}

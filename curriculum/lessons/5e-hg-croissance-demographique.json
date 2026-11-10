@@ -1,0 +1,134 @@
+{
+  "id": "5e-hg-croissance-demographique",
+  "title": "La croissance démographique et ses effets",
+  "chapter_id": "5e-hg-croissance-demographique",
+  "program_id": "5e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Expliquer la croissance de la population mondiale et la calculer à l’aide de la natalité et de la mortalité.",
+    "Comparer la situation démographique de pays différents (Chine, Inde, Afrique, Europe, États-Unis).",
+    "Relier croissance démographique, alimentation et santé, et citer deux objectifs de développement durable (ODD 2 et ODD 3)."
+  ],
+  "skill_ids": [
+    "5e-hg-croissance-demographique-skill",
+    "5e-hg-croissance-demographique-space"
+  ],
+  "source_locators": [
+    "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 5e / Thème 1 « La question démographique et l’inégal développement », page 86 (pagination du PDF).",
+    "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Compétences travaillées « Se repérer dans l’espace : construire des repères géographiques », page 79 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Une population mondiale qui augmente",
+      "text": "La démographie étudie les populations humaines. Vers 1800, la Terre compte environ un milliard d’habitants. Elle en compte plus de 8 milliards depuis la fin de l’année 2022, selon les estimations de l’ONU. L’augmentation a été très rapide au XXe siècle. Elle s’explique surtout par la baisse de la mortalité, grâce aux progrès de la médecine, de l’hygiène et de l’alimentation, alors que la natalité est restée longtemps élevée dans de nombreux pays. La croissance naturelle se calcule ainsi : natalité moins mortalité. La natalité est le nombre de naissances pour 1 000 habitants en un an ; la mortalité est le nombre de décès pour 1 000 habitants en un an."
+    },
+    {
+      "title": "Des évolutions différentes selon les pays",
+      "text": "Les populations ne grandissent pas partout au même rythme. La Chine et l’Inde sont les deux pays les plus peuplés du monde : chacun dépasse 1,4 milliard d’habitants. En Chine, une politique de limitation des naissances (« enfant unique ») a été appliquée de la fin des années 1970 à 2015 ; la population vieillit. En Afrique, de nombreux pays ont encore une croissance rapide et une population jeune. En Europe et aux États-Unis, la croissance est faible, parfois nulle, et la population vieillit : la part des personnes âgées augmente. Le vieillissement est donc un point commun à plusieurs régions très différentes."
+    },
+    {
+      "title": "Les effets de la croissance démographique",
+      "text": "Quand une population augmente vite, il faut produire plus de nourriture, fournir plus d’eau, construire plus de logements, d’écoles et d’hôpitaux et créer des emplois. C’est difficile dans les pays où les moyens sont limités, notamment dans certains pays en développement et en émergence. Aujourd’hui, une partie de l’humanité souffre encore de la faim ou d’une mauvaise alimentation, et l’accès aux soins est inégal. Il ne faut pourtant pas être catastrophiste : les sociétés trouvent des solutions. L’accès à l’éducation et à la santé, notamment pour les filles et les femmes, fait en général baisser le nombre d’enfants par femme."
+    },
+    {
+      "title": "Des objectifs pour un développement durable",
+      "text": "En 2015, l’ONU a adopté 17 objectifs de développement durable (ODD) à atteindre d’ici 2030. Deux d’entre eux concernent directement ce chapitre : l’ODD 2, qui vise à éliminer la faim, assurer la sécurité alimentaire et promouvoir une agriculture durable, et l’ODD 3, qui vise à garantir l’accès de tous à la santé. Un développement durable répond aux besoins d’aujourd’hui sans compromettre ceux des générations futures ; il doit aussi être équitable, c’est-à-dire profiter à tous."
+    }
+  ],
+  "revision_sheet": [
+    "La population mondiale passe d’environ 1 milliard vers 1800 à plus de 8 milliards depuis 2022 (estimation de l’ONU).",
+    "Croissance naturelle = natalité − mortalité.",
+    "La croissance a surtout été permise par la baisse de la mortalité (médecine, hygiène, alimentation).",
+    "La Chine et l’Inde dépassent chacune 1,4 milliard d’habitants ; l’Afrique a souvent une croissance rapide et une population jeune ; l’Europe et les États-Unis ont une croissance faible et une population qui vieillit.",
+    "Défis : nourrir, soigner, éduquer, loger. Les ODD 2 (faim) et 3 (santé) répondent à une partie de ces défis.",
+    "Un développement durable doit aussi être équitable."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien d’habitants la Terre compte-t-elle depuis la fin de 2022, selon l’ONU ?",
+      "choices": [
+        "Plus de 4 milliards",
+        "Plus de 8 milliards",
+        "Plus de 12 milliards"
+      ],
+      "correct_index": 1,
+      "explanation": "L’ONU estime que la population mondiale a dépassé 8 milliards d’habitants à la fin de 2022."
+    },
+    {
+      "prompt": "Comment calcule-t-on la croissance naturelle d’une population ?",
+      "choices": [
+        "Natalité + mortalité",
+        "Natalité − mortalité",
+        "Mortalité − natalité"
+      ],
+      "correct_index": 1,
+      "explanation": "La croissance naturelle est la différence entre la natalité (naissances) et la mortalité (décès)."
+    },
+    {
+      "prompt": "Pourquoi la population mondiale a-t-elle augmenté très vite au XXe siècle ?",
+      "choices": [
+        "Parce que la mortalité a fortement baissé",
+        "Parce que la Terre est devenue plus grande",
+        "Parce que plus personne n’est mort"
+      ],
+      "correct_index": 0,
+      "explanation": "Les progrès de la médecine, de l’hygiène et de l’alimentation ont fait baisser la mortalité, alors que la natalité est restée élevée dans de nombreux pays."
+    },
+    {
+      "prompt": "Quel point commun existe entre l’Europe, les États-Unis et la Chine ?",
+      "choices": [
+        "Une population qui vieillit",
+        "Une population très jeune",
+        "Une population qui double chaque année"
+      ],
+      "correct_index": 0,
+      "explanation": "Dans ces régions, la part des personnes âgées augmente : c’est le vieillissement de la population."
+    },
+    {
+      "prompt": "Que vise l’objectif de développement durable n° 2 ?",
+      "choices": [
+        "Éliminer la faim et promouvoir une agriculture durable",
+        "Faire baisser le prix de l’énergie",
+        "Construire des routes dans tous les pays"
+      ],
+      "correct_index": 0,
+      "explanation": "L’ODD 2 vise à éliminer la faim, assurer la sécurité alimentaire et promouvoir une agriculture durable."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Un pays a une natalité de 30 ‰ (pour mille) et une mortalité de 8 ‰. Calcule sa croissance naturelle.",
+      "solution": "30 − 8 = 22 pour mille, soit 2,2 % par an.",
+      "success_criterion": "Soustraire la mortalité de la natalité et trouver 22 ‰ (2,2 %)."
+    },
+    {
+      "prompt": "Un pays de 10 millions d’habitants a une croissance naturelle de 2 % par an. De combien d’habitants sa population augmente-t-elle environ en un an ?",
+      "solution": "2 % de 10 000 000 = 200 000 habitants environ (en ne tenant pas compte des migrations).",
+      "success_criterion": "Calculer 2 % de 10 millions et trouver 200 000."
+    },
+    {
+      "prompt": "Cite deux besoins qui augmentent quand la population d’un pays croît très vite.",
+      "solution": "Par exemple : la nourriture, l’eau, les logements, les écoles, les hôpitaux, les emplois.",
+      "success_criterion": "Citer deux besoins cohérents."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique pourquoi la population mondiale est passée d’environ 1 milliard vers 1800 à plus de 8 milliards depuis 2022.",
+      "solution": "Surtout parce que la mortalité a baissé grâce aux progrès de la médecine, de l’hygiène et de l’alimentation, alors que la natalité est restée élevée longtemps dans de nombreux pays ; la différence entre naissances et décès a donc augmenté.",
+      "success_criterion": "Expliquer par la baisse de la mortalité et le maintien d’une natalité élevée."
+    },
+    {
+      "prompt": "Compare en trois phrases la situation démographique de l’Afrique et celle de l’Europe.",
+      "solution": "En Afrique, de nombreux pays ont encore une croissance rapide et une population jeune. En Europe, la croissance est faible et la population vieillit. Les besoins ne sont donc pas les mêmes : plus d’écoles et d’emplois d’un côté, plus de soins pour les personnes âgées de l’autre.",
+      "success_criterion": "Opposer croissance rapide et population jeune à croissance faible et vieillissement."
+    },
+    {
+      "prompt": "Cite deux objectifs de développement durable de l’ONU liés à la croissance démographique et dis ce que chacun vise.",
+      "solution": "ODD 2 : éliminer la faim, assurer la sécurité alimentaire et promouvoir une agriculture durable. ODD 3 : garantir l’accès de tous à la santé.",
+      "success_criterion": "Citer ODD 2 et ODD 3 avec leur objectif."
+    }
+  ],
+  "audio_transcript": "La démographie étudie la population. Vers dix-huit cent, la Terre compte environ un milliard d’habitants. Depuis la fin de l’année deux mille vingt-deux, elle en compte plus de huit milliards, selon l’ONU. La population a surtout augmenté parce que la mortalité a baissé grâce à la médecine, à l’hygiène et à une meilleure alimentation. La croissance naturelle, c’est la natalité moins la mortalité. Les situations sont très différentes : la Chine et l’Inde dépassent chacune un milliard quatre cents millions d’habitants, beaucoup de pays africains ont une population jeune qui augmente vite, alors que l’Europe et les États-Unis vieillissent. Pour nourrir, soigner et éduquer tout le monde, l’ONU a fixé des objectifs de développement durable, comme l’objectif deux contre la faim et l’objectif trois pour la santé.",
+  "guided_explanation": "Prends une feuille et dessine deux colonnes. À gauche, écris « Natalité » et « Mortalité » et invente un pays : natalité 30 pour mille, mortalité 8 pour mille. Fais la soustraction : 30 moins 8, cela fait 22 pour mille, soit 2,2 pour cent. À droite, fais la même chose pour un pays où la natalité est de 10 pour mille et la mortalité de 10 pour mille : la croissance naturelle est de zéro. Compare ensuite les deux pays : l’un aura besoin de beaucoup d’écoles et de nourriture en plus, l’autre doit surtout s’occuper de la santé de sa population plus âgée."
+}

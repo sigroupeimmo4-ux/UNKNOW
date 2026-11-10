@@ -1,0 +1,639 @@
+{
+  "programs": [
+    {
+      "id": "3e-histoire-geographie-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "3e",
+      "subject_id": "histoire-geographie-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/89/1/ensel714_annexe3_1312891.pdf",
+        "title": "Histoire-géographie",
+        "text_reference": "Histoire-géographie (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "16efa795f59f25f726e3f443934198e22c01fad04e1ba78a01ed10a11a3a14eb",
+        "source_id": "6f0365b6a54fc983"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "histoire-europe-guerres-totales",
+          "title": "Histoire : L’Europe, un théâtre majeur des guerres totales (1914-1945)",
+          "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-hg-premiere-guerre-civils-militaires",
+              "title": "Civils et militaires dans la Première Guerre mondiale",
+              "title_type": "editorial",
+              "official_section": "Thème 1 – Civils et militaires dans la Première Guerre mondiale",
+              "notions": [
+                "Guerre totale",
+                "Mobilisation des soldats et des civils",
+                "Violences extrêmes de la guerre",
+                "Génocide des Arméniens (1915)",
+                "Armistice du 11 novembre 1918"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-hg-premiere-guerre-civils-militaires-knowledge",
+                  "text": "La Première Guerre mondiale (1914-1918) est une guerre totale : elle mobilise les militaires comme les civils et expose les uns et les autres à des violences extrêmes, dont le génocide des Arméniens en 1915.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-hg-premiere-guerre-civils-militaires-skill",
+                  "text": "Expliquer en quoi la Première Guerre mondiale est une guerre totale en distinguant la place des militaires et celle des civils.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+            },
+            {
+              "id": "3e-hg-deuxieme-guerre-anneantissement",
+              "title": "La Deuxième Guerre mondiale, une guerre d’anéantissement",
+              "title_type": "editorial",
+              "official_section": "Thème 1 – La Deuxième Guerre mondiale, une guerre d’anéantissement",
+              "notions": [
+                "Conflit aux dimensions planétaires",
+                "Violence de masse et anéantissement",
+                "Génocide des Juifs (Shoah)",
+                "Génocide des Tziganes et persécution d’autres minorités",
+                "Fin de la guerre en 1945"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-hg-deuxieme-guerre-anneantissement-knowledge",
+                  "text": "La Deuxième Guerre mondiale (1939-1945) est un conflit aux dimensions planétaires caractérisé par la violence de masse et l’anéantissement ; elle inclut les génocides des Juifs et des Tziganes et la persécution d’autres minorités.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-hg-deuxieme-guerre-anneantissement-skill",
+                  "text": "Caractériser la Deuxième Guerre mondiale comme une guerre d’anéantissement et situer les génocides des Juifs et des Tziganes.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "geographie-dynamiques-territoriales-france",
+          "title": "Géographie : Dynamiques territoriales de la France contemporaine",
+          "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-hg-aires-urbaines",
+              "title": "Les aires urbaines, une nouvelle géographie de la France",
+              "title_type": "editorial",
+              "official_section": "Thème 1 – Les aires urbaines, une nouvelle géographie d’une France mondialisée",
+              "notions": [
+                "Aire urbaine",
+                "Espaces centraux, péricentraux, suburbains et périurbains",
+                "Étalement urbain",
+                "Mobilités domicile-travail",
+                "Métropoles et mondialisation"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-hg-aires-urbaines-knowledge",
+                  "text": "L’urbanisation a profondément changé le territoire français depuis une cinquantaine d’années : les aires urbaines regroupent des espaces de natures différentes (centraux, péricentraux, suburbains, périurbains) reliés entre eux et à d’autres aires d’influence urbaine.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-hg-aires-urbaines-skill",
+                  "text": "Décrire l’organisation d’une aire urbaine et la diversité de ses espaces (centraux, péricentraux, suburbains, périurbains).",
+                  "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "3e-hg-premiere-guerre-civils-militaires-course",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-premiere-guerre-civils-militaires"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Expliquer ce qu’est une guerre totale.",
+        "Décrire la vie des soldats au front et le rôle des civils à l’arrière.",
+        "Situer le génocide des Arméniens (1915) et la fin de la guerre (11 novembre 1918)."
+      ],
+      "skill_ids": [
+        "3e-hg-premiere-guerre-civils-militaires-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-premiere-guerre-civils-militaires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-premiere-guerre-civils-militaires-revision_sheet",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-premiere-guerre-civils-militaires"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Expliquer ce qu’est une guerre totale.",
+        "Décrire la vie des soldats au front et le rôle des civils à l’arrière.",
+        "Situer le génocide des Arméniens (1915) et la fin de la guerre (11 novembre 1918)."
+      ],
+      "skill_ids": [
+        "3e-hg-premiere-guerre-civils-militaires-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-premiere-guerre-civils-militaires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-premiere-guerre-civils-militaires-quiz",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-premiere-guerre-civils-militaires"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Expliquer ce qu’est une guerre totale.",
+        "Décrire la vie des soldats au front et le rôle des civils à l’arrière.",
+        "Situer le génocide des Arméniens (1915) et la fin de la guerre (11 novembre 1918)."
+      ],
+      "skill_ids": [
+        "3e-hg-premiere-guerre-civils-militaires-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-premiere-guerre-civils-militaires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-premiere-guerre-civils-militaires-exercise",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-premiere-guerre-civils-militaires"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Expliquer ce qu’est une guerre totale.",
+        "Décrire la vie des soldats au front et le rôle des civils à l’arrière.",
+        "Situer le génocide des Arméniens (1915) et la fin de la guerre (11 novembre 1918)."
+      ],
+      "skill_ids": [
+        "3e-hg-premiere-guerre-civils-militaires-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-premiere-guerre-civils-militaires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-premiere-guerre-civils-militaires-assessment",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-premiere-guerre-civils-militaires"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Expliquer ce qu’est une guerre totale.",
+        "Décrire la vie des soldats au front et le rôle des civils à l’arrière.",
+        "Situer le génocide des Arméniens (1915) et la fin de la guerre (11 novembre 1918)."
+      ],
+      "skill_ids": [
+        "3e-hg-premiere-guerre-civils-militaires-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-premiere-guerre-civils-militaires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-premiere-guerre-civils-militaires-audio",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-premiere-guerre-civils-militaires"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Expliquer ce qu’est une guerre totale.",
+        "Décrire la vie des soldats au front et le rôle des civils à l’arrière.",
+        "Situer le génocide des Arméniens (1915) et la fin de la guerre (11 novembre 1918)."
+      ],
+      "skill_ids": [
+        "3e-hg-premiere-guerre-civils-militaires-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-premiere-guerre-civils-militaires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-premiere-guerre-civils-militaires-assistant_explanation",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-premiere-guerre-civils-militaires"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Expliquer ce qu’est une guerre totale.",
+        "Décrire la vie des soldats au front et le rôle des civils à l’arrière.",
+        "Situer le génocide des Arméniens (1915) et la fin de la guerre (11 novembre 1918)."
+      ],
+      "skill_ids": [
+        "3e-hg-premiere-guerre-civils-militaires-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-premiere-guerre-civils-militaires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-deuxieme-guerre-anneantissement-course",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Situer le début et la fin de la Deuxième Guerre mondiale.",
+        "Expliquer pourquoi on parle de guerre d’anéantissement et de violence de masse.",
+        "Définir le génocide des Juifs (Shoah) et citer le génocide des Tziganes."
+      ],
+      "skill_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-deuxieme-guerre-anneantissement.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-deuxieme-guerre-anneantissement-revision_sheet",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Situer le début et la fin de la Deuxième Guerre mondiale.",
+        "Expliquer pourquoi on parle de guerre d’anéantissement et de violence de masse.",
+        "Définir le génocide des Juifs (Shoah) et citer le génocide des Tziganes."
+      ],
+      "skill_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-deuxieme-guerre-anneantissement.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-deuxieme-guerre-anneantissement-quiz",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Situer le début et la fin de la Deuxième Guerre mondiale.",
+        "Expliquer pourquoi on parle de guerre d’anéantissement et de violence de masse.",
+        "Définir le génocide des Juifs (Shoah) et citer le génocide des Tziganes."
+      ],
+      "skill_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-deuxieme-guerre-anneantissement.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-deuxieme-guerre-anneantissement-exercise",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Situer le début et la fin de la Deuxième Guerre mondiale.",
+        "Expliquer pourquoi on parle de guerre d’anéantissement et de violence de masse.",
+        "Définir le génocide des Juifs (Shoah) et citer le génocide des Tziganes."
+      ],
+      "skill_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-deuxieme-guerre-anneantissement.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-deuxieme-guerre-anneantissement-assessment",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Situer le début et la fin de la Deuxième Guerre mondiale.",
+        "Expliquer pourquoi on parle de guerre d’anéantissement et de violence de masse.",
+        "Définir le génocide des Juifs (Shoah) et citer le génocide des Tziganes."
+      ],
+      "skill_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-deuxieme-guerre-anneantissement.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-deuxieme-guerre-anneantissement-audio",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Situer le début et la fin de la Deuxième Guerre mondiale.",
+        "Expliquer pourquoi on parle de guerre d’anéantissement et de violence de masse.",
+        "Définir le génocide des Juifs (Shoah) et citer le génocide des Tziganes."
+      ],
+      "skill_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-deuxieme-guerre-anneantissement.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-deuxieme-guerre-anneantissement-assistant_explanation",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Situer le début et la fin de la Deuxième Guerre mondiale.",
+        "Expliquer pourquoi on parle de guerre d’anéantissement et de violence de masse.",
+        "Définir le génocide des Juifs (Shoah) et citer le génocide des Tziganes."
+      ],
+      "skill_ids": [
+        "3e-hg-deuxieme-guerre-anneantissement-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-deuxieme-guerre-anneantissement.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-aires-urbaines-course",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-aires-urbaines"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Définir une aire urbaine.",
+        "Distinguer le centre, le péricentre, la banlieue et le périurbain.",
+        "Expliquer le lien entre les villes, les mobilités et la mondialisation."
+      ],
+      "skill_ids": [
+        "3e-hg-aires-urbaines-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-aires-urbaines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-aires-urbaines-revision_sheet",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-aires-urbaines"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Définir une aire urbaine.",
+        "Distinguer le centre, le péricentre, la banlieue et le périurbain.",
+        "Expliquer le lien entre les villes, les mobilités et la mondialisation."
+      ],
+      "skill_ids": [
+        "3e-hg-aires-urbaines-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-aires-urbaines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-aires-urbaines-quiz",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-aires-urbaines"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Définir une aire urbaine.",
+        "Distinguer le centre, le péricentre, la banlieue et le périurbain.",
+        "Expliquer le lien entre les villes, les mobilités et la mondialisation."
+      ],
+      "skill_ids": [
+        "3e-hg-aires-urbaines-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-aires-urbaines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-aires-urbaines-exercise",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-aires-urbaines"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Définir une aire urbaine.",
+        "Distinguer le centre, le péricentre, la banlieue et le périurbain.",
+        "Expliquer le lien entre les villes, les mobilités et la mondialisation."
+      ],
+      "skill_ids": [
+        "3e-hg-aires-urbaines-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-aires-urbaines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-aires-urbaines-assessment",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-aires-urbaines"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Définir une aire urbaine.",
+        "Distinguer le centre, le péricentre, la banlieue et le périurbain.",
+        "Expliquer le lien entre les villes, les mobilités et la mondialisation."
+      ],
+      "skill_ids": [
+        "3e-hg-aires-urbaines-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-aires-urbaines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-aires-urbaines-audio",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-aires-urbaines"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Définir une aire urbaine.",
+        "Distinguer le centre, le péricentre, la banlieue et le périurbain.",
+        "Expliquer le lien entre les villes, les mobilités et la mondialisation."
+      ],
+      "skill_ids": [
+        "3e-hg-aires-urbaines-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-aires-urbaines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-hg-aires-urbaines-assistant_explanation",
+      "program_id": "3e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-hg-aires-urbaines"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Définir une aire urbaine.",
+        "Distinguer le centre, le péricentre, la banlieue et le périurbain.",
+        "Expliquer le lien entre les villes, les mobilités et la mondialisation."
+      ],
+      "skill_ids": [
+        "3e-hg-aires-urbaines-skill"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-hg-aires-urbaines.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "programs": [
+    {
+      "id": "6e-histoire-geographie-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "6e",
+      "subject_id": "histoire-geographie-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://eduscol.education.gouv.fr/media/100806/download?attachment",
+        "title": "Histoire-géographie",
+        "text_reference": "Histoire-géographie (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "879251a7b7b6dbf63cc982b6b3684e33c51c0661bbac190e381490c9d61aad0f",
+        "source_id": "6c4a972c138daa2e"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": "2027-08-31",
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "histoire",
+          "title": "Histoire",
+          "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième, pages 71–72 (pagination imprimée ; pages 72–73 du PDF) : Thème 1 et Thème 2.",
+          "chapters": [
+            {
+              "id": "6e-hg-neolithique",
+              "title": "La « révolution » néolithique : agriculteurs, éleveurs, sédentaires",
+              "title_type": "editorial",
+              "official_section": "Thème 1 - La longue histoire de l’humanité et des migrations : La « révolution » néolithique",
+              "notions": [
+                "Chasseurs-cueilleurs nomades",
+                "Néolithique",
+                "Agriculture et élevage",
+                "Sédentarisation",
+                "Traces archéologiques"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-hg-neolithique-knowledge",
+                  "text": "Au Néolithique, des groupes humains se mettent à cultiver des plantes et à élever des animaux ; ils se sédentarisent progressivement dans des villages, à des moments différents selon les espaces géographiques, et transforment leur environnement.",
+                  "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-hg-neolithique-skill",
+                  "text": "Situer le Néolithique dans la Préhistoire et expliquer, à partir de traces archéologiques, les changements liés à l’agriculture, à l’élevage et à la sédentarisation.",
+                  "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+                }
+              ],
+              "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+            },
+            {
+              "id": "6e-hg-democratie-athenienne",
+              "title": "Le monde des cités grecques : Athènes et la naissance de la démocratie",
+              "title_type": "editorial",
+              "official_section": "Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C : Le monde des cités grecques",
+              "notions": [
+                "Cité grecque",
+                "Citoyen",
+                "Démocratie",
+                "Assemblée des citoyens",
+                "Mythe et histoire"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-hg-democratie-athenienne-knowledge",
+                  "text": "Le monde grec antique est composé de cités indépendantes, souvent rivales, qui partagent une culture commune ; à Athènes naît à la fin du VIe siècle avant J.-C. une démocratie dans laquelle les citoyens (hommes adultes athéniens libres) décident directement des affaires de la cité.",
+                  "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-hg-democratie-athenienne-skill",
+                  "text": "Situer Athènes dans le monde des cités grecques et expliquer, à partir de documents, comment fonctionne la démocratie athénienne et qui en est exclu.",
+                  "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+                }
+              ],
+              "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "geographie",
+          "title": "Géographie",
+          "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième, pages 75–76 (pagination imprimée ; pages 76–77 du PDF) : Thème 1.",
+          "chapters": [
+            {
+              "id": "6e-hg-habiter-metropole",
+              "title": "Habiter une métropole",
+              "title_type": "editorial",
+              "official_section": "Thème 1 - Habiter une métropole : Les métropoles et leurs habitants ; La ville de demain",
+              "notions": [
+                "Métropole",
+                "Fonctions d’une métropole",
+                "Résidents, migrants pendulaires, touristes, usagers occasionnels",
+                "Problèmes et contraintes de la métropole",
+                "Développement durable et ville de demain"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-hg-habiter-metropole-knowledge",
+                  "text": "Une métropole est une grande ville qui concentre population, activités, pouvoirs et services (fonctions économiques, sociales, politiques et culturelles) ; elle est pratiquée différemment par ses habitants, pose des problèmes spécifiques et doit se repenser pour devenir plus durable.",
+                  "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-hg-habiter-metropole-skill",
+                  "text": "Caractériser une métropole et ses habitants, repérer des problèmes et des réponses possibles, et imaginer la ville de demain dans une démarche de développement durable.",
+                  "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+                }
+              ],
+              "source_locator": "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "6e-hg-neolithique-course",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-neolithique"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Décrire le mode de vie des chasseurs-cueilleurs nomades avant le Néolithique.",
+        "Expliquer en quoi l’agriculture, l’élevage et la sédentarisation changent la vie des groupes humains au Néolithique.",
+        "Comprendre pourquoi on parle de « révolution » néolithique alors que le changement est lent et inégal selon les régions.",
+        "Citer des traces archéologiques qui permettent de connaître le Néolithique."
+      ],
+      "skill_ids": [
+        "6e-hg-neolithique-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-neolithique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-neolithique-revision_sheet",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-neolithique"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Décrire le mode de vie des chasseurs-cueilleurs nomades avant le Néolithique.",
+        "Expliquer en quoi l’agriculture, l’élevage et la sédentarisation changent la vie des groupes humains au Néolithique.",
+        "Comprendre pourquoi on parle de « révolution » néolithique alors que le changement est lent et inégal selon les régions.",
+        "Citer des traces archéologiques qui permettent de connaître le Néolithique."
+      ],
+      "skill_ids": [
+        "6e-hg-neolithique-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-neolithique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-neolithique-quiz",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-neolithique"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Décrire le mode de vie des chasseurs-cueilleurs nomades avant le Néolithique.",
+        "Expliquer en quoi l’agriculture, l’élevage et la sédentarisation changent la vie des groupes humains au Néolithique.",
+        "Comprendre pourquoi on parle de « révolution » néolithique alors que le changement est lent et inégal selon les régions.",
+        "Citer des traces archéologiques qui permettent de connaître le Néolithique."
+      ],
+      "skill_ids": [
+        "6e-hg-neolithique-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-neolithique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-neolithique-exercise",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-neolithique"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Décrire le mode de vie des chasseurs-cueilleurs nomades avant le Néolithique.",
+        "Expliquer en quoi l’agriculture, l’élevage et la sédentarisation changent la vie des groupes humains au Néolithique.",
+        "Comprendre pourquoi on parle de « révolution » néolithique alors que le changement est lent et inégal selon les régions.",
+        "Citer des traces archéologiques qui permettent de connaître le Néolithique."
+      ],
+      "skill_ids": [
+        "6e-hg-neolithique-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-neolithique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-neolithique-assessment",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-neolithique"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Décrire le mode de vie des chasseurs-cueilleurs nomades avant le Néolithique.",
+        "Expliquer en quoi l’agriculture, l’élevage et la sédentarisation changent la vie des groupes humains au Néolithique.",
+        "Comprendre pourquoi on parle de « révolution » néolithique alors que le changement est lent et inégal selon les régions.",
+        "Citer des traces archéologiques qui permettent de connaître le Néolithique."
+      ],
+      "skill_ids": [
+        "6e-hg-neolithique-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-neolithique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-neolithique-audio",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-neolithique"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Décrire le mode de vie des chasseurs-cueilleurs nomades avant le Néolithique.",
+        "Expliquer en quoi l’agriculture, l’élevage et la sédentarisation changent la vie des groupes humains au Néolithique.",
+        "Comprendre pourquoi on parle de « révolution » néolithique alors que le changement est lent et inégal selon les régions.",
+        "Citer des traces archéologiques qui permettent de connaître le Néolithique."
+      ],
+      "skill_ids": [
+        "6e-hg-neolithique-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-neolithique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-neolithique-assistant_explanation",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-neolithique"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Décrire le mode de vie des chasseurs-cueilleurs nomades avant le Néolithique.",
+        "Expliquer en quoi l’agriculture, l’élevage et la sédentarisation changent la vie des groupes humains au Néolithique.",
+        "Comprendre pourquoi on parle de « révolution » néolithique alors que le changement est lent et inégal selon les régions.",
+        "Citer des traces archéologiques qui permettent de connaître le Néolithique."
+      ],
+      "skill_ids": [
+        "6e-hg-neolithique-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 1 - La longue histoire de l’humanité et des migrations (sous-thème « La « révolution » néolithique »), pages 71–72 (pagination imprimée ; pages 72–73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-neolithique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-democratie-athenienne-course",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-democratie-athenienne"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Expliquer que la Grèce antique est un monde de cités indépendantes qui partagent une langue, des dieux et des fêtes.",
+        "Définir le mot démocratie et situer sa naissance à Athènes à la fin du VIe siècle avant J.-C.",
+        "Décrire qui est citoyen à Athènes et comment les citoyens participent aux décisions.",
+        "Comparer la démocratie athénienne et la démocratie actuelle, et distinguer un fait historique d’un récit mythique."
+      ],
+      "skill_ids": [
+        "6e-hg-democratie-athenienne-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-democratie-athenienne.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-democratie-athenienne-revision_sheet",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-democratie-athenienne"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Expliquer que la Grèce antique est un monde de cités indépendantes qui partagent une langue, des dieux et des fêtes.",
+        "Définir le mot démocratie et situer sa naissance à Athènes à la fin du VIe siècle avant J.-C.",
+        "Décrire qui est citoyen à Athènes et comment les citoyens participent aux décisions.",
+        "Comparer la démocratie athénienne et la démocratie actuelle, et distinguer un fait historique d’un récit mythique."
+      ],
+      "skill_ids": [
+        "6e-hg-democratie-athenienne-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-democratie-athenienne.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-democratie-athenienne-quiz",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-democratie-athenienne"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Expliquer que la Grèce antique est un monde de cités indépendantes qui partagent une langue, des dieux et des fêtes.",
+        "Définir le mot démocratie et situer sa naissance à Athènes à la fin du VIe siècle avant J.-C.",
+        "Décrire qui est citoyen à Athènes et comment les citoyens participent aux décisions.",
+        "Comparer la démocratie athénienne et la démocratie actuelle, et distinguer un fait historique d’un récit mythique."
+      ],
+      "skill_ids": [
+        "6e-hg-democratie-athenienne-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-democratie-athenienne.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-democratie-athenienne-exercise",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-democratie-athenienne"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Expliquer que la Grèce antique est un monde de cités indépendantes qui partagent une langue, des dieux et des fêtes.",
+        "Définir le mot démocratie et situer sa naissance à Athènes à la fin du VIe siècle avant J.-C.",
+        "Décrire qui est citoyen à Athènes et comment les citoyens participent aux décisions.",
+        "Comparer la démocratie athénienne et la démocratie actuelle, et distinguer un fait historique d’un récit mythique."
+      ],
+      "skill_ids": [
+        "6e-hg-democratie-athenienne-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-democratie-athenienne.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-democratie-athenienne-assessment",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-democratie-athenienne"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Expliquer que la Grèce antique est un monde de cités indépendantes qui partagent une langue, des dieux et des fêtes.",
+        "Définir le mot démocratie et situer sa naissance à Athènes à la fin du VIe siècle avant J.-C.",
+        "Décrire qui est citoyen à Athènes et comment les citoyens participent aux décisions.",
+        "Comparer la démocratie athénienne et la démocratie actuelle, et distinguer un fait historique d’un récit mythique."
+      ],
+      "skill_ids": [
+        "6e-hg-democratie-athenienne-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-democratie-athenienne.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-democratie-athenienne-audio",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-democratie-athenienne"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Expliquer que la Grèce antique est un monde de cités indépendantes qui partagent une langue, des dieux et des fêtes.",
+        "Définir le mot démocratie et situer sa naissance à Athènes à la fin du VIe siècle avant J.-C.",
+        "Décrire qui est citoyen à Athènes et comment les citoyens participent aux décisions.",
+        "Comparer la démocratie athénienne et la démocratie actuelle, et distinguer un fait historique d’un récit mythique."
+      ],
+      "skill_ids": [
+        "6e-hg-democratie-athenienne-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-democratie-athenienne.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-democratie-athenienne-assistant_explanation",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-democratie-athenienne"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Expliquer que la Grèce antique est un monde de cités indépendantes qui partagent une langue, des dieux et des fêtes.",
+        "Définir le mot démocratie et situer sa naissance à Athènes à la fin du VIe siècle avant J.-C.",
+        "Décrire qui est citoyen à Athènes et comment les citoyens participent aux décisions.",
+        "Comparer la démocratie athénienne et la démocratie actuelle, et distinguer un fait historique d’un récit mythique."
+      ],
+      "skill_ids": [
+        "6e-hg-democratie-athenienne-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-democratie-athenienne.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-habiter-metropole-course",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-habiter-metropole"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Définir ce qu’est une métropole et citer ses fonctions économiques, politiques, culturelles et sociales.",
+        "Distinguer les différents habitants d’une métropole : résidents, migrants pendulaires, touristes, usagers occasionnels.",
+        "Identifier quelques problèmes d’une métropole (transports, pollution, logement, inégalités) et des réponses possibles.",
+        "Imaginer une ville de demain plus durable."
+      ],
+      "skill_ids": [
+        "6e-hg-habiter-metropole-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-habiter-metropole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-habiter-metropole-revision_sheet",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-habiter-metropole"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Définir ce qu’est une métropole et citer ses fonctions économiques, politiques, culturelles et sociales.",
+        "Distinguer les différents habitants d’une métropole : résidents, migrants pendulaires, touristes, usagers occasionnels.",
+        "Identifier quelques problèmes d’une métropole (transports, pollution, logement, inégalités) et des réponses possibles.",
+        "Imaginer une ville de demain plus durable."
+      ],
+      "skill_ids": [
+        "6e-hg-habiter-metropole-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-habiter-metropole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-habiter-metropole-quiz",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-habiter-metropole"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Définir ce qu’est une métropole et citer ses fonctions économiques, politiques, culturelles et sociales.",
+        "Distinguer les différents habitants d’une métropole : résidents, migrants pendulaires, touristes, usagers occasionnels.",
+        "Identifier quelques problèmes d’une métropole (transports, pollution, logement, inégalités) et des réponses possibles.",
+        "Imaginer une ville de demain plus durable."
+      ],
+      "skill_ids": [
+        "6e-hg-habiter-metropole-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-habiter-metropole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-habiter-metropole-exercise",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-habiter-metropole"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Définir ce qu’est une métropole et citer ses fonctions économiques, politiques, culturelles et sociales.",
+        "Distinguer les différents habitants d’une métropole : résidents, migrants pendulaires, touristes, usagers occasionnels.",
+        "Identifier quelques problèmes d’une métropole (transports, pollution, logement, inégalités) et des réponses possibles.",
+        "Imaginer une ville de demain plus durable."
+      ],
+      "skill_ids": [
+        "6e-hg-habiter-metropole-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-habiter-metropole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-habiter-metropole-assessment",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-habiter-metropole"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Définir ce qu’est une métropole et citer ses fonctions économiques, politiques, culturelles et sociales.",
+        "Distinguer les différents habitants d’une métropole : résidents, migrants pendulaires, touristes, usagers occasionnels.",
+        "Identifier quelques problèmes d’une métropole (transports, pollution, logement, inégalités) et des réponses possibles.",
+        "Imaginer une ville de demain plus durable."
+      ],
+      "skill_ids": [
+        "6e-hg-habiter-metropole-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-habiter-metropole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-habiter-metropole-audio",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-habiter-metropole"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Définir ce qu’est une métropole et citer ses fonctions économiques, politiques, culturelles et sociales.",
+        "Distinguer les différents habitants d’une métropole : résidents, migrants pendulaires, touristes, usagers occasionnels.",
+        "Identifier quelques problèmes d’une métropole (transports, pollution, logement, inégalités) et des réponses possibles.",
+        "Imaginer une ville de demain plus durable."
+      ],
+      "skill_ids": [
+        "6e-hg-habiter-metropole-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-habiter-metropole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-hg-habiter-metropole-assistant_explanation",
+      "program_id": "6e-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-hg-habiter-metropole"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Définir ce qu’est une métropole et citer ses fonctions économiques, politiques, culturelles et sociales.",
+        "Distinguer les différents habitants d’une métropole : résidents, migrants pendulaires, touristes, usagers occasionnels.",
+        "Identifier quelques problèmes d’une métropole (transports, pollution, logement, inégalités) et des réponses possibles.",
+        "Imaginer une ville de demain plus durable."
+      ],
+      "skill_ids": [
+        "6e-hg-habiter-metropole-skill"
+      ],
+      "source_locators": [
+        "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Géographie / Classe de sixième / Thème 1 - Habiter une métropole (sous-thèmes « Les métropoles et leurs habitants » et « La ville de demain »), pages 75–76 (pagination imprimée ; pages 76–77 du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-hg-habiter-metropole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

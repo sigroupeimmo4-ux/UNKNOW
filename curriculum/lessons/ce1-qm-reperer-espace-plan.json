@@ -1,0 +1,131 @@
+{
+  "id": "ce1-qm-reperer-espace-plan",
+  "title": "Se repérer dans l’espace et lire un plan",
+  "chapter_id": "ce1-qm-reperer-espace-plan",
+  "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Utiliser les mots de position et de déplacement pour situer un objet ou décrire un chemin.",
+    "Comprendre qu’un plan représente un lieu vu de dessus.",
+    "Utiliser le titre et la légende pour lire un plan ou une carte simple."
+  ],
+  "skill_ids": [
+    "ce1-qm-reperer-espace-plan-skill"
+  ],
+  "source_locators": [
+    "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Dire où se trouve un objet",
+      "text": "Pour dire où est un objet, on le compare à un autre repère. Le cartable est à gauche de la chaise. Le chat est sous la table, donc en dessous. La lampe est au-dessus du bureau. Le tableau est devant les élèves et le mur est derrière eux. Une chose proche est près, une chose éloignée est loin."
+    },
+    {
+      "title": "Dire comment se déplacer",
+      "text": "Pour guider quelqu’un, on utilise des mots de déplacement : avancer, reculer, tourner à droite, tourner à gauche, monter, descendre. Exemple : « Avance de trois pas, tourne à droite, puis avance encore de deux pas. » Il faut dire les étapes dans l’ordre."
+    },
+    {
+      "title": "Le plan : un lieu vu de dessus",
+      "text": "Un plan montre un lieu comme si on le regardait d’en haut, comme un oiseau qui vole. Sur le plan de la classe, la table est dessinée avec la forme de son dessus, par exemple un carré. Un plan est plus petit que le vrai lieu, mais les objets restent à la bonne place les uns par rapport aux autres."
+    },
+    {
+      "title": "Lire une carte ou un plan",
+      "text": "Pour lire une carte, on regarde d’abord son titre, qui dit ce qu’elle montre. La légende explique les signes et les couleurs utilisés. L’orientation indique où est le nord. Les quatre points cardinaux sont le nord, le sud, l’est et l’ouest."
+    }
+  ],
+  "revision_sheet": [
+    "Je situe un objet avec : gauche, droite, devant, derrière, au-dessus, en dessous, près, loin.",
+    "Pour me déplacer : avancer, reculer, tourner à droite, tourner à gauche.",
+    "Un plan montre un lieu vu de dessus.",
+    "Le titre dit ce que montre la carte ; la légende explique les signes.",
+    "Les points cardinaux sont le nord, le sud, l’est et l’ouest."
+  ],
+  "quiz": [
+    {
+      "prompt": "Un plan montre un lieu vu...",
+      "choices": [
+        "de côté",
+        "de dessus",
+        "de dessous"
+      ],
+      "correct_index": 1,
+      "explanation": "Un plan représente un lieu comme si on le regardait d’en haut."
+    },
+    {
+      "prompt": "À quoi sert la légende d’un plan ?",
+      "choices": [
+        "À expliquer les signes et les couleurs",
+        "À donner l’heure",
+        "À colorier le plan"
+      ],
+      "correct_index": 0,
+      "explanation": "La légende explique ce que veulent dire les signes et les couleurs dessinés."
+    },
+    {
+      "prompt": "Le chat dort sous la table. Où est-il par rapport à la table ?",
+      "choices": [
+        "Au-dessus",
+        "En dessous",
+        "Derrière la porte"
+      ],
+      "correct_index": 1,
+      "explanation": "« Sous » veut dire « en dessous » : le chat est en dessous de la table."
+    },
+    {
+      "prompt": "Quel mot décrit un déplacement ?",
+      "choices": [
+        "près",
+        "loin",
+        "reculer"
+      ],
+      "correct_index": 2,
+      "explanation": "Reculer est un mot de déplacement : on bouge en arrière. Près et loin disent une position."
+    },
+    {
+      "prompt": "Lequel est un point cardinal ?",
+      "choices": [
+        "nord",
+        "devant",
+        "gauche"
+      ],
+      "correct_index": 0,
+      "explanation": "Le nord est un point cardinal, comme le sud, l’est et l’ouest."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Le livre est posé sur la table. Le cartable est sous la table. Où est le livre par rapport au cartable ?",
+      "solution": "Le livre est au-dessus du cartable, et le cartable est en dessous du livre.",
+      "success_criterion": "Employer correctement au-dessus et en dessous."
+    },
+    {
+      "prompt": "Écris trois consignes pour aller de la porte de la classe à ta place, avec des mots de déplacement.",
+      "solution": "Exemple : avance de cinq pas ; tourne à droite ; avance de deux pas. Les réponses peuvent varier selon la classe.",
+      "success_criterion": "Écrire des consignes dans l’ordre avec au moins deux mots de déplacement."
+    },
+    {
+      "prompt": "Cite les quatre points cardinaux.",
+      "solution": "Le nord, le sud, l’est et l’ouest.",
+      "success_criterion": "Citer les quatre points cardinaux."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Dessine un petit plan de ta chambre ou de ta classe vu de dessus avec trois objets, puis écris une légende.",
+      "solution": "Le plan montre les objets vus d’en haut, à la bonne place les uns par rapport aux autres. La légende explique chaque signe ou couleur.",
+      "success_criterion": "Dessiner trois objets vus de dessus et écrire une légende claire."
+    },
+    {
+      "prompt": "Sur ton plan, explique avec une phrase où se trouve un objet par rapport à un autre.",
+      "solution": "Exemple : la table est près de la fenêtre et la chaise est devant la table.",
+      "success_criterion": "Écrire une phrase correcte avec un mot de position."
+    },
+    {
+      "prompt": "Explique pourquoi on regarde le titre d’une carte avant de la lire.",
+      "solution": "Le titre dit ce que la carte montre : on sait alors ce qu’on cherche.",
+      "success_criterion": "Dire que le titre indique le sujet de la carte."
+    }
+  ],
+  "audio_transcript": "Pour dire où se trouve un objet, on utilise des mots de position : à gauche, à droite, devant, derrière, au-dessus, en dessous, près et loin. Pour se déplacer, on dit : avancer, reculer, tourner à droite ou tourner à gauche. Un plan montre un lieu vu de dessus, comme si on le regardait d’en haut. La légende explique les signes du plan. Les points cardinaux sont le nord, le sud, l’est et l’ouest.",
+  "guided_explanation": "Regarde ta classe. Choisis ta table et dis où se trouve la porte : devant toi, derrière toi, à gauche ou à droite. Maintenant imagine que tu montes au plafond et que tu regardes la classe d’en haut. Ta table devient un petit carré ou un rectangle. Dessine-la, puis dessine la porte et le tableau à leur place. Tu viens de faire un plan. Ajoute une légende qui explique chaque dessin : c’est comme cela qu’on lit une carte."
+}

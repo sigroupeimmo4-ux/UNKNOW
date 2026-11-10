@@ -1,0 +1,127 @@
+{
+  "id": "4e-hg-revolution-francaise-empire",
+  "title": "La Révolution française et l’Empire (1789-1815)",
+  "chapter_id": "4e-hg-revolution-francaise-empire",
+  "program_id": "4e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Situer les grandes étapes de la Révolution française et de l’Empire entre 1789 et 1815.",
+    "Expliquer ce que la Déclaration des droits de l’homme et du citoyen change dans la société française.",
+    "Décrire les réformes de la Révolution et de l’Empire qui durent encore aujourd’hui."
+  ],
+  "skill_ids": [
+    "4e-hg-revolution-francaise-empire-skill",
+    "4e-hg-revolution-francaise-empire-reforms"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 1 « Le XVIIIe siècle. Expansions, Lumières et révolutions » (La Révolution française et l’Empire), page 82 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "La France en 1789 : une société d’ordres en crise",
+      "text": "Avant 1789, le royaume de France est une monarchie absolue : le roi, Louis XVI, détient tous les pouvoirs. La société est divisée en trois ordres : le clergé, la noblesse et le tiers état, qui regroupe tout le reste de la population (paysans, artisans, bourgeois). Le clergé et la noblesse ont des privilèges, par exemple des avantages fiscaux, alors que le tiers état supporte l’essentiel des impôts. Le royaume traverse une crise financière. Pour chercher une solution, Louis XVI convoque les États généraux, qui s’ouvrent à Versailles le 5 mai 1789. Les députés du tiers état se proclament ensuite Assemblée nationale (juin 1789)."
+    },
+    {
+      "title": "1789 : la fin de l’Ancien Régime",
+      "text": "Le 14 juillet 1789, des Parisiens prennent la Bastille, une forteresse qui symbolise le pouvoir du roi. Dans la nuit du 4 août 1789, l’Assemblée vote la suppression des privilèges. Le 26 août 1789, elle adopte la Déclaration des droits de l’homme et du citoyen : les hommes naissent et demeurent libres et égaux en droits, la loi est la même pour tous, et la souveraineté appartient à la nation, c’est-à-dire à l’ensemble des citoyens et non plus au roi seul. En 1790, la France est aussi réorganisée en départements."
+    },
+    {
+      "title": "De la monarchie constitutionnelle à la République",
+      "text": "La Constitution de 1791 crée une monarchie constitutionnelle : le pouvoir du roi est limité par une constitution et par des lois votées par une assemblée. En 1792, la France entre en guerre contre l’Autriche. Le 10 août 1792, la monarchie est renversée. En septembre 1792, la Convention proclame la République. Louis XVI est jugé, condamné puis exécuté le 21 janvier 1793. En 1793-1794, face à la guerre et aux troubles à l’intérieur du pays, le pouvoir prend des mesures d’exception, la Terreur : de nombreuses personnes sont arrêtées et exécutées. En février 1794, la Convention abolit l’esclavage dans les colonies françaises."
+    },
+    {
+      "title": "Bonaparte, l’Empire et son héritage",
+      "text": "En novembre 1799, le général Napoléon Bonaparte prend le pouvoir par un coup d’État ; il dirige d’abord le Consulat. En 1804, il se fait proclamer empereur des Français. Le pouvoir devient très autoritaire. Napoléon réorganise l’État : préfets dans les départements, Banque de France (1800), lycées, Code civil (1804). Le Code civil garantit l’égalité devant la loi et protège la propriété, mais la femme mariée reste soumise à l’autorité de son mari. L’esclavage est rétabli dans les colonies en 1802. Par ses guerres, Napoléon étend son empire en Europe et y diffuse certaines réformes, mais il rencontre aussi des résistances. Il est définitivement vaincu à Waterloo le 18 juin 1815 et exilé à Sainte-Hélène."
+    }
+  ],
+  "revision_sheet": [
+    "1789 : États généraux (5 mai), prise de la Bastille (14 juillet), abolition des privilèges (nuit du 4 août), Déclaration des droits de l’homme et du citoyen (26 août).",
+    "1791 : monarchie constitutionnelle ; 1792 : fin de la monarchie (10 août) puis République (septembre) ; 21 janvier 1793 : exécution de Louis XVI.",
+    "1799 : Bonaparte prend le pouvoir ; 1804 : Napoléon devient empereur et le Code civil est publié ; 18 juin 1815 : défaite de Waterloo.",
+    "Apports durables : égalité devant la loi, souveraineté de la nation, droits et libertés, départements, préfets, Code civil, lycées.",
+    "Limites à retenir : l’égalité des droits ne concerne pas encore les femmes, et l’esclavage est rétabli en 1802."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel événement a lieu le 14 juillet 1789 ?",
+      "choices": [
+        "La proclamation de la République",
+        "La prise de la Bastille",
+        "L’exécution de Louis XVI"
+      ],
+      "correct_index": 1,
+      "explanation": "Le 14 juillet 1789, des Parisiens prennent la Bastille. La République est proclamée en 1792 et Louis XVI est exécuté en 1793."
+    },
+    {
+      "prompt": "Que proclame la Déclaration des droits de l’homme et du citoyen du 26 août 1789 ?",
+      "choices": [
+        "Les hommes naissent libres et égaux en droits",
+        "Le roi garde tous les pouvoirs",
+        "Les privilèges de la noblesse sont maintenus"
+      ],
+      "correct_index": 0,
+      "explanation": "La Déclaration affirme la liberté, l’égalité devant la loi et la souveraineté de la nation. Les privilèges avaient été supprimés dans la nuit du 4 août."
+    },
+    {
+      "prompt": "Qu’est-ce qu’une monarchie constitutionnelle ?",
+      "choices": [
+        "Un régime où le roi décide seul",
+        "Un régime sans roi, dirigé par un empereur",
+        "Un régime où le pouvoir du roi est limité par une constitution et des lois"
+      ],
+      "correct_index": 2,
+      "explanation": "Dans une monarchie constitutionnelle, comme en 1791, le roi existe encore mais ses pouvoirs sont encadrés par une constitution."
+    },
+    {
+      "prompt": "Napoléon Bonaparte est proclamé empereur des Français en…",
+      "choices": [
+        "1789",
+        "1804",
+        "1815"
+      ],
+      "correct_index": 1,
+      "explanation": "Bonaparte prend le pouvoir en 1799 et devient empereur en 1804. 1815 est l’année de sa défaite à Waterloo."
+    },
+    {
+      "prompt": "Lequel de ces éléments est une réforme du Consulat et de l’Empire qui existe encore aujourd’hui sous une forme évoluée ?",
+      "choices": [
+        "Les États généraux",
+        "La société d’ordres",
+        "Le Code civil"
+      ],
+      "correct_index": 2,
+      "explanation": "Le Code civil de 1804 est à l’origine du droit civil actuel, même s’il a été beaucoup modifié depuis. Les États généraux et la société d’ordres appartiennent à l’Ancien Régime."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Remets dans l’ordre chronologique : exécution de Louis XVI ; prise de la Bastille ; Napoléon devient empereur ; Déclaration des droits de l’homme et du citoyen.",
+      "solution": "1) Prise de la Bastille (14 juillet 1789) ; 2) Déclaration des droits de l’homme et du citoyen (26 août 1789) ; 3) exécution de Louis XVI (21 janvier 1793) ; 4) Napoléon devient empereur (1804).",
+      "success_criterion": "Ordonner correctement les quatre événements en s’appuyant sur les dates."
+    },
+    {
+      "prompt": "Explique la différence entre une monarchie absolue et une monarchie constitutionnelle.",
+      "solution": "Dans une monarchie absolue, le roi détient tous les pouvoirs et ne partage pas la décision. Dans une monarchie constitutionnelle, le roi garde son titre mais son pouvoir est limité par une constitution et par des lois votées par une assemblée.",
+      "success_criterion": "Distinguer clairement les deux régimes en précisant qui détient le pouvoir."
+    },
+    {
+      "prompt": "Cite deux changements de la Révolution et deux réformes de Napoléon Bonaparte qui existent encore aujourd’hui, au moins sous une forme évoluée.",
+      "solution": "Révolution : l’égalité devant la loi, la souveraineté de la nation, les départements. Napoléon : le Code civil, les préfets, les lycées, la Banque de France. (Deux de chaque suffisent.)",
+      "success_criterion": "Citer deux apports de la Révolution et deux réformes de l’Empire, sans les confondre."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique en quelques phrases comment la société française change entre 1789 et 1792 : qui avait des privilèges, ce qui est supprimé, et quel régime politique existe en septembre 1792.",
+      "solution": "Avant 1789, le clergé et la noblesse ont des privilèges alors que le tiers état supporte l’essentiel des impôts. Dans la nuit du 4 août 1789, les privilèges sont supprimés, puis la Déclaration des droits de l’homme et du citoyen proclame l’égalité devant la loi. En 1791 la monarchie devient constitutionnelle, puis la monarchie est renversée le 10 août 1792 et la République est proclamée en septembre 1792.",
+      "success_criterion": "Mentionner les privilèges, leur suppression, la Déclaration de 1789 et le passage à la République en 1792."
+    },
+    {
+      "prompt": "Napoléon Bonaparte est-il un héritier de la Révolution ? Réponds avec un argument pour et un argument contre.",
+      "solution": "Pour : il conserve l’égalité devant la loi et plusieurs réformes (départements, Code civil qui protège la propriété). Contre : il dirige un régime autoritaire, se fait proclamer empereur en 1804, rétablit l’esclavage en 1802 et garde la femme mariée sous l’autorité de son mari.",
+      "success_criterion": "Donner au moins un argument pour et un argument contre, appuyés sur un fait précis."
+    }
+  ],
+  "audio_transcript": "La Révolution française commence en 1789. La France est alors une monarchie absolue et une société d’ordres : le clergé et la noblesse ont des privilèges. Le 14 juillet 1789, des Parisiens prennent la Bastille. Le 26 août 1789, la Déclaration des droits de l’homme et du citoyen proclame la liberté et l’égalité devant la loi. La monarchie constitutionnelle de 1791 est suivie par la République en 1792. Louis XVI est exécuté en 1793. En 1799, Napoléon Bonaparte prend le pouvoir ; il devient empereur en 1804. Il conserve de grandes réformes comme le Code civil, les préfets et les lycées. Il est vaincu à Waterloo en 1815.",
+  "guided_explanation": "Pour retenir ce chapitre, imagine une frise avec quatre étapes : 1789, la fin de l’Ancien Régime ; 1792, la République ; 1799, l’arrivée de Bonaparte au pouvoir ; 1815, la fin de l’Empire. Pour chaque étape, demande-toi qui détient le pouvoir et quels droits ont les habitants. Quand tu rencontres une date, essaie de la relier à un événement précis, comme la prise de la Bastille ou la Déclaration des droits. Pense aussi à ce qui reste aujourd’hui de cette période : l’idée d’égalité devant la loi, les départements ou le Code civil."
+}

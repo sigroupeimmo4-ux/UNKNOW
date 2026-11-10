@@ -1,0 +1,127 @@
+{
+  "id": "4e-hg-urbanisation-du-monde",
+  "title": "L’urbanisation du monde : centres, périphéries et villes connectées",
+  "chapter_id": "4e-hg-urbanisation-du-monde",
+  "program_id": "4e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Expliquer l’urbanisation du monde et citer le repère de 2007.",
+    "Décrire les paysages d’une ville : centre, quartier d’affaires, banlieue, espaces périurbains.",
+    "Distinguer une ville bien connectée à la mondialisation d’une ville à l’écart ou en déclin."
+  ],
+  "skill_ids": [
+    "4e-hg-urbanisation-du-monde-skill",
+    "4e-hg-urbanisation-du-monde-connexion"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie / Classe de 4e, Thème 1 « L’urbanisation du monde », page 88 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Un monde de plus en plus urbain",
+      "text": "L’urbanisation est l’augmentation de la part des habitants qui vivent en ville et l’extension des villes. Le monde s’urbanise à grande vitesse depuis 1945. Depuis 2007, plus de la moitié de l’humanité habite en ville, et l’on estime que cette part pourrait atteindre les deux tiers vers 2050. Ce phénomène est particulièrement rapide en Asie et en Afrique. On appelle agglomération l’ensemble formé par une ville et ses banlieues, et métropole une grande ville qui exerce une influence importante sur un vaste territoire. Certaines agglomérations, comme celle de Tokyo, comptent plus de 30 millions d’habitants."
+    },
+    {
+      "title": "Les espaces et les paysages d’une ville",
+      "text": "Une ville est organisée en centre et en périphéries. Le centre-ville est souvent la partie la plus ancienne et la plus dense : on y trouve des commerces, des services, des monuments. Dans beaucoup de grandes villes, un quartier d’affaires regroupe des tours de bureaux, des banques et des sièges d’entreprises (par exemple La Défense, près de Paris). Autour, la périphérie comprend des quartiers d’habitation, des zones industrielles et commerciales, des aéroports. Plus loin, l’étalement urbain étend la ville sur les campagnes, avec des lotissements de maisons individuelles : c’est le périurbain. Dans beaucoup de villes, des quartiers aisés côtoient des quartiers pauvres, parfois des bidonvilles, qui sont des quartiers d’habitat précaire construits sans autorisation."
+    },
+    {
+      "title": "Des villes connectées à la mondialisation",
+      "text": "La mondialisation est l’intensification des échanges de marchandises, de personnes, de capitaux et d’informations dans le monde. Les grandes villes sont reliées entre elles par des réseaux : ports, aéroports, trains à grande vitesse, câbles et réseaux de communication. Des villes comme New York, Londres ou Tokyo sont très bien connectées : elles accueillent des sièges d’entreprises, des banques, des universités, et attirent des habitants et des investissements. On les appelle parfois des villes mondiales. Cette position apporte des emplois et de l’influence, mais peut aussi accentuer les inégalités, la hausse des prix du logement, la pollution et la congestion."
+    },
+    {
+      "title": "Des villes à l’écart, des villes qui rétrécissent",
+      "text": "Toutes les villes ne sont pas aussi bien connectées. Certaines sont à l’écart des grands réseaux et attirent peu d’entreprises ou d’habitants. D’autres connaissent un « rétrécissement » : leur population diminue (on parle de villes en déclin ou de shrinking cities). C’est le cas de Detroit, aux États-Unis. Cette ville fut un grand centre de l’industrie automobile ; depuis les années 1950, avec le déclin de cette industrie et le départ d’une partie de ses habitants, elle a perdu plus de la moitié de sa population. On y trouve des quartiers vides et des bâtiments abandonnés. La géographie des villes est donc très inégale : certaines grandissent et se connectent, d’autres déclinent."
+    }
+  ],
+  "revision_sheet": [
+    "Depuis 2007, plus de la moitié de l’humanité vit en ville ; l’urbanisation est rapide depuis 1945.",
+    "Dans une ville : centre-ville (dense, commerces, services), quartier d’affaires (tours, sièges d’entreprises), périphérie (habitat, zones industrielles et commerciales), périurbain (étalement urbain).",
+    "Vocabulaire : urbanisation, agglomération, métropole, étalement urbain, bidonville.",
+    "Villes connectées : ports, aéroports, réseaux de communication, sièges d’entreprises (ex. New York, Londres, Tokyo).",
+    "Certaines villes rétrécissent : exemple de Detroit, ville qui a perdu plus de la moitié de sa population depuis les années 1950."
+  ],
+  "quiz": [
+    {
+      "prompt": "Depuis quelle année plus de la moitié de l’humanité vit-elle en ville ?",
+      "choices": [
+        "2007",
+        "1945",
+        "2050"
+      ],
+      "correct_index": 0,
+      "explanation": "Depuis 2007, les citadins sont plus nombreux que les ruraux dans le monde. 1945 marque le début d’une urbanisation très rapide et 2050 est une prévision."
+    },
+    {
+      "prompt": "Quel espace d’une grande ville regroupe surtout des tours de bureaux, des banques et des sièges d’entreprises ?",
+      "choices": [
+        "Le lotissement périurbain",
+        "Le quartier d’affaires",
+        "La zone agricole"
+      ],
+      "correct_index": 1,
+      "explanation": "Le quartier d’affaires concentre les activités de direction et de services, comme La Défense près de Paris."
+    },
+    {
+      "prompt": "Que désigne l’étalement urbain ?",
+      "choices": [
+        "La disparition d’une ville",
+        "La construction de tours dans le centre",
+        "L’extension de la ville sur les campagnes autour"
+      ],
+      "correct_index": 2,
+      "explanation": "L’étalement urbain correspond à l’extension de la ville vers sa périphérie, avec souvent des lotissements et des zones d’activités."
+    },
+    {
+      "prompt": "Qu’est-ce qu’une ville bien connectée à la mondialisation ?",
+      "choices": [
+        "Une ville bien reliée aux réseaux de transport, de communication et d’échanges",
+        "Une ville située au bord de la mer uniquement",
+        "Une ville qui a peu d’habitants"
+      ],
+      "correct_index": 0,
+      "explanation": "Une ville connectée possède des ports, des aéroports, des liaisons rapides et des réseaux qui l’intègrent aux échanges mondiaux."
+    },
+    {
+      "prompt": "Detroit est un exemple de…",
+      "choices": [
+        "Ville en forte croissance liée au tourisme",
+        "Ville dont la population a beaucoup diminué (ville qui rétrécit)",
+        "Ville du continent africain"
+      ],
+      "correct_index": 1,
+      "explanation": "Detroit, aux États-Unis, a connu un fort déclin lié à celui de l’industrie automobile et a perdu plus de la moitié de ses habitants depuis les années 1950."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Associe chaque élément à son espace : tour de bureaux ; lotissement de maisons ; vieux monuments et commerces ; zone industrielle. Espaces : quartier d’affaires ; périurbain ; centre-ville ; périphérie.",
+      "solution": "Tour de bureaux : quartier d’affaires ; lotissement de maisons : périurbain ; vieux monuments et commerces : centre-ville ; zone industrielle : périphérie.",
+      "success_criterion": "Associer correctement chaque élément à l’espace qui lui correspond."
+    },
+    {
+      "prompt": "Explique pourquoi un aéroport international et un grand port sont des atouts pour une ville.",
+      "solution": "Ils relient la ville aux autres régions du monde : marchandises, voyageurs, entreprises et investissements arrivent plus facilement. La ville devient plus attractive et mieux intégrée à la mondialisation.",
+      "success_criterion": "Relier infrastructures de transport et connexion de la ville aux échanges mondiaux."
+    },
+    {
+      "prompt": "Donne deux problèmes que peut rencontrer une ville qui grandit très vite.",
+      "solution": "Par exemple : manque de logements et développement de bidonvilles, embouteillages, pollution, difficulté à fournir eau, électricité et services pour tous.",
+      "success_criterion": "Citer deux problèmes réels et adaptés à une croissance urbaine rapide."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Compare une ville mondiale (par exemple New York ou Londres) et une ville qui rétrécit (Detroit) : cite deux différences.",
+      "solution": "Une ville mondiale est très connectée aux réseaux mondiaux, accueille des sièges d’entreprises et attire des habitants, alors que Detroit a perdu plus de la moitié de sa population depuis les années 1950 avec le déclin de l’industrie automobile et possède des quartiers abandonnés.",
+      "success_criterion": "Donner deux différences claires : connexion et attractivité d’un côté, déclin de population de l’autre."
+    },
+    {
+      "prompt": "Décris les principaux paysages que l’on peut traverser en allant du centre d’une grande ville jusqu’à la campagne.",
+      "solution": "On passe du centre-ville dense (commerces, monuments, parfois quartier d’affaires avec des tours) à la périphérie (quartiers d’habitation, zones commerciales et industrielles), puis au périurbain avec des lotissements de maisons individuelles et des champs.",
+      "success_criterion": "Citer au moins trois espaces dans l’ordre : centre, périphérie, périurbain."
+    }
+  ],
+  "audio_transcript": "Le monde s’urbanise à grande vitesse depuis 1945. Depuis 2007, plus de la moitié de l’humanité vit en ville. Une ville est organisée en centre et en périphéries. Le centre est dense, avec des commerces et parfois un quartier d’affaires et ses tours. Autour, on trouve des quartiers d’habitation, des zones industrielles et commerciales, puis le périurbain, où la ville s’étale sur les campagnes. Les grandes villes mondiales comme New York, Londres ou Tokyo sont très connectées aux réseaux de transport et de communication. D’autres villes sont à l’écart, ou rétrécissent, comme Detroit aux États-Unis, qui a perdu plus de la moitié de sa population depuis les années 1950.",
+  "guided_explanation": "Pour décrire une ville, imagine que tu la survoles en hélicoptère. Au centre, que vois-tu : des commerces, des monuments, des tours ? Plus loin, que vois-tu : des immeubles, des maisons, des usines, des champs ? Ensuite, pose-toi la question de ses liens avec le reste du monde : y a-t-il un grand port, un aéroport, des trains rapides ? Une ville bien connectée attire des entreprises et des habitants. Une ville à l’écart ou en déclin, comme Detroit, a plus de mal à rester attractive."
+}

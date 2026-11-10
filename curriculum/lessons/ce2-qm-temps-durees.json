@@ -1,0 +1,133 @@
+{
+  "id": "ce2-qm-temps-durees",
+  "title": "Se repérer dans le temps : rythmes, calendrier et durées",
+  "chapter_id": "ce2-qm-temps-durees",
+  "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître des rythmes cycliques (jour et nuit, semaine, mois, saisons).",
+    "Lire l’heure et utiliser les relations entre les unités de durée usuelles.",
+    "Situer des événements avant, après ou pendant d’autres sur un calendrier ou une frise chronologique."
+  ],
+  "skill_ids": [
+    "ce2-qm-temps-durees-skill-rythmes",
+    "ce2-qm-temps-durees-skill-durees",
+    "ce2-qm-temps-durees-skill-situer"
+  ],
+  "source_locators": [
+    "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Des rythmes qui reviennent",
+      "text": "Certaines choses reviennent toujours dans le même ordre : on dit que ce sont des rythmes cycliques. Le jour et la nuit se suivent. Les sept jours de la semaine se répètent : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche. Les mois se suivent de janvier à décembre, puis l’année recommence. Les quatre saisons, le printemps, l’été, l’automne et l’hiver, se succèdent dans le même ordre."
+    },
+    {
+      "title": "Les unités de durée",
+      "text": "Pour mesurer combien de temps dure quelque chose, on utilise des unités. 1 minute = 60 secondes. 1 heure = 60 minutes. 1 jour = 24 heures. 1 semaine = 7 jours. 1 année = 12 mois. Une année dure en général 365 jours, et 366 jours quand elle est bissextile. Un mois dure entre 28 et 31 jours. Pour les grandes durées : 1 siècle = 100 ans et 1 millénaire = 1 000 ans."
+    },
+    {
+      "title": "Lire l’heure et la date",
+      "text": "Sur une horloge à aiguilles, la petite aiguille montre les heures et la grande aiguille montre les minutes. Quand la grande aiguille est sur le 12, c’est une heure pile : avec la petite aiguille sur le 5, il est 5 h. Sur une horloge à affichage digital, on lit directement les chiffres, par exemple 3 h 45. Une date s’écrit avec le jour, le numéro du jour, le mois et l’année. Pour mesurer une durée, on peut utiliser un sablier ou un chronomètre."
+    },
+    {
+      "title": "Avant, après, pendant : le calendrier et la frise",
+      "text": "Le temps qui passe ne revient jamais en arrière : il est irréversible. Hier est passé, même si un nouveau lundi revient chaque semaine. Pour ranger des événements, on utilise un calendrier ou une frise chronologique. Sur une frise, on place les événements dans l’ordre, du plus ancien au plus récent, de la gauche vers la droite. On peut y placer des événements de ta vie : ta naissance, ton entrée au CP, ton entrée au CE2. On dit alors qu’un événement a eu lieu avant, après ou pendant un autre."
+    }
+  ],
+  "revision_sheet": [
+    "Rythmes cycliques : le jour et la nuit, les jours de la semaine, les mois, les saisons reviennent régulièrement.",
+    "1 minute = 60 secondes ; 1 heure = 60 minutes ; 1 jour = 24 heures ; 1 semaine = 7 jours ; 1 année = 12 mois.",
+    "Une année dure en général 365 jours (366 si elle est bissextile) ; 1 siècle = 100 ans ; 1 millénaire = 1 000 ans.",
+    "Horloge à aiguilles : la petite aiguille montre les heures, la grande aiguille montre les minutes.",
+    "Sur une frise chronologique, on range les événements du plus ancien au plus récent ; le temps qui passe est irréversible."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de minutes y a-t-il dans une heure ?",
+      "choices": [
+        "24",
+        "60",
+        "100"
+      ],
+      "correct_index": 1,
+      "explanation": "1 heure = 60 minutes. Le nombre 24 correspond aux heures d’un jour."
+    },
+    {
+      "prompt": "Combien d’années y a-t-il dans un siècle ?",
+      "choices": [
+        "10 ans",
+        "1 000 ans",
+        "100 ans"
+      ],
+      "correct_index": 2,
+      "explanation": "1 siècle = 100 ans. 1 000 ans font un millénaire."
+    },
+    {
+      "prompt": "Lequel est un rythme cyclique, c’est-à-dire qui revient dans le même ordre ?",
+      "choices": [
+        "Les jours de la semaine",
+        "Un enfant qui grandit",
+        "Une feuille qui tombe de l’arbre"
+      ],
+      "correct_index": 0,
+      "explanation": "Les jours de la semaine reviennent dans le même ordre, de lundi à dimanche, puis recommencent."
+    },
+    {
+      "prompt": "Sur une horloge, la petite aiguille est sur le 5 et la grande aiguille est sur le 12. Quelle heure est-il ?",
+      "choices": [
+        "1 h",
+        "12 h 05",
+        "5 h"
+      ],
+      "correct_index": 2,
+      "explanation": "La petite aiguille montre les heures (5) et la grande aiguille sur le 12 montre 0 minute : il est 5 h."
+    },
+    {
+      "prompt": "Sur une frise chronologique, les événements sont rangés du plus ancien au plus récent, de la gauche vers la droite. Un événement placé à droite d’un autre s’est passé :",
+      "choices": [
+        "plus tôt",
+        "plus tard",
+        "le même jour"
+      ],
+      "correct_index": 1,
+      "explanation": "Le temps avance de la gauche vers la droite : l’événement placé à droite s’est passé plus tard."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Complète : 2 heures = … minutes ; 3 minutes = … secondes.",
+      "solution": "2 heures = 120 minutes (2 × 60) ; 3 minutes = 180 secondes (3 × 60).",
+      "success_criterion": "Trouver 120 minutes et 180 secondes en utilisant 1 h = 60 min et 1 min = 60 s."
+    },
+    {
+      "prompt": "Un mois dure 30 jours. Combien de semaines entières contient-il ? Combien de jours restent-ils ?",
+      "solution": "4 semaines entières (4 × 7 = 28 jours) et il reste 2 jours.",
+      "success_criterion": "Trouver 4 semaines et 2 jours restants avec 1 semaine = 7 jours."
+    },
+    {
+      "prompt": "Range du plus ancien au plus récent : hier ; il y a une semaine ; aujourd’hui ; il y a un an.",
+      "solution": "Il y a un an ; il y a une semaine ; hier ; aujourd’hui.",
+      "success_criterion": "Ranger les quatre moments dans le bon ordre."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un film dure 90 minutes. Combien de temps dure-t-il en heures et minutes ?",
+      "solution": "90 minutes = 60 minutes + 30 minutes = 1 heure et 30 minutes.",
+      "success_criterion": "Répondre 1 h 30 en utilisant 1 heure = 60 minutes."
+    },
+    {
+      "prompt": "Samir commence ses devoirs à 17 h 10 et les finit à 17 h 40. Combien de temps a-t-il travaillé ?",
+      "solution": "De 17 h 10 à 17 h 40, il s’écoule 30 minutes.",
+      "success_criterion": "Trouver 30 minutes."
+    },
+    {
+      "prompt": "Explique pourquoi on dit que le temps qui passe est irréversible, alors que le lundi revient chaque semaine.",
+      "solution": "Le lundi revient, mais c’est un nouveau jour : on ne peut pas revenir à un jour déjà passé. Ce qui s’est passé hier est terminé.",
+      "success_criterion": "Distinguer un rythme qui se répète d’un moment passé qui ne revient pas."
+    }
+  ],
+  "audio_transcript": "Le temps a des rythmes qui reviennent : le jour et la nuit, les jours de la semaine, les mois, les saisons. On les appelle des rythmes cycliques. Pour mesurer une durée, on utilise des unités : une minute vaut soixante secondes, une heure vaut soixante minutes, un jour vaut vingt-quatre heures, une semaine vaut sept jours, une année vaut douze mois. Un siècle vaut cent ans. Sur une frise chronologique, on range les événements du plus ancien au plus récent. Le temps qui passe ne revient jamais en arrière.",
+  "guided_explanation": "Pense à ta journée. Tu te lèves le matin, tu vas à l’école, tu manges, tu te couches : demain, cela recommencera, c’est un rythme cyclique. Maintenant, mesure une durée : la récréation commence à 10 h 00 et finit à 10 h 15, elle dure donc 15 minutes. Pour ranger des événements de ta vie, dessine une frise : à gauche ta naissance, plus à droite ton entrée au CP, encore plus à droite le CE2. Ce qui est à gauche s’est passé avant, ce qui est à droite après."
+}

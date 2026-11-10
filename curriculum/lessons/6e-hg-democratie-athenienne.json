@@ -1,0 +1,132 @@
+{
+  "id": "6e-hg-democratie-athenienne",
+  "title": "Athènes et la naissance de la démocratie",
+  "chapter_id": "6e-hg-democratie-athenienne",
+  "program_id": "6e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Expliquer que la Grèce antique est un monde de cités indépendantes qui partagent une langue, des dieux et des fêtes.",
+    "Définir le mot démocratie et situer sa naissance à Athènes à la fin du VIe siècle avant J.-C.",
+    "Décrire qui est citoyen à Athènes et comment les citoyens participent aux décisions.",
+    "Comparer la démocratie athénienne et la démocratie actuelle, et distinguer un fait historique d’un récit mythique."
+  ],
+  "skill_ids": [
+    "6e-hg-democratie-athenienne-skill"
+  ],
+  "source_locators": [
+    "Histoire-géographie, cycle 3 (BO n° 31 du 30 juillet 2020, version eduscol), Histoire / Classe de sixième / Thème 2 - Récits fondateurs, croyances et citoyenneté dans la Méditerranée antique au Ier millénaire avant J-C (sous-thème « Le monde des cités grecques »), page 72 (pagination imprimée ; page 73 du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Un monde de cités",
+      "text": "La Grèce antique n’est pas un seul pays avec un seul chef. Elle est formée de nombreuses cités indépendantes, comme Athènes, Sparte, Corinthe ou Thèbes. Chaque cité a ses lois et son gouvernement, et les cités sont souvent rivales. Pourtant, les Grecs ont des points communs : ils parlent la langue grecque, honorent les mêmes dieux (Zeus, Athéna, Apollon...) et se retrouvent pour des fêtes comme les Jeux olympiques, organisés à Olympie. Les cités grecques se trouvent autour de la mer Égée et dans d’autres régions de la Méditerranée."
+    },
+    {
+      "title": "Athènes invente la démocratie",
+      "text": "Le mot démocratie vient du grec : dêmos veut dire « peuple » et kratos veut dire « pouvoir ». La démocratie est donc le « pouvoir du peuple ». À Athènes, vers 508 avant J.-C., un homme politique nommé Clisthène organise la cité de façon à donner plus de pouvoir aux citoyens. Au Ve siècle avant J.-C., la démocratie athénienne se renforce, notamment à l’époque de Périclès, un homme politique important de la cité."
+    },
+    {
+      "title": "Qui est citoyen, comment décide-t-on ?",
+      "text": "À Athènes, le citoyen est un homme adulte, libre, né de parents athéniens. Les femmes, les étrangers et les esclaves ne sont pas citoyens et ne votent pas. Les citoyens se réunissent à l’Assemblée pour débattre et voter les décisions, souvent à main levée. Beaucoup de responsables et de membres du conseil de la cité sont choisis par tirage au sort, ce qui donne à chaque citoyen la possibilité d’exercer une fonction. Les citoyens décident eux-mêmes : c’est une démocratie directe."
+    },
+    {
+      "title": "Histoire, mythe et héritage",
+      "text": "Les Athéniens racontent un mythe : Athéna, déesse protectrice de la cité, aurait offert l’olivier pour gagner la protection d’Athènes. Ce récit est une croyance, pas un fait prouvé : l’historien le distingue des faits que montrent les textes et l’archéologie, comme les ruines de l’Acropole et du Parthénon, temple d’Athéna construit au Ve siècle avant J.-C. La démocratie athénienne n’est pas la nôtre : aujourd’hui, tous les adultes ont le droit de vote et on élit des représentants. Mais l’idée que les citoyens débattent et décident ensemble est un héritage important d’Athènes."
+    }
+  ],
+  "revision_sheet": [
+    "La Grèce antique est formée de cités indépendantes (Athènes, Sparte, Corinthe...), souvent rivales, qui partagent la langue grecque, les dieux et des fêtes comme les Jeux olympiques.",
+    "Démocratie = « pouvoir du peuple » (dêmos : peuple ; kratos : pouvoir). Elle naît à Athènes à la fin du VIe siècle avant J.-C. (Clisthène, vers 508 avant J.-C.).",
+    "Citoyens athéniens : hommes adultes, libres, nés de parents athéniens. Les femmes, les étrangers et les esclaves en sont exclus.",
+    "Les citoyens débattent et votent à l’Assemblée ; beaucoup de responsables sont tirés au sort.",
+    "Un mythe est un récit de croyance ; l’histoire s’appuie sur des textes et des traces archéologiques (Acropole, Parthénon)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Que veut dire le mot démocratie ?",
+      "choices": [
+        "Le pouvoir d’un seul roi",
+        "Le pouvoir du peuple",
+        "Le pouvoir des dieux"
+      ],
+      "correct_index": 1,
+      "explanation": "Démocratie vient du grec dêmos (« peuple ») et kratos (« pouvoir ») : c’est le pouvoir du peuple."
+    },
+    {
+      "prompt": "Qui est citoyen à Athènes ?",
+      "choices": [
+        "Tous les habitants, y compris les esclaves",
+        "Les hommes adultes, libres, nés de parents athéniens",
+        "Seulement les prêtres"
+      ],
+      "correct_index": 1,
+      "explanation": "Seuls les hommes adultes, libres et athéniens sont citoyens. Les femmes, les étrangers et les esclaves en sont exclus."
+    },
+    {
+      "prompt": "Qu’est-ce qui unit les cités grecques, malgré leurs rivalités ?",
+      "choices": [
+        "Un seul roi pour toutes les cités",
+        "La langue grecque, les mêmes dieux et des fêtes comme les Jeux olympiques",
+        "Une seule armée commune permanente"
+      ],
+      "correct_index": 1,
+      "explanation": "Les cités grecques sont indépendantes, mais elles partagent la langue, les dieux et des fêtes communes comme les Jeux olympiques."
+    },
+    {
+      "prompt": "Où les citoyens athéniens débattent-ils et votent-ils les décisions ?",
+      "choices": [
+        "À l’Assemblée des citoyens",
+        "Dans un stade, pendant les Jeux olympiques",
+        "Dans la maison du roi"
+      ],
+      "correct_index": 0,
+      "explanation": "Les citoyens se réunissent à l’Assemblée pour débattre et voter les décisions de la cité."
+    },
+    {
+      "prompt": "Pourquoi la démocratie athénienne n’est-elle pas identique à la nôtre ?",
+      "choices": [
+        "Parce qu’un roi y décidait seul",
+        "Parce que les femmes, les étrangers et les esclaves n’avaient pas le droit de participer",
+        "Parce que personne n’y votait"
+      ],
+      "correct_index": 1,
+      "explanation": "À Athènes, une partie seulement de la population est citoyenne. Aujourd’hui, tous les adultes qui remplissent les conditions légales peuvent voter."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Associe : Athènes, Sparte, Olympie. Lesquels sont des cités et lequel est un lieu de fête commune ?",
+      "solution": "Athènes et Sparte sont des cités grecques ; Olympie est le lieu où se tiennent les Jeux olympiques.",
+      "success_criterion": "Identifier correctement les deux cités et le lieu des Jeux."
+    },
+    {
+      "prompt": "Décompose le mot démocratie en deux parties et donne le sens de chacune.",
+      "solution": "Dêmos : le peuple ; kratos : le pouvoir. Démocratie : le pouvoir du peuple.",
+      "success_criterion": "Donner les deux mots grecs ou leur sens et la définition finale."
+    },
+    {
+      "prompt": "Vrai ou faux ? « À Athènes, une femme pouvait voter à l’Assemblée. » Justifie.",
+      "solution": "Faux : les femmes n’étaient pas citoyennes et ne votaient pas.",
+      "success_criterion": "Répondre faux et citer l’exclusion des femmes."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique en quelques phrases comment une décision est prise à Athènes.",
+      "solution": "Les citoyens se réunissent à l’Assemblée, discutent de la proposition puis votent, souvent à main levée. La décision est prise directement par les citoyens présents.",
+      "success_criterion": "Mentionner l’Assemblée, le débat et le vote des citoyens."
+    },
+    {
+      "prompt": "Cite deux ressemblances ou différences entre la démocratie athénienne et la démocratie actuelle.",
+      "solution": "Différences : à Athènes les femmes, étrangers et esclaves ne votent pas, et les citoyens décident directement ; aujourd’hui tous les adultes (selon la loi) votent et élisent des représentants. Ressemblance : on débat et on vote.",
+      "success_criterion": "Donner deux éléments exacts de comparaison."
+    },
+    {
+      "prompt": "Le mythe d’Athéna et de l’olivier est-il une preuve historique ? Explique.",
+      "solution": "Non, c’est un récit de croyance. L’historien s’appuie plutôt sur des textes et des traces archéologiques, comme les ruines de l’Acropole.",
+      "success_criterion": "Distinguer mythe (croyance) et fait établi par des sources."
+    }
+  ],
+  "audio_transcript": "La Grèce antique est un monde de cités indépendantes : Athènes, Sparte, Corinthe, Thèbes. Elles sont souvent rivales, mais elles partagent la langue grecque, les mêmes dieux et des fêtes comme les Jeux olympiques. À Athènes, à la fin du sixième siècle avant Jésus-Christ, naît la démocratie, mot qui veut dire pouvoir du peuple. Les citoyens sont les hommes adultes, libres et athéniens. Ils débattent et votent à l’Assemblée. Les femmes, les étrangers et les esclaves ne sont pas citoyens. La démocratie d’Athènes n’est donc pas la nôtre, mais elle nous a laissé l’idée que les citoyens décident ensemble.",
+  "guided_explanation": "Imagine que ta classe doit choisir une sortie. À Athènes, tous les citoyens se réuniraient, chacun pourrait parler, puis on voterait. Cela ressemble à une démocratie. Mais il y a un piège : à Athènes, seule une partie des habitants a le droit de voter. Les femmes, les étrangers et les esclaves restent à l’écart. Voilà pourquoi la démocratie athénienne ressemble à la nôtre par l’idée de débat et de vote, mais en diffère par les personnes qui participent. Pour ne pas te tromper, rappelle-toi que le mot démocratie veut dire pouvoir du peuple, et demande-toi toujours : de quel peuple parle-t-on ?"
+}

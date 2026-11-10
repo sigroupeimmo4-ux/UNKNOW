@@ -1,0 +1,133 @@
+{
+  "id": "ce2-qm-etats-eau",
+  "title": "Les états de l’eau et de la matière",
+  "chapter_id": "ce2-qm-etats-eau",
+  "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer un solide, un liquide et un gaz.",
+    "Nommer les trois états de l’eau et les changements d’état fusion, solidification et condensation.",
+    "Expliquer par une expérience simple que l’air existe et prend de la place."
+  ],
+  "skill_ids": [
+    "ce2-qm-etats-eau-skill-etats",
+    "ce2-qm-etats-eau-skill-changements",
+    "ce2-qm-etats-eau-skill-air"
+  ],
+  "source_locators": [
+    "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Solides, liquides et gaz",
+      "text": "Tout ce qui nous entoure est de la matière. Elle peut être à l’état solide, liquide ou gazeux. Un solide garde sa forme : un caillou, un glaçon, un crayon. Un liquide coule et prend la forme du récipient qui le contient : l’eau, le lait, l’huile. Un gaz n’a pas de forme propre et occupe toute la place disponible : l’air est un mélange de gaz. Beaucoup de gaz ne se voient pas."
+    },
+    {
+      "title": "L’air existe",
+      "text": "On ne voit pas l’air, mais on peut montrer qu’il existe. Quand on gonfle un ballon, l’air le remplit et le rend rond. Le vent est de l’air en mouvement : il pousse les feuilles et fait tourner un moulinet. L’air prend de la place : si tu enfonces un verre vide retourné dans l’eau, l’air reste en grande partie coincé dans le verre et l’eau ne le remplit pas. L’air peut aussi être comprimé : avec une seringue bouchée ou une pompe à vélo, on peut le serrer dans un plus petit volume."
+    },
+    {
+      "title": "Les trois états de l’eau",
+      "text": "L’eau existe sous trois états. À l’état liquide, c’est l’eau du robinet, de la pluie, des rivières et des océans. À l’état solide, c’est la glace, la neige, la grêle, la banquise et les glaciers. À l’état gazeux, c’est la vapeur d’eau, un gaz invisible présent dans l’air. Attention : le nuage, la buée et la « fumée » au-dessus d’une casserole d’eau chaude ne sont pas de la vapeur, mais de minuscules gouttes d’eau liquide."
+    },
+    {
+      "title": "Les changements d’état",
+      "text": "L’eau peut changer d’état. La fusion est le passage de l’état solide à l’état liquide : un glaçon fond. La solidification est le passage de l’état liquide à l’état solide : l’eau gèle, à 0 °C. La condensation est le passage de l’état gazeux à l’état liquide : la vapeur d’eau de l’air se change en petites gouttes sur une vitre froide. L’eau liquide peut aussi passer à l’état gazeux, par exemple quand le linge sèche. Quand l’eau gèle, sa masse ne change pas, mais la glace occupe un peu plus de place que l’eau liquide."
+    }
+  ],
+  "revision_sheet": [
+    "Un solide garde sa forme ; un liquide prend la forme du récipient ; un gaz occupe toute la place disponible.",
+    "L’air existe : il gonfle un ballon, il prend de la place, il peut être comprimé.",
+    "États de l’eau : liquide (eau), solide (glace, neige, grêle), gazeux (vapeur d’eau, invisible).",
+    "Fusion : solide vers liquide. Solidification : liquide vers solide. Condensation : gaz vers liquide.",
+    "L’eau gèle à 0 °C ; en gelant, sa masse ne change pas, mais elle occupe un peu plus de place."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans un glaçon, à quel état est l’eau ?",
+      "choices": [
+        "Liquide",
+        "Gazeux",
+        "Solide"
+      ],
+      "correct_index": 2,
+      "explanation": "Un glaçon est de l’eau à l’état solide : c’est de la glace."
+    },
+    {
+      "prompt": "Un glaçon posé sur une table chaude devient de l’eau. Comment s’appelle ce changement d’état ?",
+      "choices": [
+        "La fusion",
+        "La solidification",
+        "La condensation"
+      ],
+      "correct_index": 0,
+      "explanation": "Le passage de l’état solide à l’état liquide s’appelle la fusion."
+    },
+    {
+      "prompt": "De la buée se forme sur un miroir froid : la vapeur d’eau de l’air devient de petites gouttes liquides. Comment s’appelle ce changement d’état ?",
+      "choices": [
+        "La fusion",
+        "La condensation",
+        "La solidification"
+      ],
+      "correct_index": 1,
+      "explanation": "Le passage de l’état gazeux à l’état liquide s’appelle la condensation."
+    },
+    {
+      "prompt": "Laquelle de ces choses est de l’eau à l’état solide ?",
+      "choices": [
+        "La pluie",
+        "Un lac",
+        "La grêle"
+      ],
+      "correct_index": 2,
+      "explanation": "La grêle est formée de grains de glace, donc d’eau solide. La pluie et l’eau d’un lac sont liquides."
+    },
+    {
+      "prompt": "Que montre un ballon gonflé ?",
+      "choices": [
+        "Que l’air est un solide",
+        "Que l’air existe et prend de la place",
+        "Que l’air n’existe pas"
+      ],
+      "correct_index": 1,
+      "explanation": "Le ballon se remplit d’air et prend une forme ronde : l’air existe et occupe de la place."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Classe chaque élément : un caillou, le lait, l’air d’un ballon. Est-ce un solide, un liquide ou un gaz ?",
+      "solution": "Le caillou est un solide, le lait est un liquide, l’air du ballon est un gaz.",
+      "success_criterion": "Associer correctement chaque élément à son état."
+    },
+    {
+      "prompt": "Complète : la fusion est le passage de l’état … à l’état … ; la solidification est le passage de l’état … à l’état … ; la condensation est le passage de l’état … à l’état …",
+      "solution": "Fusion : solide vers liquide. Solidification : liquide vers solide. Condensation : gazeux vers liquide.",
+      "success_criterion": "Donner les trois couples d’états sans les inverser."
+    },
+    {
+      "prompt": "Pourquoi ne voit-on pas la vapeur d’eau de l’air ?",
+      "solution": "La vapeur d’eau est un gaz transparent, donc invisible. Ce que l’on voit au-dessus d’une casserole, ce sont de minuscules gouttes d’eau liquide.",
+      "success_criterion": "Dire que la vapeur d’eau est un gaz invisible et que le nuage de la casserole est fait de gouttes liquides."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une flaque est gelée le matin. Dans la journée, elle redevient liquide, puis elle gèle de nouveau la nuit. Nomme les deux changements d’état.",
+      "solution": "Dans la journée, la glace fond : c’est la fusion. Pendant la nuit, l’eau gèle : c’est la solidification.",
+      "success_criterion": "Nommer la fusion (solide vers liquide) puis la solidification (liquide vers solide) dans le bon ordre."
+    },
+    {
+      "prompt": "On place 200 g d’eau dans un bac au congélateur jusqu’à ce qu’elle soit gelée. Qu’est-ce qui ne change pas ? Qu’est-ce qui change ?",
+      "solution": "La masse ne change pas : on a toujours 200 g. L’état change : l’eau devient solide, et la glace occupe un peu plus de place.",
+      "success_criterion": "Dire que la masse reste la même et que l’état change."
+    },
+    {
+      "prompt": "Pour chacun, dis si l’eau est liquide ou solide : la pluie, la neige, la banquise, une rivière.",
+      "solution": "La pluie : liquide. La neige : solide. La banquise : solide. Une rivière : liquide.",
+      "success_criterion": "Donner les quatre états corrects."
+    }
+  ],
+  "audio_transcript": "La matière existe sous trois états : solide, liquide et gaz. Un solide garde sa forme. Un liquide prend la forme de son récipient. Un gaz occupe toute la place disponible, comme l’air. L’eau peut être liquide, solide sous forme de glace, de neige ou de grêle, ou gazeuse sous forme de vapeur d’eau, qui est invisible. Quand un glaçon fond, c’est la fusion. Quand l’eau gèle, c’est la solidification. Quand la vapeur d’eau devient de petites gouttes, c’est la condensation.",
+  "guided_explanation": "Prends un glaçon dans un verre. Il est solide : il garde sa forme. Laisse-le sur la table : il fond, c’est la fusion, et tu obtiens de l’eau liquide qui prend la forme du verre. Si tu remets cette eau au congélateur, elle gèle : c’est la solidification. Souffle maintenant sur un miroir froid : de la buée apparaît. L’eau de ton souffle, qui était gazeuse, est devenue de petites gouttes : c’est la condensation. Pour te souvenir : fusion, solide vers liquide ; solidification, liquide vers solide ; condensation, gaz vers liquide."
+}

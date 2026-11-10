@@ -1,0 +1,132 @@
+{
+  "id": "cm1-hg-moyen-age-seigneurie",
+  "title": "La vie quotidienne au Moyen Âge (XIe - XIIIe siècles)",
+  "chapter_id": "cm1-hg-moyen-age-seigneurie",
+  "program_id": "CM1-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Situer le Moyen Âge (476-1492) et la période du XIe au XIIIe siècle sur une frise chronologique.",
+    "Décrire une seigneurie et les fonctions d’un château.",
+    "Raconter la vie des paysannes et des paysans, et décrire le rôle de l’Église et l’activité des villes."
+  ],
+  "skill_ids": [
+    "cm1-hg-moyen-age-seigneurie-skill-chateau",
+    "cm1-hg-moyen-age-seigneurie-skill-paysans"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Histoire — Thème 1 : La vie quotidienne au Moyen Âge (XIe - XIIIe siècles), pages 4-5 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le Moyen Âge sur la frise du temps",
+      "text": "Le Moyen Âge est une grande période de l’histoire. On la place entre 476 et 1492, soit environ mille ans. Dans ce chapitre, on étudie surtout la vie du XIe au XIIIe siècle, c’est-à-dire de l’an 1001 à l’an 1300. À cette époque, on vit surtout dans des villages, autour des châteaux et des églises, mais les villes se développent aussi."
+    },
+    {
+      "title": "La seigneurie et le château",
+      "text": "Une seigneurie est un territoire sur lequel un seigneur exerce sa domination. Le seigneur commande les hommes et les femmes qui y vivent. Il habite souvent dans un château. Le château a trois fonctions : il protège les habitants en cas de danger, il est le lieu de vie du seigneur et de sa famille, et il est le symbole de la puissance du seigneur."
+    },
+    {
+      "title": "Les paysannes et les paysans, et la paroisse",
+      "text": "La plupart des gens sont des paysannes et des paysans. Ils travaillent la terre selon les saisons : labourer et semer, faucher, moissonner, vendanger. Ils doivent des obligations au seigneur, par exemple la corvée, un travail gratuit au service du seigneur. Ils versent aussi la dîme à l’Église, une part de leur récolte. La paroisse est le territoire où l’Église encadre la vie des femmes et des hommes de leur naissance à leur mort."
+    },
+    {
+      "title": "Les villes, l’Église et les églises",
+      "text": "Dans les villes, il y a des marchés et des foires où l’on vend et achète, et des artisans qui fabriquent des objets. L’Église ne fait pas que prier : elle aide les pauvres et les malades, et elle enseigne. Les moines vivent dans des abbayes. On construit aussi de grands édifices religieux. L’art roman a des murs épais, de petites fenêtres et des voûtes en demi-cercle. L’art gothique a des arcs pointus, de grandes fenêtres et de hautes voûtes. Notre-Dame de Paris est une cathédrale gothique."
+    }
+  ],
+  "revision_sheet": [
+    "Le Moyen Âge se situe entre 476 et 1492 ; on étudie ici le XIe au XIIIe siècle (de 1001 à 1300).",
+    "Seigneurie : un seigneur domine un territoire et les gens qui y vivent. Château : protection, lieu de vie du seigneur, symbole de sa puissance.",
+    "Paysannes et paysans : travaux selon les saisons, corvée pour le seigneur, dîme pour l’Église.",
+    "Paroisse : l’Église encadre la vie des gens de leur naissance à leur mort ; elle aide les pauvres et les malades et enseigne.",
+    "Art roman : murs épais, petites fenêtres, voûtes en demi-cercle. Art gothique : arcs pointus, grandes fenêtres (ex. Notre-Dame de Paris)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Qu’est-ce qu’une seigneurie ?",
+      "choices": [
+        "Un territoire dominé par un seigneur, avec les gens qui y vivent",
+        "Une ville gouvernée directement par le roi",
+        "Un grand marché qui a lieu chaque année"
+      ],
+      "correct_index": 0,
+      "explanation": "Une seigneurie est un territoire sur lequel un seigneur exerce sa domination, avec les hommes et les femmes qui y vivent."
+    },
+    {
+      "prompt": "Quel rôle joue le château au Moyen Âge ?",
+      "choices": [
+        "C’est l’église où prient les habitants du village",
+        "Il protège, abrite le seigneur et montre sa puissance",
+        "C’est l’endroit où les paysans vendent leur récolte"
+      ],
+      "correct_index": 1,
+      "explanation": "Le château est un lieu de protection, le lieu de vie du seigneur et le symbole de sa puissance."
+    },
+    {
+      "prompt": "Que signifie le mot « corvée » ?",
+      "choices": [
+        "Une part de la récolte donnée à l’Église",
+        "Un travail gratuit que le paysan doit au seigneur",
+        "Une fête organisée dans le village"
+      ],
+      "correct_index": 1,
+      "explanation": "La corvée est un travail gratuit que les paysans doivent au seigneur. La part de récolte donnée à l’Église s’appelle la dîme."
+    },
+    {
+      "prompt": "Qu’est-ce que la dîme ?",
+      "choices": [
+        "Un impôt versé au roi",
+        "Un travail gratuit pour le seigneur",
+        "Une part de la récolte donnée à l’Église"
+      ],
+      "correct_index": 2,
+      "explanation": "La dîme est une part de la récolte que les paysans donnent à l’Église."
+    },
+    {
+      "prompt": "Notre-Dame de Paris est une cathédrale de quel style ?",
+      "choices": [
+        "Gothique",
+        "Roman",
+        "Aucun des deux"
+      ],
+      "correct_index": 0,
+      "explanation": "Notre-Dame de Paris est une cathédrale gothique : elle a des arcs pointus et de grandes fenêtres."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Recopie les trois fonctions d’un château au Moyen Âge.",
+      "solution": "Un château protège les habitants, il est le lieu de vie du seigneur et il est le symbole de la puissance du seigneur.",
+      "success_criterion": "Citer les trois fonctions : protection, lieu de vie du seigneur, symbole de puissance."
+    },
+    {
+      "prompt": "Un paysan travaille gratuitement trois jours pour son seigneur. Comment appelle-t-on ce travail ? Et comment appelle-t-on la part de récolte qu’il donne à l’Église ?",
+      "solution": "Le travail gratuit pour le seigneur s’appelle la corvée. La part de récolte donnée à l’Église s’appelle la dîme.",
+      "success_criterion": "Nommer correctement la corvée et la dîme."
+    },
+    {
+      "prompt": "Place sur une frise le Moyen Âge (476-1492) puis colorie la période du XIe au XIIIe siècle.",
+      "solution": "Le Moyen Âge va de 476 à 1492. Le XIe au XIIIe siècle correspond aux années 1001 à 1300, au cœur de cette période.",
+      "success_criterion": "Tracer le Moyen Âge entre 476 et 1492 et situer 1001-1300 à l’intérieur."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique en deux ou trois phrases ce qu’est une seigneurie.",
+      "solution": "Une seigneurie est un territoire sur lequel un seigneur exerce sa domination. Il commande les hommes et les femmes qui y vivent, qui lui doivent des obligations comme la corvée.",
+      "success_criterion": "Mentionner le seigneur, le territoire et les gens qui y vivent."
+    },
+    {
+      "prompt": "Décris la vie d’une paysanne ou d’un paysan au cours d’une année.",
+      "solution": "Il ou elle travaille la terre selon les saisons (labourer, semer, moissonner, vendanger). Il ou elle doit des journées de corvée au seigneur et donne la dîme à l’Église.",
+      "success_criterion": "Citer au moins un travail de saison et une obligation (corvée ou dîme)."
+    },
+    {
+      "prompt": "Donne deux façons dont l’Église aide les habitants au Moyen Âge.",
+      "solution": "L’Église aide les pauvres et les malades, et elle assure un enseignement.",
+      "success_criterion": "Citer l’aide aux pauvres et aux malades et l’enseignement."
+    }
+  ],
+  "audio_transcript": "Au Moyen Âge, entre quatre cent soixante-seize et mille quatre cent quatre-vingt-douze, la vie s’organise autour de la seigneurie et de la paroisse. Une seigneurie est un territoire dominé par un seigneur, qui vit souvent dans un château. Le château protège les habitants, abrite le seigneur et montre sa puissance. La plupart des gens sont des paysannes et des paysans. Ils travaillent la terre selon les saisons, font la corvée pour le seigneur et donnent la dîme à l’Église. L’Église encadre la vie des gens, aide les pauvres et les malades, et enseigne. Dans les villes, il y a des marchés, des foires et des artisans. Notre-Dame de Paris est une cathédrale gothique.",
+  "guided_explanation": "Imagine que tu es une paysanne ou un paysan du XIIe siècle. Au printemps, tu sèmes ; en été, tu moissonnes ; à l’automne, tu vendanges. Mais tout ce que tu récoltes n’est pas pour toi : tu donnes une part à l’Église, la dîme, et tu travailles gratuitement quelques jours pour le seigneur, c’est la corvée. Lève les yeux : au loin, le château du seigneur te rappelle qui commande sur ce territoire, la seigneurie. Dans ton village, l’église de la paroisse rythme ta vie, de ta naissance à ta mort. Pour t’aider à retenir : seigneur, château, seigneurie d’un côté ; paysans, corvée, dîme de l’autre ; et l’Église qui encadre, aide et enseigne."
+}

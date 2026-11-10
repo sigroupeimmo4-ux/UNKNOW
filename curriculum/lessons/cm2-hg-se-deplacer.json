@@ -1,0 +1,132 @@
+{
+  "id": "cm2-hg-se-deplacer",
+  "title": "Se déplacer en France et dans le monde",
+  "chapter_id": "cm2-hg-se-deplacer",
+  "program_id": "CM2-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Décrire des déplacements du quotidien et les modes de transport utilisés.",
+    "Identifier des infrastructures et des réseaux de transport (routes, voies ferrées, gares, ports, aéroports).",
+    "Expliquer comment se déplacer en limitant la pollution."
+  ],
+  "skill_ids": [
+    "cm2-hg-se-deplacer-transports",
+    "cm2-hg-se-deplacer-durable"
+  ],
+  "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Géographie, classe de CM2, Thème 1 – Se déplacer, page 75 du PDF (pagination imprimée 74)."
+  ],
+  "course": [
+    {
+      "title": "Se déplacer au quotidien en France",
+      "text": "Chaque jour, les habitants se déplacent pour aller à l’école, au travail, faire des achats ou avoir des loisirs. Ils utilisent la marche, le vélo, la voiture, ou des transports en commun : le bus, le tramway, le métro, le train. Dans les grandes villes, le réseau de transports en commun est dense. Dans les campagnes, il y a moins de transports collectifs et on utilise souvent la voiture, ce qui crée des différences entre les territoires."
+    },
+    {
+      "title": "Se déplacer dans un autre lieu du monde",
+      "text": "Les façons de se déplacer varient selon les lieux, le relief, le climat, les moyens financiers et les aménagements. Dans certaines villes du monde, les habitants utilisent beaucoup le vélo, le bus ou le métro ; ailleurs, ils prennent des taxis collectifs, des motos ou des bateaux sur les fleuves. Pour comparer deux lieux, on observe à chaque fois qui se déplace, pourquoi, avec quels moyens et sur quelles infrastructures."
+    },
+    {
+      "title": "Se déplacer de ville en ville",
+      "text": "Pour aller d’une ville à une autre, on emprunte des réseaux : routes et autoroutes, voies ferrées, voies navigables, lignes aériennes. Ils s’appuient sur des infrastructures : gares, ports, aéroports, ponts, tunnels. Les trains à grande vitesse (TGV) relient de grandes villes françaises. En Europe, le train Eurostar passe par le tunnel sous la Manche pour relier la France et le Royaume-Uni. Dans le monde, l’avion et le bateau permettent de relier des pays et des continents."
+    },
+    {
+      "title": "Se déplacer et protéger l’environnement",
+      "text": "Les transports utilisent souvent des énergies comme le pétrole : les véhicules produisent alors de la pollution et des gaz qui contribuent au réchauffement du climat. Pour un développement durable, on peut choisir des déplacements moins polluants : marcher, utiliser le vélo, prendre les transports en commun, faire du covoiturage. Les villes aménagent des pistes cyclables et développent des tramways ou des véhicules électriques. En général, un trajet en train pollue moins par voyageur qu’un trajet en avion."
+    }
+  ],
+  "revision_sheet": [
+    "On se déplace pour aller à l’école, au travail, faire des achats, avoir des loisirs.",
+    "Modes de transport : marche, vélo, voiture, bus, tramway, métro, train, bateau, avion.",
+    "Un réseau (routes, voies ferrées, lignes aériennes) s’appuie sur des infrastructures : gares, ports, aéroports, ponts, tunnels.",
+    "Les façons de se déplacer varient selon les lieux et les aménagements, en France comme ailleurs dans le monde.",
+    "Pour un développement durable : marcher, faire du vélo, utiliser les transports en commun, covoiturer."
+  ],
+  "quiz": [
+    {
+      "prompt": "Lequel de ces moyens de transport est un transport en commun ?",
+      "choices": [
+        "Le vélo personnel",
+        "Le tramway",
+        "La marche à pied"
+      ],
+      "correct_index": 1,
+      "explanation": "Le tramway transporte de nombreux voyageurs à la fois : c’est un transport en commun, comme le bus, le métro et le train."
+    },
+    {
+      "prompt": "Qu’est-ce qu’une infrastructure de transport ?",
+      "choices": [
+        "Un horaire de bus",
+        "Un billet de train",
+        "Un aménagement comme une route, une gare ou un aéroport"
+      ],
+      "correct_index": 2,
+      "explanation": "Les routes, les voies ferrées, les gares, les ports et les aéroports sont des infrastructures qui permettent de se déplacer."
+    },
+    {
+      "prompt": "Quel train passe par le tunnel sous la Manche pour relier la France et le Royaume-Uni ?",
+      "choices": [
+        "L’Eurostar",
+        "Le tramway",
+        "Le téléphérique"
+      ],
+      "correct_index": 0,
+      "explanation": "L’Eurostar emprunte le tunnel sous la Manche, qui relie la France et le Royaume-Uni."
+    },
+    {
+      "prompt": "Quel déplacement limite le plus la pollution sur un petit trajet ?",
+      "choices": [
+        "Prendre l’avion",
+        "Prendre seul la voiture",
+        "Marcher ou faire du vélo"
+      ],
+      "correct_index": 2,
+      "explanation": "Marcher ou faire du vélo ne produit pas de pollution liée à un moteur : c’est un déplacement durable."
+    },
+    {
+      "prompt": "Dans le monde, les habitants se déplacent-ils tous de la même façon ?",
+      "choices": [
+        "Oui, partout on prend le métro",
+        "Non, les façons de se déplacer dépendent des lieux, des moyens et des aménagements",
+        "Oui, partout on utilise la voiture"
+      ],
+      "correct_index": 1,
+      "explanation": "Selon le relief, le climat, les ressources et les aménagements, les moyens de transport utilisés diffèrent d’un lieu à l’autre."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Classe ces éléments en modes de transport ou en infrastructures : le bus, la gare, le métro, l’aéroport, le pont, le vélo.",
+      "solution": "Modes de transport : le bus, le métro, le vélo. Infrastructures : la gare, l’aéroport, le pont.",
+      "success_criterion": "Classer correctement les six éléments."
+    },
+    {
+      "prompt": "Cite trois façons d’aller à l’école et indique celle qui pollue le moins.",
+      "solution": "Exemples : à pied, à vélo, en bus, en voiture. Marcher ou faire du vélo pollue le moins, car il n’y a pas de moteur.",
+      "success_criterion": "Citer trois modes de transport et désigner la marche ou le vélo comme le moins polluant."
+    },
+    {
+      "prompt": "Complète : un réseau de transport est composé de … (routes, voies ferrées) et s’appuie sur des … (gares, ports, aéroports).",
+      "solution": "Un réseau de transport est composé de voies (routes, voies ferrées, lignes) et s’appuie sur des infrastructures (gares, ports, aéroports).",
+      "success_criterion": "Utiliser les mots voies (ou liaisons) et infrastructures."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Décris comment tu te déplaces chaque jour et propose un changement possible pour polluer moins.",
+      "solution": "Réponse personnelle : par exemple, je vais à l’école en voiture ; je pourrais y aller à vélo, à pied ou en bus, ou faire du covoiturage avec des voisins.",
+      "success_criterion": "Décrire un déplacement réel et proposer une alternative moins polluante cohérente."
+    },
+    {
+      "prompt": "Compare les transports en commun d’une grande ville et ceux d’un village en France.",
+      "solution": "Dans une grande ville, il y a beaucoup de lignes (bus, tramway, métro) avec des passages fréquents. Dans un village, il y en a peu et on utilise souvent la voiture.",
+      "success_criterion": "Mettre en évidence la différence de densité des réseaux."
+    },
+    {
+      "prompt": "Explique en deux phrases pourquoi le train est souvent plus durable que l’avion.",
+      "solution": "En général, un trajet en train rejette moins de gaz polluants par voyageur qu’un trajet en avion. Le train est donc, le plus souvent, un choix plus favorable à l’environnement.",
+      "success_criterion": "Dire que le train pollue en général moins par voyageur que l’avion."
+    }
+  ],
+  "audio_transcript": "Chaque jour, les habitants se déplacent pour aller à l’école, au travail ou pour leurs loisirs. Ils utilisent la marche, le vélo, la voiture, le bus, le tramway, le métro ou le train. Les déplacements s’appuient sur des réseaux et des infrastructures : routes, voies ferrées, gares, ports et aéroports. Les façons de se déplacer changent selon les lieux, en France comme dans le reste du monde. Pour protéger l’environnement et aller vers un développement durable, on peut marcher, faire du vélo, utiliser les transports en commun ou faire du covoiturage.",
+  "guided_explanation": "Prends une feuille et dessine ton trajet de la maison à l’école. Écris le mode de transport utilisé, la distance approximative et les infrastructures rencontrées : route, trottoir, arrêt de bus, gare, pont. Cherche ensuite un autre moyen d’aller au même endroit. Qu’est-ce qui change : le temps, le coût, la pollution ? Puis compare avec un trajet dans une grande ville ou dans un autre pays que tu as vu en photo : qui se déplace, avec quel moyen, sur quelles infrastructures ? Conclus par une phrase sur la façon de polluer moins."
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ce1-qm-vegetaux-besoins",
+  "title": "Les plantes : êtres vivants qui ont des besoins",
+  "chapter_id": "ce1-qm-vegetaux-besoins",
+  "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer un être vivant d’un objet fabriqué ou d’un minéral.",
+    "Décrire quelques étapes du développement d’une plante.",
+    "Citer quelques besoins des plantes : eau, lumière, air, chaleur adaptée."
+  ],
+  "skill_ids": [
+    "ce1-qm-vegetaux-besoins-skill"
+  ],
+  "source_locators": [
+    "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Animal, végétal, minéral, objet",
+      "text": "Un chien est un animal. Un arbre est un végétal. Une pierre est un minéral. Une chaise est un objet fabriqué par les humains, avec du bois. Les animaux et les végétaux sont des êtres vivants. Les pierres et les objets ne sont pas des êtres vivants."
+    },
+    {
+      "title": "Les êtres vivants naissent et grandissent",
+      "text": "Un être vivant naît, grandit, se nourrit, puis un jour il meurt. Tu as grandi depuis ta naissance : on peut le mesurer avec une toise. Les plantes grandissent aussi, mais on le voit plus lentement."
+    },
+    {
+      "title": "De la graine à la plante",
+      "text": "Beaucoup de plantes commencent par une graine. Quand la graine germe, une petite plante sort, avec une racine et une tige. Elle grandit, fait des feuilles, puis souvent des fleurs. Les fleurs peuvent donner des fruits qui contiennent des graines. Avec ces graines, de nouvelles plantes peuvent naître."
+    },
+    {
+      "title": "Ce dont une plante a besoin",
+      "text": "Pour bien pousser, une plante a besoin d’eau, de lumière, d’air et d’une température qui ne soit ni trop froide ni trop chaude. Beaucoup de plantes poussent dans la terre, qui leur apporte aussi de la nourriture. Si on oublie d’arroser une plante, elle se dessèche. Si elle reste longtemps sans lumière, elle s’affaiblit et jaunit."
+    }
+  ],
+  "revision_sheet": [
+    "Animal et végétal : ce sont des êtres vivants. Une pierre ou une chaise ne sont pas vivantes.",
+    "Un être vivant naît, grandit, se nourrit et finit par mourir.",
+    "Une graine peut donner une plante qui grandit, fait des feuilles, des fleurs, puis des fruits.",
+    "Une plante a besoin d’eau, de lumière, d’air et d’une température adaptée.",
+    "Sans eau ou sans lumière, une plante s’abîme."
+  ],
+  "quiz": [
+    {
+      "prompt": "Lequel est un être vivant ?",
+      "choices": [
+        "Une pierre",
+        "Un arbre",
+        "Une chaise"
+      ],
+      "correct_index": 1,
+      "explanation": "Un arbre est un végétal : il naît, grandit et se nourrit. Une pierre et une chaise ne sont pas vivantes."
+    },
+    {
+      "prompt": "De quoi une plante a-t-elle besoin pour bien pousser ?",
+      "choices": [
+        "D’eau et de lumière",
+        "De bruit et de sucre",
+        "Seulement d’obscurité"
+      ],
+      "correct_index": 0,
+      "explanation": "Une plante a besoin d’eau et de lumière, entre autres choses comme l’air et une bonne température."
+    },
+    {
+      "prompt": "Que fait une graine qui germe ?",
+      "choices": [
+        "Elle se transforme en pierre",
+        "Elle donne une petite plante",
+        "Elle devient un animal"
+      ],
+      "correct_index": 1,
+      "explanation": "Quand une graine germe, une jeune plante en sort et peut ensuite grandir."
+    },
+    {
+      "prompt": "Qu’arrive-t-il à une plante qu’on n’arrose jamais ?",
+      "choices": [
+        "Elle se dessèche",
+        "Elle devient plus grande",
+        "Elle devient un animal"
+      ],
+      "correct_index": 0,
+      "explanation": "Sans eau, une plante se dessèche."
+    },
+    {
+      "prompt": "Une chaise est...",
+      "choices": [
+        "un animal",
+        "un objet fabriqué",
+        "un végétal vivant"
+      ],
+      "correct_index": 1,
+      "explanation": "Une chaise est fabriquée par des humains avec des matériaux comme le bois. Ce n’est pas un être vivant."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Classe : chat, rose, caillou, cartable. Lesquels sont des êtres vivants ?",
+      "solution": "Le chat (animal) et la rose (végétal) sont des êtres vivants. Le caillou (minéral) et le cartable (objet fabriqué) ne le sont pas.",
+      "success_criterion": "Classer correctement les quatre éléments."
+    },
+    {
+      "prompt": "Range dans l’ordre : fleur, graine, jeune plante.",
+      "solution": "Graine, jeune plante, fleur.",
+      "success_criterion": "Écrire les trois étapes dans le bon ordre."
+    },
+    {
+      "prompt": "Écris trois choses dont une plante a besoin.",
+      "solution": "Par exemple : de l’eau, de la lumière, de l’air ou une température adaptée.",
+      "success_criterion": "Citer trois besoins corrects."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une plante verte reste plusieurs semaines dans un placard fermé sans lumière. Que va-t-il lui arriver ?",
+      "solution": "Elle va s’affaiblir et jaunir, car une plante a besoin de lumière pour bien vivre.",
+      "success_criterion": "Dire que la plante s’abîme et expliquer le manque de lumière."
+    },
+    {
+      "prompt": "Pour une expérience, deux plantes identiques sont mises au même endroit. On arrose l’une d’elles mais pas l’autre. Que va-t-on observer ?",
+      "solution": "La plante arrosée reste en bonne santé. L’autre se dessèche : elle a besoin d’eau.",
+      "success_criterion": "Comparer les deux plantes et relier au besoin d’eau."
+    },
+    {
+      "prompt": "Explique en une phrase la différence entre une plante et une chaise.",
+      "solution": "Une plante est un être vivant : elle naît, grandit et a des besoins. Une chaise est un objet fabriqué qui ne grandit pas.",
+      "success_criterion": "Donner au moins une différence correcte."
+    }
+  ],
+  "audio_transcript": "Les animaux et les végétaux sont des êtres vivants. Ils naissent, ils grandissent, ils se nourrissent. Une pierre n’est pas vivante, et une chaise est un objet fabriqué. Beaucoup de plantes commencent par une graine. La graine germe, une petite plante apparaît, elle grandit, puis elle peut faire des fleurs et des fruits. Pour bien pousser, une plante a besoin d’eau, de lumière, d’air et d’une température adaptée.",
+  "guided_explanation": "Pour comprendre les besoins d’une plante, tu peux faire une expérience. Prends deux petites plantes identiques. Arrose la première chaque semaine et ne donne rien à la seconde. Après quelques jours, regarde les deux plantes et dessine ce que tu vois. La plante qui n’a pas eu d’eau se dessèche : l’eau est un besoin des plantes. Tu peux faire la même chose avec la lumière en gardant une plante dans un endroit éclairé et une autre dans un placard fermé. Note tes observations dans un tableau."
+}

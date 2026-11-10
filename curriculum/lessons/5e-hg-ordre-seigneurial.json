@@ -1,0 +1,134 @@
+{
+  "id": "5e-hg-ordre-seigneurial",
+  "title": "L’ordre seigneurial : seigneurs et paysans dans les campagnes",
+  "chapter_id": "5e-hg-ordre-seigneurial",
+  "program_id": "5e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Décrire une seigneurie (château, réserve, tenures) et le rôle du seigneur.",
+    "Distinguer les principales obligations des paysans : cens, champart, corvées, banalités, dîme.",
+    "Expliquer comment les défrichements et de nouvelles techniques agrandissent les terres cultivées."
+  ],
+  "skill_ids": [
+    "5e-hg-ordre-seigneurial-skill",
+    "5e-hg-ordre-seigneurial-timeline"
+  ],
+  "source_locators": [
+    "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 5e / Thème 2 « Société, Église et pouvoir politique dans l’occident féodal (XIe-XVe siècles) », page 81 (pagination du PDF).",
+    "Programme d’histoire et géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Compétences travaillées « Se repérer dans le temps : construire des repères historiques », page 78 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Une société de seigneurs et de paysans",
+      "text": "Au Moyen Âge, vers les XIe-XIIIe siècles, la plupart des habitants de l’Occident vivent dans les campagnes. La société est très marquée par la religion chrétienne. Vers l’an 1020, des évêques l’expliquent ainsi : il y a « ceux qui prient » (le clergé), « ceux qui combattent » (les nobles, dont les chevaliers) et « ceux qui travaillent » (les paysans). C’est une façon de décrire la société, pas toute la réalité. Le seigneur est un homme puissant qui possède la terre et domine les paysans qui y vivent. Il peut être laïc (un noble) ou ecclésiastique (un évêque ou un abbé de monastère)."
+    },
+    {
+      "title": "Le château fort et la seigneurie",
+      "text": "Le seigneur habite souvent dans un château fort, d’abord en bois sur une butte de terre (la motte castrale), puis de plus en plus en pierre. Le château sert de refuge, de résidence et montre la puissance du seigneur. Autour du château s’étend la seigneurie : le territoire sur lequel le seigneur exerce son pouvoir. Il y rend la justice et assure la protection des habitants, en échange de leur travail et de leurs paiements. La seigneurie comprend deux parties : la réserve, que le seigneur fait cultiver à son profit, et les tenures, les terres confiées aux paysans pour leur propre usage."
+    },
+    {
+      "title": "Ce que les paysans doivent au seigneur",
+      "text": "Les paysans cultivent leur tenure, mais ils doivent beaucoup au seigneur. La corvée est un travail gratuit, par exemple cultiver la réserve ou réparer un chemin. Le cens est une somme d’argent versée régulièrement. Le champart est une part de la récolte. Les banalités sont des paiements pour utiliser le moulin, le four ou le pressoir du seigneur. Les paysans versent aussi la dîme à l’Église : en principe un dixième de la récolte. Certains paysans sont libres. D’autres sont des serfs : ils dépendent plus étroitement du seigneur et ne peuvent pas quitter la seigneurie sans son accord."
+    },
+    {
+      "title": "Défricher, cultiver, nourrir plus de monde",
+      "text": "Du XIe au XIIIe siècle, la population augmente et les paysans gagnent de nouvelles terres : ils coupent des forêts, assèchent des marais et fondent de nouveaux villages. C’est le défrichement. Les paysans disposent aussi de meilleurs outils et de meilleures techniques : la charrue à roues, le collier d’épaule pour les chevaux, le moulin à eau et, dans beaucoup de régions, l’assolement triennal, qui consiste à diviser le terrain en trois parties et à n’en laisser qu’une au repos chaque année. Les récoltes sont plus abondantes, mais les paysans modifient fortement leur environnement."
+    }
+  ],
+  "revision_sheet": [
+    "Le seigneur possède la terre, protège, rend la justice et reçoit des paysans du travail et des paiements.",
+    "Il existe des seigneurs laïcs (nobles) et ecclésiastiques (évêques, abbés).",
+    "La seigneurie comprend la réserve (cultivée pour le seigneur) et les tenures (terres des paysans).",
+    "Paysans : corvée (travail gratuit), cens (argent), champart (part de récolte), banalités (moulin, four, pressoir), dîme (à l’Église).",
+    "Les paysans sont libres ou serfs ; le serf dépend plus étroitement du seigneur.",
+    "Du XIe au XIIIe siècle, les défrichements et les progrès techniques agrandissent les terres cultivées."
+  ],
+  "quiz": [
+    {
+      "prompt": "Que désigne la réserve dans une seigneurie ?",
+      "choices": [
+        "La terre que le seigneur fait cultiver à son profit",
+        "Le grenier de l’Église",
+        "La forêt interdite aux paysans"
+      ],
+      "correct_index": 0,
+      "explanation": "La réserve est la partie de la seigneurie que le seigneur exploite pour lui-même, en général grâce aux corvées des paysans. Les terres des paysans s’appellent les tenures."
+    },
+    {
+      "prompt": "Qu’est-ce que la corvée ?",
+      "choices": [
+        "Une somme d’argent payée au seigneur",
+        "Un travail gratuit dû au seigneur",
+        "Une part de la récolte"
+      ],
+      "correct_index": 1,
+      "explanation": "La corvée est un travail gratuit que le paysan doit au seigneur. La somme d’argent est le cens et la part de récolte est le champart."
+    },
+    {
+      "prompt": "Que paie-t-on avec une banalité ?",
+      "choices": [
+        "L’utilisation du moulin ou du four du seigneur",
+        "La protection de l’Église",
+        "L’entrée dans le château"
+      ],
+      "correct_index": 0,
+      "explanation": "Les banalités sont des paiements pour utiliser les équipements du seigneur : moulin, four, pressoir."
+    },
+    {
+      "prompt": "À qui les paysans versent-ils la dîme ?",
+      "choices": [
+        "Au roi",
+        "À l’Église",
+        "Aux marchands"
+      ],
+      "correct_index": 1,
+      "explanation": "La dîme est une part de la récolte, en principe un dixième, versée à l’Église."
+    },
+    {
+      "prompt": "Qui sont « ceux qui prient » dans la représentation de la société vers l’an 1020 ?",
+      "choices": [
+        "Les paysans",
+        "Les nobles",
+        "Le clergé"
+      ],
+      "correct_index": 2,
+      "explanation": "« Ceux qui prient » désigne le clergé. Les nobles sont « ceux qui combattent » et les paysans « ceux qui travaillent »."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Associe chaque mot à sa définition : cens, champart, corvée. (a) une part de la récolte ; (b) un travail gratuit ; (c) une somme d’argent.",
+      "solution": "Cens : (c) une somme d’argent. Champart : (a) une part de la récolte. Corvée : (b) un travail gratuit.",
+      "success_criterion": "Associer correctement les trois mots."
+    },
+    {
+      "prompt": "Un évêque peut-il être seigneur ? Explique.",
+      "solution": "Oui. Un seigneur peut être ecclésiastique : un évêque ou l’abbé d’un monastère peut posséder des terres et dominer des paysans, comme un noble laïc.",
+      "success_criterion": "Répondre oui et citer un évêque ou un abbé."
+    },
+    {
+      "prompt": "Cite deux changements qui permettent aux paysans de cultiver plus de terres entre le XIe et le XIIIe siècle.",
+      "solution": "Les défrichements (forêts coupées, marais asséchés) et les progrès techniques comme la charrue à roues, le collier d’épaule, le moulin à eau ou l’assolement triennal.",
+      "success_criterion": "Citer deux éléments parmi défrichement et progrès techniques."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Décris les deux parties d’une seigneurie et explique à qui profite chacune.",
+      "solution": "La réserve est cultivée au profit du seigneur, souvent grâce aux corvées ; les tenures sont confiées aux paysans qui les cultivent pour eux-mêmes, mais qui versent des redevances au seigneur.",
+      "success_criterion": "Nommer réserve et tenures et indiquer qui en profite."
+    },
+    {
+      "prompt": "Cite quatre obligations des paysans envers le seigneur ou l’Église.",
+      "solution": "Par exemple : la corvée, le cens, le champart, les banalités, la dîme (versée à l’Église).",
+      "success_criterion": "Citer quatre obligations exactes."
+    },
+    {
+      "prompt": "Quelle est la différence entre un paysan libre et un serf ?",
+      "solution": "Le serf dépend plus étroitement du seigneur et ne peut pas quitter la seigneurie sans son accord ; le paysan libre est moins dépendant, mais il doit quand même payer des redevances.",
+      "success_criterion": "Indiquer que le serf est plus dépendant et ne peut pas partir librement."
+    }
+  ],
+  "audio_transcript": "Au Moyen Âge, les campagnes sont dominées par les seigneurs. Un seigneur possède la terre, vit souvent dans un château fort, rend la justice et protège les habitants. Il peut être un noble, ou bien un évêque ou un abbé. Sa seigneurie comprend la réserve, qu’il fait cultiver pour lui, et les tenures, confiées aux paysans. En échange, les paysans donnent des corvées, qui sont des travaux gratuits, un cens en argent, un champart qui est une part de la récolte, et paient les banalités pour utiliser le moulin ou le four. Ils versent aussi la dîme à l’Église. Entre le onzième et le treizième siècle, les défrichements et les nouvelles techniques agrandissent les terres cultivées.",
+  "guided_explanation": "Dessine le plan d’une seigneurie : au centre, le château fort ; autour, un grand champ que tu colories en bleu, c’est la réserve ; plusieurs petits champs que tu colories en vert, ce sont les tenures. Dessine aussi un moulin et un four près du château. Puis écris des flèches : du champ bleu vers le château, « corvée » ; des champs verts vers le château, « cens » et « champart » ; vers le moulin, « banalité » ; vers l’église du village, « dîme ». Tu vois ainsi ce que chaque paysan donne et à qui."
+}

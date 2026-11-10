@@ -1,0 +1,878 @@
+{
+  "programs": [
+    {
+      "id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CE1",
+      "subject_id": "questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/88/5/ensel714_annexe1_1312885.pdf",
+        "title": "Questionner le monde : questionner l’espace et le temps",
+        "text_reference": "Questionner le monde : questionner l’espace et le temps (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "a4c0900b4d9127391f2c096bfc3c2d6460d9432b8f0cdce87b2bae16bcd5f881",
+        "source_id": "a66e61ec073fff71"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "se-situer-dans-lespace",
+          "title": "Se situer dans l’espace",
+          "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace, page 50 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "ce1-qm-reperer-espace-plan",
+              "title": "Se repérer dans l’espace et lire un plan",
+              "title_type": "editorial",
+              "official_section": "Se situer dans l’espace : se repérer dans l’espace et le représenter",
+              "notions": [
+                "Vocabulaire de position : gauche, droite, devant, derrière, au-dessus, en dessous, près, loin",
+                "Vocabulaire de déplacement : avancer, reculer, tourner à droite ou à gauche",
+                "Plan : représentation d’un lieu vu de dessus",
+                "Éléments d’une carte : titre, orientation, légende",
+                "Points cardinaux : nord, sud, est, ouest"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-qm-reperer-espace-plan-knowledge",
+                  "text": "Pour se repérer, on utilise des mots de position (gauche, droite, devant, derrière, au-dessus, en dessous, près, loin) et de déplacement (avancer, reculer, tourner) ; un plan ou une carte représente un lieu et s’aide d’un titre, d’une orientation et d’une légende.",
+                  "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-qm-reperer-espace-plan-skill",
+                  "text": "Situer des objets ou des personnes les uns par rapport aux autres avec le vocabulaire de position et de déplacement, et lire un plan simple de son environnement proche.",
+                  "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "se-situer-dans-le-temps",
+          "title": "Se situer dans le temps",
+          "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps, page 51 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "ce1-qm-jours-mois-heures",
+              "title": "Le temps qui passe : jours, mois et heures",
+              "title_type": "editorial",
+              "official_section": "Se situer dans le temps : se repérer dans le temps et le mesurer",
+              "notions": [
+                "Alternance du jour et de la nuit",
+                "Caractère cyclique des jours, des semaines, des mois et des saisons",
+                "La journée est divisée en heures, la semaine en jours",
+                "Unités de durée : jour, semaine, heure, minute, seconde, mois, année",
+                "Lire l’heure et la date"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-qm-jours-mois-heures-knowledge",
+                  "text": "Le jour et la nuit se succèdent ; les jours, les semaines, les mois et les saisons se répètent (caractère cyclique) ; on mesure le temps avec des unités : la semaine compte 7 jours, l’année 12 mois, le jour 24 heures, l’heure 60 minutes et la minute 60 secondes.",
+                  "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-qm-jours-mois-heures-skill",
+                  "text": "Identifier les rythmes cycliques du temps (jour et nuit, jours de la semaine, mois, saisons), lire l’heure et la date, et connaitre les relations entre les unités usuelles de durée.",
+                  "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CE1",
+      "subject_id": "questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/88/5/ensel714_annexe1_1312885.pdf",
+        "title": "Questionner le monde : questionner le monde du vivant,",
+        "text_reference": "Questionner le monde : questionner le monde du vivant, de la matière et des objets (BO n°31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "a4c0900b4d9127391f2c096bfc3c2d6460d9432b8f0cdce87b2bae16bcd5f881",
+        "source_id": "a66e61ec073fff71"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "quest-ce-que-la-matiere",
+          "title": "Qu’est-ce que la matière ?",
+          "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "ce1-qm-eau-liquide-glace",
+              "title": "L’eau liquide et la glace",
+              "title_type": "editorial",
+              "official_section": "Qu’est-ce que la matière ? : les états de l’eau et les changements d’état",
+              "notions": [
+                "L’eau à l’état liquide et à l’état solide (glace)",
+                "Solidification et fusion de l’eau",
+                "Quelques propriétés des liquides et des solides",
+                "Phénomènes naturels : pluie, neige, grêle, glace"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-qm-eau-liquide-glace-knowledge",
+                  "text": "L’eau existe à l’état liquide et à l’état solide (la glace) ; l’eau liquide qui refroidit beaucoup se solidifie en glace, et la glace qui se réchauffe fond en eau liquide.",
+                  "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-qm-eau-liquide-glace-skill",
+                  "text": "Reconnaître l’eau à l’état liquide et à l’état solide, observer la solidification et la fusion de l’eau, et relier la pluie, la neige, la grêle et la glace à l’état liquide ou solide de l’eau.",
+                  "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+                }
+              ],
+              "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+            }
+          ]
+        },
+        {
+          "id": "comment-reconnaitre-le-monde-vivant",
+          "title": "Comment reconnaître le monde vivant ?",
+          "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ?, page 48 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "ce1-qm-vegetaux-besoins",
+              "title": "Les plantes : êtres vivants qui ont des besoins",
+              "title_type": "editorial",
+              "official_section": "Comment reconnaître le monde vivant ? : développement de végétaux, quelques besoins vitaux des végétaux",
+              "notions": [
+                "Distinguer ce qui est animal, végétal, minéral ou fabriqué",
+                "Manifestations de la vie : naître, grandir, se nourrir",
+                "Développement d’un végétal : de la graine à la plante",
+                "Quelques besoins vitaux des végétaux : eau, lumière, air, chaleur"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce1-qm-vegetaux-besoins-knowledge",
+                  "text": "Les végétaux sont des êtres vivants qui naissent, grandissent et ont des besoins vitaux (en particulier de l’eau, de la lumière, de l’air et une température adaptée) ; on peut les distinguer des animaux, des minéraux et des objets fabriqués.",
+                  "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce1-qm-vegetaux-besoins-skill",
+                  "text": "Identifier ce qui est animal, végétal, minéral ou élaboré par des êtres vivants, observer le développement d’un végétal et connaitre quelques besoins vitaux des végétaux.",
+                  "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "ce1-qm-reperer-espace-plan-course",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-reperer-espace-plan"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Utiliser les mots de position et de déplacement pour situer un objet ou décrire un chemin.",
+        "Comprendre qu’un plan représente un lieu vu de dessus.",
+        "Utiliser le titre et la légende pour lire un plan ou une carte simple."
+      ],
+      "skill_ids": [
+        "ce1-qm-reperer-espace-plan-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-reperer-espace-plan.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-reperer-espace-plan-revision_sheet",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-reperer-espace-plan"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Utiliser les mots de position et de déplacement pour situer un objet ou décrire un chemin.",
+        "Comprendre qu’un plan représente un lieu vu de dessus.",
+        "Utiliser le titre et la légende pour lire un plan ou une carte simple."
+      ],
+      "skill_ids": [
+        "ce1-qm-reperer-espace-plan-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-reperer-espace-plan.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-reperer-espace-plan-quiz",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-reperer-espace-plan"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Utiliser les mots de position et de déplacement pour situer un objet ou décrire un chemin.",
+        "Comprendre qu’un plan représente un lieu vu de dessus.",
+        "Utiliser le titre et la légende pour lire un plan ou une carte simple."
+      ],
+      "skill_ids": [
+        "ce1-qm-reperer-espace-plan-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-reperer-espace-plan.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-reperer-espace-plan-exercise",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-reperer-espace-plan"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Utiliser les mots de position et de déplacement pour situer un objet ou décrire un chemin.",
+        "Comprendre qu’un plan représente un lieu vu de dessus.",
+        "Utiliser le titre et la légende pour lire un plan ou une carte simple."
+      ],
+      "skill_ids": [
+        "ce1-qm-reperer-espace-plan-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-reperer-espace-plan.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-reperer-espace-plan-assessment",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-reperer-espace-plan"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Utiliser les mots de position et de déplacement pour situer un objet ou décrire un chemin.",
+        "Comprendre qu’un plan représente un lieu vu de dessus.",
+        "Utiliser le titre et la légende pour lire un plan ou une carte simple."
+      ],
+      "skill_ids": [
+        "ce1-qm-reperer-espace-plan-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-reperer-espace-plan.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-reperer-espace-plan-audio",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-reperer-espace-plan"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Utiliser les mots de position et de déplacement pour situer un objet ou décrire un chemin.",
+        "Comprendre qu’un plan représente un lieu vu de dessus.",
+        "Utiliser le titre et la légende pour lire un plan ou une carte simple."
+      ],
+      "skill_ids": [
+        "ce1-qm-reperer-espace-plan-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-reperer-espace-plan.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-reperer-espace-plan-assistant_explanation",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-reperer-espace-plan"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Utiliser les mots de position et de déplacement pour situer un objet ou décrire un chemin.",
+        "Comprendre qu’un plan représente un lieu vu de dessus.",
+        "Utiliser le titre et la légende pour lire un plan ou une carte simple."
+      ],
+      "skill_ids": [
+        "ce1-qm-reperer-espace-plan-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans l’espace (Se repérer dans l’espace et le représenter), page 50 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-reperer-espace-plan.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-jours-mois-heures-course",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-jours-mois-heures"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Retrouver l’ordre des jours de la semaine, des mois et des saisons.",
+        "Savoir qu’une semaine a 7 jours, une année 12 mois, un jour 24 heures, une heure 60 minutes.",
+        "Lire une date sur un calendrier et situer un événement avant ou après un autre."
+      ],
+      "skill_ids": [
+        "ce1-qm-jours-mois-heures-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-jours-mois-heures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-jours-mois-heures-revision_sheet",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-jours-mois-heures"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Retrouver l’ordre des jours de la semaine, des mois et des saisons.",
+        "Savoir qu’une semaine a 7 jours, une année 12 mois, un jour 24 heures, une heure 60 minutes.",
+        "Lire une date sur un calendrier et situer un événement avant ou après un autre."
+      ],
+      "skill_ids": [
+        "ce1-qm-jours-mois-heures-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-jours-mois-heures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-jours-mois-heures-quiz",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-jours-mois-heures"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Retrouver l’ordre des jours de la semaine, des mois et des saisons.",
+        "Savoir qu’une semaine a 7 jours, une année 12 mois, un jour 24 heures, une heure 60 minutes.",
+        "Lire une date sur un calendrier et situer un événement avant ou après un autre."
+      ],
+      "skill_ids": [
+        "ce1-qm-jours-mois-heures-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-jours-mois-heures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-jours-mois-heures-exercise",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-jours-mois-heures"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Retrouver l’ordre des jours de la semaine, des mois et des saisons.",
+        "Savoir qu’une semaine a 7 jours, une année 12 mois, un jour 24 heures, une heure 60 minutes.",
+        "Lire une date sur un calendrier et situer un événement avant ou après un autre."
+      ],
+      "skill_ids": [
+        "ce1-qm-jours-mois-heures-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-jours-mois-heures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-jours-mois-heures-assessment",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-jours-mois-heures"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Retrouver l’ordre des jours de la semaine, des mois et des saisons.",
+        "Savoir qu’une semaine a 7 jours, une année 12 mois, un jour 24 heures, une heure 60 minutes.",
+        "Lire une date sur un calendrier et situer un événement avant ou après un autre."
+      ],
+      "skill_ids": [
+        "ce1-qm-jours-mois-heures-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-jours-mois-heures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-jours-mois-heures-audio",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-jours-mois-heures"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Retrouver l’ordre des jours de la semaine, des mois et des saisons.",
+        "Savoir qu’une semaine a 7 jours, une année 12 mois, un jour 24 heures, une heure 60 minutes.",
+        "Lire une date sur un calendrier et situer un événement avant ou après un autre."
+      ],
+      "skill_ids": [
+        "ce1-qm-jours-mois-heures-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-jours-mois-heures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-jours-mois-heures-assistant_explanation",
+      "program_id": "CE1-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-jours-mois-heures"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Retrouver l’ordre des jours de la semaine, des mois et des saisons.",
+        "Savoir qu’une semaine a 7 jours, une année 12 mois, un jour 24 heures, une heure 60 minutes.",
+        "Lire une date sur un calendrier et situer un événement avant ou après un autre."
+      ],
+      "skill_ids": [
+        "ce1-qm-jours-mois-heures-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner l’espace et le temps / Se situer dans le temps (Se repérer dans le temps et le mesurer), page 51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-jours-mois-heures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-eau-liquide-glace-course",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-eau-liquide-glace"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer l’eau liquide et la glace par leurs propriétés.",
+        "Nommer et expliquer la solidification et la fusion de l’eau.",
+        "Reconnaître de l’eau liquide ou solide dans des phénomènes de la vie quotidienne."
+      ],
+      "skill_ids": [
+        "ce1-qm-eau-liquide-glace-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-eau-liquide-glace.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-eau-liquide-glace-revision_sheet",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-eau-liquide-glace"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer l’eau liquide et la glace par leurs propriétés.",
+        "Nommer et expliquer la solidification et la fusion de l’eau.",
+        "Reconnaître de l’eau liquide ou solide dans des phénomènes de la vie quotidienne."
+      ],
+      "skill_ids": [
+        "ce1-qm-eau-liquide-glace-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-eau-liquide-glace.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-eau-liquide-glace-quiz",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-eau-liquide-glace"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer l’eau liquide et la glace par leurs propriétés.",
+        "Nommer et expliquer la solidification et la fusion de l’eau.",
+        "Reconnaître de l’eau liquide ou solide dans des phénomènes de la vie quotidienne."
+      ],
+      "skill_ids": [
+        "ce1-qm-eau-liquide-glace-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-eau-liquide-glace.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-eau-liquide-glace-exercise",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-eau-liquide-glace"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer l’eau liquide et la glace par leurs propriétés.",
+        "Nommer et expliquer la solidification et la fusion de l’eau.",
+        "Reconnaître de l’eau liquide ou solide dans des phénomènes de la vie quotidienne."
+      ],
+      "skill_ids": [
+        "ce1-qm-eau-liquide-glace-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-eau-liquide-glace.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-eau-liquide-glace-assessment",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-eau-liquide-glace"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer l’eau liquide et la glace par leurs propriétés.",
+        "Nommer et expliquer la solidification et la fusion de l’eau.",
+        "Reconnaître de l’eau liquide ou solide dans des phénomènes de la vie quotidienne."
+      ],
+      "skill_ids": [
+        "ce1-qm-eau-liquide-glace-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-eau-liquide-glace.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-eau-liquide-glace-audio",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-eau-liquide-glace"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer l’eau liquide et la glace par leurs propriétés.",
+        "Nommer et expliquer la solidification et la fusion de l’eau.",
+        "Reconnaître de l’eau liquide ou solide dans des phénomènes de la vie quotidienne."
+      ],
+      "skill_ids": [
+        "ce1-qm-eau-liquide-glace-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-eau-liquide-glace.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-eau-liquide-glace-assistant_explanation",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-eau-liquide-glace"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer l’eau liquide et la glace par leurs propriétés.",
+        "Nommer et expliquer la solidification et la fusion de l’eau.",
+        "Reconnaître de l’eau liquide ou solide dans des phénomènes de la vie quotidienne."
+      ],
+      "skill_ids": [
+        "ce1-qm-eau-liquide-glace-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF) ; repère de progressivité : tout ce qui est lié à l’état gazeux est abordé en CE2, donc il n’est pas traité ici."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-eau-liquide-glace.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-vegetaux-besoins-course",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-vegetaux-besoins"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer un être vivant d’un objet fabriqué ou d’un minéral.",
+        "Décrire quelques étapes du développement d’une plante.",
+        "Citer quelques besoins des plantes : eau, lumière, air, chaleur adaptée."
+      ],
+      "skill_ids": [
+        "ce1-qm-vegetaux-besoins-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-vegetaux-besoins.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-vegetaux-besoins-revision_sheet",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-vegetaux-besoins"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer un être vivant d’un objet fabriqué ou d’un minéral.",
+        "Décrire quelques étapes du développement d’une plante.",
+        "Citer quelques besoins des plantes : eau, lumière, air, chaleur adaptée."
+      ],
+      "skill_ids": [
+        "ce1-qm-vegetaux-besoins-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-vegetaux-besoins.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-vegetaux-besoins-quiz",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-vegetaux-besoins"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer un être vivant d’un objet fabriqué ou d’un minéral.",
+        "Décrire quelques étapes du développement d’une plante.",
+        "Citer quelques besoins des plantes : eau, lumière, air, chaleur adaptée."
+      ],
+      "skill_ids": [
+        "ce1-qm-vegetaux-besoins-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-vegetaux-besoins.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-vegetaux-besoins-exercise",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-vegetaux-besoins"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer un être vivant d’un objet fabriqué ou d’un minéral.",
+        "Décrire quelques étapes du développement d’une plante.",
+        "Citer quelques besoins des plantes : eau, lumière, air, chaleur adaptée."
+      ],
+      "skill_ids": [
+        "ce1-qm-vegetaux-besoins-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-vegetaux-besoins.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-vegetaux-besoins-assessment",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-vegetaux-besoins"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer un être vivant d’un objet fabriqué ou d’un minéral.",
+        "Décrire quelques étapes du développement d’une plante.",
+        "Citer quelques besoins des plantes : eau, lumière, air, chaleur adaptée."
+      ],
+      "skill_ids": [
+        "ce1-qm-vegetaux-besoins-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-vegetaux-besoins.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-vegetaux-besoins-audio",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-vegetaux-besoins"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer un être vivant d’un objet fabriqué ou d’un minéral.",
+        "Décrire quelques étapes du développement d’une plante.",
+        "Citer quelques besoins des plantes : eau, lumière, air, chaleur adaptée."
+      ],
+      "skill_ids": [
+        "ce1-qm-vegetaux-besoins-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-vegetaux-besoins.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce1-qm-vegetaux-besoins-assistant_explanation",
+      "program_id": "CE1-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce1-qm-vegetaux-besoins"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer un être vivant d’un objet fabriqué ou d’un minéral.",
+        "Décrire quelques étapes du développement d’une plante.",
+        "Citer quelques besoins des plantes : eau, lumière, air, chaleur adaptée."
+      ],
+      "skill_ids": [
+        "ce1-qm-vegetaux-besoins-skill"
+      ],
+      "source_locators": [
+        "Programme d’enseignement du cycle 2 (BO n° 31 du 30 juillet 2020), annexe 1, Questionner le monde (le texte ne distingue pas CE1 et CE2) / Questionner le monde du vivant, de la matière et des objets / Comment reconnaître le monde vivant ? (Connaître des caractéristiques du monde vivant), page 48 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce1-qm-vegetaux-besoins.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

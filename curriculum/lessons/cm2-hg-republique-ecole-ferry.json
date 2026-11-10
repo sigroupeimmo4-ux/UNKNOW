@@ -1,0 +1,132 @@
+{
+  "id": "cm2-hg-republique-ecole-ferry",
+  "title": "La République et l’école de Jules Ferry",
+  "chapter_id": "cm2-hg-republique-ecole-ferry",
+  "program_id": "CM2-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Situer 1892 (centenaire de la République) et les lois de Jules Ferry (1881-1882) dans le temps.",
+    "Décrire l’école de la République au temps de Jules Ferry et la comparer à l’école d’aujourd’hui.",
+    "Donner des exemples de libertés, de droits et de devoirs en République."
+  ],
+  "skill_ids": [
+    "cm2-hg-republique-ecole-ferry-situer",
+    "cm2-hg-republique-ecole-ferry-droits"
+  ],
+  "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 1 – Le temps de la République, page 71 du PDF (pagination imprimée 70)."
+  ],
+  "course": [
+    {
+      "title": "1892 : la République fête ses cent ans",
+      "text": "En 1892, la France célèbre le centenaire de la République, proclamée en 1792. Depuis la Révolution, les Français ont connu plusieurs régimes politiques et des périodes de conflits et de violences (par exemple en 1830, 1848 et 1870). Lors des cérémonies, on met en scène les symboles de la République : Marianne, le drapeau tricolore, la devise « Liberté, Égalité, Fraternité », La Marseillaise et la fête nationale du 14 juillet. À cette époque, la France étend aussi son empire colonial."
+    },
+    {
+      "title": "L’école gratuite, laïque et obligatoire",
+      "text": "Jules Ferry est ministre de l’Instruction publique dans les années 1880. En 1881, l’école primaire publique devient gratuite. En 1882, elle devient obligatoire pour les enfants de 6 à 13 ans et laïque : on n’y enseigne plus la religion et chacun est libre de croire ou de ne pas croire. L’école doit permettre à tous les enfants d’apprendre à lire, écrire et compter, et de devenir des citoyens."
+    },
+    {
+      "title": "Une classe au temps de Jules Ferry",
+      "text": "Dans une classe de cette époque, les élèves sont assis sur des bancs ou des pupitres, écrivent avec une plume trempée dans l’encrier et regardent un grand tableau noir et des cartes murales. On y apprend la lecture, l’écriture, le calcul, l’histoire, la géographie et la morale. Les filles et les garçons sont souvent séparés. Les bâtiments de l’école, souvent à côté de la mairie, deviennent des symboles de la République dans les villages et les villes."
+    },
+    {
+      "title": "Des libertés, des droits et des devoirs",
+      "text": "Aujourd’hui, sous la Ve République (depuis 1958), les citoyens ont des libertés, comme la liberté d’expression et la liberté de culte, et des droits, comme le droit de vote. Ces libertés et ces droits sont le fruit d’une conquête et d’une évolution de la société : par exemple, les femmes votent en France depuis 1944 (elles votent pour la première fois en 1945). Ils s’accompagnent de devoirs : respecter la loi, respecter les autres, et participer à la vie commune, par exemple en votant à l’âge adulte."
+    }
+  ],
+  "revision_sheet": [
+    "1892 : la République fête ses cent ans (elle a été proclamée en 1792).",
+    "Symboles de la République : Marianne, le drapeau tricolore, la devise « Liberté, Égalité, Fraternité », La Marseillaise, le 14 juillet.",
+    "Jules Ferry : école publique gratuite (1881), puis obligatoire de 6 à 13 ans et laïque (1882).",
+    "Laïque : on n’y enseigne plus la religion ; chacun est libre de croire ou de ne pas croire.",
+    "Aujourd’hui (Ve République, depuis 1958) : libertés (expression, culte), droits (droit de vote) et devoirs (respecter la loi et les autres)."
+  ],
+  "quiz": [
+    {
+      "prompt": "En quelle année la République fête-t-elle ses cent ans ?",
+      "choices": [
+        "1789",
+        "1892",
+        "1944"
+      ],
+      "correct_index": 1,
+      "explanation": "La République, proclamée en 1792, fête son centenaire en 1892."
+    },
+    {
+      "prompt": "Quelles sont les trois caractéristiques de l’école voulue par Jules Ferry ?",
+      "choices": [
+        "Payante, religieuse et facultative",
+        "Gratuite, religieuse et réservée aux garçons",
+        "Gratuite, laïque et obligatoire"
+      ],
+      "correct_index": 2,
+      "explanation": "Les lois de 1881 et 1882 rendent l’école publique gratuite, laïque et obligatoire."
+    },
+    {
+      "prompt": "Selon la loi de 1882, entre quels âges l’école est-elle obligatoire ?",
+      "choices": [
+        "De 3 à 10 ans",
+        "De 6 à 13 ans",
+        "De 10 à 18 ans"
+      ],
+      "correct_index": 1,
+      "explanation": "La loi de 1882 rend l’école obligatoire pour les enfants de 6 à 13 ans."
+    },
+    {
+      "prompt": "Lequel de ces éléments est un symbole de la République française ?",
+      "choices": [
+        "Marianne",
+        "Une couronne de roi",
+        "Une fleur de lys"
+      ],
+      "correct_index": 0,
+      "explanation": "Marianne est l’un des symboles de la République, comme le drapeau tricolore et la devise « Liberté, Égalité, Fraternité »."
+    },
+    {
+      "prompt": "Sous quel régime politique vit-on en France aujourd’hui ?",
+      "choices": [
+        "La monarchie absolue",
+        "L’Empire",
+        "La Ve République, une démocratie"
+      ],
+      "correct_index": 2,
+      "explanation": "La Ve République existe depuis 1958 : c’est une démocratie où les citoyens ont des libertés, des droits et des devoirs."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Parmi ces éléments, lesquels sont des symboles de la République : Marianne, une couronne, le drapeau tricolore, La Marseillaise ?",
+      "solution": "Marianne, le drapeau tricolore et La Marseillaise sont des symboles de la République. La couronne est un symbole de la monarchie.",
+      "success_criterion": "Citer les trois symboles de la République et écarter la couronne."
+    },
+    {
+      "prompt": "Complète : en 1881, l’école publique devient … ; en 1882, elle devient … et ….",
+      "solution": "En 1881, l’école publique devient gratuite ; en 1882, elle devient obligatoire et laïque.",
+      "success_criterion": "Retrouver gratuite, obligatoire et laïque aux bons endroits."
+    },
+    {
+      "prompt": "Classe ces éléments en liberté, droit ou devoir : la liberté d’expression, le droit de vote, respecter la loi.",
+      "solution": "La liberté d’expression est une liberté ; le droit de vote est un droit ; respecter la loi est un devoir.",
+      "success_criterion": "Classer correctement les trois éléments."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Cite deux différences entre une classe au temps de Jules Ferry et ta classe d’aujourd’hui.",
+      "solution": "Exemples : on écrivait avec une plume et de l’encre ; les filles et les garçons étaient souvent séparés ; il y avait des bancs et un tableau noir ; on apprenait beaucoup par cœur. Aujourd’hui on utilise des stylos et parfois des outils numériques, et filles et garçons sont dans les mêmes classes.",
+      "success_criterion": "Donner deux différences exactes et les comparer à la classe d’aujourd’hui."
+    },
+    {
+      "prompt": "Explique en une ou deux phrases pourquoi l’école de Jules Ferry est appelée « laïque ».",
+      "solution": "Elle est laïque parce qu’on n’y enseigne plus la religion : chacun est libre de croire ou de ne pas croire, et l’école accueille tous les enfants.",
+      "success_criterion": "Expliquer que la religion n’est plus enseignée et que chacun est libre de ses croyances."
+    },
+    {
+      "prompt": "Donne un exemple de droit et un exemple de devoir d’un citoyen aujourd’hui.",
+      "solution": "Exemple de droit : le droit de vote. Exemple de devoir : respecter la loi (ou respecter les autres).",
+      "success_criterion": "Donner un droit et un devoir exacts."
+    }
+  ],
+  "audio_transcript": "En mille huit cent quatre-vingt-douze, la France fête les cent ans de la République. On met en scène ses symboles : Marianne, le drapeau tricolore, la devise Liberté, Égalité, Fraternité, La Marseillaise et le quatorze juillet. Dans les années mille huit cent quatre-vingts, Jules Ferry fait voter des lois sur l’école. En mille huit cent quatre-vingt-un, l’école publique devient gratuite. En mille huit cent quatre-vingt-deux, elle devient obligatoire pour les enfants de six à treize ans, et laïque : on n’y enseigne plus la religion. Aujourd’hui, sous la Cinquième République, les citoyens ont des libertés, des droits et des devoirs.",
+  "guided_explanation": "Imagine que tu entres dans une classe de 1890 : des bancs, un grand tableau noir, des plumes et de l’encre. Pose-toi trois questions. Qui a le droit d’y aller ? Tous les enfants de 6 à 13 ans, car l’école est obligatoire. Combien ça coûte ? Rien, car elle est gratuite. Y enseigne-t-on la religion ? Non, car elle est laïque. Tu as retrouvé les trois mots clés de Jules Ferry. Ensuite, compare avec ta classe : qu’est-ce qui a changé, qu’est-ce qui est pareil ? Enfin, souviens-toi que les libertés et les droits que tu connais aujourd’hui ont été construits peu à peu, et qu’ils s’accompagnent de devoirs."
+}

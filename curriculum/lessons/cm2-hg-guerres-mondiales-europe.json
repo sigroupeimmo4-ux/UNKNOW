@@ -1,0 +1,132 @@
+{
+  "id": "cm2-hg-guerres-mondiales-europe",
+  "title": "Les deux guerres mondiales et la construction européenne",
+  "chapter_id": "cm2-hg-guerres-mondiales-europe",
+  "program_id": "CM2-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Situer la Première et la Seconde Guerre mondiale dans le temps (1914-1918 ; 1939-1945).",
+    "Expliquer ce que sont la Résistance, la collaboration et le génocide des Juifs.",
+    "Expliquer pourquoi et comment des pays européens se sont rassemblés dans l’Union européenne."
+  ],
+  "skill_ids": [
+    "cm2-hg-guerres-mondiales-europe-situer",
+    "cm2-hg-guerres-mondiales-europe-memoire"
+  ],
+  "source_locators": [
+    "Programme du cycle 3 (BO n° 31 du 30 juillet 2020, version 2023), Histoire et géographie / Histoire, classe de CM2, Thème 3 – La France, des guerres mondiales à l’Union européenne, page 72 du PDF (pagination imprimée 71)."
+  ],
+  "course": [
+    {
+      "title": "La Grande Guerre (1914-1918)",
+      "text": "La Première Guerre mondiale, appelée aussi la Grande Guerre, dure de 1914 à 1918. Elle oppose de nombreux pays d’Europe et d’ailleurs. Les soldats français, les « poilus », combattent dans des tranchées, notamment à Verdun en 1916. Les armes nouvelles (mitrailleuses, obus, gaz, chars, avions) causent des millions de morts. Les combats s’arrêtent le 11 novembre 1918 avec l’armistice. Chaque année, on commémore cette date devant les monuments aux morts."
+    },
+    {
+      "title": "La Seconde Guerre mondiale (1939-1945)",
+      "text": "La Seconde Guerre mondiale commence en 1939 et se déroule sur plusieurs continents. En France, l’armée est vaincue en juin 1940 et le pays est en partie occupé par l’Allemagne nazie. Le régime de Vichy, dirigé par le maréchal Pétain, collabore avec l’occupant. Le 18 juin 1940, le général de Gaulle lance depuis Londres un appel à continuer la lutte : c’est le début de la France libre, qui combat avec les Alliés. En France, des hommes et des femmes entrent dans la Résistance. Le débarquement en Normandie a lieu le 6 juin 1944 et la guerre s’achève en Europe le 8 mai 1945."
+    },
+    {
+      "title": "Le génocide des Juifs et les persécutions",
+      "text": "Pendant la Seconde Guerre mondiale, l’Allemagne nazie organise le génocide des Juifs d’Europe : environ six millions de Juifs sont assassinés parce qu’ils sont juifs. D’autres populations sont aussi persécutées, par exemple les Tsiganes. En France, des Juifs sont arrêtés et déportés, mais d’autres personnes risquent leur vie pour les cacher et les sauver. Aujourd’hui, des lieux de mémoire et des cérémonies permettent de se souvenir de ces crimes pour que cela ne recommence jamais."
+    },
+    {
+      "title": "De la guerre à l’Union européenne",
+      "text": "Après 1945, des pays européens qui s’étaient fait la guerre, comme la France et l’Allemagne, décident de coopérer pour garder la paix. En 1950, le ministre français Robert Schuman propose de mettre en commun la production du charbon et de l’acier. En 1951, six pays créent la CECA : la France, l’Allemagne de l’Ouest, l’Italie, la Belgique, les Pays-Bas et le Luxembourg. D’autres traités suivent, comme le traité de Rome en 1957. En 1992, le traité de Maastricht crée l’Union européenne, qui rassemble aujourd’hui plus de vingt pays."
+    }
+  ],
+  "revision_sheet": [
+    "Grande Guerre : 1914-1918 ; armistice le 11 novembre 1918 ; les « poilus » vivent dans les tranchées.",
+    "Seconde Guerre mondiale : 1939-1945 ; fin de la guerre en Europe le 8 mai 1945 ; débarquement en Normandie le 6 juin 1944.",
+    "En France : occupation, régime de Vichy et collaboration ; appel du 18 juin 1940 du général de Gaulle ; Résistance.",
+    "Le génocide des Juifs : environ six millions de Juifs d’Europe assassinés par l’Allemagne nazie ; d’autres populations sont aussi persécutées.",
+    "Après la guerre, des pays européens autrefois ennemis se rapprochent : CECA (1951), traité de Rome (1957), Union européenne (traité de Maastricht, 1992)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quand a eu lieu la Première Guerre mondiale ?",
+      "choices": [
+        "De 1939 à 1945",
+        "De 1914 à 1918",
+        "De 1789 à 1799"
+      ],
+      "correct_index": 1,
+      "explanation": "La Première Guerre mondiale, ou Grande Guerre, dure de 1914 à 1918."
+    },
+    {
+      "prompt": "Que commémore-t-on le 11 novembre ?",
+      "choices": [
+        "La fin de la Seconde Guerre mondiale en Europe",
+        "Le débarquement en Normandie",
+        "L’armistice de 1918, qui met fin aux combats de la Grande Guerre"
+      ],
+      "correct_index": 2,
+      "explanation": "Le 11 novembre 1918, l’armistice met fin aux combats de la Grande Guerre. La fin de la guerre en Europe en 1945 est commémorée le 8 mai."
+    },
+    {
+      "prompt": "Qui lance l’appel du 18 juin 1940 depuis Londres ?",
+      "choices": [
+        "Le général de Gaulle",
+        "Le maréchal Pétain",
+        "Napoléon Bonaparte"
+      ],
+      "correct_index": 0,
+      "explanation": "Le 18 juin 1940, le général de Gaulle appelle à continuer la lutte contre l’Allemagne nazie : c’est le début de la France libre."
+    },
+    {
+      "prompt": "Que désigne l’expression « génocide des Juifs » ?",
+      "choices": [
+        "Un traité de paix signé en 1918",
+        "Une bataille de la Grande Guerre",
+        "L’assassinat organisé de millions de Juifs d’Europe par l’Allemagne nazie"
+      ],
+      "correct_index": 2,
+      "explanation": "L’Allemagne nazie a organisé l’assassinat d’environ six millions de Juifs d’Europe pendant la Seconde Guerre mondiale."
+    },
+    {
+      "prompt": "Pourquoi des pays européens se sont-ils rapprochés après 1945 ?",
+      "choices": [
+        "Pour coopérer et éviter de nouvelles guerres entre eux",
+        "Pour former un seul pays avec une seule langue",
+        "Pour préparer une nouvelle guerre mondiale"
+      ],
+      "correct_index": 0,
+      "explanation": "Après la guerre, des pays autrefois ennemis, comme la France et l’Allemagne, ont choisi de coopérer pour garder la paix, ce qui a mené à l’Union européenne."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Associe chaque date à l’événement : 11 novembre 1918 ; 18 juin 1940 ; 6 juin 1944 ; 8 mai 1945.",
+      "solution": "11 novembre 1918 : armistice de la Grande Guerre. 18 juin 1940 : appel du général de Gaulle. 6 juin 1944 : débarquement en Normandie. 8 mai 1945 : fin de la guerre en Europe.",
+      "success_criterion": "Associer correctement les quatre dates."
+    },
+    {
+      "prompt": "Complète : la Première Guerre mondiale dure de … à … et la Seconde Guerre mondiale de … à ….",
+      "solution": "La Première Guerre mondiale dure de 1914 à 1918 et la Seconde de 1939 à 1945.",
+      "success_criterion": "Donner les quatre dates exactes."
+    },
+    {
+      "prompt": "Cite deux pays qui ont créé la CECA en 1951 et qui étaient ennemis pendant la guerre.",
+      "solution": "La France et l’Allemagne (de l’Ouest) font partie des six pays qui créent la CECA en 1951.",
+      "success_criterion": "Citer la France et l’Allemagne."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique la différence entre la Résistance et la collaboration en France pendant l’Occupation.",
+      "solution": "La Résistance regroupe des personnes qui refusent l’occupation et luttent contre l’Allemagne nazie. La collaboration désigne la coopération avec l’occupant, notamment celle du régime de Vichy.",
+      "success_criterion": "Définir correctement les deux termes."
+    },
+    {
+      "prompt": "Où peux-tu trouver près de chez toi des traces des deux guerres mondiales ? Donne deux exemples.",
+      "solution": "Exemples : un monument aux morts, une plaque commémorative, une rue portant le nom d’un résistant, un cimetière militaire, des bâtiments reconstruits après la guerre, les cérémonies du 11 novembre ou du 8 mai.",
+      "success_criterion": "Citer deux traces ou lieux de mémoire plausibles et les relier à la guerre."
+    },
+    {
+      "prompt": "Explique en deux phrases pourquoi l’Union européenne est un exemple de réconciliation.",
+      "solution": "Des pays comme la France et l’Allemagne, longtemps en guerre, ont choisi de travailler ensemble à partir de 1950. Cette coopération a abouti à l’Union européenne, qui rassemble aujourd’hui plus de vingt pays.",
+      "success_criterion": "Expliquer le passage de la guerre à la coopération."
+    }
+  ],
+  "audio_transcript": "Le vingtième siècle est marqué par deux guerres mondiales. La Grande Guerre dure de mille neuf cent quatorze à mille neuf cent dix-huit. Elle s’arrête le onze novembre mille neuf cent dix-huit avec l’armistice. La Seconde Guerre mondiale dure de mille neuf cent trente-neuf à mille neuf cent quarante-cinq. En France, le général de Gaulle lance l’appel du dix-huit juin mille neuf cent quarante, la Résistance s’organise, et le régime de Vichy collabore avec l’occupant. L’Allemagne nazie organise aussi le génocide des Juifs d’Europe. Après la guerre, des pays autrefois ennemis, comme la France et l’Allemagne, se rapprochent. Cela mène à la CECA en mille neuf cent cinquante et un, puis à l’Union européenne en mille neuf cent quatre-vingt-douze.",
+  "guided_explanation": "Trace une frise chronologique avec ces repères : 1914, 1918, 1939, 1945, 1951 et 1992. Colorie en une couleur la Grande Guerre (1914-1918) et en une autre la Seconde Guerre mondiale (1939-1945). Place ensuite les dates clés : 11 novembre 1918, 18 juin 1940, 6 juin 1944, 8 mai 1945. Regarde l’espace entre 1945 et 1951 : en quelques années, des pays qui se battaient décident de coopérer. Dis à voix haute pourquoi : pour garder la paix. Enfin, cherche un monument aux morts ou une plaque près de chez toi : c’est une trace de ces guerres dans ton environnement."
+}

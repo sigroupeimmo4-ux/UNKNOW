@@ -1,0 +1,131 @@
+{
+  "id": "cm1-hg-se-deplacer",
+  "title": "Se déplacer dans le monde",
+  "chapter_id": "cm1-hg-se-deplacer",
+  "program_id": "CM1-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Nommer les principaux modes de transport de personnes et les infrastructures associées.",
+    "Distinguer la distance kilométrique et la distance en temps.",
+    "Associer un mode de déplacement à la distance à parcourir."
+  ],
+  "skill_ids": [
+    "cm1-hg-se-deplacer-skill-modes-transport",
+    "cm1-hg-se-deplacer-skill-distance-temps"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 3, annexe 4, CM1 (Cours moyen première année) / Géographie — Thème 3 : Se déplacer, page 12 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Comment se déplace-t-on ?",
+      "text": "Pour aller à l’école, au sport ou en vacances, on se déplace de différentes manières. On peut marcher, rouler à vélo, aller en voiture, prendre le métro, le train, le bateau ou l’avion. Dans ta classe, les élèves ne se déplacent pas tous de la même façon : la marche est un mode de déplacement que beaucoup utilisent, surtout pour les trajets courts. Le mode choisi dépend de la distance à parcourir."
+    },
+    {
+      "title": "Des modes de transport et leurs infrastructures",
+      "text": "Chaque mode de transport utilise une infrastructure, c’est-à-dire un aménagement qui permet de se déplacer ou de s’arrêter. L’avion utilise l’aéroport. Le bateau utilise le port. Le train utilise la gare. La voiture utilise la route. Le métro utilise la station. Le vélo utilise la voie cyclable."
+    },
+    {
+      "title": "Deux façons de mesurer un déplacement",
+      "text": "On peut mesurer un déplacement de deux manières. La distance kilométrique se mesure en kilomètres (km) ; 1 km est égal à 1 000 mètres. La distance en temps est la durée du trajet, en minutes ou en heures. Un enfant qui marche parcourt environ 4 km en 1 heure : une école située à 1 km de la maison est donc à environ 15 minutes à pied. La même distance peut demander un temps différent selon le mode de déplacement."
+    },
+    {
+      "title": "Choisir selon la distance et le temps",
+      "text": "Au cours d’une journée, d’une semaine ou d’une année, on utilise souvent plusieurs modes de déplacement. Pour un trajet court, comme aller à l’école, on peut marcher ou rouler à vélo. Pour un trajet plus long, on peut prendre un train ou une voiture. Pour traverser un océan ou aller très loin, on prend plutôt l’avion ou le bateau. On choisit en regardant la distance, le temps disponible et les infrastructures qui existent."
+    }
+  ],
+  "revision_sheet": [
+    "Modes de transport de personnes : marche, vélo, voiture, métro, train, bateau, avion.",
+    "Infrastructures : avion/aéroport ; bateau/port ; train/gare ; voiture/route ; métro/station ; vélo/voie cyclable.",
+    "Deux unités de mesure d’un déplacement : la distance kilométrique (km) et la distance en temps (minutes, heures).",
+    "1 km = 1 000 m ; le mode de déplacement dépend de la distance à parcourir."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle infrastructure utilise le train ?",
+      "choices": [
+        "Le port",
+        "La gare",
+        "L’aéroport"
+      ],
+      "correct_index": 1,
+      "explanation": "Le train utilise la gare. Le port est pour le bateau et l’aéroport pour l’avion."
+    },
+    {
+      "prompt": "Quelle infrastructure est faite pour le vélo ?",
+      "choices": [
+        "La voie cyclable",
+        "La station",
+        "L’aéroport"
+      ],
+      "correct_index": 0,
+      "explanation": "Le vélo utilise la voie cyclable. La station est pour le métro."
+    },
+    {
+      "prompt": "Quelles sont les deux unités pour mesurer un déplacement ?",
+      "choices": [
+        "Le kilogramme et le litre",
+        "La distance kilométrique et la distance en temps",
+        "Le degré et la couleur"
+      ],
+      "correct_index": 1,
+      "explanation": "On mesure un déplacement par la distance en kilomètres et par la durée du trajet, la distance en temps."
+    },
+    {
+      "prompt": "Combien de mètres y a-t-il dans 1 kilomètre ?",
+      "choices": [
+        "10 mètres",
+        "100 mètres",
+        "1 000 mètres"
+      ],
+      "correct_index": 2,
+      "explanation": "1 kilomètre est égal à 1 000 mètres."
+    },
+    {
+      "prompt": "Quel mode de transport utilise un port ?",
+      "choices": [
+        "Le bateau",
+        "Le métro",
+        "La voiture"
+      ],
+      "correct_index": 0,
+      "explanation": "Le bateau utilise le port. Le métro utilise la station et la voiture la route."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Associe chaque mode de transport à son infrastructure : avion ; bateau ; train ; métro.",
+      "solution": "Avion : aéroport. Bateau : port. Train : gare. Métro : station.",
+      "success_criterion": "Quatre associations correctes."
+    },
+    {
+      "prompt": "Une école est à 2 km de la maison. Un enfant marche environ 4 km en 1 heure. Combien de temps met-il à peu près ?",
+      "solution": "2 km est la moitié de 4 km. Il met à peu près la moitié d’une heure, soit environ 30 minutes.",
+      "success_criterion": "Trouver environ 30 minutes avec le raisonnement."
+    },
+    {
+      "prompt": "Fais le tableau des déplacements de ta classe : écris comment viennent les élèves à l’école (marche, vélo, voiture, bus, etc.) et compte.",
+      "solution": "Le tableau liste les modes de déplacement utilisés par les élèves de la classe, avec le nombre d’élèves pour chaque mode.",
+      "success_criterion": "Lister plusieurs modes avec un effectif pour chacun."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Nomme les deux unités de mesure d’un déplacement et donne un exemple pour chacune.",
+      "solution": "La distance kilométrique, par exemple 3 km. La distance en temps, par exemple 40 minutes.",
+      "success_criterion": "Citer la distance en km et la distance en temps avec un exemple pour chacune."
+    },
+    {
+      "prompt": "Explique pourquoi on ne prend pas l’avion pour aller à la boulangerie à 200 mètres.",
+      "solution": "Le trajet est très court : on peut le faire à pied ou à vélo. Prendre l’avion demanderait un aéroport, serait compliqué et inutile pour une si petite distance.",
+      "success_criterion": "Relier le choix du mode de déplacement à la distance à parcourir."
+    },
+    {
+      "prompt": "Combien de mètres y a-t-il dans 3 km ?",
+      "solution": "3 × 1 000 = 3 000 mètres.",
+      "success_criterion": "Écrire 3 × 1 000 et trouver 3 000 m."
+    }
+  ],
+  "audio_transcript": "Pour se déplacer, on peut marcher, rouler à vélo, aller en voiture, prendre le métro, le train, le bateau ou l’avion. Chaque mode de transport utilise une infrastructure : l’avion, l’aéroport ; le bateau, le port ; le train, la gare ; la voiture, la route ; le métro, la station ; le vélo, la voie cyclable. On peut mesurer un déplacement de deux façons : par la distance en kilomètres, et par la distance en temps, c’est-à-dire la durée du trajet. Un kilomètre, c’est mille mètres. Le mode de déplacement que l’on choisit dépend de la distance à parcourir.",
+  "guided_explanation": "Pense à ton trajet de ce matin. Comment es-tu venu ou venue ? À pied, à vélo, en voiture ? Écris-le, puis demande à tes camarades et compare : la marche est très utilisée pour les trajets courts. Maintenant, associe chaque mode à son infrastructure : le train va avec la gare, le bateau avec le port, l’avion avec l’aéroport, le métro avec la station, le vélo avec la voie cyclable, la voiture avec la route. Enfin, rappelle-toi qu’il y a deux façons de dire la longueur d’un trajet : en kilomètres, ou en temps. Par exemple, 1 km à pied, c’est environ 15 minutes."
+}

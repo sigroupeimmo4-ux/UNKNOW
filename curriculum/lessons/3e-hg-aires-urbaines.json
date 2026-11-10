@@ -1,0 +1,131 @@
+{
+  "id": "3e-hg-aires-urbaines",
+  "title": "Les aires urbaines, une nouvelle géographie de la France",
+  "chapter_id": "3e-hg-aires-urbaines",
+  "program_id": "3e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Définir une aire urbaine.",
+    "Distinguer le centre, le péricentre, la banlieue et le périurbain.",
+    "Expliquer le lien entre les villes, les mobilités et la mondialisation."
+  ],
+  "skill_ids": [
+    "3e-hg-aires-urbaines-skill"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Géographie, classe de 3e / Thème 1 « Dynamiques territoriales de la France contemporaine », pages 89–90 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "La France s’est urbanisée",
+      "text": "Depuis une cinquantaine d’années, l’urbanisation a profondément changé la France. Les villes ont grandi, des habitants et des activités économiques s’y sont installés, et les genres de vie ont changé. Aujourd’hui, la grande majorité des Français vivent dans une aire urbaine."
+    },
+    {
+      "title": "Qu’est-ce qu’une aire urbaine ?",
+      "text": "Une aire urbaine est l’espace qui est sous l’influence d’une ville : elle comprend une ville centrale, où sont concentrés les emplois, et les communes autour, dont beaucoup d’habitants vont travailler dans la ville. Les liens entre la ville et les communes voisines se mesurent par les déplacements quotidiens, appelés mobilités domicile-travail. Les aires d’influence de plusieurs villes peuvent aussi être reliées entre elles."
+    },
+    {
+      "title": "Des espaces très différents",
+      "text": "Dans une aire urbaine, on distingue quatre types d’espaces. Le centre rassemble souvent les commerces, les services, les administrations et les bureaux. Le péricentre est la zone qui entoure le centre. La banlieue (espaces suburbains) est la partie urbanisée plus éloignée, avec des logements, des zones d’activités et des équipements. Le périurbain, plus loin encore, est un espace où il y a souvent des maisons individuelles, du commerce en périphérie et peu de transports en commun ; beaucoup d’habitants s’y déplacent en voiture. La progression de la ville sur les campagnes s’appelle l’étalement urbain."
+    },
+    {
+      "title": "Les villes et la mondialisation",
+      "text": "Les grandes villes, appelées métropoles, concentrent beaucoup d’emplois, d’universités, d’entreprises, de gares et d’aéroports. Elles sont reliées entre elles et au monde par des réseaux de transport et de communication. C’est pourquoi on parle d’une France mondialisée : la géographie du pays est organisée autour de ces espaces connectés au reste du monde. Paris est la plus grande aire urbaine du pays ; d’autres grandes métropoles sont Lyon, Marseille, Toulouse ou Lille."
+    }
+  ],
+  "revision_sheet": [
+    "Depuis environ 50 ans, l’urbanisation change la France : la grande majorité des habitants vit dans une aire urbaine.",
+    "Une aire urbaine = une ville centrale + des communes autour, dont une partie des habitants vient travailler dans la ville.",
+    "Quatre espaces : centre, péricentre, banlieue (suburbain), périurbain.",
+    "Le périurbain est marqué par les maisons individuelles et la voiture ; on parle d’étalement urbain.",
+    "Les métropoles, bien reliées au monde, jouent un rôle clé dans la mondialisation."
+  ],
+  "quiz": [
+    {
+      "prompt": "Qu’est-ce qu’une aire urbaine ?",
+      "choices": [
+        "Un espace sous l’influence d’une ville, avec les communes qui en dépendent",
+        "Une zone uniquement agricole",
+        "Un quartier d’une seule rue"
+      ],
+      "correct_index": 0,
+      "explanation": "Une aire urbaine regroupe une ville centrale et les communes autour qui sont liées à elle, notamment par les déplacements domicile-travail."
+    },
+    {
+      "prompt": "Quel espace est le plus éloigné du centre ?",
+      "choices": [
+        "Le périurbain",
+        "Le centre",
+        "Le péricentre"
+      ],
+      "correct_index": 0,
+      "explanation": "Le périurbain est en général la couronne la plus éloignée du centre de l’aire urbaine."
+    },
+    {
+      "prompt": "Que veut dire « étalement urbain » ?",
+      "choices": [
+        "La ville progresse sur les espaces voisins comme les campagnes",
+        "La ville devient plus petite",
+        "Les habitants quittent tous la France"
+      ],
+      "correct_index": 0,
+      "explanation": "L’étalement urbain est l’extension de la ville sur les espaces autour d’elle, souvent agricoles ou naturels."
+    },
+    {
+      "prompt": "Quel déplacement relie souvent le périurbain à la ville ?",
+      "choices": [
+        "Le trajet domicile-travail",
+        "Le voyage en avion",
+        "La randonnée en montagne"
+      ],
+      "correct_index": 0,
+      "explanation": "Beaucoup d’habitants du périurbain vont travailler dans la ville : ce sont les mobilités domicile-travail."
+    },
+    {
+      "prompt": "Pourquoi les métropoles jouent-elles un rôle dans la mondialisation ?",
+      "choices": [
+        "Elles sont isolées du reste du monde",
+        "Elles concentrent des emplois et sont reliées au monde par des transports et des communications",
+        "Elles n’ont aucun habitant"
+      ],
+      "correct_index": 1,
+      "explanation": "Les métropoles concentrent des activités, des universités, des gares et des aéroports, et sont connectées aux autres espaces du monde."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Cite dans l’ordre, du centre vers l’extérieur, les quatre types d’espaces d’une aire urbaine.",
+      "solution": "Centre, péricentre, banlieue (suburbain), périurbain.",
+      "success_criterion": "Donner les quatre espaces dans le bon ordre."
+    },
+    {
+      "prompt": "Décris deux caractéristiques du périurbain.",
+      "solution": "Par exemple : beaucoup de maisons individuelles, des commerces en périphérie, des trajets en voiture vers la ville, des habitants qui travaillent dans la ville.",
+      "success_criterion": "Citer deux caractéristiques exactes."
+    },
+    {
+      "prompt": "Associe chaque mot à sa définition : étalement urbain ; mobilité domicile-travail.",
+      "solution": "Étalement urbain : extension de la ville sur les espaces voisins. Mobilité domicile-travail : déplacement quotidien entre le lieu d’habitation et le lieu de travail.",
+      "success_criterion": "Associer correctement les deux définitions."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique ce qu’est une aire urbaine en deux phrases.",
+      "solution": "Une aire urbaine est un espace organisé autour d’une ville centrale. Les communes autour sont liées à la ville, car une partie de leurs habitants y travaille.",
+      "success_criterion": "Parler d’une ville centrale et de ses liens avec les communes voisines."
+    },
+    {
+      "prompt": "Pourquoi le périurbain dépend-il souvent de la voiture ?",
+      "solution": "Parce que les habitants vivent loin du centre, où sont les emplois et les services, et que les transports en commun y sont souvent peu nombreux.",
+      "success_criterion": "Relier éloignement, emplois ou services dans la ville, et voiture."
+    },
+    {
+      "prompt": "Montre en quelques phrases que les aires urbaines changent la géographie de la France.",
+      "solution": "Depuis environ 50 ans, les villes ont grandi et attiré des habitants et des activités. Leurs espaces se sont différenciés (centre, banlieue, périurbain) et les grandes métropoles, reliées au monde, jouent un rôle clé dans la mondialisation.",
+      "success_criterion": "Citer la croissance des villes, la diversité des espaces et le rôle des métropoles."
+    }
+  ],
+  "audio_transcript": "Depuis une cinquantaine d’années, l’urbanisation a profondément changé la France. La plupart des Français vivent dans une aire urbaine. Une aire urbaine, c’est une ville centrale et les communes autour, dont les habitants viennent souvent travailler dans la ville. On y distingue le centre, le péricentre, la banlieue et le périurbain. Dans le périurbain, il y a beaucoup de maisons individuelles et on utilise souvent la voiture. Les grandes villes, ou métropoles, sont reliées au monde par les transports et les communications : elles dessinent une France mondialisée.",
+  "guided_explanation": "Prends une carte de ta ville ou d’une grande ville et pars du centre. Au centre, repère les commerces, les administrations et les bureaux. Autour, le péricentre ; puis la banlieue ; enfin le périurbain, avec des maisons individuelles. Chaque matin, des habitants du périurbain vont travailler au centre : c’est une mobilité domicile-travail, et c’est ce lien qui fait de l’ensemble une aire urbaine. Quand la ville s’étend sur la campagne autour, on parle d’étalement urbain."
+}

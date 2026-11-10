@@ -1,0 +1,127 @@
+{
+  "id": "4e-hg-revolution-industrielle-europe",
+  "title": "L’Europe de la « révolution industrielle » au XIXe siècle",
+  "chapter_id": "4e-hg-revolution-industrielle-europe",
+  "program_id": "4e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Expliquer ce qu’est la révolution industrielle et citer ses nouveautés (machines, usines, charbon, chemin de fer).",
+    "Décrire les conséquences de l’industrialisation sur les villes, les campagnes et les ouvriers.",
+    "Expliquer pourquoi des Européens émigrent au XIXe siècle, à l’aide de l’exemple irlandais."
+  ],
+  "skill_ids": [
+    "4e-hg-revolution-industrielle-europe-skill",
+    "4e-hg-revolution-industrielle-europe-sources"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire / Classe de 4e, Thème 2 « L’Europe et le monde au XIXe siècle » (L’Europe de la « révolution industrielle »), page 83 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Une nouvelle façon de produire",
+      "text": "La révolution industrielle commence au Royaume-Uni à la fin du XVIIIe siècle, puis gagne d’autres pays d’Europe au XIXe siècle. La production se fait de plus en plus avec des machines, dans de grandes usines, et non plus seulement dans des ateliers ou à la maison. Cette industrialisation repose sur une nouvelle énergie : la machine à vapeur, perfectionnée par James Watt, fonctionne au charbon. Les mines de charbon se développent et la production de fer et d’acier augmente. Plus tard, le pétrole et l’électricité deviennent à leur tour des sources d’énergie importantes."
+    },
+    {
+      "title": "Des transports et des paysages transformés",
+      "text": "Le chemin de fer se développe : la première ligne publique ouvre au Royaume-Uni en 1825, et les réseaux ferrés s’étendent ensuite en Europe. Les trains et les bateaux à vapeur transportent plus vite les marchandises et les voyageurs et favorisent les échanges. Les usines et les mines transforment les paysages : cheminées, terrils, gares, fumées. Autour des centres industriels, les villes grandissent : beaucoup de paysans quittent les campagnes pour aller travailler en ville. On parle d’exode rural. Les campagnes sont aussi transformées, par exemple par l’arrivée des machines agricoles et du train."
+    },
+    {
+      "title": "Patrons, ouvriers et « question sociale »",
+      "text": "Une nouvelle société apparaît. Des industriels et des bourgeois possèdent les usines et les capitaux. Les ouvriers, eux, travaillent contre un salaire : on parle de salariat. Leurs conditions de vie sont souvent dures : journées de travail très longues, salaires faibles, travail des enfants, logements étroits et insalubres. Les crises économiques peuvent provoquer du chômage. Ces difficultés créent une « question sociale » : comment améliorer la condition des ouvriers ? Des ouvriers s’organisent en syndicats et font grève. De nouvelles idées politiques naissent, comme le socialisme. Peu à peu, des lois encadrent le travail : en France, une loi de 1841 limite le travail des enfants."
+    },
+    {
+      "title": "Des Européens qui partent",
+      "text": "La population européenne augmente au XIXe siècle et l’Europe devient un espace d’émigration : des millions d’Européens quittent leur pays, notamment pour l’Amérique du Nord. L’exemple de l’Irlande est connu : à partir de 1845, une grave maladie de la pomme de terre, base de l’alimentation d’une grande partie de la population, provoque une famine. Elle entraîne de nombreux morts et pousse des centaines de milliers d’Irlandais à émigrer, en particulier vers les États-Unis. Des Italiens et d’autres Européens partent aussi, pour trouver du travail ou une vie meilleure. En 1848, des révolutions éclatent dans plusieurs pays d’Europe : les contestations politiques et sociales sont vives."
+    }
+  ],
+  "revision_sheet": [
+    "Révolution industrielle : début au Royaume-Uni à la fin du XVIIIe siècle, puis diffusion en Europe au XIXe siècle.",
+    "Nouveautés : machines, usines, machine à vapeur, charbon (puis pétrole et électricité), chemin de fer.",
+    "Conséquences : croissance des villes, exode rural, paysages industriels, naissance de la classe ouvrière salariée.",
+    "« Question sociale » : conditions de travail et de vie difficiles des ouvriers ; naissance des syndicats, des grèves et de nouvelles idées politiques.",
+    "L’Europe est aussi un espace d’émigration : exemple de l’Irlande à partir de 1845 (famine, départs vers les États-Unis)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans quel pays la révolution industrielle commence-t-elle ?",
+      "choices": [
+        "Au Royaume-Uni",
+        "En Italie",
+        "En Russie"
+      ],
+      "correct_index": 0,
+      "explanation": "La révolution industrielle débute au Royaume-Uni à la fin du XVIIIe siècle avant de gagner le reste de l’Europe."
+    },
+    {
+      "prompt": "Quelle énergie permet de faire fonctionner les premières machines à vapeur ?",
+      "choices": [
+        "L’électricité",
+        "Le charbon",
+        "Le pétrole"
+      ],
+      "correct_index": 1,
+      "explanation": "Les premières machines à vapeur fonctionnent au charbon. Le pétrole et l’électricité prennent de l’importance plus tard."
+    },
+    {
+      "prompt": "Qu’est-ce qu’un ouvrier salarié ?",
+      "choices": [
+        "Un propriétaire d’usine",
+        "Un paysan qui vend sa récolte",
+        "Une personne qui travaille pour un patron en échange d’un salaire"
+      ],
+      "correct_index": 2,
+      "explanation": "Le salarié reçoit un salaire en échange de son travail ; l’essor du salariat est l’un des grands changements du XIXe siècle."
+    },
+    {
+      "prompt": "Qu’appelle-t-on l’exode rural ?",
+      "choices": [
+        "Le départ des habitants des campagnes vers les villes",
+        "Le départ des Européens vers l’Amérique",
+        "La construction de lignes de chemin de fer"
+      ],
+      "correct_index": 0,
+      "explanation": "L’exode rural désigne le départ de personnes des campagnes vers les villes, notamment vers les centres industriels."
+    },
+    {
+      "prompt": "Pourquoi beaucoup d’Irlandais émigrent-ils à partir de 1845 ?",
+      "choices": [
+        "Parce que l’Irlande a gagné une guerre",
+        "Parce que le chemin de fer est interdit",
+        "Parce qu’une famine liée à la maladie de la pomme de terre frappe le pays"
+      ],
+      "correct_index": 2,
+      "explanation": "À partir de 1845, la maladie de la pomme de terre provoque une famine en Irlande, ce qui pousse de nombreux habitants à partir, notamment vers les États-Unis."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Cite trois changements apportés par la révolution industrielle dans la façon de produire ou de se déplacer.",
+      "solution": "Par exemple : l’usage de machines, la création de grandes usines, l’utilisation du charbon et de la machine à vapeur, le développement du chemin de fer.",
+      "success_criterion": "Citer trois changements exacts liés à la production ou aux transports."
+    },
+    {
+      "prompt": "Explique avec tes mots ce qu’est la « question sociale » au XIXe siècle.",
+      "solution": "C’est l’ensemble des problèmes posés par la condition des ouvriers : salaires faibles, longues journées de travail, travail des enfants, logements insalubres, chômage. La question est de savoir comment améliorer leur vie et leurs droits.",
+      "success_criterion": "Mentionner la condition ouvrière et au moins deux difficultés précises."
+    },
+    {
+      "prompt": "Une ville industrielle passe de 20 000 à 100 000 habitants en cinquante ans. Propose deux causes et deux conséquences possibles.",
+      "solution": "Causes : l’exode rural, l’arrivée de travailleurs pour les usines et les mines. Conséquences : de nouveaux quartiers ouvriers, des logements insuffisants ou insalubres, plus de pollution, un besoin de transports.",
+      "success_criterion": "Donner deux causes et deux conséquences cohérentes avec l’industrialisation."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Décris la vie d’un ouvrier dans une ville industrielle européenne au XIXe siècle : travail, logement, et une façon de défendre ses intérêts.",
+      "solution": "L’ouvrier travaille dans une usine ou une mine, contre un salaire faible, pendant de longues journées. Il habite souvent un logement étroit et insalubre. Pour défendre ses intérêts, il peut s’organiser en syndicat ou faire grève.",
+      "success_criterion": "Décrire le travail et le logement, puis citer une forme d’action collective."
+    },
+    {
+      "prompt": "Explique pourquoi on parle d’une « révolution » énergétique et industrielle au XIXe siècle en Europe.",
+      "solution": "Parce que la production, l’énergie et les transports changent profondément : on passe de l’atelier et de la force des hommes et des animaux à des usines avec des machines à vapeur qui fonctionnent au charbon, puis à l’électricité et au pétrole. Ces changements transforment les paysages, les villes et la société.",
+      "success_criterion": "Relier énergie, machines et transformation de la société avec des exemples précis."
+    }
+  ],
+  "audio_transcript": "Au XIXe siècle, l’Europe s’industrialise. La révolution industrielle commence au Royaume-Uni à la fin du XVIIIe siècle. Les machines, les usines, le charbon et la machine à vapeur transforment la production. Le chemin de fer relie les villes et accélère les échanges. Les villes grandissent, car de nombreux paysans quittent les campagnes : c’est l’exode rural. Une nouvelle société apparaît, avec des patrons et des ouvriers salariés. La vie des ouvriers est souvent dure : c’est la question sociale. Les ouvriers s’organisent en syndicats et font grève. Beaucoup d’Européens émigrent aussi, par exemple les Irlandais, à cause de la famine à partir de 1845.",
+  "guided_explanation": "Pour comprendre ce chapitre, pars d’une image d’usine du XIXe siècle. Observe les cheminées, la fumée, les ouvriers. Demande-toi : quelle énergie fait marcher les machines ? Où habitent les ouvriers ? Qui possède l’usine ? Ensuite, élargis : comment les marchandises sont-elles transportées ? Pourquoi la ville grandit-elle ? Cette suite de questions t’aide à relier production, paysages et société, et à expliquer pourquoi on parle de révolution industrielle."
+}

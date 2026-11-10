@@ -1,0 +1,131 @@
+{
+  "id": "3e-hg-premiere-guerre-civils-militaires",
+  "title": "Civils et militaires dans la Première Guerre mondiale",
+  "chapter_id": "3e-hg-premiere-guerre-civils-militaires",
+  "program_id": "3e-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Expliquer ce qu’est une guerre totale.",
+    "Décrire la vie des soldats au front et le rôle des civils à l’arrière.",
+    "Situer le génocide des Arméniens (1915) et la fin de la guerre (11 novembre 1918)."
+  ],
+  "skill_ids": [
+    "3e-hg-premiere-guerre-civils-militaires-skill"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Histoire, classe de 3e / Thème 1 « L’Europe, un théâtre majeur des guerres totales (1914-1945) », pages 83–84 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Une guerre mondiale qui commence en 1914",
+      "text": "À l’été 1914, une crise entre grandes puissances européennes se transforme en guerre. D’un côté, la France, le Royaume-Uni et la Russie ; de l’autre, l’Allemagne et l’Autriche-Hongrie. D’autres pays les rejoignent peu à peu et la guerre s’étend au monde entier. Elle dure jusqu’à l’armistice du 11 novembre 1918. On dit que c’est une guerre totale parce que tous les moyens d’un pays (hommes, économie, population) sont mis au service de la guerre."
+    },
+    {
+      "title": "Les militaires : la vie au front",
+      "text": "Dès le début d’août 1914, des millions d’hommes sont mobilisés. Sur le front de l’Ouest, les armées s’enterrent dans des tranchées. Les soldats vivent dans la boue, le froid et le bruit des obus, avec la peur de mourir et la fatigue. Les armes sont de plus en plus meurtrières : artillerie, mitrailleuses, gaz de combat. Des batailles très longues et très coûteuses en vies humaines ont lieu, comme celle de Verdun en 1916. Plus d’un million de soldats français sont morts pendant la guerre."
+    },
+    {
+      "title": "Les civils : l’arrière et l’économie de guerre",
+      "text": "Les civils sont eux aussi engagés dans la guerre. Beaucoup d’hommes sont partis au front : les femmes, les enfants et les personnes âgées travaillent dans les champs, les commerces et les usines, notamment celles qui fabriquent des armes et des obus. L’économie est organisée pour la guerre. Les journaux, les affiches et l’école encouragent à soutenir l’effort de guerre, et les familles attendent des nouvelles de ceux qui sont au front. Dans les zones de combat, des civils subissent aussi les destructions et l’occupation."
+    },
+    {
+      "title": "Des violences extrêmes : le génocide des Arméniens",
+      "text": "La guerre provoque des violences très graves contre les combattants et les civils. En 1915, dans l’Empire ottoman, les Arméniens sont arrêtés, déportés et massacrés en très grand nombre : c’est le génocide des Arméniens. Un génocide est la destruction volontaire et organisée d’un groupe de personnes à cause de ce qu’il est. Les estimations des historiens font état d’environ un million de victimes."
+    }
+  ],
+  "revision_sheet": [
+    "La Première Guerre mondiale dure de 1914 à 1918 ; l’armistice est signé le 11 novembre 1918.",
+    "C’est une guerre totale : militaires et civils sont tous mobilisés.",
+    "Au front, les soldats vivent dans les tranchées, face à des armes très meurtrières (artillerie, mitrailleuses, gaz).",
+    "À l’arrière, les civils, surtout les femmes, travaillent dans les champs et les usines d’armement.",
+    "En 1915, l’Empire ottoman organise le génocide des Arméniens."
+  ],
+  "quiz": [
+    {
+      "prompt": "Que veut dire « guerre totale » ?",
+      "choices": [
+        "Une guerre qui ne dure qu’un seul jour",
+        "Une guerre qui mobilise toute la société, militaires et civils",
+        "Une guerre qui n’oppose que des soldats"
+      ],
+      "correct_index": 1,
+      "explanation": "Dans une guerre totale, tous les moyens d’un pays, hommes, économie et population, sont mis au service de la guerre."
+    },
+    {
+      "prompt": "Où vivent de nombreux soldats sur le front de l’Ouest ?",
+      "choices": [
+        "Dans des tranchées",
+        "Dans des hôtels",
+        "Dans des châteaux"
+      ],
+      "correct_index": 0,
+      "explanation": "Les armées s’enterrent dans des tranchées, où les soldats vivent dans la boue et le froid."
+    },
+    {
+      "prompt": "Quel rôle ont beaucoup de femmes pendant la guerre ?",
+      "choices": [
+        "Elles travaillent dans les champs et les usines pendant que les hommes sont au front",
+        "Elles restent sans activité",
+        "Elles partent toutes combattre en première ligne"
+      ],
+      "correct_index": 0,
+      "explanation": "Les femmes remplacent en partie les hommes mobilisés dans les champs, les commerces et les usines, notamment celles d’armement."
+    },
+    {
+      "prompt": "Quel génocide a lieu en 1915 dans l’Empire ottoman ?",
+      "choices": [
+        "Celui des Arméniens",
+        "Celui des Grecs de Crète",
+        "Celui des Anglais"
+      ],
+      "correct_index": 0,
+      "explanation": "En 1915, les Arméniens de l’Empire ottoman sont arrêtés, déportés et massacrés : c’est le génocide des Arméniens."
+    },
+    {
+      "prompt": "Quel jour est signé l’armistice qui met fin aux combats de 1914-1918 ?",
+      "choices": [
+        "Le 14 juillet 1918",
+        "Le 11 novembre 1918",
+        "Le 8 mai 1945"
+      ],
+      "correct_index": 1,
+      "explanation": "L’armistice est signé le 11 novembre 1918. Le 8 mai 1945 correspond à la fin de la guerre en Europe en 1945."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Explique avec tes mots pourquoi on parle de « guerre totale ».",
+      "solution": "On parle de guerre totale parce que toute la société est mobilisée : les militaires combattent et les civils travaillent pour la guerre, à l’arrière comme dans l’économie.",
+      "success_criterion": "Mentionner à la fois les militaires et les civils."
+    },
+    {
+      "prompt": "Cite deux difficultés de la vie des soldats dans les tranchées.",
+      "solution": "Par exemple : la boue et le froid, le bruit des obus, la peur de mourir, la fatigue, les armes très meurtrières.",
+      "success_criterion": "Citer deux difficultés correctes."
+    },
+    {
+      "prompt": "Donne un exemple du travail des civils à l’arrière.",
+      "solution": "Par exemple : des femmes travaillent dans les usines d’armement ou dans les champs à la place des hommes partis au front.",
+      "success_criterion": "Donner un exemple exact lié à l’économie de guerre."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Complète : la Première Guerre mondiale commence en ... et se termine par l’armistice du ... .",
+      "solution": "Elle commence en 1914 et se termine par l’armistice du 11 novembre 1918.",
+      "success_criterion": "Écrire 1914 et 11 novembre 1918."
+    },
+    {
+      "prompt": "Qu’est-ce qu’un génocide ? Donne l’exemple étudié dans ce chapitre.",
+      "solution": "Un génocide est la destruction volontaire et organisée d’un groupe de personnes à cause de ce qu’il est. Exemple : le génocide des Arméniens en 1915, dans l’Empire ottoman.",
+      "success_criterion": "Définir le mot et citer le génocide des Arméniens (1915)."
+    },
+    {
+      "prompt": "Montre en deux ou trois phrases que la guerre concerne les civils autant que les militaires.",
+      "solution": "Les militaires combattent au front, mais les civils travaillent dans les usines et les champs, soutiennent l’effort de guerre et subissent aussi des violences, des destructions et l’éloignement des proches.",
+      "success_criterion": "Citer au moins un rôle des civils et le relier à la guerre totale."
+    }
+  ],
+  "audio_transcript": "La Première Guerre mondiale commence en mille neuf cent quatorze et se termine par l’armistice du onze novembre mille neuf cent dix-huit. C’est une guerre totale : elle mobilise les militaires comme les civils. Au front, les soldats vivent dans les tranchées et affrontent des armes très meurtrières. À l’arrière, les civils, surtout les femmes, travaillent dans les champs et les usines pour soutenir l’effort de guerre. La guerre provoque aussi des violences extrêmes. En mille neuf cent quinze, dans l’Empire ottoman, a lieu le génocide des Arméniens.",
+  "guided_explanation": "Imagine une famille française en 1916. Le père est soldat dans les tranchées : il vit dans la boue et entend les obus. La mère travaille dans une usine qui fabrique des obus, et les enfants l’aident aux champs. Dans cette même famille, tu vois à la fois un militaire et des civils engagés dans la guerre. C’est cela, une guerre totale : toute la société est concernée. Retiens aussi deux repères : le génocide des Arméniens en 1915 et l’armistice le 11 novembre 1918."
+}

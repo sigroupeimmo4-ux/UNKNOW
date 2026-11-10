@@ -1,0 +1,133 @@
+{
+  "id": "ce2-qm-circuit-electrique",
+  "title": "Le circuit électrique simple",
+  "chapter_id": "ce2-qm-circuit-electrique",
+  "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Nommer les constituants d’un circuit électrique simple et expliquer pourquoi le circuit doit être fermé.",
+    "Distinguer des matériaux conducteurs et isolants et expliquer le rôle de l’interrupteur.",
+    "Citer des règles élémentaires de sécurité avec l’électricité."
+  ],
+  "skill_ids": [
+    "ce2-qm-circuit-electrique-skill-circuit",
+    "ce2-qm-circuit-electrique-skill-conducteurs",
+    "ce2-qm-circuit-electrique-skill-interrupteur"
+  ],
+  "source_locators": [
+    "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Un circuit simple",
+      "text": "Pour allumer une ampoule, on fabrique un circuit électrique avec une pile, des fils et une ampoule. Le courant électrique circule en faisant une boucle : il part d’une borne de la pile, passe dans l’ampoule, puis revient à l’autre borne de la pile. Si la boucle n’a aucune coupure, on dit que le circuit est fermé et l’ampoule s’allume. Si un fil est débranché ou coupé, le circuit est ouvert et l’ampoule reste éteinte."
+    },
+    {
+      "title": "L’interrupteur",
+      "text": "L’interrupteur est placé dans le circuit pour l’ouvrir ou le fermer sans changer les fils. Quand l’interrupteur est fermé, le courant peut passer : l’ampoule brille. Quand il est ouvert, le circuit est coupé : l’ampoule est éteinte. Si une ampoule ne s’allume pas, on cherche la panne : un fil mal branché, une pile usée, une ampoule grillée ou un interrupteur resté ouvert."
+    },
+    {
+      "title": "Conducteurs et isolants",
+      "text": "Le courant électrique passe dans certains matériaux, comme les métaux (le cuivre, le fer, l’aluminium) : ce sont de bons conducteurs. Il ne passe pas dans d’autres matériaux, comme le plastique, le bois, le verre, le caoutchouc ou le tissu : ce sont des isolants. Les fils électriques sont en métal à l’intérieur et recouverts de plastique à l’extérieur. Pour tester un objet, on l’intègre dans un circuit simple : si l’ampoule s’allume, l’objet est conducteur."
+    },
+    {
+      "title": "Piles, secteur et sécurité",
+      "text": "Certains objets fonctionnent avec des piles, comme une lampe de poche. D’autres se branchent sur une prise : ils utilisent le courant du secteur. Le courant du secteur est dangereux. En classe, on fait les expériences uniquement avec des piles. Règles de sécurité : on ne met jamais ses doigts ni un objet dans une prise ; on ne touche pas un appareil électrique avec les mains mouillées ; on garde l’électricité loin de l’eau ; on n’ouvre pas les piles."
+    }
+  ],
+  "revision_sheet": [
+    "Un circuit simple contient une pile, des fils et une ampoule ; l’ampoule s’allume si le circuit est fermé (boucle sans coupure).",
+    "L’interrupteur permet d’ouvrir ou de fermer le circuit.",
+    "Les métaux sont de bons conducteurs ; le plastique, le bois, le verre et le caoutchouc sont des isolants.",
+    "Les fils sont en métal à l’intérieur et recouverts de plastique isolant.",
+    "Le courant du secteur est dangereux : en classe, on utilise des piles et on ne touche jamais aux prises."
+  ],
+  "quiz": [
+    {
+      "prompt": "Pour que l’ampoule s’allume, le circuit doit être :",
+      "choices": [
+        "Ouvert",
+        "Fermé",
+        "Sans pile"
+      ],
+      "correct_index": 1,
+      "explanation": "L’ampoule s’allume quand le courant peut faire une boucle complète : le circuit doit être fermé."
+    },
+    {
+      "prompt": "Quel matériau est un bon conducteur du courant électrique ?",
+      "choices": [
+        "Le bois",
+        "Le verre",
+        "Le cuivre"
+      ],
+      "correct_index": 2,
+      "explanation": "Le cuivre est un métal : il conduit le courant. Le bois et le verre sont des isolants."
+    },
+    {
+      "prompt": "Quel est le rôle d’un interrupteur ?",
+      "choices": [
+        "Ouvrir ou fermer le circuit",
+        "Fournir l’électricité",
+        "Produire la lumière"
+      ],
+      "correct_index": 0,
+      "explanation": "L’interrupteur ouvre ou ferme le circuit. C’est la pile qui fournit l’énergie électrique et l’ampoule qui produit la lumière."
+    },
+    {
+      "prompt": "Pourquoi les fils électriques sont-ils recouverts de plastique ?",
+      "choices": [
+        "Pour qu’ils brillent",
+        "Parce que le plastique est isolant et protège de l’électricité",
+        "Parce que le plastique conduit mieux le courant"
+      ],
+      "correct_index": 1,
+      "explanation": "Le plastique est un isolant : le courant ne passe pas à travers et on peut tenir le fil sans toucher le métal."
+    },
+    {
+      "prompt": "Quelle règle de sécurité est correcte ?",
+      "choices": [
+        "Je ne mets jamais mes doigts ni un objet dans une prise",
+        "Je touche un appareil branché avec les mains mouillées",
+        "Je fais mes expériences avec une prise du mur"
+      ],
+      "correct_index": 0,
+      "explanation": "Le courant du secteur est dangereux : on ne touche jamais à l’intérieur d’une prise, et on garde les appareils loin de l’eau."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Un circuit simple est monté avec une pile, des fils et une ampoule, mais l’ampoule ne s’allume pas. Donne deux causes possibles.",
+      "solution": "Par exemple : un fil est mal branché ou coupé ; la pile est usée ; l’ampoule est grillée ; l’interrupteur est ouvert.",
+      "success_criterion": "Donner deux causes possibles et cohérentes avec un circuit ouvert ou un élément défectueux."
+    },
+    {
+      "prompt": "Classe en conducteur ou isolant : un clou en fer, une gomme, une cuillère en métal, une règle en plastique.",
+      "solution": "Le clou en fer et la cuillère en métal sont conducteurs. La gomme et la règle en plastique sont isolantes.",
+      "success_criterion": "Classer correctement les quatre objets."
+    },
+    {
+      "prompt": "L’interrupteur d’un circuit est ouvert. L’ampoule est-elle allumée ou éteinte ? Pourquoi ?",
+      "solution": "Elle est éteinte, parce que le circuit est coupé : le courant ne peut pas faire sa boucle.",
+      "success_criterion": "Répondre « éteinte » et dire que le circuit est ouvert."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Comment peux-tu tester si un objet est conducteur avec un circuit simple ?",
+      "solution": "On place l’objet dans le circuit, à la place d’un morceau de fil. Si l’ampoule s’allume, l’objet est conducteur. Si elle reste éteinte, il est isolant.",
+      "success_criterion": "Décrire un montage où l’objet est intégré au circuit et conclure selon que l’ampoule s’allume ou non."
+    },
+    {
+      "prompt": "Pourquoi n’utilise-t-on que des piles, et jamais une prise, pour les expériences en classe ?",
+      "solution": "Le courant du secteur (prise) est dangereux et peut blesser gravement. Avec des piles, on peut expérimenter en sécurité.",
+      "success_criterion": "Dire que le courant du secteur est dangereux et que les piles permettent d’expérimenter en sécurité."
+    },
+    {
+      "prompt": "Dessine ou décris un circuit simple avec une pile, un interrupteur et une ampoule. Quand l’ampoule s’allume-t-elle ?",
+      "solution": "La pile, l’interrupteur et l’ampoule sont reliés par des fils, en formant une boucle. L’ampoule s’allume quand l’interrupteur est fermé.",
+      "success_criterion": "Décrire une boucle avec les trois éléments et dire que l’ampoule s’allume quand l’interrupteur est fermé."
+    }
+  ],
+  "audio_transcript": "Un circuit électrique simple se compose d’une pile, de fils et d’une ampoule. L’ampoule s’allume quand le circuit est fermé, c’est-à-dire quand le courant fait une boucle sans coupure. L’interrupteur permet d’ouvrir ou de fermer le circuit. Les métaux, comme le cuivre, sont de bons conducteurs. Le plastique, le bois et le verre sont des isolants. En classe, on utilise des piles. Le courant des prises est dangereux : on ne touche jamais aux prises et on garde l’électricité loin de l’eau.",
+  "guided_explanation": "Imagine un circuit comme un circuit de petites voitures : le courant doit pouvoir faire le tour complet, sans route coupée. La pile le pousse, l’ampoule est un arrêt où il fait de la lumière, et les fils sont les routes. Si une route est coupée, rien ne passe : l’ampoule reste éteinte. L’interrupteur est comme un pont-levis : abaissé, le courant passe ; levé, il ne passe plus. Les métaux laissent passer le courant, le plastique le bloque. Et pour ta sécurité : tu fais tes expériences avec des piles, jamais avec une prise."
+}

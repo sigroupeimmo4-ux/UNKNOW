@@ -1,0 +1,1012 @@
+{
+  "programs": [
+    {
+      "id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CE2",
+      "subject_id": "questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/88/5/ensel714_annexe1_1312885.pdf",
+        "title": "Questionner le monde : questionner l’espace et le temps",
+        "text_reference": "Questionner le monde : questionner l’espace et le temps (BO n° 31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "a4c0900b4d9127391f2c096bfc3c2d6460d9432b8f0cdce87b2bae16bcd5f881",
+        "source_id": "a66e61ec073fff71"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "se-situer-dans-l-espace",
+          "title": "Se situer dans l’espace",
+          "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "ce2-qm-espace-cartes",
+              "title": "Se repérer dans l’espace : positions, plans et cartes",
+              "title_type": "editorial",
+              "official_section": "Se situer dans l’espace",
+              "notions": [
+                "Vocabulaire de position et de déplacement",
+                "Points cardinaux : nord, sud, est, ouest",
+                "Éléments d’une carte : titre, échelle, orientation, légende",
+                "Globe et planisphère : la France, l’Europe, les continents et les océans"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-qm-espace-cartes-knowledge-vocabulaire",
+                  "text": "Pour se repérer, on utilise un vocabulaire de position (gauche, droite, au-dessus, en dessous, devant, derrière, près, loin, nord, sud, est, ouest) et de déplacement (avancer, reculer, tourner à droite ou à gauche, monter, descendre).",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-espace-cartes-knowledge-carte",
+                  "text": "Une carte comporte des éléments constitutifs : un titre, une échelle, une orientation et une légende ; on peut y prélever des informations.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-espace-cartes-knowledge-globe",
+                  "text": "Le globe et les cartes du monde permettent de situer les pays, les continents et les océans, et de repérer la France et l’Europe.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-qm-espace-cartes-skill-position",
+                  "text": "Situer des objets ou des personnes les uns par rapport aux autres avec le vocabulaire de position et de déplacement.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-espace-cartes-skill-carte",
+                  "text": "Lire un plan ou une carte et prélever des informations en s’appuyant sur le titre, l’échelle, l’orientation et la légende.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-espace-cartes-skill-globe",
+                  "text": "Situer la France, l’Europe et les autres continents sur une carte ou un globe.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "se-situer-dans-le-temps",
+          "title": "Se situer dans le temps",
+          "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "ce2-qm-temps-durees",
+              "title": "Se repérer dans le temps : rythmes, calendrier et durées",
+              "title_type": "editorial",
+              "official_section": "Se situer dans le temps",
+              "notions": [
+                "Rythmes cycliques : jour et nuit, semaines, mois, saisons",
+                "Lire l’heure et les dates",
+                "Unités de durée et relations entre elles",
+                "Avant, après, pendant : calendrier et frise chronologique"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-qm-temps-durees-knowledge-rythmes",
+                  "text": "Le temps a des rythmes cycliques : l’alternance du jour et de la nuit, les jours de la semaine, les mois et les saisons reviennent régulièrement. La journée est divisée en heures et la semaine en jours.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-temps-durees-knowledge-unites",
+                  "text": "Les unités usuelles de durée sont la seconde, la minute, l’heure, le jour, la semaine, le mois, l’année, le siècle et le millénaire ; il existe des relations entre ces unités.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-temps-durees-knowledge-situer",
+                  "text": "On situe des événements les uns par rapport aux autres (avant, après, pendant) à l’aide de calendriers et de frises chronologiques ; le temps qui passe est irréversible.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-qm-temps-durees-skill-rythmes",
+                  "text": "Identifier les rythmes cycliques du temps et lire l’heure et les dates.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-temps-durees-skill-durees",
+                  "text": "Comparer, estimer et mesurer des durées avec les unités usuelles et connaître les relations entre ces unités.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-temps-durees-skill-situer",
+                  "text": "Situer des événements les uns par rapport aux autres sur un calendrier ou une frise chronologique.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    },
+    {
+      "id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "version": "2026-2027-reference-1",
+      "scope_id": "CE2",
+      "subject_id": "questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "teaching_type": "commun",
+      "variant": "",
+      "source": {
+        "url": "https://cache.media.education.gouv.fr/file/31/88/5/ensel714_annexe1_1312885.pdf",
+        "title": "Questionner le monde : questionner le monde du vivant,",
+        "text_reference": "Questionner le monde : questionner le monde du vivant, de la matière et des objets (BO n°31 du 30 juillet 2020)",
+        "published_on": "2020-07-30",
+        "checked_on": "2026-10-29",
+        "sha256": "a4c0900b4d9127391f2c096bfc3c2d6460d9432b8f0cdce87b2bae16bcd5f881",
+        "source_id": "a66e61ec073fff71"
+      },
+      "effective_from": "2020-09-01",
+      "effective_until": null,
+      "reference_status": "verified",
+      "review_status": "partial",
+      "coverage_status": "partial",
+      "domains": [
+        {
+          "id": "la-matiere",
+          "title": "Qu’est-ce que la matière ?",
+          "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "ce2-qm-etats-eau",
+              "title": "Les états de l’eau et de la matière",
+              "title_type": "editorial",
+              "official_section": "Qu’est-ce que la matière ?",
+              "notions": [
+                "Solides, liquides et gaz",
+                "Existence de l’air",
+                "Les états de l’eau : liquide, glace, vapeur d’eau",
+                "Changements d’état : fusion, solidification, condensation"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-qm-etats-eau-knowledge-etats",
+                  "text": "La matière existe sous trois états : solide, liquide et gaz, qui ont des propriétés différentes.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-etats-eau-knowledge-eau",
+                  "text": "L’eau existe à l’état liquide, à l’état solide (glace) et à l’état gazeux (vapeur d’eau) ; elle change d’état par fusion, solidification et condensation.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-etats-eau-knowledge-air",
+                  "text": "L’air existe, il prend de la place et peut être comprimé (matérialité et compressibilité de l’air).",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-qm-etats-eau-skill-etats",
+                  "text": "Identifier les trois états de la matière et quelques propriétés des solides, des liquides et des gaz.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-etats-eau-skill-changements",
+                  "text": "Reconnaître les états de l’eau et ses changements d’état dans des phénomènes de la vie quotidienne et dans des phénomènes naturels.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-etats-eau-skill-air",
+                  "text": "Mettre en évidence l’existence de l’air par des expériences simples.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "objets-techniques-circuits",
+          "title": "Les objets techniques : circuits électriques simples",
+          "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "ce2-qm-circuit-electrique",
+              "title": "Le circuit électrique simple",
+              "title_type": "editorial",
+              "official_section": "Les objets techniques : réaliser quelques objets et circuits électriques simples",
+              "notions": [
+                "Constituants d’un circuit électrique simple",
+                "Rôle de l’interrupteur",
+                "Bons conducteurs et isolants",
+                "Piles, courant du secteur et règles élémentaires de sécurité"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-qm-circuit-electrique-knowledge-circuit",
+                  "text": "Un circuit électrique simple est formé d’une source d’énergie (pile), de fils et d’un objet comme une ampoule ; l’interrupteur sert à ouvrir ou à fermer le circuit.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-circuit-electrique-knowledge-materiaux",
+                  "text": "Certains matériaux, comme les métaux, sont de bons conducteurs du courant électrique ; d’autres, comme le plastique, sont des isolants.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-circuit-electrique-knowledge-securite",
+                  "text": "Des objets sont alimentés par des piles, d’autres par le courant du secteur ; il faut respecter des règles élémentaires de sécurité.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-qm-circuit-electrique-skill-circuit",
+                  "text": "Réaliser un circuit électrique simple en suivant un schéma de montage, en respectant les règles élémentaires de sécurité.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-circuit-electrique-skill-conducteurs",
+                  "text": "Distinguer des matériaux bons conducteurs et isolants vis-à-vis du courant électrique.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-qm-circuit-electrique-skill-interrupteur",
+                  "text": "Connaître le rôle de l’interrupteur et différencier des objets alimentés par des piles ou par le courant du secteur.",
+                  "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+            }
+          ]
+        }
+      ],
+      "legal_source": {
+        "url": "https://www.education.gouv.fr/bo/20/Hebdo31/MENE2018714A.htm",
+        "source_id": "7b8272bca664386f",
+        "text_reference": "MENE2018714A.htm",
+        "locator": "Article 3, confirmé par le tableau Éduscol 2026-2027 pour cette classe et matière"
+      },
+      "effective_from_basis": "school_year_start_normalized"
+    }
+  ],
+  "contents": [
+    {
+      "id": "ce2-qm-espace-cartes-course",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-espace-cartes"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Utiliser le vocabulaire de position et de déplacement pour situer un objet ou décrire un trajet.",
+        "Nommer les quatre éléments d’une carte (titre, échelle, orientation, légende) et dire à quoi ils servent.",
+        "Situer la France, l’Europe et les autres continents sur un globe ou un planisphère."
+      ],
+      "skill_ids": [
+        "ce2-qm-espace-cartes-skill-position",
+        "ce2-qm-espace-cartes-skill-carte",
+        "ce2-qm-espace-cartes-skill-globe"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-espace-cartes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-espace-cartes-revision_sheet",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-espace-cartes"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Utiliser le vocabulaire de position et de déplacement pour situer un objet ou décrire un trajet.",
+        "Nommer les quatre éléments d’une carte (titre, échelle, orientation, légende) et dire à quoi ils servent.",
+        "Situer la France, l’Europe et les autres continents sur un globe ou un planisphère."
+      ],
+      "skill_ids": [
+        "ce2-qm-espace-cartes-skill-position",
+        "ce2-qm-espace-cartes-skill-carte",
+        "ce2-qm-espace-cartes-skill-globe"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-espace-cartes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-espace-cartes-quiz",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-espace-cartes"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Utiliser le vocabulaire de position et de déplacement pour situer un objet ou décrire un trajet.",
+        "Nommer les quatre éléments d’une carte (titre, échelle, orientation, légende) et dire à quoi ils servent.",
+        "Situer la France, l’Europe et les autres continents sur un globe ou un planisphère."
+      ],
+      "skill_ids": [
+        "ce2-qm-espace-cartes-skill-position",
+        "ce2-qm-espace-cartes-skill-carte",
+        "ce2-qm-espace-cartes-skill-globe"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-espace-cartes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-espace-cartes-exercise",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-espace-cartes"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Utiliser le vocabulaire de position et de déplacement pour situer un objet ou décrire un trajet.",
+        "Nommer les quatre éléments d’une carte (titre, échelle, orientation, légende) et dire à quoi ils servent.",
+        "Situer la France, l’Europe et les autres continents sur un globe ou un planisphère."
+      ],
+      "skill_ids": [
+        "ce2-qm-espace-cartes-skill-position",
+        "ce2-qm-espace-cartes-skill-carte",
+        "ce2-qm-espace-cartes-skill-globe"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-espace-cartes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-espace-cartes-assessment",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-espace-cartes"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Utiliser le vocabulaire de position et de déplacement pour situer un objet ou décrire un trajet.",
+        "Nommer les quatre éléments d’une carte (titre, échelle, orientation, légende) et dire à quoi ils servent.",
+        "Situer la France, l’Europe et les autres continents sur un globe ou un planisphère."
+      ],
+      "skill_ids": [
+        "ce2-qm-espace-cartes-skill-position",
+        "ce2-qm-espace-cartes-skill-carte",
+        "ce2-qm-espace-cartes-skill-globe"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-espace-cartes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-espace-cartes-audio",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-espace-cartes"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Utiliser le vocabulaire de position et de déplacement pour situer un objet ou décrire un trajet.",
+        "Nommer les quatre éléments d’une carte (titre, échelle, orientation, légende) et dire à quoi ils servent.",
+        "Situer la France, l’Europe et les autres continents sur un globe ou un planisphère."
+      ],
+      "skill_ids": [
+        "ce2-qm-espace-cartes-skill-position",
+        "ce2-qm-espace-cartes-skill-carte",
+        "ce2-qm-espace-cartes-skill-globe"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-espace-cartes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-espace-cartes-assistant_explanation",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-espace-cartes"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Utiliser le vocabulaire de position et de déplacement pour situer un objet ou décrire un trajet.",
+        "Nommer les quatre éléments d’une carte (titre, échelle, orientation, légende) et dire à quoi ils servent.",
+        "Situer la France, l’Europe et les autres continents sur un globe ou un planisphère."
+      ],
+      "skill_ids": [
+        "ce2-qm-espace-cartes-skill-position",
+        "ce2-qm-espace-cartes-skill-carte",
+        "ce2-qm-espace-cartes-skill-globe"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans l’espace, pages 50–51 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-espace-cartes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-temps-durees-course",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-temps-durees"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître des rythmes cycliques (jour et nuit, semaine, mois, saisons).",
+        "Lire l’heure et utiliser les relations entre les unités de durée usuelles.",
+        "Situer des événements avant, après ou pendant d’autres sur un calendrier ou une frise chronologique."
+      ],
+      "skill_ids": [
+        "ce2-qm-temps-durees-skill-rythmes",
+        "ce2-qm-temps-durees-skill-durees",
+        "ce2-qm-temps-durees-skill-situer"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-temps-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-temps-durees-revision_sheet",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-temps-durees"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître des rythmes cycliques (jour et nuit, semaine, mois, saisons).",
+        "Lire l’heure et utiliser les relations entre les unités de durée usuelles.",
+        "Situer des événements avant, après ou pendant d’autres sur un calendrier ou une frise chronologique."
+      ],
+      "skill_ids": [
+        "ce2-qm-temps-durees-skill-rythmes",
+        "ce2-qm-temps-durees-skill-durees",
+        "ce2-qm-temps-durees-skill-situer"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-temps-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-temps-durees-quiz",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-temps-durees"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître des rythmes cycliques (jour et nuit, semaine, mois, saisons).",
+        "Lire l’heure et utiliser les relations entre les unités de durée usuelles.",
+        "Situer des événements avant, après ou pendant d’autres sur un calendrier ou une frise chronologique."
+      ],
+      "skill_ids": [
+        "ce2-qm-temps-durees-skill-rythmes",
+        "ce2-qm-temps-durees-skill-durees",
+        "ce2-qm-temps-durees-skill-situer"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-temps-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-temps-durees-exercise",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-temps-durees"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître des rythmes cycliques (jour et nuit, semaine, mois, saisons).",
+        "Lire l’heure et utiliser les relations entre les unités de durée usuelles.",
+        "Situer des événements avant, après ou pendant d’autres sur un calendrier ou une frise chronologique."
+      ],
+      "skill_ids": [
+        "ce2-qm-temps-durees-skill-rythmes",
+        "ce2-qm-temps-durees-skill-durees",
+        "ce2-qm-temps-durees-skill-situer"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-temps-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-temps-durees-assessment",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-temps-durees"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître des rythmes cycliques (jour et nuit, semaine, mois, saisons).",
+        "Lire l’heure et utiliser les relations entre les unités de durée usuelles.",
+        "Situer des événements avant, après ou pendant d’autres sur un calendrier ou une frise chronologique."
+      ],
+      "skill_ids": [
+        "ce2-qm-temps-durees-skill-rythmes",
+        "ce2-qm-temps-durees-skill-durees",
+        "ce2-qm-temps-durees-skill-situer"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-temps-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-temps-durees-audio",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-temps-durees"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître des rythmes cycliques (jour et nuit, semaine, mois, saisons).",
+        "Lire l’heure et utiliser les relations entre les unités de durée usuelles.",
+        "Situer des événements avant, après ou pendant d’autres sur un calendrier ou une frise chronologique."
+      ],
+      "skill_ids": [
+        "ce2-qm-temps-durees-skill-rythmes",
+        "ce2-qm-temps-durees-skill-durees",
+        "ce2-qm-temps-durees-skill-situer"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-temps-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-temps-durees-assistant_explanation",
+      "program_id": "CE2-questionner-le-monde-questionner-lespace-et-le-temps-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-temps-durees"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître des rythmes cycliques (jour et nuit, semaine, mois, saisons).",
+        "Lire l’heure et utiliser les relations entre les unités de durée usuelles.",
+        "Situer des événements avant, après ou pendant d’autres sur un calendrier ou une frise chronologique."
+      ],
+      "skill_ids": [
+        "ce2-qm-temps-durees-skill-rythmes",
+        "ce2-qm-temps-durees-skill-durees",
+        "ce2-qm-temps-durees-skill-situer"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner l’espace et le temps / Se situer dans le temps, pages 51–52 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-temps-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-etats-eau-course",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-etats-eau"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer un solide, un liquide et un gaz.",
+        "Nommer les trois états de l’eau et les changements d’état fusion, solidification et condensation.",
+        "Expliquer par une expérience simple que l’air existe et prend de la place."
+      ],
+      "skill_ids": [
+        "ce2-qm-etats-eau-skill-etats",
+        "ce2-qm-etats-eau-skill-changements",
+        "ce2-qm-etats-eau-skill-air"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-etats-eau.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-etats-eau-revision_sheet",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-etats-eau"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer un solide, un liquide et un gaz.",
+        "Nommer les trois états de l’eau et les changements d’état fusion, solidification et condensation.",
+        "Expliquer par une expérience simple que l’air existe et prend de la place."
+      ],
+      "skill_ids": [
+        "ce2-qm-etats-eau-skill-etats",
+        "ce2-qm-etats-eau-skill-changements",
+        "ce2-qm-etats-eau-skill-air"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-etats-eau.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-etats-eau-quiz",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-etats-eau"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer un solide, un liquide et un gaz.",
+        "Nommer les trois états de l’eau et les changements d’état fusion, solidification et condensation.",
+        "Expliquer par une expérience simple que l’air existe et prend de la place."
+      ],
+      "skill_ids": [
+        "ce2-qm-etats-eau-skill-etats",
+        "ce2-qm-etats-eau-skill-changements",
+        "ce2-qm-etats-eau-skill-air"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-etats-eau.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-etats-eau-exercise",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-etats-eau"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer un solide, un liquide et un gaz.",
+        "Nommer les trois états de l’eau et les changements d’état fusion, solidification et condensation.",
+        "Expliquer par une expérience simple que l’air existe et prend de la place."
+      ],
+      "skill_ids": [
+        "ce2-qm-etats-eau-skill-etats",
+        "ce2-qm-etats-eau-skill-changements",
+        "ce2-qm-etats-eau-skill-air"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-etats-eau.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-etats-eau-assessment",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-etats-eau"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer un solide, un liquide et un gaz.",
+        "Nommer les trois états de l’eau et les changements d’état fusion, solidification et condensation.",
+        "Expliquer par une expérience simple que l’air existe et prend de la place."
+      ],
+      "skill_ids": [
+        "ce2-qm-etats-eau-skill-etats",
+        "ce2-qm-etats-eau-skill-changements",
+        "ce2-qm-etats-eau-skill-air"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-etats-eau.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-etats-eau-audio",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-etats-eau"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer un solide, un liquide et un gaz.",
+        "Nommer les trois états de l’eau et les changements d’état fusion, solidification et condensation.",
+        "Expliquer par une expérience simple que l’air existe et prend de la place."
+      ],
+      "skill_ids": [
+        "ce2-qm-etats-eau-skill-etats",
+        "ce2-qm-etats-eau-skill-changements",
+        "ce2-qm-etats-eau-skill-air"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-etats-eau.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-etats-eau-assistant_explanation",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-etats-eau"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer un solide, un liquide et un gaz.",
+        "Nommer les trois états de l’eau et les changements d’état fusion, solidification et condensation.",
+        "Expliquer par une expérience simple que l’air existe et prend de la place."
+      ],
+      "skill_ids": [
+        "ce2-qm-etats-eau-skill-etats",
+        "ce2-qm-etats-eau-skill-changements",
+        "ce2-qm-etats-eau-skill-air"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Qu’est-ce que la matière ?, page 47 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-etats-eau.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-circuit-electrique-course",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-circuit-electrique"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Nommer les constituants d’un circuit électrique simple et expliquer pourquoi le circuit doit être fermé.",
+        "Distinguer des matériaux conducteurs et isolants et expliquer le rôle de l’interrupteur.",
+        "Citer des règles élémentaires de sécurité avec l’électricité."
+      ],
+      "skill_ids": [
+        "ce2-qm-circuit-electrique-skill-circuit",
+        "ce2-qm-circuit-electrique-skill-conducteurs",
+        "ce2-qm-circuit-electrique-skill-interrupteur"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-circuit-electrique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-circuit-electrique-revision_sheet",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-circuit-electrique"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Nommer les constituants d’un circuit électrique simple et expliquer pourquoi le circuit doit être fermé.",
+        "Distinguer des matériaux conducteurs et isolants et expliquer le rôle de l’interrupteur.",
+        "Citer des règles élémentaires de sécurité avec l’électricité."
+      ],
+      "skill_ids": [
+        "ce2-qm-circuit-electrique-skill-circuit",
+        "ce2-qm-circuit-electrique-skill-conducteurs",
+        "ce2-qm-circuit-electrique-skill-interrupteur"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-circuit-electrique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-circuit-electrique-quiz",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-circuit-electrique"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Nommer les constituants d’un circuit électrique simple et expliquer pourquoi le circuit doit être fermé.",
+        "Distinguer des matériaux conducteurs et isolants et expliquer le rôle de l’interrupteur.",
+        "Citer des règles élémentaires de sécurité avec l’électricité."
+      ],
+      "skill_ids": [
+        "ce2-qm-circuit-electrique-skill-circuit",
+        "ce2-qm-circuit-electrique-skill-conducteurs",
+        "ce2-qm-circuit-electrique-skill-interrupteur"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-circuit-electrique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-circuit-electrique-exercise",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-circuit-electrique"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Nommer les constituants d’un circuit électrique simple et expliquer pourquoi le circuit doit être fermé.",
+        "Distinguer des matériaux conducteurs et isolants et expliquer le rôle de l’interrupteur.",
+        "Citer des règles élémentaires de sécurité avec l’électricité."
+      ],
+      "skill_ids": [
+        "ce2-qm-circuit-electrique-skill-circuit",
+        "ce2-qm-circuit-electrique-skill-conducteurs",
+        "ce2-qm-circuit-electrique-skill-interrupteur"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-circuit-electrique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-circuit-electrique-assessment",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-circuit-electrique"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Nommer les constituants d’un circuit électrique simple et expliquer pourquoi le circuit doit être fermé.",
+        "Distinguer des matériaux conducteurs et isolants et expliquer le rôle de l’interrupteur.",
+        "Citer des règles élémentaires de sécurité avec l’électricité."
+      ],
+      "skill_ids": [
+        "ce2-qm-circuit-electrique-skill-circuit",
+        "ce2-qm-circuit-electrique-skill-conducteurs",
+        "ce2-qm-circuit-electrique-skill-interrupteur"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-circuit-electrique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-circuit-electrique-audio",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-circuit-electrique"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Nommer les constituants d’un circuit électrique simple et expliquer pourquoi le circuit doit être fermé.",
+        "Distinguer des matériaux conducteurs et isolants et expliquer le rôle de l’interrupteur.",
+        "Citer des règles élémentaires de sécurité avec l’électricité."
+      ],
+      "skill_ids": [
+        "ce2-qm-circuit-electrique-skill-circuit",
+        "ce2-qm-circuit-electrique-skill-conducteurs",
+        "ce2-qm-circuit-electrique-skill-interrupteur"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-circuit-electrique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-qm-circuit-electrique-assistant_explanation",
+      "program_id": "CE2-questionner-le-monde-questionner-le-monde-du-vivant-de-la-matiere-et-des-objets-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-qm-circuit-electrique"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Nommer les constituants d’un circuit électrique simple et expliquer pourquoi le circuit doit être fermé.",
+        "Distinguer des matériaux conducteurs et isolants et expliquer le rôle de l’interrupteur.",
+        "Citer des règles élémentaires de sécurité avec l’électricité."
+      ],
+      "skill_ids": [
+        "ce2-qm-circuit-electrique-skill-circuit",
+        "ce2-qm-circuit-electrique-skill-conducteurs",
+        "ce2-qm-circuit-electrique-skill-interrupteur"
+      ],
+      "source_locators": [
+        "Programme de Questionner le monde du cycle 2 (BO n° 31 du 30 juillet 2020), Questionner le monde du vivant, de la matière et des objets / Les objets techniques, page 49 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-qm-circuit-electrique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (faits, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}
