@@ -1,0 +1,133 @@
+{
+  "id": "cm2-b-plus-que-parfait-passe-simple",
+  "title": "Le plus-que-parfait et le passé simple",
+  "chapter_id": "cm2-b-plus-que-parfait-passe-simple",
+  "program_id": "CM2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Former le plus-que-parfait avec l’auxiliaire avoir ou être à l’imparfait.",
+    "Accorder le participe passé avec le sujet quand l’auxiliaire est être et placer la négation.",
+    "Employer le plus-que-parfait pour une action antérieure à une autre action passée.",
+    "Écrire le passé simple à la troisième personne de quelques verbes fréquents."
+  ],
+  "skill_ids": [
+    "cm2-b-plus-que-parfait-passe-simple-composition",
+    "cm2-b-plus-que-parfait-passe-simple-passe-simple"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Former le plus-que-parfait",
+      "text": "Le plus-que-parfait est un temps composé : on le forme avec l’auxiliaire avoir ou être à l’imparfait, suivi du participe passé. Avec avoir : j’avais chanté, tu avais chanté, il avait chanté, nous avions chanté, vous aviez chanté, ils avaient chanté. Avec être : j’étais parti(e), tu étais parti(e), il était parti, nous étions partis, vous étiez partis, elles étaient parties. Pour trouver l’auxiliaire, on retrouve l’infinitif du verbe : arriver se conjugue avec être, manger avec avoir."
+    },
+    {
+      "title": "Accord et négation",
+      "text": "Avec l’auxiliaire être, le participe passé s’accorde avec le sujet : « Elles étaient parties », « Il était arrivé ». Avec l’auxiliaire avoir, il ne s’accorde pas avec le sujet. À la forme négative, les mots de négation entourent l’auxiliaire : « Il n’avait pas fini », « Elle n’était jamais venue »."
+    },
+    {
+      "title": "Pourquoi employer le plus-que-parfait ?",
+      "text": "Le plus-que-parfait exprime une action passée qui s’est produite avant une autre action passée. Dans « Quand nous sommes arrivés, le spectacle avait déjà commencé », le spectacle a commencé avant notre arrivée. Dans un récit au passé simple : « Elle ouvrit la boîte que son frère avait cachée » : ouvrit est l’action principale, avait cachée est une action antérieure."
+    },
+    {
+      "title": "Le passé simple à la troisième personne",
+      "text": "Le passé simple est un temps du récit écrit. À la troisième personne : verbes en -er : il chanta, ils chantèrent ; il alla, ils allèrent. Verbes comme finir : il finit, ils finirent. Avoir : il eut, ils eurent. Être : il fut, ils furent. Quelques verbes du 3e groupe : faire : il fit, ils firent ; dire : il dit, ils dirent ; prendre : il prit, ils prirent ; voir : il vit, ils virent ; venir : il vint, ils vinrent ; pouvoir : il put, ils purent. Exemple : « Le roi prit son épée et vint vers le dragon. »"
+    }
+  ],
+  "revision_sheet": [
+    "Plus-que-parfait = auxiliaire avoir ou être à l’imparfait + participe passé : il avait fini, elles étaient parties.",
+    "Avec être, le participe passé s’accorde avec le sujet ; avec avoir, pas avec le sujet.",
+    "Forme négative : Il n’avait pas fini. Elle n’était jamais venue.",
+    "Le plus-que-parfait dit ce qui s’est passé avant une autre action passée.",
+    "Passé simple (3e personne) : il chanta, ils chantèrent ; il finit ; il fut ; il eut ; il fit ; il prit."
+  ],
+  "quiz": [
+    {
+      "prompt": "Comment forme-t-on le plus-que-parfait ?",
+      "choices": [
+        "avec l’auxiliaire au présent + participe passé",
+        "avec l’auxiliaire au futur + participe passé",
+        "avec l’auxiliaire à l’imparfait + participe passé"
+      ],
+      "correct_index": 2,
+      "explanation": "Le plus-que-parfait se forme avec avoir ou être à l’imparfait, suivi du participe passé : il avait fini, elle était partie."
+    },
+    {
+      "prompt": "Complète : « Quand nous sommes arrivés, le spectacle ... déjà ... (finir). »",
+      "choices": [
+        "avait fini",
+        "a fini",
+        "finissait"
+      ],
+      "correct_index": 0,
+      "explanation": "Le spectacle s’est terminé avant notre arrivée : on emploie le plus-que-parfait, « avait fini »."
+    },
+    {
+      "prompt": "Quelle est la bonne forme du plus-que-parfait de « partir » avec « elles » ?",
+      "choices": [
+        "elles avaient parti",
+        "elles étaient parties",
+        "elles étaient partie"
+      ],
+      "correct_index": 1,
+      "explanation": "Partir se conjugue avec être. Le participe passé s’accorde avec le sujet « elles » : parties."
+    },
+    {
+      "prompt": "Quelle est la forme du passé simple de « chanter » à la 3e personne du pluriel ?",
+      "choices": [
+        "ils chantent",
+        "ils chanteront",
+        "ils chantèrent"
+      ],
+      "correct_index": 2,
+      "explanation": "Au passé simple, les verbes en -er ont la terminaison -èrent à la 3e personne du pluriel : ils chantèrent."
+    },
+    {
+      "prompt": "Quelle phrase est au plus-que-parfait négatif ?",
+      "choices": [
+        "Il n’avait pas fini ses devoirs.",
+        "Il ne finissait pas ses devoirs.",
+        "Il n’a pas fini ses devoirs."
+      ],
+      "correct_index": 0,
+      "explanation": "« N’avait pas fini » : auxiliaire avoir à l’imparfait (avait) entouré de ne … pas, suivi du participe passé."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Conjugue au plus-que-parfait : (nous / manger) ; (tu / arriver, au féminin) ; (ils / prendre).",
+      "solution": "nous avions mangé ; tu étais arrivée ; ils avaient pris.",
+      "success_criterion": "Choisir l’auxiliaire, le mettre à l’imparfait, puis ajouter le participe passé accordé si besoin."
+    },
+    {
+      "prompt": "Écris au passé simple à la 3e personne : (il / finir) ; (elles / être) ; (il / avoir) ; (ils / aller).",
+      "solution": "il finit ; elles furent ; il eut ; ils allèrent.",
+      "success_criterion": "Utiliser les terminaisons du passé simple adaptées à chaque verbe."
+    },
+    {
+      "prompt": "Mets à la forme négative : « Elle était partie. » ; « Nous avions compris. »",
+      "solution": "« Elle n’était pas partie. » ; « Nous n’avions pas compris. »",
+      "success_criterion": "Placer ne devant l’auxiliaire et pas après l’auxiliaire."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Complète avec le passé simple et le plus-que-parfait : « Quand Léa (arriver), ses amis (partir) déjà. »",
+      "solution": "« Quand Léa arriva, ses amis étaient déjà partis. » Le passé simple (arriva) donne l’action principale et le plus-que-parfait (étaient partis) une action antérieure ; partir se conjugue avec être, le participe s’accorde avec « ses amis ».",
+      "success_criterion": "Choisir le bon temps pour chaque action et accorder le participe passé avec être."
+    },
+    {
+      "prompt": "Conjugue les verbes entre parenthèses : « Le voleur (entrer) dans la maison que le gardien (quitter) la veille. »",
+      "solution": "« Le voleur entra dans la maison que le gardien avait quittée la veille. » Entrer est ici au passé simple (action principale), avait quitté au plus-que-parfait (action antérieure). Le participe est écrit « quittée » car le COD « que » (la maison) est placé avant.",
+      "success_criterion": "Distinguer l’action principale de l’action antérieure."
+    },
+    {
+      "prompt": "Explique l’emploi des deux temps dans : « Il ouvrit la porte que son oncle avait fermée la veille. »",
+      "solution": "« ouvrit » est au passé simple : c’est l’action principale du récit. « avait fermée » est au plus-que-parfait : cette action s’est déroulée avant, la veille. Le plus-que-parfait sert à situer une action antérieure à une autre action passée.",
+      "success_criterion": "Justifier le choix des temps par l’ordre des actions."
+    }
+  ],
+  "audio_transcript": "Le plus-que-parfait est un temps composé. On le forme avec l’auxiliaire avoir ou être à l’imparfait, suivi du participe passé : il avait fini, elles étaient parties. Avec être, le participe passé s’accorde avec le sujet. À la forme négative, on place ne et pas autour de l’auxiliaire : il n’avait pas fini. Le plus-que-parfait exprime une action passée qui a eu lieu avant une autre action passée. Le passé simple est le temps du récit écrit : il chanta, ils chantèrent, il finit, il fut, il eut, il fit, il prit.",
+  "guided_explanation": "Imagine une histoire avec une frise du temps. Les actions principales de l’histoire se suivent : Léa arriva, Léa sonna, Léa entra. Mais parfois il faut revenir en arrière : ses amis étaient déjà partis. Cette action est passée avant celles de la frise, donc tu utilises le plus-que-parfait : l’auxiliaire à l’imparfait (étaient) et le participe passé (partis). Pour choisir l’auxiliaire, pense à l’infinitif : partir va avec être, donc le participe s’accorde avec le sujet. Pour manger, c’est avoir : il avait mangé. Pour le passé simple, apprends d’abord les formes de la 3e personne : il chanta, ils chantèrent, il finit, il fut, il eut."
+}

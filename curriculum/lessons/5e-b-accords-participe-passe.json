@@ -1,0 +1,129 @@
+{
+  "id": "5e-b-accords-participe-passe",
+  "title": "Les accords : sujet-verbe dans les cas complexes et participe passé",
+  "chapter_id": "5e-b-accords-participe-passe",
+  "program_id": "5e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Trouver le sujet d’un verbe même séparé de lui par un complément, et accorder le verbe.",
+    "Accorder le verbe quand le sujet comporte plusieurs noms reliés par et.",
+    "Accorder le participe passé employé avec l’auxiliaire être.",
+    "Accorder le participe passé employé avec avoir quand le COD est placé avant, et distinguer COD et COI."
+  ],
+  "skill_ids": [
+    "5e-b-accords-participe-passe-sujet-verbe",
+    "5e-b-accords-participe-passe-participe"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le sujet est loin du verbe",
+      "text": "Le verbe s’accorde toujours avec son sujet, même si un complément s’intercale. Dans « Les enfants du voisin jouent dans le jardin », le sujet est « les enfants » : on le trouve avec « Qui est-ce qui joue ? » ou en remplaçant par un pronom (ils jouent). Le mot « voisin » n’est que le complément du nom et ne commande pas l’accord. De même : « Le chien de mes voisins aboie. » (aboie s’accorde avec chien)."
+    },
+    {
+      "title": "Un sujet à plusieurs noms",
+      "text": "Quand le sujet est formé de plusieurs noms reliés par « et », il peut se remplacer par ils ou elles : le verbe est au pluriel. Exemples : « Léa et Tom chantent. » (ils chantent) ; « Mon frère et mes sœurs aiment la musique. » (ils aiment). On vérifie toujours par la manipulation du remplacement par un pronom."
+    },
+    {
+      "title": "Participe passé avec être",
+      "text": "Avec l’auxiliaire être, le participe passé s’accorde en genre et en nombre avec le sujet : « Elle est tombée. » ; « Ils sont partis. » ; « Les filles sont arrivées. » Il se comporte comme un adjectif qui qualifie le sujet."
+    },
+    {
+      "title": "Participe passé avec avoir",
+      "text": "Avec l’auxiliaire avoir, le participe passé ne s’accorde pas avec le sujet. Il s’accorde avec le COD seulement si ce COD est placé avant le verbe. « Elle a mangé des pommes. » : le COD vient après, donc pas d’accord. « Les pommes qu’elle a mangées étaient bonnes. » : « que » remplace « les pommes » (COD placé avant), féminin pluriel, donc mangées. De même « Je les ai vus » si « les » désigne des garçons, « Je les ai vues » si « les » désigne des filles. Attention au COI : dans « Je leur ai parlé », « leur » est un COI (parler à quelqu’un), donc parlé reste invariable."
+    }
+  ],
+  "revision_sheet": [
+    "Le verbe s’accorde avec le sujet, même éloigné : on cherche « Qui est-ce qui ? » ou on remplace par un pronom.",
+    "Un complément placé entre le sujet et le verbe ne change pas l’accord.",
+    "Sujet formé de noms reliés par « et » : verbe au pluriel.",
+    "Avec être : le participe passé s’accorde avec le sujet.",
+    "Avec avoir : accord avec le COD seulement s’il est placé avant le verbe.",
+    "Le pronom COI (leur, lui) ne provoque pas d’accord : « Je leur ai parlé »."
+  ],
+  "quiz": [
+    {
+      "prompt": "Complète : « Les chats de la voisine (dormir) sur le canapé. »",
+      "choices": [
+        "dort",
+        "dorment",
+        "dormes"
+      ],
+      "correct_index": 1,
+      "explanation": "Le sujet est « les chats » (ils dorment) ; « de la voisine » est un complément du nom."
+    },
+    {
+      "prompt": "Complète : « Mes amies sont (arriver) ce matin. »",
+      "choices": [
+        "arrivé",
+        "arrivées",
+        "arrivés"
+      ],
+      "correct_index": 1,
+      "explanation": "Avec être, le participe passé s’accorde avec le sujet « mes amies », féminin pluriel : arrivées."
+    },
+    {
+      "prompt": "Complète : « Les pommes que Zoé a (manger) étaient délicieuses. »",
+      "choices": [
+        "mangé",
+        "mangés",
+        "mangées"
+      ],
+      "correct_index": 2,
+      "explanation": "Avec avoir, le participe s’accorde avec le COD placé avant : « que » remplace « les pommes », féminin pluriel : mangées."
+    },
+    {
+      "prompt": "Complète : « Mon frère et ma sœur (aimer) la musique. »",
+      "choices": [
+        "aiment",
+        "aime",
+        "aimes"
+      ],
+      "correct_index": 0,
+      "explanation": "Le sujet « mon frère et ma sœur » peut se remplacer par ils : le verbe est au pluriel (aiment)."
+    },
+    {
+      "prompt": "Complète : « Je leur ai (parler). »",
+      "choices": [
+        "parlés",
+        "parlé",
+        "parlées"
+      ],
+      "correct_index": 1,
+      "explanation": "« leur » est un COI (parler à quelqu’un), donc le participe passé reste invariable : parlé."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Accorde le verbe : a) Les élèves de la classe (chanter) en chœur. b) La voiture de mes parents (être) en panne. c) Mon cousin et sa voisine (jouer) ensemble.",
+      "solution": "a) chantent (sujet : les élèves) ; b) est (sujet : la voiture) ; c) jouent (sujet : mon cousin et sa voisine, remplaçable par ils).",
+      "success_criterion": "Identifier le noyau du sujet, puis accorder le verbe avec lui."
+    },
+    {
+      "prompt": "Accorde le participe passé : a) Les filles sont (monter) au grenier. b) Elle a (ouvrir) la fenêtre. c) La lettre que j’ai (écrire) est partie. d) Mes cousines ? Je les ai (voir) hier.",
+      "solution": "a) montées (avec être, accord avec le sujet) ; b) ouvert (le COD « la fenêtre » est placé après) ; c) écrite (« que » = la lettre, COD placé avant, féminin singulier) ; d) vues (« les » = mes cousines, COD placé avant, féminin pluriel).",
+      "success_criterion": "Nommer l’auxiliaire, puis chercher le COD et sa place avant d’accorder."
+    },
+    {
+      "prompt": "Explique l’accord dans « Les histoires que mamie nous a racontées ».",
+      "solution": "Le participe passé « racontées » est employé avec avoir. Le COD « que » remplace « les histoires » ; il est placé avant le verbe, au féminin pluriel : le participe s’accorde donc avec lui.",
+      "success_criterion": "Citer l’auxiliaire avoir, le COD, sa place avant le verbe, son genre et son nombre."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Corrige les erreurs d’accord : « Les élèves de ma classe sont arrivé en retard. La porte que le professeur avait ouvert était grande. »",
+      "solution": "« Les élèves de ma classe sont arrivés en retard. La porte que le professeur avait ouverte était grande. » Avec être, arrivés s’accorde avec le sujet « les élèves ». Avec avoir, ouverte s’accorde avec le COD « que » (= la porte) placé avant.",
+      "success_criterion": "Repérer les deux erreurs, les corriger et justifier chaque accord par l’auxiliaire et le COD ou le sujet."
+    },
+    {
+      "prompt": "Écris trois phrases : une avec un participe passé employé avec être, une avec un participe passé employé avec avoir et un COD placé avant le verbe, une avec un sujet séparé du verbe par un complément.",
+      "solution": "Exemple : « Mes amis sont partis tôt. » ; « Les fleurs que j’ai cueillies sentent bon. » ; « Le chat de mes voisins dort sur le toit. »",
+      "success_criterion": "Respecter chaque consigne et accorder correctement le participe passé et le verbe."
+    }
+  ],
+  "audio_transcript": "Le verbe s’accorde avec son sujet, même quand un complément se glisse entre les deux. Dans les enfants du voisin jouent, le sujet est les enfants. Quand le sujet comporte plusieurs noms reliés par et, le verbe est au pluriel. Avec l’auxiliaire être, le participe passé s’accorde avec le sujet : elles sont parties. Avec l’auxiliaire avoir, le participe passé ne s’accorde pas avec le sujet, mais avec le complément d’objet direct s’il est placé avant le verbe : les pommes que j’ai mangées. Avec un complément d’objet indirect, comme dans je leur ai parlé, le participe passé ne change pas.",
+  "guided_explanation": "Pour accorder le participe passé, pose-toi deux questions dans l’ordre. D’abord : quel est l’auxiliaire ? Si c’est être, accorde avec le sujet, comme un adjectif. Si c’est avoir, cherche le COD : se trouve-t-il avant le verbe ? S’il est après, ou s’il n’y en a pas, pas d’accord. S’il est avant, comme « que » ou « les », accorde avec lui. Fais attention au petit mot « leur » : dans « Je leur ai parlé », c’est un COI, donc rien ne bouge. Pour le sujet éloigné, remplace-le par ils, elle ou il : cela te montre qui commande le verbe."
+}

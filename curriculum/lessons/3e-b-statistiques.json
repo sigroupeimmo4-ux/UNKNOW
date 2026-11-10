@@ -1,0 +1,144 @@
+{
+  "id": "3e-b-statistiques",
+  "title": "Statistiques : effectifs, fréquences, moyenne, médiane et étendue",
+  "chapter_id": "3e-b-statistiques",
+  "program_id": "3e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Calculer des effectifs et des fréquences et les écrire en fraction, en nombre décimal ou en pourcentage.",
+    "Calculer une moyenne, une médiane et une étendue.",
+    "Interpréter ces indicateurs et comparer deux séries."
+  ],
+  "skill_ids": [
+    "3e-b-statistiques-skill-lire",
+    "3e-b-statistiques-skill-frequences",
+    "3e-b-statistiques-skill-indicateurs"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, (« Effectifs, fréquences », « Indicateurs de position : moyenne, médiane », « Indicateur de dispersion : étendue »), page 132 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Organiser des données : effectifs et fréquences",
+      "text": "Une série statistique est une liste de valeurs recueillies sur un groupe (par exemple le nombre de frères et sœurs de 20 élèves). On l’organise dans un tableau. L’effectif d’une valeur est le nombre de fois où elle apparaît ; l’effectif total est la somme des effectifs. La fréquence d’une valeur est son effectif divisé par l’effectif total ; on peut l’écrire en fraction, en nombre décimal ou en pourcentage. Exemple (20 élèves) : 0 frère ou sœur : effectif 3 ; 1 : effectif 8 ; 2 : effectif 6 ; 3 : effectif 2 ; 4 : effectif 1. La fréquence de la valeur 1 est 8/20 = 0,4 = 40 %. Les cinq fréquences (0,15 ; 0,4 ; 0,3 ; 0,1 ; 0,05) ont pour somme 1, soit 100 %. On peut représenter la série par un diagramme en bâtons, un histogramme ou un diagramme circulaire. Dans un diagramme circulaire, l’angle d’un secteur est égal à la fréquence × 360° : pour la valeur 1, 0,4 × 360° = 144°."
+    },
+    {
+      "title": "La moyenne",
+      "text": "La moyenne est la somme de toutes les valeurs divisée par l’effectif total. Avec le tableau précédent : (0 × 3 + 1 × 8 + 2 × 6 + 3 × 2 + 4 × 1) ÷ 20 = (0 + 8 + 12 + 6 + 4) ÷ 20 = 30 ÷ 20 = 1,5. En moyenne, ces élèves ont 1,5 frère ou sœur : la moyenne n’est pas forcément une valeur de la série. Autre exemple avec dix notes : 8, 12, 15, 9, 12, 14, 10, 12, 16, 7. La somme vaut 115 et l’effectif total 10, donc la moyenne est 115 ÷ 10 = 11,5."
+    },
+    {
+      "title": "La médiane et l’étendue",
+      "text": "La médiane partage la série, rangée dans l’ordre croissant, en deux groupes de même effectif. Méthode : on range les valeurs ; si l’effectif total est impair, la médiane est la valeur du milieu ; s’il est pair, c’est le nombre situé au milieu des deux valeurs centrales. Les dix notes rangées sont 7, 8, 9, 10, 12, 12, 12, 14, 15, 16 : les 5e et 6e valeurs sont 12 et 12, donc la médiane est 12. Pour les 20 élèves du tableau, les 10e et 11e valeurs valent toutes les deux 1 : la médiane est 1. L’étendue est la différence entre la plus grande et la plus petite valeur : 16 − 7 = 9 pour les notes, et 4 − 0 = 4 pour le tableau."
+    },
+    {
+      "title": "Interpréter et comparer",
+      "text": "La moyenne et la médiane sont des indicateurs de position (elles disent où se situe « le centre » de la série) ; l’étendue est un indicateur de dispersion (elle dit si les valeurs sont proches ou éloignées). Une valeur très grande ou très petite modifie beaucoup la moyenne mais peu la médiane : pour la série 10, 15, 15, 20, 40, la moyenne est 100 ÷ 5 = 20 et la médiane est 15. Deux séries peuvent avoir la même moyenne et des étendues très différentes : il faut regarder les deux. Pièges fréquents : confondre effectif et fréquence ; oublier de ranger les valeurs avant de chercher la médiane ; diviser par le nombre de lignes du tableau au lieu de l’effectif total."
+    }
+  ],
+  "revision_sheet": [
+    "Effectif : nombre de fois où une valeur apparaît. Effectif total : somme des effectifs.",
+    "Fréquence = effectif ÷ effectif total (fraction, décimal ou pourcentage). La somme des fréquences est égale à 1 (100 %).",
+    "Moyenne = somme des valeurs ÷ effectif total.",
+    "Médiane : on range les valeurs ; effectif impair : valeur du milieu ; effectif pair : milieu des deux valeurs centrales.",
+    "Étendue = plus grande valeur − plus petite valeur.",
+    "Moyenne et médiane : position ; étendue : dispersion. Diagramme circulaire : angle = fréquence × 360°."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans une classe de 24 élèves, 6 élèves vont au collège à vélo. Quelle est la fréquence des élèves venant à vélo ?",
+      "choices": [
+        "0,25",
+        "0,4",
+        "4"
+      ],
+      "correct_index": 0,
+      "explanation": "La fréquence est l’effectif divisé par l’effectif total : 6 ÷ 24 = 0,25, soit 25 %."
+    },
+    {
+      "prompt": "Quelle est la moyenne de la série 3, 5, 9, 11 ?",
+      "choices": [
+        "8",
+        "7",
+        "28"
+      ],
+      "correct_index": 1,
+      "explanation": "La somme vaut 3 + 5 + 9 + 11 = 28 et il y a 4 valeurs : 28 ÷ 4 = 7. Le nombre 28 est la somme, pas la moyenne."
+    },
+    {
+      "prompt": "Quelle est la médiane de la série 2, 5, 7, 9, 20 ?",
+      "choices": [
+        "8,6",
+        "9",
+        "7"
+      ],
+      "correct_index": 2,
+      "explanation": "La série est déjà rangée et compte 5 valeurs (effectif impair) : la médiane est la 3e valeur, soit 7. La moyenne, 43 ÷ 5 = 8,6, est tirée vers le haut par la valeur 20."
+    },
+    {
+      "prompt": "Quelle est la médiane de la série 3, 4, 8, 10 ?",
+      "choices": [
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_index": 1,
+      "explanation": "L’effectif est pair : la médiane est le milieu des deux valeurs centrales 4 et 8, soit (4 + 8) ÷ 2 = 6."
+    },
+    {
+      "prompt": "Les notes 7, 8, 9, 10, 12, 12, 12, 14, 15, 16 ont pour étendue :",
+      "choices": [
+        "9",
+        "16",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "L’étendue est la plus grande valeur moins la plus petite : 16 − 7 = 9."
+    },
+    {
+      "prompt": "Dans un diagramme circulaire, un secteur correspond à une fréquence de 0,25. Quel est l’angle de ce secteur ?",
+      "choices": [
+        "25°",
+        "90°",
+        "250°"
+      ],
+      "correct_index": 1,
+      "explanation": "L’angle est la fréquence multipliée par 360° : 0,25 × 360° = 90°."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Nombre de buts marqués par une équipe lors de 12 matchs : 0, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5. Calcule la moyenne, la médiane, l’étendue, puis la fréquence des matchs avec exactement 3 buts (en pourcentage).",
+      "solution": "Somme : 0 + 1 + 1 + 2 + 2 + 2 + 3 + 3 + 3 + 4 + 4 + 5 = 30, donc moyenne = 30 ÷ 12 = 2,5 buts. La série est rangée ; l’effectif 12 est pair : les 6e et 7e valeurs sont 2 et 3, donc médiane = (2 + 3) ÷ 2 = 2,5. Étendue = 5 − 0 = 5. Trois matchs avec 3 buts : 3 ÷ 12 = 0,25 = 25 %.",
+      "success_criterion": "Obtenir 2,5 ; 2,5 ; 5 et 25 %, en rangeant la série et en distinguant la moyenne de la médiane."
+    },
+    {
+      "prompt": "Temps de trajet (en minutes) de cinq élèves : 10, 15, 15, 20, 40. Calcule la moyenne et la médiane, puis explique pourquoi la moyenne est plus grande que la médiane.",
+      "solution": "Moyenne : (10 + 15 + 15 + 20 + 40) ÷ 5 = 100 ÷ 5 = 20 min. Médiane : 3e valeur de la série rangée, soit 15 min. La valeur 40, bien plus grande que les autres, tire la moyenne vers le haut alors qu’elle modifie peu la médiane.",
+      "success_criterion": "Trouver 20 min et 15 min et expliquer l’influence de la valeur extrême sur la moyenne."
+    },
+    {
+      "prompt": "Un sondage auprès de 40 élèves sur leur sport préféré donne : football 12, basket 16, natation (effectif inconnu), tennis 4. Complète l’effectif manquant, donne les fréquences en pourcentage, puis l’angle de chaque secteur d’un diagramme circulaire.",
+      "solution": "Natation : 40 − (12 + 16 + 4) = 8. Fréquences : football 12/40 = 30 % ; basket 16/40 = 40 % ; natation 8/40 = 20 % ; tennis 4/40 = 10 %. Angles : 0,3 × 360 = 108° ; 0,4 × 360 = 144° ; 0,2 × 360 = 72° ; 0,1 × 360 = 36°. La somme des angles est 360°.",
+      "success_criterion": "Trouver 8, les quatre pourcentages et les angles 108°, 144°, 72°, 36°, avec la vérification de la somme."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Les quatre premières notes de Zoé en mathématiques ont pour moyenne 12. Quelle note doit-elle obtenir à la cinquième évaluation pour que sa moyenne sur cinq notes soit de 13 ?",
+      "solution": "Quatre notes de moyenne 12 ont pour somme 4 × 12 = 48. Cinq notes de moyenne 13 ont pour somme 5 × 13 = 65. La cinquième note doit être 65 − 48 = 17.",
+      "success_criterion": "Raisonner avec la somme des notes et trouver 17."
+    },
+    {
+      "prompt": "Âges des 20 joueurs d’un club : 12 ans : 4 joueurs ; 13 ans : 6 joueurs ; 14 ans : 8 joueurs ; 15 ans : 2 joueurs. Calcule l’âge moyen, l’âge médian et l’étendue.",
+      "solution": "Somme des âges : 12 × 4 + 13 × 6 + 14 × 8 + 15 × 2 = 48 + 78 + 112 + 30 = 268. Moyenne : 268 ÷ 20 = 13,4 ans. Effectifs cumulés : 4 joueurs de 12 ans, 10 joueurs de 12 ou 13 ans, 18 joueurs de 14 ans ou moins. La 10e valeur est 13 et la 11e valeur est 14, donc la médiane est (13 + 14) ÷ 2 = 13,5 ans. Étendue : 15 − 12 = 3 ans.",
+      "success_criterion": "Trouver 13,4 ; 13,5 et 3 en utilisant les effectifs (moyenne pondérée) et le rangement des 10e et 11e valeurs."
+    },
+    {
+      "prompt": "Deux classes ont la même moyenne de 11 à un contrôle. L’étendue des notes est 4 pour la classe A et 12 pour la classe B. Que peut-on dire de ces deux classes ?",
+      "solution": "Les deux classes ont le même niveau moyen, mais les notes de la classe B sont beaucoup plus dispersées : il y a de grands écarts entre les meilleures et les moins bonnes notes. Dans la classe A, les notes sont plus regroupées autour de 11.",
+      "success_criterion": "Interpréter l’étendue comme une mesure de dispersion et conclure sans affirmer que l’une des classes est meilleure."
+    }
+  ],
+  "audio_transcript": "Une série statistique, c’est une liste de valeurs. L’effectif d’une valeur est le nombre de fois où elle apparaît. La fréquence est cet effectif divisé par l’effectif total : si 6 élèves sur 24 viennent à vélo, la fréquence est 0,25, soit 25 pour cent. La moyenne, c’est la somme des valeurs divisée par leur nombre : pour 3, 5, 9 et 11, on trouve 28 divisé par 4, soit 7. La médiane partage la série rangée en deux groupes de même effectif : avec un nombre impair de valeurs, c’est la valeur du milieu ; avec un nombre pair, c’est le milieu des deux valeurs centrales. L’étendue, c’est la plus grande valeur moins la plus petite. Moyenne et médiane disent où se trouve le centre de la série, l’étendue dit si les valeurs sont resserrées ou dispersées.",
+  "guided_explanation": "Imagine que tu dois résumer les notes de ta classe en quelques mots. La moyenne te donne la note que chacun aurait si on partageait les points de façon égale. La médiane est la note de l’élève qui se trouve pile au milieu quand tout le monde est rangé du plus faible au plus fort. L’étendue te dit si la classe est très homogène ou très éparpillée. Pour ne pas te tromper, fais toujours dans l’ordre : 1) écris la série, 2) range-la, 3) calcule chaque indicateur, 4) vérifie que ton résultat est vraisemblable : une moyenne est toujours comprise entre la plus petite et la plus grande valeur. Si une valeur est très éloignée des autres, regarde la médiane en plus de la moyenne : elle réagit beaucoup moins."
+}

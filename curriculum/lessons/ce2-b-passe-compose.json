@@ -1,0 +1,133 @@
+{
+  "id": "ce2-b-passe-compose",
+  "title": "Conjuguer au passé composé",
+  "chapter_id": "ce2-b-passe-compose",
+  "program_id": "CE2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+    "Écrire correctement le participe passé des verbes en -er.",
+    "Distinguer -é et -er dans une phrase."
+  ],
+  "skill_ids": [
+    "ce2-b-passe-compose-skill-former",
+    "ce2-b-passe-compose-skill-orthographe"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "À quoi sert le passé composé ?",
+      "text": "Le passé composé sert à raconter ce qui est déjà fini. On le forme avec deux mots : l’auxiliaire avoir ou être au présent, puis le participe passé du verbe. Exemple : « Hier, nous avons joué au ballon. » (présent : nous jouons)."
+    },
+    {
+      "title": "Avec l’auxiliaire avoir",
+      "text": "La plupart des verbes se conjuguent avec avoir. Verbe chanter : j’ai chanté, tu as chanté, il (elle) a chanté, nous avons chanté, vous avez chanté, ils (elles) ont chanté. Pour les verbes du premier groupe (infinitif en -er), le participe passé se termine par -é : chanter → chanté, jouer → joué, regarder → regardé."
+    },
+    {
+      "title": "Être, avoir et quelques verbes irréguliers",
+      "text": "Le verbe avoir se conjugue avec avoir : j’ai eu, tu as eu. Le verbe être aussi : j’ai été, tu as été. Quelques verbes du 3e groupe : faire → j’ai fait ; prendre → j’ai pris ; dire → j’ai dit ; voir → j’ai vu ; pouvoir → j’ai pu ; vouloir → j’ai voulu. Aller et venir se conjuguent avec être : je suis allé, mon frère est allé, je suis venu. Avec être, le participe passé s’accorde avec le sujet : elle est allée, ils sont allés."
+    },
+    {
+      "title": "Ne pas confondre -é et -er",
+      "text": "Les terminaisons -é et -er se prononcent de la même façon. Pour choisir, remplace le verbe par un verbe du 3e groupe comme vendre. Si tu peux dire vendu, écris -é : « Il a mangé » (comme « il a vendu »). Si tu peux dire vendre, écris -er : « Il va manger » (comme « il va vendre »)."
+    }
+  ],
+  "revision_sheet": [
+    "Passé composé = auxiliaire avoir ou être au présent + participe passé.",
+    "Chanter : j’ai chanté, tu as chanté, il a chanté, nous avons chanté, vous avez chanté, ils ont chanté.",
+    "Verbes du 1er groupe : participe passé en -é (chanter → chanté).",
+    "Avoir → j’ai eu ; être → j’ai été ; faire → j’ai fait ; prendre → j’ai pris.",
+    "Aller se conjugue avec être : je suis allé ; avec être, le participe s’accorde avec le sujet (elle est allée).",
+    "Astuce -é ou -er : on remplace par vendu (-é) ou vendre (-er)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle phrase est au passé composé ?",
+      "choices": [
+        "Tu chantes bien.",
+        "Tu as chanté hier.",
+        "Tu chanteras demain."
+      ],
+      "correct_index": 1,
+      "explanation": "« Tu as chanté » est formé de l’auxiliaire avoir au présent (as) et du participe passé chanté : c’est le passé composé."
+    },
+    {
+      "prompt": "Complète : « Hier, nous … au ballon. »",
+      "choices": [
+        "avons jouer",
+        "jouons",
+        "avons joué"
+      ],
+      "correct_index": 2,
+      "explanation": "Le passé composé de jouer avec nous : nous avons joué. Le participe passé des verbes en -er se termine par -é."
+    },
+    {
+      "prompt": "Quel est l’auxiliaire dans « Ils ont mangé » ?",
+      "choices": [
+        "avoir",
+        "être",
+        "manger"
+      ],
+      "correct_index": 0,
+      "explanation": "Ont est le verbe avoir conjugué au présent. Mangé est le participe passé."
+    },
+    {
+      "prompt": "Complète : « Mon frère … à l’école. »",
+      "choices": [
+        "a allé",
+        "est allé",
+        "est aller"
+      ],
+      "correct_index": 1,
+      "explanation": "Aller se conjugue avec être : mon frère est allé."
+    },
+    {
+      "prompt": "Quelle phrase est bien écrite ?",
+      "choices": [
+        "Il a mangé une pomme.",
+        "Il a manger une pomme.",
+        "Il a mangez une pomme."
+      ],
+      "correct_index": 0,
+      "explanation": "Si on remplace par un verbe du 3e groupe, on dit « Il a vendu » : on écrit donc -é, comme dans « Il a mangé »."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Mets au passé composé : « Je chante. » ; « Tu joues. » ; « Elle regarde. »",
+      "solution": "« J’ai chanté. » ; « Tu as joué. » ; « Elle a regardé. »",
+      "success_criterion": "Utiliser l’auxiliaire avoir au présent et un participe passé en -é pour les trois verbes."
+    },
+    {
+      "prompt": "Complète avec -é ou -er : « Léa a march… vite. » ; « Il faut march… vite. » ; « Nous avons march… longtemps. »",
+      "solution": "« Léa a marché vite. » ; « Il faut marcher vite. » ; « Nous avons marché longtemps. »",
+      "success_criterion": "Écrire -é après l’auxiliaire avoir, -er après « il faut », en utilisant l’astuce vendu / vendre."
+    },
+    {
+      "prompt": "Mets au passé composé : « Il fait un gâteau. » ; « Ils prennent le bus. » ; « Mon frère va à la piscine. »",
+      "solution": "« Il a fait un gâteau. » ; « Ils ont pris le bus. » ; « Mon frère est allé à la piscine. »",
+      "success_criterion": "Utiliser a fait, ont pris et est allé, avec le bon auxiliaire."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Conjugue le verbe « jouer » au passé composé à toutes les personnes.",
+      "solution": "J’ai joué, tu as joué, il (elle) a joué, nous avons joué, vous avez joué, ils (elles) ont joué.",
+      "success_criterion": "Écrire les six formes avec le bon auxiliaire avoir et le participe passé joué."
+    },
+    {
+      "prompt": "Corrige les erreurs : « Hier, il a manger une pomme et ils ont mangez des fraises. »",
+      "solution": "« Hier, il a mangé une pomme et ils ont mangé des fraises. »",
+      "success_criterion": "Remplacer manger et mangez par le participe passé mangé."
+    },
+    {
+      "prompt": "Complète au passé composé : « Hier, Tom (être) très content et (avoir) un beau cadeau. »",
+      "solution": "« Hier, Tom a été très content et il a eu un beau cadeau. »",
+      "success_criterion": "Écrire a été et a eu avec l’auxiliaire avoir."
+    }
+  ],
+  "audio_transcript": "Le passé composé sert à raconter ce qui est déjà fini. Il se forme avec deux mots : l’auxiliaire avoir ou être au présent, puis le participe passé. Par exemple : hier, nous avons joué au ballon. Pour les verbes qui finissent par er, le participe passé finit par é : chanter, chanté ; jouer, joué. Les verbes avoir et être font : j’ai eu, j’ai été. Aller se conjugue avec être : je suis allé. Pour ne pas confondre é et er, on remplace par vendu ou vendre : il a mangé, comme il a vendu ; il va manger, comme il va vendre.",
+  "guided_explanation": "Pour écrire une phrase au passé composé, procède par étapes. Étape 1 : trouve l’infinitif du verbe, par exemple jouer. Étape 2 : choisis l’auxiliaire, le plus souvent avoir, et conjugue-le au présent avec le bon sujet : nous avons. Étape 3 : ajoute le participe passé : joué. Pour hésiter entre -é et -er, remplace par un verbe du 3e groupe comme vendre : « Hier, nous avons … » donne vendu, donc -é. Quand tu utilises aller, pense à l’auxiliaire être et à l’accord avec le sujet."
+}

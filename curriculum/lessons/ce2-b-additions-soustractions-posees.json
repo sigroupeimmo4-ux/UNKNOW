@@ -1,0 +1,133 @@
+{
+  "id": "ce2-b-additions-soustractions-posees",
+  "title": "Additions et soustractions posées jusqu’à 10 000",
+  "chapter_id": "ce2-b-additions-soustractions-posees",
+  "program_id": "CE2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Utiliser les mots terme, somme et différence.",
+    "Poser et effectuer une addition en colonnes avec des nombres jusqu’à 10 000.",
+    "Poser et effectuer une soustraction en colonnes et la vérifier."
+  ],
+  "skill_ids": [
+    "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+    "ce2-b-additions-soustractions-posees-skill-poser"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les mots de l’addition et de la soustraction",
+      "text": "Dans 12 + 25 = 37, les nombres 12 et 25 sont les termes de l’addition et 37 est la somme : « La somme de 12 et de 25 est 37. » Dans 60 − 37 = 23, les nombres 60 et 37 sont les termes de la soustraction et 23 est la différence : « La différence entre 60 et 37 est 23. »"
+    },
+    {
+      "title": "Poser une addition",
+      "text": "On écrit les nombres l’un sous l’autre : les unités sous les unités, les dizaines sous les dizaines, les centaines sous les centaines, les milliers sous les milliers. On additionne de la droite vers la gauche. Exemple : 3 485 + 2 758. Unités : 5 + 8 = 13, j’écris 3 et je retiens 1 dizaine. Dizaines : 8 + 5 + 1 = 14, j’écris 4 et je retiens 1 centaine. Centaines : 4 + 7 + 1 = 12, j’écris 2 et je retiens 1 millier. Milliers : 3 + 2 + 1 = 6. Donc 3 485 + 2 758 = 6 243."
+    },
+    {
+      "title": "Poser une soustraction",
+      "text": "On place le plus grand nombre en haut, chiffres bien alignés, et on calcule de la droite vers la gauche. Exemple : 5 204 − 1 765. Unités : 4 − 5 est impossible, on calcule 14 − 5 = 9 et on ajoute 1 dizaine au nombre du bas. Dizaines : 0 − (6 + 1) est impossible, on calcule 10 − 7 = 3 et on ajoute 1 centaine au nombre du bas. Centaines : 2 − (7 + 1) est impossible, on calcule 12 − 8 = 4 et on ajoute 1 millier au nombre du bas. Milliers : 5 − (1 + 1) = 3. Donc 5 204 − 1 765 = 3 439. Si ta classe utilise une autre technique de retenue, garde celle de ta maîtresse ou de ton maître."
+    },
+    {
+      "title": "Vérifier et choisir la bonne méthode",
+      "text": "Pour vérifier une soustraction, on additionne : 3 439 + 1 765 = 5 204, c’est bien le nombre de départ. On peut aussi estimer : 5 204 − 1 765 est proche de 5 200 − 1 800 = 3 400, ce qui est cohérent avec 3 439. Quand le calcul est facile, il vaut mieux le faire de tête : 2 000 + 3 000 = 5 000 n’a pas besoin d’être posé. On pose l’opération quand les nombres sont plus compliqués."
+    }
+  ],
+  "revision_sheet": [
+    "Addition : les nombres additionnés sont les termes, le résultat est la somme.",
+    "Soustraction : les deux nombres sont les termes, le résultat est la différence.",
+    "On aligne les chiffres : unités sous unités, dizaines sous dizaines, centaines sous centaines, milliers sous milliers.",
+    "On calcule de la droite vers la gauche, en gérant les retenues.",
+    "3 485 + 2 758 = 6 243 ; 5 204 − 1 765 = 3 439.",
+    "Vérification d’une soustraction : différence + petit nombre = grand nombre. Quand c’est facile, on calcule de tête."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans 12 + 25 = 37, comment appelle-t-on le nombre 37 ?",
+      "choices": [
+        "Un terme",
+        "La somme",
+        "La différence"
+      ],
+      "correct_index": 1,
+      "explanation": "37 est le résultat d’une addition : c’est la somme. 12 et 25 sont les termes."
+    },
+    {
+      "prompt": "Quelle est la différence entre 60 et 37 ?",
+      "choices": [
+        "97",
+        "23",
+        "13"
+      ],
+      "correct_index": 1,
+      "explanation": "La différence est le résultat de la soustraction : 60 − 37 = 23."
+    },
+    {
+      "prompt": "Combien font 3 485 + 2 758 ?",
+      "choices": [
+        "5 233",
+        "6 243",
+        "6 133"
+      ],
+      "correct_index": 1,
+      "explanation": "Unités : 5 + 8 = 13 (je retiens 1). Dizaines : 8 + 5 + 1 = 14 (je retiens 1). Centaines : 4 + 7 + 1 = 12 (je retiens 1). Milliers : 3 + 2 + 1 = 6. Le résultat est 6 243."
+    },
+    {
+      "prompt": "Pour poser 4 126 + 987, sous quel chiffre de 4 126 faut-il placer le 7 de 987 ?",
+      "choices": [
+        "Sous le 4 (milliers)",
+        "Sous le 6 (unités)",
+        "Sous le 2 (dizaines)"
+      ],
+      "correct_index": 1,
+      "explanation": "Le 7 de 987 est le chiffre des unités. Il se place sous le chiffre des unités de 4 126, c’est-à-dire le 6."
+    },
+    {
+      "prompt": "Quel calcul permet de vérifier que 5 204 − 1 765 = 3 439 ?",
+      "choices": [
+        "3 439 + 1 765 = 5 204",
+        "3 439 − 1 765 = 5 204",
+        "5 204 + 1 765 = 3 439"
+      ],
+      "correct_index": 0,
+      "explanation": "Si on ajoute la différence (3 439) au petit nombre (1 765), on doit retrouver le grand nombre : 3 439 + 1 765 = 5 204."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Pose et calcule 4 726 + 1 385.",
+      "solution": "4 726 + 1 385 = 6 111. Unités : 6 + 5 = 11 (je retiens 1). Dizaines : 2 + 8 + 1 = 11 (je retiens 1). Centaines : 7 + 3 + 1 = 11 (je retiens 1). Milliers : 4 + 1 + 1 = 6.",
+      "success_criterion": "Aligner les chiffres, gérer les trois retenues et trouver 6 111."
+    },
+    {
+      "prompt": "Pose et calcule 7 003 − 2 458, puis vérifie ton résultat avec une addition.",
+      "solution": "7 003 − 2 458 = 4 545. Vérification : 4 545 + 2 458 = 7 003.",
+      "success_criterion": "Trouver 4 545 et vérifier avec 4 545 + 2 458 = 7 003."
+    },
+    {
+      "prompt": "Complète : « La … de 48 et de 27 est … » puis « La … entre 90 et 35 est … ».",
+      "solution": "« La somme de 48 et de 27 est 75. » et « La différence entre 90 et 35 est 55. »",
+      "success_criterion": "Utiliser les mots somme et différence au bon endroit et trouver 75 et 55."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une bibliothèque contient 2 745 livres. Elle en achète 586, puis elle retire 1 120 livres abîmés. Combien de livres contient-elle à la fin ?",
+      "solution": "2 745 + 586 = 3 331. Puis 3 331 − 1 120 = 2 211. Elle contient 2 211 livres.",
+      "success_criterion": "Effectuer une addition puis une soustraction et trouver 2 211."
+    },
+    {
+      "prompt": "Léa a calculé 3 407 − 1 285 et a trouvé 2 222. A-t-elle raison ? Vérifie avec une addition.",
+      "solution": "Non. 3 407 − 1 285 = 2 122. Vérification de Léa : 2 222 + 1 285 = 3 507, et non 3 407.",
+      "success_criterion": "Montrer que 2 222 + 1 285 ne donne pas 3 407 et corriger le résultat en 2 122."
+    },
+    {
+      "prompt": "Parmi 2 000 + 3 000 et 4 678 + 3 859, lequel peux-tu faire de tête ? Calcule les deux.",
+      "solution": "2 000 + 3 000 = 5 000 se calcule de tête. 4 678 + 3 859 = 8 537 est plus long : on le pose en colonnes.",
+      "success_criterion": "Choisir la bonne méthode pour chaque calcul et trouver 5 000 et 8 537."
+    }
+  ],
+  "audio_transcript": "Dans une addition, les nombres que l’on additionne sont les termes et le résultat s’appelle la somme. Dans une soustraction, les deux nombres sont aussi des termes et le résultat s’appelle la différence. Pour poser une opération, on aligne les chiffres : unités sous unités, dizaines sous dizaines, centaines sous centaines et milliers sous milliers. On calcule en partant de la droite. Par exemple, trois-mille-quatre-cent-quatre-vingt-cinq plus deux-mille-sept-cent-cinquante-huit font six-mille-deux-cent-quarante-trois. Pour vérifier une soustraction, on additionne la différence et le petit nombre : on doit retrouver le grand nombre.",
+  "guided_explanation": "Imagine que tu comptes des billes rangées en milliers, centaines, dizaines et unités. Pour additionner, tu regroupes d’abord les unités. Si tu en as dix ou plus, tu fais un paquet de dix que tu envoies dans la colonne des dizaines : c’est la retenue. Tu recommences colonne par colonne jusqu’aux milliers. Pour soustraire, tu enlèves des billes colonne par colonne. Quand il n’y en a pas assez dans une colonne, tu en échanges dix de la colonne suivante : c’est ce que fait la technique de retenue. À la fin, vérifie avec l’opération contraire : si 3 439 + 1 765 redonne 5 204, ta soustraction est juste."
+}

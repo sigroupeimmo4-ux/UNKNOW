@@ -1,0 +1,133 @@
+{
+  "id": "ce2-b-longueurs-perimetre",
+  "title": "Longueurs : unités, conversions et périmètre",
+  "chapter_id": "ce2-b-longueurs-perimetre",
+  "program_id": "CE2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Connaitre les unités de longueur et leurs relations.",
+    "Convertir des longueurs (cm-mm, m-dm-cm, km-m).",
+    "Calculer le périmètre d’un polygone à partir de la longueur de ses côtés."
+  ],
+  "skill_ids": [
+    "ce2-b-longueurs-perimetre-skill-unites",
+    "ce2-b-longueurs-perimetre-skill-perimetre"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les unités de longueur",
+      "text": "On mesure une longueur en kilomètre (km), mètre (m), décimètre (dm), centimètre (cm) ou millimètre (mm). On a : 1 dm = 10 cm ; 1 cm = 10 mm ; 1 m = 10 dm = 100 cm = 1 000 mm ; 1 km = 1 000 m. Il faut choisir l’unité la mieux adaptée : le centimètre pour une gomme, le mètre pour une salle de classe, le kilomètre pour la distance entre deux villes."
+    },
+    {
+      "title": "Convertir des longueurs",
+      "text": "Pour convertir, on s’appuie sur les relations connues. 6 cm = 60 mm. 3 cm + 4 mm = 30 mm + 4 mm = 34 mm. 215 cm = 200 cm + 15 cm = 2 m + 15 cm. 16 m = 1 600 cm = 160 dm. 6 km = 6 000 m. 5 km + 750 m = 5 000 m + 750 m = 5 750 m. Pour additionner deux longueurs, on les écrit d’abord dans la même unité."
+    },
+    {
+      "title": "Mesurer et tracer",
+      "text": "Pour mesurer un segment avec une règle graduée, on place le zéro de la règle au début du segment et on lit la graduation à la fin. Une même longueur peut s’écrire de plusieurs façons : 72 mm = 7 cm 2 mm. Pour tracer un segment de 5 cm 3 mm, on le trace de 0 à 53 mm sur la règle."
+    },
+    {
+      "title": "Le périmètre",
+      "text": "Le périmètre d’une figure plane est la longueur de son contour. Pour un polygone, on additionne les longueurs de tous ses côtés. Un triangle de côtés 5 cm, 4 cm et 3 cm a pour périmètre 5 + 4 + 3 = 12 cm. Un rectangle de 6 cm sur 3 cm a ses côtés opposés de même longueur : 6 + 3 + 6 + 3 = 18 cm. Un carré de côté 4 cm a 4 côtés égaux : 4 + 4 + 4 + 4 = 16 cm. Pour le carré et le rectangle, il n’est pas nécessaire de mesurer chaque côté."
+    }
+  ],
+  "revision_sheet": [
+    "1 dm = 10 cm ; 1 cm = 10 mm ; 1 m = 10 dm = 100 cm = 1 000 mm ; 1 km = 1 000 m.",
+    "Pour convertir ou additionner des longueurs, on les écrit dans la même unité.",
+    "6 cm = 60 mm ; 215 cm = 2 m 15 cm ; 6 km = 6 000 m ; 5 km + 750 m = 5 750 m.",
+    "On choisit l’unité adaptée : mm ou cm pour un petit objet, m pour une pièce, km pour une distance.",
+    "Le périmètre d’une figure plane est la longueur de son contour : on additionne la longueur de ses côtés.",
+    "Dans un rectangle, les côtés opposés ont la même longueur ; dans un carré, les 4 côtés sont égaux."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de millimètres y a-t-il dans 1 centimètre ?",
+      "choices": [
+        "1",
+        "10",
+        "100"
+      ],
+      "correct_index": 1,
+      "explanation": "1 cm = 10 mm."
+    },
+    {
+      "prompt": "Combien de mètres y a-t-il dans 6 km ?",
+      "choices": [
+        "60 m",
+        "6 000 m",
+        "600 m"
+      ],
+      "correct_index": 1,
+      "explanation": "1 km = 1 000 m, donc 6 km = 6 × 1 000 m = 6 000 m."
+    },
+    {
+      "prompt": "215 cm, c’est la même longueur que…",
+      "choices": [
+        "2 m 15 cm",
+        "21 m 5 cm",
+        "20 m 15 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "215 cm = 200 cm + 15 cm. Comme 200 cm = 2 m, on obtient 2 m 15 cm."
+    },
+    {
+      "prompt": "Quelle unité est la mieux adaptée pour la distance entre deux villes ?",
+      "choices": [
+        "Le millimètre",
+        "Le mètre",
+        "Le kilomètre"
+      ],
+      "correct_index": 2,
+      "explanation": "Une distance entre deux villes est très grande : on utilise le kilomètre."
+    },
+    {
+      "prompt": "Quel est le périmètre d’un rectangle de 7 cm de long et de 2 cm de large ?",
+      "choices": [
+        "9 cm",
+        "14 cm",
+        "18 cm"
+      ],
+      "correct_index": 2,
+      "explanation": "Le rectangle a deux côtés de 7 cm et deux côtés de 2 cm : 7 + 2 + 7 + 2 = 18 cm."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Convertis : 4 cm en mm ; 3 m en cm ; 5 km 250 m en m.",
+      "solution": "4 cm = 40 mm ; 3 m = 300 cm ; 5 km 250 m = 5 000 m + 250 m = 5 250 m.",
+      "success_criterion": "Trouver 40 mm, 300 cm et 5 250 m en utilisant les relations entre les unités."
+    },
+    {
+      "prompt": "Calcule en millimètres : 2 cm + 8 mm. Puis écris 735 cm avec des mètres et des centimètres.",
+      "solution": "2 cm + 8 mm = 20 mm + 8 mm = 28 mm. 735 cm = 700 cm + 35 cm = 7 m 35 cm.",
+      "success_criterion": "Convertir avant d’additionner et trouver 28 mm et 7 m 35 cm."
+    },
+    {
+      "prompt": "Calcule le périmètre d’un carré de côté 9 cm, puis celui d’un triangle de côtés 6 cm, 8 cm et 10 cm.",
+      "solution": "Carré : 9 + 9 + 9 + 9 = 36 cm. Triangle : 6 + 8 + 10 = 24 cm.",
+      "success_criterion": "Additionner les longueurs de tous les côtés et trouver 36 cm et 24 cm."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Tom marche 3 km 450 m le matin et 2 km 550 m l’après-midi. Quelle distance parcourt-il en tout ? Donne le résultat en mètres puis en kilomètres.",
+      "solution": "3 km 450 m = 3 450 m et 2 km 550 m = 2 550 m. 3 450 + 2 550 = 6 000 m, soit 6 km.",
+      "success_criterion": "Convertir en mètres, additionner et trouver 6 000 m = 6 km."
+    },
+    {
+      "prompt": "Un rectangle mesure 12 cm de long et 5 cm de large. Calcule son périmètre. Explique pourquoi il n’est pas nécessaire de mesurer les 4 côtés.",
+      "solution": "12 + 5 + 12 + 5 = 34 cm. Les côtés opposés d’un rectangle ont la même longueur : il suffit de connaitre la longueur et la largeur.",
+      "success_criterion": "Trouver 34 cm et expliquer que les côtés opposés sont égaux."
+    },
+    {
+      "prompt": "Quelle longueur est la plus grande : 1 m 20 cm ou 125 cm ? De combien ?",
+      "solution": "1 m 20 cm = 120 cm. 125 cm est plus grand que 120 cm, de 5 cm.",
+      "success_criterion": "Convertir dans la même unité, comparer et trouver 5 cm d’écart."
+    }
+  ],
+  "audio_transcript": "Pour mesurer une longueur, on utilise le kilomètre, le mètre, le décimètre, le centimètre et le millimètre. Un centimètre égale dix millimètres. Un mètre égale cent centimètres, et un kilomètre égale mille mètres. Pour additionner deux longueurs, il faut d’abord les écrire dans la même unité : cinq kilomètres plus sept-cent-cinquante mètres font cinq-mille-sept-cent-cinquante mètres. Le périmètre d’une figure plane est la longueur de son contour. Pour un polygone, on additionne la longueur de tous ses côtés. Un rectangle de six centimètres sur trois centimètres a pour périmètre dix-huit centimètres.",
+  "guided_explanation": "Imagine que tu fais le tour d’un jardin à pied : la longueur du chemin que tu parcours, c’est le périmètre. Si le jardin est un rectangle de 6 m sur 3 m, tu marches 6 m, puis 3 m, puis encore 6 m, puis encore 3 m : 6 + 3 + 6 + 3 = 18 m. Pour les conversions, pense à la règle : 1 cm contient 10 petits millimètres. Donc 6 cm font 6 fois 10 mm, c’est-à-dire 60 mm. Avant d’additionner deux longueurs, assure-toi qu’elles sont dans la même unité, comme on ne peut pas additionner directement des mètres et des centimètres."
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ce1-b-orthographe-lettres-muettes",
+  "title": "Orthographe : lettres muettes finales et lettres c, g, s",
+  "chapter_id": "ce1-b-orthographe-lettres-muettes",
+  "program_id": "CE1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Trouver la lettre muette finale d’un mot grâce à un mot de la même famille ou à son féminin.",
+    "Savoir prononcer et écrire c, ç, g, gu et s selon les lettres qui les suivent.",
+    "Mémoriser et classer par analogie des mots fréquents."
+  ],
+  "skill_ids": [
+    "ce1-b-orthographe-lettres-muettes-skill",
+    "ce1-b-orthographe-lettres-muettes-cgs"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Vocabulaire – Mémoriser l’orthographe des mots, page 18 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Une lettre qu’on n’entend pas",
+      "text": "Beaucoup de mots finissent par une lettre muette : on ne l’entend pas à la fin du mot, mais on l’entend dans un mot de la même famille ou au féminin. Chat se termine par un t, car on entend le t dans chaton. Gros prend un s, car on l’entend dans grossir. Grand prend un d, car on l’entend dans grande. Petit prend un t, car on l’entend dans petite. Chant prend un t, car on entend chanter. Cette astuce aide beaucoup, mais elle ne suffit pas toujours : il faut aussi apprendre les mots en les copiant et en les épelant."
+    },
+    {
+      "title": "La lettre c : « k » ou « s »",
+      "text": "Devant a, o, u, la lettre c se prononce « k » : car, cochon, cube. Devant e et i, elle se prononce « s » : cerise, cinéma. Pour écrire le son « s » devant a, o ou u, on met une cédille sous le c : ç. On écrit ça, garçon, glaçon."
+    },
+    {
+      "title": "La lettre g : « g » ou « j »",
+      "text": "Devant a, o, u, la lettre g se prononce « g » : gamin, gorille, gâteau. Devant e et i, elle se prononce « j » : girafe, gentil, gendarme, geste. Pour garder le son « g » devant e ou i, on ajoute un u : guitare."
+    },
+    {
+      "title": "La lettre s : « s » ou « z »",
+      "text": "Au début d’un mot, la lettre s se prononce « s » : sac, soleil. Entre deux voyelles, un seul s se prononce « z » : maison, rose, vase. Pour écrire le son « s » entre deux voyelles, on double le s : poisson (« s ») et poison (« z »). Regarder les lettres autour d’un c, d’un g ou d’un s permet de savoir comment le prononcer et de mieux l’écrire."
+    }
+  ],
+  "revision_sheet": [
+    "Lettre muette finale : je cherche un mot de la même famille ou le féminin (chat/chaton, gros/grossir, grand/grande, petit/petite).",
+    "c devant a, o, u = « k » (car, cochon) ; c devant e, i = « s » (cerise) ; ç devant a, o, u = « s » (ça, garçon).",
+    "g devant a, o, u = « g » (gâteau) ; g devant e, i = « j » (girafe) ; gu + e, i = « g » (guitare).",
+    "s entre deux voyelles = « z » (maison, rose) ; ss = « s » (poisson).",
+    "Pour retenir les mots : les épeler, les copier, les classer par analogie."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel mot de la même famille montre que « petit » finit par un t ?",
+      "choices": [
+        "petite",
+        "pelle",
+        "pelote"
+      ],
+      "correct_index": 0,
+      "explanation": "Dans petite, on entend le t : cela prouve que petit s’écrit avec un t à la fin."
+    },
+    {
+      "prompt": "Comment écrit-on le son « s » dans « garçon » avant la lettre o ?",
+      "choices": [
+        "c",
+        "s",
+        "ç (c cédille)"
+      ],
+      "correct_index": 2,
+      "explanation": "Devant a, o ou u, un c se prononcerait « k ». Pour avoir le son « s », on écrit ç avec une cédille : garçon."
+    },
+    {
+      "prompt": "Dans « girafe », la lettre g se prononce comme dans :",
+      "choices": [
+        "gâteau",
+        "gentil",
+        "gorille"
+      ],
+      "correct_index": 1,
+      "explanation": "Devant e et i, g se prononce « j ». Gentil commence par ge, comme girafe commence par gi."
+    },
+    {
+      "prompt": "Quel mot s’écrit avec un seul s entre deux voyelles qui se prononce « z » ?",
+      "choices": [
+        "poisson",
+        "tasse",
+        "maison"
+      ],
+      "correct_index": 2,
+      "explanation": "Dans maison, le s est entre deux voyelles et se prononce « z ». Dans poisson et tasse, ss se prononce « s »."
+    },
+    {
+      "prompt": "Quel mot permet de trouver la lettre muette finale de « gros » ?",
+      "choices": [
+        "grossir",
+        "grotte",
+        "grogner"
+      ],
+      "correct_index": 0,
+      "explanation": "Dans grossir, on entend le s : gros s’écrit donc avec un s à la fin."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Complète avec la lettre muette finale, en pensant à un mot de la même famille : gran… (grande) ; peti… (petite) ; cha… (chaton) ; gro… (grossir).",
+      "solution": "grand (d) ; petit (t) ; chat (t) ; gros (s).",
+      "success_criterion": "Trouver d, t, t et s en s’appuyant sur le mot de la même famille."
+    },
+    {
+      "prompt": "Complète avec c ou ç : le gar…on ; le gla…on ; le …ochon ; la …erise.",
+      "solution": "le garçon (ç) ; le glaçon (ç) ; le cochon (c) ; la cerise (c).",
+      "success_criterion": "Choisir ç devant o pour le son « s », c devant o pour le son « k », c devant e pour le son « s »."
+    },
+    {
+      "prompt": "Lis ces mots : rose, sac, maison, reste, vase. Dans chaque mot, la lettre s se prononce-t-elle « s » ou « z » ?",
+      "solution": "rose : « z » ; sac : « s » ; maison : « z » ; reste : « s » ; vase : « z ».",
+      "success_criterion": "Distinguer « z » entre deux voyelles et « s » au début ou à côté d’une consonne."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Complète avec la lettre muette finale : un chan… (chanter) ; un gran… (grande) ; il est surpri… (surprise) ; un cha… (chaton).",
+      "solution": "un chant (t) ; un grand (d) ; il est surpris (s) ; un chat (t).",
+      "success_criterion": "Trouver t, d, s et t en justifiant par un mot de la même famille."
+    },
+    {
+      "prompt": "Classe ces mots selon la prononciation de la lettre g, « g » comme dans gâteau ou « j » comme dans girafe : gamin, girafe, gorille, gendarme, geste, gâteau, guitare.",
+      "solution": "g comme dans gâteau : gamin, gorille, gâteau, guitare. g comme dans girafe (« j ») : girafe, gendarme, geste.",
+      "success_criterion": "Classer les 7 mots sans erreur (4 en « g », 3 en « j »), y compris guitare."
+    },
+    {
+      "prompt": "Explique la différence entre « poison » et « poisson ». Dans lequel des deux mots entend-on « z » ?",
+      "solution": "Dans poison, le s est entre deux voyelles : il se prononce « z ». Dans poisson, il y a deux s (ss) qui se prononcent « s ». On entend donc « z » dans poison.",
+      "success_criterion": "Répondre « poison » et expliquer que s entre deux voyelles se prononce « z » alors que ss se prononce « s »."
+    }
+  ],
+  "audio_transcript": "Beaucoup de mots se terminent par une lettre qu’on n’entend pas, une lettre muette. Pour la trouver, on cherche un mot de la même famille. Chat s’écrit avec un t, car on entend le t dans chaton. Grand s’écrit avec un d, car on entend le d dans grande. Gros s’écrit avec un s, car on entend le s dans grossir. Les lettres c, g et s changent de son selon les lettres qui les suivent. Le c devant a, o ou u se prononce k, comme dans cochon. Devant e ou i, il se prononce s, comme dans cerise. Avec une cédille, ç devant a, o, u se prononce s, comme dans garçon. Le g devant a, o, u se prononce g, comme dans gâteau. Devant e ou i, il se prononce j, comme dans girafe. Entre deux voyelles, un seul s se prononce z, comme dans maison. Deux s se prononcent s, comme dans poisson.",
+  "guided_explanation": "Quand tu hésites sur la fin d’un mot, fais l’enquête du mot-famille. Pour « petit », je pense à « petite » : j’entends le t, alors j’écris petit avec un t. Pour « grand », je pense à « grande » : j’entends le d, alors j’écris grand avec un d. Pour les lettres c, g et s, regarde la lettre qui vient juste après. Un c devant a, o, u fait « k » : cochon. Si je veux « s » devant o, je mets une cédille : garçon. Un g devant e ou i fait « j » : girafe. Si je veux « g » devant i, j’ajoute un u : guitare. Et un s tout seul entre deux voyelles fait « z » : maison. Si je veux « s » à cet endroit, je mets deux s : poisson. Poison avec un seul s se prononce « z » : ce n’est pas le même mot !"
+}

@@ -1,0 +1,144 @@
+{
+  "id": "3e-b-probabilites",
+  "title": "Probabilités : calculer la chance d’un événement",
+  "chapter_id": "3e-b-probabilites",
+  "program_id": "3e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Employer le vocabulaire des probabilités et calculer une probabilité dans une situation simple où toutes les issues ont la même chance.",
+    "Reconnaître un événement certain, impossible ou contraire et utiliser 1 − p.",
+    "Distinguer la fréquence observée et la probabilité."
+  ],
+  "skill_ids": [
+    "3e-b-probabilites-skill-calculer",
+    "3e-b-probabilites-skill-contraire",
+    "3e-b-probabilites-skill-frequence"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, (« Vocabulaire des probabilités », « Probabilité d’événements certains, impossibles, contraires », « Faire le lien entre fréquence et probabilité »), page 132 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le vocabulaire du hasard",
+      "text": "Une expérience aléatoire est une expérience dont on connaît les résultats possibles sans pouvoir prévoir lequel se produira. Chaque résultat possible s’appelle une issue. Un événement est un ensemble d’issues. Exemple : on lance un dé équilibré à six faces. Les issues sont 1, 2, 3, 4, 5 et 6. L’événement « obtenir un nombre pair » est formé des issues 2, 4 et 6."
+    },
+    {
+      "title": "Calculer une probabilité",
+      "text": "Quand toutes les issues ont la même chance de se produire, la probabilité d’un événement est : nombre d’issues favorables ÷ nombre d’issues possibles. Dé équilibré : P(nombre pair) = 3/6 = 1/2 = 0,5 = 50 %. P(multiple de 3) = 2/6 = 1/3, car seules les faces 3 et 6 conviennent. Un sac contient 3 boules rouges, 5 vertes et 2 bleues, indiscernables au toucher (10 boules au total). P(rouge) = 3/10 = 0,3 = 30 % ; P(verte) = 5/10 = 0,5 ; P(bleue) = 2/10 = 0,2. Une probabilité s’écrit en fraction, en nombre décimal ou en pourcentage."
+    },
+    {
+      "title": "Événement certain, impossible, contraire",
+      "text": "La probabilité d’un événement est toujours un nombre compris entre 0 et 1. Un événement impossible a pour probabilité 0 : obtenir 7 avec un dé à six faces. Un événement certain a pour probabilité 1 : obtenir un nombre entre 1 et 6. L’événement contraire d’un événement A est « A ne se réalise pas » ; sa probabilité est 1 − P(A). Dans le sac précédent, l’événement contraire de « tirer une boule rouge » est « ne pas tirer une boule rouge » : sa probabilité est 1 − 0,3 = 0,7 (7 boules sur 10, les 5 vertes et les 2 bleues)."
+    },
+    {
+      "title": "Fréquence et probabilité",
+      "text": "Si on répète une expérience aléatoire un grand nombre de fois, la fréquence observée d’un événement a tendance à se rapprocher de sa probabilité ; avec peu d’essais, elle peut en être assez éloignée. Exemple : on lance 10 fois une pièce équilibrée et on obtient 7 fois pile. La fréquence observée est 0,7, mais la probabilité de pile est 0,5. Avec 1 000 lancers, on s’attend à une fréquence proche de 0,5. Piège : le hasard n’a pas de mémoire. Après trois 6 consécutifs avec un dé équilibré, la probabilité d’obtenir un 6 au lancer suivant reste 1/6."
+    }
+  ],
+  "revision_sheet": [
+    "Expérience aléatoire : résultat imprévisible ; issue : résultat possible ; événement : ensemble d’issues.",
+    "Quand toutes les issues ont la même chance : P = nombre d’issues favorables ÷ nombre d’issues possibles.",
+    "Une probabilité est comprise entre 0 et 1 : elle s’écrit en fraction, en décimal ou en pourcentage (1/4 = 0,25 = 25 %).",
+    "Événement impossible : probabilité 0. Événement certain : probabilité 1.",
+    "Événement contraire de A : P(contraire de A) = 1 − P(A).",
+    "La fréquence observée se rapproche de la probabilité quand le nombre d’essais est grand ; elle n’est pas égale à la probabilité."
+  ],
+  "quiz": [
+    {
+      "prompt": "On lance un dé équilibré à six faces. Quelle est la probabilité d’obtenir 5 ?",
+      "choices": [
+        "1/6",
+        "1/5",
+        "5/6"
+      ],
+      "correct_index": 0,
+      "explanation": "Il y a 6 issues possibles qui ont la même chance et une seule est favorable : 1/6."
+    },
+    {
+      "prompt": "Un sac contient 4 jetons rouges et 6 jetons bleus. On tire un jeton au hasard. Quelle est la probabilité d’obtenir un jeton bleu ?",
+      "choices": [
+        "0,4",
+        "0,6",
+        "1,5"
+      ],
+      "correct_index": 1,
+      "explanation": "Il y a 6 jetons bleus sur 10 jetons : 6/10 = 0,6. Une probabilité ne peut jamais dépasser 1."
+    },
+    {
+      "prompt": "Parmi ces nombres, lequel ne peut pas être la probabilité d’un événement ?",
+      "choices": [
+        "0",
+        "0,75",
+        "1,2"
+      ],
+      "correct_index": 2,
+      "explanation": "Une probabilité est comprise entre 0 et 1. Le nombre 1,2 est supérieur à 1."
+    },
+    {
+      "prompt": "La probabilité d’un événement A est 0,35. Quelle est la probabilité de l’événement contraire ?",
+      "choices": [
+        "0,35",
+        "0,65",
+        "1,35"
+      ],
+      "correct_index": 1,
+      "explanation": "P(contraire de A) = 1 − P(A) = 1 − 0,35 = 0,65."
+    },
+    {
+      "prompt": "On lance 50 fois un dé et on obtient 9 fois le nombre 6. Quelle est la fréquence d’apparition du 6 dans cette série ?",
+      "choices": [
+        "0,18",
+        "1/6 exactement",
+        "9"
+      ],
+      "correct_index": 0,
+      "explanation": "La fréquence est 9 ÷ 50 = 0,18. Elle est proche de 1/6 (environ 0,167), la probabilité d’obtenir 6 avec un dé équilibré, mais elle n’est pas forcément égale à cette probabilité."
+    },
+    {
+      "prompt": "Avec un dé équilibré à six faces, quelle est la probabilité d’obtenir un nombre inférieur ou égal à 6 ?",
+      "choices": [
+        "1",
+        "0",
+        "1/6"
+      ],
+      "correct_index": 0,
+      "explanation": "Toutes les issues conviennent : c’est un événement certain, de probabilité 1."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Une urne contient 20 boules numérotées de 1 à 20. On tire une boule au hasard. Calcule la probabilité d’obtenir : a) un multiple de 5 ; b) un nombre premier ; c) un nombre supérieur à 20.",
+      "solution": "a) Multiples de 5 : 5, 10, 15, 20, soit 4 issues : 4/20 = 1/5 = 0,2 = 20 %. b) Nombres premiers : 2, 3, 5, 7, 11, 13, 17, 19, soit 8 issues : 8/20 = 2/5 = 0,4 = 40 %. c) Aucune boule ne porte un numéro supérieur à 20 : événement impossible, probabilité 0.",
+      "success_criterion": "Dénombrer correctement les issues favorables (4 et 8), écrire la probabilité sous forme de fraction et de pourcentage, reconnaître l’événement impossible."
+    },
+    {
+      "prompt": "Un sac contient 5 jetons verts, 3 jaunes et 2 noirs. On tire un jeton au hasard. Calcule P(vert), P(ne pas obtenir un jeton jaune) et P(blanc).",
+      "solution": "Il y a 10 jetons. P(vert) = 5/10 = 0,5. P(jaune) = 3/10 = 0,3 donc P(ne pas obtenir jaune) = 1 − 0,3 = 0,7 (les 5 verts et les 2 noirs, soit 7/10). Il n’y a pas de jeton blanc : P(blanc) = 0.",
+      "success_criterion": "Trouver 0,5 ; 0,7 et 0 en utilisant l’événement contraire."
+    },
+    {
+      "prompt": "Alice lance un dé équilibré et gagne si elle obtient un multiple de 3. Bob lance une pièce équilibrée et gagne s’il obtient pile. Qui a le plus de chances de gagner ?",
+      "solution": "Pour Alice, les faces 3 et 6 conviennent : 2/6 = 1/3, soit environ 0,33. Pour Bob, 1 issue favorable sur 2 : 1/2 = 0,5. Bob a donc plus de chances de gagner.",
+      "success_criterion": "Calculer 1/3 et 1/2, les comparer (même dénominateur ou écriture décimale) et conclure."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un sac contient 25 jetons : 7 jaunes, 10 verts et les autres bleus. On tire un jeton au hasard. Calcule la probabilité d’obtenir un jeton bleu, puis celle d’obtenir un jeton jaune ou vert. Que remarques-tu ?",
+      "solution": "Nombre de jetons bleus : 25 − 7 − 10 = 8, donc P(bleu) = 8/25 = 0,32 = 32 %. Jaune ou vert : 7 + 10 = 17 jetons, donc P = 17/25 = 0,68 = 68 %. Les deux événements sont contraires et 0,32 + 0,68 = 1.",
+      "success_criterion": "Trouver 8 jetons bleus, 0,32 et 0,68, et reconnaître deux événements contraires dont la somme des probabilités est 1."
+    },
+    {
+      "prompt": "Un sac contient 20 boules, certaines rouges et les autres non. La probabilité de tirer une boule rouge est 0,35. Combien y a-t-il de boules rouges ? Quelle est la probabilité de tirer une boule qui n’est pas rouge, et combien de boules cela représente-t-il ?",
+      "solution": "Boules rouges : 0,35 × 20 = 7. Probabilité de ne pas tirer une boule rouge : 1 − 0,35 = 0,65. Cela représente 0,65 × 20 = 13 boules, ce qui est cohérent avec 20 − 7 = 13.",
+      "success_criterion": "Trouver 7 boules rouges, 0,65 et 13 boules, avec la vérification par 20 − 7."
+    },
+    {
+      "prompt": "Sami lance 10 fois une pièce équilibrée et obtient 8 fois pile. Il affirme : « La probabilité d’obtenir pile est 0,8. » Explique pourquoi il se trompe.",
+      "solution": "Sami a calculé une fréquence observée (8/10 = 0,8) sur un très petit nombre de lancers. La probabilité de pile avec une pièce équilibrée est 0,5. Avec peu d’essais, la fréquence peut s’écarter de la probabilité ; elle s’en rapproche quand le nombre de lancers devient grand.",
+      "success_criterion": "Distinguer fréquence observée et probabilité et citer l’effet du nombre d’essais."
+    }
+  ],
+  "audio_transcript": "Une probabilité mesure la chance qu’un événement se produise. C’est toujours un nombre compris entre 0 et 1. Zéro, c’est impossible ; un, c’est certain. Quand toutes les issues ont la même chance, on calcule le nombre de cas favorables divisé par le nombre de cas possibles. Avec un dé équilibré, la probabilité d’obtenir un nombre pair est 3 sur 6, soit un demi, ou 50 pour cent. Pour l’événement contraire, on fait un moins la probabilité : si la probabilité de tirer une boule rouge est 0,3, celle de ne pas en tirer est 0,7. Enfin, sur peu d’essais, la fréquence observée peut s’éloigner de la probabilité ; sur beaucoup d’essais, elle s’en rapproche.",
+  "guided_explanation": "Pour calculer une probabilité, commence par te poser deux questions : combien d’issues sont possibles, et combien me conviennent ? Si tu tires une boule dans un sac de 10 boules dont 3 sont rouges, il y a 3 cas favorables sur 10 cas possibles : 3/10, soit 0,3 ou 30 %. Vérifie toujours que ton résultat est entre 0 et 1 ; si tu trouves 1,5, il y a une erreur. Pour une question avec « ne pas », pense à l’événement contraire : il est souvent plus rapide de calculer 1 − p. Et rappelle-toi que le hasard n’a pas de mémoire : un dé qui a donné trois fois 6 n’a pas plus de raisons de donner autre chose au lancer suivant."
+}

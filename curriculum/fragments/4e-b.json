@@ -1,0 +1,1328 @@
+{
+  "programs": [
+    {
+      "id": "4e-mathematiques-commun",
+      "domains": [
+        {
+          "id": "nombres-et-calculs",
+          "title": "Nombres et calculs",
+          "source_locator": "Annexe 3 du cycle 4, Mathématiques / Thème A – Nombres et calculs, pages 130–132 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-b-puissances-notation-scientifique",
+              "title": "Puissances d’un nombre et notation scientifique",
+              "title_type": "editorial",
+              "official_section": "Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté",
+              "notions": [
+                "Puissance d’un nombre (exposants entiers positifs ou négatifs)",
+                "Produit et quotient de puissances de même base, retrouvés à partir de la définition",
+                "Notation scientifique et ordres de grandeur"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-b-puissances-notation-scientifique-knowledge",
+                  "text": "Puissance d’un nombre (exposants entiers, positifs ou négatifs) ; notation scientifique.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, pages 130–131 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-b-puissances-notation-scientifique-skill",
+                  "text": "Effectuer des calculs numériques simples impliquant des puissances, notamment en utilisant la notation scientifique.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, page 131 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-puissances-notation-scientifique-order",
+                  "text": "Vérifier la vraisemblance d’un résultat, notamment en estimant son ordre de grandeur.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, page 131 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+            },
+            {
+              "id": "4e-b-multiples-diviseurs-premiers",
+              "title": "Multiples, diviseurs et nombres premiers",
+              "title_type": "editorial",
+              "official_section": "Comprendre et utiliser les notions de divisibilité et de nombres premiers",
+              "notions": [
+                "Multiples et diviseurs ; critères de divisibilité par 2, 3, 5, 9, 10",
+                "Division euclidienne (quotient, reste)",
+                "Nombres premiers et décomposition en produit de facteurs premiers",
+                "Fractions irréductibles"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-b-multiples-diviseurs-premiers-knowledge",
+                  "text": "Multiples et diviseurs ; critères de divisibilité par 2, 3, 5, 9 ; division euclidienne (quotient, reste) ; définition d’un nombre premier et liste des nombres premiers inférieurs ou égaux à 30 ; fractions irréductibles.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-b-multiples-diviseurs-premiers-skill",
+                  "text": "Déterminer si un entier est ou n’est pas multiple ou diviseur d’un autre entier ; utiliser les critères de divisibilité par 2, 3, 5, 9, 10.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Divisibilité et nombres premiers (compétences associées), page 131 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-multiples-diviseurs-premiers-prime",
+                  "text": "Déterminer les nombres premiers inférieurs ou égaux à 100 et décomposer un nombre entier en produit de facteurs premiers.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Divisibilité et nombres premiers (compétences associées), page 131 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-multiples-diviseurs-premiers-fraction",
+                  "text": "Simplifier une fraction pour la rendre irréductible.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Divisibilité et nombres premiers (compétences associées), page 131 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-multiples-diviseurs-premiers-problem",
+                  "text": "Modéliser et résoudre des problèmes mettant en jeu la divisibilité (engrenages, conjonction de phénomènes, etc.).",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Divisibilité et nombres premiers (compétences associées), page 131 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "grandeurs-et-mesures",
+          "title": "Grandeurs et mesures",
+          "source_locator": "Annexe 3 du cycle 4, Mathématiques / Thème C – Grandeurs et mesures, page 134 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-b-volumes-solides",
+              "title": "Volumes : prisme, cylindre, pyramide et cône",
+              "title_type": "editorial",
+              "official_section": "Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées",
+              "notions": [
+                "Volume d’un prisme droit et d’un cylindre",
+                "Volume d’une pyramide, d’un cône et d’une boule",
+                "Unités de volume et de contenance (1 L = 1 dm³, 1 000 L = 1 m³) et conversions"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-b-volumes-solides-knowledge",
+                  "text": "Volume d’un prisme, d’une pyramide, d’un cylindre, d’un cône, d’une boule ; correspondance entre unités de volume et de contenance (1 L = 1 dm³, 1 000 L = 1 m³).",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables, page 134 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-b-volumes-solides-skill",
+                  "text": "Mener des calculs impliquant des grandeurs mesurables, notamment des grandeurs composées, exprimer les résultats dans les unités adaptées.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables (compétences associées), page 134 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-volumes-solides-units",
+                  "text": "Vérifier la cohérence des résultats du point de vue des unités ; effectuer des conversions d’unités.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables (compétences associées), page 134 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e-francais-commun",
+      "domains": [
+        {
+          "id": "etude-de-la-langue",
+          "title": "Étude de la langue (grammaire, orthographe, lexique)",
+          "source_locator": "Annexe 3 du cycle 4, Français / Étude de la langue (grammaire, orthographe, lexique), pages 21–26 (pagination du PDF)",
+          "chapters": [
+            {
+              "id": "4e-b-passe-simple-imparfait",
+              "title": "Imparfait et passé simple : formes et valeurs",
+              "title_type": "editorial",
+              "official_section": "Consolider l’orthographe lexicale et grammaticale (morphologie verbale, valeur des temps)",
+              "notions": [
+                "Formes de l’imparfait et du passé simple de l’indicatif",
+                "Valeurs des temps : premier plan et arrière-plan",
+                "Réécriture d’un texte en changeant les temps"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-b-passe-simple-imparfait-knowledge",
+                  "text": "Mémoriser l’imparfait et le passé simple de l’indicatif ; mettre en évidence le lien entre le temps employé et le sens (premier plan / arrière-plan).",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-b-passe-simple-imparfait-forms",
+                  "text": "Maîtriser la morphologie verbale écrite en appui sur les régularités et la décomposition du verbe (radical, terminaison qui comporte les marques de mode / temps, marques de personne).",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, pages 23–24 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-passe-simple-imparfait-values",
+                  "text": "Observer l’incidence de la valeur des temps sur leurs emplois (premier plan / arrière-plan).",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale, page 24 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+            },
+            {
+              "id": "4e-b-formation-des-mots",
+              "title": "La formation des mots : dérivation, composition, racines",
+              "title_type": "editorial",
+              "official_section": "Enrichir et structurer le lexique",
+              "notions": [
+                "Mot dérivé, mot composé, radical, préfixe, suffixe",
+                "Changements de catégorie syntaxique induits par la dérivation",
+                "Sens de préfixes, de suffixes et de racines latines et grecques",
+                "Famille de mots, champ lexical, champ sémantique"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-b-formation-des-mots-knowledge",
+                  "text": "Observer la formation des mots : dérivation et composition, étymologie, locutions, graphie des mots ; connaître le sens des préfixes et suffixes les plus fréquents et de certaines racines latines et grecques.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-b-formation-des-mots-derive",
+                  "text": "Observer la formation des mots : dérivation et composition ; mettre en évidence les changements de catégorie syntaxique induits par la dérivation (déménager / déménagement ; beau / beauté, etc.) et leurs incidences orthographiques.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-formation-des-mots-sens",
+                  "text": "Connaître le sens des préfixes et suffixes les plus fréquents et de certaines racines latines et grecques.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-formation-des-mots-reseau",
+                  "text": "Mettre en réseau des mots (groupements par champ lexical, par famille de mots et par champ sémantique).",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+            },
+            {
+              "id": "4e-b-discours-rapporte",
+              "title": "Rapporter des paroles : discours direct, indirect et indirect libre",
+              "title_type": "editorial",
+              "official_section": "Construire les notions permettant l’analyse et l’élaboration des textes et des discours",
+              "notions": [
+                "Discours direct, discours indirect et discours indirect libre",
+                "Transposition du direct à l’indirect : personne, temps, repères de temps et de lieu",
+                "Situation d’énonciation et ponctuation des paroles rapportées"
+              ],
+              "knowledge": [
+                {
+                  "id": "4e-b-discours-rapporte-knowledge",
+                  "text": "Insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-discours-rapporte-knowledge-enonc",
+                  "text": "Reconnaître et utiliser les paroles rapportées, directement ou indirectement ; identifier les éléments de la situation d’énonciation (marques de personne, de lieu et de temps).",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "4e-b-discours-rapporte-skill",
+                  "text": "Reconnaître et utiliser les paroles rapportées, directement ou indirectement.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-discours-rapporte-insert",
+                  "text": "Être capable d’insérer dans un texte des paroles rapportées : discours direct, indirect, indirect libre.",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 (pagination du PDF)."
+                },
+                {
+                  "id": "4e-b-discours-rapporte-enonc",
+                  "text": "Identifier et interpréter les éléments de la situation d’énonciation : qui parle à qui ? où ? quand ? (marques de personne, de lieu et de temps).",
+                  "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "4e-b-puissances-notation-scientifique-course",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-puissances-notation-scientifique"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Calculer une puissance d’un nombre avec un exposant entier positif ou négatif.",
+        "Calculer des produits et des quotients de puissances de même base en revenant à la définition.",
+        "Écrire un nombre en notation scientifique et estimer un ordre de grandeur pour vérifier un résultat."
+      ],
+      "skill_ids": [
+        "4e-b-puissances-notation-scientifique-skill",
+        "4e-b-puissances-notation-scientifique-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-puissances-notation-scientifique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-puissances-notation-scientifique-revision_sheet",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-puissances-notation-scientifique"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Calculer une puissance d’un nombre avec un exposant entier positif ou négatif.",
+        "Calculer des produits et des quotients de puissances de même base en revenant à la définition.",
+        "Écrire un nombre en notation scientifique et estimer un ordre de grandeur pour vérifier un résultat."
+      ],
+      "skill_ids": [
+        "4e-b-puissances-notation-scientifique-skill",
+        "4e-b-puissances-notation-scientifique-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-puissances-notation-scientifique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-puissances-notation-scientifique-quiz",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-puissances-notation-scientifique"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Calculer une puissance d’un nombre avec un exposant entier positif ou négatif.",
+        "Calculer des produits et des quotients de puissances de même base en revenant à la définition.",
+        "Écrire un nombre en notation scientifique et estimer un ordre de grandeur pour vérifier un résultat."
+      ],
+      "skill_ids": [
+        "4e-b-puissances-notation-scientifique-skill",
+        "4e-b-puissances-notation-scientifique-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-puissances-notation-scientifique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-puissances-notation-scientifique-exercise",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-puissances-notation-scientifique"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Calculer une puissance d’un nombre avec un exposant entier positif ou négatif.",
+        "Calculer des produits et des quotients de puissances de même base en revenant à la définition.",
+        "Écrire un nombre en notation scientifique et estimer un ordre de grandeur pour vérifier un résultat."
+      ],
+      "skill_ids": [
+        "4e-b-puissances-notation-scientifique-skill",
+        "4e-b-puissances-notation-scientifique-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-puissances-notation-scientifique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-puissances-notation-scientifique-assessment",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-puissances-notation-scientifique"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Calculer une puissance d’un nombre avec un exposant entier positif ou négatif.",
+        "Calculer des produits et des quotients de puissances de même base en revenant à la définition.",
+        "Écrire un nombre en notation scientifique et estimer un ordre de grandeur pour vérifier un résultat."
+      ],
+      "skill_ids": [
+        "4e-b-puissances-notation-scientifique-skill",
+        "4e-b-puissances-notation-scientifique-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-puissances-notation-scientifique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-puissances-notation-scientifique-audio",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-puissances-notation-scientifique"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Calculer une puissance d’un nombre avec un exposant entier positif ou négatif.",
+        "Calculer des produits et des quotients de puissances de même base en revenant à la définition.",
+        "Écrire un nombre en notation scientifique et estimer un ordre de grandeur pour vérifier un résultat."
+      ],
+      "skill_ids": [
+        "4e-b-puissances-notation-scientifique-skill",
+        "4e-b-puissances-notation-scientifique-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-puissances-notation-scientifique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-puissances-notation-scientifique-assistant_explanation",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-puissances-notation-scientifique"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Calculer une puissance d’un nombre avec un exposant entier positif ou négatif.",
+        "Calculer des produits et des quotients de puissances de même base en revenant à la définition.",
+        "Écrire un nombre en notation scientifique et estimer un ordre de grandeur pour vérifier un résultat."
+      ],
+      "skill_ids": [
+        "4e-b-puissances-notation-scientifique-skill",
+        "4e-b-puissances-notation-scientifique-order"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-puissances-notation-scientifique.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-multiples-diviseurs-premiers-course",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-multiples-diviseurs-premiers"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Utiliser les critères de divisibilité par 2, 3, 5, 9 et 10 et déterminer les diviseurs d’un nombre.",
+        "Effectuer une division euclidienne et reconnaître un nombre premier.",
+        "Décomposer un entier en facteurs premiers, simplifier une fraction et résoudre un petit problème de divisibilité."
+      ],
+      "skill_ids": [
+        "4e-b-multiples-diviseurs-premiers-skill",
+        "4e-b-multiples-diviseurs-premiers-prime",
+        "4e-b-multiples-diviseurs-premiers-fraction",
+        "4e-b-multiples-diviseurs-premiers-problem"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-multiples-diviseurs-premiers.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-multiples-diviseurs-premiers-revision_sheet",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-multiples-diviseurs-premiers"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Utiliser les critères de divisibilité par 2, 3, 5, 9 et 10 et déterminer les diviseurs d’un nombre.",
+        "Effectuer une division euclidienne et reconnaître un nombre premier.",
+        "Décomposer un entier en facteurs premiers, simplifier une fraction et résoudre un petit problème de divisibilité."
+      ],
+      "skill_ids": [
+        "4e-b-multiples-diviseurs-premiers-skill",
+        "4e-b-multiples-diviseurs-premiers-prime",
+        "4e-b-multiples-diviseurs-premiers-fraction",
+        "4e-b-multiples-diviseurs-premiers-problem"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-multiples-diviseurs-premiers.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-multiples-diviseurs-premiers-quiz",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-multiples-diviseurs-premiers"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Utiliser les critères de divisibilité par 2, 3, 5, 9 et 10 et déterminer les diviseurs d’un nombre.",
+        "Effectuer une division euclidienne et reconnaître un nombre premier.",
+        "Décomposer un entier en facteurs premiers, simplifier une fraction et résoudre un petit problème de divisibilité."
+      ],
+      "skill_ids": [
+        "4e-b-multiples-diviseurs-premiers-skill",
+        "4e-b-multiples-diviseurs-premiers-prime",
+        "4e-b-multiples-diviseurs-premiers-fraction",
+        "4e-b-multiples-diviseurs-premiers-problem"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-multiples-diviseurs-premiers.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-multiples-diviseurs-premiers-exercise",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-multiples-diviseurs-premiers"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Utiliser les critères de divisibilité par 2, 3, 5, 9 et 10 et déterminer les diviseurs d’un nombre.",
+        "Effectuer une division euclidienne et reconnaître un nombre premier.",
+        "Décomposer un entier en facteurs premiers, simplifier une fraction et résoudre un petit problème de divisibilité."
+      ],
+      "skill_ids": [
+        "4e-b-multiples-diviseurs-premiers-skill",
+        "4e-b-multiples-diviseurs-premiers-prime",
+        "4e-b-multiples-diviseurs-premiers-fraction",
+        "4e-b-multiples-diviseurs-premiers-problem"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-multiples-diviseurs-premiers.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-multiples-diviseurs-premiers-assessment",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-multiples-diviseurs-premiers"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Utiliser les critères de divisibilité par 2, 3, 5, 9 et 10 et déterminer les diviseurs d’un nombre.",
+        "Effectuer une division euclidienne et reconnaître un nombre premier.",
+        "Décomposer un entier en facteurs premiers, simplifier une fraction et résoudre un petit problème de divisibilité."
+      ],
+      "skill_ids": [
+        "4e-b-multiples-diviseurs-premiers-skill",
+        "4e-b-multiples-diviseurs-premiers-prime",
+        "4e-b-multiples-diviseurs-premiers-fraction",
+        "4e-b-multiples-diviseurs-premiers-problem"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-multiples-diviseurs-premiers.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-multiples-diviseurs-premiers-audio",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-multiples-diviseurs-premiers"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Utiliser les critères de divisibilité par 2, 3, 5, 9 et 10 et déterminer les diviseurs d’un nombre.",
+        "Effectuer une division euclidienne et reconnaître un nombre premier.",
+        "Décomposer un entier en facteurs premiers, simplifier une fraction et résoudre un petit problème de divisibilité."
+      ],
+      "skill_ids": [
+        "4e-b-multiples-diviseurs-premiers-skill",
+        "4e-b-multiples-diviseurs-premiers-prime",
+        "4e-b-multiples-diviseurs-premiers-fraction",
+        "4e-b-multiples-diviseurs-premiers-problem"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-multiples-diviseurs-premiers.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-multiples-diviseurs-premiers-assistant_explanation",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-multiples-diviseurs-premiers"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Utiliser les critères de divisibilité par 2, 3, 5, 9 et 10 et déterminer les diviseurs d’un nombre.",
+        "Effectuer une division euclidienne et reconnaître un nombre premier.",
+        "Décomposer un entier en facteurs premiers, simplifier une fraction et résoudre un petit problème de divisibilité."
+      ],
+      "skill_ids": [
+        "4e-b-multiples-diviseurs-premiers-skill",
+        "4e-b-multiples-diviseurs-premiers-prime",
+        "4e-b-multiples-diviseurs-premiers-fraction",
+        "4e-b-multiples-diviseurs-premiers-problem"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-multiples-diviseurs-premiers.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-volumes-solides-course",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-volumes-solides"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Convertir des unités de volume et de contenance.",
+        "Calculer le volume d’un prisme droit et d’un cylindre à partir de l’aire de la base et de la hauteur.",
+        "Calculer le volume d’une pyramide, d’un cône et d’une boule, et vérifier la cohérence des unités."
+      ],
+      "skill_ids": [
+        "4e-b-volumes-solides-skill",
+        "4e-b-volumes-solides-units"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-volumes-solides-revision_sheet",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-volumes-solides"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Convertir des unités de volume et de contenance.",
+        "Calculer le volume d’un prisme droit et d’un cylindre à partir de l’aire de la base et de la hauteur.",
+        "Calculer le volume d’une pyramide, d’un cône et d’une boule, et vérifier la cohérence des unités."
+      ],
+      "skill_ids": [
+        "4e-b-volumes-solides-skill",
+        "4e-b-volumes-solides-units"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-volumes-solides-quiz",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-volumes-solides"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Convertir des unités de volume et de contenance.",
+        "Calculer le volume d’un prisme droit et d’un cylindre à partir de l’aire de la base et de la hauteur.",
+        "Calculer le volume d’une pyramide, d’un cône et d’une boule, et vérifier la cohérence des unités."
+      ],
+      "skill_ids": [
+        "4e-b-volumes-solides-skill",
+        "4e-b-volumes-solides-units"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-volumes-solides-exercise",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-volumes-solides"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Convertir des unités de volume et de contenance.",
+        "Calculer le volume d’un prisme droit et d’un cylindre à partir de l’aire de la base et de la hauteur.",
+        "Calculer le volume d’une pyramide, d’un cône et d’une boule, et vérifier la cohérence des unités."
+      ],
+      "skill_ids": [
+        "4e-b-volumes-solides-skill",
+        "4e-b-volumes-solides-units"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-volumes-solides-assessment",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-volumes-solides"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Convertir des unités de volume et de contenance.",
+        "Calculer le volume d’un prisme droit et d’un cylindre à partir de l’aire de la base et de la hauteur.",
+        "Calculer le volume d’une pyramide, d’un cône et d’une boule, et vérifier la cohérence des unités."
+      ],
+      "skill_ids": [
+        "4e-b-volumes-solides-skill",
+        "4e-b-volumes-solides-units"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-volumes-solides-audio",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-volumes-solides"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Convertir des unités de volume et de contenance.",
+        "Calculer le volume d’un prisme droit et d’un cylindre à partir de l’aire de la base et de la hauteur.",
+        "Calculer le volume d’une pyramide, d’un cône et d’une boule, et vérifier la cohérence des unités."
+      ],
+      "skill_ids": [
+        "4e-b-volumes-solides-skill",
+        "4e-b-volumes-solides-units"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-volumes-solides-assistant_explanation",
+      "program_id": "4e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-volumes-solides"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Convertir des unités de volume et de contenance.",
+        "Calculer le volume d’un prisme droit et d’un cylindre à partir de l’aire de la base et de la hauteur.",
+        "Calculer le volume d’une pyramide, d’un cône et d’une boule, et vérifier la cohérence des unités."
+      ],
+      "skill_ids": [
+        "4e-b-volumes-solides-skill",
+        "4e-b-volumes-solides-units"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-passe-simple-imparfait-course",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-passe-simple-imparfait"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Former l’imparfait et le passé simple des verbes courants.",
+        "Distinguer l’arrière-plan (imparfait) et le premier plan (passé simple) dans un récit.",
+        "Réécrire un court texte en changeant de temps en justifiant l’effet produit."
+      ],
+      "skill_ids": [
+        "4e-b-passe-simple-imparfait-forms",
+        "4e-b-passe-simple-imparfait-values"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-passe-simple-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-passe-simple-imparfait-revision_sheet",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-passe-simple-imparfait"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Former l’imparfait et le passé simple des verbes courants.",
+        "Distinguer l’arrière-plan (imparfait) et le premier plan (passé simple) dans un récit.",
+        "Réécrire un court texte en changeant de temps en justifiant l’effet produit."
+      ],
+      "skill_ids": [
+        "4e-b-passe-simple-imparfait-forms",
+        "4e-b-passe-simple-imparfait-values"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-passe-simple-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-passe-simple-imparfait-quiz",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-passe-simple-imparfait"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Former l’imparfait et le passé simple des verbes courants.",
+        "Distinguer l’arrière-plan (imparfait) et le premier plan (passé simple) dans un récit.",
+        "Réécrire un court texte en changeant de temps en justifiant l’effet produit."
+      ],
+      "skill_ids": [
+        "4e-b-passe-simple-imparfait-forms",
+        "4e-b-passe-simple-imparfait-values"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-passe-simple-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-passe-simple-imparfait-exercise",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-passe-simple-imparfait"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Former l’imparfait et le passé simple des verbes courants.",
+        "Distinguer l’arrière-plan (imparfait) et le premier plan (passé simple) dans un récit.",
+        "Réécrire un court texte en changeant de temps en justifiant l’effet produit."
+      ],
+      "skill_ids": [
+        "4e-b-passe-simple-imparfait-forms",
+        "4e-b-passe-simple-imparfait-values"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-passe-simple-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-passe-simple-imparfait-assessment",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-passe-simple-imparfait"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Former l’imparfait et le passé simple des verbes courants.",
+        "Distinguer l’arrière-plan (imparfait) et le premier plan (passé simple) dans un récit.",
+        "Réécrire un court texte en changeant de temps en justifiant l’effet produit."
+      ],
+      "skill_ids": [
+        "4e-b-passe-simple-imparfait-forms",
+        "4e-b-passe-simple-imparfait-values"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-passe-simple-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-passe-simple-imparfait-audio",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-passe-simple-imparfait"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Former l’imparfait et le passé simple des verbes courants.",
+        "Distinguer l’arrière-plan (imparfait) et le premier plan (passé simple) dans un récit.",
+        "Réécrire un court texte en changeant de temps en justifiant l’effet produit."
+      ],
+      "skill_ids": [
+        "4e-b-passe-simple-imparfait-forms",
+        "4e-b-passe-simple-imparfait-values"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-passe-simple-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-passe-simple-imparfait-assistant_explanation",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-passe-simple-imparfait"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Former l’imparfait et le passé simple des verbes courants.",
+        "Distinguer l’arrière-plan (imparfait) et le premier plan (passé simple) dans un récit.",
+        "Réécrire un court texte en changeant de temps en justifiant l’effet produit."
+      ],
+      "skill_ids": [
+        "4e-b-passe-simple-imparfait-forms",
+        "4e-b-passe-simple-imparfait-values"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-passe-simple-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-formation-des-mots-course",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-formation-des-mots"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer mot simple, mot dérivé et mot composé, et repérer le radical, le préfixe et le suffixe.",
+        "Utiliser le sens de quelques préfixes, suffixes et racines latines ou grecques pour comprendre et orthographier des mots.",
+        "Organiser des mots en familles de mots et en champs lexicaux."
+      ],
+      "skill_ids": [
+        "4e-b-formation-des-mots-derive",
+        "4e-b-formation-des-mots-sens",
+        "4e-b-formation-des-mots-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-formation-des-mots-revision_sheet",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-formation-des-mots"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer mot simple, mot dérivé et mot composé, et repérer le radical, le préfixe et le suffixe.",
+        "Utiliser le sens de quelques préfixes, suffixes et racines latines ou grecques pour comprendre et orthographier des mots.",
+        "Organiser des mots en familles de mots et en champs lexicaux."
+      ],
+      "skill_ids": [
+        "4e-b-formation-des-mots-derive",
+        "4e-b-formation-des-mots-sens",
+        "4e-b-formation-des-mots-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-formation-des-mots-quiz",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-formation-des-mots"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer mot simple, mot dérivé et mot composé, et repérer le radical, le préfixe et le suffixe.",
+        "Utiliser le sens de quelques préfixes, suffixes et racines latines ou grecques pour comprendre et orthographier des mots.",
+        "Organiser des mots en familles de mots et en champs lexicaux."
+      ],
+      "skill_ids": [
+        "4e-b-formation-des-mots-derive",
+        "4e-b-formation-des-mots-sens",
+        "4e-b-formation-des-mots-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-formation-des-mots-exercise",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-formation-des-mots"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer mot simple, mot dérivé et mot composé, et repérer le radical, le préfixe et le suffixe.",
+        "Utiliser le sens de quelques préfixes, suffixes et racines latines ou grecques pour comprendre et orthographier des mots.",
+        "Organiser des mots en familles de mots et en champs lexicaux."
+      ],
+      "skill_ids": [
+        "4e-b-formation-des-mots-derive",
+        "4e-b-formation-des-mots-sens",
+        "4e-b-formation-des-mots-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-formation-des-mots-assessment",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-formation-des-mots"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer mot simple, mot dérivé et mot composé, et repérer le radical, le préfixe et le suffixe.",
+        "Utiliser le sens de quelques préfixes, suffixes et racines latines ou grecques pour comprendre et orthographier des mots.",
+        "Organiser des mots en familles de mots et en champs lexicaux."
+      ],
+      "skill_ids": [
+        "4e-b-formation-des-mots-derive",
+        "4e-b-formation-des-mots-sens",
+        "4e-b-formation-des-mots-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-formation-des-mots-audio",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-formation-des-mots"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer mot simple, mot dérivé et mot composé, et repérer le radical, le préfixe et le suffixe.",
+        "Utiliser le sens de quelques préfixes, suffixes et racines latines ou grecques pour comprendre et orthographier des mots.",
+        "Organiser des mots en familles de mots et en champs lexicaux."
+      ],
+      "skill_ids": [
+        "4e-b-formation-des-mots-derive",
+        "4e-b-formation-des-mots-sens",
+        "4e-b-formation-des-mots-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-formation-des-mots-assistant_explanation",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-formation-des-mots"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer mot simple, mot dérivé et mot composé, et repérer le radical, le préfixe et le suffixe.",
+        "Utiliser le sens de quelques préfixes, suffixes et racines latines ou grecques pour comprendre et orthographier des mots.",
+        "Organiser des mots en familles de mots et en champs lexicaux."
+      ],
+      "skill_ids": [
+        "4e-b-formation-des-mots-derive",
+        "4e-b-formation-des-mots-sens",
+        "4e-b-formation-des-mots-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-discours-rapporte-course",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-discours-rapporte"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect en adaptant personne, temps et repères.",
+        "Insérer des paroles rapportées dans un récit avec une ponctuation correcte."
+      ],
+      "skill_ids": [
+        "4e-b-discours-rapporte-skill",
+        "4e-b-discours-rapporte-insert",
+        "4e-b-discours-rapporte-enonc"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-discours-rapporte-revision_sheet",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-discours-rapporte"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect en adaptant personne, temps et repères.",
+        "Insérer des paroles rapportées dans un récit avec une ponctuation correcte."
+      ],
+      "skill_ids": [
+        "4e-b-discours-rapporte-skill",
+        "4e-b-discours-rapporte-insert",
+        "4e-b-discours-rapporte-enonc"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-discours-rapporte-quiz",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-discours-rapporte"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect en adaptant personne, temps et repères.",
+        "Insérer des paroles rapportées dans un récit avec une ponctuation correcte."
+      ],
+      "skill_ids": [
+        "4e-b-discours-rapporte-skill",
+        "4e-b-discours-rapporte-insert",
+        "4e-b-discours-rapporte-enonc"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-discours-rapporte-exercise",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-discours-rapporte"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect en adaptant personne, temps et repères.",
+        "Insérer des paroles rapportées dans un récit avec une ponctuation correcte."
+      ],
+      "skill_ids": [
+        "4e-b-discours-rapporte-skill",
+        "4e-b-discours-rapporte-insert",
+        "4e-b-discours-rapporte-enonc"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-discours-rapporte-assessment",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-discours-rapporte"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect en adaptant personne, temps et repères.",
+        "Insérer des paroles rapportées dans un récit avec une ponctuation correcte."
+      ],
+      "skill_ids": [
+        "4e-b-discours-rapporte-skill",
+        "4e-b-discours-rapporte-insert",
+        "4e-b-discours-rapporte-enonc"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-discours-rapporte-audio",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-discours-rapporte"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect en adaptant personne, temps et repères.",
+        "Insérer des paroles rapportées dans un récit avec une ponctuation correcte."
+      ],
+      "skill_ids": [
+        "4e-b-discours-rapporte-skill",
+        "4e-b-discours-rapporte-insert",
+        "4e-b-discours-rapporte-enonc"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "4e-b-discours-rapporte-assistant_explanation",
+      "program_id": "4e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "4e-b-discours-rapporte"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+        "Transposer des paroles du discours direct au discours indirect en adaptant personne, temps et repères.",
+        "Insérer des paroles rapportées dans un récit avec une ponctuation correcte."
+      ],
+      "skill_ids": [
+        "4e-b-discours-rapporte-skill",
+        "4e-b-discours-rapporte-insert",
+        "4e-b-discours-rapporte-enonc"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/4e-b-discours-rapporte.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

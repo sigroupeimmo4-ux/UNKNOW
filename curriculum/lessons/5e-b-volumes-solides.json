@@ -1,0 +1,129 @@
+{
+  "id": "5e-b-volumes-solides",
+  "title": "Volumes du cube, du pavé droit et du prisme droit ; unités de volume et de capacité",
+  "chapter_id": "5e-b-volumes-solides",
+  "program_id": "5e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Calculer le volume d’un cube et d’un pavé droit.",
+    "Calculer le volume d’un prisme droit à partir de l’aire de sa base et de sa hauteur.",
+    "Convertir des unités de volume et de capacité (cm³, dm³, m³, mL, L).",
+    "Résoudre un problème de contenance en choisissant des unités cohérentes."
+  ],
+  "skill_ids": [
+    "5e-b-volumes-solides-volume",
+    "5e-b-volumes-solides-unites"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Mesurer un volume",
+      "text": "Le volume mesure la place occupée par un solide. On le compte avec des cubes unités : un cube de 1 cm d’arête a un volume de 1 cm³. Pour un cube d’arête c, V = c × c × c ; par exemple, si c = 4 cm, V = 4 × 4 × 4 = 64 cm³. Pour un pavé droit de longueur L, de largeur l et de hauteur h, V = L × l × h. Exemple : 5 cm × 3 cm × 2 cm donnent 30 cm³ (il y a 5 × 3 = 15 cubes par couche et 2 couches)."
+    },
+    {
+      "title": "Le prisme droit",
+      "text": "Un prisme droit a deux bases identiques, qui sont des polygones parallèles, et des faces latérales rectangulaires. Son volume est V = aire de la base × hauteur du prisme. Exemple : la base est un triangle rectangle dont les côtés de l’angle droit mesurent 3 cm et 4 cm ; son aire est 3 × 4 ÷ 2 = 6 cm². Si le prisme a une hauteur de 10 cm, son volume est 6 × 10 = 60 cm³. Un pavé droit est un cas particulier de prisme droit dont la base est un rectangle."
+    },
+    {
+      "title": "Unités de volume et de capacité",
+      "text": "On a 1 m³ = 1 000 dm³ et 1 dm³ = 1 000 cm³ : chaque unité de volume vaut 1 000 fois la suivante. La capacité d’un récipient se mesure en litres : 1 dm³ = 1 L, 1 L = 1 000 mL et 1 cm³ = 1 mL. Ainsi 2,5 dm³ = 2 500 cm³ = 2,5 L = 2 500 mL, et 3 m³ = 3 000 dm³ = 3 000 L."
+    },
+    {
+      "title": "Calculer avec des unités cohérentes",
+      "text": "Avant de calculer un volume, on exprime toutes les longueurs dans la même unité. Exemple : un pavé mesure 20 cm, 10 cm et 0,5 dm. On convertit 0,5 dm = 5 cm, puis V = 20 × 10 × 5 = 1 000 cm³. Comme 1 000 cm³ = 1 dm³, le pavé peut contenir 1 L."
+    }
+  ],
+  "revision_sheet": [
+    "Cube d’arête c : V = c × c × c. Pavé droit : V = L × l × h.",
+    "Prisme droit : V = aire de la base × hauteur.",
+    "1 m³ = 1 000 dm³ ; 1 dm³ = 1 000 cm³.",
+    "1 dm³ = 1 L ; 1 L = 1 000 mL ; 1 cm³ = 1 mL.",
+    "Toujours convertir les longueurs dans la même unité avant de calculer.",
+    "Un volume s’exprime en cm³, dm³ ou m³ ; une aire s’exprime en cm², dm² ou m²."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est le volume d’un cube de 3 cm d’arête ?",
+      "choices": [
+        "9 cm³",
+        "27 cm³",
+        "12 cm³"
+      ],
+      "correct_index": 1,
+      "explanation": "V = 3 × 3 × 3 = 27 cm³. Le nombre 9 serait l’aire d’une face (en cm²)."
+    },
+    {
+      "prompt": "Quel est le volume d’un pavé droit de 6 cm, 4 cm et 5 cm ?",
+      "choices": [
+        "120 cm³",
+        "15 cm³",
+        "120 cm²"
+      ],
+      "correct_index": 0,
+      "explanation": "V = 6 × 4 × 5 = 120 cm³. Un volume s’exprime en cm³ et non en cm²."
+    },
+    {
+      "prompt": "3 L correspondent à combien de dm³ ?",
+      "choices": [
+        "30 dm³",
+        "3 000 dm³",
+        "3 dm³"
+      ],
+      "correct_index": 2,
+      "explanation": "On a 1 L = 1 dm³, donc 3 L = 3 dm³."
+    },
+    {
+      "prompt": "Un prisme droit a une base d’aire 12 cm² et une hauteur de 5 cm. Quel est son volume ?",
+      "choices": [
+        "17 cm³",
+        "60 cm³",
+        "30 cm³"
+      ],
+      "correct_index": 1,
+      "explanation": "V = aire de la base × hauteur = 12 × 5 = 60 cm³."
+    },
+    {
+      "prompt": "4 500 cm³ correspondent à combien de litres ?",
+      "choices": [
+        "0,45 L",
+        "45 L",
+        "4,5 L"
+      ],
+      "correct_index": 2,
+      "explanation": "4 500 cm³ = 4,5 dm³ (on divise par 1 000) et 1 dm³ = 1 L, donc 4 500 cm³ = 4,5 L."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Un aquarium est un pavé droit de 50 cm de long, 30 cm de large et 40 cm de haut. Calcule son volume en cm³, puis en litres.",
+      "solution": "V = 50 × 30 × 40 = 60 000 cm³. Comme 60 000 cm³ = 60 dm³, la capacité est de 60 L.",
+      "success_criterion": "Multiplier les trois dimensions puis convertir cm³ en dm³ (÷ 1 000) puis en litres."
+    },
+    {
+      "prompt": "Un prisme droit a pour base un triangle de base 8 cm et de hauteur 5 cm. La hauteur du prisme est 12 cm. Calcule son volume.",
+      "solution": "Aire de la base : 8 × 5 ÷ 2 = 20 cm². Volume : 20 × 12 = 240 cm³.",
+      "success_criterion": "Calculer d’abord l’aire de la base triangulaire, puis la multiplier par la hauteur du prisme."
+    },
+    {
+      "prompt": "Convertis : a) 7,2 dm³ en cm³ ; b) 850 mL en L ; c) 0,03 m³ en dm³.",
+      "solution": "a) 7,2 dm³ = 7 200 cm³ ; b) 850 mL = 0,85 L ; c) 0,03 m³ = 30 dm³.",
+      "success_criterion": "Utiliser 1 dm³ = 1 000 cm³, 1 L = 1 000 mL et 1 m³ = 1 000 dm³."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un cube a une arête de 10 cm. Calcule son volume en cm³, puis donne sa capacité en litres.",
+      "solution": "V = 10 × 10 × 10 = 1 000 cm³ = 1 dm³, donc le cube peut contenir 1 L.",
+      "success_criterion": "Calculer correctement le volume et relier 1 dm³ à 1 L."
+    },
+    {
+      "prompt": "Un bassin a la forme d’un pavé droit de 4 m de long, 2,5 m de large et 1,2 m de profondeur. Quel est son volume en m³ ? Combien de litres d’eau contient-il quand il est plein ?",
+      "solution": "V = 4 × 2,5 × 1,2 = 12 m³ (car 4 × 2,5 = 10). Comme 1 m³ = 1 000 L, le bassin contient 12 000 L quand il est plein.",
+      "success_criterion": "Multiplier les trois dimensions exprimées dans la même unité puis convertir en litres."
+    }
+  ],
+  "audio_transcript": "Le volume d’un solide mesure la place qu’il occupe. Pour un cube, on multiplie l’arête trois fois : un cube de trois centimètres d’arête a un volume de vingt-sept centimètres cubes. Pour un pavé droit, on multiplie la longueur, la largeur et la hauteur. Pour un prisme droit, on multiplie l’aire de la base par la hauteur. Pour les unités, un mètre cube vaut mille décimètres cubes, un décimètre cube vaut mille centimètres cubes, et un décimètre cube est égal à un litre. Avant de calculer, on convertit toutes les longueurs dans la même unité.",
+  "guided_explanation": "Pour un pavé droit, imagine que tu empiles des petits cubes de 1 cm de côté. Une couche contient longueur fois largeur cubes, et tu empiles autant de couches que la hauteur. Voilà pourquoi V = L × l × h. Pour un prisme droit, c’est la même idée : la base est la couche, et la hauteur est le nombre de couches. Pour les litres, retiens la boîte de 1 dm : un cube de 10 cm d’arête a un volume de 1 000 cm³ et contient exactement 1 L, donc 1 dm³ = 1 L et 1 cm³ = 1 mL."
+}

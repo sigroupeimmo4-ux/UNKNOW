@@ -1,0 +1,129 @@
+{
+  "id": "cm1-b-calcul-mental-procedures",
+  "title": "Calculer mentalement : multiplier par 10, 100, 1 000, par 4 et par 5, ajouter 9 ou 19",
+  "chapter_id": "cm1-b-calcul-mental-procedures",
+  "program_id": "CM1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Multiplier un nombre entier par 10, 100 ou 1 000 en s’appuyant sur la position des chiffres.",
+    "Ajouter ou soustraire 9 ou 19 à un nombre en passant par 10 ou 20.",
+    "Multiplier un nombre entier par 4 ou par 5 avec une procédure de calcul mental."
+  ],
+  "skill_ids": [
+    "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+    "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+    "cm1-b-calcul-mental-procedures-multiplier-4-5-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Multiplier par 10, 100 ou 1 000",
+      "text": "Quand on multiplie par 10, chaque chiffre prend une valeur dix fois plus grande : il passe au rang suivant, vers la gauche. 36 × 10 = 360 ; 36 × 100 = 3 600 ; 36 × 1 000 = 36 000. Pour 408 × 100 = 40 800, les chiffres 4, 0 et 8 se décalent de deux rangs et des zéros comblent les rangs libres. Retiens la raison, pas seulement la phrase « on ajoute des zéros »."
+    },
+    {
+      "title": "Ajouter ou soustraire 9 ou 19",
+      "text": "Ajouter 9, c’est ajouter 10 puis enlever 1 : 47 + 9 = 47 + 10 − 1 = 56. Ajouter 19, c’est ajouter 20 puis enlever 1 : 83 + 19 = 83 + 20 − 1 = 102. Soustraire 9, c’est enlever 10 puis ajouter 1 : 74 − 9 = 74 − 10 + 1 = 65. Soustraire 19, c’est enlever 20 puis ajouter 1 : 152 − 19 = 152 − 20 + 1 = 133."
+    },
+    {
+      "title": "Multiplier par 4 et par 5",
+      "text": "Multiplier par 4, c’est doubler deux fois : 35 × 4, on double 35 pour obtenir 70, puis on double 70 pour obtenir 140. Multiplier par 5, c’est multiplier par 10 puis prendre la moitié : 48 × 5, on calcule 48 × 10 = 480, puis 480 ÷ 2 = 240. Autre exemple : 26 × 5 = 260 ÷ 2 = 130. Ces procédures évitent d’écrire l’opération ; on peut noter les résultats intermédiaires au début."
+    }
+  ],
+  "revision_sheet": [
+    "× 10 : chaque chiffre avance d’un rang vers la gauche (36 × 10 = 360) ; × 100 : de deux rangs ; × 1 000 : de trois rangs.",
+    "+ 9 : on ajoute 10 puis on enlève 1 ; + 19 : on ajoute 20 puis on enlève 1.",
+    "− 9 : on enlève 10 puis on ajoute 1 ; − 19 : on enlève 20 puis on ajoute 1.",
+    "× 4 : on double, puis on double encore (35 × 4 : 70 puis 140).",
+    "× 5 : on multiplie par 10, puis on prend la moitié (48 × 5 : 480 puis 240)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien font 57 × 100 ?",
+      "choices": [
+        "570",
+        "5 700",
+        "57 000"
+      ],
+      "correct_index": 1,
+      "explanation": "× 100 décale chaque chiffre de deux rangs : 57 × 100 = 5 700."
+    },
+    {
+      "prompt": "Combien font 63 + 19 ?",
+      "choices": [
+        "82",
+        "83",
+        "72"
+      ],
+      "correct_index": 0,
+      "explanation": "63 + 19 = 63 + 20 − 1 = 83 − 1 = 82."
+    },
+    {
+      "prompt": "Combien font 80 − 9 ?",
+      "choices": [
+        "70",
+        "89",
+        "71"
+      ],
+      "correct_index": 2,
+      "explanation": "80 − 9 = 80 − 10 + 1 = 71."
+    },
+    {
+      "prompt": "Pour calculer 24 × 4 de tête, quelle procédure est correcte ?",
+      "choices": [
+        "multiplier 24 par 10 puis en prendre la moitié",
+        "doubler 24 deux fois : 48 puis 96",
+        "ajouter 4 à 24"
+      ],
+      "correct_index": 1,
+      "explanation": "Multiplier par 4, c’est doubler deux fois : 24 × 2 = 48, puis 48 × 2 = 96."
+    },
+    {
+      "prompt": "Combien font 36 × 5 ?",
+      "choices": [
+        "360",
+        "90",
+        "180"
+      ],
+      "correct_index": 2,
+      "explanation": "36 × 5 = 36 × 10 ÷ 2 = 360 ÷ 2 = 180."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule de tête : 84 × 10 ; 305 × 100 ; 27 × 1 000.",
+      "solution": "84 × 10 = 840 ; 305 × 100 = 30 500 ; 27 × 1 000 = 27 000.",
+      "success_criterion": "Décaler les chiffres de 1, 2 ou 3 rangs vers la gauche."
+    },
+    {
+      "prompt": "Calcule de tête en passant par 10 ou 20 : 46 + 9 ; 38 + 19 ; 92 − 9 ; 75 − 19.",
+      "solution": "46 + 9 = 46 + 10 − 1 = 55 ; 38 + 19 = 38 + 20 − 1 = 57 ; 92 − 9 = 92 − 10 + 1 = 83 ; 75 − 19 = 75 − 20 + 1 = 56.",
+      "success_criterion": "Passer par 10 ou 20, puis corriger de 1."
+    },
+    {
+      "prompt": "Calcule de tête : 15 × 4 ; 18 × 4 ; 14 × 5 ; 22 × 5.",
+      "solution": "15 × 4 : 30 puis 60 ; 18 × 4 : 36 puis 72 ; 14 × 5 : 140 ÷ 2 = 70 ; 22 × 5 : 220 ÷ 2 = 110.",
+      "success_criterion": "Doubler deux fois pour × 4 ; multiplier par 10 puis prendre la moitié pour × 5."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une boîte contient 100 crayons. Un magasin possède 36 boîtes. Combien de crayons y a-t-il ? Explique ton calcul mental.",
+      "solution": "36 × 100 = 3 600. Il y a 3 600 crayons : multiplier par 100 décale les chiffres de deux rangs vers la gauche.",
+      "success_criterion": "Utiliser une multiplication par 100 et justifier par le décalage des chiffres."
+    },
+    {
+      "prompt": "Un livre coûte 19 €. Théo achète ce livre et un carnet à 47 €. Combien paie-t-il ? Calcule de tête.",
+      "solution": "19 + 47 = 47 + 20 − 1 = 67 − 1 = 66. Théo paie 66 €.",
+      "success_criterion": "Ajouter 19 en passant par 20, puis corriger de 1, et répondre avec l’unité."
+    },
+    {
+      "prompt": "Chaque élève reçoit 5 stickers. Il y a 28 élèves. Combien de stickers faut-il ? Utilise « × 10 puis la moitié ».",
+      "solution": "28 × 10 = 280, puis 280 ÷ 2 = 140. Il faut 140 stickers.",
+      "success_criterion": "Multiplier par 10, prendre la moitié et conclure par une phrase."
+    }
+  ],
+  "audio_transcript": "Le calcul mental, c’est aller vite en réfléchissant bien. Quand on multiplie un nombre par dix, chaque chiffre avance d’un rang vers la gauche : trente-six fois dix, cela fait trois cent soixante. Par cent, il avance de deux rangs : trente-six fois cent, trois mille six cents. Pour ajouter neuf, on ajoute dix et on enlève un. Pour ajouter dix-neuf, on ajoute vingt et on enlève un. Pour multiplier par quatre, on double deux fois. Pour multiplier par cinq, on multiplie par dix, puis on prend la moitié : quarante-huit fois cinq, c’est quatre cent quatre-vingts divisé par deux, soit deux cent quarante.",
+  "guided_explanation": "Quand tu calcules de tête, cherche un chemin facile. Pour quarante-sept plus neuf, tu sais très bien ajouter dix : tu obtiens cinquante-sept. Mais tu as ajouté un de trop, donc tu enlèves un : cinquante-six. Pour multiplier par cinq, pense à une main qui a cinq doigts et deux mains qui font dix : multiplier par cinq, c’est la moitié de multiplier par dix. Au début, écris tes résultats intermédiaires ; peu à peu, tu pourras les garder dans ta tête."
+}

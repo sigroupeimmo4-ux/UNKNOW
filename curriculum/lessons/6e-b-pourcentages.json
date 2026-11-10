@@ -1,0 +1,133 @@
+{
+  "id": "6e-b-pourcentages",
+  "title": "Les pourcentages : sens, proportion et application",
+  "chapter_id": "6e-b-pourcentages",
+  "program_id": "6e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Comprendre qu’un pourcentage est une fraction de dénominateur 100.",
+    "Passer d’un pourcentage à une fraction et à un nombre décimal.",
+    "Exprimer une proportion simple sous forme de pourcentage.",
+    "Calculer un pourcentage d’une quantité."
+  ],
+  "skill_ids": [
+    "6e-b-pourcentages-skill-sens",
+    "6e-b-pourcentages-skill-proportion",
+    "6e-b-pourcentages-skill-appliquer"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le sens d’un pourcentage",
+      "text": "« Pour cent » veut dire « pour 100 ». Ainsi 25 % = 25/100 = 0,25 = 1/4. Quelques repères à connaître : 50 % = 1/2 = 0,5 ; 25 % = 1/4 ; 75 % = 3/4 = 0,75 ; 10 % = 1/10 = 0,1 ; 100 % = le tout."
+    },
+    {
+      "title": "Appliquer un pourcentage",
+      "text": "Pour calculer 25 % de 80, on prend le quart de 80 : 80 ÷ 4 = 20. Pour 10 % de 340, on divise par 10 : 34. Pour 20 % de 150, on prend 2 fois 10 % : 15 × 2 = 30. Pour 75 % de 48 : 48 ÷ 4 = 12 puis 3 × 12 = 36. En général : t % de N = t/100 × N."
+    },
+    {
+      "title": "Calculer une proportion",
+      "text": "Pour exprimer « 12 élèves sur 30 » en pourcentage, on écrit la fraction 12/30, on la simplifie en 4/10 puis on se ramène à 100 : 4/10 = 40/100 = 40 %. De même, 9 sur 36 = 1/4 = 25 % et 3 sur 20 = 15/100 = 15 %."
+    },
+    {
+      "title": "Un exemple concret : les soldes",
+      "text": "Un article à 45 € est soldé à − 20 %. La réduction vaut 20 % de 45 : 10 % de 45 = 4,5 ; donc 20 % = 9 €. Le prix à payer est 45 − 9 = 36 €. Un pourcentage de partie d’un tout ne dépasse pas 100 % : la partie ne peut pas être plus grande que le tout."
+    }
+  ],
+  "revision_sheet": [
+    "t % = t/100 ; 25 % = 1/4 = 0,25 ; 50 % = 1/2 ; 75 % = 3/4 ; 10 % = 1/10.",
+    "Calculer t % de N : t/100 × N (10 % : diviser par 10 ; 25 % : diviser par 4 ; 50 % : diviser par 2).",
+    "Proportion : écrire la fraction partie/tout, la ramener au dénominateur 100 (12 sur 30 = 40/100 = 40 %).",
+    "Prix après une réduction de t % : prix − t % du prix."
+  ],
+  "quiz": [
+    {
+      "prompt": "À quelle fraction correspond 25 % ?",
+      "choices": [
+        "1/2",
+        "2/5",
+        "1/4"
+      ],
+      "correct_index": 2,
+      "explanation": "25 % = 25/100 = 1/4."
+    },
+    {
+      "prompt": "Combien vaut 10 % de 340 ?",
+      "choices": [
+        "3,4",
+        "34",
+        "310"
+      ],
+      "correct_index": 1,
+      "explanation": "10 % = 1/10 : 340 ÷ 10 = 34."
+    },
+    {
+      "prompt": "Dans un groupe de 20 élèves, 5 portent des lunettes. Quel pourcentage cela représente-t-il ?",
+      "choices": [
+        "5 %",
+        "20 %",
+        "25 %"
+      ],
+      "correct_index": 2,
+      "explanation": "5/20 = 25/100 = 25 %."
+    },
+    {
+      "prompt": "Combien vaut 75 % de 48 ?",
+      "choices": [
+        "12",
+        "27",
+        "36"
+      ],
+      "correct_index": 2,
+      "explanation": "75 % = 3/4 : 48 ÷ 4 = 12 puis 3 × 12 = 36."
+    },
+    {
+      "prompt": "Quelle est l’écriture à virgule de 40 % ?",
+      "choices": [
+        "4",
+        "0,4",
+        "0,04"
+      ],
+      "correct_index": 1,
+      "explanation": "40 % = 40/100 = 0,4."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris sous la forme d’une fraction de dénominateur 100 puis en écriture à virgule : 35 % ; 7 % ; 60 %.",
+      "solution": "35 % = 35/100 = 0,35 ; 7 % = 7/100 = 0,07 ; 60 % = 60/100 = 0,6.",
+      "success_criterion": "Passer de t % à t/100 puis à l’écriture à virgule."
+    },
+    {
+      "prompt": "Calcule : 50 % de 84 ; 10 % de 250 ; 25 % de 36.",
+      "solution": "50 % de 84 = 84 ÷ 2 = 42 ; 10 % de 250 = 25 ; 25 % de 36 = 36 ÷ 4 = 9.",
+      "success_criterion": "Utiliser les fractions 1/2, 1/10 et 1/4."
+    },
+    {
+      "prompt": "Dans un cageot de 24 pommes, 6 sont abîmées. Quel pourcentage de pommes est abîmé ?",
+      "solution": "6/24 = 1/4 = 25/100, soit 25 %.",
+      "success_criterion": "Écrire la fraction partie/tout puis la ramener au dénominateur 100."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un livre coûte 40 €. Il est vendu avec 25 % de réduction. Quel est le prix à payer ?",
+      "solution": "25 % de 40 = 40 ÷ 4 = 10 €. Prix à payer : 40 − 10 = 30 €.",
+      "success_criterion": "Calculer la réduction puis la soustraire."
+    },
+    {
+      "prompt": "Dans une classe de 25 élèves, 15 sont demi-pensionnaires. Quel est le pourcentage de demi-pensionnaires ?",
+      "solution": "15/25 = 3/5 = 60/100, soit 60 %.",
+      "success_criterion": "Simplifier la fraction puis obtenir le dénominateur 100."
+    },
+    {
+      "prompt": "Un trajet fait 80 km. On en a parcouru 75 %. Combien de kilomètres reste-t-il à faire ?",
+      "solution": "75 % de 80 = 80 ÷ 4 × 3 = 60 km parcourus. Il reste 80 − 60 = 20 km (soit 25 % du trajet).",
+      "success_criterion": "Appliquer 75 % puis soustraire du total."
+    }
+  ],
+  "audio_transcript": "Un pourcentage, c’est une fraction de dénominateur cent. Vingt-cinq pour cent, c’est vingt-cinq centièmes, c’est-à-dire un quart, soit zéro virgule vingt-cinq. Cinquante pour cent, c’est la moitié. Pour calculer vingt-cinq pour cent de quatre-vingts, on prend le quart de quatre-vingts : vingt. Pour dix pour cent, on divise par dix. Pour trouver un pourcentage, on écrit la fraction partie sur tout, puis on se ramène à cent : douze élèves sur trente, c’est quatre dixièmes, donc quarante pour cent. Pour une réduction de vingt pour cent sur un article à quarante-cinq euros, on calcule neuf euros de réduction : le prix à payer est trente-six euros.",
+  "guided_explanation": "Pense au pourcentage comme à un nombre de parts sur 100. Pour 25 % de 80 : 25 % c’est un quart, donc tu partages 80 en 4 parts égales : 20. Pour 20 %, tu peux calculer 10 % (divise par 10) et doubler. Pour trouver un pourcentage : 15 sur 25. Simplifie : 15/25 = 3/5. Multiplie en haut et en bas par 20 pour obtenir 100 : 60/100, donc 60 %. Vérifie avec 60 % de 25 = 15."
+}

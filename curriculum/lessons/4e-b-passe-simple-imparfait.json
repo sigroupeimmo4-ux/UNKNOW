@@ -1,0 +1,142 @@
+{
+  "id": "4e-b-passe-simple-imparfait",
+  "title": "Imparfait et passé simple : formes et valeurs",
+  "chapter_id": "4e-b-passe-simple-imparfait",
+  "program_id": "4e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Former l’imparfait et le passé simple des verbes courants.",
+    "Distinguer l’arrière-plan (imparfait) et le premier plan (passé simple) dans un récit.",
+    "Réécrire un court texte en changeant de temps en justifiant l’effet produit."
+  ],
+  "skill_ids": [
+    "4e-b-passe-simple-imparfait-forms",
+    "4e-b-passe-simple-imparfait-values"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens, y compris l’exemple « elle lut une page / elle lisait une page »), pages 23–24 ; terminologie, page 26 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "L’imparfait",
+      "text": "On part de la forme « nous » du présent, on enlève -ons pour obtenir le radical, puis on ajoute -ais, -ais, -ait, -ions, -iez, -aient. Exemples : nous chantons → il chantait ; nous finissons → il finissait ; nous prenons → ils prenaient ; être fait exception : j’étais, il était. L’imparfait sert à décrire un décor, une action en cours ou une habitude : « Il pleuvait. » « Chaque soir, il lisait un chapitre. »"
+    },
+    {
+      "title": "Le passé simple (3e personne)",
+      "text": "Le passé simple est le temps des récits écrits. 1er groupe : il chanta, ils chantèrent. 2e groupe : il finit, ils finirent. Verbes en -it : il prit, ils prirent ; il vit, ils virent ; il dit, ils dirent ; il fit, ils firent ; il mit, ils mirent. Verbes en -ut : il eut, ils eurent ; il fut, ils furent ; il put, ils purent ; il voulut ; il sut. Verbes en -int : il vint, ils vinrent ; il tint, ils tinrent. Attention : il chanta (passé simple) n’est pas il chantait (imparfait) ni il chantera (futur)."
+    },
+    {
+      "title": "Valeurs : arrière-plan et premier plan",
+      "text": "L’imparfait présente l’arrière-plan : le décor, ce qui dure, ce qui se répète, une action dont on ne voit ni le début ni la fin. Le passé simple présente le premier plan : les actions successives qui font avancer le récit, vues comme terminées. Exemple : « Il pleuvait (arrière-plan) quand Léa ouvrit la porte et aperçut un chat (premier plan). » Comparer « elle lut une page » (l’action est achevée, vue dans sa totalité) et « elle lisait une page » (l’action est en cours, sans limite précisée)."
+    },
+    {
+      "title": "Réécrire en changeant de temps",
+      "text": "Quand on change le temps d’un texte, le sens et l’effet changent. « Il entra, regarda autour de lui et sourit. » (passé simple : une suite d’actions rapides, style littéraire). À l’oral ou dans un récit familier, on dirait : « Il est entré, il a regardé autour de lui et il a souri. » (passé composé). Si l’on remplace le passé simple par l’imparfait : « Il entrait, regardait autour de lui » : les actions deviennent des habitudes ou des actions en cours, le récit n’avance plus de la même façon."
+    }
+  ],
+  "revision_sheet": [
+    "Imparfait : radical de « nous » au présent + -ais, -ais, -ait, -ions, -iez, -aient.",
+    "Passé simple (3e pers.) : il chanta / ils chantèrent ; il finit / ils finirent ; il prit, fit, vit ; il eut, fut, put ; il vint / ils vinrent.",
+    "Imparfait : arrière-plan (décor, durée, habitude, action en cours).",
+    "Passé simple : premier plan (actions successives, achevées, qui font avancer le récit).",
+    "« Elle lut une page » : action achevée ; « elle lisait une page » : action en cours, sans limite précisée."
+  ],
+  "quiz": [
+    {
+      "prompt": "Complète : « Il ___ à verse quand Léa sortit. »",
+      "choices": [
+        "plut",
+        "pleuvait",
+        "pleuvrait"
+      ],
+      "correct_index": 1,
+      "explanation": "L’imparfait « pleuvait » décrit un décor qui dure ; « sortit » est l’action de premier plan qui l’interrompt. « Plut » est un passé simple et « pleuvrait » un conditionnel."
+    },
+    {
+      "prompt": "Quelle est la forme du passé simple de « prendre » à la 3e personne du pluriel ?",
+      "choices": [
+        "prenaient",
+        "prirent",
+        "prendront"
+      ],
+      "correct_index": 1,
+      "explanation": "Ils prirent (passé simple). « Prenaient » est l’imparfait et « prendront » le futur."
+    },
+    {
+      "prompt": "Dans « Le soleil se couchait. Marie ferma la fenêtre. », quel verbe exprime l’action de premier plan ?",
+      "choices": [
+        "se couchait",
+        "ferma",
+        "les deux"
+      ],
+      "correct_index": 1,
+      "explanation": "« Ferma » (passé simple) est une action achevée qui fait avancer le récit. « Se couchait » (imparfait) décrit le décor, l’arrière-plan."
+    },
+    {
+      "prompt": "Quelle est la forme du passé simple de « venir » à la 3e personne du singulier ?",
+      "choices": [
+        "vient",
+        "vint",
+        "venait"
+      ],
+      "correct_index": 1,
+      "explanation": "Il vint (passé simple). « Vient » est le présent et « venait » l’imparfait."
+    },
+    {
+      "prompt": "Quelle phrase exprime une habitude dans le passé ?",
+      "choices": [
+        "Chaque soir, il lisait un chapitre.",
+        "Un soir, il lut un chapitre.",
+        "Il lira un chapitre."
+      ],
+      "correct_index": 0,
+      "explanation": "Une habitude (ce qui se répète) s’exprime à l’imparfait. « Il lut » raconte un événement précis et « il lira » est au futur."
+    },
+    {
+      "prompt": "Quelle affirmation est juste ?",
+      "choices": [
+        "« Elle lut une page » : l’action est en cours ; « elle lisait une page » : l’action est achevée.",
+        "« Elle lut une page » : l’action est achevée ; « elle lisait une page » : l’action est en cours, sans limite précisée.",
+        "Les deux phrases ont exactement le même sens."
+      ],
+      "correct_index": 1,
+      "explanation": "Le passé simple présente l’action comme terminée et vue dans sa totalité ; l’imparfait la présente en train de se dérouler, sans en préciser la fin."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Conjugue au passé simple, à la 3e personne du pluriel : parler, finir, faire, avoir, être.",
+      "solution": "Ils parlèrent, ils finirent, ils firent, ils eurent, ils furent.",
+      "success_criterion": "Distinguer les terminaisons -èrent, -irent et -urent."
+    },
+    {
+      "prompt": "Relève les verbes à l’imparfait et au passé simple, et précise s’ils expriment l’arrière-plan ou le premier plan : « La nuit tombait. Le vieux marin alluma sa pipe, regarda la mer et se tut. »",
+      "solution": "« Tombait » est à l’imparfait : arrière-plan (le décor). « Alluma », « regarda » et « se tut » sont au passé simple : premier plan (actions successives).",
+      "success_criterion": "Associer imparfait et arrière-plan, passé simple et premier plan."
+    },
+    {
+      "prompt": "Complète avec l’imparfait ou le passé simple : « Quand il (arriver), tout le monde (dormir) déjà. »",
+      "solution": "« Quand il arriva, tout le monde dormait déjà. » Arriva est l’action de premier plan ; dormait décrit la situation en cours.",
+      "success_criterion": "Choisir le temps selon la valeur de chaque verbe."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Mets les verbes entre parenthèses à l’imparfait ou au passé simple : « Ce matin-là, il (faire) beau et les oiseaux (chanter). Léa (prendre) son vélo, (partir) et (voir) un renard. »",
+      "solution": "« Ce matin-là, il faisait beau et les oiseaux chantaient. Léa prit son vélo, partit et vit un renard. » Imparfait pour le décor, passé simple pour les actions successives.",
+      "success_criterion": "Justifier chaque temps par arrière-plan ou premier plan et écrire correctement les terminaisons."
+    },
+    {
+      "prompt": "Explique la différence de sens entre « Il écrivit une lettre. » et « Il écrivait une lettre. »",
+      "solution": "« Il écrivit une lettre » : l’action est terminée, vue dans sa totalité (un fait du récit). « Il écrivait une lettre » : l’action est en cours, sans limite précisée ; elle peut servir de décor à une autre action.",
+      "success_criterion": "Expliquer en termes d’action achevée / en cours, sans simplement traduire les formes."
+    },
+    {
+      "prompt": "Réécris au passé composé : « Il ouvrit la porte et entra. »",
+      "solution": "« Il a ouvert la porte et il est entré. » Le verbe entrer se conjugue avec l’auxiliaire être.",
+      "success_criterion": "Former correctement le passé composé (auxiliaire et participe passé)."
+    }
+  ],
+  "audio_transcript": "Dans un récit, l’imparfait et le passé simple n’ont pas le même rôle. L’imparfait décrit le décor, les habitudes, les actions qui durent : il pleuvait, il lisait chaque soir. C’est l’arrière-plan. Le passé simple raconte les actions successives, terminées, qui font avancer l’histoire : Léa ouvrit la porte et aperçut un chat. C’est le premier plan. Attention aux terminaisons : il chanta au passé simple, il chantait à l’imparfait. Au passé simple, on dit il prit, il vit, il fit, il eut, il fut, il vint. Comparez enfin : elle lut une page, l’action est achevée, et elle lisait une page, l’action est en cours.",
+  "guided_explanation": "Pour choisir entre imparfait et passé simple, pose-toi la question : est-ce le décor ou une habitude, ou bien une action précise qui fait avancer l’histoire ? Dans le premier cas, imparfait ; dans le second, passé simple. Ensuite, vérifie la terminaison : -ait pour l’imparfait, -a / -it / -ut / -int pour les formes courantes du passé simple à la 3e personne du singulier. En cas de doute, remplace le verbe par un autre que tu connais bien, comme chanter ou prendre."
+}

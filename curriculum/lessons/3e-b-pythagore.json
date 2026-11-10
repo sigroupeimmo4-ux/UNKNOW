@@ -1,0 +1,145 @@
+{
+  "id": "3e-b-pythagore",
+  "title": "Le théorème de Pythagore et sa réciproque",
+  "chapter_id": "3e-b-pythagore",
+  "program_id": "3e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Identifier l’hypoténuse et utiliser le théorème de Pythagore pour calculer une longueur, en s’aidant de la racine carrée.",
+    "Utiliser la réciproque pour démontrer qu’un triangle est rectangle ou qu’il ne l’est pas.",
+    "Rédiger une démonstration claire et vérifier la vraisemblance du résultat."
+  ],
+  "skill_ids": [
+    "3e-b-pythagore-skill-longueur",
+    "3e-b-pythagore-skill-racine",
+    "3e-b-pythagore-skill-reciproque"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, (« Le théorème de Pythagore et sa réciproque »), pages 135–136 (pagination du PDF).",
+    "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (définition de la racine carrée ; « Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques »), pages 130–131 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le triangle rectangle et son hypoténuse",
+      "text": "Un triangle rectangle possède un angle droit. Le côté opposé à l’angle droit s’appelle l’hypoténuse ; c’est toujours le côté le plus long. Dans le triangle ABC rectangle en A, l’hypoténuse est [BC]. Théorème de Pythagore : si ABC est rectangle en A, alors BC² = AB² + AC². Le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés."
+    },
+    {
+      "title": "Calculer une longueur",
+      "text": "Pour calculer l’hypoténuse : ABC est rectangle en A avec AB = 6 et AC = 8. D’après le théorème de Pythagore, BC² = AB² + AC² = 36 + 64 = 100, donc BC = √100 = 10. Pour calculer un côté de l’angle droit : ABC est rectangle en A avec BC = 13 et AB = 5. Alors AC² = BC² − AB² = 169 − 25 = 144, donc AC = √144 = 12. La racine carrée d’un nombre positif a, notée √a, est le nombre positif dont le carré est a : √25 = 5, √144 = 12. Si le résultat n’est pas un carré parfait, on donne une valeur approchée : avec AB = 2 et AC = 3, BC² = 4 + 9 = 13 et BC = √13 ≈ 3,6 (arrondi au dixième)."
+    },
+    {
+      "title": "La réciproque : démontrer qu’un triangle est rectangle",
+      "text": "Si, dans un triangle ABC, on a BC² = AB² + AC², alors ABC est rectangle en A. Méthode : on calcule séparément le carré du plus grand côté, puis la somme des carrés des deux autres côtés, et on compare. Exemple : AB = 9, AC = 12, BC = 15. D’une part BC² = 225 ; d’autre part AB² + AC² = 81 + 144 = 225. Les deux résultats sont égaux : d’après la réciproque du théorème de Pythagore, ABC est rectangle en A. Contre-exemple : un triangle de côtés 4, 5 et 7. Le plus grand côté donne 7² = 49 et 4² + 5² = 16 + 25 = 41. Comme 49 ≠ 41, le triangle n’est pas rectangle : un angle droit, s’il existait, serait opposé au plus grand côté."
+    },
+    {
+      "title": "Bien rédiger et éviter les pièges",
+      "text": "Une rédaction claire suit quatre étapes. 1) Les données : « Le triangle ABC est rectangle en A. » 2) Le théorème : « D’après le théorème de Pythagore, BC² = AB² + AC². » 3) Le calcul avec les valeurs de l’énoncé. 4) La conclusion avec l’unité. Pièges fréquents : additionner les longueurs au lieu des carrés (BC = AB + AC est faux) ; oublier la racine carrée à la fin ; se tromper d’hypoténuse (pour chercher un côté de l’angle droit, on soustrait) ; utiliser le théorème dans un triangle dont on ne sait pas qu’il est rectangle. Contrôle : l’hypoténuse doit être plus grande que chacun des deux autres côtés."
+    }
+  ],
+  "revision_sheet": [
+    "Hypoténuse : côté opposé à l’angle droit, le plus long côté du triangle rectangle.",
+    "Pythagore : si ABC est rectangle en A, alors BC² = AB² + AC².",
+    "Pour chercher l’hypoténuse : on additionne les carrés, puis on prend la racine carrée. Pour chercher un autre côté : on soustrait.",
+    "√a est le nombre positif dont le carré est a (√144 = 12). Sinon, valeur approchée (√13 ≈ 3,6).",
+    "Réciproque : si BC² = AB² + AC², alors ABC est rectangle en A. Si les deux calculs ne sont pas égaux, le triangle n’est pas rectangle.",
+    "Rédaction : les données, le théorème cité, le calcul, la conclusion avec l’unité."
+  ],
+  "quiz": [
+    {
+      "prompt": "Le triangle ABC est rectangle en B. Quelle est son hypoténuse ?",
+      "choices": [
+        "[AB]",
+        "[BC]",
+        "[AC]"
+      ],
+      "correct_index": 2,
+      "explanation": "L’hypoténuse est le côté opposé à l’angle droit. L’angle droit est en B, le côté opposé est [AC]."
+    },
+    {
+      "prompt": "ABC est rectangle en A, avec AB = 9 cm et AC = 12 cm. Quelle est la longueur BC ?",
+      "choices": [
+        "21 cm",
+        "15 cm",
+        "3 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "BC² = AB² + AC² = 81 + 144 = 225, donc BC = √225 = 15 cm. Additionner 9 et 12 (21) est une erreur courante."
+    },
+    {
+      "prompt": "EFG est rectangle en E avec FG = 17 cm et EF = 8 cm. Quelle est la longueur EG ?",
+      "choices": [
+        "15 cm",
+        "√353 cm",
+        "25 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "L’hypoténuse est [FG] : EG² = FG² − EF² = 289 − 64 = 225, donc EG = 15 cm. Le nombre √353 est ce qu’on obtiendrait en additionnant les carrés par erreur."
+    },
+    {
+      "prompt": "Un triangle a pour côtés 5 cm, 12 cm et 13 cm. Que peut-on dire ?",
+      "choices": [
+        "Il est rectangle, car 13² = 5² + 12²",
+        "Il n’est pas rectangle, car 5 + 12 est différent de 13",
+        "On ne peut pas savoir"
+      ],
+      "correct_index": 0,
+      "explanation": "13² = 169 et 5² + 12² = 25 + 144 = 169 : d’après la réciproque du théorème de Pythagore, le triangle est rectangle (l’angle droit est opposé au côté de 13 cm)."
+    },
+    {
+      "prompt": "Un triangle a pour côtés 6 cm, 7 cm et 10 cm. Est-il rectangle ?",
+      "choices": [
+        "Oui, car 6² + 7² est proche de 10²",
+        "Non, car 10² = 100 est différent de 6² + 7² = 85",
+        "Oui, car 6 + 7 est supérieur à 10"
+      ],
+      "correct_index": 1,
+      "explanation": "Le carré du plus grand côté est 100 alors que 36 + 49 = 85. Les deux résultats sont différents : le triangle n’est pas rectangle. « Proche » ne suffit pas, il faut l’égalité."
+    },
+    {
+      "prompt": "Que vaut √144 ?",
+      "choices": [
+        "72",
+        "12",
+        "14,4"
+      ],
+      "correct_index": 1,
+      "explanation": "12 × 12 = 144, donc √144 = 12."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Le triangle ABC est rectangle en A, avec AB = 7 cm et AC = 24 cm. Calcule BC.",
+      "solution": "Le triangle ABC est rectangle en A, donc d’après le théorème de Pythagore, BC² = AB² + AC² = 49 + 576 = 625. BC = √625 = 25 cm.",
+      "success_criterion": "Citer le théorème, calculer 625, conclure BC = 25 cm avec l’unité."
+    },
+    {
+      "prompt": "Le triangle DEF est rectangle en D, avec EF = 10 cm et DE = 6 cm. Calcule DF.",
+      "solution": "Le triangle DEF est rectangle en D : son hypoténuse est [EF]. D’après le théorème de Pythagore, EF² = DE² + DF², donc DF² = EF² − DE² = 100 − 36 = 64. DF = √64 = 8 cm.",
+      "success_criterion": "Identifier l’hypoténuse [EF], soustraire et obtenir DF = 8 cm."
+    },
+    {
+      "prompt": "Le triangle ABC est rectangle en A, avec AB = 4 cm et AC = 5 cm. Calcule BC en valeur exacte, puis arrondie au dixième de centimètre.",
+      "solution": "D’après le théorème de Pythagore, BC² = 4² + 5² = 16 + 25 = 41. BC = √41 cm, soit environ 6,4 cm (6,4² = 40,96 et 6,5² = 42,25).",
+      "success_criterion": "Donner BC = √41 puis l’arrondi 6,4 cm, et vérifier que BC est plus grand que 4 et que 5."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une échelle de 6,5 m de long est posée contre un mur vertical, sur un sol horizontal. Son pied est à 2,5 m du mur. À quelle hauteur l’échelle touche-t-elle le mur ?",
+      "solution": "Le mur et le sol forment un angle droit : l’échelle, le mur et le sol forment un triangle rectangle dont l’hypoténuse est l’échelle. Hauteur h : h² + 2,5² = 6,5², donc h² = 42,25 − 6,25 = 36 et h = √36 = 6. L’échelle touche le mur à 6 m de hauteur.",
+      "success_criterion": "Modéliser par un triangle rectangle, identifier l’hypoténuse (6,5 m), soustraire les carrés et trouver 6 m."
+    },
+    {
+      "prompt": "Un triangle MNP a pour côtés MN = 20 cm, NP = 21 cm et MP = 29 cm. Démontre que ce triangle est rectangle et précise en quel sommet.",
+      "solution": "Le plus grand côté est [MP] : MP² = 29² = 841. D’autre part, MN² + NP² = 400 + 441 = 841. Comme MP² = MN² + NP², d’après la réciproque du théorème de Pythagore, le triangle MNP est rectangle en N (sommet opposé à [MP]).",
+      "success_criterion": "Calculer séparément les deux membres, constater l’égalité, citer la réciproque et conclure : rectangle en N."
+    },
+    {
+      "prompt": "Dans le triangle ABC rectangle en A avec AB = 6 et AC = 8, un élève écrit : « BC = AB + AC = 14 ». Explique l’erreur et donne la bonne valeur de BC.",
+      "solution": "L’élève additionne les longueurs, alors que le théorème de Pythagore porte sur les carrés : BC² = AB² + AC² = 36 + 64 = 100, donc BC = 10. Le résultat 14 est faux car l’hypoténuse est plus courte que la somme des deux autres côtés.",
+      "success_criterion": "Expliquer que le théorème concerne les carrés des longueurs et trouver BC = 10."
+    }
+  ],
+  "audio_transcript": "Le théorème de Pythagore concerne les triangles rectangles. L’hypoténuse est le côté opposé à l’angle droit, c’est le plus long côté. Si le triangle ABC est rectangle en A, alors BC au carré est égal à AB au carré plus AC au carré. Avec AB égal à 6 et AC égal à 8, on trouve 36 plus 64, soit 100, et BC vaut la racine carrée de 100, c’est-à-dire 10. Pour chercher un côté de l’angle droit, on soustrait. La réciproque sert à démontrer qu’un triangle est rectangle : si le carré du plus grand côté est égal à la somme des carrés des deux autres, alors le triangle est rectangle. Si les deux résultats sont différents, il ne l’est pas.",
+  "guided_explanation": "Dans un triangle rectangle, imagine un carré construit sur chacun des trois côtés. Le théorème de Pythagore dit que l’aire du grand carré, celui de l’hypoténuse, est égale à la somme des aires des deux autres carrés. Pour l’utiliser, commence toujours par repérer l’angle droit, puis l’hypoténuse en face de lui. Si tu cherches l’hypoténuse, tu additionnes les carrés, puis tu prends la racine carrée. Si tu cherches un autre côté, tu soustrais. À la fin, vérifie que l’hypoténuse reste le côté le plus long. Pour la réciproque, tu calcules d’un côté le carré du plus grand côté, de l’autre la somme des deux autres carrés : s’ils sont égaux, le triangle est rectangle ; sinon, il ne l’est pas."
+}

@@ -1,0 +1,1345 @@
+{
+  "programs": [
+    {
+      "id": "5e-mathematiques-commun",
+      "domains": [
+        {
+          "id": "nombres-et-calculs",
+          "title": "Nombres et calculs",
+          "source_locator": "Annexe 2, pages 7–9, Cinquième / Nombres et calculs",
+          "chapters": [
+            {
+              "id": "5e-b-multiples-diviseurs",
+              "title": "Division euclidienne, multiples, diviseurs et critères de divisibilité",
+              "title_type": "editorial",
+              "official_section": "Opérations",
+              "notions": [
+                "Division euclidienne : quotient et reste",
+                "Multiples et diviseurs",
+                "Critères de divisibilité par 2, 5 et 10",
+                "Critères de divisibilité par 3 et par 9"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-b-multiples-diviseurs-knowledge",
+                  "text": "Dans une division euclidienne, on écrit a = b × q + r avec un reste r strictement inférieur à b ; quand le reste est nul, a est un multiple de b et b est un diviseur de a. Les critères de divisibilité par 2, 5, 10, 3 et 9 permettent de savoir, sans poser la division, si un entier est divisible par ces nombres.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-b-multiples-diviseurs-division",
+                  "text": "Déterminer le quotient et le reste d’une division euclidienne et l’écrire sous la forme a = b × q + r.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-b-multiples-diviseurs-multiples",
+                  "text": "Utiliser les notions de multiples et de diviseurs, et factoriser un entier décomposable en produit de deux nombres différents de 1.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-b-multiples-diviseurs-criteres",
+                  "text": "Connaitre et utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "espace-et-geometrie",
+          "title": "Espace et géométrie",
+          "source_locator": "Annexe 2, pages 12–13, Cinquième / Espace et géométrie",
+          "chapters": [
+            {
+              "id": "5e-b-angles-triangle",
+              "title": "Triangles : somme des angles et triangles particuliers",
+              "title_type": "editorial",
+              "official_section": "Triangles",
+              "notions": [
+                "Triangles isocèle, équilatéral et rectangle",
+                "Somme des angles d’un triangle",
+                "Calcul du troisième angle",
+                "Angles des triangles particuliers"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-b-angles-triangle-knowledge",
+                  "text": "La somme des mesures des angles d’un triangle est égale à 180° ; connaissant deux angles, on calcule le troisième, et l’on reconnait un triangle isocèle, équilatéral ou rectangle à partir d’un schéma codé.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-b-angles-triangle-types",
+                  "text": "Reconnaitre un triangle isocèle, équilatéral ou rectangle à partir d’un schéma codé.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-b-angles-triangle-somme",
+                  "text": "Connaitre la somme des angles d’un triangle (180°) et calculer le troisième angle connaissant les deux autres.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-b-angles-triangle-particuliers",
+                  "text": "Utiliser la somme des angles dans le cas de triangles particuliers (rectangle, isocèle, équilatéral).",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+            },
+            {
+              "id": "5e-b-volumes-solides",
+              "title": "Volumes du cube, du pavé droit et du prisme droit ; unités de volume et de capacité",
+              "title_type": "editorial",
+              "official_section": "Représentation de l’espace",
+              "notions": [
+                "Cube, pavé droit et prisme droit",
+                "Volume du cube et du pavé droit",
+                "Volume du prisme droit",
+                "Unités usuelles de volume et de capacité"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-b-volumes-solides-knowledge",
+                  "text": "On calcule le volume d’un cube, d’un pavé droit et d’un prisme droit, et l’on connait et convertit les unités usuelles de volume (cm³, dm³, m³) et de capacité (mL, cL, L).",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-b-volumes-solides-volume",
+                  "text": "Calculer le volume d’un cube, d’un pavé droit et d’un prisme droit.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-b-volumes-solides-unites",
+                  "text": "Connaitre et convertir des unités usuelles de volume et de capacité.",
+                  "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e-francais-commun",
+      "domains": [
+        {
+          "id": "grammaire-orthographe-grammaticale",
+          "title": "Grammaire et orthographe grammaticale",
+          "source_locator": "Annexe 1, pages 16–17, Cinquième / Grammaire et orthographe grammaticale",
+          "chapters": [
+            {
+              "id": "5e-b-phrase-simple-complexe",
+              "title": "Phrase simple, phrase complexe, phrase non verbale : juxtaposition et coordination",
+              "title_type": "editorial",
+              "official_section": "Comprendre ce qu’est une phrase pour mieux lire et mieux écrire",
+              "notions": [
+                "Phrase simple et phrase complexe",
+                "Phrase non verbale",
+                "Propositions juxtaposées",
+                "Propositions coordonnées et mots coordonnants"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-b-phrase-simple-complexe-knowledge",
+                  "text": "On distingue la phrase simple, la phrase complexe et la phrase non verbale ; les propositions d’une phrase complexe sont reliées notamment par juxtaposition ou par coordination, qui produisent des effets de sens différents.",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-b-phrase-simple-complexe-types",
+                  "text": "Distinguer phrase simple, phrase complexe et phrase non verbale.",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-b-phrase-simple-complexe-relations",
+                  "text": "Identifier et employer les relations de juxtaposition et de coordination entre propositions, et comprendre leurs effets de sens.",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+            },
+            {
+              "id": "5e-b-passe-compose-plus-que-parfait",
+              "title": "Le passé composé et le plus-que-parfait : former et employer",
+              "title_type": "editorial",
+              "official_section": "Approfondir sa maitrise des formes conjuguées du verbe et leur emploi",
+              "notions": [
+                "Forme verbale : radical et terminaison",
+                "Temps composés : auxiliaire et participe passé",
+                "Passé composé et plus-que-parfait de l’indicatif",
+                "Valeurs temporelles : action achevée et action antérieure"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-b-passe-compose-plus-que-parfait-knowledge",
+                  "text": "Une forme verbale se compose d’un radical et d’une terminaison ; les temps composés (passé composé et plus-que-parfait de l’indicatif) associent un auxiliaire conjugué et un participe passé, et ils ont des valeurs temporelles différentes.",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-b-passe-compose-plus-que-parfait-formation",
+                  "text": "Former le passé composé et le plus-que-parfait de l’indicatif (auxiliaire conjugué et participe passé).",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-b-passe-compose-plus-que-parfait-emploi",
+                  "text": "Employer à bon escient le passé composé et le plus-que-parfait en tenant compte de leurs valeurs temporelles.",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+            },
+            {
+              "id": "5e-b-accords-participe-passe",
+              "title": "Les accords : sujet-verbe dans les cas complexes et participe passé",
+              "title_type": "editorial",
+              "official_section": "Savoir accorder les mots dans la phrase et expliquer ses choix",
+              "notions": [
+                "Accord du verbe avec un sujet éloigné ou à plusieurs noms",
+                "Accord du participe passé avec l’auxiliaire être",
+                "Accord du participe passé avec l’auxiliaire avoir et COD antéposé",
+                "Pronom COD et pronom COI"
+              ],
+              "knowledge": [
+                {
+                  "id": "5e-b-accords-participe-passe-knowledge",
+                  "text": "Le verbe s’accorde avec son sujet même quand un complément les sépare ou quand le sujet comporte plusieurs noms ; le participe passé employé avec être s’accorde avec le sujet, et avec avoir il s’accorde avec le COD placé avant le verbe, qu’il faut distinguer du COI.",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "5e-b-accords-participe-passe-sujet-verbe",
+                  "text": "Accorder le verbe avec son sujet dans les cas complexes (sujet séparé du verbe par un complément, sujet comportant plusieurs noms).",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+                },
+                {
+                  "id": "5e-b-accords-participe-passe-participe",
+                  "text": "Justifier l’accord du participe passé employé avec être et avec avoir (COD antéposé, dont le pronom personnel COD, à distinguer du COI).",
+                  "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "5e-b-multiples-diviseurs-course",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-multiples-diviseurs"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Déterminer le quotient et le reste d’une division euclidienne et écrire l’égalité a = b × q + r.",
+        "Utiliser les mots multiple et diviseur et trouver les diviseurs d’un petit entier.",
+        "Utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+        "Résoudre un petit problème de partage ou de rangement avec une division euclidienne."
+      ],
+      "skill_ids": [
+        "5e-b-multiples-diviseurs-division",
+        "5e-b-multiples-diviseurs-multiples",
+        "5e-b-multiples-diviseurs-criteres"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-multiples-diviseurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-multiples-diviseurs-revision_sheet",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-multiples-diviseurs"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Déterminer le quotient et le reste d’une division euclidienne et écrire l’égalité a = b × q + r.",
+        "Utiliser les mots multiple et diviseur et trouver les diviseurs d’un petit entier.",
+        "Utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+        "Résoudre un petit problème de partage ou de rangement avec une division euclidienne."
+      ],
+      "skill_ids": [
+        "5e-b-multiples-diviseurs-division",
+        "5e-b-multiples-diviseurs-multiples",
+        "5e-b-multiples-diviseurs-criteres"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-multiples-diviseurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-multiples-diviseurs-quiz",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-multiples-diviseurs"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Déterminer le quotient et le reste d’une division euclidienne et écrire l’égalité a = b × q + r.",
+        "Utiliser les mots multiple et diviseur et trouver les diviseurs d’un petit entier.",
+        "Utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+        "Résoudre un petit problème de partage ou de rangement avec une division euclidienne."
+      ],
+      "skill_ids": [
+        "5e-b-multiples-diviseurs-division",
+        "5e-b-multiples-diviseurs-multiples",
+        "5e-b-multiples-diviseurs-criteres"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-multiples-diviseurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-multiples-diviseurs-exercise",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-multiples-diviseurs"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Déterminer le quotient et le reste d’une division euclidienne et écrire l’égalité a = b × q + r.",
+        "Utiliser les mots multiple et diviseur et trouver les diviseurs d’un petit entier.",
+        "Utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+        "Résoudre un petit problème de partage ou de rangement avec une division euclidienne."
+      ],
+      "skill_ids": [
+        "5e-b-multiples-diviseurs-division",
+        "5e-b-multiples-diviseurs-multiples",
+        "5e-b-multiples-diviseurs-criteres"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-multiples-diviseurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-multiples-diviseurs-assessment",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-multiples-diviseurs"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Déterminer le quotient et le reste d’une division euclidienne et écrire l’égalité a = b × q + r.",
+        "Utiliser les mots multiple et diviseur et trouver les diviseurs d’un petit entier.",
+        "Utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+        "Résoudre un petit problème de partage ou de rangement avec une division euclidienne."
+      ],
+      "skill_ids": [
+        "5e-b-multiples-diviseurs-division",
+        "5e-b-multiples-diviseurs-multiples",
+        "5e-b-multiples-diviseurs-criteres"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-multiples-diviseurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-multiples-diviseurs-audio",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-multiples-diviseurs"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Déterminer le quotient et le reste d’une division euclidienne et écrire l’égalité a = b × q + r.",
+        "Utiliser les mots multiple et diviseur et trouver les diviseurs d’un petit entier.",
+        "Utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+        "Résoudre un petit problème de partage ou de rangement avec une division euclidienne."
+      ],
+      "skill_ids": [
+        "5e-b-multiples-diviseurs-division",
+        "5e-b-multiples-diviseurs-multiples",
+        "5e-b-multiples-diviseurs-criteres"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-multiples-diviseurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-multiples-diviseurs-assistant_explanation",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-multiples-diviseurs"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Déterminer le quotient et le reste d’une division euclidienne et écrire l’égalité a = b × q + r.",
+        "Utiliser les mots multiple et diviseur et trouver les diviseurs d’un petit entier.",
+        "Utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+        "Résoudre un petit problème de partage ou de rangement avec une division euclidienne."
+      ],
+      "skill_ids": [
+        "5e-b-multiples-diviseurs-division",
+        "5e-b-multiples-diviseurs-multiples",
+        "5e-b-multiples-diviseurs-criteres"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-multiples-diviseurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-angles-triangle-course",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-angles-triangle"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaitre un triangle isocèle, équilatéral ou rectangle sur un schéma codé.",
+        "Connaitre la somme des angles d’un triangle et en donner une justification.",
+        "Calculer le troisième angle d’un triangle connaissant les deux autres.",
+        "Calculer les angles d’un triangle rectangle, isocèle ou équilatéral."
+      ],
+      "skill_ids": [
+        "5e-b-angles-triangle-types",
+        "5e-b-angles-triangle-somme",
+        "5e-b-angles-triangle-particuliers"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-angles-triangle.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-angles-triangle-revision_sheet",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-angles-triangle"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaitre un triangle isocèle, équilatéral ou rectangle sur un schéma codé.",
+        "Connaitre la somme des angles d’un triangle et en donner une justification.",
+        "Calculer le troisième angle d’un triangle connaissant les deux autres.",
+        "Calculer les angles d’un triangle rectangle, isocèle ou équilatéral."
+      ],
+      "skill_ids": [
+        "5e-b-angles-triangle-types",
+        "5e-b-angles-triangle-somme",
+        "5e-b-angles-triangle-particuliers"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-angles-triangle.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-angles-triangle-quiz",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-angles-triangle"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaitre un triangle isocèle, équilatéral ou rectangle sur un schéma codé.",
+        "Connaitre la somme des angles d’un triangle et en donner une justification.",
+        "Calculer le troisième angle d’un triangle connaissant les deux autres.",
+        "Calculer les angles d’un triangle rectangle, isocèle ou équilatéral."
+      ],
+      "skill_ids": [
+        "5e-b-angles-triangle-types",
+        "5e-b-angles-triangle-somme",
+        "5e-b-angles-triangle-particuliers"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-angles-triangle.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-angles-triangle-exercise",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-angles-triangle"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaitre un triangle isocèle, équilatéral ou rectangle sur un schéma codé.",
+        "Connaitre la somme des angles d’un triangle et en donner une justification.",
+        "Calculer le troisième angle d’un triangle connaissant les deux autres.",
+        "Calculer les angles d’un triangle rectangle, isocèle ou équilatéral."
+      ],
+      "skill_ids": [
+        "5e-b-angles-triangle-types",
+        "5e-b-angles-triangle-somme",
+        "5e-b-angles-triangle-particuliers"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-angles-triangle.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-angles-triangle-assessment",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-angles-triangle"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaitre un triangle isocèle, équilatéral ou rectangle sur un schéma codé.",
+        "Connaitre la somme des angles d’un triangle et en donner une justification.",
+        "Calculer le troisième angle d’un triangle connaissant les deux autres.",
+        "Calculer les angles d’un triangle rectangle, isocèle ou équilatéral."
+      ],
+      "skill_ids": [
+        "5e-b-angles-triangle-types",
+        "5e-b-angles-triangle-somme",
+        "5e-b-angles-triangle-particuliers"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-angles-triangle.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-angles-triangle-audio",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-angles-triangle"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaitre un triangle isocèle, équilatéral ou rectangle sur un schéma codé.",
+        "Connaitre la somme des angles d’un triangle et en donner une justification.",
+        "Calculer le troisième angle d’un triangle connaissant les deux autres.",
+        "Calculer les angles d’un triangle rectangle, isocèle ou équilatéral."
+      ],
+      "skill_ids": [
+        "5e-b-angles-triangle-types",
+        "5e-b-angles-triangle-somme",
+        "5e-b-angles-triangle-particuliers"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-angles-triangle.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-angles-triangle-assistant_explanation",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-angles-triangle"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaitre un triangle isocèle, équilatéral ou rectangle sur un schéma codé.",
+        "Connaitre la somme des angles d’un triangle et en donner une justification.",
+        "Calculer le troisième angle d’un triangle connaissant les deux autres.",
+        "Calculer les angles d’un triangle rectangle, isocèle ou équilatéral."
+      ],
+      "skill_ids": [
+        "5e-b-angles-triangle-types",
+        "5e-b-angles-triangle-somme",
+        "5e-b-angles-triangle-particuliers"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-angles-triangle.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-volumes-solides-course",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-volumes-solides"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Calculer le volume d’un cube et d’un pavé droit.",
+        "Calculer le volume d’un prisme droit à partir de l’aire de sa base et de sa hauteur.",
+        "Convertir des unités de volume et de capacité (cm³, dm³, m³, mL, L).",
+        "Résoudre un problème de contenance en choisissant des unités cohérentes."
+      ],
+      "skill_ids": [
+        "5e-b-volumes-solides-volume",
+        "5e-b-volumes-solides-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-volumes-solides-revision_sheet",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-volumes-solides"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Calculer le volume d’un cube et d’un pavé droit.",
+        "Calculer le volume d’un prisme droit à partir de l’aire de sa base et de sa hauteur.",
+        "Convertir des unités de volume et de capacité (cm³, dm³, m³, mL, L).",
+        "Résoudre un problème de contenance en choisissant des unités cohérentes."
+      ],
+      "skill_ids": [
+        "5e-b-volumes-solides-volume",
+        "5e-b-volumes-solides-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-volumes-solides-quiz",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-volumes-solides"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Calculer le volume d’un cube et d’un pavé droit.",
+        "Calculer le volume d’un prisme droit à partir de l’aire de sa base et de sa hauteur.",
+        "Convertir des unités de volume et de capacité (cm³, dm³, m³, mL, L).",
+        "Résoudre un problème de contenance en choisissant des unités cohérentes."
+      ],
+      "skill_ids": [
+        "5e-b-volumes-solides-volume",
+        "5e-b-volumes-solides-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-volumes-solides-exercise",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-volumes-solides"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Calculer le volume d’un cube et d’un pavé droit.",
+        "Calculer le volume d’un prisme droit à partir de l’aire de sa base et de sa hauteur.",
+        "Convertir des unités de volume et de capacité (cm³, dm³, m³, mL, L).",
+        "Résoudre un problème de contenance en choisissant des unités cohérentes."
+      ],
+      "skill_ids": [
+        "5e-b-volumes-solides-volume",
+        "5e-b-volumes-solides-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-volumes-solides-assessment",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-volumes-solides"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Calculer le volume d’un cube et d’un pavé droit.",
+        "Calculer le volume d’un prisme droit à partir de l’aire de sa base et de sa hauteur.",
+        "Convertir des unités de volume et de capacité (cm³, dm³, m³, mL, L).",
+        "Résoudre un problème de contenance en choisissant des unités cohérentes."
+      ],
+      "skill_ids": [
+        "5e-b-volumes-solides-volume",
+        "5e-b-volumes-solides-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-volumes-solides-audio",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-volumes-solides"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Calculer le volume d’un cube et d’un pavé droit.",
+        "Calculer le volume d’un prisme droit à partir de l’aire de sa base et de sa hauteur.",
+        "Convertir des unités de volume et de capacité (cm³, dm³, m³, mL, L).",
+        "Résoudre un problème de contenance en choisissant des unités cohérentes."
+      ],
+      "skill_ids": [
+        "5e-b-volumes-solides-volume",
+        "5e-b-volumes-solides-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-volumes-solides-assistant_explanation",
+      "program_id": "5e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-volumes-solides"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Calculer le volume d’un cube et d’un pavé droit.",
+        "Calculer le volume d’un prisme droit à partir de l’aire de sa base et de sa hauteur.",
+        "Convertir des unités de volume et de capacité (cm³, dm³, m³, mL, L).",
+        "Résoudre un problème de contenance en choisissant des unités cohérentes."
+      ],
+      "skill_ids": [
+        "5e-b-volumes-solides-volume",
+        "5e-b-volumes-solides-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Représentation de l’espace, page 12 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-volumes-solides.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-phrase-simple-complexe-course",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-phrase-simple-complexe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer une phrase simple, une phrase complexe et une phrase non verbale.",
+        "Repérer les verbes conjugués pour compter les propositions d’une phrase.",
+        "Reconnaitre des propositions juxtaposées et des propositions coordonnées.",
+        "Choisir un mot coordonnant adapté au sens (opposition, cause, conséquence, choix, addition)."
+      ],
+      "skill_ids": [
+        "5e-b-phrase-simple-complexe-types",
+        "5e-b-phrase-simple-complexe-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-phrase-simple-complexe-revision_sheet",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-phrase-simple-complexe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer une phrase simple, une phrase complexe et une phrase non verbale.",
+        "Repérer les verbes conjugués pour compter les propositions d’une phrase.",
+        "Reconnaitre des propositions juxtaposées et des propositions coordonnées.",
+        "Choisir un mot coordonnant adapté au sens (opposition, cause, conséquence, choix, addition)."
+      ],
+      "skill_ids": [
+        "5e-b-phrase-simple-complexe-types",
+        "5e-b-phrase-simple-complexe-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-phrase-simple-complexe-quiz",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-phrase-simple-complexe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer une phrase simple, une phrase complexe et une phrase non verbale.",
+        "Repérer les verbes conjugués pour compter les propositions d’une phrase.",
+        "Reconnaitre des propositions juxtaposées et des propositions coordonnées.",
+        "Choisir un mot coordonnant adapté au sens (opposition, cause, conséquence, choix, addition)."
+      ],
+      "skill_ids": [
+        "5e-b-phrase-simple-complexe-types",
+        "5e-b-phrase-simple-complexe-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-phrase-simple-complexe-exercise",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-phrase-simple-complexe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer une phrase simple, une phrase complexe et une phrase non verbale.",
+        "Repérer les verbes conjugués pour compter les propositions d’une phrase.",
+        "Reconnaitre des propositions juxtaposées et des propositions coordonnées.",
+        "Choisir un mot coordonnant adapté au sens (opposition, cause, conséquence, choix, addition)."
+      ],
+      "skill_ids": [
+        "5e-b-phrase-simple-complexe-types",
+        "5e-b-phrase-simple-complexe-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-phrase-simple-complexe-assessment",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-phrase-simple-complexe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer une phrase simple, une phrase complexe et une phrase non verbale.",
+        "Repérer les verbes conjugués pour compter les propositions d’une phrase.",
+        "Reconnaitre des propositions juxtaposées et des propositions coordonnées.",
+        "Choisir un mot coordonnant adapté au sens (opposition, cause, conséquence, choix, addition)."
+      ],
+      "skill_ids": [
+        "5e-b-phrase-simple-complexe-types",
+        "5e-b-phrase-simple-complexe-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-phrase-simple-complexe-audio",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-phrase-simple-complexe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer une phrase simple, une phrase complexe et une phrase non verbale.",
+        "Repérer les verbes conjugués pour compter les propositions d’une phrase.",
+        "Reconnaitre des propositions juxtaposées et des propositions coordonnées.",
+        "Choisir un mot coordonnant adapté au sens (opposition, cause, conséquence, choix, addition)."
+      ],
+      "skill_ids": [
+        "5e-b-phrase-simple-complexe-types",
+        "5e-b-phrase-simple-complexe-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-phrase-simple-complexe-assistant_explanation",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-phrase-simple-complexe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer une phrase simple, une phrase complexe et une phrase non verbale.",
+        "Repérer les verbes conjugués pour compter les propositions d’une phrase.",
+        "Reconnaitre des propositions juxtaposées et des propositions coordonnées.",
+        "Choisir un mot coordonnant adapté au sens (opposition, cause, conséquence, choix, addition)."
+      ],
+      "skill_ids": [
+        "5e-b-phrase-simple-complexe-types",
+        "5e-b-phrase-simple-complexe-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-phrase-simple-complexe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-passe-compose-plus-que-parfait-course",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-passe-compose-plus-que-parfait"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer le radical et la terminaison dans une forme verbale.",
+        "Former le passé composé et le plus-que-parfait avec l’auxiliaire avoir ou être.",
+        "Identifier un temps composé dans un texte et le nommer.",
+        "Employer le plus-que-parfait pour exprimer une action antérieure à une autre action passée."
+      ],
+      "skill_ids": [
+        "5e-b-passe-compose-plus-que-parfait-formation",
+        "5e-b-passe-compose-plus-que-parfait-emploi"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-passe-compose-plus-que-parfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-passe-compose-plus-que-parfait-revision_sheet",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-passe-compose-plus-que-parfait"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer le radical et la terminaison dans une forme verbale.",
+        "Former le passé composé et le plus-que-parfait avec l’auxiliaire avoir ou être.",
+        "Identifier un temps composé dans un texte et le nommer.",
+        "Employer le plus-que-parfait pour exprimer une action antérieure à une autre action passée."
+      ],
+      "skill_ids": [
+        "5e-b-passe-compose-plus-que-parfait-formation",
+        "5e-b-passe-compose-plus-que-parfait-emploi"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-passe-compose-plus-que-parfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-passe-compose-plus-que-parfait-quiz",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-passe-compose-plus-que-parfait"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer le radical et la terminaison dans une forme verbale.",
+        "Former le passé composé et le plus-que-parfait avec l’auxiliaire avoir ou être.",
+        "Identifier un temps composé dans un texte et le nommer.",
+        "Employer le plus-que-parfait pour exprimer une action antérieure à une autre action passée."
+      ],
+      "skill_ids": [
+        "5e-b-passe-compose-plus-que-parfait-formation",
+        "5e-b-passe-compose-plus-que-parfait-emploi"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-passe-compose-plus-que-parfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-passe-compose-plus-que-parfait-exercise",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-passe-compose-plus-que-parfait"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer le radical et la terminaison dans une forme verbale.",
+        "Former le passé composé et le plus-que-parfait avec l’auxiliaire avoir ou être.",
+        "Identifier un temps composé dans un texte et le nommer.",
+        "Employer le plus-que-parfait pour exprimer une action antérieure à une autre action passée."
+      ],
+      "skill_ids": [
+        "5e-b-passe-compose-plus-que-parfait-formation",
+        "5e-b-passe-compose-plus-que-parfait-emploi"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-passe-compose-plus-que-parfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-passe-compose-plus-que-parfait-assessment",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-passe-compose-plus-que-parfait"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer le radical et la terminaison dans une forme verbale.",
+        "Former le passé composé et le plus-que-parfait avec l’auxiliaire avoir ou être.",
+        "Identifier un temps composé dans un texte et le nommer.",
+        "Employer le plus-que-parfait pour exprimer une action antérieure à une autre action passée."
+      ],
+      "skill_ids": [
+        "5e-b-passe-compose-plus-que-parfait-formation",
+        "5e-b-passe-compose-plus-que-parfait-emploi"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-passe-compose-plus-que-parfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-passe-compose-plus-que-parfait-audio",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-passe-compose-plus-que-parfait"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer le radical et la terminaison dans une forme verbale.",
+        "Former le passé composé et le plus-que-parfait avec l’auxiliaire avoir ou être.",
+        "Identifier un temps composé dans un texte et le nommer.",
+        "Employer le plus-que-parfait pour exprimer une action antérieure à une autre action passée."
+      ],
+      "skill_ids": [
+        "5e-b-passe-compose-plus-que-parfait-formation",
+        "5e-b-passe-compose-plus-que-parfait-emploi"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-passe-compose-plus-que-parfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-passe-compose-plus-que-parfait-assistant_explanation",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-passe-compose-plus-que-parfait"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer le radical et la terminaison dans une forme verbale.",
+        "Former le passé composé et le plus-que-parfait avec l’auxiliaire avoir ou être.",
+        "Identifier un temps composé dans un texte et le nommer.",
+        "Employer le plus-que-parfait pour exprimer une action antérieure à une autre action passée."
+      ],
+      "skill_ids": [
+        "5e-b-passe-compose-plus-que-parfait-formation",
+        "5e-b-passe-compose-plus-que-parfait-emploi"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-passe-compose-plus-que-parfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-accords-participe-passe-course",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-accords-participe-passe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Trouver le sujet d’un verbe même séparé de lui par un complément, et accorder le verbe.",
+        "Accorder le verbe quand le sujet comporte plusieurs noms reliés par et.",
+        "Accorder le participe passé employé avec l’auxiliaire être.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant, et distinguer COD et COI."
+      ],
+      "skill_ids": [
+        "5e-b-accords-participe-passe-sujet-verbe",
+        "5e-b-accords-participe-passe-participe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-accords-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-accords-participe-passe-revision_sheet",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-accords-participe-passe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Trouver le sujet d’un verbe même séparé de lui par un complément, et accorder le verbe.",
+        "Accorder le verbe quand le sujet comporte plusieurs noms reliés par et.",
+        "Accorder le participe passé employé avec l’auxiliaire être.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant, et distinguer COD et COI."
+      ],
+      "skill_ids": [
+        "5e-b-accords-participe-passe-sujet-verbe",
+        "5e-b-accords-participe-passe-participe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-accords-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-accords-participe-passe-quiz",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-accords-participe-passe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Trouver le sujet d’un verbe même séparé de lui par un complément, et accorder le verbe.",
+        "Accorder le verbe quand le sujet comporte plusieurs noms reliés par et.",
+        "Accorder le participe passé employé avec l’auxiliaire être.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant, et distinguer COD et COI."
+      ],
+      "skill_ids": [
+        "5e-b-accords-participe-passe-sujet-verbe",
+        "5e-b-accords-participe-passe-participe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-accords-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-accords-participe-passe-exercise",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-accords-participe-passe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Trouver le sujet d’un verbe même séparé de lui par un complément, et accorder le verbe.",
+        "Accorder le verbe quand le sujet comporte plusieurs noms reliés par et.",
+        "Accorder le participe passé employé avec l’auxiliaire être.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant, et distinguer COD et COI."
+      ],
+      "skill_ids": [
+        "5e-b-accords-participe-passe-sujet-verbe",
+        "5e-b-accords-participe-passe-participe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-accords-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-accords-participe-passe-assessment",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-accords-participe-passe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Trouver le sujet d’un verbe même séparé de lui par un complément, et accorder le verbe.",
+        "Accorder le verbe quand le sujet comporte plusieurs noms reliés par et.",
+        "Accorder le participe passé employé avec l’auxiliaire être.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant, et distinguer COD et COI."
+      ],
+      "skill_ids": [
+        "5e-b-accords-participe-passe-sujet-verbe",
+        "5e-b-accords-participe-passe-participe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-accords-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-accords-participe-passe-audio",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-accords-participe-passe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Trouver le sujet d’un verbe même séparé de lui par un complément, et accorder le verbe.",
+        "Accorder le verbe quand le sujet comporte plusieurs noms reliés par et.",
+        "Accorder le participe passé employé avec l’auxiliaire être.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant, et distinguer COD et COI."
+      ],
+      "skill_ids": [
+        "5e-b-accords-participe-passe-sujet-verbe",
+        "5e-b-accords-participe-passe-participe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-accords-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "5e-b-accords-participe-passe-assistant_explanation",
+      "program_id": "5e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "5e-b-accords-participe-passe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Trouver le sujet d’un verbe même séparé de lui par un complément, et accorder le verbe.",
+        "Accorder le verbe quand le sujet comporte plusieurs noms reliés par et.",
+        "Accorder le participe passé employé avec l’auxiliaire être.",
+        "Accorder le participe passé employé avec avoir quand le COD est placé avant, et distinguer COD et COI."
+      ],
+      "skill_ids": [
+        "5e-b-accords-participe-passe-sujet-verbe",
+        "5e-b-accords-participe-passe-participe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Savoir accorder les mots dans la phrase et expliquer ses choix, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/5e-b-accords-participe-passe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

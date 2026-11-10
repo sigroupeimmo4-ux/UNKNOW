@@ -1,0 +1,129 @@
+{
+  "id": "cm1-b-imparfait",
+  "title": "Conjuguer à l’imparfait : marque de temps et marque de personne",
+  "chapter_id": "cm1-b-imparfait",
+  "program_id": "CM1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Conjuguer à l’imparfait les verbes être, avoir et des verbes courants des trois groupes.",
+    "Repérer dans une terminaison la marque de temps (-ai-, -i-) et la marque de personne.",
+    "Écrire correctement l’imparfait des verbes en -cer et en -ger."
+  ],
+  "skill_ids": [
+    "cm1-b-imparfait-personne-skill",
+    "cm1-b-imparfait-temps-skill",
+    "cm1-b-imparfait-cer-ger-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le radical et les terminaisons",
+      "text": "L’imparfait est un temps du passé : on l’emploie pour décrire ou pour dire ce qui se répétait, comme dans « Quand j’étais petit, je jouais au parc tous les jours. » Pour trouver le radical, on peut partir de la forme « nous » du présent et enlever -ons : nous chantons → chant- ; nous finissons → finiss- ; nous faisons → fais- ; nous prenons → pren-. Le verbe être est une exception : son radical est ét- (j’étais). On ajoute ensuite la terminaison : -ais, -ais, -ait, -ions, -iez, -aient."
+    },
+    {
+      "title": "Marque de temps et marque de personne",
+      "text": "Une terminaison de l’imparfait se découpe en deux : la marque de temps, puis la marque de personne. La marque de temps est -ai- pour je, tu, il, elle, ils, elles, et -i- pour nous et vous. La marque de personne est -s (je), -s (tu), -t (il, elle), -ons (nous), -ez (vous), -ent (ils, elles). Exemples : je chantais = chant + ai + s ; il chantait = chant + ai + t ; nous chantions = chant + i + ons ; vous chantiez = chant + i + ez ; ils chantaient = chant + ai + ent. Verbe être : j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Verbe avoir : j’avais, nous avions, ils avaient."
+    },
+    {
+      "title": "Les verbes en -cer et en -ger",
+      "text": "Pour garder le même son, le radical change. Devant « a », les verbes en -cer s’écrivent avec ç : je commençais, ils commençaient. Devant « i », on écrit c : nous commencions, vous commenciez. Les verbes en -ger prennent un e devant « a » : je mangeais, ils mangeaient ; devant « i », on écrit g sans e : nous mangions, vous mangiez. Autres exemples : je lançais, nous lancions ; il rangeait, nous rangions."
+    }
+  ],
+  "revision_sheet": [
+    "L’imparfait est un temps du passé : description, habitude, action qui dure.",
+    "Terminaisons : -ais, -ais, -ait, -ions, -iez, -aient.",
+    "Terminaison = marque de temps (-ai- pour je, tu, il, ils ; -i- pour nous, vous) + marque de personne (-s, -s, -t, -ons, -ez, -ent).",
+    "Le radical est celui de « nous » au présent (nous chantons → chant-) ; le verbe être a le radical ét-.",
+    "-cer : ç devant a (commençais), c devant i (commencions) ; -ger : ge devant a (mangeais), g devant i (mangions)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Complète à l’imparfait : « Quand nous étions petits, nous … (jouer) au ballon tous les jours. »",
+      "choices": [
+        "jouions",
+        "jouons",
+        "jouaient"
+      ],
+      "correct_index": 0,
+      "explanation": "Avec « nous » à l’imparfait, on écrit radical + -i- + -ons : jou + i + ons = jouions."
+    },
+    {
+      "prompt": "Complète à l’imparfait : « Les enfants … (être) joyeux. »",
+      "choices": [
+        "était",
+        "étaient",
+        "étions"
+      ],
+      "correct_index": 1,
+      "explanation": "Le sujet « les enfants » correspond à « ils » : le verbe être s’écrit étaient (radical ét- + -aient)."
+    },
+    {
+      "prompt": "Quelle est la marque de temps dans « vous chantiez » ?",
+      "choices": [
+        "-ai-",
+        "-ez",
+        "-i-"
+      ],
+      "correct_index": 2,
+      "explanation": "« Chantiez » se découpe en chant + i + ez : la marque de temps est -i-, la marque de personne est -ez."
+    },
+    {
+      "prompt": "Comment écrit-on « commencer » à l’imparfait avec « je » ?",
+      "choices": [
+        "je commencais",
+        "je commençais",
+        "je commenceais"
+      ],
+      "correct_index": 1,
+      "explanation": "Devant a, le c prend une cédille pour garder le son [s] : je commençais."
+    },
+    {
+      "prompt": "Quelle phrase est correcte ?",
+      "choices": [
+        "Nous mangions des fruits.",
+        "Nous mangeions des fruits.",
+        "Nous mangons des fruits."
+      ],
+      "correct_index": 0,
+      "explanation": "Devant -i-, le g n’a pas besoin d’un e : nous mangions. Le e n’est utile que devant a ou o."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Conjugue à l’imparfait : (finir) tu … ; (avoir) nous … ; (faire) elles … ; (aller) vous …",
+      "solution": "tu finissais ; nous avions ; elles faisaient ; vous alliez.",
+      "success_criterion": "Partir du radical (finiss-, av-, fais-, all-), puis ajouter la terminaison correspondant au sujet."
+    },
+    {
+      "prompt": "Conjugue à l’imparfait : (manger) je … ; nous … ; ils … ; (lancer) elle … ; nous …",
+      "solution": "je mangeais ; nous mangions ; ils mangeaient ; elle lançait ; nous lancions.",
+      "success_criterion": "Écrire ge ou ç devant a ; écrire g ou c sans e ni cédille devant i."
+    },
+    {
+      "prompt": "Décompose en radical + marque de temps + marque de personne : ils jouaient ; nous finissions.",
+      "solution": "ils jouaient = jou + ai + ent ; nous finissions = finiss + i + ons.",
+      "success_criterion": "Retrouver le radical, puis séparer -ai- ou -i-, puis la marque de personne."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Récris ce texte à l’imparfait : « Chaque matin, Léa va à l’école. Elle prend son vélo et elle mange une pomme. »",
+      "solution": "« Chaque matin, Léa allait à l’école. Elle prenait son vélo et elle mangeait une pomme. »",
+      "success_criterion": "Mettre chacun des trois verbes à l’imparfait avec la bonne terminaison (allait, prenait, mangeait)."
+    },
+    {
+      "prompt": "Corrige les erreurs : « Nous mangeions des cerises. Je commencais mes devoirs. Vous étier contents. »",
+      "solution": "« Nous mangions des cerises. Je commençais mes devoirs. Vous étiez contents. »",
+      "success_criterion": "Corriger le e inutile devant -i-, la cédille manquante devant a et la terminaison -ez."
+    },
+    {
+      "prompt": "Écris à l’imparfait avec « nous » : voyager (… en train) et placer (… les chaises). Explique l’orthographe.",
+      "solution": "« Nous voyagions en train. Nous placions les chaises. » Devant -i-, on écrit g et c sans e ni cédille.",
+      "success_criterion": "Écrire voyagions et placions sans e ni cédille, car la lettre suivante est i."
+    }
+  ],
+  "audio_transcript": "L’imparfait est un temps du passé. On l’emploie pour décrire ou pour dire ce qui se répétait. Pour le conjuguer, on part du radical de nous au présent : nous chantons, radical chant. Puis on ajoute la terminaison : ais, ais, ait, ions, iez, aient. Cette terminaison a deux parties : la marque de temps, a i ou i, puis la marque de personne. Pour nous chantions, on entend chant, i, ons. Pour les verbes en c e r, on écrit c cédille devant a : je commençais. Pour les verbes en g e r, on écrit g e devant a : je mangeais, mais nous mangions.",
+  "guided_explanation": "Pour écrire un verbe à l’imparfait, avance en trois étapes. D’abord, trouve le radical en disant le verbe avec nous au présent et en enlevant la terminaison. Ensuite, ajoute la marque de temps : a i pour je, tu, il, elle, ils, elles ; i pour nous et vous. Enfin, termine avec la marque de personne : s, s, t, ons, ez, ent. Pour les verbes en c e r et g e r, demande-toi ce que tu entends : le son doit rester le même, donc tu écris ç ou g e devant a, mais c ou g tout seul devant i."
+}

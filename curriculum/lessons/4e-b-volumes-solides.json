@@ -1,0 +1,132 @@
+{
+  "id": "4e-b-volumes-solides",
+  "title": "Volumes : prisme, cylindre, pyramide et cône",
+  "chapter_id": "4e-b-volumes-solides",
+  "program_id": "4e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Convertir des unités de volume et de contenance.",
+    "Calculer le volume d’un prisme droit et d’un cylindre à partir de l’aire de la base et de la hauteur.",
+    "Calculer le volume d’une pyramide, d’un cône et d’une boule, et vérifier la cohérence des unités."
+  ],
+  "skill_ids": [
+    "4e-b-volumes-solides-skill",
+    "4e-b-volumes-solides-units"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème C – Grandeurs et mesures / Calculer avec des grandeurs mesurables ; exprimer les résultats dans les unités adaptées, page 134 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Unités de volume et de contenance",
+      "text": "Le volume se mesure en cm³, dm³, m³… Quand on passe d’une unité à la suivante, on multiplie ou on divise par 1 000 : 1 m³ = 1 000 dm³ = 1 000 000 cm³. Correspondance avec les contenances : 1 L = 1 dm³, donc 1 000 L = 1 m³ ; et 1 L = 1 000 cm³, donc 1 cm³ = 1 mL. Exemples : 3,5 L = 3,5 dm³ = 3 500 cm³ ; 2,5 m³ = 2 500 dm³ = 2 500 L."
+    },
+    {
+      "title": "Prisme droit et cylindre",
+      "text": "Pour un prisme droit ou un cylindre : volume = aire de la base × hauteur, soit V = B × h. Prisme dont la base est un triangle rectangle de côtés de l’angle droit 3 cm et 4 cm, de hauteur 10 cm : B = 3 × 4 / 2 = 6 cm², donc V = 6 × 10 = 60 cm³. Cylindre de rayon 3 cm et de hauteur 10 cm : la base est un disque d’aire π × 3² = 9π cm², donc V = 9π × 10 = 90π cm³, soit environ 282,7 cm³ (valeur arrondie au dixième)."
+    },
+    {
+      "title": "Pyramide, cône et boule",
+      "text": "Pyramide et cône : V = (1/3) × B × h, c’est-à-dire le tiers du volume du prisme ou du cylindre de même base et de même hauteur. Pyramide à base carrée de côté 6 cm et de hauteur 5 cm : B = 36 cm², V = (1/3) × 36 × 5 = 60 cm³. Cône de rayon 3 cm et de hauteur 7 cm : V = (1/3) × π × 3² × 7 = 21π cm³, soit environ 66,0 cm³. Boule de rayon r : V = (4/3) × π × r³ ; pour r = 3 cm, V = 36π cm³, soit environ 113,1 cm³."
+    },
+    {
+      "title": "Cohérence des unités",
+      "text": "Toutes les longueurs d’un calcul doivent être exprimées dans la même unité avant de calculer. Le résultat est alors dans l’unité cube correspondante. Cylindre de rayon 5 cm et de hauteur 20 cm : V = π × 5² × 20 = 500π ≈ 1 570,8 cm³ = 1,5708 dm³, soit environ 1,57 L. Aquarium 80 cm × 40 cm × 50 cm : V = 160 000 cm³ = 160 dm³ = 160 L. Piège : mélanger des cm et des m dans un même calcul donne un résultat faux."
+    }
+  ],
+  "revision_sheet": [
+    "Unités de volume : on multiplie ou divise par 1 000 d’une unité à l’autre ; 1 m³ = 1 000 dm³ = 1 000 000 cm³.",
+    "1 L = 1 dm³ = 1 000 cm³ ; 1 000 L = 1 m³ ; 1 cm³ = 1 mL.",
+    "Prisme droit et cylindre : V = aire de la base × hauteur (cylindre : V = π × r² × h).",
+    "Pyramide et cône : V = (1/3) × aire de la base × hauteur ; boule : V = (4/3) × π × r³.",
+    "Avant de calculer, mettre toutes les longueurs dans la même unité ; le résultat est dans l’unité cube."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle égalité est correcte ?",
+      "choices": [
+        "1 L = 1 cm³",
+        "1 L = 1 dm³",
+        "1 L = 1 m³"
+      ],
+      "correct_index": 1,
+      "explanation": "Un litre correspond à un cube de 1 dm d’arête : 1 L = 1 dm³ = 1 000 cm³. Un mètre cube contient 1 000 L."
+    },
+    {
+      "prompt": "Un prisme droit a une base d’aire 12 cm² et une hauteur de 5 cm. Quel est son volume ?",
+      "choices": [
+        "17 cm³",
+        "60 cm³",
+        "20 cm³"
+      ],
+      "correct_index": 1,
+      "explanation": "V = B × h = 12 × 5 = 60 cm³. Il faut multiplier l’aire de la base par la hauteur, pas les additionner."
+    },
+    {
+      "prompt": "Une pyramide a une base d’aire 30 cm² et une hauteur de 9 cm. Quel est son volume ?",
+      "choices": [
+        "90 cm³",
+        "270 cm³",
+        "39 cm³"
+      ],
+      "correct_index": 0,
+      "explanation": "V = (1/3) × 30 × 9 = 90 cm³. Le résultat 270 cm³ est celui du prisme de même base et de même hauteur : on a oublié le facteur 1/3."
+    },
+    {
+      "prompt": "Combien de litres contiennent 2,5 m³ ?",
+      "choices": [
+        "25 L",
+        "250 L",
+        "2 500 L"
+      ],
+      "correct_index": 2,
+      "explanation": "1 m³ = 1 000 L, donc 2,5 m³ = 2 500 L."
+    },
+    {
+      "prompt": "Quel est le volume exact d’un cylindre de rayon 2 cm et de hauteur 5 cm ?",
+      "choices": [
+        "10π cm³",
+        "100π cm³",
+        "20π cm³"
+      ],
+      "correct_index": 2,
+      "explanation": "V = π × r² × h = π × 2² × 5 = 20π cm³. 10π correspond à 2 × 5 × π (r non élevé au carré) et 100π à π × (2 × 5)²."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Un prisme droit a pour base un triangle de base 6 cm et de hauteur 4 cm, et sa hauteur est 10 cm. Calcule son volume.",
+      "solution": "Aire de la base : 6 × 4 / 2 = 12 cm². Volume : 12 × 10 = 120 cm³.",
+      "success_criterion": "Calculer d’abord l’aire de la base, puis multiplier par la hauteur."
+    },
+    {
+      "prompt": "Calcule le volume d’un cylindre de rayon 4 cm et de hauteur 6 cm. Donne la valeur exacte, puis la valeur arrondie au dixième.",
+      "solution": "V = π × 4² × 6 = 96π cm³ ≈ 301,6 cm³.",
+      "success_criterion": "Utiliser π × r² pour l’aire de la base, puis donner l’arrondi demandé."
+    },
+    {
+      "prompt": "Convertis : 3,5 L en cm³ ; 450 cm³ en L ; 0,8 m³ en L.",
+      "solution": "3,5 L = 3,5 dm³ = 3 500 cm³ ; 450 cm³ = 0,45 dm³ = 0,45 L ; 0,8 m³ = 800 dm³ = 800 L.",
+      "success_criterion": "Utiliser 1 L = 1 dm³ et le facteur 1 000 entre unités de volume."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Calcule le volume d’un cône de rayon 6 cm et de hauteur 9 cm : valeur exacte, puis valeur arrondie au dixième.",
+      "solution": "V = (1/3) × π × 6² × 9 = (1/3) × π × 324 = 108π cm³ ≈ 339,3 cm³.",
+      "success_criterion": "Aire de la base π × r², facteur 1/3, puis arrondi."
+    },
+    {
+      "prompt": "Un seau cylindrique a un rayon de 10 cm et une hauteur de 30 cm. Peut-il contenir 10 L d’eau ? Justifie.",
+      "solution": "V = π × 10² × 30 = 3 000π ≈ 9 424,8 cm³ ≈ 9,42 dm³, soit environ 9,4 L. Comme 9,4 L < 10 L, le seau ne peut pas contenir 10 L.",
+      "success_criterion": "Calculer le volume en cm³, convertir en litres puis comparer."
+    },
+    {
+      "prompt": "Une pyramide à base carrée de côté 9 m a une hauteur de 6 m. Calcule son volume en m³, puis en litres.",
+      "solution": "B = 9 × 9 = 81 m². V = (1/3) × 81 × 6 = 162 m³. Comme 1 m³ = 1 000 L, V = 162 000 L.",
+      "success_criterion": "Appliquer la formule de la pyramide et convertir en litres."
+    }
+  ],
+  "audio_transcript": "Pour un prisme droit ou un cylindre, le volume est l’aire de la base multipliée par la hauteur. Pour un cylindre de rayon r, l’aire de la base est pi fois r au carré. Pour une pyramide ou un cône, on prend le tiers de ce produit. Une boule de rayon r a pour volume quatre tiers de pi fois r au cube. Attention aux unités : un litre égale un décimètre cube, et mille litres font un mètre cube. Avant de calculer, on exprime toutes les longueurs dans la même unité, et le résultat est dans l’unité cube correspondante.",
+  "guided_explanation": "Commence par repérer le solide : prisme, cylindre, pyramide, cône ou boule. Calcule ensuite l’aire de la base, puis multiplie par la hauteur ; si c’est une pyramide ou un cône, n’oublie pas le tiers. Avant de calculer, mets toutes les longueurs dans la même unité. À la fin, convertis si on te demande des litres : 1 L = 1 dm³. Pour vérifier, demande-toi si le résultat est cohérent : une pyramide doit avoir un volume plus petit que le prisme de même base et même hauteur."
+}

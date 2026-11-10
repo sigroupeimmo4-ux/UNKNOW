@@ -1,0 +1,113 @@
+{
+  "id": "cp-b-hg-calendrier",
+  "title": "Se repérer dans le temps : la semaine, l’année et le calendrier",
+  "chapter_id": "cp-b-hg-calendrier",
+  "program_id": "CP-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Dire que l’année a 12 mois, la semaine 7 jours et la journée 24 heures.",
+    "Nommer les jours de la semaine dans l’ordre.",
+    "Utiliser le calendrier et des outils pour mesurer le temps."
+  ],
+  "skill_ids": [
+    "cp-b-hg-calendrier-skill-structure",
+    "cp-b-hg-calendrier-skill-jours",
+    "cp-b-hg-calendrier-skill-outils"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "La journée et la semaine",
+      "text": "Une journée dure 24 heures. Une semaine a 7 jours : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche. Après dimanche, on recommence avec lundi."
+    },
+    {
+      "title": "L’année et les mois",
+      "text": "Une année a 12 mois : janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre. Un mois est fait de semaines."
+    },
+    {
+      "title": "Les outils du temps",
+      "text": "Le calendrier montre les jours, les semaines et les mois. Le sablier, la pendule, la montre et le réveil servent à mesurer le temps. La roue des jours montre que le temps revient en rond : après dimanche, c’est lundi."
+    }
+  ],
+  "revision_sheet": [
+    "1 année = 12 mois.",
+    "1 semaine = 7 jours ; 1 journée = 24 heures.",
+    "Jours : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche.",
+    "Outils : calendrier, sablier, pendule, montre, réveil."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien y a-t-il de jours dans une semaine ?",
+      "choices": [
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "Une semaine a 7 jours."
+    },
+    {
+      "prompt": "Combien y a-t-il de mois dans une année ?",
+      "choices": [
+        "7",
+        "12",
+        "24"
+      ],
+      "correct_index": 1,
+      "explanation": "Une année a 12 mois."
+    },
+    {
+      "prompt": "Quel jour vient juste après vendredi ?",
+      "choices": [
+        "jeudi",
+        "samedi",
+        "dimanche"
+      ],
+      "correct_index": 1,
+      "explanation": "Après vendredi, on est samedi."
+    },
+    {
+      "prompt": "Quel objet sert à mesurer le temps ?",
+      "choices": [
+        "le réveil",
+        "la règle",
+        "la balance"
+      ],
+      "correct_index": 0,
+      "explanation": "Le réveil, la montre, la pendule et le sablier mesurent le temps."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris les jours de la semaine dans l’ordre.",
+      "solution": "lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche.",
+      "success_criterion": "Sept jours, dans le bon ordre."
+    },
+    {
+      "prompt": "Quel mois vient après mars ? Quel mois vient avant juin ?",
+      "solution": "Après mars : avril. Avant juin : mai.",
+      "success_criterion": "Utiliser l’ordre des mois."
+    },
+    {
+      "prompt": "Quel objet te réveille le matin ? Quel objet montre les jours et les mois ?",
+      "solution": "Le réveil ; le calendrier.",
+      "success_criterion": "Associer chaque outil à son usage."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique comment l’année est découpée.",
+      "solution": "L’année a 12 mois ; un mois est fait de semaines ; une semaine a 7 jours ; un jour a 24 heures.",
+      "success_criterion": "Citer mois, semaines, jours et heures."
+    },
+    {
+      "prompt": "Dis les mois de l’année dans l’ordre.",
+      "solution": "janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre.",
+      "success_criterion": "Douze mois, dans le bon ordre."
+    }
+  ],
+  "audio_transcript": "Une journée dure vingt-quatre heures. Une semaine a sept jours : lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche. Une année a douze mois. Le calendrier, le sablier, la pendule, la montre et le réveil nous aident à repérer le temps.",
+  "guided_explanation": "Regarde le calendrier de la classe. Chaque petite case est un jour. Sept cases font une semaine. Plusieurs semaines font un mois. Douze mois font une année. Pour mesurer le temps pendant la journée, on peut utiliser un réveil, une montre ou un sablier."
+}

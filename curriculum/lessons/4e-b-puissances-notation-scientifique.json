@@ -1,0 +1,136 @@
+{
+  "id": "4e-b-puissances-notation-scientifique",
+  "title": "Puissances d’un nombre et notation scientifique",
+  "chapter_id": "4e-b-puissances-notation-scientifique",
+  "program_id": "4e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Calculer une puissance d’un nombre avec un exposant entier positif ou négatif.",
+    "Calculer des produits et des quotients de puissances de même base en revenant à la définition.",
+    "Écrire un nombre en notation scientifique et estimer un ordre de grandeur pour vérifier un résultat."
+  ],
+  "skill_ids": [
+    "4e-b-puissances-notation-scientifique-skill",
+    "4e-b-puissances-notation-scientifique-order"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Pratiquer le calcul exact ou approché, mental, à la main ou instrumenté, pages 130–131 (la mise en œuvre des produits et quotients de puissances de même base résulte de la définition, page 131) (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Définition d’une puissance",
+      "text": "Pour un nombre a et un entier n supérieur ou égal à 1, a^n est le produit de n facteurs égaux à a : a^n = a × a × … × a. Exemples : 2^5 = 2 × 2 × 2 × 2 × 2 = 32 ; 10^3 = 10 × 10 × 10 = 1 000 ; (−3)^2 = (−3) × (−3) = 9 ; (−3)^3 = (−3) × (−3) × (−3) = −27. Par convention, a^1 = a et a^0 = 1 (pour a différent de 0). Attention aux parenthèses : (−2)^2 = 4 alors que −2^2 = −(2 × 2) = −4."
+    },
+    {
+      "title": "Exposants négatifs",
+      "text": "Pour un nombre a non nul et un entier n, a^(-n) est l’inverse de a^n : a^(-n) = 1 / a^n. Exemples : 10^(-1) = 1/10 = 0,1 ; 10^(-2) = 1/100 = 0,01 ; 10^(-3) = 0,001 ; 2^(-3) = 1/2^3 = 1/8 = 0,125. Un exposant négatif ne rend pas le nombre négatif : il donne un nombre petit (ici positif)."
+    },
+    {
+      "title": "Produits et quotients de puissances de même base",
+      "text": "On retrouve les résultats à partir de la définition. 10^3 × 10^2 = (10 × 10 × 10) × (10 × 10) = 10 × 10 × 10 × 10 × 10 = 10^5 : on a 3 + 2 = 5 facteurs. De même 10^5 / 10^2 = (10 × 10 × 10 × 10 × 10) / (10 × 10) = 10^3. Avec un exposant négatif : 10^3 × 10^(-5) = 10^3 × (1/10^5) = 1/10^2 = 10^(-2). En pratique, pour une même base, on additionne les exposants dans un produit et on les soustrait dans un quotient."
+    },
+    {
+      "title": "Notation scientifique",
+      "text": "Un nombre décimal positif est en notation scientifique quand il s’écrit a × 10^n, avec 1 ≤ a < 10 et n entier relatif. Exemples : 45 000 = 4,5 × 10^4 ; 0,00032 = 3,2 × 10^(-4) ; la distance Terre-Lune, environ 384 000 km, s’écrit 3,84 × 10^5 km ; la vitesse de la lumière, environ 300 000 000 m/s, s’écrit 3 × 10^8 m/s. Pour calculer : (3 × 10^4) × (2 × 10^3) = 6 × 10^7. Si a dépasse 10, on réajuste : (4 × 10^5) × (5 × 10^2) = 20 × 10^7 = 2 × 10^8."
+    },
+    {
+      "title": "Ordres de grandeur et vraisemblance",
+      "text": "Pour vérifier un résultat, on arrondit les nombres et on calcule de tête. Pour 198 × 52, on calcule 200 × 50 = 10 000 : le résultat doit être proche de 10 000 (le résultat exact est 10 296). Si l’on obtient 1 029,6 ou 102 960, l’ordre de grandeur est faux et il y a une erreur de calcul ou de virgule."
+    }
+  ],
+  "revision_sheet": [
+    "a^n = a × a × … × a (n facteurs) ; a^1 = a ; a^0 = 1 pour a différent de 0.",
+    "a^(-n) = 1 / a^n : 10^(-2) = 0,01 ; un exposant négatif ne donne pas un nombre négatif.",
+    "Même base : on additionne les exposants dans un produit (10^3 × 10^2 = 10^5) et on les soustrait dans un quotient (10^5 / 10^2 = 10^3) ; on peut toujours le retrouver avec la définition.",
+    "Notation scientifique : a × 10^n avec 1 ≤ a < 10 et n entier relatif (0,00032 = 3,2 × 10^(-4)).",
+    "On vérifie un résultat en estimant son ordre de grandeur avec des nombres arrondis."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien vaut 2^5 ?",
+      "choices": [
+        "10",
+        "32",
+        "25"
+      ],
+      "correct_index": 1,
+      "explanation": "2^5 = 2 × 2 × 2 × 2 × 2 = 32. Le nombre 10 est 2 × 5 et 25 est 5^2 : l’exposant indique le nombre de facteurs, pas un produit."
+    },
+    {
+      "prompt": "Quelle est la valeur de 10^(-3) ?",
+      "choices": [
+        "−1 000",
+        "0,001",
+        "0,03"
+      ],
+      "correct_index": 1,
+      "explanation": "10^(-3) = 1 / 10^3 = 1/1 000 = 0,001. Un exposant négatif donne l’inverse de la puissance, pas un nombre négatif."
+    },
+    {
+      "prompt": "Combien vaut (−3)^2 ?",
+      "choices": [
+        "9",
+        "−9",
+        "6"
+      ],
+      "correct_index": 0,
+      "explanation": "(−3)^2 = (−3) × (−3) = 9, car le produit de deux nombres négatifs est positif. Les parenthèses indiquent que −3 est multiplié par lui-même."
+    },
+    {
+      "prompt": "Quel est le résultat de 10^4 × 10^3 ?",
+      "choices": [
+        "10^7",
+        "10^12",
+        "100^7"
+      ],
+      "correct_index": 0,
+      "explanation": "On a 4 + 3 = 7 facteurs égaux à 10, donc 10^7. Il ne faut pas multiplier les exposants dans un produit de puissances de même base."
+    },
+    {
+      "prompt": "Quelle est l’écriture scientifique de 0,0072 ?",
+      "choices": [
+        "7,2 × 10^(-2)",
+        "7,2 × 10^3",
+        "7,2 × 10^(-3)"
+      ],
+      "correct_index": 2,
+      "explanation": "0,0072 = 7,2 / 1 000 = 7,2 × 10^(-3). Avec 10^(-2) on obtiendrait 0,072 et avec 10^3 on obtiendrait 7 200."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule sans calculatrice : 3^4 ; 5^3 ; (−2)^3 ; 10^(-2).",
+      "solution": "3^4 = 3 × 3 × 3 × 3 = 81 ; 5^3 = 125 ; (−2)^3 = (−2) × (−2) × (−2) = −8 ; 10^(-2) = 1/100 = 0,01.",
+      "success_criterion": "Revenir à la définition (nombre de facteurs) et gérer le signe et l’exposant négatif."
+    },
+    {
+      "prompt": "Écris sous la forme d’une seule puissance de 10 : 10^5 × 10^2 ; 10^6 / 10^4 ; 10^3 × 10^(-5).",
+      "solution": "10^5 × 10^2 = 10^7 ; 10^6 / 10^4 = 10^2 ; 10^3 × 10^(-5) = 10^(-2), car 3 + (−5) = −2.",
+      "success_criterion": "Additionner les exposants dans un produit, les soustraire dans un quotient."
+    },
+    {
+      "prompt": "Écris en notation scientifique : 52 000 000 ; 0,0004 ; 38 × 10^5.",
+      "solution": "52 000 000 = 5,2 × 10^7 ; 0,0004 = 4 × 10^(-4) ; 38 × 10^5 = 3,8 × 10 × 10^5 = 3,8 × 10^6.",
+      "success_criterion": "Obtenir un nombre a tel que 1 ≤ a < 10 et ajuster l’exposant."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Calcule (2 × 10^3) × (6 × 10^4) et donne le résultat en notation scientifique.",
+      "solution": "On multiplie les nombres et les puissances : 2 × 6 = 12 et 10^3 × 10^4 = 10^7. Donc 12 × 10^7 = 1,2 × 10 × 10^7 = 1,2 × 10^8.",
+      "success_criterion": "Séparer les facteurs, calculer, puis réajuster pour avoir 1 ≤ a < 10."
+    },
+    {
+      "prompt": "La lumière parcourt environ 3 × 10^5 km en une seconde. Quelle distance parcourt-elle en une heure (3 600 s) ? Donne la réponse en notation scientifique.",
+      "solution": "3 600 = 3,6 × 10^3. Distance : 3 × 10^5 × 3,6 × 10^3 = 10,8 × 10^8 = 1,08 × 10^9 km, soit environ un milliard de kilomètres.",
+      "success_criterion": "Convertir 3 600 en notation scientifique, multiplier, puis réajuster le résultat."
+    },
+    {
+      "prompt": "Un élève trouve 198 × 52 = 1 029,6. Utilise un ordre de grandeur pour montrer que ce résultat n’est pas vraisemblable.",
+      "solution": "198 est proche de 200 et 52 proche de 50 : 200 × 50 = 10 000. Le résultat doit être proche de 10 000, pas de 1 000 : 1 029,6 est donc faux (le résultat exact est 10 296).",
+      "success_criterion": "Arrondir les deux facteurs, calculer de tête et comparer à la valeur proposée."
+    }
+  ],
+  "audio_transcript": "Une puissance, c’est un produit de facteurs tous égaux. Deux puissance cinq, c’est deux fois deux fois deux fois deux fois deux, soit trente-deux. Dix puissance moins trois, c’est un sur mille, c’est-à-dire zéro virgule zéro zéro un. Quand on multiplie deux puissances de la même base, on additionne les exposants : dix puissance trois fois dix puissance deux donne dix puissance cinq. La notation scientifique écrit un nombre sous la forme a fois dix puissance n, avec a compris entre un et dix. Par exemple, quarante-cinq mille s’écrit quatre virgule cinq fois dix puissance quatre. Enfin, pour vérifier un calcul, on arrondit les nombres et on estime l’ordre de grandeur.",
+  "guided_explanation": "Pour une puissance, demande-toi d’abord : combien de facteurs identiques ? Si l’exposant est négatif, pense à l’inverse : dix puissance moins deux, c’est un sur cent. Pour un produit de puissances de même base, compte les facteurs : tu peux toujours revenir à la définition si tu hésites sur la règle. En notation scientifique, vérifie que le premier nombre est bien compris entre 1 et 10 ; s’il est trop grand ou trop petit, déplace la virgule et corrige l’exposant. Termine par un ordre de grandeur : le résultat est-il du bon ordre de taille ?"
+}

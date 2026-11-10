@@ -1,0 +1,129 @@
+{
+  "id": "5e-b-phrase-simple-complexe",
+  "title": "Phrase simple, phrase complexe, phrase non verbale : juxtaposition et coordination",
+  "chapter_id": "5e-b-phrase-simple-complexe",
+  "program_id": "5e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer une phrase simple, une phrase complexe et une phrase non verbale.",
+    "Repérer les verbes conjugués pour compter les propositions d’une phrase.",
+    "Reconnaitre des propositions juxtaposées et des propositions coordonnées.",
+    "Choisir un mot coordonnant adapté au sens (opposition, cause, conséquence, choix, addition)."
+  ],
+  "skill_ids": [
+    "5e-b-phrase-simple-complexe-types",
+    "5e-b-phrase-simple-complexe-relations"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Comprendre ce qu’est une phrase pour mieux lire et mieux écrire, page 16 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Phrase simple, phrase complexe, phrase non verbale",
+      "text": "Une proposition est un groupe de mots organisé autour d’un verbe conjugué. Une phrase simple ne contient qu’une seule proposition : « Les élèves rangent leurs affaires. » Une phrase complexe contient plusieurs propositions, donc plusieurs verbes conjugués : « Les élèves rangent leurs affaires et la cloche sonne. » Une phrase non verbale n’a aucun verbe conjugué : « Quel beau paysage ! », « Silence dans la classe. » Pour compter les propositions, on repère donc les verbes conjugués. Attention : « Léa sourit et applaudit » contient deux verbes conjugués qui ont le même sujet, donc deux propositions."
+    },
+    {
+      "title": "Relier par juxtaposition",
+      "text": "Deux propositions sont juxtaposées quand elles sont placées l’une à côté de l’autre, séparées par un signe de ponctuation (virgule, point-virgule, deux-points) et sans mot de liaison : « Il pleut, le ciel est gris, nous restons à la maison. » Cette phrase a trois verbes conjugués : il pleut, est, restons ; elle comprend donc trois propositions juxtaposées. La juxtaposition donne un rythme rapide et laisse le lecteur deviner le lien entre les idées."
+    },
+    {
+      "title": "Relier par coordination",
+      "text": "Deux propositions sont coordonnées quand elles sont reliées par un mot coordonnant : mais, ou, et, donc, or, ni, car. Chaque mot a son sens. « et » ajoute : « Il pleut et il fait froid. » « mais » oppose : « Je voulais sortir, mais il pleuvait. » « car » donne la cause : « Je reste à la maison, car il fait froid. » « donc » donne la conséquence : « Il fait froid, donc je reste à la maison. » « ou » propose un choix : « On sort, ou on joue ici. »"
+    },
+    {
+      "title": "Pour mieux écrire",
+      "text": "Quand on relit un texte, on peut varier les phrases : alterner phrases simples, phrases complexes et phrases non verbales rend le récit plus vivant. On peut aussi remplacer une juxtaposition par une coordination pour rendre un lien explicite, par exemple remplacer « Il pleut, je reste à la maison » par « Il pleut, donc je reste à la maison »."
+    }
+  ],
+  "revision_sheet": [
+    "Une proposition s’organise autour d’un verbe conjugué.",
+    "Phrase simple : une proposition. Phrase complexe : plusieurs propositions. Phrase non verbale : aucun verbe conjugué.",
+    "Juxtaposition : propositions séparées par une ponctuation, sans mot de liaison.",
+    "Coordination : propositions reliées par mais, ou, et, donc, or, ni, car.",
+    "« mais » exprime l’opposition, « car » la cause, « donc » la conséquence, « ou » le choix, « et » l’addition.",
+    "Pour trouver le nombre de propositions, on compte les verbes conjugués."
+  ],
+  "quiz": [
+    {
+      "prompt": "Laquelle de ces phrases est une phrase non verbale ?",
+      "choices": [
+        "Quel beau paysage !",
+        "Le paysage est beau.",
+        "Nous admirons le paysage."
+      ],
+      "correct_index": 0,
+      "explanation": "« Quel beau paysage ! » ne contient aucun verbe conjugué. Les deux autres phrases contiennent « est » et « admirons »."
+    },
+    {
+      "prompt": "La phrase « Il pleut, le ciel est gris, nous restons à la maison. » est…",
+      "choices": [
+        "une phrase simple",
+        "une phrase complexe dont les propositions sont juxtaposées",
+        "une phrase complexe dont les propositions sont coordonnées par « et »"
+      ],
+      "correct_index": 1,
+      "explanation": "Elle contient trois verbes conjugués (pleut, est, restons), séparés par des virgules et sans mot coordonnant : ce sont trois propositions juxtaposées."
+    },
+    {
+      "prompt": "Dans « Je voulais sortir, mais il pleuvait. », que marque le mot « mais » ?",
+      "choices": [
+        "La cause",
+        "L’opposition",
+        "La conséquence"
+      ],
+      "correct_index": 1,
+      "explanation": "« mais » oppose deux idées : l’envie de sortir et la pluie qui l’empêche."
+    },
+    {
+      "prompt": "Laquelle de ces phrases est une phrase simple ?",
+      "choices": [
+        "Les élèves rangent leurs affaires.",
+        "Les élèves rangent leurs affaires et ils sortent.",
+        "Les élèves rangent leurs affaires, la cloche sonne."
+      ],
+      "correct_index": 0,
+      "explanation": "La première phrase n’a qu’un verbe conjugué (rangent) donc une seule proposition. Les deux autres ont deux verbes conjugués."
+    },
+    {
+      "prompt": "Quel mot complète la phrase pour exprimer la cause : « Je reste à la maison … il fait très froid. » ?",
+      "choices": [
+        "donc",
+        "mais",
+        "car"
+      ],
+      "correct_index": 2,
+      "explanation": "« car » introduit la cause : il fait très froid explique pourquoi je reste à la maison. Avec « donc », le sens serait inversé, et « mais » ne convient pas."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Classe chaque phrase : phrase simple, phrase complexe ou phrase non verbale. a) Quelle belle journée ! b) Nous marchons dans le parc. c) Le vent se lève, les nuages arrivent. d) Je voudrais un chien mais mes parents refusent. e) Silence !",
+      "solution": "a) non verbale ; b) simple (un seul verbe conjugué : marchons) ; c) complexe, deux propositions juxtaposées (se lève, arrivent) ; d) complexe, deux propositions coordonnées par « mais » (voudrais, refusent) ; e) non verbale.",
+      "success_criterion": "Compter les verbes conjugués avant de classer et nommer le lien entre les propositions."
+    },
+    {
+      "prompt": "Relie les deux phrases par un mot coordonnant bien choisi : a) Tom est fatigué. Il termine son devoir. b) Il a oublié son manteau. Il a froid.",
+      "solution": "a) Tom est fatigué, mais il termine son devoir (opposition). b) Il a oublié son manteau, donc il a froid (conséquence).",
+      "success_criterion": "Choisir un mot coordonnant dont le sens correspond au lien entre les deux idées, et placer une virgule."
+    },
+    {
+      "prompt": "Transforme en une seule phrase par juxtaposition : « Je rentre. Je m’assois. Je lis. »",
+      "solution": "Je rentre, je m’assois, je lis.",
+      "success_criterion": "Remplacer les points par des virgules, sans ajouter de mot de liaison."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Dans la phrase « Nous avons couru jusqu’à l’arrêt, mais le bus était déjà parti. », relève les verbes conjugués, donne le nombre de propositions et nomme la relation entre elles.",
+      "solution": "Les verbes conjugués sont « avons couru » et « était parti » : il y a deux propositions. Elles sont coordonnées par « mais », qui exprime l’opposition entre l’effort fait et le résultat.",
+      "success_criterion": "Repérer les deux formes verbales, conclure sur le nombre de propositions et nommer la coordination et son sens."
+    },
+    {
+      "prompt": "Écris trois phrases sur ta journée : une phrase simple, une phrase complexe dont les propositions sont juxtaposées, et une phrase non verbale.",
+      "solution": "Exemple : « Ce matin, j’ai pris le bus. » (simple) ; « Il faisait froid, je marchais vite, j’avais hâte d’arriver. » (complexe, juxtaposition) ; « Quelle belle journée ! » (non verbale).",
+      "success_criterion": "Respecter chaque consigne : un seul verbe conjugué, plusieurs verbes séparés par des virgules, aucun verbe conjugué."
+    }
+  ],
+  "audio_transcript": "Une proposition est un groupe de mots organisé autour d’un verbe conjugué. Une phrase simple ne contient qu’une seule proposition. Une phrase complexe en contient plusieurs. Une phrase non verbale n’a pas de verbe conjugué, comme : Quel beau paysage ! Quand les propositions sont séparées par une virgule, sans mot de liaison, on dit qu’elles sont juxtaposées. Quand elles sont reliées par mais, ou, et, donc, or, ni ou car, on dit qu’elles sont coordonnées. Le mot mais exprime l’opposition, le mot car exprime la cause, le mot donc exprime la conséquence.",
+  "guided_explanation": "Pour savoir si une phrase est simple ou complexe, joue au détective des verbes : souligne chaque verbe conjugué. Un seul verbe, c’est une phrase simple. Plusieurs verbes, c’est une phrase complexe. Aucun verbe, c’est une phrase non verbale, comme « Silence ! ». Ensuite, regarde comment les morceaux sont reliés : une virgule seule, c’est de la juxtaposition ; un petit mot comme mais, car ou donc, c’est de la coordination. Et demande-toi toujours ce que ce petit mot veut dire : une opposition, une cause, une conséquence ? C’est ainsi que tu choisiras le bon mot dans tes propres textes."
+}

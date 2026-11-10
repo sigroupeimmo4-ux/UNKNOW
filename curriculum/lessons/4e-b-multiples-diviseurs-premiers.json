@@ -1,0 +1,148 @@
+{
+  "id": "4e-b-multiples-diviseurs-premiers",
+  "title": "Multiples, diviseurs et nombres premiers",
+  "chapter_id": "4e-b-multiples-diviseurs-premiers",
+  "program_id": "4e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Utiliser les critères de divisibilité par 2, 3, 5, 9 et 10 et déterminer les diviseurs d’un nombre.",
+    "Effectuer une division euclidienne et reconnaître un nombre premier.",
+    "Décomposer un entier en facteurs premiers, simplifier une fraction et résoudre un petit problème de divisibilité."
+  ],
+  "skill_ids": [
+    "4e-b-multiples-diviseurs-premiers-skill",
+    "4e-b-multiples-diviseurs-premiers-prime",
+    "4e-b-multiples-diviseurs-premiers-fraction",
+    "4e-b-multiples-diviseurs-premiers-problem"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Thème A – Nombres et calculs / Comprendre et utiliser les notions de divisibilité et de nombres premiers, page 131 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Multiples et diviseurs",
+      "text": "Dire que 12 = 3 × 4, c’est dire que 12 est un multiple de 3 et de 4, et que 3 et 4 sont des diviseurs de 12. Un entier a est un diviseur de b si la division de b par a tombe juste (reste 0). Diviseurs de 12 : 1, 2, 3, 4, 6, 12. Diviseurs de 30 : 1, 2, 3, 5, 6, 10, 15, 30. Les multiples de 7 sont 0, 7, 14, 21, 28, 35…"
+    },
+    {
+      "title": "Critères de divisibilité",
+      "text": "Par 2 : le chiffre des unités est 0, 2, 4, 6 ou 8. Par 5 : le chiffre des unités est 0 ou 5. Par 10 : le chiffre des unités est 0. Par 3 : la somme des chiffres est un multiple de 3. Par 9 : la somme des chiffres est un multiple de 9. Exemple : 4 572 → 4 + 5 + 7 + 2 = 18, donc divisible par 3 et par 9 ; il se termine par 2, donc divisible par 2 (4 572 = 2 × 2 286 = 9 × 508). Exemple : 1 245 → 1 + 2 + 4 + 5 = 12 : divisible par 3 mais pas par 9 ; il se termine par 5, donc divisible par 5."
+    },
+    {
+      "title": "Division euclidienne",
+      "text": "Effectuer la division euclidienne de a par b (b non nul), c’est trouver le quotient q et le reste r tels que a = b × q + r avec 0 ≤ r < b. Exemple : 157 = 12 × 13 + 1 (car 12 × 13 = 156), donc quotient 13 et reste 1. Le reste est toujours strictement plus petit que le diviseur. Le reste est nul exactement quand b est un diviseur de a."
+    },
+    {
+      "title": "Nombres premiers et décomposition",
+      "text": "Un nombre premier est un entier qui admet exactement deux diviseurs : 1 et lui-même. Le nombre 1 n’est pas premier. Les nombres premiers inférieurs ou égaux à 30 sont : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29. Pour savoir si un nombre inférieur à 100 est premier, il suffit de tester les diviseurs 2, 3, 5 et 7 (attention : 91 = 7 × 13 n’est pas premier). Tout entier supérieur ou égal à 2 se décompose en produit de facteurs premiers : 84 = 2 × 42 = 2 × 2 × 21 = 2² × 3 × 7 ; 360 = 2³ × 3² × 5."
+    },
+    {
+      "title": "Fractions irréductibles et problèmes",
+      "text": "Une fraction est irréductible quand son numérateur et son dénominateur n’ont pas d’autre diviseur commun que 1. Pour simplifier, on divise le numérateur et le dénominateur par un diviseur commun : 18/24 = 3/4 (division par 6). Avec les décompositions : 84 = 2² × 3 × 7 et 126 = 2 × 3² × 7, donc 84/126 = (2 × 2 × 3 × 7)/(3 × 2 × 3 × 7) = 2/3. Problème type : deux feux clignotent toutes les 12 s et toutes les 18 s ; ils sont simultanés au départ. On cherche un multiple commun : multiples de 12 : 12, 24, 36… ; de 18 : 18, 36… Ils clignotent à nouveau ensemble après 36 s."
+    }
+  ],
+  "revision_sheet": [
+    "a est un diviseur de b si le reste de la division de b par a est 0 ; alors b est un multiple de a.",
+    "Critères : par 2 (unités paires), par 5 (unités 0 ou 5), par 10 (unités 0), par 3 (somme des chiffres multiple de 3), par 9 (somme des chiffres multiple de 9).",
+    "Division euclidienne : a = b × q + r avec 0 ≤ r < b.",
+    "Nombre premier : exactement deux diviseurs, 1 et lui-même. Premiers ≤ 30 : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 ; 1 n’est pas premier.",
+    "On décompose en facteurs premiers (84 = 2² × 3 × 7) et on simplifie une fraction jusqu’à ce qu’elle soit irréductible."
+  ],
+  "quiz": [
+    {
+      "prompt": "Lequel de ces nombres est divisible par 9 ?",
+      "choices": [
+        "4 505",
+        "3 124",
+        "2 718"
+      ],
+      "correct_index": 2,
+      "explanation": "2 + 7 + 1 + 8 = 18, multiple de 9, donc 2 718 est divisible par 9 (2 718 = 9 × 302). Pour 4 505 la somme vaut 14 et pour 3 124 elle vaut 10."
+    },
+    {
+      "prompt": "Lequel de ces nombres est premier ?",
+      "choices": [
+        "51",
+        "57",
+        "53"
+      ],
+      "correct_index": 2,
+      "explanation": "51 = 3 × 17 et 57 = 3 × 19 ne sont pas premiers. 53 n’est divisible ni par 2, 3, 5 ni 7 : il est premier."
+    },
+    {
+      "prompt": "Quelle est la division euclidienne de 200 par 7 ?",
+      "choices": [
+        "quotient 27 et reste 11",
+        "quotient 28 et reste 4",
+        "quotient 29 et reste 3"
+      ],
+      "correct_index": 1,
+      "explanation": "7 × 28 = 196 et 200 = 196 + 4, avec 4 < 7. Le couple (27 ; 11) vérifie 7 × 27 + 11 = 200 mais le reste 11 n’est pas inférieur à 7 ; 7 × 29 + 3 = 206, pas 200."
+    },
+    {
+      "prompt": "Quelle liste donne tous les diviseurs de 18 ?",
+      "choices": [
+        "1, 2, 3, 6, 9, 18",
+        "1, 2, 3, 9, 18",
+        "2, 3, 6, 9"
+      ],
+      "correct_index": 0,
+      "explanation": "18 = 1 × 18 = 2 × 9 = 3 × 6. Les diviseurs sont donc 1, 2, 3, 6, 9 et 18. Il ne faut oublier ni 1 ni le nombre lui-même."
+    },
+    {
+      "prompt": "Quelle est la fraction irréductible égale à 18/30 ?",
+      "choices": [
+        "9/15",
+        "3/5",
+        "6/10"
+      ],
+      "correct_index": 1,
+      "explanation": "On divise par 6 : 18/30 = 3/5. 3 et 5 n’ont pas d’autre diviseur commun que 1. 9/15 et 6/10 sont égales à 18/30 mais peuvent encore être simplifiées."
+    },
+    {
+      "prompt": "Quelle est la décomposition en facteurs premiers de 60 ?",
+      "choices": [
+        "2 × 3 × 10",
+        "2² × 3 × 5",
+        "2 × 5 × 6"
+      ],
+      "correct_index": 1,
+      "explanation": "60 = 2 × 30 = 2 × 2 × 15 = 2 × 2 × 3 × 5 = 2² × 3 × 5. Dans les autres propositions, 10 et 6 ne sont pas des nombres premiers."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Sans poser de division, dis si 1 386 est divisible par 2, par 3, par 5, par 9.",
+      "solution": "Unités : 6, donc divisible par 2 ; pas par 5. Somme des chiffres : 1 + 3 + 8 + 6 = 18, multiple de 3 et de 9. Donc 1 386 est divisible par 2, 3 et 9, mais pas par 5.",
+      "success_criterion": "Appliquer correctement chaque critère (chiffre des unités, somme des chiffres)."
+    },
+    {
+      "prompt": "Effectue la division euclidienne de 1 000 par 37 et écris l’égalité correspondante.",
+      "solution": "37 × 27 = 999 et 37 × 28 = 1 036 (trop grand). Quotient 27, reste 1 : 1 000 = 37 × 27 + 1.",
+      "success_criterion": "Trouver le plus grand multiple de 37 inférieur ou égal à 1 000 et vérifier que le reste est inférieur à 37."
+    },
+    {
+      "prompt": "Décompose 180 en produit de facteurs premiers.",
+      "solution": "180 = 2 × 90 = 2 × 2 × 45 = 2 × 2 × 3 × 15 = 2 × 2 × 3 × 3 × 5, donc 180 = 2² × 3² × 5.",
+      "success_criterion": "Diviser successivement par des nombres premiers jusqu’à obtenir 1."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Simplifie la fraction 84/126 pour la rendre irréductible.",
+      "solution": "84 = 2² × 3 × 7 et 126 = 2 × 3² × 7. On simplifie par 2 × 3 × 7 = 42 : 84/126 = 2/3. Les nombres 2 et 3 n’ont pas d’autre diviseur commun que 1 : la fraction est irréductible.",
+      "success_criterion": "Décomposer ou trouver un diviseur commun, puis vérifier que le résultat est irréductible."
+    },
+    {
+      "prompt": "Deux feux clignotent, l’un toutes les 12 s, l’autre toutes les 18 s. Ils clignotent ensemble à l’instant 0. Dans combien de secondes clignoteront-ils de nouveau ensemble pour la première fois ?",
+      "solution": "Multiples de 12 : 12, 24, 36, 48… Multiples de 18 : 18, 36, 54… Le premier multiple commun non nul est 36 : les feux clignoteront ensemble de nouveau au bout de 36 s.",
+      "success_criterion": "Modéliser par des multiples et trouver le plus petit multiple commun non nul."
+    },
+    {
+      "prompt": "Donne la liste des nombres premiers compris entre 30 et 50.",
+      "solution": "31, 37, 41, 43 et 47. On élimine les nombres pairs, puis les multiples de 3 (33, 39, 45), de 5 (35) et de 7 (49 = 7 × 7).",
+      "success_criterion": "Tester les diviseurs 2, 3, 5, 7 pour chaque candidat."
+    }
+  ],
+  "audio_transcript": "Un diviseur de b est un nombre qui divise b sans reste. Pour reconnaître les multiples de trois et de neuf, on additionne les chiffres : si la somme est un multiple de trois, le nombre est divisible par trois, et si c’est un multiple de neuf, le nombre est divisible par neuf. La division euclidienne s’écrit a égale b fois q plus r, avec un reste r toujours plus petit que b. Un nombre premier a exactement deux diviseurs : un et lui-même. Deux, trois, cinq, sept, onze, treize sont premiers, mais un ne l’est pas. On peut décomposer un nombre en facteurs premiers, par exemple quatre-vingt-quatre égale deux au carré fois trois fois sept, et cela aide à simplifier une fraction jusqu’à la rendre irréductible.",
+  "guided_explanation": "Pour savoir si un nombre est divisible par un autre, commence par les critères : unités pour 2, 5 et 10, somme des chiffres pour 3 et 9. Pour une division euclidienne, vérifie toujours que le reste est plus petit que le diviseur et que b × q + r redonne bien a. Pour un nombre premier, teste les diviseurs 2, 3, 5, 7 : s’il n’y en a aucun et que le nombre est inférieur à 100, il est premier. Pour simplifier une fraction, cherche un diviseur commun, puis recommence tant que tu peux. Si tu te trompes, repose-toi sur la décomposition en facteurs premiers."
+}

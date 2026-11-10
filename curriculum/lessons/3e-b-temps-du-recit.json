@@ -1,0 +1,144 @@
+{
+  "id": "3e-b-temps-du-recit",
+  "title": "Les temps du récit : passé simple, imparfait et plus-que-parfait",
+  "chapter_id": "3e-b-temps-du-recit",
+  "program_id": "3e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Conjuguer des verbes à l’imparfait, au passé simple (3e personne) et au plus-que-parfait.",
+    "Expliquer pourquoi l’on emploie l’imparfait, le passé simple ou le plus-que-parfait dans un récit.",
+    "Réécrire un court texte du présent vers un temps du passé en respectant les valeurs des temps."
+  ],
+  "skill_ids": [
+    "3e-b-temps-du-recit-skill-former",
+    "3e-b-temps-du-recit-skill-valeurs",
+    "3e-b-temps-du-recit-skill-reecrire"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (« Former les temps simples », « Construire les temps composés », « Mettre en évidence le lien entre le temps employé et le sens » : premier plan / arrière-plan ; borné / non borné, « elle lut une page / elle lisait une page »), pages 23–24 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Former l’imparfait et le plus-que-parfait",
+      "text": "Imparfait : on prend le radical de la forme « nous » du présent, puis on ajoute -ais, -ais, -ait, -ions, -iez, -aient. Chanter : nous chantons → il chantait. Finir : nous finissons → il finissait. Faire : nous faisons → il faisait. Manger : nous mangions, je mangeais. Exception : être → j’étais. Plus-que-parfait : auxiliaire (être ou avoir) à l’imparfait + participe passé : j’avais chanté, nous avions fini, il était parti, elles étaient parties (le participe s’accorde avec le sujet quand l’auxiliaire est être)."
+    },
+    {
+      "title": "Former le passé simple (3e personne)",
+      "text": "Le passé simple s’emploie surtout à l’écrit, dans les récits, le plus souvent à la 3e personne. Verbes en -er (et aller) : il chanta, ils chantèrent ; il alla, ils allèrent. Verbes comme finir : il finit, ils finirent. Beaucoup de verbes du 3e groupe : il prit, ils prirent ; il fit, ils firent ; il dit, ils dirent ; il vit, ils virent ; il vint, ils vinrent. Terminaisons en -u : il fut, ils furent (être) ; il eut, ils eurent (avoir) ; il put, il voulut, il sut, il fallut. Ne confonds pas « il chanta » (passé simple) avec « il chantera » (futur)."
+    },
+    {
+      "title": "Les valeurs : arrière-plan, premier plan, accompli",
+      "text": "Dans un récit, l’imparfait décrit le décor, les circonstances, les habitudes ; c’est l’arrière-plan, une action qui dure sans limite précise (non bornée). Le passé simple raconte les actions successives qui font avancer l’histoire ; c’est le premier plan, des actions bornées (qui ont un début et une fin). Exemple : « Il pleuvait ; les rues étaient désertes. Soudain, la porte s’ouvrit. Léa entra et regarda autour d’elle. » Comparaison : « Elle lut une page » (action terminée) / « Elle lisait une page » (action en cours, sans limite précisée)."
+    },
+    {
+      "title": "Le plus-que-parfait : l’action déjà accomplie",
+      "text": "Le plus-que-parfait est un temps composé : il exprime une action accomplie, achevée avant une autre action du passé. « Quand Léa arriva, le train était parti. » (le départ a eu lieu avant l’arrivée). Il sert aussi à expliquer une cause : « Elle était fatiguée car elle avait mal dormi. » Opposition à retenir : « il lisait » (non accompli) / « il avait lu » (accompli). Pour réécrire un récit du présent vers le passé : les actions successives passent au passé simple, les descriptions à l’imparfait, et ce qui s’est passé avant au plus-que-parfait."
+    }
+  ],
+  "revision_sheet": [
+    "Imparfait : radical de « nous » au présent + -ais, -ais, -ait, -ions, -iez, -aient (nous finissons → il finissait).",
+    "Plus-que-parfait : auxiliaire à l’imparfait + participe passé (il avait fini ; elles étaient parties).",
+    "Passé simple, 3e personne : il chanta / ils chantèrent ; il finit / ils finirent ; il prit, fit, dit, vit, vint ; il fut, eut, put, voulut.",
+    "Imparfait : arrière-plan, description, durée non bornée. Passé simple : premier plan, actions successives bornées.",
+    "Plus-que-parfait : action accomplie avant une autre action passée (valeur d’antériorité ou de cause).",
+    "« Elle lut une page » (terminée) / « Elle lisait une page » (en cours)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle est la forme du verbe « prendre » au passé simple dans « Les voyageurs ___ le train. » ?",
+      "choices": [
+        "prenèrent",
+        "prirent",
+        "prendirent"
+      ],
+      "correct_index": 1,
+      "explanation": "Au passé simple, prendre donne « ils prirent »."
+    },
+    {
+      "prompt": "Quelle est la forme du verbe « finir » à l’imparfait à la 3e personne du singulier ?",
+      "choices": [
+        "il finissait",
+        "il finit",
+        "il finisait"
+      ],
+      "correct_index": 0,
+      "explanation": "On part de « nous finissons » : radical « finiss- » + -ait, soit « il finissait ». « Il finit » est au présent ou au passé simple."
+    },
+    {
+      "prompt": "Laquelle de ces formes est au plus-que-parfait ?",
+      "choices": [
+        "il partit",
+        "il était parti",
+        "il partait"
+      ],
+      "correct_index": 1,
+      "explanation": "« Il était parti » est formé de l’auxiliaire être à l’imparfait + le participe passé : c’est le plus-que-parfait. « Il partit » est au passé simple et « il partait » à l’imparfait."
+    },
+    {
+      "prompt": "Dans « Il ouvrit la porte ; dehors, il pleuvait. », quelle forme décrit le décor (arrière-plan) ?",
+      "choices": [
+        "ouvrit",
+        "aucune des deux",
+        "pleuvait"
+      ],
+      "correct_index": 2,
+      "explanation": "L’imparfait « pleuvait » décrit les circonstances, l’arrière-plan. Le passé simple « ouvrit » exprime une action de premier plan."
+    },
+    {
+      "prompt": "Quelle phrase indique que le train est parti AVANT l’arrivée de Léa ?",
+      "choices": [
+        "Quand Léa arriva, le train partait.",
+        "Quand Léa arriva, le train était parti.",
+        "Quand Léa arriva, le train partit."
+      ],
+      "correct_index": 1,
+      "explanation": "Le plus-que-parfait « était parti » marque une action accomplie avant une autre action passée (l’arrivée de Léa)."
+    },
+    {
+      "prompt": "Quelle est la forme correcte de « faire » au passé simple à la 3e personne du pluriel ?",
+      "choices": [
+        "ils faisèrent",
+        "ils firent",
+        "ils faisaient"
+      ],
+      "correct_index": 1,
+      "explanation": "Faire donne « ils firent » au passé simple. « Ils faisaient » est à l’imparfait."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Conjugue au temps indiqué : a) Il (ouvrir) la fenêtre (passé simple). b) Ils (voir) un cerf (passé simple). c) Nous (manger) tous les jours à la cantine (imparfait). d) Elles (partir) déjà (plus-que-parfait). e) Elle (être) très fière (passé simple).",
+      "solution": "a) Il ouvrit la fenêtre. b) Ils virent un cerf. c) Nous mangions tous les jours à la cantine. d) Elles étaient déjà parties. e) Elle fut très fière.",
+      "success_criterion": "Cinq formes correctes, avec le « e » de « mangions » et l’accord de « parties »."
+    },
+    {
+      "prompt": "Complète avec l’imparfait ou le passé simple : a) Le vent (souffler) fort quand le capitaine (donner) l’ordre de partir. b) Les enfants (dormir) depuis une heure quand le téléphone (sonner). c) Il (être) tard. Soudain, un cri (retentir).",
+      "solution": "a) soufflait ; donna. b) dormaient ; sonna. c) Il était tard. Soudain, un cri retentit. L’imparfait décrit la situation, le passé simple l’événement.",
+      "success_criterion": "Choisir l’imparfait pour la situation en cours et le passé simple pour l’événement, avec des formes correctes."
+    },
+    {
+      "prompt": "Complète avec le plus-que-parfait : a) Quand Tom arriva, Léa (partir) déjà. b) Quand j’arrivai, mes amis (manger) déjà.",
+      "solution": "a) Quand Tom arriva, Léa était déjà partie. b) Quand j’arrivai, mes amis avaient déjà mangé.",
+      "success_criterion": "Utiliser le bon auxiliaire (être pour partir, avoir pour manger) et accorder « partie »."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Réécris ce texte au passé : « Une nuit, Hugo entend un bruit. Il se lève, prend sa lampe et descend l’escalier. Il fait froid. Il ouvre la porte : le chat l’attend, il a faim. » Utilise le passé simple pour les actions et l’imparfait pour les descriptions.",
+      "solution": "Une nuit, Hugo entendit un bruit. Il se leva, prit sa lampe et descendit l’escalier. Il faisait froid. Il ouvrit la porte : le chat l’attendait, il avait faim.",
+      "success_criterion": "Mettre les actions successives au passé simple et la description (il faisait froid ; l’attendait ; il avait faim) à l’imparfait."
+    },
+    {
+      "prompt": "Explique la différence de sens entre « Elle lut une page » et « Elle lisait une page quand le téléphone sonna ».",
+      "solution": "« Elle lut une page » : action terminée, bornée, qui fait avancer le récit. « Elle lisait une page » : action en cours, dont on ne précise pas la fin ; elle sert d’arrière-plan à l’événement « le téléphone sonna ».",
+      "success_criterion": "Opposer action terminée (passé simple) et action en cours (imparfait) et relier chaque temps au premier plan ou à l’arrière-plan."
+    },
+    {
+      "prompt": "Complète avec le plus-que-parfait et explique son emploi : « Léa ne trouva plus son sac. Elle l’(oublier) dans le train. »",
+      "solution": "« Elle l’avait oublié dans le train. » Le plus-que-parfait exprime une action accomplie avant l’action principale (Léa ne trouva plus son sac) et donne la cause. Le participe reste « oublié », car le COD « l’ » (le sac) est masculin singulier.",
+      "success_criterion": "Écrire « avait oublié », expliquer l’antériorité et la cause et accorder correctement le participe."
+    }
+  ],
+  "audio_transcript": "Pour raconter au passé, on combine trois temps. L’imparfait décrit le décor et les actions qui durent : il pleuvait, les rues étaient désertes. On le forme avec le radical de nous au présent : nous finissons, il finissait. Le passé simple raconte les actions qui font avancer l’histoire : la porte s’ouvrit, Léa entra. À la troisième personne, il chanta, ils chantèrent, il prit, ils firent. Enfin, le plus-que-parfait, formé avec l’auxiliaire à l’imparfait et le participe passé, indique qu’une action était déjà finie avant une autre : quand Léa arriva, le train était parti. Elle lut une page, c’est terminé ; elle lisait une page, c’est en cours.",
+  "guided_explanation": "Imagine un film. L’imparfait, c’est le décor et l’ambiance : la météo, les lieux, ce qui dure. Le passé simple, ce sont les actions qui s’enchaînent, comme les plans successifs qui font avancer l’histoire. Le plus-que-parfait, c’est le petit retour en arrière : ce qui s’était passé avant. Pour réécrire un texte du présent au passé, fais trois étapes : 1) repère les actions qui se suivent et mets-les au passé simple ; 2) repère les descriptions et mets-les à l’imparfait ; 3) repère ce qui s’est passé avant et mets-le au plus-que-parfait. Pour le plus-que-parfait avec être, n’oublie pas d’accorder le participe avec le sujet."
+}

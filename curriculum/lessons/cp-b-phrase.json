@@ -1,0 +1,102 @@
+{
+  "id": "cp-b-phrase",
+  "title": "Reconnaître et écrire une phrase",
+  "chapter_id": "cp-b-phrase",
+  "program_id": "CP-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître une phrase avec la majuscule, le point et le sens.",
+    "Remettre des mots dans l’ordre pour faire une phrase.",
+    "Écrire une phrase avec une majuscule et un point."
+  ],
+  "skill_ids": [
+    "cp-b-phrase-skill-marqueurs",
+    "cp-b-phrase-skill-ordre",
+    "cp-b-phrase-skill-texte"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Une phrase a un sens",
+      "text": "Une phrase dit quelque chose. « Le chat dort. » est une phrase. « chat dort le » n’est pas une phrase : les mots ne sont pas dans le bon ordre."
+    },
+    {
+      "title": "La majuscule et le point",
+      "text": "Une phrase commence par une majuscule. Une phrase finit par un point. Quand on pose une question, on finit par un point d’interrogation : Où est Léa ?"
+    },
+    {
+      "title": "Écrire une phrase",
+      "text": "Choisis des mots dans le bon ordre. Écris une majuscule au premier mot. Mets le point à la fin. Relis ta phrase pour vérifier qu’elle a du sens."
+    }
+  ],
+  "revision_sheet": [
+    "Une phrase : une majuscule au début, un signe de fin (. ou ?), et un sens.",
+    "Les mots doivent être dans le bon ordre.",
+    "Dans un texte, chaque phrase commence par une majuscule et finit par un point."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle ligne est bien écrite comme une phrase ?",
+      "choices": [
+        "Le chat dort.",
+        "le chat dort",
+        "Le chat dort"
+      ],
+      "correct_index": 0,
+      "explanation": "Il faut une majuscule au début et un point à la fin."
+    },
+    {
+      "prompt": "Quel signe met-on à la fin de « Où est Léa » ?",
+      "choices": [
+        ".",
+        "?",
+        ","
+      ],
+      "correct_index": 1,
+      "explanation": "C’est une question : on finit par un point d’interrogation."
+    },
+    {
+      "prompt": "Quels mots remis dans l’ordre font une phrase avec « dort / Le / chat » ?",
+      "choices": [
+        "Le chat dort.",
+        "Chat dort le.",
+        "Dort chat le."
+      ],
+      "correct_index": 0,
+      "explanation": "Les mots sont dans le bon ordre : Le chat dort."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Mets les mots dans l’ordre : lit / Léa / un livre.",
+      "solution": "Léa lit un livre.",
+      "success_criterion": "Phrase avec sens, majuscule au début et point à la fin."
+    },
+    {
+      "prompt": "Recopie correctement : le chien court",
+      "solution": "Le chien court.",
+      "success_criterion": "Ajouter la majuscule et le point."
+    },
+    {
+      "prompt": "Mets le bon signe à la fin : Où est mon sac",
+      "solution": "Où est mon sac ?",
+      "success_criterion": "Ajouter un point d’interrogation."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Combien y a-t-il de phrases ? Il pleut. Léa prend son parapluie. Nous sortons.",
+      "solution": "Trois phrases : chacune commence par une majuscule et finit par un point.",
+      "success_criterion": "S’appuyer sur les majuscules et les points."
+    },
+    {
+      "prompt": "Explique ce qui manque : le chien aboie",
+      "solution": "Il manque la majuscule au début et le point à la fin : Le chien aboie.",
+      "success_criterion": "Citer la majuscule et le point."
+    }
+  ],
+  "audio_transcript": "Une phrase dit quelque chose. Elle commence par une majuscule. Elle finit par un point, ou par un point d’interrogation si on pose une question. Les mots doivent être dans le bon ordre. Le chat dort est une phrase. Chat dort le n’est pas une phrase.",
+  "guided_explanation": "Regarde une phrase comme un petit train. La majuscule est la locomotive, au début. Le point est le dernier wagon, à la fin. Entre les deux, les mots sont rangés dans le bon ordre. Si le train n’a pas de locomotive ou de dernier wagon, ce n’est pas encore une phrase bien écrite."
+}

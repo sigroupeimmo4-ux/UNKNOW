@@ -1,0 +1,1286 @@
+{
+  "programs": [
+    {
+      "id": "CE2-mathematiques-commun",
+      "domains": [
+        {
+          "id": "nombres-calcul-problemes",
+          "title": "Nombres, calcul et résolution de problèmes",
+          "source_locator": "Annexe 4, pages 19–22, Cours élémentaire deuxième année (CE2) / Les nombres entiers, Les fractions, Les quatre opérations, Mémoriser des faits numériques",
+          "chapters": [
+            {
+              "id": "ce2-b-additions-soustractions-posees",
+              "title": "Additions et soustractions posées jusqu’à 10 000",
+              "title_type": "editorial",
+              "official_section": "Les quatre opérations",
+              "notions": [
+                "Mots « terme », « somme » et « différence »",
+                "Addition posée en colonnes",
+                "Soustraction posée en colonnes",
+                "Nombres entiers inférieurs ou égaux à 10 000"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-b-additions-soustractions-posees-knowledge",
+                  "text": "Dans une addition, les nombres additionnés sont les termes et le résultat est la somme ; dans une soustraction, les deux nombres sont les termes et le résultat est la différence. Les additions et soustractions se posent en colonnes avec des nombres entiers inférieurs ou égaux à 10 000.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+                  "text": "Comprendre et utiliser les mots « terme », « somme » et « différence ».",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-b-additions-soustractions-posees-skill-poser",
+                  "text": "Poser et effectuer des additions et des soustractions en colonnes avec des nombres entiers inférieurs ou égaux à 10 000.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "grandeurs-mesures",
+          "title": "Grandeurs et mesures",
+          "source_locator": "Annexe 4, pages 29–30, Cours élémentaire deuxième année (CE2) / Les longueurs, Les masses, Les contenances",
+          "chapters": [
+            {
+              "id": "ce2-b-longueurs-perimetre",
+              "title": "Longueurs : unités, conversions et périmètre",
+              "title_type": "editorial",
+              "official_section": "Les longueurs",
+              "notions": [
+                "Unités mètre, décimètre, centimètre, millimètre et kilomètre",
+                "Relations entre les unités de longueur",
+                "Conversions cm-mm, m-dm-cm et km-m",
+                "Périmètre d’une figure plane"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-b-longueurs-perimetre-knowledge",
+                  "text": "On a 1 cm = 10 mm et 1 m = 1 000 mm, et on sait convertir entre cm et mm, entre m, dm et cm et entre km et m. Le périmètre d’une figure plane est la longueur de son contour.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-b-longueurs-perimetre-skill-unites",
+                  "text": "Connaitre et utiliser les unités de longueur (m, dm, cm, mm, km), leurs relations et effectuer des conversions.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-b-longueurs-perimetre-skill-perimetre",
+                  "text": "Savoir ce qu’est le périmètre d’une figure plane et déterminer le périmètre d’un polygone en utilisant une règle graduée.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+            },
+            {
+              "id": "ce2-b-masses-contenances",
+              "title": "Masses et contenances : unités et conversions",
+              "title_type": "editorial",
+              "official_section": "Les masses ; Les contenances",
+              "notions": [
+                "Unités gramme, kilogramme et tonne",
+                "Relations entre les unités de masse",
+                "Unités litre, décilitre et centilitre",
+                "Conversions et comparaisons de masses et de contenances"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-b-masses-contenances-knowledge",
+                  "text": "On a 1 kg = 1 000 g et 1 t = 1 000 kg. Pour les contenances, 1 L = 10 dL = 100 cL.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-b-masses-contenances-skill-masses",
+                  "text": "Connaitre et utiliser les unités de masse g, kg et t, convertir entre elles, comparer et estimer des masses.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-b-masses-contenances-skill-contenances",
+                  "text": "Connaitre et utiliser les unités de contenance L, dL et cL, savoir que 1 L = 10 dL = 100 cL, et effectuer des conversions.",
+                  "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE2-francais-commun",
+      "domains": [
+        {
+          "id": "grammaire-orthographe",
+          "title": "Grammaire et orthographe",
+          "source_locator": "Annexe 3, page 22, Cours élémentaire deuxième année (CE2) / Grammaire et orthographe",
+          "chapters": [
+            {
+              "id": "ce2-b-classes-mots-adverbe",
+              "title": "Les classes de mots et l’adverbe",
+              "title_type": "editorial",
+              "official_section": "Se repérer dans la phrase simple",
+              "notions": [
+                "Déterminant, nom commun, nom propre, adjectif, verbe, pronom personnel sujet",
+                "Mots variables et mots invariables",
+                "L’adverbe",
+                "Adverbes fréquents et adverbes en -ment"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-b-classes-mots-adverbe-knowledge",
+                  "text": "Les mots se rangent en classes : le déterminant, le nom commun, le nom propre, l’adjectif, le verbe, le pronom personnel sujet et l’adverbe. L’adverbe est un mot invariable ; les adverbes les plus fréquents (très, si, bien, assez, aujourd’hui, demain) et les adverbes en -ment s’écrivent correctement.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-b-classes-mots-adverbe-skill-classes",
+                  "text": "Différencier et nommer les principales classes de mots : déterminant, nom commun, nom propre, adjectif, verbe, pronom personnel sujet et adverbe.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-b-classes-mots-adverbe-skill-adverbe",
+                  "text": "Observer la différence entre mots variables et invariables, reconnaitre l’adverbe et orthographier les adverbes les plus fréquents et les adverbes en -ment.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+            },
+            {
+              "id": "ce2-b-passe-compose",
+              "title": "Conjuguer au passé composé",
+              "title_type": "editorial",
+              "official_section": "Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale",
+              "notions": [
+                "Passé composé de l’indicatif",
+                "Auxiliaires avoir et être au présent",
+                "Participe passé des verbes du premier groupe (-é)",
+                "Quelques verbes irréguliers du 3e groupe"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-b-passe-compose-knowledge",
+                  "text": "Le passé composé de l’indicatif se forme avec l’auxiliaire avoir ou être conjugué au présent suivi du participe passé ; les verbes du premier groupe ont un participe passé en -é, et être, avoir et des verbes irréguliers du 3e groupe (faire, aller, dire, venir, pouvoir, voir, vouloir, prendre) se conjuguent aussi au passé composé.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-b-passe-compose-skill-former",
+                  "text": "Conjuguer au passé composé de l’indicatif être, avoir, les verbes du premier groupe et quelques verbes irréguliers du 3e groupe.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-b-passe-compose-skill-orthographe",
+                  "text": "Orthographier correctement les formes verbales étudiées en dictée et en écriture, en distinguant par exemple le participe passé en -é de l’infinitif en -er.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "vocabulaire",
+          "title": "Vocabulaire",
+          "source_locator": "Annexe 3, pages 18–19, Cours élémentaire deuxième année (CE2) / Enrichir son vocabulaire dans toutes les disciplines, Établir des relations entre les mots",
+          "chapters": [
+            {
+              "id": "ce2-b-prefixes-suffixes-familles",
+              "title": "Préfixes, suffixes et familles de mots",
+              "title_type": "editorial",
+              "official_section": "Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots",
+              "notions": [
+                "Radical, préfixe et suffixe",
+                "Préfixes à sens négatif (dé-, mal-, in-)",
+                "Familles de mots et dérivation",
+                "Trouver le sens d’un mot grâce à sa construction"
+              ],
+              "knowledge": [
+                {
+                  "id": "ce2-b-prefixes-suffixes-familles-knowledge",
+                  "text": "La construction d’un mot aide à en trouver le sens : des préfixes comme dé-, mal- ou in- placés devant le radical donnent souvent un sens négatif, et des mots qui partagent un radical forment une famille, avec des classes grammaticales différentes (observation, observer, observable).",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "ce2-b-prefixes-suffixes-familles-skill-sens",
+                  "text": "S’appuyer sur la morphologie des mots (radical, préfixe, suffixe) pour en trouver le sens, notamment les préfixes à sens négatif dé-, mal-, in-.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+                },
+                {
+                  "id": "ce2-b-prefixes-suffixes-familles-skill-derives",
+                  "text": "Trier et apparier des mots et leurs dérivés en fonction des préfixes et suffixes identifiés, en repérant la partie commune.",
+                  "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "ce2-b-additions-soustractions-posees-course",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-additions-soustractions-posees"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Utiliser les mots terme, somme et différence.",
+        "Poser et effectuer une addition en colonnes avec des nombres jusqu’à 10 000.",
+        "Poser et effectuer une soustraction en colonnes et la vérifier."
+      ],
+      "skill_ids": [
+        "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+        "ce2-b-additions-soustractions-posees-skill-poser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-additions-soustractions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-additions-soustractions-posees-revision_sheet",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-additions-soustractions-posees"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Utiliser les mots terme, somme et différence.",
+        "Poser et effectuer une addition en colonnes avec des nombres jusqu’à 10 000.",
+        "Poser et effectuer une soustraction en colonnes et la vérifier."
+      ],
+      "skill_ids": [
+        "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+        "ce2-b-additions-soustractions-posees-skill-poser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-additions-soustractions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-additions-soustractions-posees-quiz",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-additions-soustractions-posees"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Utiliser les mots terme, somme et différence.",
+        "Poser et effectuer une addition en colonnes avec des nombres jusqu’à 10 000.",
+        "Poser et effectuer une soustraction en colonnes et la vérifier."
+      ],
+      "skill_ids": [
+        "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+        "ce2-b-additions-soustractions-posees-skill-poser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-additions-soustractions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-additions-soustractions-posees-exercise",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-additions-soustractions-posees"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Utiliser les mots terme, somme et différence.",
+        "Poser et effectuer une addition en colonnes avec des nombres jusqu’à 10 000.",
+        "Poser et effectuer une soustraction en colonnes et la vérifier."
+      ],
+      "skill_ids": [
+        "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+        "ce2-b-additions-soustractions-posees-skill-poser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-additions-soustractions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-additions-soustractions-posees-assessment",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-additions-soustractions-posees"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Utiliser les mots terme, somme et différence.",
+        "Poser et effectuer une addition en colonnes avec des nombres jusqu’à 10 000.",
+        "Poser et effectuer une soustraction en colonnes et la vérifier."
+      ],
+      "skill_ids": [
+        "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+        "ce2-b-additions-soustractions-posees-skill-poser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-additions-soustractions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-additions-soustractions-posees-audio",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-additions-soustractions-posees"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Utiliser les mots terme, somme et différence.",
+        "Poser et effectuer une addition en colonnes avec des nombres jusqu’à 10 000.",
+        "Poser et effectuer une soustraction en colonnes et la vérifier."
+      ],
+      "skill_ids": [
+        "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+        "ce2-b-additions-soustractions-posees-skill-poser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-additions-soustractions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-additions-soustractions-posees-assistant_explanation",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-additions-soustractions-posees"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Utiliser les mots terme, somme et différence.",
+        "Poser et effectuer une addition en colonnes avec des nombres jusqu’à 10 000.",
+        "Poser et effectuer une soustraction en colonnes et la vérifier."
+      ],
+      "skill_ids": [
+        "ce2-b-additions-soustractions-posees-skill-vocabulaire",
+        "ce2-b-additions-soustractions-posees-skill-poser"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les quatre opérations, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-additions-soustractions-posees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-longueurs-perimetre-course",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-longueurs-perimetre"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Connaitre les unités de longueur et leurs relations.",
+        "Convertir des longueurs (cm-mm, m-dm-cm, km-m).",
+        "Calculer le périmètre d’un polygone à partir de la longueur de ses côtés."
+      ],
+      "skill_ids": [
+        "ce2-b-longueurs-perimetre-skill-unites",
+        "ce2-b-longueurs-perimetre-skill-perimetre"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-longueurs-perimetre-revision_sheet",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-longueurs-perimetre"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Connaitre les unités de longueur et leurs relations.",
+        "Convertir des longueurs (cm-mm, m-dm-cm, km-m).",
+        "Calculer le périmètre d’un polygone à partir de la longueur de ses côtés."
+      ],
+      "skill_ids": [
+        "ce2-b-longueurs-perimetre-skill-unites",
+        "ce2-b-longueurs-perimetre-skill-perimetre"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-longueurs-perimetre-quiz",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-longueurs-perimetre"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Connaitre les unités de longueur et leurs relations.",
+        "Convertir des longueurs (cm-mm, m-dm-cm, km-m).",
+        "Calculer le périmètre d’un polygone à partir de la longueur de ses côtés."
+      ],
+      "skill_ids": [
+        "ce2-b-longueurs-perimetre-skill-unites",
+        "ce2-b-longueurs-perimetre-skill-perimetre"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-longueurs-perimetre-exercise",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-longueurs-perimetre"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Connaitre les unités de longueur et leurs relations.",
+        "Convertir des longueurs (cm-mm, m-dm-cm, km-m).",
+        "Calculer le périmètre d’un polygone à partir de la longueur de ses côtés."
+      ],
+      "skill_ids": [
+        "ce2-b-longueurs-perimetre-skill-unites",
+        "ce2-b-longueurs-perimetre-skill-perimetre"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-longueurs-perimetre-assessment",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-longueurs-perimetre"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Connaitre les unités de longueur et leurs relations.",
+        "Convertir des longueurs (cm-mm, m-dm-cm, km-m).",
+        "Calculer le périmètre d’un polygone à partir de la longueur de ses côtés."
+      ],
+      "skill_ids": [
+        "ce2-b-longueurs-perimetre-skill-unites",
+        "ce2-b-longueurs-perimetre-skill-perimetre"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-longueurs-perimetre-audio",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-longueurs-perimetre"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Connaitre les unités de longueur et leurs relations.",
+        "Convertir des longueurs (cm-mm, m-dm-cm, km-m).",
+        "Calculer le périmètre d’un polygone à partir de la longueur de ses côtés."
+      ],
+      "skill_ids": [
+        "ce2-b-longueurs-perimetre-skill-unites",
+        "ce2-b-longueurs-perimetre-skill-perimetre"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-longueurs-perimetre-assistant_explanation",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-longueurs-perimetre"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Connaitre les unités de longueur et leurs relations.",
+        "Convertir des longueurs (cm-mm, m-dm-cm, km-m).",
+        "Calculer le périmètre d’un polygone à partir de la longueur de ses côtés."
+      ],
+      "skill_ids": [
+        "ce2-b-longueurs-perimetre-skill-unites",
+        "ce2-b-longueurs-perimetre-skill-perimetre"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les longueurs, page 29 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-masses-contenances-course",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-masses-contenances"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Convertir des masses entre grammes, kilogrammes et tonnes.",
+        "Convertir des contenances entre litres, décilitres et centilitres.",
+        "Comparer des masses ou des contenances en les écrivant dans la même unité."
+      ],
+      "skill_ids": [
+        "ce2-b-masses-contenances-skill-masses",
+        "ce2-b-masses-contenances-skill-contenances"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-masses-contenances.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-masses-contenances-revision_sheet",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-masses-contenances"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Convertir des masses entre grammes, kilogrammes et tonnes.",
+        "Convertir des contenances entre litres, décilitres et centilitres.",
+        "Comparer des masses ou des contenances en les écrivant dans la même unité."
+      ],
+      "skill_ids": [
+        "ce2-b-masses-contenances-skill-masses",
+        "ce2-b-masses-contenances-skill-contenances"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-masses-contenances.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-masses-contenances-quiz",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-masses-contenances"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Convertir des masses entre grammes, kilogrammes et tonnes.",
+        "Convertir des contenances entre litres, décilitres et centilitres.",
+        "Comparer des masses ou des contenances en les écrivant dans la même unité."
+      ],
+      "skill_ids": [
+        "ce2-b-masses-contenances-skill-masses",
+        "ce2-b-masses-contenances-skill-contenances"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-masses-contenances.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-masses-contenances-exercise",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-masses-contenances"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Convertir des masses entre grammes, kilogrammes et tonnes.",
+        "Convertir des contenances entre litres, décilitres et centilitres.",
+        "Comparer des masses ou des contenances en les écrivant dans la même unité."
+      ],
+      "skill_ids": [
+        "ce2-b-masses-contenances-skill-masses",
+        "ce2-b-masses-contenances-skill-contenances"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-masses-contenances.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-masses-contenances-assessment",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-masses-contenances"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Convertir des masses entre grammes, kilogrammes et tonnes.",
+        "Convertir des contenances entre litres, décilitres et centilitres.",
+        "Comparer des masses ou des contenances en les écrivant dans la même unité."
+      ],
+      "skill_ids": [
+        "ce2-b-masses-contenances-skill-masses",
+        "ce2-b-masses-contenances-skill-contenances"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-masses-contenances.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-masses-contenances-audio",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-masses-contenances"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Convertir des masses entre grammes, kilogrammes et tonnes.",
+        "Convertir des contenances entre litres, décilitres et centilitres.",
+        "Comparer des masses ou des contenances en les écrivant dans la même unité."
+      ],
+      "skill_ids": [
+        "ce2-b-masses-contenances-skill-masses",
+        "ce2-b-masses-contenances-skill-contenances"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-masses-contenances.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-masses-contenances-assistant_explanation",
+      "program_id": "CE2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-masses-contenances"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Convertir des masses entre grammes, kilogrammes et tonnes.",
+        "Convertir des contenances entre litres, décilitres et centilitres.",
+        "Comparer des masses ou des contenances en les écrivant dans la même unité."
+      ],
+      "skill_ids": [
+        "ce2-b-masses-contenances-skill-masses",
+        "ce2-b-masses-contenances-skill-contenances"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-masses-contenances.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-classes-mots-adverbe-course",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-classes-mots-adverbe"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Nommer la classe de chaque mot dans une phrase simple.",
+        "Distinguer mots variables et mots invariables.",
+        "Reconnaitre l’adverbe et écrire correctement les adverbes fréquents et en -ment."
+      ],
+      "skill_ids": [
+        "ce2-b-classes-mots-adverbe-skill-classes",
+        "ce2-b-classes-mots-adverbe-skill-adverbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-classes-mots-adverbe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-classes-mots-adverbe-revision_sheet",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-classes-mots-adverbe"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Nommer la classe de chaque mot dans une phrase simple.",
+        "Distinguer mots variables et mots invariables.",
+        "Reconnaitre l’adverbe et écrire correctement les adverbes fréquents et en -ment."
+      ],
+      "skill_ids": [
+        "ce2-b-classes-mots-adverbe-skill-classes",
+        "ce2-b-classes-mots-adverbe-skill-adverbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-classes-mots-adverbe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-classes-mots-adverbe-quiz",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-classes-mots-adverbe"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Nommer la classe de chaque mot dans une phrase simple.",
+        "Distinguer mots variables et mots invariables.",
+        "Reconnaitre l’adverbe et écrire correctement les adverbes fréquents et en -ment."
+      ],
+      "skill_ids": [
+        "ce2-b-classes-mots-adverbe-skill-classes",
+        "ce2-b-classes-mots-adverbe-skill-adverbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-classes-mots-adverbe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-classes-mots-adverbe-exercise",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-classes-mots-adverbe"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Nommer la classe de chaque mot dans une phrase simple.",
+        "Distinguer mots variables et mots invariables.",
+        "Reconnaitre l’adverbe et écrire correctement les adverbes fréquents et en -ment."
+      ],
+      "skill_ids": [
+        "ce2-b-classes-mots-adverbe-skill-classes",
+        "ce2-b-classes-mots-adverbe-skill-adverbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-classes-mots-adverbe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-classes-mots-adverbe-assessment",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-classes-mots-adverbe"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Nommer la classe de chaque mot dans une phrase simple.",
+        "Distinguer mots variables et mots invariables.",
+        "Reconnaitre l’adverbe et écrire correctement les adverbes fréquents et en -ment."
+      ],
+      "skill_ids": [
+        "ce2-b-classes-mots-adverbe-skill-classes",
+        "ce2-b-classes-mots-adverbe-skill-adverbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-classes-mots-adverbe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-classes-mots-adverbe-audio",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-classes-mots-adverbe"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Nommer la classe de chaque mot dans une phrase simple.",
+        "Distinguer mots variables et mots invariables.",
+        "Reconnaitre l’adverbe et écrire correctement les adverbes fréquents et en -ment."
+      ],
+      "skill_ids": [
+        "ce2-b-classes-mots-adverbe-skill-classes",
+        "ce2-b-classes-mots-adverbe-skill-adverbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-classes-mots-adverbe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-classes-mots-adverbe-assistant_explanation",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-classes-mots-adverbe"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Nommer la classe de chaque mot dans une phrase simple.",
+        "Distinguer mots variables et mots invariables.",
+        "Reconnaitre l’adverbe et écrire correctement les adverbes fréquents et en -ment."
+      ],
+      "skill_ids": [
+        "ce2-b-classes-mots-adverbe-skill-classes",
+        "ce2-b-classes-mots-adverbe-skill-adverbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-classes-mots-adverbe.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-prefixes-suffixes-familles-course",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-prefixes-suffixes-familles"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Repérer le radical, le préfixe et le suffixe d’un mot.",
+        "Utiliser les préfixes dé-, mal-, in- pour comprendre un mot.",
+        "Retrouver des mots de la même famille et leur classe grammaticale."
+      ],
+      "skill_ids": [
+        "ce2-b-prefixes-suffixes-familles-skill-sens",
+        "ce2-b-prefixes-suffixes-familles-skill-derives"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-prefixes-suffixes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-prefixes-suffixes-familles-revision_sheet",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-prefixes-suffixes-familles"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Repérer le radical, le préfixe et le suffixe d’un mot.",
+        "Utiliser les préfixes dé-, mal-, in- pour comprendre un mot.",
+        "Retrouver des mots de la même famille et leur classe grammaticale."
+      ],
+      "skill_ids": [
+        "ce2-b-prefixes-suffixes-familles-skill-sens",
+        "ce2-b-prefixes-suffixes-familles-skill-derives"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-prefixes-suffixes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-prefixes-suffixes-familles-quiz",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-prefixes-suffixes-familles"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Repérer le radical, le préfixe et le suffixe d’un mot.",
+        "Utiliser les préfixes dé-, mal-, in- pour comprendre un mot.",
+        "Retrouver des mots de la même famille et leur classe grammaticale."
+      ],
+      "skill_ids": [
+        "ce2-b-prefixes-suffixes-familles-skill-sens",
+        "ce2-b-prefixes-suffixes-familles-skill-derives"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-prefixes-suffixes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-prefixes-suffixes-familles-exercise",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-prefixes-suffixes-familles"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Repérer le radical, le préfixe et le suffixe d’un mot.",
+        "Utiliser les préfixes dé-, mal-, in- pour comprendre un mot.",
+        "Retrouver des mots de la même famille et leur classe grammaticale."
+      ],
+      "skill_ids": [
+        "ce2-b-prefixes-suffixes-familles-skill-sens",
+        "ce2-b-prefixes-suffixes-familles-skill-derives"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-prefixes-suffixes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-prefixes-suffixes-familles-assessment",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-prefixes-suffixes-familles"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Repérer le radical, le préfixe et le suffixe d’un mot.",
+        "Utiliser les préfixes dé-, mal-, in- pour comprendre un mot.",
+        "Retrouver des mots de la même famille et leur classe grammaticale."
+      ],
+      "skill_ids": [
+        "ce2-b-prefixes-suffixes-familles-skill-sens",
+        "ce2-b-prefixes-suffixes-familles-skill-derives"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-prefixes-suffixes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-prefixes-suffixes-familles-audio",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-prefixes-suffixes-familles"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Repérer le radical, le préfixe et le suffixe d’un mot.",
+        "Utiliser les préfixes dé-, mal-, in- pour comprendre un mot.",
+        "Retrouver des mots de la même famille et leur classe grammaticale."
+      ],
+      "skill_ids": [
+        "ce2-b-prefixes-suffixes-familles-skill-sens",
+        "ce2-b-prefixes-suffixes-familles-skill-derives"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-prefixes-suffixes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-prefixes-suffixes-familles-assistant_explanation",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-prefixes-suffixes-familles"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Repérer le radical, le préfixe et le suffixe d’un mot.",
+        "Utiliser les préfixes dé-, mal-, in- pour comprendre un mot.",
+        "Retrouver des mots de la même famille et leur classe grammaticale."
+      ],
+      "skill_ids": [
+        "ce2-b-prefixes-suffixes-familles-skill-sens",
+        "ce2-b-prefixes-suffixes-familles-skill-derives"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-prefixes-suffixes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-passe-compose-course",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-passe-compose"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Écrire correctement le participe passé des verbes en -er.",
+        "Distinguer -é et -er dans une phrase."
+      ],
+      "skill_ids": [
+        "ce2-b-passe-compose-skill-former",
+        "ce2-b-passe-compose-skill-orthographe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-passe-compose-revision_sheet",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-passe-compose"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Écrire correctement le participe passé des verbes en -er.",
+        "Distinguer -é et -er dans une phrase."
+      ],
+      "skill_ids": [
+        "ce2-b-passe-compose-skill-former",
+        "ce2-b-passe-compose-skill-orthographe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-passe-compose-quiz",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-passe-compose"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Écrire correctement le participe passé des verbes en -er.",
+        "Distinguer -é et -er dans une phrase."
+      ],
+      "skill_ids": [
+        "ce2-b-passe-compose-skill-former",
+        "ce2-b-passe-compose-skill-orthographe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-passe-compose-exercise",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-passe-compose"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Écrire correctement le participe passé des verbes en -er.",
+        "Distinguer -é et -er dans une phrase."
+      ],
+      "skill_ids": [
+        "ce2-b-passe-compose-skill-former",
+        "ce2-b-passe-compose-skill-orthographe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-passe-compose-assessment",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-passe-compose"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Écrire correctement le participe passé des verbes en -er.",
+        "Distinguer -é et -er dans une phrase."
+      ],
+      "skill_ids": [
+        "ce2-b-passe-compose-skill-former",
+        "ce2-b-passe-compose-skill-orthographe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-passe-compose-audio",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-passe-compose"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Écrire correctement le participe passé des verbes en -er.",
+        "Distinguer -é et -er dans une phrase."
+      ],
+      "skill_ids": [
+        "ce2-b-passe-compose-skill-former",
+        "ce2-b-passe-compose-skill-orthographe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "ce2-b-passe-compose-assistant_explanation",
+      "program_id": "CE2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "ce2-b-passe-compose"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Former le passé composé avec l’auxiliaire avoir ou être et le participe passé.",
+        "Écrire correctement le participe passé des verbes en -er.",
+        "Distinguer -é et -er dans une phrase."
+      ],
+      "skill_ids": [
+        "ce2-b-passe-compose-skill-former",
+        "ce2-b-passe-compose-skill-orthographe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Découvrir, comprendre et mettre en œuvre l’orthographe grammaticale, page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/ce2-b-passe-compose.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

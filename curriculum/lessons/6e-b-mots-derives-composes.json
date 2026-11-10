@@ -1,0 +1,133 @@
+{
+  "id": "6e-b-mots-derives-composes",
+  "title": "Mots simples, dérivés et composés ; synonymes et antonymes",
+  "chapter_id": "6e-b-mots-derives-composes",
+  "program_id": "6e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer un mot simple, un mot dérivé et un mot composé.",
+    "Repérer le radical, le préfixe et le suffixe d’un mot dérivé.",
+    "Retrouver les mots d’une même famille.",
+    "Donner un synonyme et un antonyme de la même classe grammaticale."
+  ],
+  "skill_ids": [
+    "6e-b-mots-derives-composes-skill-distinguer",
+    "6e-b-mots-derives-composes-skill-decomposer",
+    "6e-b-mots-derives-composes-skill-relations"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Trois types de mots",
+      "text": "Un mot simple ne se découpe pas en plusieurs éléments qui ont un sens : table, livre, grand, porter. Un mot dérivé est construit à partir d’un radical : refaire (re- + faire), joueur (jou- + -eur). Un mot composé est formé de plusieurs mots qui existent seuls : chou-fleur, porte-monnaie, grand-mère, taille-crayon, timbre-poste."
+    },
+    {
+      "title": "Préfixes et suffixes",
+      "text": "Le préfixe se place avant le radical : re- (de nouveau : refaire), dé- (contraire : défaire), in- (contraire : inutile). Devant m, b, p, in- devient im- : impossible. Le suffixe se place après : -eur (celui qui fait : chanteur), -ment (adverbe : rapidement), -tion (nom d’action : fabrication). Attention : un préfixe ou un suffixe change le sens ou la classe du mot."
+    },
+    {
+      "title": "La famille de mots",
+      "text": "Les mots d’une même famille partagent le même radical et un sens commun : terre, terrain, terrestre, enterrer, atterrir. Un mot qui ressemble mais n’a pas de rapport de sens n’appartient pas à la famille : terrible n’est pas de la famille de terre."
+    },
+    {
+      "title": "Synonymes et antonymes",
+      "text": "Des synonymes ont des sens proches : content / heureux ; regarder / observer ; voiture / auto. Des antonymes ont des sens contraires : grand / petit ; monter / descendre ; ouvrir / fermer. Le synonyme ou l’antonyme doit avoir la même classe grammaticale : l’antonyme de l’adjectif joyeux est triste (adjectif), pas tristesse (nom). Choisis aussi un mot adapté au contexte et au registre de langue."
+    }
+  ],
+  "revision_sheet": [
+    "Mot simple : un seul élément (table) ; dérivé : radical + préfixe ou suffixe (refaire, joueur) ; composé : plusieurs mots (chou-fleur).",
+    "Préfixes : re- (de nouveau), dé- et in- (contraire) ; devant m, b, p, in- devient im-. Suffixes : -eur, -ment, -tion.",
+    "Famille de mots : même radical et sens en rapport (terre, terrain, enterrer).",
+    "Synonyme : sens proche ; antonyme : sens contraire ; même classe grammaticale que le mot de départ."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel mot est un mot dérivé ?",
+      "choices": [
+        "chou-fleur",
+        "défaire",
+        "table"
+      ],
+      "correct_index": 1,
+      "explanation": "« Défaire » = dé- (préfixe) + faire (radical). « Chou-fleur » est un mot composé et « table » un mot simple."
+    },
+    {
+      "prompt": "Quel mot est un mot composé ?",
+      "choices": [
+        "lenteur",
+        "rapidement",
+        "porte-monnaie"
+      ],
+      "correct_index": 2,
+      "explanation": "« Porte-monnaie » réunit deux mots existants (porte et monnaie). Les deux autres sont des mots dérivés."
+    },
+    {
+      "prompt": "Dans le mot « impossible », quel est le préfixe ?",
+      "choices": [
+        "im-",
+        "poss-",
+        "-ible"
+      ],
+      "correct_index": 0,
+      "explanation": "« Impossible » = im- + possible. Le préfixe im- (variante de in- devant p) donne le sens contraire."
+    },
+    {
+      "prompt": "Quel est l’antonyme de l’adjectif « joyeux » ?",
+      "choices": [
+        "triste",
+        "tristesse",
+        "tristement"
+      ],
+      "correct_index": 0,
+      "explanation": "Un antonyme garde la classe grammaticale : joyeux est un adjectif, donc l’antonyme est l’adjectif « triste »."
+    },
+    {
+      "prompt": "Quel est un synonyme du verbe « regarder » ?",
+      "choices": [
+        "regard",
+        "observer",
+        "aveugle"
+      ],
+      "correct_index": 1,
+      "explanation": "« Observer » est un verbe de sens proche. « Regard » est un nom de la même famille, pas un synonyme du verbe."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Classe en mots simples, dérivés ou composés : livre ; relire ; grand-mère ; chanteur ; taille-crayon ; table.",
+      "solution": "Simples : livre, table. Dérivés : relire (re- + lire), chanteur (chant- + -eur). Composés : grand-mère, taille-crayon.",
+      "success_criterion": "Chercher si le mot contient un préfixe ou un suffixe, ou deux mots existants."
+    },
+    {
+      "prompt": "Décompose en préfixe, radical, suffixe : défaire ; inutile ; rapidement.",
+      "solution": "défaire = dé- + faire ; inutile = in- + utile ; rapidement = rapide + -ment (suffixe -ment).",
+      "success_criterion": "Isoler le radical qui existe seul."
+    },
+    {
+      "prompt": "Donne un synonyme et un antonyme de l’adjectif « content » et un antonyme du verbe « ouvrir ».",
+      "solution": "Exemples : synonyme de content : heureux ou ravi ; antonyme : triste ou mécontent ; antonyme de ouvrir : fermer.",
+      "success_criterion": "Respecter la classe grammaticale (adjectif avec adjectif, verbe avec verbe)."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Parmi ces mots, lesquels appartiennent à la famille de « terre » ? terrain ; terrestre ; terrible ; enterrer ; atterrir.",
+      "solution": "terrain, terrestre, enterrer et atterrir. « Terrible » n’appartient pas à la famille de terre : il n’a pas le même radical ni un sens en rapport.",
+      "success_criterion": "Vérifier le radical commun et le sens."
+    },
+    {
+      "prompt": "Forme un mot dérivé avec le préfixe dé- ou re- pour chacun : coller ; monter ; faire.",
+      "solution": "Exemples : décoller ou recoller ; démonter ou remonter ; défaire ou refaire.",
+      "success_criterion": "Ajouter le préfixe devant le radical et en donner le sens (contraire ou de nouveau)."
+    },
+    {
+      "prompt": "Dans « Le chat est rapide », remplace « rapide » par un synonyme puis par un antonyme. Pourquoi « lentement » ne convient-il pas comme antonyme ?",
+      "solution": "Synonyme : vif ou agile. Antonyme : lent. « Lentement » est un adverbe, alors que « rapide » est un adjectif : la classe grammaticale doit être la même.",
+      "success_criterion": "Choisir des adjectifs et justifier par la classe grammaticale."
+    }
+  ],
+  "audio_transcript": "Il existe trois sortes de mots. Le mot simple ne se découpe pas : table, livre. Le mot dérivé est formé d’un radical avec un préfixe ou un suffixe : défaire, c’est dé plus faire ; chanteur, c’est chant plus eur. Le mot composé réunit plusieurs mots : chou-fleur, porte-monnaie. Les mots d’une même famille ont le même radical : terre, terrain, enterrer. Mais terrible n’est pas de la famille de terre. Un synonyme a un sens proche, un antonyme un sens contraire, et ils doivent avoir la même classe grammaticale : l’antonyme de joyeux est triste, pas tristesse.",
+  "guided_explanation": "Pour analyser un mot, cherche d’abord s’il contient un mot que tu connais. Dans « défaire », tu reconnais « faire » : c’est le radical. Ce qui reste, « dé- », est un préfixe qui donne le sens contraire. Dans « porte-monnaie », tu reconnais deux mots entiers : c’est un mot composé. Pour un antonyme, demande-toi toujours : « Est-ce le même type de mot ? » Le contraire d’un adjectif doit être un adjectif."
+}

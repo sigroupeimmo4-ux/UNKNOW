@@ -1,0 +1,132 @@
+{
+  "id": "ce1-b-synonymes-contraires-affixes",
+  "title": "Vocabulaire : synonymes, contraires et mots construits",
+  "chapter_id": "ce1-b-synonymes-contraires-affixes",
+  "program_id": "CE1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Remplacer un mot par un synonyme pour éviter une répétition et distinguer rire et rigoler.",
+    "Former le contraire d’un mot avec les préfixes in- ou dé- et comprendre re-.",
+    "Reconnaitre les suffixes -eur/-euse, -ier et -ette dans des mots construits."
+  ],
+  "skill_ids": [
+    "ce1-b-synonymes-contraires-affixes-skill",
+    "ce1-b-synonymes-contraires-affixes-affixes"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Vocabulaire – Enrichir son vocabulaire, Établir des relations entre les mots, pages 17–18 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les mots de sens proche",
+      "text": "Deux mots de sens proche sont des synonymes : content et heureux, commencer et débuter, voiture et automobile. On les utilise pour éviter les répétitions. Au lieu de « Tom est content, Léa est contente, leur maman est contente », on peut écrire : « Tom est content, Léa est heureuse, leur maman est ravie. » Attention au niveau de langue : on dit « rigoler » entre copains (langage familier), mais en classe on préfère « rire » (langage courant)."
+    },
+    {
+      "title": "Les contraires",
+      "text": "Deux mots de sens opposé sont des contraires : grand et petit, chaud et froid, ouvrir et fermer, monter et descendre. Certains contraires se fabriquent en ajoutant un petit morceau devant un mot : un préfixe."
+    },
+    {
+      "title": "Les préfixes in-, dé- et re-",
+      "text": "Le préfixe in- ajoute l’idée de « pas » : visible devient invisible, utile devient inutile. Le préfixe dé- donne souvent le contraire : monter devient démonter, faire devient défaire, ranger devient déranger. Le préfixe re- signifie « de nouveau » : faire devient refaire, lire devient relire. Règle : on place le préfixe devant le mot de départ, qui ne change pas."
+    },
+    {
+      "title": "Les suffixes -eur/-euse, -ier et -ette",
+      "text": "Un suffixe s’ajoute derrière un mot. Avec -eur (au féminin -euse), on désigne celui ou celle qui fait l’action : chanter donne chanteur et chanteuse, danser donne danseur et danseuse, coiffer donne coiffeur et coiffeuse. Avec -ier, on trouve par exemple les arbres : poire donne poirier et cerise donne cerisier. Avec -ette, on exprime souvent quelque chose de petit : une maison, une maisonnette ; une fille, une fillette."
+    }
+  ],
+  "revision_sheet": [
+    "Synonymes = mots de sens proche (content/heureux). Ils évitent les répétitions.",
+    "Niveaux de langue : rigoler (familier) ; rire (courant).",
+    "Contraires : grand/petit, ouvrir/fermer, monter/descendre.",
+    "Préfixes : in- (visible → invisible), dé- (faire → défaire, ranger → déranger), re- (faire → refaire).",
+    "Suffixes : -eur/-euse (chanteur, danseuse), -ier (poirier, cerisier), -ette (maisonnette, fillette)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel mot est un synonyme de « content » ?",
+      "choices": [
+        "triste",
+        "heureux",
+        "fâché"
+      ],
+      "correct_index": 1,
+      "explanation": "Content et heureux ont un sens proche. Triste et fâché ont un sens différent ou opposé."
+    },
+    {
+      "prompt": "Quel est le contraire de « visible » ?",
+      "choices": [
+        "revisible",
+        "dévisible",
+        "invisible"
+      ],
+      "correct_index": 2,
+      "explanation": "Avec le préfixe in-, visible devient invisible. Revisible et dévisible n’existent pas."
+    },
+    {
+      "prompt": "Que signifie « refaire » ?",
+      "choices": [
+        "Faire de nouveau",
+        "Ne pas faire",
+        "Faire plus petit"
+      ],
+      "correct_index": 0,
+      "explanation": "Le préfixe re- signifie « de nouveau » : refaire, c’est faire encore une fois."
+    },
+    {
+      "prompt": "Avec le préfixe dé-, quel mot est le contraire de « ranger » ?",
+      "choices": [
+        "inranger",
+        "déranger",
+        "reranger"
+      ],
+      "correct_index": 1,
+      "explanation": "Ranger devient déranger avec le préfixe dé- : on met du désordre. Inranger et reranger n’existent pas."
+    },
+    {
+      "prompt": "Quel est le féminin de « danseur » ?",
+      "choices": [
+        "danseure",
+        "danseurse",
+        "danseuse"
+      ],
+      "correct_index": 2,
+      "explanation": "Les mots en -eur qui désignent une personne qui fait l’action ont un féminin en -euse : danseur, danseuse."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Trouve un contraire pour chaque mot : grand ; chaud ; ouvrir ; monter.",
+      "solution": "grand : petit ; chaud : froid ; ouvrir : fermer ; monter : descendre.",
+      "success_criterion": "Trouver un contraire correct pour les quatre mots."
+    },
+    {
+      "prompt": "Forme le contraire avec le préfixe in- ou dé- : visible ; utile ; monter ; faire.",
+      "solution": "visible : invisible ; utile : inutile ; monter : démonter ; faire : défaire.",
+      "success_criterion": "Choisir le bon préfixe (in- pour visible et utile, dé- pour monter et faire) et écrire les quatre mots correctement."
+    },
+    {
+      "prompt": "Complète avec un mot en -eur, -euse ou -ier : celui qui chante est un … ; celle qui danse est une … ; celle qui coiffe est une … ; l’arbre qui donne des cerises est un …",
+      "solution": "celui qui chante est un chanteur ; celle qui danse est une danseuse ; celle qui coiffe est une coiffeuse ; l’arbre qui donne des cerises est un cerisier.",
+      "success_criterion": "Écrire chanteur, danseuse, coiffeuse et cerisier."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Classe ces mots en deux colonnes (mots avec un préfixe / mots avec un suffixe) et sépare le morceau ajouté : refaire, chanteur, invisible, fillette, relire, poirier, défaire, coiffeuse.",
+      "solution": "Mots avec un préfixe : re-faire, in-visible, re-lire, dé-faire. Mots avec un suffixe : chant-eur, fill-ette, poir-ier, coiff-euse.",
+      "success_criterion": "Classer correctement les 8 mots (4 préfixes, 4 suffixes) et isoler le préfixe ou le suffixe."
+    },
+    {
+      "prompt": "Réécris pour éviter la répétition de « content » : « Tom est content. Léa est contente. Leur maman est contente. »",
+      "solution": "Exemple : « Tom est content. Léa est heureuse. Leur maman est ravie. » (Toute réécriture correcte avec des synonymes tels que heureux, joyeux, ravi est acceptée.)",
+      "success_criterion": "Remplacer au moins deux occurrences de content par des synonymes correctement accordés."
+    },
+    {
+      "prompt": "Léo dit : « Rigoler, c’est exactement comme rire, je peux l’écrire dans mon texte de classe. » Que peux-tu lui répondre ?",
+      "solution": "Rigoler et rire ont un sens proche, mais rigoler est du langage familier, qu’on utilise plutôt entre copains. En classe et à l’écrit, on préfère le niveau de langue courant : rire.",
+      "success_criterion": "Expliquer qu’il s’agit d’un niveau de langue familier et proposer rire."
+    }
+  ],
+  "audio_transcript": "Pour enrichir son vocabulaire, on peut utiliser des mots de sens proche, qu’on appelle des synonymes. Content et heureux sont des synonymes. Cela évite de répéter toujours le même mot. Attention aux niveaux de langue : rigoler est du langage familier, rire est du langage courant. On peut aussi former des contraires avec des préfixes, de petits morceaux placés devant le mot. Visible devient invisible. Monter devient démonter. Faire devient défaire. Avec le préfixe re, on dit de nouveau : refaire, relire. Il y a aussi des suffixes, placés derrière le mot. Chanter donne chanteur et chanteuse. Poire donne poirier. Maison donne maisonnette, une petite maison.",
+  "guided_explanation": "Un mot peut se construire comme un jeu de construction : on prend un mot de départ et on lui ajoute une pièce devant ou derrière. Si la pièce est devant, c’est un préfixe : in- devant « visible » donne « invisible », ce qui n’est pas visible. Dé- devant « faire » donne « défaire », le contraire de faire. Re- devant « lire » donne « relire », lire de nouveau. Si la pièce est derrière, c’est un suffixe : « chanter » plus « -eur » donne « chanteur », celui qui chante, et « -euse » donne « chanteuse » quand c’est une fille ou une femme. Pour les synonymes, imagine que tu as un tiroir de mots proches : si tu as déjà écrit « content », tu peux prendre « heureux » ou « ravi » pour ne pas te répéter."
+}

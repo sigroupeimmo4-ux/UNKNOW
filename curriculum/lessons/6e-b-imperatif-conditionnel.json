@@ -1,0 +1,133 @@
+{
+  "id": "6e-b-imperatif-conditionnel",
+  "title": "L’impératif présent et le conditionnel présent",
+  "chapter_id": "6e-b-imperatif-conditionnel",
+  "program_id": "6e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Conjuguer des verbes à l’impératif présent.",
+    "Conjuguer des verbes au conditionnel présent.",
+    "Identifier les marques de temps du conditionnel (-r- et -i-).",
+    "Distinguer futur et conditionnel présent."
+  ],
+  "skill_ids": [
+    "6e-b-imperatif-conditionnel-skill-imperatif",
+    "6e-b-imperatif-conditionnel-skill-conditionnel",
+    "6e-b-imperatif-conditionnel-skill-distinguer"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "L’impératif présent",
+      "text": "L’impératif sert à donner un ordre, un conseil ou une consigne. Il n’a que trois personnes et pas de pronom sujet : chante (tu), chantons (nous), chantez (vous). Verbes en -er : pas de -s à la 2e personne du singulier (Mange ! Va !). Avec -cer et -ger : commençons, mangeons. Autres verbes : finis, finissons, finissez ; fais, faisons, faites ; dis, disons, dites ; viens, venons, venez ; prends, prenons, prenez ; vois, voyons, voyez. Être : sois, soyons, soyez. Avoir : aie, ayons, ayez. Aller : va, allons, allez. À la forme négative : « Ne mange pas ! »"
+    },
+    {
+      "title": "Le conditionnel présent",
+      "text": "On prend le radical du futur (chanter-, finir-, ser-, aur-, ir-, fer-, viendr-, pourr-, verr-, voudr-) et on ajoute les terminaisons de l’imparfait : -ais, -ais, -ait, -ions, -iez, -aient. Ex. : je chanterais, tu finirais, il serait, nous aurions, vous iriez, ils feraient. Les marques de temps sont -r- (comme au futur) suivi de -i-. Certains verbes en -er changent de radical : lever → je lèverais ; acheter → j’achèterais ; jeter → je jetterais ; appeler → j’appellerais."
+    },
+    {
+      "title": "Futur ou conditionnel ?",
+      "text": "Futur : je chanterai, tu iras, nous aurons (marque -r- puis terminaisons du futur). Conditionnel : je chanterais, tu irais, nous aurions (marques -r- et -i-). Le futur exprime ce qui se passera : « Demain, je viendrai. » Le conditionnel exprime un souhait, une politesse ou ce qui arriverait sous condition : « Je voudrais un verre d’eau. » ; « Si j’avais le temps, je viendrais. »"
+    },
+    {
+      "title": "Reconnaître et employer",
+      "text": "Pour reconnaître l’impératif : il n’y a pas de sujet exprimé et la phrase donne un ordre ou un conseil. Pour reconnaître le conditionnel : cherche -rais, -rait, -rions, -riez, -raient. Dans une phrase avec « si » + imparfait, le verbe de l’autre partie est au conditionnel : « Si nous étions plus nombreux, nous gagnerions. »"
+    }
+  ],
+  "revision_sheet": [
+    "Impératif présent : 3 personnes (tu, nous, vous), pas de sujet ; chante, chantons, chantez ; va ; sois, aie ; fais, dis, viens, prends.",
+    "Conditionnel présent = radical du futur + -ais, -ais, -ait, -ions, -iez, -aient (marques -r- + -i-).",
+    "Futur : je chanterai, nous aurons ; conditionnel : je chanterais, nous aurions.",
+    "Conditionnel : souhait, politesse, hypothèse (si + imparfait → conditionnel)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle est la forme de « chanter » à l’impératif présent, 2e personne du singulier ?",
+      "choices": [
+        "chantes",
+        "chante",
+        "chanter"
+      ],
+      "correct_index": 1,
+      "explanation": "Aux verbes en -er, l’impératif présent à la 2e personne du singulier s’écrit sans -s : chante."
+    },
+    {
+      "prompt": "Combien de personnes l’impératif présent comporte-t-il ?",
+      "choices": [
+        "6",
+        "2",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "Il a trois personnes : la 2e du singulier (tu), la 1re du pluriel (nous) et la 2e du pluriel (vous)."
+    },
+    {
+      "prompt": "Quelle est la forme de « être » à l’impératif présent, 2e personne du pluriel ?",
+      "choices": [
+        "soyez",
+        "êtes",
+        "soyer"
+      ],
+      "correct_index": 0,
+      "explanation": "L’impératif de être est : sois, soyons, soyez."
+    },
+    {
+      "prompt": "Quelle est la forme de « avoir » au conditionnel présent, 1re personne du pluriel ?",
+      "choices": [
+        "avions",
+        "aurons",
+        "aurions"
+      ],
+      "correct_index": 2,
+      "explanation": "Radical du futur aur- + terminaison -ions : nous aurions. « Aurons » est le futur, « avions » l’imparfait."
+    },
+    {
+      "prompt": "Quelle phrase est au conditionnel présent ?",
+      "choices": [
+        "Je finirai demain.",
+        "Je finissais tôt.",
+        "Je finirais si j’avais le temps."
+      ],
+      "correct_index": 2,
+      "explanation": "« Je finirais » : radical du futur finir- + terminaison -ais. « Finirai » est au futur, « finissais » à l’imparfait."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris à l’impératif présent : manger (tu) ; commencer (nous) ; faire (vous) ; aller (tu) ; finir (tu).",
+      "solution": "Mange ; commençons ; faites ; va ; finis.",
+      "success_criterion": "Pas de -s aux verbes en -er (mange, va) ; garder la cédille et le e pour -cer et -ger."
+    },
+    {
+      "prompt": "Conjugue au conditionnel présent : avoir (nous) ; être (tu) ; aller (ils) ; venir (je) ; finir (vous).",
+      "solution": "nous aurions ; tu serais ; ils iraient ; je viendrais ; vous finiriez.",
+      "success_criterion": "Radical du futur + terminaison de l’imparfait."
+    },
+    {
+      "prompt": "Transforme l’ordre en demande polie avec le conditionnel : « Ferme la porte. »",
+      "solution": "« Pourrais-tu fermer la porte, s’il te plaît ? » (ou « Tu pourrais fermer la porte ? »)",
+      "success_criterion": "Employer pourrais (conditionnel présent de pouvoir)."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris à l’impératif présent, 2e personne du singulier : (être) sage ; (avoir) du courage ; (aller) au tableau.",
+      "solution": "Sois sage ; aie du courage ; va au tableau.",
+      "success_criterion": "Connaître les formes irrégulières de être, avoir, aller."
+    },
+    {
+      "prompt": "Complète au conditionnel présent : « Si j’avais un chien, je le (promener) tous les jours. » ; « Si nous avions le temps, nous (venir) te voir. » ; « Si tu étais plus grand, tu (pouvoir) l’attraper. »",
+      "solution": "promènerais (le verbe promener change de radical : è) ; viendrions ; pourrais.",
+      "success_criterion": "Radical du futur + terminaison de l’imparfait."
+    },
+    {
+      "prompt": "Futur ou conditionnel présent ? tu iras ; vous mangeriez ; ils seraient ; nous aurons.",
+      "solution": "tu iras : futur ; vous mangeriez : conditionnel ; ils seraient : conditionnel ; nous aurons : futur.",
+      "success_criterion": "Repérer -r- seul (futur) ou -r- + -i- (conditionnel)."
+    }
+  ],
+  "audio_transcript": "L’impératif sert à donner un ordre ou un conseil. Il n’a que trois personnes et pas de pronom sujet : chante, chantons, chantez. Avec les verbes en er, on n’écrit pas de s à la deuxième personne du singulier : mange, va. Être donne sois, soyons, soyez ; avoir donne aie, ayons, ayez. Le conditionnel présent se forme avec le radical du futur et les terminaisons de l’imparfait : je chanterais, tu serais, nous aurions, ils iraient. On y entend le r du futur suivi du i de l’imparfait. Il exprime un souhait, une politesse ou une hypothèse : si j’avais le temps, je viendrais.",
+  "guided_explanation": "Pour écrire un verbe au conditionnel, fais deux étapes. D’abord, trouve le radical du futur : pour « venir », c’est « viendr- » (je viendrai). Ensuite, ajoute la terminaison de l’imparfait : -ais, -ais, -ait, -ions, -iez, -aient. Pour « nous », tu obtiens « nous viendrions ». Pour l’impératif, pense à une consigne : « Va au tableau ! », « Sois attentif ! », « Prenons nos cahiers. » Il n’y a pas de sujet, et trois personnes seulement."
+}

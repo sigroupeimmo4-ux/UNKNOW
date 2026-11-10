@@ -1,0 +1,137 @@
+{
+  "id": "ce1-b-calcul-mental-dizaines",
+  "title": "Calcul mental : dizaines, centaines, ajouter 9 et multiplier par 10",
+  "chapter_id": "ce1-b-calcul-mental-dizaines",
+  "program_id": "CE1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Ajouter ou soustraire des dizaines et des centaines entières de tête.",
+    "Multiplier un nombre inférieur à 100 par 10.",
+    "Utiliser des procédures : ajouter 9, 19 ou 29, soustraire 9, enlever un petit nombre en passant par la dizaine inférieure."
+  ],
+  "skill_ids": [
+    "ce1-b-calcul-mental-dizaines-skill",
+    "ce1-b-calcul-mental-dizaines-procedures"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Le calcul mental, page 15 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Dizaines et centaines entières",
+      "text": "Pour calculer 234 + 60, on ne touche pas aux unités : 3 dizaines + 6 dizaines = 9 dizaines, donc 234 + 60 = 294. De même 541 − 20 = 521 (4 dizaines − 2 dizaines = 2 dizaines), 354 + 500 = 854 (3 centaines + 5 centaines = 8 centaines) et 765 − 200 = 565. Parfois on dépasse 9 dizaines : 746 + 80, c’est 4 dizaines + 8 dizaines = 12 dizaines, soit 1 centaine et 2 dizaines. Le résultat est donc 826."
+    },
+    {
+      "title": "Multiplier par 10",
+      "text": "Quand on multiplie par 10, une unité devient une dizaine et une dizaine devient une centaine : chaque chiffre prend une valeur 10 fois plus grande. Pour 10 × 72, le 2 (unités) devient 2 dizaines et le 7 (dizaines) devient 7 centaines : 10 × 72 = 720. De même 10 × 35 = 350 et 10 × 9 = 90."
+    },
+    {
+      "title": "Ajouter 9, 19 ou 29 et soustraire 9",
+      "text": "Pour ajouter 9, on ajoute 10 puis on retire 1 : 47 + 9 = 47 + 10 − 1 = 56. Pour ajouter 19, on ajoute 20 puis on retire 1 : 64 + 19 = 84 − 1 = 83. Pour ajouter 29, on ajoute 30 puis on retire 1 : 58 + 29 = 88 − 1 = 87. Pour soustraire 9, on retire 10 puis on ajoute 1 : 83 − 9 = 73 + 1 = 74. Si le chiffre des unités est 0 ou 1, on peut ajouter directement : 60 + 29 = 89."
+    },
+    {
+      "title": "Soustraire un petit nombre en passant par la dizaine inférieure",
+      "text": "Pour 157 − 5, il n’y a pas de changement de dizaine : 7 − 5 = 2, donc 157 − 5 = 152. Pour 523 − 7, on veut soustraire 7 mais les unités sont 3. On retire d’abord 3 pour arriver à la dizaine inférieure : 523 − 3 = 520. Il reste 4 à soustraire car 7 = 3 + 4 : 520 − 4 = 516. Donc 523 − 7 = 516."
+    }
+  ],
+  "revision_sheet": [
+    "Dizaines et centaines entières : on calcule avec les dizaines ou les centaines (234 + 60 = 294 ; 765 − 200 = 565).",
+    "Si l’on dépasse 9 dizaines, on fait une centaine : 746 + 80 = 826.",
+    "Multiplier par 10 : chaque chiffre devient 10 fois plus grand (10 × 72 = 720).",
+    "+ 9 : j’ajoute 10 puis je retire 1. + 19 : j’ajoute 20 puis je retire 1. + 29 : j’ajoute 30 puis je retire 1. − 9 : je retire 10 puis j’ajoute 1.",
+    "523 − 7 : 523 − 3 = 520 puis 520 − 4 = 516 (car 7 = 3 + 4)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien font 234 + 60 ?",
+      "choices": [
+        "240",
+        "294",
+        "834"
+      ],
+      "correct_index": 1,
+      "explanation": "3 dizaines + 6 dizaines = 9 dizaines. Les centaines (2) et les unités (4) ne changent pas : 294."
+    },
+    {
+      "prompt": "Combien font 765 − 200 ?",
+      "choices": [
+        "565",
+        "745",
+        "965"
+      ],
+      "correct_index": 0,
+      "explanation": "7 centaines − 2 centaines = 5 centaines. Les dizaines et les unités ne changent pas : 565."
+    },
+    {
+      "prompt": "Combien font 10 × 72 ?",
+      "choices": [
+        "82",
+        "702",
+        "720"
+      ],
+      "correct_index": 2,
+      "explanation": "Multiplier par 10 rend chaque chiffre 10 fois plus grand : les 7 dizaines deviennent 7 centaines et les 2 unités deviennent 2 dizaines. On obtient 720."
+    },
+    {
+      "prompt": "Pour calculer 47 + 9 de tête, que peut-on faire ?",
+      "choices": [
+        "Ajouter 10 puis retirer 1",
+        "Ajouter 10 puis ajouter 1",
+        "Retirer 10 puis ajouter 1"
+      ],
+      "correct_index": 0,
+      "explanation": "Ajouter 9, c’est ajouter 10 puis retirer 1 : 47 + 10 = 57, puis 57 − 1 = 56."
+    },
+    {
+      "prompt": "Combien font 83 − 9 ?",
+      "choices": [
+        "92",
+        "73",
+        "74"
+      ],
+      "correct_index": 2,
+      "explanation": "Pour soustraire 9, on retire 10 puis on ajoute 1 : 83 − 10 = 73, puis 73 + 1 = 74."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule de tête : 345 + 40 ; 628 − 30 ; 214 + 300 ; 870 − 400.",
+      "solution": "345 + 40 = 385 ; 628 − 30 = 598 ; 214 + 300 = 514 ; 870 − 400 = 470.",
+      "success_criterion": "Trouver 385, 598, 514 et 470 en calculant avec les dizaines et les centaines."
+    },
+    {
+      "prompt": "Calcule : 10 × 36 ; 10 × 8 ; 10 × 95.",
+      "solution": "10 × 36 = 360 ; 10 × 8 = 80 ; 10 × 95 = 950. Chaque chiffre devient 10 fois plus grand.",
+      "success_criterion": "Trouver 360, 80 et 950 en décalant les chiffres d’un rang."
+    },
+    {
+      "prompt": "Calcule de tête avec la méthode « j’ajoute 10 (ou 20, 30) puis je retire 1 » : 56 + 9 ; 38 + 19 ; 45 + 29. Puis calcule 72 − 9.",
+      "solution": "56 + 9 = 66 − 1 = 65 ; 38 + 19 = 58 − 1 = 57 ; 45 + 29 = 75 − 1 = 74. Pour 72 − 9 : 72 − 10 = 62, puis 62 + 1 = 63.",
+      "success_criterion": "Trouver 65, 57, 74 et 63 en utilisant les étapes."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Calcule de tête : 746 + 80 ; 392 + 50 ; 905 − 60 ; 250 + 700.",
+      "solution": "746 + 80 = 826 (12 dizaines = 1 centaine et 2 dizaines) ; 392 + 50 = 442 (14 dizaines = 1 centaine et 4 dizaines) ; 905 − 60 = 845 (90 dizaines − 6 dizaines = 84 dizaines) ; 250 + 700 = 950.",
+      "success_criterion": "Trouver 826, 442, 845 et 950 en gérant le passage à la centaine."
+    },
+    {
+      "prompt": "Calcule 523 − 7 en passant par la dizaine inférieure. Écris tes étapes.",
+      "solution": "523 − 3 = 520 (on arrive à la dizaine inférieure), puis il reste 4 à retirer car 7 = 3 + 4 : 520 − 4 = 516. Donc 523 − 7 = 516.",
+      "success_criterion": "Décomposer 7 en 3 + 4, écrire les deux étapes et trouver 516."
+    },
+    {
+      "prompt": "Un client a déjà 64 timbres. Il en achète 29 de plus. Combien de timbres a-t-il maintenant ? Calcule de tête et explique ta méthode.",
+      "solution": "64 + 29 : j’ajoute 30 puis je retire 1. 64 + 30 = 94, puis 94 − 1 = 93. Il a maintenant 93 timbres.",
+      "success_criterion": "Utiliser la méthode « ajouter 30 puis retirer 1 », trouver 93 et répondre par une phrase avec l’unité (timbres)."
+    },
+    {
+      "prompt": "Un client achète 10 paquets de 25 gâteaux. Combien de gâteaux a-t-il achetés ?",
+      "solution": "10 × 25 : chaque chiffre devient 10 fois plus grand, 2 dizaines deviennent 2 centaines et 5 unités deviennent 5 dizaines. 10 × 25 = 250. Il a acheté 250 gâteaux.",
+      "success_criterion": "Écrire 10 × 25, trouver 250 et répondre par une phrase avec l’unité (gâteaux)."
+    }
+  ],
+  "audio_transcript": "Pour calculer vite dans sa tête, on s’appuie sur les dizaines et les centaines. Deux-cent-trente-quatre plus soixante : trois dizaines plus six dizaines font neuf dizaines, donc deux-cent-quatre-vingt-quatorze. Sept-cent-soixante-cinq moins deux cents : sept centaines moins deux centaines, cinq centaines, donc cinq-cent-soixante-cinq. Quand on multiplie par dix, chaque chiffre devient dix fois plus grand : dix fois soixante-douze, c’est sept-cent-vingt. Pour ajouter neuf, j’ajoute dix puis je retire un : quarante-sept plus neuf, c’est cinquante-sept moins un, cinquante-six. Pour ajouter dix-neuf, j’ajoute vingt puis je retire un. Pour soustraire neuf, je retire dix puis j’ajoute un. Pour cinq-cent-vingt-trois moins sept, je retire d’abord trois pour arriver à cinq-cent-vingt, puis quatre, et j’obtiens cinq-cent-seize.",
+  "guided_explanation": "Pense à des billets de dix euros et à des pièces d’un euro. Pour 47 + 9, il est plus simple de donner un billet de 10 € que 9 pièces : tu as donné 1 € de trop, donc tu en reprends un. 47 + 10 = 57, puis 57 − 1 = 56. Pour 523 − 7, imagine que tu es sur une échelle : tu es sur la marche 523 et tu veux descendre de 7 marches. D’abord tu descends de 3 marches pour arriver à la dizaine entière 520, c’est pratique. Il te reste 4 marches à descendre, car 3 + 4 = 7. Tu arrives à 516. Et pour multiplier 72 par 10, pense à des paquets : 72, c’est 7 dizaines et 2 unités. Quand on multiplie par 10, chaque chiffre passe au rang du dessus : les 2 unités deviennent 2 dizaines et les 7 dizaines deviennent 7 centaines, soit 720."
+}

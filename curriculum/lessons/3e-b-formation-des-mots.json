@@ -1,0 +1,145 @@
+{
+  "id": "3e-b-formation-des-mots",
+  "title": "Enrichir son lexique : dérivation, composition, préfixes, suffixes et racines",
+  "chapter_id": "3e-b-formation-des-mots",
+  "program_id": "3e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Décomposer un mot dérivé ou composé et en déduire le sens.",
+    "Connaître le sens de préfixes, de suffixes et de quelques racines latines et grecques courantes, et l’orthographe de in-/im-/il-/ir-.",
+    "Distinguer famille de mots et champ lexical."
+  ],
+  "skill_ids": [
+    "3e-b-formation-des-mots-skill-derivation",
+    "3e-b-formation-des-mots-skill-sens",
+    "3e-b-formation-des-mots-skill-reseau"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique (dérivation et composition, préfixes, suffixes, racines latines et grecques, famille de mots, champ lexical), page 25 (pagination du PDF).",
+    "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (orthographe des affixes et de leur effet éventuel sur le radical), page 24 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "La dérivation : radical, préfixe, suffixe",
+      "text": "Un mot dérivé est formé d’un radical (le mot de base) auquel on ajoute un préfixe (avant) ou un suffixe (après). « Défaire » = dé- (contraire) + faire. « Lenteur » = lent + -eur. La dérivation peut changer la classe grammaticale : beau (adjectif) → beauté (nom) ; déménager (verbe) → déménagement (nom) ; lent (adjectif) → lenteur (nom). Préfixes fréquents : in- / im- / il- / ir- (contraire : impossible, illisible, irréel), dé- (contraire : défaire), re- (de nouveau : refaire), pré- (avant : prévoir), anti- (contre : antivol). Suffixes fréquents : -able (qui peut être : lavable), -eur (celui qui : chanteur ; ou qualité : lenteur), -ment (action : rangement), -té (qualité : bonté, beauté). Orthographe : in- devient im- devant b, m, p (imbuvable, immobile, impossible), il- devant l (illisible) et ir- devant r (irréel). Attention : « insecte » n’est pas formé de in- + secte."
+    },
+    {
+      "title": "La composition",
+      "text": "Un mot composé est formé de deux mots (ou éléments) qui existent séparément : un chou-fleur, un porte-monnaie, un tire-bouchon, le rez-de-chaussée. Certains mots savants sont composés d’éléments latins ou grecs : thermomètre = thermo- (chaleur) + mètre (mesure) ; chronomètre = chrono- (temps) + mètre ; photographie = photo- (lumière) + graphie (écriture) ; télévision = télé- (loin) + vision ; bibliothèque = biblio- (livre) + -thèque (lieu de rangement) ; biologie = bio- (vie) + -logie (étude). Du latin : aqua (eau) donne aquarium, aquatique ; terra (terre) donne terrestre, enterrer, atterrir."
+    },
+    {
+      "title": "Famille de mots et champ lexical",
+      "text": "Une famille de mots regroupe les mots qui ont le même radical : terre, terrain, terrasse, enterrer, atterrir, terrestre. Un champ lexical regroupe les mots qui se rapportent à un même thème, sans avoir forcément le même radical : pour la mer, vague, navire, port, plage, marin. Famille de mots et champ lexical sont deux classements différents. Attention aux faux amis : « terrible » ne vient pas de « terre » ; il vient d’un verbe latin qui signifie effrayer."
+    },
+    {
+      "title": "Utiliser ces outils",
+      "text": "Pour comprendre un mot nouveau, cherche d’abord son radical, son préfixe, son suffixe : « imbuvable » = im- (contraire) + buv(able) → qu’on ne peut pas boire. Appuie-toi ensuite sur le contexte et vérifie dans un dictionnaire, papier ou numérique : l’article donne souvent l’étymologie. Pour écrire correctement, pense à la famille : le radical aide à l’orthographe (grand, grandeur, agrandir ; lent, lenteur, ralentir). Enfin, réemploie les mots nouveaux à l’écrit et à l’oral pour les mémoriser."
+    }
+  ],
+  "revision_sheet": [
+    "Mot dérivé = radical + préfixe (avant) et/ou suffixe (après). Mot composé = deux mots ou éléments assemblés.",
+    "La dérivation peut changer la classe du mot : beau → beauté, déménager → déménagement.",
+    "Préfixes : in-/im-/il-/ir- et dé- = contraire ; re- = de nouveau ; pré- = avant ; anti- = contre.",
+    "Suffixes : -able = qui peut être ; -eur = celui qui (chanteur) ou qualité (lenteur) ; -té = qualité ; -ment = action.",
+    "Racines : thermo = chaleur ; chrono = temps ; photo = lumière ; graphie = écriture ; télé = loin ; bio = vie ; aqua = eau ; terra = terre.",
+    "Famille de mots = même radical ; champ lexical = même thème. Orthographe : im- devant b, m, p ; il- devant l ; ir- devant r."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « illisible », quel est le sens du préfixe il- (variante de in-) ?",
+      "choices": [
+        "de nouveau",
+        "contraire (ce qui n’est pas)",
+        "avant"
+      ],
+      "correct_index": 1,
+      "explanation": "Illisible signifie « qu’on ne peut pas lire » : le préfixe il-, variante de in- devant le l, exprime le contraire."
+    },
+    {
+      "prompt": "Que signifie le suffixe -able dans « lavable » ?",
+      "choices": [
+        "qui lave",
+        "qui a été lavé",
+        "qui peut être lavé"
+      ],
+      "correct_index": 2,
+      "explanation": "Le suffixe -able indique la possibilité : lavable = qui peut être lavé."
+    },
+    {
+      "prompt": "Lequel de ces mots est un mot composé ?",
+      "choices": [
+        "malheureux",
+        "porte-monnaie",
+        "lenteur"
+      ],
+      "correct_index": 1,
+      "explanation": "« Porte-monnaie » est formé de deux mots (porte et monnaie). « Malheureux » (mal- + heureux) et « lenteur » (lent + -eur) sont des mots dérivés."
+    },
+    {
+      "prompt": "Que signifie l’élément thermo- dans « thermomètre » ?",
+      "choices": [
+        "eau",
+        "chaleur",
+        "vie"
+      ],
+      "correct_index": 1,
+      "explanation": "Thermo- vient du grec et signifie chaleur ; un thermomètre mesure la température."
+    },
+    {
+      "prompt": "Dans le passage de « beau » à « beauté », que se passe-t-il ?",
+      "choices": [
+        "un nom devient un verbe",
+        "un verbe devient un adjectif",
+        "un adjectif devient un nom"
+      ],
+      "correct_index": 2,
+      "explanation": "Le suffixe -té transforme l’adjectif beau en nom : c’est un changement de classe grammaticale."
+    },
+    {
+      "prompt": "Quel mot n’appartient pas à la famille de « terre » ?",
+      "choices": [
+        "terrasse",
+        "atterrir",
+        "terminer"
+      ],
+      "correct_index": 2,
+      "explanation": "Terrasse, atterrir et enterrer contiennent le radical « terre ». « Terminer » vient d’un autre mot latin (terminus, la limite)."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Décompose chaque mot en radical, préfixe et/ou suffixe, puis donne son sens : refaire ; impossible ; illisible ; lenteur ; rangement.",
+      "solution": "refaire = re- (de nouveau) + faire : faire de nouveau. impossible = im- (contraire) + possible : qui n’est pas possible. illisible = il- (contraire) + lisible : qu’on ne peut pas lire. lenteur = lent + -eur : nom de qualité (adjectif → nom). rangement = range(r) + -ment : action de ranger (verbe → nom).",
+      "success_criterion": "Isoler correctement radical, préfixe ou suffixe et donner le sens ; signaler le changement de classe pour lenteur et rangement."
+    },
+    {
+      "prompt": "Donne le contraire de chaque mot en utilisant le bon préfixe : possible ; lisible ; réel ; buvable ; défaire (contraire de « faire » : utilise dé-).",
+      "solution": "possible → impossible ; lisible → illisible ; réel → irréel ; buvable → imbuvable ; faire → défaire. On écrit im- devant p et b, il- devant l, ir- devant r.",
+      "success_criterion": "Obtenir les cinq mots avec la bonne forme du préfixe et pouvoir justifier im-, il-, ir-."
+    },
+    {
+      "prompt": "Explique le sens de ces mots savants à partir de leurs éléments : photographie (photo = lumière ; graphie = écriture) ; chronomètre (chrono = temps ; mètre = mesure) ; bibliothèque (biblio = livre ; thèque = lieu de rangement).",
+      "solution": "photographie : écriture avec la lumière, image obtenue grâce à la lumière. chronomètre : instrument qui mesure le temps. bibliothèque : lieu où l’on range des livres.",
+      "success_criterion": "Associer le sens des deux éléments pour reformuler le sens du mot."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Parmi ces mots, un seul n’appartient pas à la famille de « terre » : terrain, terrible, atterrir, enterrer, terrasse, terrestre. Lequel ? Justifie.",
+      "solution": "L’intrus est « terrible ». Les autres mots contiennent le radical « terre » (terrain, atterrir, enterrer, terrasse, terrestre). « Terrible » vient d’un verbe latin qui signifie effrayer et n’a pas de lien de sens avec la terre.",
+      "success_criterion": "Trouver l’intrus et justifier par le radical et le sens."
+    },
+    {
+      "prompt": "Forme un nom de qualité à partir de chaque adjectif en utilisant le suffixe -eur ou -té : lent ; grand ; bon ; beau.",
+      "solution": "lent → lenteur ; grand → grandeur ; bon → bonté ; beau → beauté. Dans chaque cas, un adjectif devient un nom.",
+      "success_criterion": "Obtenir les quatre noms et dire que la dérivation change la classe du mot."
+    },
+    {
+      "prompt": "Classe les mots suivants en deux groupes, « famille de mer » et « champ lexical de la mer » : marin, vague, maritime, navire, marée, port. Explique ton classement.",
+      "solution": "Famille de « mer » (même radical) : marin, maritime, marée. Champ lexical de la mer (même thème) : vague, navire, port. Une famille de mots repose sur le radical commun ; un champ lexical sur un thème commun. (Marin, maritime et marée appartiennent aussi au champ lexical de la mer.)",
+      "success_criterion": "Séparer correctement les deux groupes et expliquer la différence entre famille de mots et champ lexical."
+    }
+  ],
+  "audio_transcript": "Beaucoup de mots se fabriquent à partir d’autres mots. La dérivation ajoute un préfixe devant le radical ou un suffixe après lui : défaire, c’est dé plus faire, et lenteur, c’est lent plus eur. Le suffixe peut changer la classe du mot : beau, adjectif, devient beauté, nom. Le préfixe in devient im devant b, m, p, il devant l, ir devant r : impossible, illisible, irréel. La composition assemble deux mots, comme porte-monnaie, ou des éléments grecs et latins : thermomètre, c’est chaleur plus mesure. Enfin, une famille de mots partage un même radical, alors qu’un champ lexical regroupe des mots qui parlent du même thème.",
+  "guided_explanation": "Quand tu rencontres un mot inconnu, joue au détective. Cherche d’abord s’il commence par un préfixe que tu connais, comme dé-, re-, in- ou pré-, et s’il se termine par un suffixe comme -able, -eur ou -té. Enlève-les : que reste-t-il ? C’est le radical. Dans « imbuvable », il reste « buv- » de boire, avec im- qui exprime le contraire et -able la possibilité : qu’on ne peut pas boire. Pour les mots savants, cherche les éléments grecs ou latins : chrono (temps) et mètre (mesure) donnent chronomètre. Fais attention aux faux amis, comme « terrible » qui ne vient pas de « terre ». Et vérifie toujours dans un dictionnaire."
+}

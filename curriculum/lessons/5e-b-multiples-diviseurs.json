@@ -1,0 +1,130 @@
+{
+  "id": "5e-b-multiples-diviseurs",
+  "title": "Division euclidienne, multiples, diviseurs et critères de divisibilité",
+  "chapter_id": "5e-b-multiples-diviseurs",
+  "program_id": "5e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Déterminer le quotient et le reste d’une division euclidienne et écrire l’égalité a = b × q + r.",
+    "Utiliser les mots multiple et diviseur et trouver les diviseurs d’un petit entier.",
+    "Utiliser les critères de divisibilité par 2, 5, 10, 3 et 9.",
+    "Résoudre un petit problème de partage ou de rangement avec une division euclidienne."
+  ],
+  "skill_ids": [
+    "5e-b-multiples-diviseurs-division",
+    "5e-b-multiples-diviseurs-multiples",
+    "5e-b-multiples-diviseurs-criteres"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Nombres et calculs — Opérations, page 7 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Partager : la division euclidienne",
+      "text": "On partage 17 billes entre 5 enfants : chacun en reçoit 3 et il en reste 2. On écrit 17 = 5 × 3 + 2. Le nombre 17 est le dividende, 5 le diviseur, 3 le quotient et 2 le reste. Le reste est toujours strictement plus petit que le diviseur (ici 2 < 5). Autre exemple : 100 = 7 × 14 + 2, car 7 × 14 = 98 et 100 − 98 = 2, avec 2 < 7. Le quotient est le plus grand nombre de fois que l’on peut ranger le diviseur dans le dividende."
+    },
+    {
+      "title": "Multiples et diviseurs",
+      "text": "Quand le reste de la division euclidienne est 0, on dit que a est un multiple de b et que b est un diviseur de a. Par exemple 21 = 3 × 7 : 21 est un multiple de 3 et de 7, et 3 et 7 sont des diviseurs de 21. Les diviseurs de 12 sont 1, 2, 3, 4, 6 et 12. Les multiples de 4 sont 0, 4, 8, 12, 16… : il y en a une infinité. Tout entier a au moins pour diviseurs 1 et lui-même. Écrire 35 = 5 × 7, c’est factoriser 35 à l’aide des tables de multiplication."
+    },
+    {
+      "title": "Les critères par 2, 5 et 10",
+      "text": "Un nombre entier est divisible par 2 si son chiffre des unités est 0, 2, 4, 6 ou 8. Il est divisible par 5 si son chiffre des unités est 0 ou 5. Il est divisible par 10 si son chiffre des unités est 0. Ainsi 135 est divisible par 5 mais pas par 2, et 470 est divisible par 2, par 5 et par 10."
+    },
+    {
+      "title": "Les critères par 3 et par 9",
+      "text": "On additionne tous les chiffres du nombre. Si cette somme est divisible par 3, le nombre est divisible par 3 ; si elle est divisible par 9, le nombre est divisible par 9. Exemple : pour 372, 3 + 7 + 2 = 12 ; 12 est divisible par 3 mais pas par 9, donc 372 est divisible par 3 (372 = 3 × 124) mais pas par 9. Pour 468, 4 + 6 + 8 = 18 ; 18 est divisible par 9, donc 468 est divisible par 9 (468 = 9 × 52). Un nombre divisible par 9 est toujours divisible par 3, mais l’inverse est faux : 12 est divisible par 3, pas par 9."
+    }
+  ],
+  "revision_sheet": [
+    "Division euclidienne : a = b × q + r avec r < b ; par exemple 17 = 5 × 3 + 2.",
+    "Si r = 0, a est un multiple de b et b est un diviseur de a (21 = 3 × 7).",
+    "Divisible par 2 : se termine par 0, 2, 4, 6, 8. Par 5 : se termine par 0 ou 5. Par 10 : se termine par 0.",
+    "Divisible par 3 (ou 9) : la somme des chiffres est divisible par 3 (ou 9).",
+    "Un nombre divisible par 9 est divisible par 3, mais pas l’inverse.",
+    "Un nombre divisible à la fois par 2 et par 5 est divisible par 10."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quels sont le quotient et le reste de la division euclidienne de 47 par 6 ?",
+      "choices": [
+        "Quotient 7 et reste 5",
+        "Quotient 5 et reste 7",
+        "Quotient 6 et reste 11"
+      ],
+      "correct_index": 0,
+      "explanation": "6 × 7 = 42 et 47 − 42 = 5, avec 5 < 6 : 47 = 6 × 7 + 5. Un reste de 7 ou de 11 serait plus grand que le diviseur 6."
+    },
+    {
+      "prompt": "Lequel de ces nombres est divisible par 9 ?",
+      "choices": [
+        "1 234",
+        "3 262",
+        "2 745"
+      ],
+      "correct_index": 2,
+      "explanation": "Pour 2 745, 2 + 7 + 4 + 5 = 18, qui est divisible par 9. Pour 1 234 la somme est 10, et pour 3 262 elle est 13 : ni l’un ni l’autre n’est divisible par 9."
+    },
+    {
+      "prompt": "Lequel de ces nombres est divisible par 3 mais pas par 9 ?",
+      "choices": [
+        "126",
+        "123",
+        "135"
+      ],
+      "correct_index": 1,
+      "explanation": "Pour 123, 1 + 2 + 3 = 6 : divisible par 3 mais pas par 9. Pour 126 et 135, la somme des chiffres est 9 : ils sont divisibles par 9."
+    },
+    {
+      "prompt": "Lequel de ces nombres n’est pas un diviseur de 24 ?",
+      "choices": [
+        "6",
+        "8",
+        "9"
+      ],
+      "correct_index": 2,
+      "explanation": "24 = 6 × 4 et 24 = 8 × 3, donc 6 et 8 sont des diviseurs de 24. Mais 24 = 9 × 2 + 6 : le reste n’est pas nul, 9 n’est pas un diviseur de 24."
+    },
+    {
+      "prompt": "Un nombre est divisible à la fois par 2 et par 5. Par quel nombre est-il aussi sûrement divisible ?",
+      "choices": [
+        "10",
+        "4",
+        "20"
+      ],
+      "correct_index": 0,
+      "explanation": "Divisible par 5, il se termine par 0 ou 5 ; divisible par 2, il est pair : il se termine donc par 0 et il est divisible par 10. Mais 10 n’est pas divisible par 4 et 30 n’est pas divisible par 20."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Effectue les divisions euclidiennes de 135 par 8 et de 1 000 par 7, puis écris chaque résultat sous la forme a = b × q + r.",
+      "solution": "135 = 8 × 16 + 7 (car 8 × 16 = 128 et 135 − 128 = 7) ; 1 000 = 7 × 142 + 6 (car 7 × 142 = 994 et 1 000 − 994 = 6).",
+      "success_criterion": "Vérifier que le reste est plus petit que le diviseur et que b × q + r redonne bien le dividende."
+    },
+    {
+      "prompt": "Sans poser de division, dis si 6 150 est divisible par 2, par 3, par 5, par 9 et par 10.",
+      "solution": "Le chiffre des unités est 0 : 6 150 est divisible par 2, par 5 et par 10. La somme des chiffres est 6 + 1 + 5 + 0 = 12 : 12 est divisible par 3 mais pas par 9, donc 6 150 est divisible par 3 mais pas par 9.",
+      "success_criterion": "Appliquer le bon critère à chaque diviseur et conclure pour chacun des cinq nombres."
+    },
+    {
+      "prompt": "Écris tous les diviseurs de 30, puis trois façons d’écrire 30 comme produit de deux nombres différents de 1.",
+      "solution": "Les diviseurs de 30 sont 1, 2, 3, 5, 6, 10, 15 et 30. Comme produits : 30 = 2 × 15 = 3 × 10 = 5 × 6.",
+      "success_criterion": "Tester les diviseurs dans l’ordre sans en oublier et associer les diviseurs par paires."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une boulangère range 250 croissants dans des boîtes de 12. Combien de boîtes complètes remplit-elle ? Combien de croissants restent-ils ? Combien de boîtes lui faut-il pour tout ranger ?",
+      "solution": "250 = 12 × 20 + 10 (car 12 × 20 = 240). Elle remplit 20 boîtes complètes et il reste 10 croissants ; comme 10 < 12, une 21e boîte est nécessaire pour tout ranger.",
+      "success_criterion": "Poser la bonne division euclidienne, interpréter le quotient et le reste dans la situation, et penser à la boîte supplémentaire."
+    },
+    {
+      "prompt": "Quel chiffre peut-on écrire à la place de ■ pour que le nombre 52■ soit divisible par 9 ? Quels chiffres conviennent pour qu’il soit divisible par 3 ?",
+      "solution": "5 + 2 = 7, donc il faut que 7 + ■ soit divisible par 9 : ■ = 2, le nombre est 522 (522 = 9 × 58). Pour 3, il faut que 7 + ■ soit divisible par 3 : ■ = 2, 5 ou 8, soit 522, 525 ou 528.",
+      "success_criterion": "Utiliser le critère de la somme des chiffres et chercher tous les chiffres possibles, pas seulement un."
+    }
+  ],
+  "audio_transcript": "Dans une division euclidienne, on écrit le dividende comme le diviseur fois le quotient, plus le reste. Par exemple, dix-sept égale cinq fois trois plus deux. Le reste est toujours plus petit que le diviseur. Quand le reste est nul, on dit que le nombre est un multiple du diviseur, et que le diviseur est un diviseur du nombre. Pour savoir si un nombre est divisible par deux, on regarde son dernier chiffre : zéro, deux, quatre, six ou huit. Par cinq, le dernier chiffre est zéro ou cinq. Par dix, c’est zéro. Pour trois et pour neuf, on additionne tous les chiffres : si la somme est dans la table de trois, le nombre est divisible par trois ; si elle est dans la table de neuf, il est divisible par neuf. Par exemple, quatre cent soixante-huit donne quatre plus six plus huit, soit dix-huit : il est divisible par neuf.",
+  "guided_explanation": "Imagine que tu ranges des objets dans des boîtes de la même taille. Si tout rentre exactement, sans rien laisser dehors, le nombre d’objets est un multiple de la taille de la boîte : c’est le cas de 21 objets dans des boîtes de 3. S’il reste des objets, le reste te dit combien : 17 objets dans des boîtes de 5 donnent 3 boîtes pleines et 2 objets en trop, donc 17 = 5 × 3 + 2. Pour les critères, retiens que 2, 5 et 10 ne regardent que le dernier chiffre, tandis que 3 et 9 demandent d’additionner tous les chiffres. Entraîne-toi sur 468 : 4 + 6 + 8 = 18, donc 468 est dans la table de 9."
+}

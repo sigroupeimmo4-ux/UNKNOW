@@ -1,0 +1,129 @@
+{
+  "id": "cm1-b-complement-circonstanciel",
+  "title": "Reconnaître le complément circonstanciel grâce au déplacement et à la suppression",
+  "chapter_id": "cm1-b-complement-circonstanciel",
+  "program_id": "CM1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Identifier le verbe conjugué et le groupe sujet d’une phrase simple.",
+    "Repérer un groupe circonstanciel par la suppression et le déplacement.",
+    "Distinguer un complément d’objet d’un complément circonstanciel."
+  ],
+  "skill_ids": [
+    "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+    "cm1-b-complement-circonstanciel-circonstanciel-skill",
+    "cm1-b-complement-circonstanciel-objet-circonstanciel-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le verbe conjugué et le groupe sujet",
+      "text": "Une phrase simple contient un groupe sujet et un groupe verbal, qui comprend le verbe conjugué. Pour trouver le verbe conjugué, on change le temps : « Les enfants construisent une cabane dans le jardin » devient « Hier, les enfants construisaient une cabane… » : le verbe qui change est le verbe conjugué. Pour trouver le groupe sujet, on l’encadre par « c’est … qui » : dans « Le soir, Max lit un livre », on dit « C’est Max qui lit un livre le soir » ; le groupe sujet est donc « Max »."
+    },
+    {
+      "title": "Le groupe circonstanciel",
+      "text": "Un groupe circonstanciel apporte une information en plus et il est facultatif. Deux manipulations permettent de le repérer. La suppression : « Dans le jardin, les enfants construisent une cabane » devient « Les enfants construisent une cabane », et la phrase reste correcte. Le déplacement : « Les enfants construisent une cabane dans le jardin » ; « Le soir, Max lit un livre » devient « Max lit un livre le soir ». Une même phrase peut avoir plusieurs groupes circonstanciels : « Ce matin, Zoé joue dans la cour »."
+    },
+    {
+      "title": "Complément d’objet ou complément circonstanciel ?",
+      "text": "Un complément d’objet complète le verbe : il est lié à lui. Dans « Les enfants construisent une cabane dans le jardin », « une cabane » est un complément d’objet. Si on le supprime, la phrase devient incomplète : « Les enfants construisent dans le jardin » (on se demande : quoi ?). Et on ne peut pas le déplacer librement : « Une cabane les enfants construisent dans le jardin » n’est pas une bonne phrase. Alors que « dans le jardin », lui, se supprime et se déplace. Le groupe qui se supprime et se déplace est le groupe circonstanciel."
+    }
+  ],
+  "revision_sheet": [
+    "Une phrase simple contient un groupe sujet et un groupe verbal avec un verbe conjugué.",
+    "Le verbe conjugué est le mot qui change quand on change le temps (hier, demain).",
+    "Pour trouver le groupe sujet, on l’encadre par « c’est … qui ».",
+    "Un groupe circonstanciel est facultatif : on peut le supprimer et le déplacer.",
+    "Un complément d’objet est lié au verbe : si on le supprime ou le déplace, la phrase devient incomplète ou incorrecte."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « Ce soir, Inès range sa chambre. », quel groupe peut être supprimé et déplacé ?",
+      "choices": [
+        "Inès",
+        "Ce soir",
+        "sa chambre"
+      ],
+      "correct_index": 1,
+      "explanation": "« Ce soir » se supprime (« Inès range sa chambre ») et se déplace (« Inès range sa chambre ce soir ») : c’est un groupe circonstanciel."
+    },
+    {
+      "prompt": "Quel est le verbe conjugué dans « Les élèves écoutent la maîtresse. » ?",
+      "choices": [
+        "écoutent",
+        "élèves",
+        "maîtresse"
+      ],
+      "correct_index": 0,
+      "explanation": "Le verbe est « écoutent » : il change si on change le temps (« écoutaient »)."
+    },
+    {
+      "prompt": "Dans « Le facteur distribue le courrier le matin. », quel groupe est le complément d’objet, celui qu’on ne peut pas supprimer sans rendre la phrase incomplète ?",
+      "choices": [
+        "le matin",
+        "Le facteur",
+        "le courrier"
+      ],
+      "correct_index": 2,
+      "explanation": "« Le facteur distribue le matin » est incomplet : on se demande ce qu’il distribue. « Le courrier » est lié au verbe, alors que « le matin » peut être supprimé."
+    },
+    {
+      "prompt": "Quelle phrase est obtenue en déplaçant le groupe circonstanciel de « Les oiseaux chantent dans le jardin. » ?",
+      "choices": [
+        "Les oiseaux dans chantent le jardin.",
+        "Dans le jardin, les oiseaux chantent.",
+        "Chantent les oiseaux le jardin dans."
+      ],
+      "correct_index": 1,
+      "explanation": "On déplace le groupe « dans le jardin » en entier au début de la phrase : « Dans le jardin, les oiseaux chantent. »"
+    },
+    {
+      "prompt": "Pour trouver le groupe sujet de « Mon petit frère dessine un bateau. », on peut l’encadrer par :",
+      "choices": [
+        "ne … pas",
+        "est-ce que … ?",
+        "c’est … qui"
+      ],
+      "correct_index": 2,
+      "explanation": "« C’est mon petit frère qui dessine un bateau » : l’encadrement par « c’est … qui » isole le groupe sujet."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Pour chaque phrase, supprime le groupe circonstanciel et écris la phrase obtenue. a) Chaque matin, Sofia mange une tartine. b) Les enfants ramassent des feuilles dans la forêt.",
+      "solution": "a) Sofia mange une tartine. b) Les enfants ramassent des feuilles.",
+      "success_criterion": "Supprimer « Chaque matin » puis « dans la forêt », et garder une phrase correcte."
+    },
+    {
+      "prompt": "Déplace le groupe circonstanciel dans chaque phrase. a) Léo dessine un dragon pendant la récréation. b) Après la classe, Mia range son sac.",
+      "solution": "a) Pendant la récréation, Léo dessine un dragon. b) Mia range son sac après la classe.",
+      "success_criterion": "Déplacer le groupe en entier et obtenir une phrase correcte, avec une virgule en début de phrase."
+    },
+    {
+      "prompt": "Dans « Le soir, nos voisins réparent la clôture. », relève le verbe conjugué, le groupe sujet, le groupe circonstanciel et le complément d’objet.",
+      "solution": "Verbe conjugué : réparent ; groupe sujet : nos voisins ; groupe circonstanciel : le soir ; complément d’objet : la clôture.",
+      "success_criterion": "Utiliser le changement de temps, « c’est … qui », la suppression et le déplacement pour justifier chaque réponse."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Dans la phrase « Demain, ma sœur prépare un gâteau dans la cuisine. », relève le verbe conjugué, le groupe sujet, les deux groupes circonstanciels et le complément d’objet.",
+      "solution": "Verbe conjugué : prépare ; groupe sujet : ma sœur ; groupes circonstanciels : demain, dans la cuisine ; complément d’objet : un gâteau.",
+      "success_criterion": "Repérer les cinq éléments en s’aidant des manipulations (changement de temps, encadrement, suppression, déplacement)."
+    },
+    {
+      "prompt": "Théo dit : « Dans « Nos voisins construisent une piscine », le groupe « une piscine » est un groupe circonstanciel. » A-t-il raison ? Justifie avec deux manipulations.",
+      "solution": "Théo a tort. Si on supprime « une piscine », la phrase « Nos voisins construisent » est incomplète. Et on ne peut pas le déplacer : « Une piscine nos voisins construisent » n’est pas correct. C’est un complément d’objet.",
+      "success_criterion": "Appliquer la suppression et le déplacement et conclure qu’il s’agit d’un complément d’objet."
+    },
+    {
+      "prompt": "Écris une phrase qui contient un groupe sujet, un verbe conjugué, un complément d’objet et un groupe circonstanciel. Prouve ton analyse par la suppression et le déplacement.",
+      "solution": "Exemple : « Ce matin, mon oncle construit une étagère. » Groupe sujet : mon oncle ; verbe : construit ; complément d’objet : une étagère ; circonstanciel : ce matin. Suppression : « Mon oncle construit une étagère. » Déplacement : « Mon oncle construit une étagère ce matin. » Sans « une étagère », la phrase est incomplète.",
+      "success_criterion": "La phrase reste correcte quand on supprime ou déplace le groupe circonstanciel, mais pas quand on supprime ou déplace le complément d’objet."
+    }
+  ],
+  "audio_transcript": "Une phrase simple contient un groupe sujet et un groupe verbal. Pour trouver le verbe conjugué, on change le temps : le mot qui change est le verbe. Pour trouver le groupe sujet, on l’encadre par c’est, qui. Un groupe circonstanciel donne une information en plus et il est facultatif : on peut le supprimer et le déplacer. Dans les enfants construisent une cabane dans le jardin, dans le jardin peut disparaître ou changer de place. Mais une cabane est lié au verbe : si on le supprime, la phrase est incomplète. C’est un complément d’objet.",
+  "guided_explanation": "Quand tu analyses une phrase, commence par le verbe : change le temps et regarde quel mot change. Ensuite cherche le groupe sujet avec c’est, qui. Pour les groupes qui restent, teste-les. Peux-tu les supprimer et la phrase est encore correcte ? Peux-tu les déplacer au début ou à la fin ? Si oui, c’est un groupe circonstanciel. Si la suppression rend la phrase bizarre ou incomplète, c’est probablement un complément d’objet, lié au verbe. Fais toujours le test sur le groupe entier, pas sur un seul mot."
+}

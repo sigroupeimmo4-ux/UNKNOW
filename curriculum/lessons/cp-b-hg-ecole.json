@@ -1,0 +1,102 @@
+{
+  "id": "cp-b-hg-ecole",
+  "title": "Se repérer dans la classe et dans l’école",
+  "chapter_id": "cp-b-hg-ecole",
+  "program_id": "CP-histoire-geographie-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Nommer et décrire les lieux de l’école.",
+    "Dire où se trouve un objet avec les mots de position.",
+    "Comprendre à quoi sert un plan."
+  ],
+  "skill_ids": [
+    "cp-b-hg-ecole-skill-lieux",
+    "cp-b-hg-ecole-skill-positions",
+    "cp-b-hg-ecole-skill-plan"
+  ],
+  "source_locators": [
+    "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les lieux de l’école",
+      "text": "Dans l’école, il y a la classe, la cour de récréation, les couloirs, les sanitaires, le réfectoire et le portail. Chaque lieu sert à quelque chose. On joue dans la cour. On mange au réfectoire."
+    },
+    {
+      "title": "Dire où sont les choses",
+      "text": "Pour dire où est un objet, on dit : à gauche, à droite, au-dessus, en dessous, devant, derrière, à côté. Exemple : le cartable est derrière la chaise."
+    },
+    {
+      "title": "Le plan",
+      "text": "Un plan est un dessin d’un lieu, vu de dessus. On peut faire le plan de la classe : on y met la porte, le tableau, les tables. Un plan aide à trouver son chemin et à décrire un trajet, par exemple de la maison à l’école."
+    }
+  ],
+  "revision_sheet": [
+    "Lieux de l’école : classe, cour, couloirs, sanitaires, réfectoire, portail.",
+    "Mots de position : à gauche, à droite, au-dessus, en dessous, devant, derrière, à côté.",
+    "Un plan représente un lieu ; il aide à se repérer."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans quel lieu de l’école mange-t-on ?",
+      "choices": [
+        "la cour",
+        "le réfectoire",
+        "le couloir"
+      ],
+      "correct_index": 1,
+      "explanation": "On mange au réfectoire."
+    },
+    {
+      "prompt": "Quel mot dit le contraire de « à gauche » ?",
+      "choices": [
+        "à droite",
+        "au-dessus",
+        "derrière"
+      ],
+      "correct_index": 0,
+      "explanation": "Gauche et droite sont deux côtés opposés."
+    },
+    {
+      "prompt": "À quoi sert un plan ?",
+      "choices": [
+        "à se repérer dans un lieu",
+        "à dire l’heure",
+        "à peser un objet"
+      ],
+      "correct_index": 0,
+      "explanation": "Un plan représente un lieu pour s’y repérer."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Dessine le plan de ta classe : place la porte, le tableau et ta table.",
+      "solution": "Un plan vu de dessus, avec la porte, le tableau et la table bien placés les uns par rapport aux autres.",
+      "success_criterion": "Placer les trois éléments à des endroits cohérents avec la classe."
+    },
+    {
+      "prompt": "Où va-t-on pour manger ? Où joue-t-on à la récréation ?",
+      "solution": "On mange au réfectoire ; on joue dans la cour de récréation.",
+      "success_criterion": "Associer chaque lieu à son usage."
+    },
+    {
+      "prompt": "Décris ton trajet de la maison à l’école avec deux ou trois repères.",
+      "solution": "Réponse personnelle, par exemple : je sors de la maison, je passe devant la boulangerie, j’arrive au portail de l’école.",
+      "success_criterion": "Donner des repères dans l’ordre du trajet."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris trois mots qui disent où est un objet.",
+      "solution": "Par exemple : à gauche, devant, derrière (ou à droite, au-dessus, en dessous, à côté).",
+      "success_criterion": "Trois mots de position corrects."
+    },
+    {
+      "prompt": "Explique à quoi sert le plan de la classe.",
+      "solution": "Il représente la classe et permet de situer les objets et de se repérer.",
+      "success_criterion": "Dire que le plan représente un lieu pour s’y repérer."
+    }
+  ],
+  "audio_transcript": "Dans l’école, il y a la classe, la cour de récréation, les couloirs, les sanitaires, le réfectoire et le portail. Pour dire où est un objet, on dit à gauche, à droite, au-dessus, en dessous, devant, derrière ou à côté. Un plan est un dessin d’un lieu vu de dessus. Il aide à se repérer.",
+  "guided_explanation": "Imagine que tu regardes ta classe d’en haut, comme un oiseau. Tu vois la porte, le tableau et les tables. Si tu les dessines, tu fais un plan. Pour expliquer où est ton cartable, tu peux dire : il est à côté de la chaise, ou derrière elle."
+}

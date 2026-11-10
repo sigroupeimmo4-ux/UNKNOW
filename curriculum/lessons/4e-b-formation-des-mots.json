@@ -1,0 +1,148 @@
+{
+  "id": "4e-b-formation-des-mots",
+  "title": "La formation des mots : dérivation, composition, racines",
+  "chapter_id": "4e-b-formation-des-mots",
+  "program_id": "4e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer mot simple, mot dérivé et mot composé, et repérer le radical, le préfixe et le suffixe.",
+    "Utiliser le sens de quelques préfixes, suffixes et racines latines ou grecques pour comprendre et orthographier des mots.",
+    "Organiser des mots en familles de mots et en champs lexicaux."
+  ],
+  "skill_ids": [
+    "4e-b-formation-des-mots-derive",
+    "4e-b-formation-des-mots-sens",
+    "4e-b-formation-des-mots-reseau"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Enrichir et structurer le lexique, page 25 ; terminologie (mot dérivé, mot composé, locution, radical, préfixe, suffixe), page 26 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Mot dérivé et mot composé",
+      "text": "Un mot dérivé se forme à partir d’un radical auquel on ajoute un préfixe (placé avant) et/ou un suffixe (placé après). Exemples : inutile = in- + utile ; refaire = re- + faire ; chanteur = chant- + -eur ; lisible = lis- + -ible. Un mot composé associe plusieurs mots : gratte-ciel, chou-fleur, arc-en-ciel. Une locution est un groupe de mots figé qui fonctionne comme un seul mot : pomme de terre, tout à coup."
+    },
+    {
+      "title": "Sens de quelques préfixes et suffixes",
+      "text": "Préfixes : in- (contraire : inutile) qui devient im- devant b, m, p (impossible), il- devant l (illisible) et ir- devant r (irréel) ; dé- / dés- (contraire, action inverse : défaire) ; re- (répétition : relire) ; pré- (avant : préhistoire) ; anti- (contre : antivol). Suffixes : -able / -ible (qui peut être : lavable, lisible) ; -eur (celui qui fait : chanteur) ; -té (qualité : beauté) ; -ment (nom d’action : déménagement, ou adverbe : lentement)."
+    },
+    {
+      "title": "Changement de catégorie et orthographe",
+      "text": "La dérivation peut changer la classe du mot : beau (adjectif) → beauté (nom) ; déménager (verbe) → déménagement (nom) ; laver (verbe) → lavable (adjectif) ; lent (adjectif) → lentement (adverbe). Le radical peut se modifier : joie → joyeux, lire → lisible. L’orthographe en tient compte : on garde le e de déménager dans déménagement pour garder le son [ʒ] (comme dans mangeons)."
+    },
+    {
+      "title": "Racines latines et grecques",
+      "text": "De nombreux mots savants viennent du latin ou du grec : aqua (eau) → aquatique, aquarium ; terra (terre) → terrestre, enterrer ; hydro (eau, grec) → hydrater, hydraulique ; géo (terre) → géographie ; bio (vie) → biologie ; -logie (étude) → géologie ; thermo (chaleur) → thermomètre ; -mètre (mesure) ; télé (loin) et -phone (voix) → téléphone. Connaître ces éléments permet de deviner le sens d’un mot nouveau."
+    },
+    {
+      "title": "Mettre les mots en réseau",
+      "text": "Une famille de mots regroupe des mots de même radical : terre, terrain, terrasse, enterrer, atterrir, terrestre. Un champ lexical regroupe des mots, de classes différentes, qui se rapportent à un même thème, sans avoir le même radical : mer, vague, plage, marée, navire. Un champ sémantique rassemble les différents sens d’un même mot (polysémie) : « terre » = la planète, le sol, un terrain, un pays."
+    }
+  ],
+  "revision_sheet": [
+    "Mot dérivé : préfixe + radical + suffixe (in-util-e, chant-eur). Mot composé : plusieurs mots (gratte-ciel, chou-fleur).",
+    "in- devient im- devant b, m, p ; il- devant l ; ir- devant r (impossible, illisible, irréel).",
+    "Suffixes : -able / -ible (qui peut être), -eur (celui qui fait), -té (qualité), -ment (action ou adverbe).",
+    "La dérivation change souvent la classe : beau → beauté, déménager → déménagement.",
+    "Racines : aqua / hydro = eau ; terra / géo = terre ; bio = vie ; thermo = chaleur ; télé = loin ; -mètre = mesure.",
+    "Famille de mots : même radical. Champ lexical : même thème. Champ sémantique : les différents sens d’un mot."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est le préfixe du mot « impossible » ?",
+      "choices": [
+        "im-",
+        "pos-",
+        "-ible"
+      ],
+      "correct_index": 0,
+      "explanation": "« Impossible » = im- + possible. Le préfixe im- exprime le contraire ; in- devient im- devant p. « -ible » est le suffixe."
+    },
+    {
+      "prompt": "Quel est le nom dérivé de l’adjectif « beau » ?",
+      "choices": [
+        "embellir",
+        "beauté",
+        "beaucoup"
+      ],
+      "correct_index": 1,
+      "explanation": "« Beauté » est un nom formé à partir de beau avec le suffixe -té. « Embellir » est un verbe et « beaucoup » est un adverbe."
+    },
+    {
+      "prompt": "Lequel de ces mots est un mot composé ?",
+      "choices": [
+        "relire",
+        "gratte-ciel",
+        "lisible"
+      ],
+      "correct_index": 1,
+      "explanation": "« Gratte-ciel » associe deux mots (gratter et ciel). « Relire » et « lisible » sont des mots dérivés."
+    },
+    {
+      "prompt": "Quel mot n’appartient pas à la famille de « terre » ?",
+      "choices": [
+        "terrain",
+        "atterrir",
+        "terrible"
+      ],
+      "correct_index": 2,
+      "explanation": "« Terrain » et « atterrir » contiennent le radical terr- (terre). « Terrible » vient d’une autre racine latine (terrere, effrayer)."
+    },
+    {
+      "prompt": "Dans « hydrater », la racine grecque hydro- signifie :",
+      "choices": [
+        "eau",
+        "feu",
+        "terre"
+      ],
+      "correct_index": 0,
+      "explanation": "Hydro- signifie « eau » : hydrater, c’est apporter de l’eau."
+    },
+    {
+      "prompt": "Que signifie le suffixe -able dans « lavable » ?",
+      "choices": [
+        "qui peut être lavé",
+        "qui lave",
+        "action de laver"
+      ],
+      "correct_index": 0,
+      "explanation": "Le suffixe -able indique la possibilité : lavable = qui peut être lavé. L’action de laver serait « lavage » et celui qui lave serait « laveur »."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Décompose chaque mot en préfixe, radical et suffixe quand c’est possible : inutile, relire, chanteur, lisible.",
+      "solution": "inutile = in- + utile (préfixe + radical) ; relire = re- + lire ; chanteur = chant- + -eur (radical + suffixe) ; lisible = lis- + -ible.",
+      "success_criterion": "Isoler correctement préfixe, radical et suffixe."
+    },
+    {
+      "prompt": "Forme le contraire de chaque mot à l’aide d’un préfixe : possible, lisible, réel, faire.",
+      "solution": "possible → impossible ; lisible → illisible ; réel → irréel ; faire → défaire.",
+      "success_criterion": "Choisir im-, il-, ir- ou dé- selon la lettre qui suit."
+    },
+    {
+      "prompt": "Trouve un nom dérivé de chacun de ces mots : déménager, bon, laver.",
+      "solution": "déménager → déménagement ; bon → bonté ; laver → lavage. La dérivation fait passer d’un verbe ou d’un adjectif à un nom.",
+      "success_criterion": "Utiliser un suffixe approprié et repérer le changement de classe."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Parmi ces mots, classe ceux de la famille de « terre » et indique les intrus : terrain, enterrer, mer, atterrir, terrible.",
+      "solution": "Famille de « terre » : terrain, enterrer, atterrir (radical terr-). Intrus : mer (autre mot) et terrible (autre racine latine).",
+      "success_criterion": "Repérer le radical commun et écarter les mots de sens ou d’origine différents."
+    },
+    {
+      "prompt": "Explique le sens des mots suivants à partir de leurs racines : thermomètre, géologie, téléphone.",
+      "solution": "thermomètre : thermo (chaleur) + mètre (mesure) = instrument qui mesure la chaleur (la température) ; géologie : géo (terre) + logie (étude) = étude de la Terre ; téléphone : télé (loin) + phone (voix) = appareil qui transmet la voix à distance.",
+      "success_criterion": "Utiliser le sens de chaque élément pour reconstruire le sens du mot."
+    },
+    {
+      "prompt": "Classe ces deux groupes de mots : A (mer, vague, plage, marée) ; B (chanter, chanteur, chanson, chant). Dis s’il s’agit d’un champ lexical ou d’une famille de mots, et justifie.",
+      "solution": "A est un champ lexical : les mots se rapportent au thème de la mer, sans radical commun. B est une famille de mots : ils ont le même radical chant-.",
+      "success_criterion": "Distinguer même thème (champ lexical) et même radical (famille de mots)."
+    }
+  ],
+  "audio_transcript": "Beaucoup de mots se fabriquent à partir d’autres mots. Un mot dérivé est formé d’un radical, auquel on ajoute un préfixe devant ou un suffixe derrière. Par exemple, impossible, c’est im plus possible : le préfixe im veut dire le contraire. Chanteur, c’est chant plus eur : celui qui chante. Un mot composé associe plusieurs mots, comme gratte-ciel. La dérivation peut changer la classe du mot : beau est un adjectif, beauté est un nom. Les racines latines et grecques aident aussi : hydro veut dire eau, géo veut dire terre, thermo veut dire chaleur. Enfin, on distingue la famille de mots, qui partage un radical, et le champ lexical, qui partage un thème.",
+  "guided_explanation": "Face à un mot que tu ne connais pas, cherche d’abord le radical, puis repère un éventuel préfixe et un éventuel suffixe. Cherche ensuite des mots de la même famille que tu connais : cela t’aide à deviner le sens et l’orthographe. Si le mot est savant, regarde s’il contient une racine latine ou grecque que tu connais, comme hydro-, géo-, bio-, thermo-. Pour classer des mots, demande-toi : ont-ils le même radical (famille de mots) ou seulement le même thème (champ lexical) ?"
+}

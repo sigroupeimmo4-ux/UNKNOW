@@ -1,0 +1,129 @@
+{
+  "id": "cm1-b-synonymes-antonymes-familles",
+  "title": "Enrichir son vocabulaire : synonymes, antonymes et familles de mots",
+  "chapter_id": "cm1-b-synonymes-antonymes-familles",
+  "program_id": "CM1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Trouver et utiliser des synonymes de la même classe grammaticale.",
+    "Trouver et utiliser des antonymes, y compris ceux formés avec un préfixe.",
+    "Reconnaître des mots d’une même famille et s’en servir pour comprendre un mot inconnu."
+  ],
+  "skill_ids": [
+    "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+    "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+    "cm1-b-synonymes-antonymes-familles-famille-skill"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les synonymes",
+      "text": "Deux mots sont synonymes quand leur sens est proche et qu’on peut souvent remplacer l’un par l’autre dans une phrase : « content » et « joyeux », « commencer » et « débuter », « la peur » et « la frayeur ». Deux synonymes appartiennent à la même classe grammaticale (deux adjectifs, deux verbes, deux noms). On vérifie en remplaçant : « Le film commence à 20 h » devient « Le film débute à 20 h » et le sens ne change pas. Les synonymes permettent d’éviter les répétitions et de choisir le mot le plus précis."
+    },
+    {
+      "title": "Les antonymes",
+      "text": "Deux mots sont antonymes quand leur sens est opposé : « grand » et « petit », « chaud » et « froid », « ouvrir » et « fermer », « facile » et « difficile ». Les antonymes sont aussi de la même classe grammaticale (deux adjectifs, deux verbes…). Parfois, on forme l’antonyme en ajoutant un début de mot, appelé préfixe : « heureux » et « malheureux », « possible » et « impossible », « faire » et « défaire »."
+    },
+    {
+      "title": "Les familles de mots",
+      "text": "Les mots d’une même famille sont construits sur un radical commun et ont un sens lié. Famille de « terre » : terrain, terrasse, enterrer, atterrir, souterrain. Attention : « terrible » n’est pas de la famille de « terre », car son sens n’a pas de lien avec la terre. Quand tu rencontres un mot inconnu, cherche un mot connu dedans et regarde le contexte : dans « un souterrain », on retrouve « sous » et « terrain » ; dans « Théo déplie la carte », le début « dé- » indique le contraire de « plier »."
+    }
+  ],
+  "revision_sheet": [
+    "Synonymes : mots de sens proche, de même classe grammaticale (content, joyeux).",
+    "Antonymes : mots de sens opposé, de même classe grammaticale (chaud, froid).",
+    "On peut former un antonyme avec un préfixe : heureux, malheureux ; possible, impossible ; faire, défaire.",
+    "Famille de mots : radical commun et sens lié (terre, terrain, enterrer, atterrir) ; « terrible » n’en fait pas partie.",
+    "Pour comprendre un mot inconnu : regarder le contexte et chercher un mot connu à l’intérieur (souterrain = sous + terrain)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel mot est un synonyme de « commencer » ?",
+      "choices": [
+        "finir",
+        "débuter",
+        "continuer"
+      ],
+      "correct_index": 1,
+      "explanation": "« Débuter » a un sens proche de « commencer ». « Finir » est son contraire et « continuer » veut dire poursuivre."
+    },
+    {
+      "prompt": "Quel mot est un antonyme de « facile » ?",
+      "choices": [
+        "difficile",
+        "simple",
+        "aisé"
+      ],
+      "correct_index": 0,
+      "explanation": "« Difficile » est le contraire de « facile » ; « simple » et « aisé » sont des synonymes de « facile »."
+    },
+    {
+      "prompt": "Quel mot n’appartient PAS à la famille de « dent » ?",
+      "choices": [
+        "dentiste",
+        "dentifrice",
+        "danser"
+      ],
+      "correct_index": 2,
+      "explanation": "« Dentiste » et « dentifrice » contiennent « dent » et ont un sens lié. « Danser » n’a pas de rapport avec la dent."
+    },
+    {
+      "prompt": "Dans « Ce bonbon est délicieux », par quel mot peut-on remplacer « délicieux » sans changer le sens ?",
+      "choices": [
+        "amer",
+        "dur",
+        "succulent"
+      ],
+      "correct_index": 2,
+      "explanation": "« Succulent » est un synonyme de « délicieux ». « Amer » et « dur » décrivent d’autres qualités."
+    },
+    {
+      "prompt": "Quel mot est l’antonyme de « heureux » ?",
+      "choices": [
+        "heureusement",
+        "malheureux",
+        "joyeux"
+      ],
+      "correct_index": 1,
+      "explanation": "« Malheureux » est le contraire de « heureux » (préfixe mal-). « Joyeux » est un synonyme, « heureusement » est un adverbe."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Trouve un synonyme de chacun de ces mots : content ; commencer ; la peur.",
+      "solution": "Par exemple : content → heureux ou joyeux ; commencer → débuter ; la peur → la frayeur.",
+      "success_criterion": "Le mot choisi a un sens proche et appartient à la même classe grammaticale que le mot de départ."
+    },
+    {
+      "prompt": "Donne l’antonyme de chaque mot : chaud ; ouvrir ; heureux ; possible.",
+      "solution": "chaud → froid ; ouvrir → fermer ; heureux → malheureux ; possible → impossible.",
+      "success_criterion": "Choisir un mot de sens opposé et de même classe grammaticale."
+    },
+    {
+      "prompt": "Trouve l’intrus dans cette liste de mots : terrain ; terrasse ; terrible ; enterrer. Justifie.",
+      "solution": "L’intrus est « terrible » : les autres mots ont un lien de sens avec « terre », pas « terrible ».",
+      "success_criterion": "Vérifier à la fois le radical commun et le lien de sens avec le mot de départ."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris trois mots de la famille du mot « dent ».",
+      "solution": "Par exemple : dentiste, dentifrice, denture, dentaire.",
+      "success_criterion": "Les mots contiennent le radical « dent » et ont un sens lié à la dent."
+    },
+    {
+      "prompt": "Dans « Le ciel est très sombre ce soir », remplace « sombre » par un synonyme, puis par un antonyme, et écris les deux phrases.",
+      "solution": "Avec un synonyme : « Le ciel est très obscur ce soir. » Avec un antonyme : « Le ciel est très clair ce soir. »",
+      "success_criterion": "Employer des adjectifs, l’un de sens proche, l’autre de sens opposé, dans une phrase correcte."
+    },
+    {
+      "prompt": "Tu lis : « Théo déboutonne son manteau. » Tu ne connais pas « déboutonner ». Quel mot connu peux-tu y retrouver ? Que veut dire ce verbe ?",
+      "solution": "On retrouve « bouton ». Le début « dé- » indique le contraire de « boutonner » : déboutonner son manteau, c’est défaire ses boutons pour l’ouvrir.",
+      "success_criterion": "Repérer le mot connu à l’intérieur, utiliser le sens de « dé- » et le contexte pour expliquer le mot."
+    }
+  ],
+  "audio_transcript": "Les mots forment un grand réseau. Les synonymes sont des mots de sens proche : content et joyeux, commencer et débuter. Les antonymes sont des mots de sens opposé : chaud et froid, ouvrir et fermer. Parfois, on forme un antonyme avec un début de mot : heureux devient malheureux, et faire devient défaire. Les mots d’une même famille partagent un radical et un sens : terre, terrain, enterrer, atterrir. Attention : terrible n’est pas de la famille de terre. Quand tu rencontres un mot inconnu, cherche un mot connu à l’intérieur et regarde la phrase autour.",
+  "guided_explanation": "Pense à un mot comme à une personne qui a des amis et des opposés. Ses amis, ce sont les synonymes : on peut les mettre à sa place. Ses opposés, ce sont les antonymes. Et il a aussi une famille, des mots construits avec la même partie. Quand un mot te bloque, joue au détective : cherche un mot que tu connais caché dedans, puis relis la phrase pour vérifier que ton idée a du sens. Si tu changes un mot par un synonyme, relis toujours la phrase pour t’assurer qu’elle reste juste."
+}

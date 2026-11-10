@@ -1,0 +1,132 @@
+{
+  "id": "ce1-b-longueurs-masses",
+  "title": "Mesurer des longueurs et des masses : m, cm, km, g et kg",
+  "chapter_id": "ce1-b-longueurs-masses",
+  "program_id": "CE1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Utiliser m, cm et km et connaitre 1 m = 100 cm et 1 km = 1 000 m.",
+    "Mesurer un segment avec une règle graduée et l’encadrer entre deux nombres entiers de centimètres.",
+    "Utiliser g et kg (1 kg = 1 000 g), comparer et ranger des masses."
+  ],
+  "skill_ids": [
+    "ce1-b-longueurs-masses-skill",
+    "ce1-b-longueurs-masses-masses"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Grandeurs et mesures, Les longueurs et les masses, page 27 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les unités de longueur",
+      "text": "On mesure une longueur avec des unités : le centimètre (cm) pour les petits objets comme un crayon, le mètre (m) pour une pièce ou une cour, le kilomètre (km) pour de longues distances comme entre deux villes. À connaitre : 1 m = 100 cm et 1 km = 1 000 m. On peut calculer avec ces relations : 1 m + 46 cm = 100 cm + 46 cm = 146 cm. On choisit l’unité la mieux adaptée : la longueur d’une trousse est plutôt 20 cm que 2 cm ou 2 m."
+    },
+    {
+      "title": "Mesurer un segment avec une règle graduée",
+      "text": "On place le zéro de la règle à une extrémité du segment, puis on lit le nombre en face de l’autre extrémité. Si le bout du segment tombe entre deux graduations, on encadre la longueur par deux nombres entiers de centimètres. Par exemple : « Le segment mesure entre 8 cm et 9 cm. » Pour comparer des longueurs, on les mesure avec la même unité."
+    },
+    {
+      "title": "Les unités de masse",
+      "text": "La masse d’un objet (ce qu’il pèse) se mesure en grammes (g) et en kilogrammes (kg). À connaitre : 1 kg = 1 000 g. Pour comparer deux objets, on peut les soupeser ou utiliser une balance. Quelques références : un paquet de sucre pèse 1 kg et un sachet de levure pèse environ 10 g. Pour convertir : 2 kg = 2 000 g, et 2 kg + 500 g = 2 000 g + 500 g = 2 500 g."
+    },
+    {
+      "title": "Comparer et ranger des masses",
+      "text": "Pour comparer des masses écrites avec des unités différentes, on les écrit avec la même unité. Rangeons du plus léger au plus lourd : 1 kg et 300 g ; 1 000 g ; 2 kg et 100 g ; 50 kg. On convertit en grammes : 1 kg et 300 g = 1 300 g ; 1 000 g ; 2 kg et 100 g = 2 100 g. Le plus léger est 1 000 g, puis 1 kg et 300 g, puis 2 kg et 100 g. Enfin 50 kg est de loin le plus lourd. L’ordre est : 1 000 g < 1 kg et 300 g < 2 kg et 100 g < 50 kg."
+    }
+  ],
+  "revision_sheet": [
+    "1 m = 100 cm ; 1 km = 1 000 m ; 1 kg = 1 000 g.",
+    "cm pour un petit objet, m pour une pièce ou une cour, km pour une grande distance ; g pour un objet léger, kg pour un objet plus lourd.",
+    "Règle graduée : le zéro au début du segment ; si le bout est entre deux graduations, on encadre (entre 8 cm et 9 cm).",
+    "Pour comparer ou calculer, on écrit tout avec la même unité (2 kg et 100 g = 2 100 g ; 1 m + 46 cm = 146 cm).",
+    "Références : un paquet de sucre = 1 kg ; un sachet de levure = environ 10 g ; une trousse = environ 20 cm."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de centimètres y a-t-il dans 1 mètre ?",
+      "choices": [
+        "100 cm",
+        "10 cm",
+        "1 000 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "Un mètre est égal à 100 centimètres : 1 m = 100 cm."
+    },
+    {
+      "prompt": "Quelle unité est la mieux adaptée pour mesurer la distance entre deux villes voisines ?",
+      "choices": [
+        "Le centimètre",
+        "Le gramme",
+        "Le kilomètre"
+      ],
+      "correct_index": 2,
+      "explanation": "Pour une grande distance, on utilise le kilomètre. Le gramme sert à mesurer une masse, pas une longueur."
+    },
+    {
+      "prompt": "Combien font 1 m + 46 cm ?",
+      "choices": [
+        "56 cm",
+        "146 cm",
+        "1 046 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "1 m = 100 cm, donc 1 m + 46 cm = 100 cm + 46 cm = 146 cm."
+    },
+    {
+      "prompt": "Combien de grammes y a-t-il dans 1 kg ?",
+      "choices": [
+        "1 000 g",
+        "100 g",
+        "10 g"
+      ],
+      "correct_index": 0,
+      "explanation": "Un kilogramme est égal à 1 000 grammes : 1 kg = 1 000 g."
+    },
+    {
+      "prompt": "Parmi ces objets, lequel pèse environ 10 g ?",
+      "choices": [
+        "Un cartable rempli",
+        "Un sachet de levure",
+        "Un seau d’eau"
+      ],
+      "correct_index": 1,
+      "explanation": "Un sachet de levure pèse environ 10 g. Un cartable rempli ou un seau d’eau pèsent bien plus, en kilogrammes."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Complète : 1 m = … cm ; 3 m = … cm ; 1 km = … m ; 2 km = … m.",
+      "solution": "1 m = 100 cm ; 3 m = 300 cm ; 1 km = 1 000 m ; 2 km = 2 000 m.",
+      "success_criterion": "Trouver 100, 300, 1 000 et 2 000."
+    },
+    {
+      "prompt": "Choisis la meilleure unité (cm, m ou km) : la longueur d’un crayon ; la hauteur d’une porte ; la distance entre Paris et Lyon.",
+      "solution": "La longueur d’un crayon : en cm. La hauteur d’une porte : en m (environ 2 m). La distance entre Paris et Lyon : en km.",
+      "success_criterion": "Choisir cm, m puis km en justifiant par la taille de ce qu’on mesure."
+    },
+    {
+      "prompt": "Range du plus léger au plus lourd : 2 kg ; 1 500 g ; 900 g ; 1 kg et 200 g.",
+      "solution": "On écrit tout en grammes : 2 kg = 2 000 g ; 1 500 g ; 900 g ; 1 kg et 200 g = 1 200 g. Du plus léger au plus lourd : 900 g ; 1 kg et 200 g ; 1 500 g ; 2 kg.",
+      "success_criterion": "Convertir en grammes et ranger dans l’ordre 900 g, 1 kg et 200 g, 1 500 g, 2 kg."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Le bout d’un segment tombe entre la graduation 8 et la graduation 9 de ta règle. Explique comment tu mesures, puis encadre la longueur du segment.",
+      "solution": "Je place le zéro de la règle au début du segment et je regarde la graduation en face du bout. Le bout dépasse 8 cm mais n’atteint pas 9 cm : le segment mesure entre 8 cm et 9 cm.",
+      "success_criterion": "Placer le zéro à l’extrémité du segment et écrire l’encadrement « entre 8 cm et 9 cm »."
+    },
+    {
+      "prompt": "Une corde mesure 1 m. On en coupe un morceau de 35 cm. Combien de centimètres de corde reste-t-il ?",
+      "solution": "1 m = 100 cm. 100 − 35 = 65. Il reste 65 cm de corde.",
+      "success_criterion": "Convertir 1 m en 100 cm, calculer 100 − 35 = 65 et répondre avec l’unité (cm)."
+    },
+    {
+      "prompt": "Maman achète 2 kg de pommes et 500 g de raisins. Quelle est la masse totale en grammes ? Est-ce plus ou moins de 3 kg ?",
+      "solution": "2 kg = 2 000 g. 2 000 g + 500 g = 2 500 g. 3 kg = 3 000 g et 2 500 g < 3 000 g : la masse totale est de 2 500 g, c’est moins de 3 kg.",
+      "success_criterion": "Convertir 2 kg en 2 000 g, trouver 2 500 g et comparer avec 3 000 g."
+    }
+  ],
+  "audio_transcript": "Pour mesurer une longueur, on utilise le centimètre pour les petits objets, le mètre pour une pièce ou une cour, et le kilomètre pour les longues distances. Il faut savoir qu’un mètre, c’est cent centimètres, et qu’un kilomètre, c’est mille mètres. Un mètre plus quarante-six centimètres, cela fait cent-quarante-six centimètres. Avec une règle graduée, on place le zéro au début du segment et on lit le nombre au bout. Si le bout est entre deux graduations, on dit par exemple : le segment mesure entre huit et neuf centimètres. Pour les masses, on utilise le gramme et le kilogramme. Un kilogramme, c’est mille grammes. Un paquet de sucre pèse un kilogramme, un sachet de levure pèse environ dix grammes. Pour comparer des masses, on les écrit dans la même unité.",
+  "guided_explanation": "Imagine que tu comptes avec des règles de un mètre : sur une règle d’un mètre graduée en centimètres, il y a 100 petits traits, donc 1 m = 100 cm. Si tu mesures 1 m puis encore 46 cm, tu comptes 100 cm et 46 cm de plus : 146 cm. Pour les masses, imagine un gros paquet de sucre de 1 kg : si tu le partages en 1 000 toutes petites parts, chaque part pèse 1 g. Pour ranger 2 kg, 1 500 g et 900 g, ne mélange pas les unités : écris tout en grammes, 2 000 g, 1 500 g et 900 g. Tu vois alors que 900 est le plus petit nombre, donc la plus petite masse. Avant de choisir une unité, demande-toi : est-ce petit comme un crayon (cm), moyen comme une pièce (m), ou très long comme une route entre deux villes (km) ?"
+}

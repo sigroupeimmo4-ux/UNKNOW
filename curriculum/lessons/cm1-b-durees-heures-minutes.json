@@ -1,0 +1,129 @@
+{
+  "id": "cm1-b-durees-heures-minutes",
+  "title": "Lire l’heure et calculer des durées en heures et minutes",
+  "chapter_id": "cm1-b-durees-heures-minutes",
+  "program_id": "CM1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Lire l’heure sur une horloge à aiguilles et placer les aiguilles pour une heure donnée.",
+    "Convertir des minutes en heures et minutes (1 h = 60 min) et calculer une durée écoulée entre deux instants.",
+    "Résoudre des problèmes de durée en une ou deux étapes."
+  ],
+  "skill_ids": [
+    "cm1-b-durees-heures-minutes-lire-heure-skill",
+    "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+    "cm1-b-durees-heures-minutes-problemes-duree-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Lire l’heure sur une horloge à aiguilles",
+      "text": "La petite aiguille indique les heures et la grande aiguille indique les minutes. Quand la grande aiguille fait un tour complet du cadran, une heure s’est écoulée. Chaque nombre du cadran correspond à 5 minutes : grande aiguille sur le 3, il est « et quart » (15 minutes) ; sur le 6, « et demie » (30 minutes) ; sur le 9, « moins le quart » (45 minutes). Exemple : la petite aiguille est entre le 3 et le 4 et la grande aiguille est sur le 7 ; comme 7 × 5 = 35, il est 3 h 35, c’est-à-dire quatre heures moins vingt-cinq."
+    },
+    {
+      "title": "Les heures et les minutes",
+      "text": "Une heure vaut 60 minutes : on compte les minutes par soixante, pas par dix. Une demi-heure vaut 30 minutes et un quart d’heure vaut 15 minutes. Pour convertir : 2 h = 120 min ; 1 h 30 min = 60 + 30 = 90 min ; 75 min = 60 min + 15 min = 1 h 15 min."
+    },
+    {
+      "title": "Calculer une durée",
+      "text": "Pour trouver la durée entre deux instants, on peut passer par une heure ronde. Un film commence à 14 h 20 et se termine à 16 h 05. De 14 h 20 à 15 h, il y a 40 min ; de 15 h à 16 h, 1 h ; de 16 h à 16 h 05, 5 min. Durée totale : 1 h + 40 min + 5 min = 1 h 45 min. On vérifie : 14 h 20 + 1 h 45 min = 16 h 05. Pour un problème en deux étapes : un atelier commence à 10 h 15, dure 1 h 30, puis une pause de 20 min commence. À 10 h 15 + 1 h 30 = 11 h 45, la pause commence ; elle finit à 11 h 45 + 20 min = 12 h 05."
+    }
+  ],
+  "revision_sheet": [
+    "1 h = 60 min ; une demi-heure = 30 min ; un quart d’heure = 15 min.",
+    "Petite aiguille : les heures ; grande aiguille : les minutes (chaque nombre du cadran = 5 minutes).",
+    "On compte les minutes par soixante : 90 min = 1 h 30 min.",
+    "Une durée est le temps écoulé entre deux instants ; on peut passer par une heure ronde pour la calculer.",
+    "Pour vérifier : heure de début + durée = heure de fin."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de minutes y a-t-il dans 2 h 15 min ?",
+      "choices": [
+        "135 min",
+        "215 min",
+        "120 min"
+      ],
+      "correct_index": 0,
+      "explanation": "2 h = 120 min, et 120 + 15 = 135 min."
+    },
+    {
+      "prompt": "La petite aiguille est entre le 8 et le 9 et la grande aiguille est sur le 6. Quelle heure est-il ?",
+      "choices": [
+        "6 h 08",
+        "8 h 30",
+        "8 h 06"
+      ],
+      "correct_index": 1,
+      "explanation": "La petite aiguille indique 8 h passées ; la grande aiguille sur le 6 indique 6 × 5 = 30 minutes : il est 8 h 30."
+    },
+    {
+      "prompt": "Un film commence à 18 h 10 et dure 1 h 50 min. À quelle heure finit-il ?",
+      "choices": [
+        "19 h 50",
+        "20 h 10",
+        "20 h 00"
+      ],
+      "correct_index": 2,
+      "explanation": "18 h 10 + 1 h = 19 h 10, puis 19 h 10 + 50 min = 20 h 00."
+    },
+    {
+      "prompt": "Une récréation commence à 10 h 05 et finit à 10 h 25. Combien de temps dure-t-elle ?",
+      "choices": [
+        "20 min",
+        "30 min",
+        "25 min"
+      ],
+      "correct_index": 0,
+      "explanation": "De 10 h 05 à 10 h 25, il s’écoule 25 − 5 = 20 minutes."
+    },
+    {
+      "prompt": "Comment écrire 80 minutes en heures et minutes ?",
+      "choices": [
+        "1 h 08 min",
+        "1 h 20 min",
+        "1 h 80 min"
+      ],
+      "correct_index": 1,
+      "explanation": "80 min = 60 min + 20 min = 1 h 20 min. Les minutes se comptent par soixante : on ne peut pas écrire 80 minutes dans la partie « minutes »."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Convertis : 3 h en minutes ; 95 min en heures et minutes ; 150 min en heures et minutes.",
+      "solution": "3 h = 180 min ; 95 min = 60 min + 35 min = 1 h 35 min ; 150 min = 120 min + 30 min = 2 h 30 min.",
+      "success_criterion": "Utiliser 1 h = 60 min et décomposer les minutes en heures complètes et minutes restantes."
+    },
+    {
+      "prompt": "Un train part à 8 h 45 et arrive à 11 h 10. Quelle est la durée du trajet ?",
+      "solution": "De 8 h 45 à 9 h : 15 min ; de 9 h à 11 h : 2 h ; de 11 h à 11 h 10 : 10 min. Total : 2 h 25 min.",
+      "success_criterion": "Passer par des heures rondes et additionner les durées partielles."
+    },
+    {
+      "prompt": "Un cours commence à 13 h 40 et dure 55 min. À quelle heure finit-il ?",
+      "solution": "De 13 h 40 à 14 h : 20 min ; il reste 55 − 20 = 35 min. Le cours finit à 14 h 35.",
+      "success_criterion": "Compléter jusqu’à l’heure ronde, puis ajouter les minutes restantes."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Sur une horloge à aiguilles, où se trouvent la petite aiguille et la grande aiguille à 4 h 15 ?",
+      "solution": "La petite aiguille est un peu après le 4 et la grande aiguille est sur le 3, car 3 × 5 = 15 minutes.",
+      "success_criterion": "Placer la grande aiguille sur le 3 (15 minutes) et la petite aiguille juste après le 4."
+    },
+    {
+      "prompt": "Un spectacle commence à 15 h 50 et dure 1 h 40. Ensuite, un goûter de 25 min est organisé. À quelle heure finit le goûter ?",
+      "solution": "15 h 50 + 1 h = 16 h 50, puis 16 h 50 + 40 min = 17 h 30. Le goûter finit à 17 h 30 + 25 min = 17 h 55.",
+      "success_criterion": "Résoudre en deux étapes en ajoutant la durée du spectacle, puis celle du goûter."
+    },
+    {
+      "prompt": "Maya lit de 16 h 25 à 17 h 05, puis de 18 h 10 à 18 h 40. Combien de temps a-t-elle lu en tout ?",
+      "solution": "Première lecture : de 16 h 25 à 17 h 05, il s’écoule 40 min. Seconde lecture : de 18 h 10 à 18 h 40, 30 min. Total : 40 + 30 = 70 min, soit 1 h 10 min.",
+      "success_criterion": "Calculer chaque durée, les additionner, puis convertir en heures et minutes."
+    }
+  ],
+  "audio_transcript": "Sur une horloge à aiguilles, la petite aiguille montre les heures et la grande aiguille montre les minutes. Une heure, c’est soixante minutes : on compte par soixante et pas par dix. Une demi-heure, c’est trente minutes, et un quart d’heure, quinze minutes. Pour calculer une durée, on peut passer par une heure ronde. Un film commence à quatorze heures vingt et finit à seize heures cinq. De quatorze heures vingt à quinze heures, il y a quarante minutes. Puis une heure jusqu’à seize heures, et cinq minutes. Cela fait une heure quarante-cinq minutes.",
+  "guided_explanation": "Pour calculer une durée, imagine une ligne du temps. Place l’heure de début, puis avance jusqu’à la prochaine heure ronde : tu notes les minutes que tu as parcourues. Avance ensuite d’heure en heure jusqu’à l’heure de fin, puis ajoute les dernières minutes. Pour vérifier, pars de l’heure de début et ajoute la durée trouvée : tu dois retomber sur l’heure de fin. N’oublie pas qu’une heure a soixante minutes : si tu trouves quatre-vingts minutes, transforme-les en une heure et vingt minutes."
+}

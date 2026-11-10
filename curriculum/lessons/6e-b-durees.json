@@ -1,0 +1,134 @@
+{
+  "id": "6e-b-durees",
+  "title": "Horaires et durées : calculs et conversions",
+  "chapter_id": "6e-b-durees",
+  "program_id": "6e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Connaître les relations entre jour, heure, minute et seconde.",
+    "Calculer une durée entre deux horaires et un horaire final.",
+    "Additionner des durées en passant de 60 minutes à 1 heure.",
+    "Convertir une durée entre heures décimales et heures-minutes."
+  ],
+  "skill_ids": [
+    "6e-b-durees-skill-calculer",
+    "6e-b-durees-skill-convertir",
+    "6e-b-durees-skill-problemes"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les unités de durée",
+      "text": "1 jour = 24 h ; 1 h = 60 min ; 1 min = 60 s ; donc 1 h = 3 600 s. Une demi-heure = 30 min ; un quart d’heure = 15 min ; trois quarts d’heure = 45 min. Une année compte 365 jours (366 si elle est bissextile) ; un siècle = 100 ans ; un millénaire = 1 000 ans."
+    },
+    {
+      "title": "Calculer avec des horaires",
+      "text": "Pour trouver une durée entre deux horaires, passe par l’heure pleine. Un film commence à 14 h 50 et finit à 16 h 25 : de 14 h 50 à 15 h, il y a 10 min ; de 15 h à 16 h, 1 h ; de 16 h à 16 h 25, 25 min. Durée : 1 h + 10 min + 25 min = 1 h 35 min. Pour un horaire final : 8 h 45 + 2 h 30 = 10 h 75 min = 11 h 15."
+    },
+    {
+      "title": "Additionner des durées",
+      "text": "On additionne les heures d’un côté, les minutes de l’autre, puis on convertit : 1 h 45 min + 2 h 30 min = 3 h 75 min. Comme 75 min = 1 h 15 min, on obtient 4 h 15 min. Pour passer de minutes à heures-minutes, on fait une division euclidienne par 60 : 150 min, c’est 2 fois 60 plus 30, donc 2 h 30 min."
+    },
+    {
+      "title": "Heures décimales et heures-minutes",
+      "text": "Attention : le système des heures n’est pas décimal. 2,5 h = 2 h 30 min (car 0,5 h = 30 min). 1,25 h = 1 h 15 min (car 0,25 × 60 = 15). 0,75 h = 45 min. Et 2 h 12 min n’est pas 2,12 h : 12 min = 12 ÷ 60 = 0,2 h, donc 2 h 12 min = 2,2 h."
+    }
+  ],
+  "revision_sheet": [
+    "1 j = 24 h ; 1 h = 60 min ; 1 min = 60 s ; 1 h = 3 600 s.",
+    "30 min = une demi-heure ; 15 min = un quart d’heure ; 45 min = trois quarts d’heure.",
+    "Année : 365 j (366 si bissextile) ; siècle : 100 ans ; millénaire : 1 000 ans.",
+    "Durée entre deux horaires : passer par l’heure pleine ; 60 min = 1 h.",
+    "2,5 h = 2 h 30 min ; 0,25 h = 15 min : on multiplie la partie décimale par 60."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de minutes y a-t-il dans trois quarts d’heure ?",
+      "choices": [
+        "75 min",
+        "45 min",
+        "34 min"
+      ],
+      "correct_index": 1,
+      "explanation": "Un quart d’heure = 15 min, donc trois quarts d’heure = 3 × 15 = 45 min."
+    },
+    {
+      "prompt": "Un film commence à 14 h 50 et se termine à 16 h 25. Quelle est sa durée ?",
+      "choices": [
+        "1 h 35 min",
+        "2 h 25 min",
+        "1 h 25 min"
+      ],
+      "correct_index": 0,
+      "explanation": "14 h 50 → 15 h : 10 min ; 15 h → 16 h : 1 h ; 16 h → 16 h 25 : 25 min. Total : 1 h 35 min."
+    },
+    {
+      "prompt": "Combien font 1 h 45 min + 2 h 30 min ?",
+      "choices": [
+        "3 h 15 min",
+        "4 h 15 min",
+        "4 h 75 min"
+      ],
+      "correct_index": 1,
+      "explanation": "1 h + 2 h = 3 h et 45 min + 30 min = 75 min = 1 h 15 min. Total : 4 h 15 min."
+    },
+    {
+      "prompt": "2,5 h, c’est combien en heures et minutes ?",
+      "choices": [
+        "2 h 50 min",
+        "2 h 30 min",
+        "2 h 5 min"
+      ],
+      "correct_index": 1,
+      "explanation": "0,5 h est une demi-heure, donc 30 min : 2,5 h = 2 h 30 min."
+    },
+    {
+      "prompt": "Combien de jours compte une année bissextile ?",
+      "choices": [
+        "365 jours",
+        "364 jours",
+        "366 jours"
+      ],
+      "correct_index": 2,
+      "explanation": "Une année bissextile compte 366 jours, une année ordinaire 365."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Convertis : 150 min en h et min ; 3 h 20 min en minutes ; 1,25 h en h et min ; 2 min 15 s en secondes.",
+      "solution": "150 min = 2 h 30 min ; 3 h 20 min = 3 × 60 + 20 = 200 min ; 1,25 h = 1 h 15 min ; 2 min 15 s = 2 × 60 + 15 = 135 s.",
+      "success_criterion": "Utiliser 1 h = 60 min et 1 min = 60 s."
+    },
+    {
+      "prompt": "Un bus part à 7 h 50 et le trajet dure 1 h 35 min. À quelle heure arrive-t-il ?",
+      "solution": "7 h 50 + 1 h 35 = 8 h 85 = 9 h 25. Il arrive à 9 h 25.",
+      "success_criterion": "Additionner puis convertir 85 min en 1 h 25 min."
+    },
+    {
+      "prompt": "Un cours commence à 10 h 15 et finit à 11 h 05. Quelle est sa durée ?",
+      "solution": "De 10 h 15 à 11 h : 45 min ; de 11 h à 11 h 05 : 5 min. Durée : 50 min.",
+      "success_criterion": "Passer par l’heure pleine."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un film de 2 h 20 min commence à 20 h 45. À quelle heure se termine-t-il ?",
+      "solution": "20 h 45 + 2 h 20 = 22 h 65 = 23 h 05. Il se termine à 23 h 05.",
+      "success_criterion": "Convertir 65 min en 1 h 5 min."
+    },
+    {
+      "prompt": "Léa s’entraîne 45 min le lundi, 1 h 15 min le mercredi et 30 min le samedi. Quelle est la durée totale, en minutes puis en h et min ?",
+      "solution": "45 + 75 + 30 = 150 min, soit 2 h 30 min.",
+      "success_criterion": "Tout convertir en minutes, additionner, reconvertir."
+    },
+    {
+      "prompt": "Camille affirme que 2,3 h = 2 h 30 min. A-t-elle raison ? Justifie.",
+      "solution": "Non : 0,3 h = 0,3 × 60 = 18 min, donc 2,3 h = 2 h 18 min. Les heures ne fonctionnent pas en base dix : 2 h 30 min = 2,5 h.",
+      "success_criterion": "Multiplier la partie décimale par 60."
+    }
+  ],
+  "audio_transcript": "Une journée a vingt-quatre heures, une heure a soixante minutes et une minute a soixante secondes. Une demi-heure, c’est trente minutes ; un quart d’heure, quinze minutes ; trois quarts d’heure, quarante-cinq minutes. Pour calculer une durée entre deux horaires, passe par l’heure pleine. De quatorze heures cinquante à seize heures vingt-cinq, il y a dix minutes, plus une heure, plus vingt-cinq minutes : une heure trente-cinq. Pour additionner des durées, additionne séparément heures et minutes, puis convertis : soixante-quinze minutes, c’est une heure quinze. Attention, deux heures trente, c’est deux virgule cinq heures, pas deux virgule trente.",
+  "guided_explanation": "Pour un horaire final, utilise la méthode de l’heure pleine. Tu pars à 7 h 50 pour un trajet de 1 h 35. Va d’abord à 8 h : cela prend 10 min, il reste donc 1 h 25. Alors 8 h + 1 h 25 = 9 h 25. Pour les heures décimales, rappelle-toi que 1 h = 60 min : 0,5 h est la moitié de 60 min, donc 30 min. Pour 2,3 h, calcule 0,3 × 60 = 18 min : c’est 2 h 18 min."
+}

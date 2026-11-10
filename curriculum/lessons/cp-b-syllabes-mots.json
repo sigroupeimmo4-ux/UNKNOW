@@ -1,0 +1,107 @@
+{
+  "id": "cp-b-syllabes-mots",
+  "title": "Lire et écrire des syllabes et des mots",
+  "chapter_id": "cp-b-syllabes-mots",
+  "program_id": "CP-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Lire des syllabes puis des mots simples.",
+    "Découper un mot en syllabes.",
+    "Écrire un mot qu’on entend, syllabe après syllabe."
+  ],
+  "skill_ids": [
+    "cp-b-syllabes-mots-skill-lire",
+    "cp-b-syllabes-mots-skill-ecrire",
+    "cp-b-syllabes-mots-skill-muettes"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les lettres, les syllabes et les mots",
+      "text": "Les lettres font des sons. Avec des lettres, on fait des syllabes. Avec des syllabes, on fait des mots. Exemple : « lu » et « ne » font « lune »."
+    },
+    {
+      "title": "Lire un mot",
+      "text": "Lis chaque syllabe doucement. Puis relie les syllabes. a-mi : cela fait « ami ». ri-re : cela fait « rire ». Les petits mots « le » et « la » se lisent d’un seul coup."
+    },
+    {
+      "title": "Écrire un mot",
+      "text": "Dis le mot à voix basse. Coupe-le en syllabes : ma-re. Écris la première syllabe, puis la deuxième. Relis ton mot."
+    },
+    {
+      "title": "Une lettre qui ne se dit pas",
+      "text": "Parfois, une lettre à la fin d’un mot ne se dit pas. Dans « petit », on n’entend pas le t. Le sens du mot t’aide à bien le lire."
+    }
+  ],
+  "revision_sheet": [
+    "Les lettres font des sons ; les sons et les lettres font des syllabes ; les syllabes font des mots.",
+    "Je lis syllabe par syllabe, puis je relie : a-mi donne « ami ».",
+    "Pour écrire : je dis le mot, je le coupe en syllabes, j’écris, je relis.",
+    "Dans « petit », le t final ne se dit pas."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel mot lis-tu avec les syllabes « ma » et « re » ?",
+      "choices": [
+        "mare",
+        "mire",
+        "rame"
+      ],
+      "correct_index": 0,
+      "explanation": "ma + re se lit « mare »."
+    },
+    {
+      "prompt": "Combien y a-t-il de syllabes dans « ami » ?",
+      "choices": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_index": 1,
+      "explanation": "On dit a-mi : il y a deux syllabes."
+    },
+    {
+      "prompt": "Dans le mot « petit », quelle lettre à la fin ne se dit pas ?",
+      "choices": [
+        "p",
+        "t",
+        "i"
+      ],
+      "correct_index": 1,
+      "explanation": "On dit « pe-ti » : le t final est muet."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Relie les syllabes pour lire le mot : ri + re ; lu + ne ; ma + re.",
+      "solution": "rire ; lune ; mare.",
+      "success_criterion": "Lire chaque syllabe puis le mot entier."
+    },
+    {
+      "prompt": "Dis ces mots et compte les syllabes : lune, ami, la, rire.",
+      "solution": "lune : 2 (lu-ne) ; ami : 2 (a-mi) ; la : 1 ; rire : 2 (ri-re).",
+      "success_criterion": "Frapper ou compter correctement les syllabes."
+    },
+    {
+      "prompt": "Écris le mot « ami » en le coupant en syllabes.",
+      "solution": "a-mi, puis « ami ».",
+      "success_criterion": "Écrire « a » puis « mi » et relire le mot."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Lis ce mot : vé-lo. Écris-le en entier.",
+      "solution": "vélo (deux syllabes : vé et lo).",
+      "success_criterion": "Lire puis écrire « vélo » avec l’accent."
+    },
+    {
+      "prompt": "Dans « petit », quelle lettre à la fin ne se dit pas ? Explique.",
+      "solution": "Le t : on dit « pe-ti ».",
+      "success_criterion": "Désigner le t et dire qu’on ne l’entend pas."
+    }
+  ],
+  "audio_transcript": "Les lettres font des sons. Avec des lettres, on fait des syllabes. Avec des syllabes, on fait des mots. Lu et ne font lune. Pour lire, je lis chaque syllabe puis je relie. Pour écrire, je dis le mot, je le coupe en syllabes, j’écris et je relis. Dans petit, la lettre t à la fin ne se dit pas.",
+  "guided_explanation": "Imagine des briques. Une lettre est une petite brique. Avec des briques, tu fais une syllabe. Avec des syllabes, tu construis un mot. Pour lire lune, lis lu, puis ne, puis relie : lune. Pour écrire un mot, dis-le d’abord, coupe-le, écris chaque morceau et relis."
+}

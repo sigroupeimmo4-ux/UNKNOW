@@ -1,0 +1,1429 @@
+{
+  "programs": [
+    {
+      "id": "6e-mathematiques-commun",
+      "domains": [
+        {
+          "id": "grandeurs-mesures",
+          "title": "Grandeurs et mesures",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures (Les longueurs ; Les aires ; Le repérage dans le temps et les durées), pages 19–20 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "6e-b-longueurs-disque",
+              "title": "Longueurs : conversions et périmètre du disque",
+              "title_type": "editorial",
+              "official_section": "Grandeurs et mesures : les longueurs",
+              "notions": [
+                "Unités de longueur du kilomètre au millimètre et préfixes",
+                "Conversions d’une unité de longueur à une autre (en mètre et inversement)",
+                "Périmètre du disque : proportionnel au diamètre",
+                "Périmètre de figures composées"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-b-longueurs-disque-knowledge-unites",
+                  "text": "Les préfixes kilo-, hecto-, déca-, déci-, centi-, milli- expriment les relations entre le mètre, ses multiples et ses sous-multiples (1 km = 1 000 m ; 1 m = 10 dm = 100 cm = 1 000 mm), en lien avec la numération décimale.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-longueurs-disque-knowledge-disque",
+                  "text": "Le périmètre d’un disque est proportionnel à son diamètre : il est égal à π × diamètre (soit 2 × π × rayon), avec π ≈ 3,14.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-b-longueurs-disque-skill-convertir",
+                  "text": "Convertir en mètre une longueur donnée dans une autre unité, et inversement.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-longueurs-disque-skill-disque",
+                  "text": "Calculer le périmètre d’un disque à partir de son diamètre ou de son rayon.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-longueurs-disque-skill-composees",
+                  "text": "Calculer le périmètre d’une figure composée et résoudre un problème de longueurs.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+            },
+            {
+              "id": "6e-b-durees",
+              "title": "Horaires et durées : calculs et conversions",
+              "title_type": "editorial",
+              "official_section": "Grandeurs et mesures : le repérage dans le temps et les durées",
+              "notions": [
+                "Unités de durée (jour, heure, minute, seconde) et relations",
+                "Demi-heure, quart d’heure, trois quarts d’heure",
+                "Calculs sur des horaires et des durées",
+                "Conversions entre système décimal et système sexagésimal"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-b-durees-knowledge-unites",
+                  "text": "1 jour = 24 heures ; 1 heure = 60 minutes ; 1 minute = 60 secondes ; une demi-heure = 30 minutes, un quart d’heure = 15 minutes, trois quarts d’heure = 45 minutes ; une année a 365 jours (366 si elle est bissextile), un siècle 100 ans, un millénaire 1 000 ans.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-durees-knowledge-conversion",
+                  "text": "Les durées en heures et minutes suivent un système en base soixante : 0,25 h = 15 min et 2,5 h = 2 h 30 min ; on convertit en multipliant ou en divisant par 60.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-b-durees-skill-calculer",
+                  "text": "Calculer un horaire d’arrivée, de départ ou une durée écoulée.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-durees-skill-convertir",
+                  "text": "Convertir une durée entre heures-minutes et heures décimales, ou entre unités de durée.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-durees-skill-problemes",
+                  "text": "Résoudre des problèmes à une ou plusieurs étapes impliquant des durées.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "nombres-calculs",
+          "title": "Nombres et calculs",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, pages 13–16 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "6e-b-pourcentages",
+              "title": "Les pourcentages : sens, proportion et application",
+              "title_type": "editorial",
+              "official_section": "Les fractions : pourcentages",
+              "notions": [
+                "Définition d’un pourcentage (fraction de dénominateur 100)",
+                "Écritures : pourcentage, fraction, écriture à virgule",
+                "Calculer une proportion et l’exprimer en pourcentage (cas simples)",
+                "Appliquer un pourcentage à une grandeur ou à un nombre"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-b-pourcentages-knowledge-definition",
+                  "text": "Un pourcentage exprime une proportion sur 100 : t % est égal à la fraction t/100 (par exemple 25 % = 25/100 = 0,25 = 1/4).",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-pourcentages-knowledge-appliquer",
+                  "text": "Appliquer un pourcentage à une grandeur ou à un nombre revient à multiplier par la fraction correspondante : 25 % de 80 = 25/100 × 80 = 20.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-b-pourcentages-skill-sens",
+                  "text": "Associer un pourcentage à une fraction et à une écriture décimale.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-pourcentages-skill-proportion",
+                  "text": "Calculer une proportion dans des cas simples et l’exprimer sous forme de pourcentage.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-pourcentages-skill-appliquer",
+                  "text": "Appliquer un pourcentage à une grandeur ou à un nombre.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e-francais-commun",
+      "domains": [
+        {
+          "id": "vocabulaire",
+          "title": "Vocabulaire",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, page 15 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "6e-b-mots-derives-composes",
+              "title": "Mots simples, dérivés et composés ; synonymes et antonymes",
+              "title_type": "editorial",
+              "official_section": "Vocabulaire : établir des relations entre les mots",
+              "notions": [
+                "Mots simples, dérivés (préfixe, suffixe) et composés",
+                "Famille de mots et radical",
+                "Synonymes et antonymes de même classe grammaticale"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-b-mots-derives-composes-knowledge-formation",
+                  "text": "Un mot simple n’a qu’un élément ; un mot dérivé est formé d’un radical avec un préfixe ou un suffixe (défaire, joueur) ; un mot composé réunit plusieurs mots (porte-monnaie, chou-fleur).",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-mots-derives-composes-knowledge-relations",
+                  "text": "Un synonyme a un sens proche, un antonyme un sens contraire ; le synonyme ou l’antonyme d’un mot doit appartenir à la même classe grammaticale que ce mot.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-b-mots-derives-composes-skill-distinguer",
+                  "text": "Différencier les mots simples, dérivés et composés.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-mots-derives-composes-skill-decomposer",
+                  "text": "Décomposer un mot en radical, préfixe et suffixe, et en créer de nouveaux.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-mots-derives-composes-skill-relations",
+                  "text": "Donner des synonymes et des antonymes qui respectent la classe grammaticale du mot.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "grammaire-orthographe-grammaticale",
+          "title": "Grammaire et orthographe grammaticale",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, pages 20–21 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "6e-b-chaine-accords",
+              "title": "La chaîne d’accords dans le groupe nominal et l’accord sujet-verbe",
+              "title_type": "editorial",
+              "official_section": "Grammaire et orthographe grammaticale : acquérir l’orthographe grammaticale",
+              "notions": [
+                "Nom noyau et donneur d’accord dans le groupe nominal",
+                "Variations en genre et en nombre : déterminant, nom, adjectif",
+                "Accord du verbe avec son sujet",
+                "Variations du verbe et du nom (il élève / une élève)"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-b-chaine-accords-knowledge-chaine",
+                  "text": "Dans un groupe nominal, le déterminant et l’adjectif s’accordent en genre et en nombre avec le nom noyau, qui est le donneur d’accord.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-chaine-accords-knowledge-sujet-verbe",
+                  "text": "Le verbe s’accorde en personne et en nombre avec son sujet ; quand le sujet est un groupe nominal, on accorde avec son nom noyau.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-b-chaine-accords-skill-noyau",
+                  "text": "Repérer le nom noyau et réaliser la chaîne d’accords dans le groupe nominal.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-chaine-accords-skill-transformer",
+                  "text": "Transformer le genre et le nombre d’un groupe nominal en justifiant chaque variation.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-chaine-accords-skill-sujet-verbe",
+                  "text": "Identifier le groupe sujet pour accorder le verbe avec le nom noyau.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+            },
+            {
+              "id": "6e-b-imperatif-conditionnel",
+              "title": "L’impératif présent et le conditionnel présent",
+              "title_type": "editorial",
+              "official_section": "Grammaire et orthographe grammaticale : approfondir sa maîtrise de la conjugaison",
+              "notions": [
+                "Impératif présent : trois personnes, sans pronom sujet",
+                "Conditionnel présent : radical du futur + marques -r- et -i-",
+                "Conjugaison de être, avoir et de verbes des trois groupes (faire, aller, dire, venir, voir, prendre)",
+                "Variations du radical de certains verbes du 1er groupe"
+              ],
+              "knowledge": [
+                {
+                  "id": "6e-b-imperatif-conditionnel-knowledge-imperatif",
+                  "text": "L’impératif présent se conjugue à trois personnes seulement (tu, nous, vous), sans pronom sujet ; aux verbes en -er, la 2e personne du singulier ne prend pas de -s (chante, va).",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-imperatif-conditionnel-knowledge-conditionnel",
+                  "text": "Le conditionnel présent se forme avec le radical du futur suivi des terminaisons -ais, -ais, -ait, -ions, -iez, -aient ; ses marques de temps sont -r- puis -i-.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "6e-b-imperatif-conditionnel-skill-imperatif",
+                  "text": "Conjuguer à l’impératif présent les verbes être, avoir et des verbes des trois groupes.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-imperatif-conditionnel-skill-conditionnel",
+                  "text": "Conjuguer au conditionnel présent et en identifier les marques de temps.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                },
+                {
+                  "id": "6e-b-imperatif-conditionnel-skill-distinguer",
+                  "text": "Distinguer le futur du conditionnel présent et employer l’impératif et le conditionnel à bon escient.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "6e-b-longueurs-disque-course",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-longueurs-disque"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Connaître les relations entre le kilomètre, le mètre, le décimètre, le centimètre et le millimètre.",
+        "Convertir une longueur d’une unité à une autre.",
+        "Calculer le périmètre d’un disque avec la formule π × diamètre.",
+        "Calculer le périmètre d’une figure composée simple."
+      ],
+      "skill_ids": [
+        "6e-b-longueurs-disque-skill-convertir",
+        "6e-b-longueurs-disque-skill-disque",
+        "6e-b-longueurs-disque-skill-composees"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-longueurs-disque.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-longueurs-disque-revision_sheet",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-longueurs-disque"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Connaître les relations entre le kilomètre, le mètre, le décimètre, le centimètre et le millimètre.",
+        "Convertir une longueur d’une unité à une autre.",
+        "Calculer le périmètre d’un disque avec la formule π × diamètre.",
+        "Calculer le périmètre d’une figure composée simple."
+      ],
+      "skill_ids": [
+        "6e-b-longueurs-disque-skill-convertir",
+        "6e-b-longueurs-disque-skill-disque",
+        "6e-b-longueurs-disque-skill-composees"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-longueurs-disque.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-longueurs-disque-quiz",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-longueurs-disque"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Connaître les relations entre le kilomètre, le mètre, le décimètre, le centimètre et le millimètre.",
+        "Convertir une longueur d’une unité à une autre.",
+        "Calculer le périmètre d’un disque avec la formule π × diamètre.",
+        "Calculer le périmètre d’une figure composée simple."
+      ],
+      "skill_ids": [
+        "6e-b-longueurs-disque-skill-convertir",
+        "6e-b-longueurs-disque-skill-disque",
+        "6e-b-longueurs-disque-skill-composees"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-longueurs-disque.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-longueurs-disque-exercise",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-longueurs-disque"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Connaître les relations entre le kilomètre, le mètre, le décimètre, le centimètre et le millimètre.",
+        "Convertir une longueur d’une unité à une autre.",
+        "Calculer le périmètre d’un disque avec la formule π × diamètre.",
+        "Calculer le périmètre d’une figure composée simple."
+      ],
+      "skill_ids": [
+        "6e-b-longueurs-disque-skill-convertir",
+        "6e-b-longueurs-disque-skill-disque",
+        "6e-b-longueurs-disque-skill-composees"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-longueurs-disque.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-longueurs-disque-assessment",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-longueurs-disque"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Connaître les relations entre le kilomètre, le mètre, le décimètre, le centimètre et le millimètre.",
+        "Convertir une longueur d’une unité à une autre.",
+        "Calculer le périmètre d’un disque avec la formule π × diamètre.",
+        "Calculer le périmètre d’une figure composée simple."
+      ],
+      "skill_ids": [
+        "6e-b-longueurs-disque-skill-convertir",
+        "6e-b-longueurs-disque-skill-disque",
+        "6e-b-longueurs-disque-skill-composees"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-longueurs-disque.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-longueurs-disque-audio",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-longueurs-disque"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Connaître les relations entre le kilomètre, le mètre, le décimètre, le centimètre et le millimètre.",
+        "Convertir une longueur d’une unité à une autre.",
+        "Calculer le périmètre d’un disque avec la formule π × diamètre.",
+        "Calculer le périmètre d’une figure composée simple."
+      ],
+      "skill_ids": [
+        "6e-b-longueurs-disque-skill-convertir",
+        "6e-b-longueurs-disque-skill-disque",
+        "6e-b-longueurs-disque-skill-composees"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-longueurs-disque.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-longueurs-disque-assistant_explanation",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-longueurs-disque"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Connaître les relations entre le kilomètre, le mètre, le décimètre, le centimètre et le millimètre.",
+        "Convertir une longueur d’une unité à une autre.",
+        "Calculer le périmètre d’un disque avec la formule π × diamètre.",
+        "Calculer le périmètre d’une figure composée simple."
+      ],
+      "skill_ids": [
+        "6e-b-longueurs-disque-skill-convertir",
+        "6e-b-longueurs-disque-skill-disque",
+        "6e-b-longueurs-disque-skill-composees"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-longueurs-disque.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-durees-course",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-durees"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Connaître les relations entre jour, heure, minute et seconde.",
+        "Calculer une durée entre deux horaires et un horaire final.",
+        "Additionner des durées en passant de 60 minutes à 1 heure.",
+        "Convertir une durée entre heures décimales et heures-minutes."
+      ],
+      "skill_ids": [
+        "6e-b-durees-skill-calculer",
+        "6e-b-durees-skill-convertir",
+        "6e-b-durees-skill-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-durees-revision_sheet",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-durees"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Connaître les relations entre jour, heure, minute et seconde.",
+        "Calculer une durée entre deux horaires et un horaire final.",
+        "Additionner des durées en passant de 60 minutes à 1 heure.",
+        "Convertir une durée entre heures décimales et heures-minutes."
+      ],
+      "skill_ids": [
+        "6e-b-durees-skill-calculer",
+        "6e-b-durees-skill-convertir",
+        "6e-b-durees-skill-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-durees-quiz",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-durees"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Connaître les relations entre jour, heure, minute et seconde.",
+        "Calculer une durée entre deux horaires et un horaire final.",
+        "Additionner des durées en passant de 60 minutes à 1 heure.",
+        "Convertir une durée entre heures décimales et heures-minutes."
+      ],
+      "skill_ids": [
+        "6e-b-durees-skill-calculer",
+        "6e-b-durees-skill-convertir",
+        "6e-b-durees-skill-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-durees-exercise",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-durees"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Connaître les relations entre jour, heure, minute et seconde.",
+        "Calculer une durée entre deux horaires et un horaire final.",
+        "Additionner des durées en passant de 60 minutes à 1 heure.",
+        "Convertir une durée entre heures décimales et heures-minutes."
+      ],
+      "skill_ids": [
+        "6e-b-durees-skill-calculer",
+        "6e-b-durees-skill-convertir",
+        "6e-b-durees-skill-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-durees-assessment",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-durees"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Connaître les relations entre jour, heure, minute et seconde.",
+        "Calculer une durée entre deux horaires et un horaire final.",
+        "Additionner des durées en passant de 60 minutes à 1 heure.",
+        "Convertir une durée entre heures décimales et heures-minutes."
+      ],
+      "skill_ids": [
+        "6e-b-durees-skill-calculer",
+        "6e-b-durees-skill-convertir",
+        "6e-b-durees-skill-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-durees-audio",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-durees"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Connaître les relations entre jour, heure, minute et seconde.",
+        "Calculer une durée entre deux horaires et un horaire final.",
+        "Additionner des durées en passant de 60 minutes à 1 heure.",
+        "Convertir une durée entre heures décimales et heures-minutes."
+      ],
+      "skill_ids": [
+        "6e-b-durees-skill-calculer",
+        "6e-b-durees-skill-convertir",
+        "6e-b-durees-skill-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-durees-assistant_explanation",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-durees"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Connaître les relations entre jour, heure, minute et seconde.",
+        "Calculer une durée entre deux horaires et un horaire final.",
+        "Additionner des durées en passant de 60 minutes à 1 heure.",
+        "Convertir une durée entre heures décimales et heures-minutes."
+      ],
+      "skill_ids": [
+        "6e-b-durees-skill-calculer",
+        "6e-b-durees-skill-convertir",
+        "6e-b-durees-skill-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Le repérage dans le temps et les durées, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-pourcentages-course",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-pourcentages"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Comprendre qu’un pourcentage est une fraction de dénominateur 100.",
+        "Passer d’un pourcentage à une fraction et à un nombre décimal.",
+        "Exprimer une proportion simple sous forme de pourcentage.",
+        "Calculer un pourcentage d’une quantité."
+      ],
+      "skill_ids": [
+        "6e-b-pourcentages-skill-sens",
+        "6e-b-pourcentages-skill-proportion",
+        "6e-b-pourcentages-skill-appliquer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-pourcentages.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-pourcentages-revision_sheet",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-pourcentages"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Comprendre qu’un pourcentage est une fraction de dénominateur 100.",
+        "Passer d’un pourcentage à une fraction et à un nombre décimal.",
+        "Exprimer une proportion simple sous forme de pourcentage.",
+        "Calculer un pourcentage d’une quantité."
+      ],
+      "skill_ids": [
+        "6e-b-pourcentages-skill-sens",
+        "6e-b-pourcentages-skill-proportion",
+        "6e-b-pourcentages-skill-appliquer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-pourcentages.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-pourcentages-quiz",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-pourcentages"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Comprendre qu’un pourcentage est une fraction de dénominateur 100.",
+        "Passer d’un pourcentage à une fraction et à un nombre décimal.",
+        "Exprimer une proportion simple sous forme de pourcentage.",
+        "Calculer un pourcentage d’une quantité."
+      ],
+      "skill_ids": [
+        "6e-b-pourcentages-skill-sens",
+        "6e-b-pourcentages-skill-proportion",
+        "6e-b-pourcentages-skill-appliquer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-pourcentages.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-pourcentages-exercise",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-pourcentages"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Comprendre qu’un pourcentage est une fraction de dénominateur 100.",
+        "Passer d’un pourcentage à une fraction et à un nombre décimal.",
+        "Exprimer une proportion simple sous forme de pourcentage.",
+        "Calculer un pourcentage d’une quantité."
+      ],
+      "skill_ids": [
+        "6e-b-pourcentages-skill-sens",
+        "6e-b-pourcentages-skill-proportion",
+        "6e-b-pourcentages-skill-appliquer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-pourcentages.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-pourcentages-assessment",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-pourcentages"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Comprendre qu’un pourcentage est une fraction de dénominateur 100.",
+        "Passer d’un pourcentage à une fraction et à un nombre décimal.",
+        "Exprimer une proportion simple sous forme de pourcentage.",
+        "Calculer un pourcentage d’une quantité."
+      ],
+      "skill_ids": [
+        "6e-b-pourcentages-skill-sens",
+        "6e-b-pourcentages-skill-proportion",
+        "6e-b-pourcentages-skill-appliquer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-pourcentages.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-pourcentages-audio",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-pourcentages"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Comprendre qu’un pourcentage est une fraction de dénominateur 100.",
+        "Passer d’un pourcentage à une fraction et à un nombre décimal.",
+        "Exprimer une proportion simple sous forme de pourcentage.",
+        "Calculer un pourcentage d’une quantité."
+      ],
+      "skill_ids": [
+        "6e-b-pourcentages-skill-sens",
+        "6e-b-pourcentages-skill-proportion",
+        "6e-b-pourcentages-skill-appliquer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-pourcentages.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-pourcentages-assistant_explanation",
+      "program_id": "6e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-pourcentages"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Comprendre qu’un pourcentage est une fraction de dénominateur 100.",
+        "Passer d’un pourcentage à une fraction et à un nombre décimal.",
+        "Exprimer une proportion simple sous forme de pourcentage.",
+        "Calculer un pourcentage d’une quantité."
+      ],
+      "skill_ids": [
+        "6e-b-pourcentages-skill-sens",
+        "6e-b-pourcentages-skill-proportion",
+        "6e-b-pourcentages-skill-appliquer"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Les nombres entiers et décimaux ; Les fractions, Pourcentages, pages 14 et 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-pourcentages.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-mots-derives-composes-course",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-mots-derives-composes"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Distinguer un mot simple, un mot dérivé et un mot composé.",
+        "Repérer le radical, le préfixe et le suffixe d’un mot dérivé.",
+        "Retrouver les mots d’une même famille.",
+        "Donner un synonyme et un antonyme de la même classe grammaticale."
+      ],
+      "skill_ids": [
+        "6e-b-mots-derives-composes-skill-distinguer",
+        "6e-b-mots-derives-composes-skill-decomposer",
+        "6e-b-mots-derives-composes-skill-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-mots-derives-composes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-mots-derives-composes-revision_sheet",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-mots-derives-composes"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Distinguer un mot simple, un mot dérivé et un mot composé.",
+        "Repérer le radical, le préfixe et le suffixe d’un mot dérivé.",
+        "Retrouver les mots d’une même famille.",
+        "Donner un synonyme et un antonyme de la même classe grammaticale."
+      ],
+      "skill_ids": [
+        "6e-b-mots-derives-composes-skill-distinguer",
+        "6e-b-mots-derives-composes-skill-decomposer",
+        "6e-b-mots-derives-composes-skill-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-mots-derives-composes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-mots-derives-composes-quiz",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-mots-derives-composes"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Distinguer un mot simple, un mot dérivé et un mot composé.",
+        "Repérer le radical, le préfixe et le suffixe d’un mot dérivé.",
+        "Retrouver les mots d’une même famille.",
+        "Donner un synonyme et un antonyme de la même classe grammaticale."
+      ],
+      "skill_ids": [
+        "6e-b-mots-derives-composes-skill-distinguer",
+        "6e-b-mots-derives-composes-skill-decomposer",
+        "6e-b-mots-derives-composes-skill-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-mots-derives-composes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-mots-derives-composes-exercise",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-mots-derives-composes"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Distinguer un mot simple, un mot dérivé et un mot composé.",
+        "Repérer le radical, le préfixe et le suffixe d’un mot dérivé.",
+        "Retrouver les mots d’une même famille.",
+        "Donner un synonyme et un antonyme de la même classe grammaticale."
+      ],
+      "skill_ids": [
+        "6e-b-mots-derives-composes-skill-distinguer",
+        "6e-b-mots-derives-composes-skill-decomposer",
+        "6e-b-mots-derives-composes-skill-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-mots-derives-composes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-mots-derives-composes-assessment",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-mots-derives-composes"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Distinguer un mot simple, un mot dérivé et un mot composé.",
+        "Repérer le radical, le préfixe et le suffixe d’un mot dérivé.",
+        "Retrouver les mots d’une même famille.",
+        "Donner un synonyme et un antonyme de la même classe grammaticale."
+      ],
+      "skill_ids": [
+        "6e-b-mots-derives-composes-skill-distinguer",
+        "6e-b-mots-derives-composes-skill-decomposer",
+        "6e-b-mots-derives-composes-skill-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-mots-derives-composes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-mots-derives-composes-audio",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-mots-derives-composes"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Distinguer un mot simple, un mot dérivé et un mot composé.",
+        "Repérer le radical, le préfixe et le suffixe d’un mot dérivé.",
+        "Retrouver les mots d’une même famille.",
+        "Donner un synonyme et un antonyme de la même classe grammaticale."
+      ],
+      "skill_ids": [
+        "6e-b-mots-derives-composes-skill-distinguer",
+        "6e-b-mots-derives-composes-skill-decomposer",
+        "6e-b-mots-derives-composes-skill-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-mots-derives-composes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-mots-derives-composes-assistant_explanation",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-mots-derives-composes"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Distinguer un mot simple, un mot dérivé et un mot composé.",
+        "Repérer le radical, le préfixe et le suffixe d’un mot dérivé.",
+        "Retrouver les mots d’une même famille.",
+        "Donner un synonyme et un antonyme de la même classe grammaticale."
+      ],
+      "skill_ids": [
+        "6e-b-mots-derives-composes-skill-distinguer",
+        "6e-b-mots-derives-composes-skill-decomposer",
+        "6e-b-mots-derives-composes-skill-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Vocabulaire, Établir des relations entre les mots, page 15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-mots-derives-composes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-chaine-accords-course",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-chaine-accords"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Repérer le nom noyau d’un groupe nominal.",
+        "Accorder déterminant, nom et adjectif en genre et en nombre.",
+        "Trouver le sujet d’un verbe et accorder le verbe.",
+        "Distinguer les variations d’un verbe de celles d’un nom."
+      ],
+      "skill_ids": [
+        "6e-b-chaine-accords-skill-noyau",
+        "6e-b-chaine-accords-skill-transformer",
+        "6e-b-chaine-accords-skill-sujet-verbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-chaine-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-chaine-accords-revision_sheet",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-chaine-accords"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Repérer le nom noyau d’un groupe nominal.",
+        "Accorder déterminant, nom et adjectif en genre et en nombre.",
+        "Trouver le sujet d’un verbe et accorder le verbe.",
+        "Distinguer les variations d’un verbe de celles d’un nom."
+      ],
+      "skill_ids": [
+        "6e-b-chaine-accords-skill-noyau",
+        "6e-b-chaine-accords-skill-transformer",
+        "6e-b-chaine-accords-skill-sujet-verbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-chaine-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-chaine-accords-quiz",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-chaine-accords"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Repérer le nom noyau d’un groupe nominal.",
+        "Accorder déterminant, nom et adjectif en genre et en nombre.",
+        "Trouver le sujet d’un verbe et accorder le verbe.",
+        "Distinguer les variations d’un verbe de celles d’un nom."
+      ],
+      "skill_ids": [
+        "6e-b-chaine-accords-skill-noyau",
+        "6e-b-chaine-accords-skill-transformer",
+        "6e-b-chaine-accords-skill-sujet-verbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-chaine-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-chaine-accords-exercise",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-chaine-accords"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Repérer le nom noyau d’un groupe nominal.",
+        "Accorder déterminant, nom et adjectif en genre et en nombre.",
+        "Trouver le sujet d’un verbe et accorder le verbe.",
+        "Distinguer les variations d’un verbe de celles d’un nom."
+      ],
+      "skill_ids": [
+        "6e-b-chaine-accords-skill-noyau",
+        "6e-b-chaine-accords-skill-transformer",
+        "6e-b-chaine-accords-skill-sujet-verbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-chaine-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-chaine-accords-assessment",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-chaine-accords"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Repérer le nom noyau d’un groupe nominal.",
+        "Accorder déterminant, nom et adjectif en genre et en nombre.",
+        "Trouver le sujet d’un verbe et accorder le verbe.",
+        "Distinguer les variations d’un verbe de celles d’un nom."
+      ],
+      "skill_ids": [
+        "6e-b-chaine-accords-skill-noyau",
+        "6e-b-chaine-accords-skill-transformer",
+        "6e-b-chaine-accords-skill-sujet-verbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-chaine-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-chaine-accords-audio",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-chaine-accords"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Repérer le nom noyau d’un groupe nominal.",
+        "Accorder déterminant, nom et adjectif en genre et en nombre.",
+        "Trouver le sujet d’un verbe et accorder le verbe.",
+        "Distinguer les variations d’un verbe de celles d’un nom."
+      ],
+      "skill_ids": [
+        "6e-b-chaine-accords-skill-noyau",
+        "6e-b-chaine-accords-skill-transformer",
+        "6e-b-chaine-accords-skill-sujet-verbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-chaine-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-chaine-accords-assistant_explanation",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-chaine-accords"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Repérer le nom noyau d’un groupe nominal.",
+        "Accorder déterminant, nom et adjectif en genre et en nombre.",
+        "Trouver le sujet d’un verbe et accorder le verbe.",
+        "Distinguer les variations d’un verbe de celles d’un nom."
+      ],
+      "skill_ids": [
+        "6e-b-chaine-accords-skill-noyau",
+        "6e-b-chaine-accords-skill-transformer",
+        "6e-b-chaine-accords-skill-sujet-verbe"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-chaine-accords.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-imperatif-conditionnel-course",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-imperatif-conditionnel"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’impératif présent.",
+        "Conjuguer des verbes au conditionnel présent.",
+        "Identifier les marques de temps du conditionnel (-r- et -i-).",
+        "Distinguer futur et conditionnel présent."
+      ],
+      "skill_ids": [
+        "6e-b-imperatif-conditionnel-skill-imperatif",
+        "6e-b-imperatif-conditionnel-skill-conditionnel",
+        "6e-b-imperatif-conditionnel-skill-distinguer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-imperatif-conditionnel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-imperatif-conditionnel-revision_sheet",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-imperatif-conditionnel"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’impératif présent.",
+        "Conjuguer des verbes au conditionnel présent.",
+        "Identifier les marques de temps du conditionnel (-r- et -i-).",
+        "Distinguer futur et conditionnel présent."
+      ],
+      "skill_ids": [
+        "6e-b-imperatif-conditionnel-skill-imperatif",
+        "6e-b-imperatif-conditionnel-skill-conditionnel",
+        "6e-b-imperatif-conditionnel-skill-distinguer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-imperatif-conditionnel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-imperatif-conditionnel-quiz",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-imperatif-conditionnel"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’impératif présent.",
+        "Conjuguer des verbes au conditionnel présent.",
+        "Identifier les marques de temps du conditionnel (-r- et -i-).",
+        "Distinguer futur et conditionnel présent."
+      ],
+      "skill_ids": [
+        "6e-b-imperatif-conditionnel-skill-imperatif",
+        "6e-b-imperatif-conditionnel-skill-conditionnel",
+        "6e-b-imperatif-conditionnel-skill-distinguer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-imperatif-conditionnel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-imperatif-conditionnel-exercise",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-imperatif-conditionnel"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’impératif présent.",
+        "Conjuguer des verbes au conditionnel présent.",
+        "Identifier les marques de temps du conditionnel (-r- et -i-).",
+        "Distinguer futur et conditionnel présent."
+      ],
+      "skill_ids": [
+        "6e-b-imperatif-conditionnel-skill-imperatif",
+        "6e-b-imperatif-conditionnel-skill-conditionnel",
+        "6e-b-imperatif-conditionnel-skill-distinguer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-imperatif-conditionnel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-imperatif-conditionnel-assessment",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-imperatif-conditionnel"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’impératif présent.",
+        "Conjuguer des verbes au conditionnel présent.",
+        "Identifier les marques de temps du conditionnel (-r- et -i-).",
+        "Distinguer futur et conditionnel présent."
+      ],
+      "skill_ids": [
+        "6e-b-imperatif-conditionnel-skill-imperatif",
+        "6e-b-imperatif-conditionnel-skill-conditionnel",
+        "6e-b-imperatif-conditionnel-skill-distinguer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-imperatif-conditionnel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-imperatif-conditionnel-audio",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-imperatif-conditionnel"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’impératif présent.",
+        "Conjuguer des verbes au conditionnel présent.",
+        "Identifier les marques de temps du conditionnel (-r- et -i-).",
+        "Distinguer futur et conditionnel présent."
+      ],
+      "skill_ids": [
+        "6e-b-imperatif-conditionnel-skill-imperatif",
+        "6e-b-imperatif-conditionnel-skill-conditionnel",
+        "6e-b-imperatif-conditionnel-skill-distinguer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-imperatif-conditionnel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "6e-b-imperatif-conditionnel-assistant_explanation",
+      "program_id": "6e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "6e-b-imperatif-conditionnel"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’impératif présent.",
+        "Conjuguer des verbes au conditionnel présent.",
+        "Identifier les marques de temps du conditionnel (-r- et -i-).",
+        "Distinguer futur et conditionnel présent."
+      ],
+      "skill_ids": [
+        "6e-b-imperatif-conditionnel-skill-imperatif",
+        "6e-b-imperatif-conditionnel-skill-conditionnel",
+        "6e-b-imperatif-conditionnel-skill-distinguer"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Approfondir sa maîtrise de la conjugaison, page 21 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/6e-b-imperatif-conditionnel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

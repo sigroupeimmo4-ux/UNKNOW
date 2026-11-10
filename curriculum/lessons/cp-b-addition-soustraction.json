@@ -1,0 +1,103 @@
+{
+  "id": "cp-b-addition-soustraction",
+  "title": "Additionner et soustraire",
+  "chapter_id": "cp-b-addition-soustraction",
+  "program_id": "CP-mathematiques-commun",
+  "program_version": "cycle2-maths-2024-cp-v1",
+  "learning_objectives": [
+    "Comprendre l’addition et la soustraction avec les signes +, - et =.",
+    "Compléter des égalités comme 4 + … = 12.",
+    "Ajouter ou enlever 1, 2 ou 10 à un nombre."
+  ],
+  "skill_ids": [
+    "cp-b-addition-soustraction-skill-sens",
+    "cp-b-addition-soustraction-skill-tables",
+    "cp-b-addition-soustraction-skill-mental"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Ajouter et enlever",
+      "text": "Ajouter, c’est mettre ensemble. Enlever, c’est retirer. On écrit 3 + 4 = 7 et 7 - 4 = 3. Le signe = veut dire : « c’est pareil que »."
+    },
+    {
+      "title": "Additionner et soustraire vont ensemble",
+      "text": "Si 6 + 4 = 10, alors 10 - 4 = 6 et 10 - 6 = 4. Pour additionner, l’ordre ne change rien : 3 + 5 = 5 + 3. Pour soustraire, l’ordre compte : on part du plus grand nombre."
+    },
+    {
+      "title": "Calculer dans sa tête",
+      "text": "Pour ajouter 1, dis le nombre d’après. Pour enlever 2, enlève 1 puis encore 1 : 17 - 2 = 15. Ajouter 10, c’est ajouter une dizaine : 37 + 10 = 47. Enlever 10 : 37 - 10 = 27. Pour 4 + … = 12, cherche ce qu’il faut ajouter à 4 pour avoir 12 : c’est 8."
+    }
+  ],
+  "revision_sheet": [
+    "+ pour ajouter, - pour enlever, = pour dire « c’est pareil ».",
+    "Si 6 + 4 = 10, alors 10 - 4 = 6.",
+    "3 + 5 = 5 + 3, mais pour soustraire, l’ordre compte.",
+    "Ajouter 10 : une dizaine de plus (37 + 10 = 47)."
+  ],
+  "quiz": [
+    {
+      "prompt": "On sait que 6 + 4 = 10. Que vaut 10 - 4 ?",
+      "choices": [
+        "4",
+        "6",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "La soustraction est l’inverse de l’addition : 10 - 4 = 6."
+    },
+    {
+      "prompt": "Que vaut 37 + 10 ?",
+      "choices": [
+        "38",
+        "47",
+        "137"
+      ],
+      "correct_index": 1,
+      "explanation": "Ajouter 10, c’est ajouter une dizaine : 3 dizaines + 1 dizaine = 4 dizaines, donc 47."
+    },
+    {
+      "prompt": "Quel nombre complète 4 + … = 12 ?",
+      "choices": [
+        "6",
+        "8",
+        "16"
+      ],
+      "correct_index": 1,
+      "explanation": "4 + 8 = 12."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule : 17 - 2 ; 29 + 1 ; 52 + 10.",
+      "solution": "15 ; 30 ; 62.",
+      "success_criterion": "Utiliser le nombre d’avant, le nombre d’après ou la dizaine."
+    },
+    {
+      "prompt": "Complète : 5 + 3 = … ; 10 = 7 + … ; … + 6 = 9.",
+      "solution": "8 ; 3 ; 3.",
+      "success_criterion": "Trouver chaque nombre manquant."
+    },
+    {
+      "prompt": "Écris deux soustractions avec 5 + 3 = 8.",
+      "solution": "8 - 3 = 5 et 8 - 5 = 3.",
+      "success_criterion": "Utiliser le lien entre addition et soustraction."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Lila a 8 billes. Elle en perd 3. Combien en a-t-elle ? Écris le calcul.",
+      "solution": "8 - 3 = 5. Elle a 5 billes.",
+      "success_criterion": "Choisir la soustraction et écrire le calcul avec la réponse."
+    },
+    {
+      "prompt": "Complète : 4 + … = 12 et 37 - 10 = …",
+      "solution": "8 ; 27.",
+      "success_criterion": "Trouver 8 et 27."
+    }
+  ],
+  "audio_transcript": "Pour ajouter, on utilise le signe plus. Pour enlever, on utilise le signe moins. Le signe égal veut dire : c’est pareil que. Si six plus quatre font dix, alors dix moins quatre font six. Ajouter dix, c’est ajouter une dizaine. Trente-sept plus dix font quarante-sept.",
+  "guided_explanation": "Imagine des jetons. Tu as 6 jetons et tu en ajoutes 4 : tu en as 10. Si tu en enlèves 4, il t’en reste 6. Voilà pourquoi 6 + 4 = 10 et 10 - 4 = 6. Pour 37 + 10, ajoute un paquet de dix : 3 paquets deviennent 4 paquets, donc 47."
+}

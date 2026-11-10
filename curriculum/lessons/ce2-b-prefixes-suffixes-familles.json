@@ -1,0 +1,133 @@
+{
+  "id": "ce2-b-prefixes-suffixes-familles",
+  "title": "Préfixes, suffixes et familles de mots",
+  "chapter_id": "ce2-b-prefixes-suffixes-familles",
+  "program_id": "CE2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Repérer le radical, le préfixe et le suffixe d’un mot.",
+    "Utiliser les préfixes dé-, mal-, in- pour comprendre un mot.",
+    "Retrouver des mots de la même famille et leur classe grammaticale."
+  ],
+  "skill_ids": [
+    "ce2-b-prefixes-suffixes-familles-skill-sens",
+    "ce2-b-prefixes-suffixes-familles-skill-derives"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, pages 18-19 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Radical, préfixe et suffixe",
+      "text": "Beaucoup de mots sont construits avec plusieurs morceaux. Le radical porte le sens principal du mot. Le préfixe se place devant le radical, le suffixe se place après. Exemples : malhabile = mal- (préfixe) + habile ; chanteur = chant- (radical) + -eur (suffixe). Repérer ces morceaux aide à comprendre un mot nouveau."
+    },
+    {
+      "title": "Les préfixes à sens négatif",
+      "text": "Les préfixes dé-, mal- et in- donnent souvent un sens négatif ou contraire. Faire → défaire (le contraire de faire). Habile → malhabile (pas habile). Mobile → immobile (qui ne bouge pas) : devant p, b ou m, in- s’écrit im-, et possible → impossible. Un exemple plus long : déforestation signale qu’on enlève la forêt. Attention : tous les mots qui commencent par ces lettres ne sont pas construits ainsi : une malle n’est pas une « mauvaise alle » et un incendie n’est pas « pas cendie »."
+    },
+    {
+      "title": "Les familles de mots",
+      "text": "Des mots qui ont le même radical forment une famille de mots. La famille de lait comprend laitier, laiterie et laitage. Le mot laid, lui, n’en fait pas partie : il s’écrit presque pareil mais n’a aucun rapport de sens. Les mots d’une même famille ont souvent des classes différentes : observation est un nom, observer un verbe, observable un adjectif."
+    },
+    {
+      "title": "Deviner le sens d’un mot",
+      "text": "Pour comprendre un mot inconnu, on cherche le radical, le préfixe ou le suffixe qu’on connait, et on utilise la phrase autour. Dans « Ce singe est frugivore. Il se nourrit de mangues, de figues et de bananes. », la phrase t’indique que frugivore veut dire « qui mange des fruits ». On peut aussi chercher le mot dans le dictionnaire pour vérifier."
+    }
+  ],
+  "revision_sheet": [
+    "Le radical porte le sens principal ; le préfixe est devant le radical ; le suffixe est après.",
+    "dé-, mal-, in- (im- devant p, b, m) donnent souvent un sens négatif : défaire, malhabile, immobile, impossible.",
+    "Tous les mots qui commencent par ces lettres n’ont pas un préfixe (malle, incendie).",
+    "Des mots de la même famille partagent un radical : lait, laitier, laiterie. Laid n’en fait pas partie.",
+    "Dans une famille, les classes peuvent changer : observation (nom), observer (verbe), observable (adjectif).",
+    "Pour comprendre un mot, on s’aide de sa construction, de la phrase et du dictionnaire."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est le préfixe du mot « malhabile » ?",
+      "choices": [
+        "habile",
+        "mal-",
+        "-bile"
+      ],
+      "correct_index": 1,
+      "explanation": "Le mot est formé de mal- (préfixe) et du radical habile. Mal- donne un sens négatif : pas habile."
+    },
+    {
+      "prompt": "Que veut dire « immobile » ?",
+      "choices": [
+        "Qui bouge beaucoup",
+        "Qui peut bouger",
+        "Qui ne bouge pas"
+      ],
+      "correct_index": 2,
+      "explanation": "Le préfixe in- (im- devant m) a un sens négatif : immobile signifie « pas mobile », qui ne bouge pas."
+    },
+    {
+      "prompt": "Quel mot n’appartient pas à la famille du mot « lait » ?",
+      "choices": [
+        "laitier",
+        "laid",
+        "laiterie"
+      ],
+      "correct_index": 1,
+      "explanation": "Laitier et laiterie viennent de lait. Laid s’écrit presque pareil mais n’a aucun lien de sens avec lait."
+    },
+    {
+      "prompt": "Dans « chanteur », quel est le suffixe ?",
+      "choices": [
+        "-eur",
+        "chant-",
+        "-teur"
+      ],
+      "correct_index": 0,
+      "explanation": "Chanteur = chant- (radical) + -eur (suffixe)."
+    },
+    {
+      "prompt": "Quel verbe est de la même famille que le nom « observation » ?",
+      "choices": [
+        "observable",
+        "observateur",
+        "observer"
+      ],
+      "correct_index": 2,
+      "explanation": "Observer est le verbe. Observable est un adjectif et observateur est un nom."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Ajoute le préfixe dé-, mal- ou in- (im-) pour former le contraire : faire ; habile ; possible.",
+      "solution": "défaire ; malhabile ; impossible (devant p, in- s’écrit im-).",
+      "success_criterion": "Former défaire, malhabile et impossible avec le bon préfixe."
+    },
+    {
+      "prompt": "Quel est le radical commun à observer, observation et observable ? Donne la classe de chacun de ces mots.",
+      "solution": "Le radical commun est observ-. Observer : verbe ; observation : nom ; observable : adjectif.",
+      "success_criterion": "Trouver le radical observ- et nommer verbe, nom et adjectif."
+    },
+    {
+      "prompt": "Écris trois mots de la famille du mot « danse ».",
+      "solution": "Par exemple : danser, danseur, danseuse.",
+      "success_criterion": "Écrire trois mots qui contiennent le radical dans- et qui ont un lien de sens avec danse."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique le sens du mot « déforestation » en décomposant le mot.",
+      "solution": "Dé- est un préfixe à sens négatif : il indique qu’on enlève, le contraire. Forest- vient de forêt. Déforestation signifie donc enlever la forêt.",
+      "success_criterion": "Repérer le préfixe dé- et son sens négatif et en déduire le sens du mot."
+    },
+    {
+      "prompt": "Parmi immobile, impatient, immense et impossible, quel mot n’est pas formé avec un préfixe qui veut dire « pas » ? Justifie.",
+      "solution": "Immense. Immobile = pas mobile, impatient = pas patient, impossible = pas possible. Il n’existe pas de mot « mense » qui permette de comprendre immense de cette façon.",
+      "success_criterion": "Trouver immense et expliquer que les trois autres se comprennent avec in-/im- et un radical connu."
+    },
+    {
+      "prompt": "Complète la famille du verbe « porter » : un adjectif qui veut dire « qu’on peut porter » et un nom pour « personne qui porte ».",
+      "solution": "Adjectif : portable. Nom : porteur.",
+      "success_criterion": "Trouver portable et porteur, qui partagent le radical port-."
+    }
+  ],
+  "audio_transcript": "Beaucoup de mots sont construits en plusieurs morceaux. Le radical porte le sens principal. Le préfixe se place devant le radical, le suffixe se place après. Les préfixes dé, mal et in donnent souvent un sens négatif : défaire est le contraire de faire, malhabile veut dire pas habile, immobile veut dire qui ne bouge pas. Devant p, b ou m, in s’écrit im. Des mots qui partagent le même radical forment une famille : observer, observation, observable. Pour comprendre un mot nouveau, cherche ses morceaux, aide-toi de la phrase et vérifie dans le dictionnaire.",
+  "guided_explanation": "Face à un mot inconnu, joue au détective. D’abord, cherche un petit mot que tu connais à l’intérieur, c’est le radical. Ensuite, regarde le début : si tu vois dé-, mal- ou in-, pense à un sens négatif et vérifie avec la phrase. Regarde la fin pour trouver le suffixe, qui peut t’indiquer si le mot est un nom, un verbe ou un adjectif. Fais attention aux faux amis : laid ressemble à lait, mais n’a aucun rapport. Si tu as un doute, le dictionnaire te donne la réponse."
+}

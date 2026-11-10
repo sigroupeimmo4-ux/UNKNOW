@@ -1,0 +1,1817 @@
+{
+  "programs": [
+    {
+      "id": "CP-francais-commun",
+      "domains": [
+        {
+          "id": "lecture-ecriture",
+          "title": "Lecture et écriture",
+          "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture, page 5 ; Écriture, pages 9–10 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cp-b-syllabes-mots",
+              "title": "Lire et écrire des syllabes et des mots",
+              "title_type": "editorial",
+              "official_section": "Lecture : identifier les mots ; Écriture : encoder puis écrire sous dictée",
+              "notions": [
+                "Correspondances entre lettres et sons",
+                "Syllabes",
+                "Mots fréquents et réguliers",
+                "Lettres finales muettes",
+                "Écrire sous dictée"
+              ],
+              "knowledge": [
+                {
+                  "id": "cp-b-syllabes-mots-knowledge",
+                  "text": "En CP, l’élève apprend à déchiffrer des syllabes, des mots puis des phrases, et à encoder des syllabes puis des mots selon les correspondances entre lettres et sons étudiées ; il prend conscience de la présence de lettres finales muettes.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cp-b-syllabes-mots-skill-lire",
+                  "text": "Décoder des syllabes puis des mots simples en s’appuyant sur les correspondances entre lettres et sons apprises.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-syllabes-mots-skill-ecrire",
+                  "text": "Encoder des syllabes simples puis des mots, en segmentant la chaine orale en syllabes, et les écrire sous la dictée.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-syllabes-mots-skill-muettes",
+                  "text": "Repérer qu’une lettre finale peut être muette et s’appuyer sur le sens du mot pour le lire.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "grammaire-orthographe",
+          "title": "Grammaire et orthographe",
+          "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe, page 20 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cp-b-phrase",
+              "title": "Reconnaître et écrire une phrase",
+              "title_type": "editorial",
+              "official_section": "Grammaire et orthographe : se repérer dans la phrase simple",
+              "notions": [
+                "Phrase simple",
+                "Majuscule initiale",
+                "Ponctuation finale",
+                "Sens de la phrase",
+                "Ordre des mots"
+              ],
+              "knowledge": [
+                {
+                  "id": "cp-b-phrase-knowledge",
+                  "text": "Une phrase simple se reconnait à trois marqueurs essentiels : la majuscule initiale, la ponctuation finale forte et le sens.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cp-b-phrase-skill-marqueurs",
+                  "text": "Reconnaitre une phrase grâce à la majuscule initiale, à la ponctuation finale et au sens.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-phrase-skill-ordre",
+                  "text": "Ordonner et produire une phrase simple en plaçant les groupes de mots à la bonne place.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-phrase-skill-texte",
+                  "text": "Identifier les phrases d’un court texte à partir des majuscules et des différents points.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "vocabulaire",
+          "title": "Vocabulaire",
+          "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire, page 16 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cp-b-mots-sens",
+              "title": "Ranger les mots, contraires et familles de mots",
+              "title_type": "editorial",
+              "official_section": "Vocabulaire : établir des relations entre les mots",
+              "notions": [
+                "Mots d’un même thème",
+                "Mots de sens contraire",
+                "Familles de mots"
+              ],
+              "knowledge": [
+                {
+                  "id": "cp-b-mots-sens-knowledge",
+                  "text": "On peut regrouper des mots par thème, trouver des mots de sens contraire (lourd/léger) et rapprocher des mots d’une même famille (chant/chanter).",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cp-b-mots-sens-skill-themes",
+                  "text": "Regrouper des mots ou des images associées par thème et expliquer son choix.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-mots-sens-skill-contraires",
+                  "text": "Associer des mots de sens contraire.",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-mots-sens-skill-familles",
+                  "text": "Associer le nom et le verbe d’une même famille de mots (chant/chanter, dormeur/dormir) ou repérer des dérivations simples (coller/décoller/recoller).",
+                  "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP-histoire-geographie-commun",
+      "domains": [
+        {
+          "id": "histoire",
+          "title": "Histoire : se repérer dans le temps",
+          "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2, page 3 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cp-b-hg-calendrier",
+              "title": "Se repérer dans le temps : la semaine, l’année et le calendrier",
+              "title_type": "editorial",
+              "official_section": "Histoire — Thème 2 : Les représentations humaines du temps",
+              "notions": [
+                "Année, mois, semaine, jour, heure",
+                "Jours de la semaine",
+                "Calendrier",
+                "Outils pour mesurer le temps"
+              ],
+              "knowledge": [
+                {
+                  "id": "cp-b-hg-calendrier-knowledge",
+                  "text": "L’année est divisée en 12 mois, le mois en semaines, la semaine en 7 jours et la journée en 24 heures ; le calendrier et des outils (sablier, pendule, montre, réveil) permettent de se repérer dans le temps et de le mesurer.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cp-b-hg-calendrier-skill-structure",
+                  "text": "Savoir que l’année est divisée en mois, le mois en semaines, la semaine en jours, la journée en heures.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-hg-calendrier-skill-jours",
+                  "text": "Repérer, ordonner et nommer les jours de la semaine.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-hg-calendrier-skill-outils",
+                  "text": "Utiliser un calendrier et observer des outils de mesure du temps (sablier, pendule, montre, réveil).",
+                  "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "geographie",
+          "title": "Géographie : se repérer dans l’espace",
+          "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Thème 1 : Autour de l’école, page 6 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cp-b-hg-ecole",
+              "title": "Se repérer dans la classe et dans l’école",
+              "title_type": "editorial",
+              "official_section": "Géographie — Thème 1 : Autour de l’école",
+              "notions": [
+                "Éléments de la classe et de l’école",
+                "Positions : gauche, droite, au-dessus, en dessous, devant, derrière, à côté",
+                "Plan de la classe",
+                "Trajet"
+              ],
+              "knowledge": [
+                {
+                  "id": "cp-b-hg-ecole-knowledge",
+                  "text": "L’espace se représente : on peut faire le plan de la classe, nommer les lieux de l’école, et utiliser des mots de position (à gauche, à droite, devant, derrière…) pour se repérer.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cp-b-hg-ecole-skill-lieux",
+                  "text": "Décrire l’usage des différents lieux de l’école (classe, cour de récréation, couloirs, sanitaires, réfectoire, portail).",
+                  "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-hg-ecole-skill-positions",
+                  "text": "Nommer les éléments de la classe et les situer les uns par rapport aux autres avec les termes de position.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-hg-ecole-skill-plan",
+                  "text": "Faire le plan de la classe et décrire ou représenter un trajet entre un lieu proche (par exemple le domicile) et l’école.",
+                  "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP-mathematiques-commun",
+      "domains": [
+        {
+          "id": "nombres-calcul-problemes",
+          "title": "Nombres, calcul et résolution de problèmes",
+          "source_locator": "Annexe 4, pages 5–6, Cours préparatoire / Les quatre opérations ; Le calcul mental",
+          "chapters": [
+            {
+              "id": "cp-b-addition-soustraction",
+              "title": "Additionner et soustraire",
+              "title_type": "editorial",
+              "official_section": "Les quatre opérations ; Le calcul mental",
+              "notions": [
+                "Sens de l’addition et de la soustraction",
+                "Symboles +, - et =",
+                "Tables d’addition",
+                "Ajouter ou soustraire 1, 2 ou 10"
+              ],
+              "knowledge": [
+                {
+                  "id": "cp-b-addition-soustraction-knowledge",
+                  "text": "L’addition et la soustraction se notent avec les symboles « + », « - » et « = » ; la soustraction est l’opération inverse de l’addition ; l’ordre des termes n’a pas d’importance pour l’addition, mais en a pour la soustraction.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cp-b-addition-soustraction-skill-sens",
+                  "text": "Comprendre le sens de l’addition et de la soustraction et utiliser les symboles « + », « - » et « = ».",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-addition-soustraction-skill-tables",
+                  "text": "Connaitre dans les deux sens les tables d’addition et compléter des égalités à trou.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-addition-soustraction-skill-mental",
+                  "text": "Ajouter ou soustraire 1, 2 ou 10 à un nombre.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "espace-geometrie",
+          "title": "Espace et géométrie",
+          "source_locator": "Annexe 4, page 32, Cours préparatoire / Espace et géométrie — La géométrie plane",
+          "chapters": [
+            {
+              "id": "cp-b-formes-planes",
+              "title": "Reconnaître le disque, le carré, le rectangle et le triangle",
+              "title_type": "editorial",
+              "official_section": "Espace et géométrie : la géométrie plane",
+              "notions": [
+                "Disque, carré, rectangle, triangle",
+                "Sommet et côté",
+                "Longueurs de côtés égales"
+              ],
+              "knowledge": [
+                {
+                  "id": "cp-b-formes-planes-knowledge",
+                  "text": "Le disque, le carré, le rectangle et le triangle se reconnaissent et se nomment ; le triangle, le carré et le rectangle se décrivent avec les mots « sommet » et « côté ».",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cp-b-formes-planes-skill-reconnaitre",
+                  "text": "Reconnaitre et nommer le disque, le carré, le rectangle et le triangle dans un assemblage et dans l’environnement proche.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-formes-planes-skill-decrire",
+                  "text": "Décrire un carré, un rectangle ou un triangle avec les termes « sommet » et « côté » (nombre de côtés, côtés de même longueur).",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "grandeurs-mesures",
+          "title": "Grandeurs et mesures",
+          "source_locator": "Annexe 4, pages 25–26, Cours préparatoire / Grandeurs et mesures — Les longueurs",
+          "chapters": [
+            {
+              "id": "cp-b-longueurs",
+              "title": "Comparer et mesurer des longueurs",
+              "title_type": "editorial",
+              "official_section": "Grandeurs et mesures : les longueurs",
+              "notions": [
+                "Long, court, près, loin",
+                "Comparer des objets selon leur longueur",
+                "Règle graduée",
+                "Mètre et centimètre"
+              ],
+              "knowledge": [
+                {
+                  "id": "cp-b-longueurs-knowledge",
+                  "text": "On compare des longueurs en superposant des objets ou avec une ficelle, on mesure un segment avec une règle graduée, et un mètre est égal à cent centimètres.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cp-b-longueurs-skill-comparer",
+                  "text": "Comparer des objets ou des segments selon leur longueur et ordonner jusqu’à cinq objets.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-longueurs-skill-regle",
+                  "text": "Mesurer la longueur d’un segment avec une règle graduée en centimètres.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+                },
+                {
+                  "id": "cp-b-longueurs-skill-unites",
+                  "text": "Connaitre les unités mètre et centimètre (m et cm) et savoir qu’un mètre est égal à cent centimètres.",
+                  "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "cp-b-syllabes-mots-course",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-syllabes-mots"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Lire des syllabes puis des mots simples.",
+        "Découper un mot en syllabes.",
+        "Écrire un mot qu’on entend, syllabe après syllabe."
+      ],
+      "skill_ids": [
+        "cp-b-syllabes-mots-skill-lire",
+        "cp-b-syllabes-mots-skill-ecrire",
+        "cp-b-syllabes-mots-skill-muettes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-syllabes-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-syllabes-mots-revision_sheet",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-syllabes-mots"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Lire des syllabes puis des mots simples.",
+        "Découper un mot en syllabes.",
+        "Écrire un mot qu’on entend, syllabe après syllabe."
+      ],
+      "skill_ids": [
+        "cp-b-syllabes-mots-skill-lire",
+        "cp-b-syllabes-mots-skill-ecrire",
+        "cp-b-syllabes-mots-skill-muettes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-syllabes-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-syllabes-mots-quiz",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-syllabes-mots"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Lire des syllabes puis des mots simples.",
+        "Découper un mot en syllabes.",
+        "Écrire un mot qu’on entend, syllabe après syllabe."
+      ],
+      "skill_ids": [
+        "cp-b-syllabes-mots-skill-lire",
+        "cp-b-syllabes-mots-skill-ecrire",
+        "cp-b-syllabes-mots-skill-muettes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-syllabes-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-syllabes-mots-exercise",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-syllabes-mots"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Lire des syllabes puis des mots simples.",
+        "Découper un mot en syllabes.",
+        "Écrire un mot qu’on entend, syllabe après syllabe."
+      ],
+      "skill_ids": [
+        "cp-b-syllabes-mots-skill-lire",
+        "cp-b-syllabes-mots-skill-ecrire",
+        "cp-b-syllabes-mots-skill-muettes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-syllabes-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-syllabes-mots-assessment",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-syllabes-mots"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Lire des syllabes puis des mots simples.",
+        "Découper un mot en syllabes.",
+        "Écrire un mot qu’on entend, syllabe après syllabe."
+      ],
+      "skill_ids": [
+        "cp-b-syllabes-mots-skill-lire",
+        "cp-b-syllabes-mots-skill-ecrire",
+        "cp-b-syllabes-mots-skill-muettes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-syllabes-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-syllabes-mots-audio",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-syllabes-mots"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Lire des syllabes puis des mots simples.",
+        "Découper un mot en syllabes.",
+        "Écrire un mot qu’on entend, syllabe après syllabe."
+      ],
+      "skill_ids": [
+        "cp-b-syllabes-mots-skill-lire",
+        "cp-b-syllabes-mots-skill-ecrire",
+        "cp-b-syllabes-mots-skill-muettes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-syllabes-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-syllabes-mots-assistant_explanation",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-syllabes-mots"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Lire des syllabes puis des mots simples.",
+        "Découper un mot en syllabes.",
+        "Écrire un mot qu’on entend, syllabe après syllabe."
+      ],
+      "skill_ids": [
+        "cp-b-syllabes-mots-skill-lire",
+        "cp-b-syllabes-mots-skill-ecrire",
+        "cp-b-syllabes-mots-skill-muettes"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Lecture — Identifier les mots de manière de plus en plus aisée, page 5 ; Écriture — Encoder puis écrire sous dictée, pages 9–10 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-syllabes-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-phrase-course",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-phrase"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître une phrase avec la majuscule, le point et le sens.",
+        "Remettre des mots dans l’ordre pour faire une phrase.",
+        "Écrire une phrase avec une majuscule et un point."
+      ],
+      "skill_ids": [
+        "cp-b-phrase-skill-marqueurs",
+        "cp-b-phrase-skill-ordre",
+        "cp-b-phrase-skill-texte"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-phrase-revision_sheet",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-phrase"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître une phrase avec la majuscule, le point et le sens.",
+        "Remettre des mots dans l’ordre pour faire une phrase.",
+        "Écrire une phrase avec une majuscule et un point."
+      ],
+      "skill_ids": [
+        "cp-b-phrase-skill-marqueurs",
+        "cp-b-phrase-skill-ordre",
+        "cp-b-phrase-skill-texte"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-phrase-quiz",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-phrase"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître une phrase avec la majuscule, le point et le sens.",
+        "Remettre des mots dans l’ordre pour faire une phrase.",
+        "Écrire une phrase avec une majuscule et un point."
+      ],
+      "skill_ids": [
+        "cp-b-phrase-skill-marqueurs",
+        "cp-b-phrase-skill-ordre",
+        "cp-b-phrase-skill-texte"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-phrase-exercise",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-phrase"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître une phrase avec la majuscule, le point et le sens.",
+        "Remettre des mots dans l’ordre pour faire une phrase.",
+        "Écrire une phrase avec une majuscule et un point."
+      ],
+      "skill_ids": [
+        "cp-b-phrase-skill-marqueurs",
+        "cp-b-phrase-skill-ordre",
+        "cp-b-phrase-skill-texte"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-phrase-assessment",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-phrase"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître une phrase avec la majuscule, le point et le sens.",
+        "Remettre des mots dans l’ordre pour faire une phrase.",
+        "Écrire une phrase avec une majuscule et un point."
+      ],
+      "skill_ids": [
+        "cp-b-phrase-skill-marqueurs",
+        "cp-b-phrase-skill-ordre",
+        "cp-b-phrase-skill-texte"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-phrase-audio",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-phrase"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître une phrase avec la majuscule, le point et le sens.",
+        "Remettre des mots dans l’ordre pour faire une phrase.",
+        "Écrire une phrase avec une majuscule et un point."
+      ],
+      "skill_ids": [
+        "cp-b-phrase-skill-marqueurs",
+        "cp-b-phrase-skill-ordre",
+        "cp-b-phrase-skill-texte"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-phrase-assistant_explanation",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-phrase"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître une phrase avec la majuscule, le point et le sens.",
+        "Remettre des mots dans l’ordre pour faire une phrase.",
+        "Écrire une phrase avec une majuscule et un point."
+      ],
+      "skill_ids": [
+        "cp-b-phrase-skill-marqueurs",
+        "cp-b-phrase-skill-ordre",
+        "cp-b-phrase-skill-texte"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Grammaire et orthographe — Se repérer dans la phrase simple, page 20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-phrase.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-mots-sens-course",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-mots-sens"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Ranger des mots par thème.",
+        "Trouver des mots de sens contraire.",
+        "Reconnaître des mots de la même famille."
+      ],
+      "skill_ids": [
+        "cp-b-mots-sens-skill-themes",
+        "cp-b-mots-sens-skill-contraires",
+        "cp-b-mots-sens-skill-familles"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-mots-sens.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-mots-sens-revision_sheet",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-mots-sens"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Ranger des mots par thème.",
+        "Trouver des mots de sens contraire.",
+        "Reconnaître des mots de la même famille."
+      ],
+      "skill_ids": [
+        "cp-b-mots-sens-skill-themes",
+        "cp-b-mots-sens-skill-contraires",
+        "cp-b-mots-sens-skill-familles"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-mots-sens.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-mots-sens-quiz",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-mots-sens"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Ranger des mots par thème.",
+        "Trouver des mots de sens contraire.",
+        "Reconnaître des mots de la même famille."
+      ],
+      "skill_ids": [
+        "cp-b-mots-sens-skill-themes",
+        "cp-b-mots-sens-skill-contraires",
+        "cp-b-mots-sens-skill-familles"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-mots-sens.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-mots-sens-exercise",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-mots-sens"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Ranger des mots par thème.",
+        "Trouver des mots de sens contraire.",
+        "Reconnaître des mots de la même famille."
+      ],
+      "skill_ids": [
+        "cp-b-mots-sens-skill-themes",
+        "cp-b-mots-sens-skill-contraires",
+        "cp-b-mots-sens-skill-familles"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-mots-sens.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-mots-sens-assessment",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-mots-sens"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Ranger des mots par thème.",
+        "Trouver des mots de sens contraire.",
+        "Reconnaître des mots de la même famille."
+      ],
+      "skill_ids": [
+        "cp-b-mots-sens-skill-themes",
+        "cp-b-mots-sens-skill-contraires",
+        "cp-b-mots-sens-skill-familles"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-mots-sens.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-mots-sens-audio",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-mots-sens"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Ranger des mots par thème.",
+        "Trouver des mots de sens contraire.",
+        "Reconnaître des mots de la même famille."
+      ],
+      "skill_ids": [
+        "cp-b-mots-sens-skill-themes",
+        "cp-b-mots-sens-skill-contraires",
+        "cp-b-mots-sens-skill-familles"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-mots-sens.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-mots-sens-assistant_explanation",
+      "program_id": "CP-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-mots-sens"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Ranger des mots par thème.",
+        "Trouver des mots de sens contraire.",
+        "Reconnaître des mots de la même famille."
+      ],
+      "skill_ids": [
+        "cp-b-mots-sens-skill-themes",
+        "cp-b-mots-sens-skill-contraires",
+        "cp-b-mots-sens-skill-familles"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-mots-sens.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-calendrier-course",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-calendrier"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Dire que l’année a 12 mois, la semaine 7 jours et la journée 24 heures.",
+        "Nommer les jours de la semaine dans l’ordre.",
+        "Utiliser le calendrier et des outils pour mesurer le temps."
+      ],
+      "skill_ids": [
+        "cp-b-hg-calendrier-skill-structure",
+        "cp-b-hg-calendrier-skill-jours",
+        "cp-b-hg-calendrier-skill-outils"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-calendrier.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-calendrier-revision_sheet",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-calendrier"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Dire que l’année a 12 mois, la semaine 7 jours et la journée 24 heures.",
+        "Nommer les jours de la semaine dans l’ordre.",
+        "Utiliser le calendrier et des outils pour mesurer le temps."
+      ],
+      "skill_ids": [
+        "cp-b-hg-calendrier-skill-structure",
+        "cp-b-hg-calendrier-skill-jours",
+        "cp-b-hg-calendrier-skill-outils"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-calendrier.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-calendrier-quiz",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-calendrier"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Dire que l’année a 12 mois, la semaine 7 jours et la journée 24 heures.",
+        "Nommer les jours de la semaine dans l’ordre.",
+        "Utiliser le calendrier et des outils pour mesurer le temps."
+      ],
+      "skill_ids": [
+        "cp-b-hg-calendrier-skill-structure",
+        "cp-b-hg-calendrier-skill-jours",
+        "cp-b-hg-calendrier-skill-outils"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-calendrier.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-calendrier-exercise",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-calendrier"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Dire que l’année a 12 mois, la semaine 7 jours et la journée 24 heures.",
+        "Nommer les jours de la semaine dans l’ordre.",
+        "Utiliser le calendrier et des outils pour mesurer le temps."
+      ],
+      "skill_ids": [
+        "cp-b-hg-calendrier-skill-structure",
+        "cp-b-hg-calendrier-skill-jours",
+        "cp-b-hg-calendrier-skill-outils"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-calendrier.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-calendrier-assessment",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-calendrier"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Dire que l’année a 12 mois, la semaine 7 jours et la journée 24 heures.",
+        "Nommer les jours de la semaine dans l’ordre.",
+        "Utiliser le calendrier et des outils pour mesurer le temps."
+      ],
+      "skill_ids": [
+        "cp-b-hg-calendrier-skill-structure",
+        "cp-b-hg-calendrier-skill-jours",
+        "cp-b-hg-calendrier-skill-outils"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-calendrier.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-calendrier-audio",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-calendrier"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Dire que l’année a 12 mois, la semaine 7 jours et la journée 24 heures.",
+        "Nommer les jours de la semaine dans l’ordre.",
+        "Utiliser le calendrier et des outils pour mesurer le temps."
+      ],
+      "skill_ids": [
+        "cp-b-hg-calendrier-skill-structure",
+        "cp-b-hg-calendrier-skill-jours",
+        "cp-b-hg-calendrier-skill-outils"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-calendrier.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-calendrier-assistant_explanation",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-calendrier"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Dire que l’année a 12 mois, la semaine 7 jours et la journée 24 heures.",
+        "Nommer les jours de la semaine dans l’ordre.",
+        "Utiliser le calendrier et des outils pour mesurer le temps."
+      ],
+      "skill_ids": [
+        "cp-b-hg-calendrier-skill-structure",
+        "cp-b-hg-calendrier-skill-jours",
+        "cp-b-hg-calendrier-skill-outils"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Histoire — Thème 2 : Les représentations humaines du temps, page 3 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-calendrier.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-ecole-course",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-ecole"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Nommer et décrire les lieux de l’école.",
+        "Dire où se trouve un objet avec les mots de position.",
+        "Comprendre à quoi sert un plan."
+      ],
+      "skill_ids": [
+        "cp-b-hg-ecole-skill-lieux",
+        "cp-b-hg-ecole-skill-positions",
+        "cp-b-hg-ecole-skill-plan"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-ecole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-ecole-revision_sheet",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-ecole"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Nommer et décrire les lieux de l’école.",
+        "Dire où se trouve un objet avec les mots de position.",
+        "Comprendre à quoi sert un plan."
+      ],
+      "skill_ids": [
+        "cp-b-hg-ecole-skill-lieux",
+        "cp-b-hg-ecole-skill-positions",
+        "cp-b-hg-ecole-skill-plan"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-ecole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-ecole-quiz",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-ecole"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Nommer et décrire les lieux de l’école.",
+        "Dire où se trouve un objet avec les mots de position.",
+        "Comprendre à quoi sert un plan."
+      ],
+      "skill_ids": [
+        "cp-b-hg-ecole-skill-lieux",
+        "cp-b-hg-ecole-skill-positions",
+        "cp-b-hg-ecole-skill-plan"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-ecole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-ecole-exercise",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-ecole"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Nommer et décrire les lieux de l’école.",
+        "Dire où se trouve un objet avec les mots de position.",
+        "Comprendre à quoi sert un plan."
+      ],
+      "skill_ids": [
+        "cp-b-hg-ecole-skill-lieux",
+        "cp-b-hg-ecole-skill-positions",
+        "cp-b-hg-ecole-skill-plan"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-ecole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-ecole-assessment",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-ecole"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Nommer et décrire les lieux de l’école.",
+        "Dire où se trouve un objet avec les mots de position.",
+        "Comprendre à quoi sert un plan."
+      ],
+      "skill_ids": [
+        "cp-b-hg-ecole-skill-lieux",
+        "cp-b-hg-ecole-skill-positions",
+        "cp-b-hg-ecole-skill-plan"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-ecole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-ecole-audio",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-ecole"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Nommer et décrire les lieux de l’école.",
+        "Dire où se trouve un objet avec les mots de position.",
+        "Comprendre à quoi sert un plan."
+      ],
+      "skill_ids": [
+        "cp-b-hg-ecole-skill-lieux",
+        "cp-b-hg-ecole-skill-positions",
+        "cp-b-hg-ecole-skill-plan"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-ecole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-hg-ecole-assistant_explanation",
+      "program_id": "CP-histoire-geographie-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cp-b-hg-ecole"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Nommer et décrire les lieux de l’école.",
+        "Dire où se trouve un objet avec les mots de position.",
+        "Comprendre à quoi sert un plan."
+      ],
+      "skill_ids": [
+        "cp-b-hg-ecole-skill-lieux",
+        "cp-b-hg-ecole-skill-positions",
+        "cp-b-hg-ecole-skill-plan"
+      ],
+      "source_locators": [
+        "Programme d’histoire-géographie du cycle 2, annexe 3, CP (Cours préparatoire) / Géographie — Cours préparatoire : des clés pour se repérer, Thème 1 : Autour de l’école, page 6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-hg-ecole.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-addition-soustraction-course",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-addition-soustraction"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Comprendre l’addition et la soustraction avec les signes +, - et =.",
+        "Compléter des égalités comme 4 + … = 12.",
+        "Ajouter ou enlever 1, 2 ou 10 à un nombre."
+      ],
+      "skill_ids": [
+        "cp-b-addition-soustraction-skill-sens",
+        "cp-b-addition-soustraction-skill-tables",
+        "cp-b-addition-soustraction-skill-mental"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-addition-soustraction-revision_sheet",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-addition-soustraction"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Comprendre l’addition et la soustraction avec les signes +, - et =.",
+        "Compléter des égalités comme 4 + … = 12.",
+        "Ajouter ou enlever 1, 2 ou 10 à un nombre."
+      ],
+      "skill_ids": [
+        "cp-b-addition-soustraction-skill-sens",
+        "cp-b-addition-soustraction-skill-tables",
+        "cp-b-addition-soustraction-skill-mental"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-addition-soustraction-quiz",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-addition-soustraction"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Comprendre l’addition et la soustraction avec les signes +, - et =.",
+        "Compléter des égalités comme 4 + … = 12.",
+        "Ajouter ou enlever 1, 2 ou 10 à un nombre."
+      ],
+      "skill_ids": [
+        "cp-b-addition-soustraction-skill-sens",
+        "cp-b-addition-soustraction-skill-tables",
+        "cp-b-addition-soustraction-skill-mental"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-addition-soustraction-exercise",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-addition-soustraction"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Comprendre l’addition et la soustraction avec les signes +, - et =.",
+        "Compléter des égalités comme 4 + … = 12.",
+        "Ajouter ou enlever 1, 2 ou 10 à un nombre."
+      ],
+      "skill_ids": [
+        "cp-b-addition-soustraction-skill-sens",
+        "cp-b-addition-soustraction-skill-tables",
+        "cp-b-addition-soustraction-skill-mental"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-addition-soustraction-assessment",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-addition-soustraction"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Comprendre l’addition et la soustraction avec les signes +, - et =.",
+        "Compléter des égalités comme 4 + … = 12.",
+        "Ajouter ou enlever 1, 2 ou 10 à un nombre."
+      ],
+      "skill_ids": [
+        "cp-b-addition-soustraction-skill-sens",
+        "cp-b-addition-soustraction-skill-tables",
+        "cp-b-addition-soustraction-skill-mental"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-addition-soustraction-audio",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-addition-soustraction"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Comprendre l’addition et la soustraction avec les signes +, - et =.",
+        "Compléter des égalités comme 4 + … = 12.",
+        "Ajouter ou enlever 1, 2 ou 10 à un nombre."
+      ],
+      "skill_ids": [
+        "cp-b-addition-soustraction-skill-sens",
+        "cp-b-addition-soustraction-skill-tables",
+        "cp-b-addition-soustraction-skill-mental"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-addition-soustraction-assistant_explanation",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-addition-soustraction"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Comprendre l’addition et la soustraction avec les signes +, - et =.",
+        "Compléter des égalités comme 4 + … = 12.",
+        "Ajouter ou enlever 1, 2 ou 10 à un nombre."
+      ],
+      "skill_ids": [
+        "cp-b-addition-soustraction-skill-sens",
+        "cp-b-addition-soustraction-skill-tables",
+        "cp-b-addition-soustraction-skill-mental"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Les quatre opérations ; Le calcul mental, pages 5–6 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-addition-soustraction.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-formes-planes-course",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-formes-planes"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Nommer le disque, le carré, le rectangle et le triangle.",
+        "Compter les côtés et les sommets.",
+        "Repérer les côtés de même longueur."
+      ],
+      "skill_ids": [
+        "cp-b-formes-planes-skill-reconnaitre",
+        "cp-b-formes-planes-skill-decrire"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-formes-planes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-formes-planes-revision_sheet",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-formes-planes"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Nommer le disque, le carré, le rectangle et le triangle.",
+        "Compter les côtés et les sommets.",
+        "Repérer les côtés de même longueur."
+      ],
+      "skill_ids": [
+        "cp-b-formes-planes-skill-reconnaitre",
+        "cp-b-formes-planes-skill-decrire"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-formes-planes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-formes-planes-quiz",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-formes-planes"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Nommer le disque, le carré, le rectangle et le triangle.",
+        "Compter les côtés et les sommets.",
+        "Repérer les côtés de même longueur."
+      ],
+      "skill_ids": [
+        "cp-b-formes-planes-skill-reconnaitre",
+        "cp-b-formes-planes-skill-decrire"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-formes-planes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-formes-planes-exercise",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-formes-planes"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Nommer le disque, le carré, le rectangle et le triangle.",
+        "Compter les côtés et les sommets.",
+        "Repérer les côtés de même longueur."
+      ],
+      "skill_ids": [
+        "cp-b-formes-planes-skill-reconnaitre",
+        "cp-b-formes-planes-skill-decrire"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-formes-planes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-formes-planes-assessment",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-formes-planes"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Nommer le disque, le carré, le rectangle et le triangle.",
+        "Compter les côtés et les sommets.",
+        "Repérer les côtés de même longueur."
+      ],
+      "skill_ids": [
+        "cp-b-formes-planes-skill-reconnaitre",
+        "cp-b-formes-planes-skill-decrire"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-formes-planes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-formes-planes-audio",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-formes-planes"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Nommer le disque, le carré, le rectangle et le triangle.",
+        "Compter les côtés et les sommets.",
+        "Repérer les côtés de même longueur."
+      ],
+      "skill_ids": [
+        "cp-b-formes-planes-skill-reconnaitre",
+        "cp-b-formes-planes-skill-decrire"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-formes-planes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-formes-planes-assistant_explanation",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-formes-planes"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Nommer le disque, le carré, le rectangle et le triangle.",
+        "Compter les côtés et les sommets.",
+        "Repérer les côtés de même longueur."
+      ],
+      "skill_ids": [
+        "cp-b-formes-planes-skill-reconnaitre",
+        "cp-b-formes-planes-skill-decrire"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-formes-planes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-longueurs-course",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-longueurs"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Comparer des longueurs.",
+        "Mesurer un segment avec une règle graduée.",
+        "Connaître le centimètre et le mètre."
+      ],
+      "skill_ids": [
+        "cp-b-longueurs-skill-comparer",
+        "cp-b-longueurs-skill-regle",
+        "cp-b-longueurs-skill-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-longueurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-longueurs-revision_sheet",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-longueurs"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Comparer des longueurs.",
+        "Mesurer un segment avec une règle graduée.",
+        "Connaître le centimètre et le mètre."
+      ],
+      "skill_ids": [
+        "cp-b-longueurs-skill-comparer",
+        "cp-b-longueurs-skill-regle",
+        "cp-b-longueurs-skill-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-longueurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-longueurs-quiz",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-longueurs"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Comparer des longueurs.",
+        "Mesurer un segment avec une règle graduée.",
+        "Connaître le centimètre et le mètre."
+      ],
+      "skill_ids": [
+        "cp-b-longueurs-skill-comparer",
+        "cp-b-longueurs-skill-regle",
+        "cp-b-longueurs-skill-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-longueurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-longueurs-exercise",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-longueurs"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Comparer des longueurs.",
+        "Mesurer un segment avec une règle graduée.",
+        "Connaître le centimètre et le mètre."
+      ],
+      "skill_ids": [
+        "cp-b-longueurs-skill-comparer",
+        "cp-b-longueurs-skill-regle",
+        "cp-b-longueurs-skill-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-longueurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-longueurs-assessment",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-longueurs"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Comparer des longueurs.",
+        "Mesurer un segment avec une règle graduée.",
+        "Connaître le centimètre et le mètre."
+      ],
+      "skill_ids": [
+        "cp-b-longueurs-skill-comparer",
+        "cp-b-longueurs-skill-regle",
+        "cp-b-longueurs-skill-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-longueurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-longueurs-audio",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-longueurs"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Comparer des longueurs.",
+        "Mesurer un segment avec une règle graduée.",
+        "Connaître le centimètre et le mètre."
+      ],
+      "skill_ids": [
+        "cp-b-longueurs-skill-comparer",
+        "cp-b-longueurs-skill-regle",
+        "cp-b-longueurs-skill-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-longueurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cp-b-longueurs-assistant_explanation",
+      "program_id": "CP-mathematiques-commun",
+      "program_version": "cycle2-maths-2024-cp-v1",
+      "chapter_ids": [
+        "cp-b-longueurs"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Comparer des longueurs.",
+        "Mesurer un segment avec une règle graduée.",
+        "Connaître le centimètre et le mètre."
+      ],
+      "skill_ids": [
+        "cp-b-longueurs-skill-comparer",
+        "cp-b-longueurs-skill-regle",
+        "cp-b-longueurs-skill-unites"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cp-b-longueurs.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

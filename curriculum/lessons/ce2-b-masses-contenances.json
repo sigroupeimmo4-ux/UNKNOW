@@ -1,0 +1,133 @@
+{
+  "id": "ce2-b-masses-contenances",
+  "title": "Masses et contenances : unités et conversions",
+  "chapter_id": "ce2-b-masses-contenances",
+  "program_id": "CE2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Convertir des masses entre grammes, kilogrammes et tonnes.",
+    "Convertir des contenances entre litres, décilitres et centilitres.",
+    "Comparer des masses ou des contenances en les écrivant dans la même unité."
+  ],
+  "skill_ids": [
+    "ce2-b-masses-contenances-skill-masses",
+    "ce2-b-masses-contenances-skill-contenances"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2 (annexe 4 de l’arrêté du 22 octobre 2024), CE2 / Les masses ; Les contenances, page 30 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les unités de masse",
+      "text": "On mesure une masse en gramme (g), en kilogramme (kg) ou en tonne (t). On a : 1 kg = 1 000 g et 1 t = 1 000 kg. Quelques repères : une feuille de papier a une masse d’environ 5 g, une pomme d’environ 150 g, un gros dictionnaire d’environ 1 kg et une voiture d’environ 1 t. On choisit le gramme pour un petit objet, le kilogramme pour un sac de courses et la tonne pour un camion."
+    },
+    {
+      "title": "Convertir des masses",
+      "text": "1 kg = 1 000 g donc 3 kg = 3 000 g. 1 000 g = 1 kg donc 5 000 g = 5 kg, et 5 462 g = 5 kg + 462 g. 1 t = 1 000 kg donc 2 t = 2 000 kg, et 5 350 kg = 5 t 350 kg. Pour comparer des masses, on les écrit dans la même unité : 3 kg = 3 000 g est plus lourd que 2 500 g."
+    },
+    {
+      "title": "Les contenances",
+      "text": "La contenance d’un récipient, c’est la quantité de liquide qu’il peut contenir. On peut comparer deux récipients en transvasant l’eau de l’un dans l’autre, ou en comptant combien de verres chacun contient. Les unités sont le litre (L), le décilitre (dL) et le centilitre (cL). On a : 1 L = 10 dL et 1 L = 100 cL."
+    },
+    {
+      "title": "Convertir des contenances",
+      "text": "2 L = 20 dL et 3 L = 300 cL. 780 cL = 700 cL + 80 cL = 7 L + 80 cL, donc 780 cL = 7 L 80 cL. Un verre contient environ 2 dL, une grande bouteille 1 L, un arrosoir environ 10 L."
+    }
+  ],
+  "revision_sheet": [
+    "1 kg = 1 000 g ; 1 t = 1 000 kg.",
+    "5 462 g = 5 kg 462 g ; 5 350 kg = 5 t 350 kg.",
+    "1 L = 10 dL = 100 cL.",
+    "780 cL = 7 L 80 cL.",
+    "Pour comparer deux mesures, on les écrit dans la même unité.",
+    "On choisit l’unité adaptée : g pour un petit objet, kg pour un sac, t pour un camion."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de grammes y a-t-il dans 1 kilogramme ?",
+      "choices": [
+        "100 g",
+        "1 000 g",
+        "10 g"
+      ],
+      "correct_index": 1,
+      "explanation": "1 kg = 1 000 g."
+    },
+    {
+      "prompt": "5 462 g, c’est la même masse que…",
+      "choices": [
+        "54 kg 62 g",
+        "5 t 462 kg",
+        "5 kg 462 g"
+      ],
+      "correct_index": 2,
+      "explanation": "5 462 g = 5 000 g + 462 g = 5 kg + 462 g."
+    },
+    {
+      "prompt": "Combien de centilitres y a-t-il dans 1 litre ?",
+      "choices": [
+        "10 cL",
+        "100 cL",
+        "1 000 cL"
+      ],
+      "correct_index": 1,
+      "explanation": "1 L = 100 cL (et 1 L = 10 dL)."
+    },
+    {
+      "prompt": "Quelle unité est la mieux adaptée pour la masse d’un camion ?",
+      "choices": [
+        "Le gramme",
+        "Le kilogramme",
+        "La tonne"
+      ],
+      "correct_index": 2,
+      "explanation": "Un camion est très lourd : on exprime sa masse en tonnes."
+    },
+    {
+      "prompt": "780 cL, c’est la même contenance que…",
+      "choices": [
+        "7 L 80 cL",
+        "78 L",
+        "7 L 8 cL"
+      ],
+      "correct_index": 0,
+      "explanation": "780 cL = 700 cL + 80 cL = 7 L + 80 cL."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Convertis : 4 kg en g ; 7 000 g en kg ; 3 t en kg.",
+      "solution": "4 kg = 4 000 g ; 7 000 g = 7 kg ; 3 t = 3 000 kg.",
+      "success_criterion": "Utiliser 1 kg = 1 000 g et 1 t = 1 000 kg pour trouver 4 000 g, 7 kg et 3 000 kg."
+    },
+    {
+      "prompt": "Complète : 2 L = … dL ; 3 L = … cL ; 450 cL = … L … cL.",
+      "solution": "2 L = 20 dL ; 3 L = 300 cL ; 450 cL = 400 cL + 50 cL = 4 L 50 cL.",
+      "success_criterion": "Trouver 20 dL, 300 cL et 4 L 50 cL."
+    },
+    {
+      "prompt": "Range du plus léger au plus lourd : 2 kg ; 1 500 g ; 2 100 g ; 1 kg 200 g.",
+      "solution": "En grammes : 2 kg = 2 000 g et 1 kg 200 g = 1 200 g. Ordre : 1 kg 200 g (1 200 g) ; 1 500 g ; 2 kg (2 000 g) ; 2 100 g.",
+      "success_criterion": "Convertir toutes les masses en grammes puis les ranger : 1 200 g, 1 500 g, 2 000 g, 2 100 g."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un sac de farine a une masse de 1 kg. Pour une recette, on utilise 350 g de farine. Quelle masse de farine reste-t-il dans le sac ?",
+      "solution": "1 kg = 1 000 g. 1 000 − 350 = 650. Il reste 650 g de farine.",
+      "success_criterion": "Convertir 1 kg en 1 000 g puis soustraire pour trouver 650 g."
+    },
+    {
+      "prompt": "Une bouteille contient 1 L d’eau. Combien de verres de 2 dL peut-on remplir complètement ?",
+      "solution": "1 L = 10 dL. 10 ÷ 2 = 5. On peut remplir 5 verres.",
+      "success_criterion": "Convertir 1 L en 10 dL puis chercher combien de fois 2 dL entrent dans 10 dL : 5 verres."
+    },
+    {
+      "prompt": "Une camionnette peut transporter au maximum 2 t. Elle porte déjà 3 caisses de 450 kg. Peut-on ajouter une caisse de 700 kg ?",
+      "solution": "2 t = 2 000 kg. 3 × 450 = 1 350 kg. 1 350 + 700 = 2 050 kg, ce qui dépasse 2 000 kg. Non, on ne peut pas l’ajouter.",
+      "success_criterion": "Convertir 2 t en 2 000 kg, calculer 1 350 puis 2 050 et conclure que c’est trop lourd."
+    }
+  ],
+  "audio_transcript": "Pour mesurer une masse, on utilise le gramme, le kilogramme et la tonne. Un kilogramme égale mille grammes, et une tonne égale mille kilogrammes. Ainsi, cinq-mille-quatre-cent-soixante-deux grammes, c’est cinq kilogrammes et quatre-cent-soixante-deux grammes. Pour mesurer une contenance, on utilise le litre, le décilitre et le centilitre. Un litre égale dix décilitres, et un litre égale cent centilitres. Pour comparer deux mesures, on les écrit toujours dans la même unité.",
+  "guided_explanation": "Pense à un sac de sucre de 1 kg : il contient 1 000 g, comme mille petits sachets d’un gramme. Pour savoir quelle masse est la plus grande entre 3 kg et 2 500 g, convertis : 3 kg = 3 000 g, donc 3 kg est plus lourd. Pour les liquides, imagine une bouteille d’un litre et un petit verre de 1 dL : il en faut 10 pour remplir la bouteille, et 100 verres de 1 cL. Quand tu hésites, pose-toi la question : dans quelle unité dois-je écrire les deux mesures pour les comparer ?"
+}

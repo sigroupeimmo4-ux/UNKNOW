@@ -1,0 +1,129 @@
+{
+  "id": "5e-b-passe-compose-plus-que-parfait",
+  "title": "Le passé composé et le plus-que-parfait : former et employer",
+  "chapter_id": "5e-b-passe-compose-plus-que-parfait",
+  "program_id": "5e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Distinguer le radical et la terminaison dans une forme verbale.",
+    "Former le passé composé et le plus-que-parfait avec l’auxiliaire avoir ou être.",
+    "Identifier un temps composé dans un texte et le nommer.",
+    "Employer le plus-que-parfait pour exprimer une action antérieure à une autre action passée."
+  ],
+  "skill_ids": [
+    "5e-b-passe-compose-plus-que-parfait-formation",
+    "5e-b-passe-compose-plus-que-parfait-emploi"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 1 (BO n° 10 du 5 mars 2026), Cinquième / Grammaire et orthographe grammaticale — Approfondir sa maitrise des formes conjuguées du verbe et leur emploi, page 17 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Radical et terminaison",
+      "text": "Une forme verbale se compose d’un radical, qui porte le sens, et d’une terminaison, qui indique le temps et la personne. Dans « nous chantons », chant- est le radical et -ons la terminaison. Aux temps simples (présent, imparfait, futur simple…), la forme verbale est un seul mot. Aux temps composés, elle est formée de deux éléments : un auxiliaire (avoir ou être) conjugué, et le participe passé du verbe, par exemple « j’ai chanté »."
+    },
+    {
+      "title": "Le passé composé",
+      "text": "Le passé composé se forme avec l’auxiliaire avoir ou être au présent, suivi du participe passé : j’ai mangé, tu as fini, elle a pris, nous sommes arrivés. La plupart des verbes se conjuguent avec avoir. Se conjuguent avec être les verbes comme aller, venir, arriver, partir, entrer, sortir, tomber, naitre, mourir, ainsi que les verbes pronominaux (je me suis lavé). Quelques participes passés à connaitre : chanter → chanté, finir → fini, prendre → pris, faire → fait, voir → vu, venir → venu."
+    },
+    {
+      "title": "Le plus-que-parfait",
+      "text": "Le plus-que-parfait se forme avec l’auxiliaire avoir ou être à l’imparfait, suivi du participe passé : j’avais mangé, tu avais fini, elle était partie, nous étions arrivés. Il se construit comme le passé composé, mais l’auxiliaire est à l’imparfait au lieu du présent."
+    },
+    {
+      "title": "Quand les employer ?",
+      "text": "Le passé composé exprime une action achevée dans le passé, souvent en lien avec le présent : « Hier, j’ai fini mon livre. » Le plus-que-parfait exprime une action passée qui s’est produite avant une autre action passée : « Quand je suis arrivé, le film avait déjà commencé. » Le film a commencé en premier, mon arrivée est venue ensuite. Dans un récit, le plus-que-parfait permet donc de revenir en arrière."
+    }
+  ],
+  "revision_sheet": [
+    "Forme verbale = radical (sens) + terminaison (temps, personne).",
+    "Temps composé = auxiliaire (avoir ou être) conjugué + participe passé.",
+    "Passé composé = auxiliaire au présent + participe passé : j’ai chanté.",
+    "Plus-que-parfait = auxiliaire à l’imparfait + participe passé : j’avais chanté.",
+    "Participes passés : prendre → pris ; faire → fait ; voir → vu ; venir → venu.",
+    "Le plus-que-parfait exprime une action passée antérieure à une autre action passée."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle est la forme correcte du passé composé de « elle (aller) » ?",
+      "choices": [
+        "Elle a allé",
+        "Elle est allée",
+        "Elle était allée"
+      ],
+      "correct_index": 1,
+      "explanation": "Aller se conjugue avec être : « elle est allée ». « Elle était allée » est un plus-que-parfait."
+    },
+    {
+      "prompt": "Quel est le temps de « nous avions fini » ?",
+      "choices": [
+        "Le passé composé",
+        "Le plus-que-parfait",
+        "L’imparfait"
+      ],
+      "correct_index": 1,
+      "explanation": "L’auxiliaire avoir est à l’imparfait (avions) et il est suivi du participe passé « fini » : c’est le plus-que-parfait."
+    },
+    {
+      "prompt": "Complète au plus-que-parfait : « Quand je suis arrivé, le match … déjà commencé. »",
+      "choices": [
+        "avait",
+        "a",
+        "aura"
+      ],
+      "correct_index": 0,
+      "explanation": "Le plus-que-parfait se forme avec l’auxiliaire à l’imparfait : « avait commencé ». Avec « a », on obtiendrait un passé composé, et avec « aura », un futur antérieur."
+    },
+    {
+      "prompt": "Quel est le participe passé du verbe « prendre » ?",
+      "choices": [
+        "prendu",
+        "prit",
+        "pris"
+      ],
+      "correct_index": 2,
+      "explanation": "Le participe passé de prendre est « pris » : j’ai pris. « Prit » est une forme du passé simple."
+    },
+    {
+      "prompt": "Quel verbe se conjugue avec l’auxiliaire être au passé composé (hors forme pronominale) ?",
+      "choices": [
+        "arriver",
+        "manger",
+        "chanter"
+      ],
+      "correct_index": 0,
+      "explanation": "On dit « je suis arrivé », alors que l’on dit « j’ai mangé » et « j’ai chanté »."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Conjugue au passé composé : a) nous (finir) ; b) elle (partir) ; c) tu (prendre) ; d) je (se laver).",
+      "solution": "a) nous avons fini ; b) elle est partie ; c) tu as pris ; d) je me suis lavé (ou lavée).",
+      "success_criterion": "Choisir le bon auxiliaire, le conjuguer au présent et ajouter le participe passé."
+    },
+    {
+      "prompt": "Mets au plus-que-parfait : a) j’(manger) ; b) ils (venir) ; c) vous (faire).",
+      "solution": "a) j’avais mangé ; b) ils étaient venus ; c) vous aviez fait.",
+      "success_criterion": "Conjuguer l’auxiliaire à l’imparfait et écrire le bon participe passé."
+    },
+    {
+      "prompt": "Complète avec le temps qui convient : « Quand nous (arriver) au cinéma, le film (déjà commencer). »",
+      "solution": "Quand nous sommes arrivés au cinéma, le film avait déjà commencé.",
+      "success_criterion": "Passé composé pour l’action au premier plan, plus-que-parfait pour l’action qui s’est passée avant."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Dans la phrase « Hier, Samir a retrouvé le livre qu’il avait perdu la veille. », relève les deux formes verbales à un temps composé et nomme leur temps. Laquelle exprime l’action la plus ancienne ?",
+      "solution": "« a retrouvé » est au passé composé et « avait perdu » est au plus-que-parfait. L’action la plus ancienne est la perte du livre (« avait perdu »), qui a eu lieu avant que Samir le retrouve.",
+      "success_criterion": "Nommer les deux temps en justifiant par l’auxiliaire et classer les deux actions dans l’ordre chronologique."
+    },
+    {
+      "prompt": "Raconte en deux phrases un petit événement en utilisant un passé composé et un plus-que-parfait.",
+      "solution": "Exemple : « Ce matin, j’ai raté le bus parce que j’avais oublié mon réveil. » (« ai raté » : passé composé ; « avais oublié » : plus-que-parfait, action antérieure).",
+      "success_criterion": "Employer correctement les deux temps, avec l’action au plus-que-parfait antérieure à l’autre."
+    }
+  ],
+  "audio_transcript": "Une forme verbale se compose d’un radical et d’une terminaison. Aux temps composés, on utilise un auxiliaire, avoir ou être, et un participe passé. Le passé composé se forme avec l’auxiliaire au présent : j’ai chanté, elle est partie. Le plus-que-parfait se forme avec l’auxiliaire à l’imparfait : j’avais chanté, elle était partie. Le passé composé exprime une action achevée. Le plus-que-parfait exprime une action passée qui a eu lieu avant une autre action passée. Par exemple : quand je suis arrivé, le film avait déjà commencé.",
+  "guided_explanation": "Pour reconnaître un temps composé, cherche deux morceaux : un auxiliaire (avoir ou être) et un participe passé. Ensuite regarde l’auxiliaire : s’il est au présent (ai, as, est, sommes…), c’est un passé composé ; s’il est à l’imparfait (avais, étais, avions…), c’est un plus-que-parfait. Pour choisir entre les deux, imagine une frise du temps : l’action la plus ancienne se met au plus-que-parfait, l’action plus récente au passé composé. Dans « Quand je suis arrivé, le film avait déjà commencé », le film a commencé d’abord, donc « avait commencé »."
+}

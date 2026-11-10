@@ -1,0 +1,132 @@
+{
+  "id": "ce1-b-fractions-moitie-quart",
+  "title": "Les fractions : moitié, tiers, quart et autres parts égales",
+  "chapter_id": "ce1-b-fractions-moitie-quart",
+  "program_id": "CE1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Partager un tout en parts égales et nommer la moitié, le tiers et le quart.",
+    "Lire et écrire une fraction (par exemple 3/8) avec numérateur et dénominateur.",
+    "Comparer des fractions simples et calculer avec des fractions de même dénominateur."
+  ],
+  "skill_ids": [
+    "ce1-b-fractions-moitie-quart-skill",
+    "ce1-b-fractions-moitie-quart-compare"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CE1 (Cours élémentaire première année) / Les fractions, pages 12–13 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Partager un tout en parts égales",
+      "text": "Pour obtenir une fraction, on partage un tout (une tarte, une bande de papier, une ficelle) en parts égales : les parts doivent avoir exactement la même taille. Si on partage en 2 parts égales, chaque part est la moitié (un demi) du tout. En 3 parts égales, chaque part est un tiers ; en 4 parts égales, un quart. On peut aussi partager en 5, 6, 8 ou 10 parts égales : un cinquième, un sixième, un huitième, un dixième."
+    },
+    {
+      "title": "Lire et écrire une fraction",
+      "text": "1/4 se lit « un quart ». Le nombre du bas s’appelle le dénominateur : il dit en combien de parts égales on a partagé le tout. Le nombre du haut s’appelle le numérateur : il dit combien de parts on prend. Pour 3/8, le tout est partagé en 8 parts égales et on en prend 3 : on lit « trois huitièmes ». Prendre trois parts d’un huitième, c’est 1/8 + 1/8 + 1/8, donc 3/8 = 1/8 + 1/8 + 1/8."
+    },
+    {
+      "title": "Comparer des fractions",
+      "text": "Quand le dénominateur est le même, la fraction qui a le plus de parts est la plus grande : 2/5 est plus petit que 3/5, car deux parts de ce partage valent moins que trois parts du même partage. Quand le numérateur est 1, plus le tout est partagé en beaucoup de parts, plus chaque part est petite : 1/5 est plus petit que 1/3. C’est surprenant, car 5 est plus grand que 3, mais cinq parts égales sont plus petites que trois parts égales du même tout."
+    },
+    {
+      "title": "Le tout, les additions et les soustractions",
+      "text": "Si on prend toutes les parts, on obtient le tout entier : 5/5 = 1. Pour additionner des fractions de même dénominateur, on additionne les parts et le dénominateur ne change pas : 1/5 + 2/5 = 3/5 (un cinquième plus deux cinquièmes font trois cinquièmes) et 2/5 + 3/5 = 5/5 = 1. Pour soustraire : 2/3 − 1/3 = 1/3. Pour trouver le complément : si 3/10 d’une figure est bleu, le reste est rouge, et 3/10 + 7/10 = 10/10 = 1, donc 7/10 de la figure est rouge."
+    }
+  ],
+  "revision_sheet": [
+    "Une fraction se fait avec un tout partagé en parts ÉGALES.",
+    "Moitié = 1/2, tiers = 1/3, quart = 1/4. Le dénominateur (en bas) = nombre total de parts ; le numérateur (en haut) = nombre de parts prises.",
+    "3/8 = 1/8 + 1/8 + 1/8 ; 5/5 = 1 (le tout).",
+    "Même dénominateur : plus de parts = plus grand (2/5 < 3/5). Numérateur 1 : plus de parts dans le tout = parts plus petites (1/5 < 1/3).",
+    "On additionne ou soustrait les parts et le dénominateur ne change pas : 1/5 + 2/5 = 3/5 ; 2/3 − 1/3 = 1/3."
+  ],
+  "quiz": [
+    {
+      "prompt": "Pour obtenir la moitié d’un gâteau, comment faut-il le partager ?",
+      "choices": [
+        "En 2 parts de tailles différentes",
+        "En 2 parts égales",
+        "En 4 parts égales"
+      ],
+      "correct_index": 1,
+      "explanation": "La moitié correspond à un partage en 2 parts égales : chaque part est un demi du gâteau."
+    },
+    {
+      "prompt": "Comment lit-on la fraction 3/8 ?",
+      "choices": [
+        "Trois huitièmes",
+        "Huit troisièmes",
+        "Trois quarts"
+      ],
+      "correct_index": 0,
+      "explanation": "Le tout est partagé en 8 parts égales (dénominateur 8) et on en prend 3 (numérateur 3) : « trois huitièmes »."
+    },
+    {
+      "prompt": "Dans la fraction 2/5, que dit le dénominateur 5 ?",
+      "choices": [
+        "Le nombre de parts coloriées",
+        "Le nombre de touts",
+        "Le nombre total de parts égales du tout"
+      ],
+      "correct_index": 2,
+      "explanation": "Le dénominateur donne le nombre total de parts égales ; c’est le numérateur (2) qui donne le nombre de parts prises."
+    },
+    {
+      "prompt": "Quelle fraction est la plus grande : 1/3 ou 1/6 ?",
+      "choices": [
+        "1/3",
+        "Elles sont égales",
+        "1/6"
+      ],
+      "correct_index": 0,
+      "explanation": "En 3 parts égales, chaque part est plus grande qu’en 6 parts égales du même tout : 1/3 est plus grand que 1/6."
+    },
+    {
+      "prompt": "Combien font 1/5 + 2/5 ?",
+      "choices": [
+        "3/10",
+        "2/5",
+        "3/5"
+      ],
+      "correct_index": 2,
+      "explanation": "Un cinquième plus deux cinquièmes font trois cinquièmes : on additionne les numérateurs (1 + 2 = 3) et le dénominateur 5 ne change pas."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Une pizza est partagée en 4 parts égales. Tom mange 1 part. Léa en mange 2. Quelle fraction de la pizza chacun a-t-il mangée ?",
+      "solution": "Tom a mangé 1/4 de la pizza (un quart). Léa a mangé 2/4 de la pizza (deux quarts), car 1/4 + 1/4 = 2/4.",
+      "success_criterion": "Écrire 1/4 et 2/4 en utilisant le nombre de parts égales (4) comme dénominateur."
+    },
+    {
+      "prompt": "Compare avec <, > ou = : a) 2/5 … 4/5 ; b) 1/2 … 1/4 ; c) 1/10 … 1/8.",
+      "solution": "a) 2/5 < 4/5 (même dénominateur, 2 parts valent moins que 4 parts). b) 1/2 > 1/4 (la moitié est plus grande que le quart). c) 1/10 < 1/8 (un tout partagé en 10 parts donne des parts plus petites qu’un tout partagé en 8 parts).",
+      "success_criterion": "Trouver <, > et < et justifier avec le nombre de parts."
+    },
+    {
+      "prompt": "Lucie a colorié les 3/10 d’une figure en bleu et le reste en rouge. Quelle fraction de la figure est coloriée en rouge ?",
+      "solution": "Le tout vaut 10/10. Il reste 10/10 − 3/10 = 7/10. Les 7/10 de la figure sont rouges.",
+      "success_criterion": "Utiliser que le tout vaut 10/10 et trouver 7/10."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Écris en chiffres : « un quart », « deux tiers », « cinq huitièmes ».",
+      "solution": "Un quart : 1/4. Deux tiers : 2/3. Cinq huitièmes : 5/8.",
+      "success_criterion": "Écrire 1/4, 2/3 et 5/8 avec numérateur en haut et dénominateur en bas."
+    },
+    {
+      "prompt": "Calcule : a) 2/6 + 3/6 ; b) 4/5 − 1/5 ; c) 3/5 + 2/5.",
+      "solution": "a) 2/6 + 3/6 = 5/6. b) 4/5 − 1/5 = 3/5. c) 3/5 + 2/5 = 5/5 = 1 (le tout).",
+      "success_criterion": "Trouver 5/6, 3/5 et 5/5 = 1 sans changer le dénominateur."
+    },
+    {
+      "prompt": "Une bande de papier est partagée en 6 parts égales. On colorie 4 parts. Quelle fraction est coloriée ? Quelle fraction reste blanche ? Vérifie que les deux fractions forment le tout.",
+      "solution": "La partie coloriée est 4/6 ; la partie blanche est 2/6. Vérification : 4/6 + 2/6 = 6/6 = 1, c’est bien le tout.",
+      "success_criterion": "Trouver 4/6 et 2/6 et vérifier que la somme vaut 6/6 = 1."
+    }
+  ],
+  "audio_transcript": "Une fraction, c’est une part d’un tout partagé en parts égales. Si je partage une tarte en deux parts égales, chaque part est la moitié. En trois parts égales, chaque part est un tiers. En quatre parts égales, c’est un quart. Une fraction s’écrit avec deux nombres. Celui du bas, le dénominateur, dit en combien de parts égales on a partagé le tout. Celui du haut, le numérateur, dit combien de parts on prend. Trois huitièmes, c’est un huitième plus un huitième plus un huitième. Si on prend toutes les parts, on a le tout : cinq cinquièmes, c’est un. Pour additionner des fractions qui ont le même dénominateur, on additionne les parts : un cinquième plus deux cinquièmes font trois cinquièmes. Attention : un cinquième est plus petit qu’un tiers, car cinq parts égales sont plus petites que trois parts égales du même tout.",
+  "guided_explanation": "Imagine une barre de chocolat. Pour parler de moitié ou de quart, il faut d’abord que tous les morceaux aient la même taille. Si Lucie partage la barre en 10 morceaux égaux et en mange 3, elle a mangé 3/10 de la barre : le 10 dit combien il y a de morceaux en tout, le 3 dit combien elle en a pris. Il reste 7 morceaux, donc 7/10. Pour le vérifier : 3 morceaux plus 7 morceaux font 10 morceaux, c’est-à-dire toute la barre, 10/10 = 1. Quand tu additionnes des fractions, tu comptes simplement des morceaux de même taille : 1 morceau d’un cinquième plus 2 morceaux d’un cinquième font 3 morceaux d’un cinquième. Les morceaux ne changent pas de taille, donc le dénominateur ne change pas."
+}

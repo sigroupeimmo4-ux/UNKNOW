@@ -1,0 +1,143 @@
+{
+  "id": "4e-b-discours-rapporte",
+  "title": "Rapporter des paroles : discours direct, indirect et indirect libre",
+  "chapter_id": "4e-b-discours-rapporte",
+  "program_id": "4e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître le discours direct, le discours indirect et le discours indirect libre.",
+    "Transposer des paroles du discours direct au discours indirect en adaptant personne, temps et repères.",
+    "Insérer des paroles rapportées dans un récit avec une ponctuation correcte."
+  ],
+  "skill_ids": [
+    "4e-b-discours-rapporte-skill",
+    "4e-b-discours-rapporte-insert",
+    "4e-b-discours-rapporte-enonc"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4, annexe 3 (BO n° 31 du 30 juillet 2020), Étude de la langue / Connaître les différences entre l’oral et l’écrit, page 21 ; Construire les notions permettant l’analyse et l’élaboration des textes et des discours, page 26 ; terminologie (discours direct / indirect / indirect libre), page 26 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le discours direct",
+      "text": "Le discours direct rapporte les paroles telles qu’elles ont été prononcées. Elles sont encadrées par des guillemets (ou précédées d’un tiret dans un dialogue) et introduites par un verbe de parole et des deux-points, ou placées dans une incise. Exemples : Léa dit : « Je suis fatiguée. » ; « Je viens demain, dit-elle. » Les marques de personne, de temps et de lieu (je, demain, ici) renvoient à la situation de celui qui parle."
+    },
+    {
+      "title": "Le discours indirect",
+      "text": "Le discours indirect intègre les paroles dans la phrase du narrateur, sans guillemets, à l’aide d’une subordonnée (que, si, où…) ou d’un infinitif. Il faut adapter : la personne (je → elle), les repères de temps et de lieu (demain → le lendemain, hier → la veille, aujourd’hui → ce jour-là, ici → là, maintenant → alors) et, si le verbe introducteur est au passé, les temps (présent → imparfait ; futur → conditionnel ; passé composé → plus-que-parfait). Exemples : Léa a dit : « Je viendrai demain. » → Léa a dit qu’elle viendrait le lendemain. Paul demanda à Léa : « Où vas-tu ? » → Paul demanda à Léa où elle allait. « Viens m’aider ! » → Il lui dit de venir l’aider."
+    },
+    {
+      "title": "Le discours indirect libre",
+      "text": "Dans le discours indirect libre, les paroles ou les pensées d’un personnage sont intégrées au récit sans verbe introducteur, sans guillemets ni conjonction. On garde la troisième personne et les temps du récit, mais on conserve souvent les marques de l’expression du personnage : phrases interrogatives ou exclamatives, mots familiers. Exemple : Léa ouvrit sa lettre. Il ne viendrait pas demain, finalement ! Quelle déception. La voix du narrateur et celle du personnage se mêlent."
+    },
+    {
+      "title": "Effets et ponctuation",
+      "text": "Le discours direct donne l’impression d’entendre le personnage et rend le récit vivant. Le discours indirect résume et accélère le récit, le narrateur reste présent. Le discours indirect libre permet d’entrer dans les pensées du personnage. Ponctuation : après les deux-points, majuscule et guillemets ; dans l’incise, pas de majuscule, et le verbe est placé avant le pronom sujet avec un trait d’union : « Tu viens ? demanda-t-il. » On met un -t- entre le verbe terminé par une voyelle et il, elle ou on (demanda-t-il) ; on n’en met pas après un verbe terminé par t (dit-il)."
+    }
+  ],
+  "revision_sheet": [
+    "Direct : paroles telles quelles, guillemets ou tiret, verbe de parole + deux-points ou incise (« Je viens, dit-elle. »).",
+    "Indirect : pas de guillemets, subordonnée (que, si, où) ou infinitif ; on adapte la personne, les repères de temps et de lieu, et les temps si le verbe introducteur est au passé.",
+    "Repères : demain → le lendemain ; hier → la veille ; aujourd’hui → ce jour-là ; ici → là. Temps : présent → imparfait ; futur → conditionnel ; passé composé → plus-que-parfait.",
+    "Indirect libre : ni verbe introducteur ni guillemets ; les paroles ou pensées se mêlent au récit.",
+    "Incise : pas de majuscule, trait d’union, -t- après un verbe terminé par une voyelle (demanda-t-il) mais pas après t (dit-il)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle phrase est au discours indirect ?",
+      "choices": [
+        "Il a dit : « J’ai faim. »",
+        "Il a dit qu’il avait faim.",
+        "Il avait faim ! Quelle idée !"
+      ],
+      "correct_index": 1,
+      "explanation": "« Il a dit qu’il avait faim » intègre les paroles dans une subordonnée introduite par « que », sans guillemets. La première phrase est au discours direct."
+    },
+    {
+      "prompt": "Marie a dit : « Je partirai demain. » Complète la transposition : Marie a dit qu’elle ___.",
+      "choices": [
+        "partira demain",
+        "partirait le lendemain",
+        "partirait demain"
+      ],
+      "correct_index": 1,
+      "explanation": "Le verbe introducteur est au passé composé : le futur devient conditionnel (partirait) et « demain » devient « le lendemain »."
+    },
+    {
+      "prompt": "Quelle phrase est au discours indirect libre ?",
+      "choices": [
+        "Il demanda : « Qui est là ? »",
+        "Il demanda qui était là.",
+        "Il tendit l’oreille. Qui pouvait bien venir à cette heure ?"
+      ],
+      "correct_index": 2,
+      "explanation": "Dans la troisième phrase, la question du personnage est intégrée au récit sans verbe introducteur ni guillemets. Les deux premières ont un verbe introducteur."
+    },
+    {
+      "prompt": "Paul demanda à Léa : « Où habites-tu ? » Quelle est la transposition correcte au discours indirect ?",
+      "choices": [
+        "Paul demanda à Léa où elle habitait.",
+        "Paul demanda à Léa où habites-tu.",
+        "Paul demanda à Léa où elle habiterait."
+      ],
+      "correct_index": 0,
+      "explanation": "L’interrogation devient une subordonnée (sans inversion sujet-verbe), tu devient elle et le présent devient imparfait. « Habiterait » changerait le sens (futur)."
+    },
+    {
+      "prompt": "Quelle incise est correctement écrite ? « Tu viens ? ___ il. »",
+      "choices": [
+        "demanda-il",
+        "demanda-t-il",
+        "demandat-il"
+      ],
+      "correct_index": 1,
+      "explanation": "Après un verbe terminé par une voyelle, on intercale -t- entre deux traits d’union : demanda-t-il. On écrirait « dit-il » sans -t-."
+    },
+    {
+      "prompt": "Au discours indirect, avec un verbe introducteur au passé, « demain » devient souvent :",
+      "choices": [
+        "hier",
+        "le lendemain",
+        "la veille"
+      ],
+      "correct_index": 1,
+      "explanation": "Le repère de temps change avec la situation d’énonciation : demain → le lendemain ; hier → la veille."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Passe au discours indirect : Julie a dit : « Je n’ai pas fini mes devoirs. »",
+      "solution": "Julie a dit qu’elle n’avait pas fini ses devoirs. (je → elle ; mes → ses ; passé composé → plus-que-parfait.)",
+      "success_criterion": "Adapter la personne, le déterminant possessif et le temps."
+    },
+    {
+      "prompt": "Passe au discours indirect : « Nous irons à la mer demain », a promis Paul.",
+      "solution": "Paul a promis qu’ils iraient à la mer le lendemain. (nous → ils ; futur → conditionnel ; demain → le lendemain.)",
+      "success_criterion": "Adapter la personne, le temps et le repère de temps."
+    },
+    {
+      "prompt": "Passe au discours indirect : « Viens m’aider ! » a crié Sam à sa sœur.",
+      "solution": "Sam a crié à sa sœur de venir l’aider. (l’impératif devient un infinitif introduit par « de » ; m’ → l’.)",
+      "success_criterion": "Transformer l’ordre en infinitif et adapter le pronom."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Passe au discours direct : Le médecin demanda à Hugo s’il avait mal au dos depuis longtemps.",
+      "solution": "Le médecin demanda à Hugo : « As-tu mal au dos depuis longtemps ? » (on peut aussi écrire « Avez-vous… » si le médecin vouvoie Hugo.) L’imparfait redevient présent et la subordonnée devient une question avec inversion.",
+      "success_criterion": "Rétablir la personne, le temps, la ponctuation et la forme interrogative."
+    },
+    {
+      "prompt": "Identifie le type de discours rapporté dans chaque phrase : (a) Elle répondit : « Je n’ai pas peur. » (b) Elle répondit qu’elle n’avait pas peur. (c) Elle ouvrit la porte. Peur ? Non, elle n’avait pas peur !",
+      "solution": "(a) discours direct ; (b) discours indirect ; (c) discours indirect libre, car la pensée du personnage est insérée dans le récit sans verbe introducteur ni guillemets.",
+      "success_criterion": "Justifier chaque réponse par un indice (guillemets, verbe introducteur, subordonnée)."
+    },
+    {
+      "prompt": "Écris trois phrases racontant une petite dispute entre deux frères : une au discours direct, une au discours indirect, une au discours indirect libre.",
+      "solution": "Exemple : Tom cria : « Tu as pris mon livre ! » (direct). Léo répondit qu’il ne l’avait pas touché (indirect). Tom serra les poings. Menteur ! Il avait bien vu le livre dans son sac. (indirect libre). Toute production correcte et cohérente est acceptée.",
+      "success_criterion": "Employer les trois formes avec une ponctuation correcte et des temps adaptés."
+    }
+  ],
+  "audio_transcript": "On peut rapporter des paroles de trois façons. Au discours direct, on les écrit telles qu’elles ont été dites, entre guillemets : Léa dit, je suis fatiguée. Au discours indirect, on les intègre dans la phrase, sans guillemets : Léa dit qu’elle est fatiguée. Si le verbe introducteur est au passé, on adapte les temps et les repères : je viendrai demain devient qu’elle viendrait le lendemain. Enfin, au discours indirect libre, les pensées du personnage se mêlent au récit, sans verbe introducteur : Léa ouvrit sa lettre. Il ne viendrait pas demain, finalement ! Dans une incise, on écrit par exemple demanda-t-il, avec un t entre deux traits d’union.",
+  "guided_explanation": "Pour transposer du direct à l’indirect, avance par étapes : choisis le verbe introducteur, enlève les guillemets, change la personne, puis les repères de temps et de lieu, et enfin le temps du verbe si l’introducteur est au passé. Relis ta phrase : a-t-elle encore du sens ? Pour repérer un discours indirect libre, cherche une pensée ou une parole sans verbe introducteur, souvent avec un point d’interrogation ou d’exclamation. Pour la ponctuation d’une incise, vérifie la majuscule, le trait d’union et le -t- éventuel."
+}

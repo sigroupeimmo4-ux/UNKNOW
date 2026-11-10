@@ -1,0 +1,134 @@
+{
+  "id": "cm2-b-operations-decimaux",
+  "title": "Les quatre opérations : parenthèses, multiplication et division avec des décimaux",
+  "chapter_id": "cm2-b-operations-decimaux",
+  "program_id": "CM2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Estimer le résultat d’une opération avant de la calculer.",
+    "Calculer une expression contenant une ou deux paires de parenthèses.",
+    "Multiplier un nombre décimal par un nombre entier.",
+    "Diviser un nombre entier ou décimal par un nombre à un chiffre, avec un quotient décimal."
+  ],
+  "skill_ids": [
+    "cm2-b-operations-decimaux-estimation",
+    "cm2-b-operations-decimaux-multiplication",
+    "cm2-b-operations-decimaux-division"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Estimer avant de calculer",
+      "text": "Avant de poser une opération, on cherche un ordre de grandeur en remplaçant les nombres par des nombres proches et faciles. Pour 4,9 × 7, on remplace 4,9 par 5 : 5 × 7 = 35. Le résultat exact doit être proche de 35 (il vaut 34,3). Si tu trouves 343 ou 3,43, tu sais tout de suite qu’il y a une erreur de virgule."
+    },
+    {
+      "title": "Les parenthèses",
+      "text": "On effectue d’abord le calcul qui est entre parenthèses. 20 − (6 + 4) = 20 − 10 = 10, alors que 20 − 6 + 4 = 14 + 4 = 18 : les parenthèses changent le résultat. Avec deux paires de parenthèses, on calcule chacune à son tour : (12 − 4) × (3 + 2) = 8 × 5 = 40."
+    },
+    {
+      "title": "Multiplier un nombre décimal par un entier",
+      "text": "Pour calculer 12,5 × 6, on peut multiplier comme avec des entiers : 125 × 6 = 750. Comme 12,5 a un chiffre après la virgule, le résultat en a un aussi : 75,0, donc 75. On peut le comprendre ainsi : 12,5 = 125 dixièmes, et 125 dixièmes × 6 = 750 dixièmes = 75. Autre exemple : 3,25 × 4 : 325 × 4 = 1 300, avec deux chiffres après la virgule : 13,00 = 13. On contrôle avec l’estimation : 3 × 4 = 12, proche de 13."
+    },
+    {
+      "title": "Diviser avec un quotient décimal",
+      "text": "Quand la division des unités laisse un reste, on met une virgule au quotient et on continue avec des dixièmes, puis des centièmes. Pour 7 ÷ 4 : 7 = 4 × 1 + 3 ; il reste 3 unités, soit 30 dixièmes ; 30 ÷ 4 = 7 reste 2 ; il reste 2 dixièmes, soit 20 centièmes ; 20 ÷ 4 = 5. Donc 7 ÷ 4 = 1,75. Avec un dividende décimal comme 14,4 ÷ 6 : 14 ÷ 6 = 2 reste 2, on écrit la virgule au quotient, puis 24 dixièmes ÷ 6 = 4 dixièmes : 14,4 ÷ 6 = 2,4. Vérification : 6 × 2,4 = 14,4."
+    }
+  ],
+  "revision_sheet": [
+    "Estimer : remplacer les nombres par des nombres proches, par exemple 4,9 × 7 ≈ 5 × 7 = 35.",
+    "Parenthèses : on calcule d’abord dedans. 20 − (6 + 4) = 10 mais 20 − 6 + 4 = 18.",
+    "Décimal × entier : multiplier comme des entiers, puis remettre autant de chiffres après la virgule qu’au départ. 12,5 × 6 = 75.",
+    "Division décimale : quand il y a un reste, on met la virgule au quotient et on continue. 7 ÷ 4 = 1,75.",
+    "On vérifie une division en multipliant : diviseur × quotient = dividende."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel est un bon ordre de grandeur de 4,9 × 7 ?",
+      "choices": [
+        "environ 35",
+        "environ 350",
+        "environ 3,5"
+      ],
+      "correct_index": 0,
+      "explanation": "4,9 est proche de 5 et 5 × 7 = 35. Le résultat est donc proche de 35 (en réalité 34,3)."
+    },
+    {
+      "prompt": "Combien font 30 − (8 + 7) ?",
+      "choices": [
+        "29",
+        "15",
+        "45"
+      ],
+      "correct_index": 1,
+      "explanation": "On calcule d’abord dans les parenthèses : 8 + 7 = 15, puis 30 − 15 = 15. Le résultat 29 correspond à 30 − 8 + 7, qui est un autre calcul."
+    },
+    {
+      "prompt": "Combien font 12,5 × 6 ?",
+      "choices": [
+        "7,5",
+        "75",
+        "750"
+      ],
+      "correct_index": 1,
+      "explanation": "125 × 6 = 750, et 12,5 a un seul chiffre après la virgule : 75,0, soit 75. L’estimation 12 × 6 = 72 confirme."
+    },
+    {
+      "prompt": "Combien font 9 ÷ 2 ?",
+      "choices": [
+        "4,5",
+        "4,1",
+        "4,25"
+      ],
+      "correct_index": 0,
+      "explanation": "9 = 2 × 4 + 1. Il reste 1 unité, soit 10 dixièmes ; 10 ÷ 2 = 5 dixièmes. Donc 9 ÷ 2 = 4,5."
+    },
+    {
+      "prompt": "Combien font 14,4 ÷ 6 ?",
+      "choices": [
+        "24",
+        "2,04",
+        "2,4"
+      ],
+      "correct_index": 2,
+      "explanation": "14 ÷ 6 = 2 reste 2, puis 24 dixièmes ÷ 6 = 4 dixièmes : 2,4. Vérification : 6 × 2,4 = 14,4."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule (18 − 6) × (4 + 1).",
+      "solution": "(18 − 6) = 12 et (4 + 1) = 5, donc 12 × 5 = 60.",
+      "success_criterion": "Calculer chaque parenthèse d’abord, puis effectuer la multiplication."
+    },
+    {
+      "prompt": "Estime puis pose 6,3 × 8.",
+      "solution": "Estimation : 6 × 8 = 48. Calcul : 63 × 8 = 504, avec un chiffre après la virgule : 50,4. Le résultat est proche de l’estimation.",
+      "success_criterion": "Contrôler le résultat avec une estimation et placer correctement la virgule."
+    },
+    {
+      "prompt": "Pose la division 19 ÷ 4 et donne un quotient décimal.",
+      "solution": "19 = 4 × 4 + 3 ; 30 dixièmes ÷ 4 = 7 reste 2 ; 20 centièmes ÷ 4 = 5. Donc 19 ÷ 4 = 4,75.",
+      "success_criterion": "Mettre la virgule au quotient et continuer la division avec les dixièmes puis les centièmes."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Maëlle achète 6 cahiers à 2,35 € l’un. Estime le prix total, puis calcule-le.",
+      "solution": "Estimation : 6 × 2 = 12 € et 6 × 3 = 18 €, le prix est entre 12 € et 18 €. Calcul : 235 × 6 = 1 410, avec deux chiffres après la virgule : 14,10 €. Maëlle paie 14,10 €, ce qui est vraisemblable.",
+      "success_criterion": "Estimer, poser la multiplication, placer la virgule et conclure avec l’unité."
+    },
+    {
+      "prompt": "Un sac de 25,2 kg de riz est réparti en 7 paquets de même masse. Quelle est la masse d’un paquet ?",
+      "solution": "25 ÷ 7 = 3 reste 4 ; on met la virgule ; 42 dixièmes ÷ 7 = 6 dixièmes. Chaque paquet pèse 3,6 kg. Vérification : 7 × 3,6 = 25,2.",
+      "success_criterion": "Poser la division avec un dividende décimal et vérifier par une multiplication."
+    },
+    {
+      "prompt": "Place une paire de parenthèses pour rendre vraie l’égalité 10 − 3 + 2 = 5.",
+      "solution": "Sans parenthèses, 10 − 3 + 2 = 7 + 2 = 9. En écrivant 10 − (3 + 2), on calcule 3 + 2 = 5, puis 10 − 5 = 5. L’égalité est vraie.",
+      "success_criterion": "Comprendre que les parenthèses imposent l’ordre des calculs."
+    }
+  ],
+  "audio_transcript": "Avant de calculer, on estime le résultat avec des nombres proches. Quatre virgule neuf fois sept, c’est environ cinq fois sept, donc trente-cinq. Dans un calcul, on commence par ce qui est entre parenthèses : vingt moins parenthèse six plus quatre, cela fait vingt moins dix, donc dix. Pour multiplier un décimal par un entier, on multiplie comme avec des entiers puis on remet la virgule : douze virgule cinq fois six, c’est cent vingt-cinq fois six égale sept cent cinquante, donc soixante-quinze. Pour diviser avec un reste, on met une virgule au quotient et on continue avec des dixièmes : sept divisé par quatre fait un virgule soixante-quinze.",
+  "guided_explanation": "Imagine que tu partages 7 galettes entre 4 amis. Chacun en reçoit 1 entière, et il en reste 3. Tu coupes chaque galette restante en 10 parts : cela fait 30 parts, soit 7 parts par ami (28 parts) et il en reste 2. Tu coupes encore ces 2 parts en 10 : 20 petites parts, soit 5 par ami. Chacun a donc 1 galette, 7 dixièmes et 5 centièmes : 1,75. Pour les parenthèses, pense à un sac fermé : tu ouvres d’abord le sac (le calcul entre parenthèses), puis tu fais le reste. Et pense toujours à estimer : si ton résultat est très loin de l’estimation, relis ta virgule."
+}

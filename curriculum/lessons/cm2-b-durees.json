@@ -1,0 +1,134 @@
+{
+  "id": "cm2-b-durees",
+  "title": "Les durées : heures, minutes et secondes",
+  "chapter_id": "cm2-b-durees",
+  "program_id": "CM2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Connaître les relations entre heure, minute et seconde.",
+    "Convertir des durées.",
+    "Calculer une durée écoulée entre deux instants et déterminer un horaire d’arrivée ou de départ.",
+    "Résoudre des problèmes à plusieurs étapes avec des durées."
+  ],
+  "skill_ids": [
+    "cm2-b-durees-conversion",
+    "cm2-b-durees-calcul",
+    "cm2-b-durees-problemes"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Heures, minutes et secondes",
+      "text": "On compte les durées avec trois unités : 1 heure (h) = 60 minutes (min) et 1 minute = 60 secondes (s). On en déduit 1 h = 60 × 60 = 3 600 s. Ce système, qui regroupe par 60, s’appelle le système sexagésimal (base soixante), à la différence de notre numération, qui regroupe par dix. Une demi-heure dure 30 min, un quart d’heure 15 min, trois quarts d’heure 45 min."
+    },
+    {
+      "title": "Convertir une durée",
+      "text": "Pour convertir, on regroupe par 60. 150 s : 150 = 120 + 30, donc 150 s = 2 min 30 s. 135 min : 135 = 120 + 15, donc 135 min = 2 h 15 min. Dans l’autre sens, 2 h 20 min = 2 × 60 + 20 = 140 min, et 1 min 45 s = 60 + 45 = 105 s. Attention : 2,5 h n’est pas 2 h 50 min. Comme 0,5 h est une demi-heure, 2,5 h = 2 h 30 min."
+    },
+    {
+      "title": "Calculer une durée écoulée",
+      "text": "Pour trouver la durée entre deux instants, on avance par étapes jusqu’à une heure ronde. De 8 h 45 à 11 h 20 : de 8 h 45 à 9 h, il y a 15 min ; de 9 h à 11 h, 2 h ; de 11 h à 11 h 20, 20 min. Au total 2 h + 15 min + 20 min = 2 h 35 min. Avec des secondes, on procède de la même façon : de 10 h 20 min 30 s à 10 h 25 min 10 s, on a 30 s + 4 min + 10 s = 4 min 40 s."
+    },
+    {
+      "title": "Additionner des durées et trouver un horaire",
+      "text": "On additionne séparément les heures et les minutes, puis on convertit si on dépasse 60 : 1 h 45 min + 2 h 30 min = 3 h 75 min = 4 h 15 min, car 75 min = 1 h 15 min. Pour trouver une heure de fin, on ajoute la durée à l’heure de début : un film qui commence à 20 h 40 et dure 1 h 50 min se termine à 20 h 40 + 1 h = 21 h 40, puis 21 h 40 + 50 min = 22 h 30."
+    }
+  ],
+  "revision_sheet": [
+    "1 h = 60 min ; 1 min = 60 s ; 1 h = 3 600 s.",
+    "Convertir : regrouper par 60. 150 s = 2 min 30 s ; 135 min = 2 h 15 min.",
+    "2,5 h = 2 h 30 min (et non 2 h 50 min).",
+    "Durée écoulée : avancer jusqu’à une heure ronde, puis additionner les morceaux.",
+    "Après une addition, convertir si on dépasse 60 min : 3 h 75 min = 4 h 15 min."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de secondes y a-t-il dans 3 minutes ?",
+      "choices": [
+        "90 s",
+        "180 s",
+        "300 s"
+      ],
+      "correct_index": 1,
+      "explanation": "1 min = 60 s, donc 3 min = 3 × 60 = 180 s."
+    },
+    {
+      "prompt": "Combien font 135 minutes en heures et minutes ?",
+      "choices": [
+        "1 h 35 min",
+        "2 h 15 min",
+        "2 h 35 min"
+      ],
+      "correct_index": 1,
+      "explanation": "135 = 120 + 15, et 120 min = 2 h. Donc 135 min = 2 h 15 min."
+    },
+    {
+      "prompt": "Un film commence à 20 h 40 et dure 1 h 50 min. À quelle heure finit-il ?",
+      "choices": [
+        "22 h 30",
+        "21 h 90",
+        "22 h 10"
+      ],
+      "correct_index": 0,
+      "explanation": "20 h 40 + 1 h = 21 h 40, puis + 50 min = 22 h 30. « 21 h 90 » n’existe pas : il n’y a que 60 minutes dans une heure."
+    },
+    {
+      "prompt": "Combien de minutes font 2 h 20 min ?",
+      "choices": [
+        "220 min",
+        "160 min",
+        "140 min"
+      ],
+      "correct_index": 2,
+      "explanation": "2 h = 120 min, et 120 + 20 = 140 min."
+    },
+    {
+      "prompt": "Quelle est la durée entre 8 h 45 et 11 h 20 ?",
+      "choices": [
+        "3 h 25 min",
+        "2 h 35 min",
+        "2 h 75 min"
+      ],
+      "correct_index": 1,
+      "explanation": "De 8 h 45 à 9 h : 15 min ; de 9 h à 11 h : 2 h ; de 11 h à 11 h 20 : 20 min. Total : 2 h 35 min."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Convertis 250 secondes en minutes et secondes.",
+      "solution": "250 = 240 + 10 et 240 s = 4 min. Donc 250 s = 4 min 10 s.",
+      "success_criterion": "Regrouper les secondes par 60."
+    },
+    {
+      "prompt": "Un cours commence à 13 h 50 et se termine à 15 h 15. Quelle est sa durée ?",
+      "solution": "De 13 h 50 à 14 h : 10 min ; de 14 h à 15 h : 1 h ; de 15 h à 15 h 15 : 15 min. Durée : 1 h 25 min.",
+      "success_criterion": "Passer par une heure ronde et additionner les morceaux."
+    },
+    {
+      "prompt": "Calcule 1 h 40 min + 2 h 35 min.",
+      "solution": "Heures : 1 + 2 = 3 h. Minutes : 40 + 35 = 75 min = 1 h 15 min. Total : 3 h + 1 h 15 min = 4 h 15 min.",
+      "success_criterion": "Convertir les minutes au-delà de 60 en heures."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Inès a couru en 1 min 52 s et Noé en 105 s. Qui a été le plus rapide, et avec quelle avance ?",
+      "solution": "1 min 52 s = 60 + 52 = 112 s. Noé a mis 105 s, moins que 112 s : il est le plus rapide. L’écart est de 112 − 105 = 7 s.",
+      "success_criterion": "Convertir les deux durées dans la même unité avant de comparer."
+    },
+    {
+      "prompt": "Un train part à 9 h 25 et arrive à 12 h 10. Quelle est la durée du trajet ? Un second train de 1 h 30 min part 15 min après l’arrivée du premier : à quelle heure arrive-t-il ?",
+      "solution": "Durée : de 9 h 25 à 10 h : 35 min ; de 10 h à 12 h : 2 h ; de 12 h à 12 h 10 : 10 min. Total : 2 h 45 min. Le second train part à 12 h 10 + 15 min = 12 h 25, puis arrive à 12 h 25 + 1 h 30 min = 13 h 55.",
+      "success_criterion": "Résoudre le problème en deux étapes avec des horaires et des durées."
+    },
+    {
+      "prompt": "Explique pourquoi 2,5 h ne se lit pas 2 h 50 min.",
+      "solution": "Une heure contient 60 minutes et non 100. Le 0,5 de 2,5 h représente une demi-heure, soit 30 min. Donc 2,5 h = 2 h 30 min.",
+      "success_criterion": "Relier la partie décimale à la fraction d’heure, et non à un nombre de minutes lu directement."
+    }
+  ],
+  "audio_transcript": "Une heure vaut soixante minutes, et une minute vaut soixante secondes. Donc une heure vaut trois mille six cents secondes. Pour convertir, on regroupe par soixante : cent cinquante secondes, c’est deux minutes et trente secondes. Pour trouver une durée entre deux horaires, on avance jusqu’à une heure ronde. De huit heures quarante-cinq à onze heures vingt : quinze minutes jusqu’à neuf heures, deux heures jusqu’à onze heures, puis vingt minutes. Cela fait deux heures trente-cinq. Quand on additionne des durées et que les minutes dépassent soixante, on convertit en heures. Et deux heures et demie, c’est deux heures trente, pas deux heures cinquante.",
+  "guided_explanation": "Pense à l’horloge : le grand tour de l’aiguille des minutes dure 60 minutes, comme une heure. Pour la durée entre 13 h 50 et 15 h 15, fais des petits sauts : 13 h 50 → 14 h (10 min), 14 h → 15 h (1 h), 15 h → 15 h 15 (15 min). Tu additionnes : 10 + 15 = 25 min, plus 1 h : 1 h 25 min. Pour additionner 1 h 40 et 2 h 35, additionne les heures (3 h) et les minutes (75 min). Comme 75 min c’est plus d’une heure, tu en fais 1 h 15 min, et tu obtiens 4 h 15 min. L’astuce à retenir : dès que les minutes ou les secondes atteignent 60, tu changes d’unité."
+}

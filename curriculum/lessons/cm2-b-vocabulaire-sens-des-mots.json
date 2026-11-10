@@ -1,0 +1,134 @@
+{
+  "id": "cm2-b-vocabulaire-sens-des-mots",
+  "title": "Le vocabulaire : comprendre un mot, sa famille et ses sens",
+  "chapter_id": "cm2-b-vocabulaire-sens-des-mots",
+  "program_id": "CM2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Deviner le sens d’un mot inconnu grâce au contexte et à sa construction.",
+    "Reconnaître une famille de mots, des préfixes et des suffixes.",
+    "Repérer les différents sens d’un mot polysémique.",
+    "Utiliser les synonymes, les contraires, les hyperonymes et le dictionnaire."
+  ],
+  "skill_ids": [
+    "cm2-b-vocabulaire-sens-des-mots-contexte",
+    "cm2-b-vocabulaire-sens-des-mots-polysemie",
+    "cm2-b-vocabulaire-sens-des-mots-relations"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Comprendre un mot inconnu",
+      "text": "Face à un mot inconnu, on cherche d’abord des indices dans la phrase : c’est le contexte. « Le dompteur est intrépide : il entre dans la cage sans trembler » : on comprend que intrépide veut dire qui n’a pas peur. On regarde aussi comment le mot est construit : dans infatigable, on trouve le préfixe in- (qui exprime le contraire), le radical fatigue et le suffixe -able (qui peut être). Infatigable signifie donc qui ne se fatigue pas."
+    },
+    {
+      "title": "La famille de mots",
+      "text": "Les mots d’une même famille ont le même radical et un sens proche. Famille de terre : terrain, terrasse, enterrer, atterrir, souterrain, terrier. Pour fabriquer des mots, on ajoute des préfixes avant le radical (re-, dé-, in-, mal-) ou des suffixes après (-eur, -able, -tion). Pour former un contraire, on utilise souvent in-, qui devient im- devant b, m, p (impossible), il- devant l (illisible) et ir- devant r (irréel). Attention : fleuve n’est pas de la famille de fleur, même si les deux mots commencent de la même façon."
+    },
+    {
+      "title": "Un mot, plusieurs sens : la polysémie",
+      "text": "Un mot polysémique a plusieurs sens, qu’on distingue grâce au contexte. « Une pièce de la maison », « une pièce de monnaie », « une pièce de théâtre » : le mot pièce change de sens à chaque fois. De même, le pied d’une personne, le pied de la montagne, le pied de la lampe. Quand un sens ne convient pas à la phrase, on cherche un autre sens du mot."
+    },
+    {
+      "title": "Synonymes, contraires, hyperonymes et dictionnaire",
+      "text": "Des synonymes sont des mots de sens proche (joyeux, gai) et des antonymes des mots de sens contraire (clair, sombre). Un hyperonyme est un mot plus général : siège est l’hyperonyme de chaise, banc et tabouret, qui sont ses hyponymes. Dans le dictionnaire, les mots sont rangés dans l’ordre alphabétique (chanter vient avant chapeau car n est avant p) ; on cherche un verbe à l’infinitif (chantaient se cherche à chanter) et un nom au singulier et un adjectif au masculin singulier. Les différents sens d’un mot sont numérotés."
+    }
+  ],
+  "revision_sheet": [
+    "Pour comprendre un mot inconnu : contexte de la phrase + construction du mot (préfixe, radical, suffixe).",
+    "Famille de mots : même radical, sens proche (terre, terrain, enterrer).",
+    "Contraires : in- (im- devant b, m, p ; il- devant l ; ir- devant r) : impossible, illisible, irréel.",
+    "Polysémie : un mot, plusieurs sens selon le contexte (pièce de monnaie, pièce de théâtre).",
+    "Hyperonyme : mot général (siège) ; hyponymes : chaise, banc, tabouret. Dictionnaire : ordre alphabétique, verbe à l’infinitif."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel mot appartient à la famille de « terre » ?",
+      "choices": [
+        "terrain",
+        "terminer",
+        "terrible"
+      ],
+      "correct_index": 0,
+      "explanation": "Terrain contient le radical terr- et désigne un morceau de terre. Terminer et terrible ne viennent pas de terre."
+    },
+    {
+      "prompt": "Que signifie « infatigable » ?",
+      "choices": [
+        "qui est très fatigué",
+        "qui ne se fatigue pas",
+        "qui fatigue les autres"
+      ],
+      "correct_index": 1,
+      "explanation": "In- exprime le contraire, fatigue est le radical et -able signifie « qui peut être » : qui ne peut pas être fatigué, qui ne se fatigue pas."
+    },
+    {
+      "prompt": "Quel mot est le contraire de « possible » formé avec un préfixe ?",
+      "choices": [
+        "possibilité",
+        "impossible",
+        "possession"
+      ],
+      "correct_index": 1,
+      "explanation": "In- devient im- devant p : impossible est le contraire de possible."
+    },
+    {
+      "prompt": "Dans « J’ai rangé ma pièce de monnaie dans ma poche », que signifie « pièce » ?",
+      "choices": [
+        "un petit disque de métal servant d’argent",
+        "une chambre de la maison",
+        "un spectacle de théâtre"
+      ],
+      "correct_index": 0,
+      "explanation": "Le contexte (« de monnaie », « dans ma poche ») indique une pièce d’argent."
+    },
+    {
+      "prompt": "Quel mot est un hyperonyme de « chaise », « banc » et « tabouret » ?",
+      "choices": [
+        "bois",
+        "table",
+        "siège"
+      ],
+      "correct_index": 2,
+      "explanation": "Siège est un mot plus général qui désigne tous les objets sur lesquels on s’assoit : c’est leur hyperonyme."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Parmi ces mots, entoure ceux qui sont de la famille de « fleur » : fleuriste, fleuve, fleurir, fleurette.",
+      "solution": "fleuriste, fleurir et fleurette sont de la famille de fleur. Fleuve n’en fait pas partie : son sens est différent.",
+      "success_criterion": "Chercher le radical commun et un sens lié à celui de fleur."
+    },
+    {
+      "prompt": "Forme le contraire de chaque mot avec un préfixe : heureux ; patient ; lisible ; faire.",
+      "solution": "heureux → malheureux ; patient → impatient (im- devant p) ; lisible → illisible (il- devant l) ; faire → défaire.",
+      "success_criterion": "Choisir le bon préfixe et l’écrire correctement."
+    },
+    {
+      "prompt": "Explique le sens du mot « pied » dans chaque phrase : « Il a mal au pied. » ; « Nous campons au pied de la montagne. » ; « Le pied de la lampe est cassé. »",
+      "solution": "Partie du corps ; bas, partie la plus basse de la montagne ; support, partie sur laquelle repose la lampe.",
+      "success_criterion": "S’aider du contexte pour choisir le sens du mot."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Lis : « Le dompteur était intrépide : il entrait dans la cage sans trembler. » Que peut signifier « intrépide » ? Quel indice t’aide ?",
+      "solution": "Intrépide signifie courageux, qui n’a pas peur. L’indice est le contexte : « sans trembler » montre que le dompteur n’a pas peur.",
+      "success_criterion": "Utiliser le contexte pour donner un sens vraisemblable et citer l’indice."
+    },
+    {
+      "prompt": "Classe dans l’ordre alphabétique : chapeau, chanter, chameau, chaise. Sous quelle forme cherche-t-on « chantaient » dans le dictionnaire ?",
+      "solution": "Ordre : chaise, chameau, chanter, chapeau (cha-i, cha-m, cha-n, cha-p). On cherche « chantaient » à l’infinitif : chanter.",
+      "success_criterion": "Comparer les lettres une à une et chercher un verbe à l’infinitif."
+    },
+    {
+      "prompt": "Écris deux phrases où le mot « pièce » a deux sens différents, puis trouve un hyperonyme de « tabouret ».",
+      "solution": "Exemples : « Ma chambre est la plus petite pièce de la maison. » ; « Il a trouvé une pièce de deux euros. » L’hyperonyme de tabouret est siège. D’autres phrases correctes sont acceptées.",
+      "success_criterion": "Montrer deux sens du même mot dans des phrases correctes et nommer un mot plus général."
+    }
+  ],
+  "audio_transcript": "Pour comprendre un mot inconnu, on regarde le contexte de la phrase et la construction du mot. Dans infatigable, on trouve le préfixe in, qui exprime le contraire, le radical fatigue et le suffixe able : qui ne se fatigue pas. Les mots d’une même famille ont le même radical : terre, terrain, enterrer. Un mot polysémique a plusieurs sens : une pièce de monnaie, une pièce de théâtre, une pièce de la maison. Siège est l’hyperonyme de chaise, banc et tabouret. Dans le dictionnaire, on cherche les verbes à l’infinitif et les mots dans l’ordre alphabétique.",
+  "guided_explanation": "Quand tu rencontres un mot que tu ne connais pas, mène l’enquête. Premier indice : le contexte. Que raconte la phrase ? Deuxième indice : le mot lui-même. Coupe-le en morceaux : préfixe, radical, suffixe. Dans « malheureux », mal- veut dire pas, et heureux est le radical : pas heureux. Si un mot a plusieurs sens, relis la phrase : « une pièce » peut être une chambre, une pièce d’argent ou une pièce de théâtre, et seul le contexte te dit laquelle. Enfin, tu peux vérifier dans le dictionnaire : cherche le verbe à l’infinitif, par exemple chanter pour chantaient, et lis les sens numérotés jusqu’à trouver celui qui convient."
+}

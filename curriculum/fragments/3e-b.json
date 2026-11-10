@@ -1,0 +1,1364 @@
+{
+  "programs": [
+    {
+      "id": "3e-mathematiques-commun",
+      "domains": [
+        {
+          "id": "donnees-et-fonctions",
+          "title": "Organisation et gestion de données, fonctions",
+          "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser la notion de fonction, page 133 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-b-statistiques",
+              "title": "Statistiques : effectifs, fréquences, moyenne, médiane et étendue",
+              "title_type": "editorial",
+              "official_section": "Interpréter, représenter et traiter des données",
+              "notions": [
+                "Effectifs et fréquences",
+                "Moyenne et médiane (indicateurs de position)",
+                "Étendue (indicateur de dispersion)"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-b-statistiques-knowledge",
+                  "text": "Une série statistique se décrit par des effectifs et des fréquences, et se résume par des indicateurs de position (moyenne, médiane) et un indicateur de dispersion (étendue).",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, page 132 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-b-statistiques-skill-lire",
+                  "text": "Recueillir des données, les organiser et les lire sous forme de tableau ou de diagramme (diagramme en bâtons, diagramme circulaire, histogramme).",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, page 132 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-statistiques-skill-frequences",
+                  "text": "Calculer des effectifs et des fréquences.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, page 132 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-statistiques-skill-indicateurs",
+                  "text": "Calculer et interpréter des indicateurs de position (moyenne, médiane) ou de dispersion (étendue) d’une série statistique.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, page 132 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, page 132 (pagination du PDF)."
+            },
+            {
+              "id": "3e-b-probabilites",
+              "title": "Probabilités : calculer la chance d’un événement",
+              "title_type": "editorial",
+              "official_section": "Comprendre et utiliser des notions élémentaires de probabilités",
+              "notions": [
+                "Vocabulaire des probabilités (expérience, issue, événement)",
+                "Probabilité comprise entre 0 et 1",
+                "Événements certains, impossibles et contraires",
+                "Lien entre fréquence et probabilité"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-b-probabilites-knowledge",
+                  "text": "La probabilité d’un événement est un nombre compris entre 0 et 1 ; elle vaut 0 pour un événement impossible, 1 pour un événement certain, et la probabilité d’un événement contraire s’obtient par 1 − p.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, page 132 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-b-probabilites-skill-calculer",
+                  "text": "Calculer des probabilités dans des cas simples (par exemple évaluation des chances de gain dans un jeu) et les exprimer sous forme décimale, fractionnaire ou en pourcentage.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, page 132 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-probabilites-skill-contraire",
+                  "text": "Utiliser les événements certains, impossibles et contraires et savoir que la probabilité d’un événement est comprise entre 0 et 1.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, page 132 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-probabilites-skill-frequence",
+                  "text": "Faire le lien entre fréquence et probabilité.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, page 132 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, page 132 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "espace-et-geometrie",
+          "title": "Espace et géométrie",
+          "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-b-pythagore",
+              "title": "Le théorème de Pythagore et sa réciproque",
+              "title_type": "editorial",
+              "official_section": "Utiliser les notions de géométrie plane pour démontrer",
+              "notions": [
+                "Hypoténuse d’un triangle rectangle",
+                "Théorème de Pythagore",
+                "Racine carrée",
+                "Réciproque du théorème de Pythagore"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-b-pythagore-knowledge",
+                  "text": "Le théorème de Pythagore relie les longueurs des côtés d’un triangle rectangle (le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés) ; sa réciproque permet de démontrer qu’un triangle est rectangle.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-b-pythagore-skill-longueur",
+                  "text": "Mobiliser le théorème de Pythagore pour déterminer une longueur dans un triangle rectangle.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-pythagore-skill-racine",
+                  "text": "Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (racine carrée), pages 130–131 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-pythagore-skill-reciproque",
+                  "text": "Mener des raisonnements et s’initier à la démonstration en utilisant la réciproque du théorème de Pythagore pour montrer qu’un triangle est ou n’est pas rectangle.",
+                  "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, pages 135–136 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e-francais-commun",
+      "domains": [
+        {
+          "id": "etude-de-la-langue",
+          "title": "Étude de la langue (grammaire, orthographe, lexique)",
+          "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue (grammaire, orthographe, lexique), pages 20–26 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "3e-b-fonctions-phrase-simple",
+              "title": "Identifier le COD, le COI, l’attribut du COD et l’apposition",
+              "title_type": "editorial",
+              "official_section": "Analyser le fonctionnement de la phrase simple et de la phrase complexe",
+              "notions": [
+                "Complément d’objet direct (COD)",
+                "Complément d’objet indirect (COI)",
+                "Attribut du COD",
+                "Apposition"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-b-fonctions-phrase-simple-knowledge",
+                  "text": "Dans la phrase simple, le COD et le COI complètent le verbe (sans préposition pour le COD, avec une préposition pour le COI) ; l’attribut du COD qualifie le COD ; l’apposition est une expansion du nom séparée de lui par une virgule.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (fonctionnement de la phrase simple), page 22 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-b-fonctions-phrase-simple-skill-cod-coi",
+                  "text": "Approfondir la connaissance du COD et du COI : les identifier, y compris quand ils sont des pronoms.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (fonctionnement de la phrase simple), page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+                  "text": "Identifier l’attribut du COD.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (fonctionnement de la phrase simple), page 22 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-fonctions-phrase-simple-skill-apposition",
+                  "text": "Identifier l’apposition et la distinguer des autres expansions du nom (épithète, complément du nom).",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (fonctionnement de la phrase simple), page 22 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (fonctionnement de la phrase simple), page 22 (pagination du PDF)."
+            },
+            {
+              "id": "3e-b-formation-des-mots",
+              "title": "Enrichir son lexique : dérivation, composition, préfixes, suffixes et racines",
+              "title_type": "editorial",
+              "official_section": "Enrichir et structurer le lexique",
+              "notions": [
+                "Dérivation (préfixes et suffixes)",
+                "Composition",
+                "Racines latines et grecques",
+                "Familles de mots et champs lexicaux"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-b-formation-des-mots-knowledge",
+                  "text": "Les mots se forment par dérivation (préfixes, suffixes) et par composition, à partir de radicaux et de racines latines ou grecques ; la dérivation peut changer la classe du mot (beau / beauté).",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-b-formation-des-mots-skill-derivation",
+                  "text": "Observer la formation des mots (dérivation et composition) et repérer les changements de catégorie syntaxique induits par la dérivation.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-formation-des-mots-skill-sens",
+                  "text": "Connaître le sens des préfixes et suffixes les plus fréquents et de certaines racines latines et grecques.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-formation-des-mots-skill-reseau",
+                  "text": "Mettre en réseau des mots (famille de mots, champ lexical).",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique, page 25 (pagination du PDF)."
+            },
+            {
+              "id": "3e-b-temps-du-recit",
+              "title": "Les temps du récit : passé simple, imparfait et plus-que-parfait",
+              "title_type": "editorial",
+              "official_section": "Consolider l’orthographe lexicale et grammaticale",
+              "notions": [
+                "Imparfait de l’indicatif",
+                "Passé simple de l’indicatif",
+                "Plus-que-parfait de l’indicatif",
+                "Valeur des temps : premier plan et arrière-plan, accompli et non accompli"
+              ],
+              "knowledge": [
+                {
+                  "id": "3e-b-temps-du-recit-knowledge",
+                  "text": "L’imparfait, le passé simple et le plus-que-parfait se forment à partir des bases verbales ; leur emploi dans un récit exprime des valeurs différentes (arrière-plan et premier plan, action non bornée ou bornée, action accomplie).",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens), pages 23–24 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "3e-b-temps-du-recit-skill-former",
+                  "text": "Former les temps simples (imparfait, passé simple) et construire le temps composé plus-que-parfait à partir des bases verbales.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens), pages 23–24 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-temps-du-recit-skill-valeurs",
+                  "text": "Mettre en évidence le lien entre le temps employé et le sens : premier plan et arrière-plan, action bornée ou non, non accompli et accompli.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens), pages 23–24 (pagination du PDF)."
+                },
+                {
+                  "id": "3e-b-temps-du-recit-skill-reecrire",
+                  "text": "Réécrire un court récit en changeant les temps et apprécier les effets produits.",
+                  "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens), pages 23–24 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (morphologie verbale ; lien entre le temps employé et le sens), pages 23–24 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "3e-b-statistiques-course",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-statistiques"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Calculer des effectifs et des fréquences et les écrire en fraction, en nombre décimal ou en pourcentage.",
+        "Calculer une moyenne, une médiane et une étendue.",
+        "Interpréter ces indicateurs et comparer deux séries."
+      ],
+      "skill_ids": [
+        "3e-b-statistiques-skill-lire",
+        "3e-b-statistiques-skill-frequences",
+        "3e-b-statistiques-skill-indicateurs"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, (« Effectifs, fréquences », « Indicateurs de position : moyenne, médiane », « Indicateur de dispersion : étendue »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-statistiques.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-statistiques-revision_sheet",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-statistiques"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Calculer des effectifs et des fréquences et les écrire en fraction, en nombre décimal ou en pourcentage.",
+        "Calculer une moyenne, une médiane et une étendue.",
+        "Interpréter ces indicateurs et comparer deux séries."
+      ],
+      "skill_ids": [
+        "3e-b-statistiques-skill-lire",
+        "3e-b-statistiques-skill-frequences",
+        "3e-b-statistiques-skill-indicateurs"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, (« Effectifs, fréquences », « Indicateurs de position : moyenne, médiane », « Indicateur de dispersion : étendue »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-statistiques.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-statistiques-quiz",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-statistiques"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Calculer des effectifs et des fréquences et les écrire en fraction, en nombre décimal ou en pourcentage.",
+        "Calculer une moyenne, une médiane et une étendue.",
+        "Interpréter ces indicateurs et comparer deux séries."
+      ],
+      "skill_ids": [
+        "3e-b-statistiques-skill-lire",
+        "3e-b-statistiques-skill-frequences",
+        "3e-b-statistiques-skill-indicateurs"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, (« Effectifs, fréquences », « Indicateurs de position : moyenne, médiane », « Indicateur de dispersion : étendue »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-statistiques.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-statistiques-exercise",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-statistiques"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Calculer des effectifs et des fréquences et les écrire en fraction, en nombre décimal ou en pourcentage.",
+        "Calculer une moyenne, une médiane et une étendue.",
+        "Interpréter ces indicateurs et comparer deux séries."
+      ],
+      "skill_ids": [
+        "3e-b-statistiques-skill-lire",
+        "3e-b-statistiques-skill-frequences",
+        "3e-b-statistiques-skill-indicateurs"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, (« Effectifs, fréquences », « Indicateurs de position : moyenne, médiane », « Indicateur de dispersion : étendue »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-statistiques.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-statistiques-assessment",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-statistiques"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Calculer des effectifs et des fréquences et les écrire en fraction, en nombre décimal ou en pourcentage.",
+        "Calculer une moyenne, une médiane et une étendue.",
+        "Interpréter ces indicateurs et comparer deux séries."
+      ],
+      "skill_ids": [
+        "3e-b-statistiques-skill-lire",
+        "3e-b-statistiques-skill-frequences",
+        "3e-b-statistiques-skill-indicateurs"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, (« Effectifs, fréquences », « Indicateurs de position : moyenne, médiane », « Indicateur de dispersion : étendue »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-statistiques.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-statistiques-audio",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-statistiques"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Calculer des effectifs et des fréquences et les écrire en fraction, en nombre décimal ou en pourcentage.",
+        "Calculer une moyenne, une médiane et une étendue.",
+        "Interpréter ces indicateurs et comparer deux séries."
+      ],
+      "skill_ids": [
+        "3e-b-statistiques-skill-lire",
+        "3e-b-statistiques-skill-frequences",
+        "3e-b-statistiques-skill-indicateurs"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, (« Effectifs, fréquences », « Indicateurs de position : moyenne, médiane », « Indicateur de dispersion : étendue »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-statistiques.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-statistiques-assistant_explanation",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-statistiques"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Calculer des effectifs et des fréquences et les écrire en fraction, en nombre décimal ou en pourcentage.",
+        "Calculer une moyenne, une médiane et une étendue.",
+        "Interpréter ces indicateurs et comparer deux séries."
+      ],
+      "skill_ids": [
+        "3e-b-statistiques-skill-lire",
+        "3e-b-statistiques-skill-frequences",
+        "3e-b-statistiques-skill-indicateurs"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Interpréter, représenter et traiter des données, (« Effectifs, fréquences », « Indicateurs de position : moyenne, médiane », « Indicateur de dispersion : étendue »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-statistiques.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-probabilites-course",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-probabilites"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Employer le vocabulaire des probabilités et calculer une probabilité dans une situation simple où toutes les issues ont la même chance.",
+        "Reconnaître un événement certain, impossible ou contraire et utiliser 1 − p.",
+        "Distinguer la fréquence observée et la probabilité."
+      ],
+      "skill_ids": [
+        "3e-b-probabilites-skill-calculer",
+        "3e-b-probabilites-skill-contraire",
+        "3e-b-probabilites-skill-frequence"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, (« Vocabulaire des probabilités », « Probabilité d’événements certains, impossibles, contraires », « Faire le lien entre fréquence et probabilité »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-probabilites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-probabilites-revision_sheet",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-probabilites"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Employer le vocabulaire des probabilités et calculer une probabilité dans une situation simple où toutes les issues ont la même chance.",
+        "Reconnaître un événement certain, impossible ou contraire et utiliser 1 − p.",
+        "Distinguer la fréquence observée et la probabilité."
+      ],
+      "skill_ids": [
+        "3e-b-probabilites-skill-calculer",
+        "3e-b-probabilites-skill-contraire",
+        "3e-b-probabilites-skill-frequence"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, (« Vocabulaire des probabilités », « Probabilité d’événements certains, impossibles, contraires », « Faire le lien entre fréquence et probabilité »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-probabilites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-probabilites-quiz",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-probabilites"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Employer le vocabulaire des probabilités et calculer une probabilité dans une situation simple où toutes les issues ont la même chance.",
+        "Reconnaître un événement certain, impossible ou contraire et utiliser 1 − p.",
+        "Distinguer la fréquence observée et la probabilité."
+      ],
+      "skill_ids": [
+        "3e-b-probabilites-skill-calculer",
+        "3e-b-probabilites-skill-contraire",
+        "3e-b-probabilites-skill-frequence"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, (« Vocabulaire des probabilités », « Probabilité d’événements certains, impossibles, contraires », « Faire le lien entre fréquence et probabilité »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-probabilites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-probabilites-exercise",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-probabilites"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Employer le vocabulaire des probabilités et calculer une probabilité dans une situation simple où toutes les issues ont la même chance.",
+        "Reconnaître un événement certain, impossible ou contraire et utiliser 1 − p.",
+        "Distinguer la fréquence observée et la probabilité."
+      ],
+      "skill_ids": [
+        "3e-b-probabilites-skill-calculer",
+        "3e-b-probabilites-skill-contraire",
+        "3e-b-probabilites-skill-frequence"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, (« Vocabulaire des probabilités », « Probabilité d’événements certains, impossibles, contraires », « Faire le lien entre fréquence et probabilité »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-probabilites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-probabilites-assessment",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-probabilites"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Employer le vocabulaire des probabilités et calculer une probabilité dans une situation simple où toutes les issues ont la même chance.",
+        "Reconnaître un événement certain, impossible ou contraire et utiliser 1 − p.",
+        "Distinguer la fréquence observée et la probabilité."
+      ],
+      "skill_ids": [
+        "3e-b-probabilites-skill-calculer",
+        "3e-b-probabilites-skill-contraire",
+        "3e-b-probabilites-skill-frequence"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, (« Vocabulaire des probabilités », « Probabilité d’événements certains, impossibles, contraires », « Faire le lien entre fréquence et probabilité »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-probabilites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-probabilites-audio",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-probabilites"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Employer le vocabulaire des probabilités et calculer une probabilité dans une situation simple où toutes les issues ont la même chance.",
+        "Reconnaître un événement certain, impossible ou contraire et utiliser 1 − p.",
+        "Distinguer la fréquence observée et la probabilité."
+      ],
+      "skill_ids": [
+        "3e-b-probabilites-skill-calculer",
+        "3e-b-probabilites-skill-contraire",
+        "3e-b-probabilites-skill-frequence"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, (« Vocabulaire des probabilités », « Probabilité d’événements certains, impossibles, contraires », « Faire le lien entre fréquence et probabilité »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-probabilites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-probabilites-assistant_explanation",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-probabilites"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Employer le vocabulaire des probabilités et calculer une probabilité dans une situation simple où toutes les issues ont la même chance.",
+        "Reconnaître un événement certain, impossible ou contraire et utiliser 1 − p.",
+        "Distinguer la fréquence observée et la probabilité."
+      ],
+      "skill_ids": [
+        "3e-b-probabilites-skill-calculer",
+        "3e-b-probabilites-skill-contraire",
+        "3e-b-probabilites-skill-frequence"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème B – Organisation et gestion de données, fonctions / Comprendre et utiliser des notions élémentaires de probabilités, (« Vocabulaire des probabilités », « Probabilité d’événements certains, impossibles, contraires », « Faire le lien entre fréquence et probabilité »), page 132 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-probabilites.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-pythagore-course",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-pythagore"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Identifier l’hypoténuse et utiliser le théorème de Pythagore pour calculer une longueur, en s’aidant de la racine carrée.",
+        "Utiliser la réciproque pour démontrer qu’un triangle est rectangle ou qu’il ne l’est pas.",
+        "Rédiger une démonstration claire et vérifier la vraisemblance du résultat."
+      ],
+      "skill_ids": [
+        "3e-b-pythagore-skill-longueur",
+        "3e-b-pythagore-skill-racine",
+        "3e-b-pythagore-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, (« Le théorème de Pythagore et sa réciproque »), pages 135–136 (pagination du PDF).",
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (définition de la racine carrée ; « Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques »), pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-pythagore-revision_sheet",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-pythagore"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Identifier l’hypoténuse et utiliser le théorème de Pythagore pour calculer une longueur, en s’aidant de la racine carrée.",
+        "Utiliser la réciproque pour démontrer qu’un triangle est rectangle ou qu’il ne l’est pas.",
+        "Rédiger une démonstration claire et vérifier la vraisemblance du résultat."
+      ],
+      "skill_ids": [
+        "3e-b-pythagore-skill-longueur",
+        "3e-b-pythagore-skill-racine",
+        "3e-b-pythagore-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, (« Le théorème de Pythagore et sa réciproque »), pages 135–136 (pagination du PDF).",
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (définition de la racine carrée ; « Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques »), pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-pythagore-quiz",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-pythagore"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Identifier l’hypoténuse et utiliser le théorème de Pythagore pour calculer une longueur, en s’aidant de la racine carrée.",
+        "Utiliser la réciproque pour démontrer qu’un triangle est rectangle ou qu’il ne l’est pas.",
+        "Rédiger une démonstration claire et vérifier la vraisemblance du résultat."
+      ],
+      "skill_ids": [
+        "3e-b-pythagore-skill-longueur",
+        "3e-b-pythagore-skill-racine",
+        "3e-b-pythagore-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, (« Le théorème de Pythagore et sa réciproque »), pages 135–136 (pagination du PDF).",
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (définition de la racine carrée ; « Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques »), pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-pythagore-exercise",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-pythagore"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Identifier l’hypoténuse et utiliser le théorème de Pythagore pour calculer une longueur, en s’aidant de la racine carrée.",
+        "Utiliser la réciproque pour démontrer qu’un triangle est rectangle ou qu’il ne l’est pas.",
+        "Rédiger une démonstration claire et vérifier la vraisemblance du résultat."
+      ],
+      "skill_ids": [
+        "3e-b-pythagore-skill-longueur",
+        "3e-b-pythagore-skill-racine",
+        "3e-b-pythagore-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, (« Le théorème de Pythagore et sa réciproque »), pages 135–136 (pagination du PDF).",
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (définition de la racine carrée ; « Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques »), pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-pythagore-assessment",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-pythagore"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Identifier l’hypoténuse et utiliser le théorème de Pythagore pour calculer une longueur, en s’aidant de la racine carrée.",
+        "Utiliser la réciproque pour démontrer qu’un triangle est rectangle ou qu’il ne l’est pas.",
+        "Rédiger une démonstration claire et vérifier la vraisemblance du résultat."
+      ],
+      "skill_ids": [
+        "3e-b-pythagore-skill-longueur",
+        "3e-b-pythagore-skill-racine",
+        "3e-b-pythagore-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, (« Le théorème de Pythagore et sa réciproque »), pages 135–136 (pagination du PDF).",
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (définition de la racine carrée ; « Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques »), pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-pythagore-audio",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-pythagore"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Identifier l’hypoténuse et utiliser le théorème de Pythagore pour calculer une longueur, en s’aidant de la racine carrée.",
+        "Utiliser la réciproque pour démontrer qu’un triangle est rectangle ou qu’il ne l’est pas.",
+        "Rédiger une démonstration claire et vérifier la vraisemblance du résultat."
+      ],
+      "skill_ids": [
+        "3e-b-pythagore-skill-longueur",
+        "3e-b-pythagore-skill-racine",
+        "3e-b-pythagore-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, (« Le théorème de Pythagore et sa réciproque »), pages 135–136 (pagination du PDF).",
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (définition de la racine carrée ; « Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques »), pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-pythagore-assistant_explanation",
+      "program_id": "3e-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-pythagore"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Identifier l’hypoténuse et utiliser le théorème de Pythagore pour calculer une longueur, en s’aidant de la racine carrée.",
+        "Utiliser la réciproque pour démontrer qu’un triangle est rectangle ou qu’il ne l’est pas.",
+        "Rédiger une démonstration claire et vérifier la vraisemblance du résultat."
+      ],
+      "skill_ids": [
+        "3e-b-pythagore-skill-longueur",
+        "3e-b-pythagore-skill-racine",
+        "3e-b-pythagore-skill-reciproque"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème D – Espace et géométrie / Utiliser les notions de géométrie plane pour démontrer, (« Le théorème de Pythagore et sa réciproque »), pages 135–136 (pagination du PDF).",
+        "Programme de mathématiques du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3), Thème A – Nombres et calculs / Utiliser les nombres pour comparer, calculer et résoudre des problèmes (définition de la racine carrée ; « Utiliser la racine carrée pour résoudre des problèmes, notamment géométriques »), pages 130–131 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-pythagore.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-fonctions-phrase-simple-course",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-fonctions-phrase-simple"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Identifier le COD et le COI d’un verbe, y compris lorsqu’ils sont remplacés par un pronom.",
+        "Identifier l’attribut du COD dans une phrase avec des verbes comme rendre, trouver ou juger.",
+        "Reconnaître l’apposition et la distinguer de l’épithète et du complément du nom."
+      ],
+      "skill_ids": [
+        "3e-b-fonctions-phrase-simple-skill-cod-coi",
+        "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+        "3e-b-fonctions-phrase-simple-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (« Approfondir la connaissance du COD et du COI », « Identifier l’attribut du COD », « Identifier l’apposition »), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-fonctions-phrase-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-fonctions-phrase-simple-revision_sheet",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-fonctions-phrase-simple"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Identifier le COD et le COI d’un verbe, y compris lorsqu’ils sont remplacés par un pronom.",
+        "Identifier l’attribut du COD dans une phrase avec des verbes comme rendre, trouver ou juger.",
+        "Reconnaître l’apposition et la distinguer de l’épithète et du complément du nom."
+      ],
+      "skill_ids": [
+        "3e-b-fonctions-phrase-simple-skill-cod-coi",
+        "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+        "3e-b-fonctions-phrase-simple-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (« Approfondir la connaissance du COD et du COI », « Identifier l’attribut du COD », « Identifier l’apposition »), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-fonctions-phrase-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-fonctions-phrase-simple-quiz",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-fonctions-phrase-simple"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Identifier le COD et le COI d’un verbe, y compris lorsqu’ils sont remplacés par un pronom.",
+        "Identifier l’attribut du COD dans une phrase avec des verbes comme rendre, trouver ou juger.",
+        "Reconnaître l’apposition et la distinguer de l’épithète et du complément du nom."
+      ],
+      "skill_ids": [
+        "3e-b-fonctions-phrase-simple-skill-cod-coi",
+        "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+        "3e-b-fonctions-phrase-simple-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (« Approfondir la connaissance du COD et du COI », « Identifier l’attribut du COD », « Identifier l’apposition »), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-fonctions-phrase-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-fonctions-phrase-simple-exercise",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-fonctions-phrase-simple"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Identifier le COD et le COI d’un verbe, y compris lorsqu’ils sont remplacés par un pronom.",
+        "Identifier l’attribut du COD dans une phrase avec des verbes comme rendre, trouver ou juger.",
+        "Reconnaître l’apposition et la distinguer de l’épithète et du complément du nom."
+      ],
+      "skill_ids": [
+        "3e-b-fonctions-phrase-simple-skill-cod-coi",
+        "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+        "3e-b-fonctions-phrase-simple-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (« Approfondir la connaissance du COD et du COI », « Identifier l’attribut du COD », « Identifier l’apposition »), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-fonctions-phrase-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-fonctions-phrase-simple-assessment",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-fonctions-phrase-simple"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Identifier le COD et le COI d’un verbe, y compris lorsqu’ils sont remplacés par un pronom.",
+        "Identifier l’attribut du COD dans une phrase avec des verbes comme rendre, trouver ou juger.",
+        "Reconnaître l’apposition et la distinguer de l’épithète et du complément du nom."
+      ],
+      "skill_ids": [
+        "3e-b-fonctions-phrase-simple-skill-cod-coi",
+        "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+        "3e-b-fonctions-phrase-simple-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (« Approfondir la connaissance du COD et du COI », « Identifier l’attribut du COD », « Identifier l’apposition »), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-fonctions-phrase-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-fonctions-phrase-simple-audio",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-fonctions-phrase-simple"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Identifier le COD et le COI d’un verbe, y compris lorsqu’ils sont remplacés par un pronom.",
+        "Identifier l’attribut du COD dans une phrase avec des verbes comme rendre, trouver ou juger.",
+        "Reconnaître l’apposition et la distinguer de l’épithète et du complément du nom."
+      ],
+      "skill_ids": [
+        "3e-b-fonctions-phrase-simple-skill-cod-coi",
+        "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+        "3e-b-fonctions-phrase-simple-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (« Approfondir la connaissance du COD et du COI », « Identifier l’attribut du COD », « Identifier l’apposition »), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-fonctions-phrase-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-fonctions-phrase-simple-assistant_explanation",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-fonctions-phrase-simple"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Identifier le COD et le COI d’un verbe, y compris lorsqu’ils sont remplacés par un pronom.",
+        "Identifier l’attribut du COD dans une phrase avec des verbes comme rendre, trouver ou juger.",
+        "Reconnaître l’apposition et la distinguer de l’épithète et du complément du nom."
+      ],
+      "skill_ids": [
+        "3e-b-fonctions-phrase-simple-skill-cod-coi",
+        "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+        "3e-b-fonctions-phrase-simple-skill-apposition"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (« Approfondir la connaissance du COD et du COI », « Identifier l’attribut du COD », « Identifier l’apposition »), page 22 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-fonctions-phrase-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-formation-des-mots-course",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-formation-des-mots"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Décomposer un mot dérivé ou composé et en déduire le sens.",
+        "Connaître le sens de préfixes, de suffixes et de quelques racines latines et grecques courantes, et l’orthographe de in-/im-/il-/ir-.",
+        "Distinguer famille de mots et champ lexical."
+      ],
+      "skill_ids": [
+        "3e-b-formation-des-mots-skill-derivation",
+        "3e-b-formation-des-mots-skill-sens",
+        "3e-b-formation-des-mots-skill-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique (dérivation et composition, préfixes, suffixes, racines latines et grecques, famille de mots, champ lexical), page 25 (pagination du PDF).",
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (orthographe des affixes et de leur effet éventuel sur le radical), page 24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-formation-des-mots-revision_sheet",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-formation-des-mots"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Décomposer un mot dérivé ou composé et en déduire le sens.",
+        "Connaître le sens de préfixes, de suffixes et de quelques racines latines et grecques courantes, et l’orthographe de in-/im-/il-/ir-.",
+        "Distinguer famille de mots et champ lexical."
+      ],
+      "skill_ids": [
+        "3e-b-formation-des-mots-skill-derivation",
+        "3e-b-formation-des-mots-skill-sens",
+        "3e-b-formation-des-mots-skill-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique (dérivation et composition, préfixes, suffixes, racines latines et grecques, famille de mots, champ lexical), page 25 (pagination du PDF).",
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (orthographe des affixes et de leur effet éventuel sur le radical), page 24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-formation-des-mots-quiz",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-formation-des-mots"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Décomposer un mot dérivé ou composé et en déduire le sens.",
+        "Connaître le sens de préfixes, de suffixes et de quelques racines latines et grecques courantes, et l’orthographe de in-/im-/il-/ir-.",
+        "Distinguer famille de mots et champ lexical."
+      ],
+      "skill_ids": [
+        "3e-b-formation-des-mots-skill-derivation",
+        "3e-b-formation-des-mots-skill-sens",
+        "3e-b-formation-des-mots-skill-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique (dérivation et composition, préfixes, suffixes, racines latines et grecques, famille de mots, champ lexical), page 25 (pagination du PDF).",
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (orthographe des affixes et de leur effet éventuel sur le radical), page 24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-formation-des-mots-exercise",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-formation-des-mots"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Décomposer un mot dérivé ou composé et en déduire le sens.",
+        "Connaître le sens de préfixes, de suffixes et de quelques racines latines et grecques courantes, et l’orthographe de in-/im-/il-/ir-.",
+        "Distinguer famille de mots et champ lexical."
+      ],
+      "skill_ids": [
+        "3e-b-formation-des-mots-skill-derivation",
+        "3e-b-formation-des-mots-skill-sens",
+        "3e-b-formation-des-mots-skill-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique (dérivation et composition, préfixes, suffixes, racines latines et grecques, famille de mots, champ lexical), page 25 (pagination du PDF).",
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (orthographe des affixes et de leur effet éventuel sur le radical), page 24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-formation-des-mots-assessment",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-formation-des-mots"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Décomposer un mot dérivé ou composé et en déduire le sens.",
+        "Connaître le sens de préfixes, de suffixes et de quelques racines latines et grecques courantes, et l’orthographe de in-/im-/il-/ir-.",
+        "Distinguer famille de mots et champ lexical."
+      ],
+      "skill_ids": [
+        "3e-b-formation-des-mots-skill-derivation",
+        "3e-b-formation-des-mots-skill-sens",
+        "3e-b-formation-des-mots-skill-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique (dérivation et composition, préfixes, suffixes, racines latines et grecques, famille de mots, champ lexical), page 25 (pagination du PDF).",
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (orthographe des affixes et de leur effet éventuel sur le radical), page 24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-formation-des-mots-audio",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-formation-des-mots"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Décomposer un mot dérivé ou composé et en déduire le sens.",
+        "Connaître le sens de préfixes, de suffixes et de quelques racines latines et grecques courantes, et l’orthographe de in-/im-/il-/ir-.",
+        "Distinguer famille de mots et champ lexical."
+      ],
+      "skill_ids": [
+        "3e-b-formation-des-mots-skill-derivation",
+        "3e-b-formation-des-mots-skill-sens",
+        "3e-b-formation-des-mots-skill-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique (dérivation et composition, préfixes, suffixes, racines latines et grecques, famille de mots, champ lexical), page 25 (pagination du PDF).",
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (orthographe des affixes et de leur effet éventuel sur le radical), page 24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-formation-des-mots-assistant_explanation",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-formation-des-mots"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Décomposer un mot dérivé ou composé et en déduire le sens.",
+        "Connaître le sens de préfixes, de suffixes et de quelques racines latines et grecques courantes, et l’orthographe de in-/im-/il-/ir-.",
+        "Distinguer famille de mots et champ lexical."
+      ],
+      "skill_ids": [
+        "3e-b-formation-des-mots-skill-derivation",
+        "3e-b-formation-des-mots-skill-sens",
+        "3e-b-formation-des-mots-skill-reseau"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Enrichir et structurer le lexique (dérivation et composition, préfixes, suffixes, racines latines et grecques, famille de mots, champ lexical), page 25 (pagination du PDF).",
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (orthographe des affixes et de leur effet éventuel sur le radical), page 24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-formation-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-temps-du-recit-course",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-temps-du-recit"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’imparfait, au passé simple (3e personne) et au plus-que-parfait.",
+        "Expliquer pourquoi l’on emploie l’imparfait, le passé simple ou le plus-que-parfait dans un récit.",
+        "Réécrire un court texte du présent vers un temps du passé en respectant les valeurs des temps."
+      ],
+      "skill_ids": [
+        "3e-b-temps-du-recit-skill-former",
+        "3e-b-temps-du-recit-skill-valeurs",
+        "3e-b-temps-du-recit-skill-reecrire"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (« Former les temps simples », « Construire les temps composés », « Mettre en évidence le lien entre le temps employé et le sens » : premier plan / arrière-plan ; borné / non borné, « elle lut une page / elle lisait une page »), pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-temps-du-recit.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-temps-du-recit-revision_sheet",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-temps-du-recit"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’imparfait, au passé simple (3e personne) et au plus-que-parfait.",
+        "Expliquer pourquoi l’on emploie l’imparfait, le passé simple ou le plus-que-parfait dans un récit.",
+        "Réécrire un court texte du présent vers un temps du passé en respectant les valeurs des temps."
+      ],
+      "skill_ids": [
+        "3e-b-temps-du-recit-skill-former",
+        "3e-b-temps-du-recit-skill-valeurs",
+        "3e-b-temps-du-recit-skill-reecrire"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (« Former les temps simples », « Construire les temps composés », « Mettre en évidence le lien entre le temps employé et le sens » : premier plan / arrière-plan ; borné / non borné, « elle lut une page / elle lisait une page »), pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-temps-du-recit.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-temps-du-recit-quiz",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-temps-du-recit"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’imparfait, au passé simple (3e personne) et au plus-que-parfait.",
+        "Expliquer pourquoi l’on emploie l’imparfait, le passé simple ou le plus-que-parfait dans un récit.",
+        "Réécrire un court texte du présent vers un temps du passé en respectant les valeurs des temps."
+      ],
+      "skill_ids": [
+        "3e-b-temps-du-recit-skill-former",
+        "3e-b-temps-du-recit-skill-valeurs",
+        "3e-b-temps-du-recit-skill-reecrire"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (« Former les temps simples », « Construire les temps composés », « Mettre en évidence le lien entre le temps employé et le sens » : premier plan / arrière-plan ; borné / non borné, « elle lut une page / elle lisait une page »), pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-temps-du-recit.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-temps-du-recit-exercise",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-temps-du-recit"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’imparfait, au passé simple (3e personne) et au plus-que-parfait.",
+        "Expliquer pourquoi l’on emploie l’imparfait, le passé simple ou le plus-que-parfait dans un récit.",
+        "Réécrire un court texte du présent vers un temps du passé en respectant les valeurs des temps."
+      ],
+      "skill_ids": [
+        "3e-b-temps-du-recit-skill-former",
+        "3e-b-temps-du-recit-skill-valeurs",
+        "3e-b-temps-du-recit-skill-reecrire"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (« Former les temps simples », « Construire les temps composés », « Mettre en évidence le lien entre le temps employé et le sens » : premier plan / arrière-plan ; borné / non borné, « elle lut une page / elle lisait une page »), pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-temps-du-recit.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-temps-du-recit-assessment",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-temps-du-recit"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’imparfait, au passé simple (3e personne) et au plus-que-parfait.",
+        "Expliquer pourquoi l’on emploie l’imparfait, le passé simple ou le plus-que-parfait dans un récit.",
+        "Réécrire un court texte du présent vers un temps du passé en respectant les valeurs des temps."
+      ],
+      "skill_ids": [
+        "3e-b-temps-du-recit-skill-former",
+        "3e-b-temps-du-recit-skill-valeurs",
+        "3e-b-temps-du-recit-skill-reecrire"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (« Former les temps simples », « Construire les temps composés », « Mettre en évidence le lien entre le temps employé et le sens » : premier plan / arrière-plan ; borné / non borné, « elle lut une page / elle lisait une page »), pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-temps-du-recit.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-temps-du-recit-audio",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-temps-du-recit"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’imparfait, au passé simple (3e personne) et au plus-que-parfait.",
+        "Expliquer pourquoi l’on emploie l’imparfait, le passé simple ou le plus-que-parfait dans un récit.",
+        "Réécrire un court texte du présent vers un temps du passé en respectant les valeurs des temps."
+      ],
+      "skill_ids": [
+        "3e-b-temps-du-recit-skill-former",
+        "3e-b-temps-du-recit-skill-valeurs",
+        "3e-b-temps-du-recit-skill-reecrire"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (« Former les temps simples », « Construire les temps composés », « Mettre en évidence le lien entre le temps employé et le sens » : premier plan / arrière-plan ; borné / non borné, « elle lut une page / elle lisait une page »), pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-temps-du-recit.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "3e-b-temps-du-recit-assistant_explanation",
+      "program_id": "3e-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "3e-b-temps-du-recit"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Conjuguer des verbes à l’imparfait, au passé simple (3e personne) et au plus-que-parfait.",
+        "Expliquer pourquoi l’on emploie l’imparfait, le passé simple ou le plus-que-parfait dans un récit.",
+        "Réécrire un court texte du présent vers un temps du passé en respectant les valeurs des temps."
+      ],
+      "skill_ids": [
+        "3e-b-temps-du-recit-skill-former",
+        "3e-b-temps-du-recit-skill-valeurs",
+        "3e-b-temps-du-recit-skill-reecrire"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Consolider l’orthographe lexicale et grammaticale (« Former les temps simples », « Construire les temps composés », « Mettre en évidence le lien entre le temps employé et le sens » : premier plan / arrière-plan ; borné / non borné, « elle lut une page / elle lisait une page »), pages 23–24 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/3e-b-temps-du-recit.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

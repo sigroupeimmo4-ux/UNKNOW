@@ -1,0 +1,133 @@
+{
+  "id": "6e-b-chaine-accords",
+  "title": "La chaîne d’accords dans le groupe nominal et l’accord sujet-verbe",
+  "chapter_id": "6e-b-chaine-accords",
+  "program_id": "6e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Repérer le nom noyau d’un groupe nominal.",
+    "Accorder déterminant, nom et adjectif en genre et en nombre.",
+    "Trouver le sujet d’un verbe et accorder le verbe.",
+    "Distinguer les variations d’un verbe de celles d’un nom."
+  ],
+  "skill_ids": [
+    "6e-b-chaine-accords-skill-noyau",
+    "6e-b-chaine-accords-skill-transformer",
+    "6e-b-chaine-accords-skill-sujet-verbe"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grammaire et orthographe grammaticale, Acquérir l’orthographe grammaticale, page 20 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le groupe nominal et son noyau",
+      "text": "Un groupe nominal est formé d’un nom et des mots qui l’accompagnent : déterminant (le, ces, mes), adjectif épithète (petit, noir). Dans « les petits chats noirs », le nom noyau est « chats » : c’est lui qui donne le genre (masculin) et le nombre (pluriel) aux autres mots."
+    },
+    {
+      "title": "La chaîne d’accords",
+      "text": "Tous les mots variables du groupe s’accordent avec le noyau. Au féminin, on ajoute souvent -e (petit → petite) ; autres cas : bon → bonne, gentil → gentille, léger → légère, heureux → heureuse. Au pluriel, on ajoute en général -s ; les noms en -eau prennent -x (bateau → bateaux) ; cheval → chevaux. Exemple : « le petit chat noir » devient au féminin pluriel « les petites chattes noires »."
+    },
+    {
+      "title": "Accorder le verbe avec son sujet",
+      "text": "Pour trouver le sujet, on encadre par « c’est… qui » : « C’est le chien qui aboie. » Le verbe s’accorde avec le noyau du groupe sujet, même si un autre nom le suit : « Le chien des voisins aboie » (noyau : chien, et non voisins). Au présent des verbes en -er : je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent. « Les enfants de ma voisine jouent dans le jardin » : sujet = les enfants, donc -ent."
+    },
+    {
+      "title": "Ne pas confondre verbe et nom",
+      "text": "Un mot peut être verbe ou nom : on ne l’accorde pas de la même façon. Il élève / tu élèves / elles élèvent (verbe) ; une élève / des élèves (nom). Dans « Les élèves élèvent des escargots », le premier mot est un nom (pluriel en -s), le second un verbe (3e personne du pluriel en -ent)."
+    }
+  ],
+  "revision_sheet": [
+    "Le nom noyau est le donneur d’accord du groupe nominal : déterminant et adjectif s’accordent avec lui.",
+    "Féminin : souvent -e (petit → petite) ; pluriel : souvent -s (-x pour -eau ; cheval → chevaux).",
+    "Sujet : encadrer par « c’est… qui » ; le verbe s’accorde avec le nom noyau du sujet.",
+    "Présent en -er : -e, -es, -e, -ons, -ez, -ent ; nom et verbe n’ont pas les mêmes marques (une élève / ils élèvent)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle écriture est correcte ?",
+      "choices": [
+        "les petit chat noir",
+        "les petits chats noirs",
+        "les petits chats noir"
+      ],
+      "correct_index": 1,
+      "explanation": "Le noyau « chats » est au masculin pluriel : le déterminant, l’adjectif « petit » et l’adjectif « noir » prennent tous la marque du pluriel."
+    },
+    {
+      "prompt": "Dans « Le chien des voisins aboie. », avec quel mot le verbe s’accorde-t-il ?",
+      "choices": [
+        "voisins",
+        "des",
+        "chien"
+      ],
+      "correct_index": 2,
+      "explanation": "Le sujet est le groupe « le chien des voisins » dont le noyau est « chien » : le verbe est à la 3e personne du singulier (aboie)."
+    },
+    {
+      "prompt": "Quel est le féminin pluriel de « le gentil voisin » ?",
+      "choices": [
+        "les gentilles voisines",
+        "les gentils voisines",
+        "les gentilles voisine"
+      ],
+      "correct_index": 0,
+      "explanation": "Voisin → voisine, gentil → gentille, et tout prend la marque du pluriel : les gentilles voisines."
+    },
+    {
+      "prompt": "Quel est le pluriel de « un cheval » ?",
+      "choices": [
+        "des chevals",
+        "des chevaux",
+        "des chevaus"
+      ],
+      "correct_index": 1,
+      "explanation": "Les noms en -al font en général leur pluriel en -aux : des chevaux."
+    },
+    {
+      "prompt": "Quelle phrase est correcte ?",
+      "choices": [
+        "Mes frères joue au foot.",
+        "Mes frères jouons au foot.",
+        "Mes frères jouent au foot."
+      ],
+      "correct_index": 2,
+      "explanation": "Le sujet « mes frères » est à la 3e personne du pluriel : jouent."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Accorde : « Ces (petit) fleur(s) (rouge) sentent bon. »",
+      "solution": "« Ces petites fleurs rouges sentent bon. »",
+      "success_criterion": "Accorder avec le noyau « fleurs » (féminin pluriel)."
+    },
+    {
+      "prompt": "Mets au pluriel : « Le grand oiseau bleu vole. »",
+      "solution": "« Les grands oiseaux bleus volent. »",
+      "success_criterion": "Pluriel du déterminant, du nom, des adjectifs et du verbe."
+    },
+    {
+      "prompt": "Conjugue au présent : « Les chiens du voisin (aboyer). » ; « La liste des courses (être) longue. » ; « Tes cousines (arriver) demain. »",
+      "solution": "aboient ; est (le noyau est « liste », au singulier) ; arrivent.",
+      "success_criterion": "Trouver le noyau du sujet avant d’accorder."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Récris au féminin pluriel : « Le petit chat noir dort. »",
+      "solution": "« Les petites chattes noires dorment. »",
+      "success_criterion": "Accorder déterminant, nom, adjectifs et verbe."
+    },
+    {
+      "prompt": "Complète avec « élève » bien accordé : « Les (élève) de 6e (élève) des escargots pour la classe. »",
+      "solution": "« Les élèves de 6e élèvent des escargots pour la classe. » (élèves : nom au pluriel ; élèvent : verbe, 3e personne du pluriel)",
+      "success_criterion": "Distinguer le nom (-s) du verbe (-ent)."
+    },
+    {
+      "prompt": "Écris correctement : « Les (vieux) arbres du jardin (perdre) leurs feuilles. »",
+      "solution": "« Les vieux arbres du jardin perdent leurs feuilles. » (sujet : les vieux arbres, noyau « arbres », pluriel)",
+      "success_criterion": "Repérer le noyau du sujet et accorder le verbe."
+    }
+  ],
+  "audio_transcript": "Dans un groupe nominal, il y a un nom noyau, et c’est lui qui commande les accords. Dans les petits chats noirs, le noyau est chats : masculin pluriel. Le déterminant, l’adjectif petit et l’adjectif noir s’accordent avec lui. Pour passer au féminin pluriel, on écrit les petites chattes noires. Pour accorder un verbe, on cherche son sujet avec c’est qui : c’est le chien qui aboie. Dans le chien des voisins aboie, le noyau est chien, donc le verbe est au singulier. Attention aux mots qui sont à la fois nom et verbe : des élèves, nom pluriel, mais ils élèvent, verbe à la troisième personne du pluriel.",
+  "guided_explanation": "Avant d’écrire, pose-toi deux questions. Un : quel est le nom noyau ? C’est lui qui décide. Deux : est-ce que je dois accorder un adjectif, un déterminant ou un verbe ? Exemple : « La liste des courses (être) longue. » Je cherche le sujet : c’est la liste qui est longue, donc le noyau est « liste », au singulier, et j’écris « est ». Les courses sont juste à côté, mais elles ne commandent pas le verbe."
+}

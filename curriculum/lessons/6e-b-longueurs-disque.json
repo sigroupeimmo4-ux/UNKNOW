@@ -1,0 +1,133 @@
+{
+  "id": "6e-b-longueurs-disque",
+  "title": "Longueurs : conversions et périmètre du disque",
+  "chapter_id": "6e-b-longueurs-disque",
+  "program_id": "6e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Connaître les relations entre le kilomètre, le mètre, le décimètre, le centimètre et le millimètre.",
+    "Convertir une longueur d’une unité à une autre.",
+    "Calculer le périmètre d’un disque avec la formule π × diamètre.",
+    "Calculer le périmètre d’une figure composée simple."
+  ],
+  "skill_ids": [
+    "6e-b-longueurs-disque-skill-convertir",
+    "6e-b-longueurs-disque-skill-disque",
+    "6e-b-longueurs-disque-skill-composees"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Sixième / Grandeurs et mesures, Les longueurs, page 19 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les unités de longueur",
+      "text": "Le préfixe donne la relation avec le mètre : kilo = mille, hecto = cent, déca = dix, déci = dixième, centi = centième, milli = millième. Donc 1 km = 1 000 m ; 1 m = 10 dm = 100 cm = 1 000 mm ; 1 dm = 10 cm ; 1 cm = 10 mm. Dans l’autre sens : 1 cm = 0,1 dm et 1 mm = 0,001 m."
+    },
+    {
+      "title": "Convertir une longueur",
+      "text": "Pour passer d’une grande unité à une petite, on multiplie ; pour passer d’une petite à une grande, on divise. Exemples : 3,5 m = 350 cm (car 1 m = 100 cm) ; 2 450 m = 2,45 km (car 1 km = 1 000 m) ; 85 cm = 0,85 m ; 7 mm = 0,007 m ; 1,2 km = 1 200 m. Pense à vérifier : plus l’unité est petite, plus le nombre est grand."
+    },
+    {
+      "title": "Le périmètre d’un disque",
+      "text": "Le périmètre d’un disque est la longueur de son contour (le cercle). Le diamètre est le double du rayon. Le périmètre est proportionnel au diamètre : P = π × d = 2 × π × r, avec π ≈ 3,14 (valeur approchée). Pour d = 10 cm : P ≈ 3,14 × 10 = 31,4 cm. Si le diamètre double (20 cm), le périmètre double aussi : 62,8 cm."
+    },
+    {
+      "title": "Figures composées",
+      "text": "Pour une figure composée, on additionne uniquement les longueurs du contour : on n’ajoute pas les côtés cachés à l’intérieur. Exemple : un rectangle de 10 cm sur 6 cm avec un demi-disque de diamètre 6 cm collé sur un côté de 6 cm. Contour : 10 + 10 + 6 = 26 cm, plus le demi-cercle : 3,14 × 6 ÷ 2 = 9,42 cm. Total : 26 + 9,42 = 35,42 cm."
+    }
+  ],
+  "revision_sheet": [
+    "1 km = 1 000 m ; 1 m = 10 dm = 100 cm = 1 000 mm ; 1 cm = 0,1 dm.",
+    "Grande unité vers petite unité : on multiplie ; petite vers grande : on divise (3,5 m = 350 cm ; 2 450 m = 2,45 km).",
+    "Disque : P = π × d = 2 × π × r, avec π ≈ 3,14 ; le diamètre est le double du rayon.",
+    "Figure composée : on additionne seulement les longueurs du contour."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de centimètres y a-t-il dans 3,5 m ?",
+      "choices": [
+        "35 cm",
+        "350 cm",
+        "3 500 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "1 m = 100 cm, donc 3,5 m = 3,5 × 100 = 350 cm."
+    },
+    {
+      "prompt": "2 450 m, c’est combien de kilomètres ?",
+      "choices": [
+        "24,5 km",
+        "245 km",
+        "2,45 km"
+      ],
+      "correct_index": 2,
+      "explanation": "1 km = 1 000 m, donc 2 450 m = 2 450 ÷ 1 000 = 2,45 km."
+    },
+    {
+      "prompt": "Quel est le périmètre d’un disque de rayon 5 cm (avec π ≈ 3,14) ?",
+      "choices": [
+        "15,7 cm",
+        "31,4 cm",
+        "78,5 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "Le diamètre est 2 × 5 = 10 cm, donc P ≈ 3,14 × 10 = 31,4 cm. (78,5 serait l’aire en cm², pas un périmètre.)"
+    },
+    {
+      "prompt": "Quelle formule donne le périmètre d’un disque de diamètre d ?",
+      "choices": [
+        "π × d",
+        "π × d × d",
+        "4 × d"
+      ],
+      "correct_index": 0,
+      "explanation": "Le périmètre est égal à π × d. La formule 4 × d est celle du carré de côté d."
+    },
+    {
+      "prompt": "Si on double le diamètre d’un disque, son périmètre…",
+      "choices": [
+        "est multiplié par 4",
+        "est doublé",
+        "reste le même"
+      ],
+      "correct_index": 1,
+      "explanation": "Le périmètre est proportionnel au diamètre : si le diamètre est multiplié par 2, le périmètre l’est aussi."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Convertis : 6,4 m en cm ; 725 cm en m ; 0,3 km en m ; 45 mm en cm.",
+      "solution": "6,4 m = 640 cm ; 725 cm = 7,25 m ; 0,3 km = 300 m ; 45 mm = 4,5 cm.",
+      "success_criterion": "Multiplier ou diviser par 10, 100 ou 1 000 selon les unités."
+    },
+    {
+      "prompt": "Calcule le périmètre d’un disque de diamètre 8 cm (π ≈ 3,14).",
+      "solution": "P ≈ 3,14 × 8 = 25,12 cm.",
+      "success_criterion": "Utiliser P = π × d avec le diamètre."
+    },
+    {
+      "prompt": "Calcule le périmètre d’un disque de rayon 3 m (π ≈ 3,14).",
+      "solution": "Le diamètre vaut 2 × 3 = 6 m, donc P ≈ 3,14 × 6 = 18,84 m.",
+      "success_criterion": "Passer du rayon au diamètre avant d’utiliser la formule."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une table ronde a un diamètre de 1,5 m. Quelle longueur de ruban faut-il pour en faire le tour (π ≈ 3,14), en m puis en cm ?",
+      "solution": "P ≈ 3,14 × 1,5 = 4,71 m, soit 471 cm.",
+      "success_criterion": "Calculer π × d puis convertir en centimètres."
+    },
+    {
+      "prompt": "Range du plus court au plus long : 0,5 m ; 45 cm ; 480 mm ; 0,004 km.",
+      "solution": "En cm : 0,5 m = 50 cm ; 45 cm ; 480 mm = 48 cm ; 0,004 km = 4 m = 400 cm. Ordre : 45 cm < 480 mm < 0,5 m < 0,004 km.",
+      "success_criterion": "Tout convertir dans une même unité avant de comparer."
+    },
+    {
+      "prompt": "Un rectangle de 8 cm sur 4 cm porte un demi-disque de diamètre 4 cm collé sur un côté de 4 cm. Quel est le périmètre de la figure (π ≈ 3,14) ?",
+      "solution": "Côtés du rectangle conservés : 8 + 8 + 4 = 20 cm. Demi-cercle : 3,14 × 4 ÷ 2 = 6,28 cm. Périmètre : 20 + 6,28 = 26,28 cm.",
+      "success_criterion": "Ne pas compter le côté collé ; ajouter la moitié du périmètre du disque."
+    }
+  ],
+  "audio_transcript": "Pour mesurer une longueur, on choisit une unité adaptée : kilomètre, mètre, décimètre, centimètre ou millimètre. Un kilomètre fait mille mètres, un mètre fait cent centimètres. Pour passer d’une grande unité à une petite, on multiplie : trois virgule cinq mètres font trois cent cinquante centimètres. Pour passer d’une petite unité à une grande, on divise : deux mille quatre cent cinquante mètres font deux virgule quarante-cinq kilomètres. Le périmètre d’un disque est proportionnel à son diamètre : on multiplie le diamètre par pi, environ trois virgule quatorze. Un disque de dix centimètres de diamètre a un périmètre d’environ trente et un virgule quatre centimètres. Attention : si on te donne le rayon, il faut d’abord le doubler pour obtenir le diamètre.",
+  "guided_explanation": "Imagine que tu veux entourer un gâteau rond d’un ruban. Le ruban doit mesurer le périmètre du gâteau. Mesure le diamètre, c’est-à-dire la largeur en passant par le centre, puis multiplie par 3,14. Pour un gâteau de 20 cm de diamètre : 3,14 × 20 = 62,8 cm de ruban. Si ta règle est en centimètres mais que ton ruban se vend au mètre, convertis : 62,8 cm = 0,628 m. Rappelle-toi : quand l’unité devient plus petite, le nombre devient plus grand."
+}

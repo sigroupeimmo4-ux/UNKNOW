@@ -1,0 +1,129 @@
+{
+  "id": "cm1-b-longueurs-perimetre",
+  "title": "Mesurer des longueurs et calculer un périmètre",
+  "chapter_id": "cm1-b-longueurs-perimetre",
+  "program_id": "CM1-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Utiliser les unités de longueur (mm, cm, m, km) et leurs relations pour convertir et comparer des longueurs.",
+    "Choisir une unité adaptée et estimer une longueur.",
+    "Calculer le périmètre d’un polygone et résoudre des problèmes avec les côtés et le périmètre."
+  ],
+  "skill_ids": [
+    "cm1-b-longueurs-perimetre-unites-skill",
+    "cm1-b-longueurs-perimetre-perimetre-skill",
+    "cm1-b-longueurs-perimetre-problemes-skill"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les unités de longueur",
+      "text": "Pour mesurer une longueur, on utilise une unité : le millimètre (mm), le centimètre (cm), le mètre (m) ou le kilomètre (km). Elles sont liées par des relations : 1 cm = 10 mm ; 1 m = 100 cm ; 1 km = 1 000 m. Pour convertir, on s’appuie sur ces relations : 3,5 m = 350 cm car 1 m = 100 cm et 3,5 × 100 = 350. De même, 2 km = 2 000 m. On choisit l’unité adaptée à ce qu’on mesure : l’épaisseur d’une pièce en mm, la longueur d’un stylo (environ 15 cm) en cm, la distance entre deux villes en km."
+    },
+    {
+      "title": "Comparer des longueurs",
+      "text": "Pour comparer deux longueurs, on les exprime d’abord dans la même unité. Exemple : 1,2 km et 1 100 m. On convertit : 1,2 km = 1 200 m. Comme 1 200 > 1 100, on écrit 1 100 m < 1,2 km. Avec une règle graduée, on lit les centimètres et les millimètres : 7 cm 5 mm = 75 mm = 7,5 cm."
+    },
+    {
+      "title": "Le périmètre d’un polygone",
+      "text": "Le périmètre d’une figure plane est la longueur de son contour. Pour un polygone, on additionne les longueurs de tous ses côtés, exprimées dans la même unité. Un rectangle de 6 cm sur 4 cm a pour périmètre 6 + 4 + 6 + 4 = 20 cm. Un carré de côté 5 cm a pour périmètre 5 + 5 + 5 + 5 = 20 cm : on remarque que le périmètre d’un carré est le quadruple de son côté (4 × 5 = 20). Si le périmètre est connu, on peut retrouver un côté : un triangle de périmètre 24 cm a deux côtés de 7 cm et 9 cm ; le troisième mesure 24 − 7 − 9 = 8 cm (vérification : 7 + 9 + 8 = 24)."
+    }
+  ],
+  "revision_sheet": [
+    "1 cm = 10 mm ; 1 m = 100 cm ; 1 km = 1 000 m.",
+    "Pour convertir, on s’appuie sur les relations entre unités : 3,5 m = 350 cm car 1 m = 100 cm.",
+    "Pour comparer des longueurs, on les exprime dans la même unité.",
+    "Le périmètre d’un polygone est la longueur de son contour : on additionne les longueurs de tous ses côtés.",
+    "Le périmètre d’un carré est le quadruple de son côté (4 × côté)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de centimètres y a-t-il dans 3 m ?",
+      "choices": [
+        "30 cm",
+        "300 cm",
+        "3 000 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "1 m = 100 cm, donc 3 m = 3 × 100 = 300 cm."
+    },
+    {
+      "prompt": "Quelle unité est la mieux adaptée pour donner la distance entre deux villes ?",
+      "choices": [
+        "le millimètre",
+        "le centimètre",
+        "le kilomètre"
+      ],
+      "correct_index": 2,
+      "explanation": "Une distance entre deux villes est très grande : on l’exprime en kilomètres."
+    },
+    {
+      "prompt": "Quelle est la plus grande de ces longueurs ?",
+      "choices": [
+        "950 m",
+        "1,2 km",
+        "1 100 m"
+      ],
+      "correct_index": 1,
+      "explanation": "On convertit en mètres : 1,2 km = 1 200 m, et 1 200 > 1 100 > 950."
+    },
+    {
+      "prompt": "Un rectangle mesure 8 cm de long et 3 cm de large. Quel est son périmètre ?",
+      "choices": [
+        "22 cm",
+        "24 cm",
+        "11 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "Il faut additionner les quatre côtés : 8 + 3 + 8 + 3 = 22 cm."
+    },
+    {
+      "prompt": "Un carré a un périmètre de 36 cm. Quelle est la longueur d’un côté ?",
+      "choices": [
+        "18 cm",
+        "12 cm",
+        "9 cm"
+      ],
+      "correct_index": 2,
+      "explanation": "Un carré a quatre côtés égaux : 36 ÷ 4 = 9 cm. Vérification : 4 × 9 = 36."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Convertis : 4 m en cm ; 6 cm en mm ; 2,5 km en m.",
+      "solution": "4 m = 400 cm ; 6 cm = 60 mm ; 2,5 km = 2 500 m.",
+      "success_criterion": "S’appuyer sur les relations 1 m = 100 cm, 1 cm = 10 mm et 1 km = 1 000 m."
+    },
+    {
+      "prompt": "Calcule le périmètre d’un triangle dont les côtés mesurent 5 cm, 7 cm et 9 cm.",
+      "solution": "5 + 7 + 9 = 21 : le périmètre est 21 cm.",
+      "success_criterion": "Additionner les trois côtés et donner l’unité."
+    },
+    {
+      "prompt": "Range du plus court au plus long : 1 m ; 85 cm ; 1 200 mm ; 0,9 m.",
+      "solution": "En centimètres : 1 m = 100 cm ; 85 cm ; 1 200 mm = 120 cm ; 0,9 m = 90 cm. Ordre croissant : 85 cm < 0,9 m < 1 m < 1 200 mm.",
+      "success_criterion": "Exprimer toutes les longueurs dans la même unité avant de les comparer."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Un jardin rectangulaire mesure 12 m de long et 7 m de large. Léa veut poser une clôture sur tout le tour. Quelle longueur de clôture lui faut-il ?",
+      "solution": "Il faut le périmètre : 12 + 7 + 12 + 7 = 38. Léa a besoin de 38 m de clôture.",
+      "success_criterion": "Additionner les quatre côtés du rectangle et répondre avec l’unité."
+    },
+    {
+      "prompt": "Un triangle a un périmètre de 40 cm. Deux de ses côtés mesurent 15 cm et 12 cm. Quelle est la longueur du troisième côté ?",
+      "solution": "15 + 12 = 27, puis 40 − 27 = 13. Le troisième côté mesure 13 cm (vérification : 15 + 12 + 13 = 40).",
+      "success_criterion": "Soustraire les côtés connus du périmètre, puis vérifier en additionnant."
+    },
+    {
+      "prompt": "Une piste a la forme d’un rectangle de 150 m sur 50 m. Sam fait 2 tours et dit : « J’ai couru 1 km ». A-t-il raison ?",
+      "solution": "Le périmètre est 150 + 50 + 150 + 50 = 400 m. Deux tours font 2 × 400 = 800 m. Or 1 km = 1 000 m : Sam n’a pas raison, il lui reste 200 m à parcourir.",
+      "success_criterion": "Calculer le périmètre, multiplier par 2, puis comparer en convertissant 1 km en mètres."
+    }
+  ],
+  "audio_transcript": "Pour mesurer une longueur, on utilise des unités : le millimètre, le centimètre, le mètre et le kilomètre. Un mètre, c’est cent centimètres, et un kilomètre, c’est mille mètres. Trois mètres et demi, c’est donc trois cent cinquante centimètres. Pour comparer deux longueurs, on les écrit toujours dans la même unité. Le périmètre d’une figure, c’est la longueur de son contour. Pour un polygone, on additionne les longueurs de tous ses côtés. Un rectangle de six centimètres sur quatre a pour périmètre six plus quatre plus six plus quatre, soit vingt centimètres.",
+  "guided_explanation": "Imagine que tu marches le long du bord d’une cour d’école : la distance que tu parcours pour revenir à ton point de départ, c’est le périmètre. Pour la trouver, note la longueur de chaque côté et additionne-les, en vérifiant qu’ils sont dans la même unité. Si tu hésites sur une conversion, rappelle-toi une relation que tu connais bien, comme un mètre égale cent centimètres, et utilise-la : trois mètres, ce sont trois fois cent centimètres. Pour vérifier un périmètre, refais l’addition dans un autre ordre."
+}

@@ -1,0 +1,134 @@
+{
+  "id": "cm2-b-attribut-complement-objet",
+  "title": "L’attribut du sujet, le complément d’objet direct et indirect",
+  "chapter_id": "cm2-b-attribut-complement-objet",
+  "program_id": "CM2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaître l’attribut du sujet après un verbe d’état.",
+    "Distinguer l’attribut du sujet et le complément d’objet.",
+    "Distinguer le complément d’objet direct et le complément d’objet indirect.",
+    "Accorder l’attribut du sujet avec le sujet."
+  ],
+  "skill_ids": [
+    "cm2-b-attribut-complement-objet-attribut",
+    "cm2-b-attribut-complement-objet-cod-coi",
+    "cm2-b-attribut-complement-objet-accord"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "L’attribut du sujet",
+      "text": "Après certains verbes appelés verbes d’état (être, devenir, sembler, paraître, rester, demeurer, avoir l’air), le mot ou le groupe de mots qui suit dit comment est le sujet ou ce qu’il est : c’est l’attribut du sujet. Dans « Léa est contente », « contente » est l’attribut du sujet. Dans « Léa devient pilote », « pilote » est aussi l’attribut du sujet. L’attribut désigne la même personne ou la même chose que le sujet : Léa = pilote."
+    },
+    {
+      "title": "Le complément d’objet",
+      "text": "Après un verbe d’action, le complément d’objet complète le verbe et répond à la question « qui ? » ou « quoi ? » posée après le verbe. Dans « Léa lit un livre », « un livre » est le complément d’objet direct (COD). Il désigne autre chose que le sujet : Léa n’est pas un livre. Comparons : « Le jardinier arrose les rosiers » (COD : les rosiers) et « Le jardinier semble épuisé » (attribut : épuisé, qui décrit le jardinier)."
+    },
+    {
+      "title": "COD ou COI ?",
+      "text": "Le complément d’objet direct se construit sans préposition : « Elle appelle son oncle. » Le complément d’objet indirect (COI) est introduit par une préposition, le plus souvent à ou de : « Elle téléphone à son oncle », « Il joue du piano ». Pour les trouver, on pose les questions « à qui ? à quoi ? de qui ? de quoi ? » après le verbe."
+    },
+    {
+      "title": "Accorder l’attribut",
+      "text": "L’attribut du sujet s’accorde en genre et en nombre avec le sujet : « La soupe paraît délicieuse », « Ces randonneurs semblent fatigués », « Mes sœurs restent calmes ». Le COD, lui, ne s’accorde pas avec le sujet : on écrit « Les enfants lisent un livre » sans changer « un livre ». Attention à ne pas confondre l’attribut (« Ce chat est noir ») et l’épithète, qui est directement dans le groupe nominal sans verbe d’état (« ce chat noir »)."
+    }
+  ],
+  "revision_sheet": [
+    "Verbes d’état : être, devenir, sembler, paraître, rester, demeurer, avoir l’air.",
+    "Attribut du sujet : après un verbe d’état, il décrit le sujet (même personne ou même chose). Léa devient pilote.",
+    "COD : après un verbe d’action, sans préposition, il répond à « qui ? quoi ? ». Léa lit un livre.",
+    "COI : introduit par une préposition (à, de) : Elle téléphone à son oncle.",
+    "L’attribut s’accorde avec le sujet : Mes sœurs restent calmes. Le COD ne s’accorde pas avec le sujet."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « Les enfants deviennent grands. », quelle est la fonction de « grands » ?",
+      "choices": [
+        "attribut du sujet",
+        "complément d’objet direct",
+        "complément circonstanciel"
+      ],
+      "correct_index": 0,
+      "explanation": "« Devenir » est un verbe d’état et « grands » décrit les enfants : c’est l’attribut du sujet."
+    },
+    {
+      "prompt": "Dans « Tom mange une pomme. », quelle est la fonction de « une pomme » ?",
+      "choices": [
+        "attribut du sujet",
+        "complément d’objet direct",
+        "complément d’objet indirect"
+      ],
+      "correct_index": 1,
+      "explanation": "« Manger » est un verbe d’action. On demande « Tom mange quoi ? » : une pomme. Il n’y a pas de préposition : c’est un COD."
+    },
+    {
+      "prompt": "Lequel de ces verbes est un verbe d’état ?",
+      "choices": [
+        "paraître",
+        "manger",
+        "courir"
+      ],
+      "correct_index": 0,
+      "explanation": "« Paraître » (comme être, devenir, sembler) introduit un attribut du sujet. « Manger » et « courir » sont des verbes d’action."
+    },
+    {
+      "prompt": "Dans « Elle parle à sa voisine. », quelle est la fonction de « à sa voisine » ?",
+      "choices": [
+        "attribut du sujet",
+        "complément d’objet direct",
+        "complément d’objet indirect"
+      ],
+      "correct_index": 2,
+      "explanation": "Le complément est introduit par la préposition « à » : c’est un complément d’objet indirect."
+    },
+    {
+      "prompt": "Quelle phrase est correctement orthographiée ?",
+      "choices": [
+        "Les fleurs semblent fanée.",
+        "Les fleurs semblent fanées.",
+        "Les fleurs semblent fané."
+      ],
+      "correct_index": 1,
+      "explanation": "L’attribut du sujet s’accorde avec le sujet « les fleurs », féminin pluriel : fanées."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Dans chaque phrase, dis si le groupe souligné est un attribut du sujet ou un COD : « Ma cousine est médecin. » ; « Le ciel semble menaçant. » ; « Léo ouvre la fenêtre. »",
+      "solution": "« médecin » : attribut du sujet (verbe d’état être). « menaçant » : attribut du sujet (verbe d’état sembler). « la fenêtre » : COD (verbe d’action ouvrir, réponse à « Léo ouvre quoi ? »).",
+      "success_criterion": "Repérer le verbe d’état ou d’action avant de nommer la fonction."
+    },
+    {
+      "prompt": "Accorde l’attribut entre parenthèses : « Ces randonneurs semblent (fatigué). » ; « Mes sœurs restent (calme). » ; « La soupe paraît (délicieux). »",
+      "solution": "« fatigués » (masculin pluriel) ; « calmes » (féminin pluriel) ; « délicieuse » (féminin singulier).",
+      "success_criterion": "Faire accorder l’attribut en genre et en nombre avec le sujet."
+    },
+    {
+      "prompt": "Distingue le COD et le COI : « Elle téléphone à son oncle. » ; « Elle appelle son oncle. »",
+      "solution": "« à son oncle » est un COI (préposition à). « son oncle » est un COD (aucune préposition).",
+      "success_criterion": "Chercher la présence ou l’absence de préposition après le verbe."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Analyse les groupes en gras et explique la différence : « Le jardinier arrose les rosiers. » ; « Le jardinier semble épuisé. »",
+      "solution": "« les rosiers » est un COD : le verbe arroser est un verbe d’action et les rosiers sont autre chose que le jardinier. « épuisé » est un attribut du sujet : sembler est un verbe d’état et « épuisé » décrit le jardinier.",
+      "success_criterion": "Justifier par le type de verbe et par ce que désigne le groupe."
+    },
+    {
+      "prompt": "Écris une phrase avec le verbe devenir et un attribut du sujet, puis une phrase avec le verbe voir et un COD.",
+      "solution": "Exemple : « Mon frère devient grand. » (grand : attribut du sujet) ; « Nous voyons un arc-en-ciel. » (un arc-en-ciel : COD). Toute phrase correcte qui respecte ces deux fonctions est acceptée.",
+      "success_criterion": "Employer un verbe d’état avec un attribut et un verbe d’action avec un COD."
+    },
+    {
+      "prompt": "Corrige les erreurs d’accord : « Ces histoires sont drôle. » ; « Les élèves semblent content. »",
+      "solution": "« Ces histoires sont drôles. » ; « Les élèves semblent contents. » L’attribut du sujet s’accorde avec le sujet (pluriel).",
+      "success_criterion": "Identifier le sujet, puis accorder l’attribut avec lui."
+    }
+  ],
+  "audio_transcript": "Après un verbe d’état comme être, devenir, sembler ou paraître, le mot qui suit décrit le sujet : c’est l’attribut du sujet. Léa devient pilote : pilote, c’est Léa. Après un verbe d’action, le complément d’objet répond à la question qui ou quoi : Léa lit un livre, un livre est le complément d’objet direct. Le complément d’objet indirect est introduit par une préposition, comme à ou de : elle téléphone à son oncle. Enfin, l’attribut du sujet s’accorde avec le sujet : mes sœurs restent calmes.",
+  "guided_explanation": "Pour savoir si tu as un attribut ou un COD, regarde d’abord le verbe. Si c’est un verbe d’état, comme être ou devenir, ce qui suit parle du sujet : « Maya est joyeuse », joyeuse décrit Maya. Si c’est un verbe d’action, ce qui suit est autre chose que le sujet : « Maya lit un conte », un conte n’est pas Maya. Pour distinguer COD et COI, regarde s’il y a une petite préposition (à, de) entre le verbe et son complément : « Maya parle à son frère », il y a « à », donc COI. Enfin, n’oublie pas d’accorder l’attribut avec le sujet : « Maya et Inès sont joyeuses »."
+}

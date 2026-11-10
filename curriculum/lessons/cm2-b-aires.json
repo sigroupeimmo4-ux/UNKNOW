@@ -1,0 +1,134 @@
+{
+  "id": "cm2-b-aires",
+  "title": "Les aires : unités, conversions, carré et rectangle",
+  "chapter_id": "cm2-b-aires",
+  "program_id": "CM2-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Comparer et déterminer des aires, notamment sur un quadrillage.",
+    "Connaître les unités cm², dm² et m² et leurs relations.",
+    "Convertir des aires entre ces unités.",
+    "Calculer l’aire d’un carré ou d’un rectangle."
+  ],
+  "skill_ids": [
+    "cm2-b-aires-comparer",
+    "cm2-b-aires-conversion",
+    "cm2-b-aires-rectangle"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Qu’est-ce qu’une aire ?",
+      "text": "L’aire d’une figure mesure la taille de sa surface. On peut comparer des aires en superposant les figures, ou en découpant et recollant des morceaux. On peut aussi compter des carreaux : sur un quadrillage dont les carreaux ont 1 cm de côté, chaque carreau a pour aire 1 cm². Une figure qui recouvre 12 carreaux a une aire de 12 cm²."
+    },
+    {
+      "title": "Les unités d’aire et leurs relations",
+      "text": "1 cm² est l’aire d’un carré de 1 cm de côté, 1 dm² celle d’un carré de 1 dm de côté, 1 m² celle d’un carré de 1 m de côté. Comme 1 dm = 10 cm, un carré de 1 dm de côté contient 10 × 10 = 100 carrés de 1 cm de côté : 1 dm² = 100 cm². De même, 1 m = 10 dm donc 1 m² = 100 dm². On en déduit 3 dm² = 300 cm², 2 m² = 200 dm², 650 cm² = 6,5 dm² et 1 cm² = 0,01 dm²."
+    },
+    {
+      "title": "Aire d’un rectangle et d’un carré",
+      "text": "L’aire d’un rectangle est égale à sa longueur multipliée par sa largeur, exprimées dans la même unité. Un rectangle de 8 cm sur 5 cm a une aire de 8 × 5 = 40 cm². Un carré est un rectangle dont les côtés sont égaux : un carré de 6 cm de côté a une aire de 6 × 6 = 36 cm². Si les unités sont différentes, on convertit d’abord : pour 4 m sur 250 cm, on écrit 4 m = 400 cm, puis 400 × 250 = 100 000 cm², soit 10 m²."
+    },
+    {
+      "title": "Ne pas confondre aire et périmètre",
+      "text": "Le périmètre est la longueur du contour de la figure, il s’exprime en cm, m… L’aire mesure la surface, elle s’exprime en cm², m²… Pour le rectangle de 8 cm sur 5 cm : périmètre 8 + 5 + 8 + 5 = 26 cm, aire 8 × 5 = 40 cm². Deux figures peuvent avoir le même périmètre et des aires différentes."
+    }
+  ],
+  "revision_sheet": [
+    "Aire : mesure de la surface, en cm², dm² ou m².",
+    "1 dm² = 100 cm² ; 1 m² = 100 dm².",
+    "Rectangle : aire = longueur × largeur (même unité). Carré : côté × côté.",
+    "Pour convertir : 3 dm² = 300 cm² ; 650 cm² = 6,5 dm².",
+    "Périmètre (longueur du contour, en cm) ≠ aire (surface, en cm²)."
+  ],
+  "quiz": [
+    {
+      "prompt": "Un rectangle mesure 9 cm sur 4 cm. Quelle est son aire ?",
+      "choices": [
+        "26 cm²",
+        "36 cm²",
+        "36 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "Aire = 9 × 4 = 36 cm². 26 est le périmètre (9 + 4 + 9 + 4) et l’aire ne s’exprime pas en cm."
+    },
+    {
+      "prompt": "Combien de dm² font 700 cm² ?",
+      "choices": [
+        "7 dm²",
+        "70 dm²",
+        "0,7 dm²"
+      ],
+      "correct_index": 0,
+      "explanation": "1 dm² = 100 cm², donc 700 cm² = 7 dm²."
+    },
+    {
+      "prompt": "Combien de dm² font 5 m² ?",
+      "choices": [
+        "5 000 dm²",
+        "50 dm²",
+        "500 dm²"
+      ],
+      "correct_index": 2,
+      "explanation": "1 m² = 100 dm², donc 5 m² = 5 × 100 = 500 dm²."
+    },
+    {
+      "prompt": "Un carré a un côté de 12 cm. Quelle est son aire ?",
+      "choices": [
+        "48 cm²",
+        "144 cm²",
+        "24 cm²"
+      ],
+      "correct_index": 1,
+      "explanation": "Aire du carré = 12 × 12 = 144 cm². 48 est le périmètre (4 × 12)."
+    },
+    {
+      "prompt": "Une figure recouvre 18 carreaux d’un quadrillage dont les carreaux ont 1 cm de côté. Quelle est son aire ?",
+      "choices": [
+        "18 cm",
+        "9 cm²",
+        "18 cm²"
+      ],
+      "correct_index": 2,
+      "explanation": "Chaque carreau a pour aire 1 cm². 18 carreaux donnent 18 cm²."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule l’aire d’un rectangle de 15 m sur 8 m.",
+      "solution": "15 × 8 = 120. L’aire est de 120 m².",
+      "success_criterion": "Multiplier longueur par largeur et donner l’unité en m²."
+    },
+    {
+      "prompt": "Convertis : 4 dm² en cm² ; 3 m² en dm² ; 650 cm² en dm².",
+      "solution": "4 dm² = 400 cm² ; 3 m² = 300 dm² ; 650 cm² = 6,5 dm².",
+      "success_criterion": "Utiliser 1 dm² = 100 cm² et 1 m² = 100 dm²."
+    },
+    {
+      "prompt": "Un carré a un côté de 7 cm. Calcule son aire et son périmètre.",
+      "solution": "Aire : 7 × 7 = 49 cm². Périmètre : 4 × 7 = 28 cm.",
+      "success_criterion": "Distinguer l’aire (en cm²) du périmètre (en cm)."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Une salle rectangulaire mesure 6 m sur 4 m. Quelle est son aire en m², puis en dm² ? Combien de carreaux de 1 dm de côté faut-il pour la recouvrir ?",
+      "solution": "Aire : 6 × 4 = 24 m². En dm² : 24 × 100 = 2 400 dm². Chaque carreau de 1 dm de côté a pour aire 1 dm², il faut donc 2 400 carreaux. Contrôle : 6 m = 60 dm et 4 m = 40 dm, et 60 × 40 = 2 400.",
+      "success_criterion": "Calculer l’aire, convertir en dm² et conclure avec le nombre de carreaux."
+    },
+    {
+      "prompt": "Un rectangle mesure 12 cm sur 5 cm. Un carré a 8 cm de côté. Lequel a la plus grande aire ? Lequel a le plus grand périmètre ?",
+      "solution": "Rectangle : aire 12 × 5 = 60 cm², périmètre (12 + 5) × 2 = 34 cm. Carré : aire 8 × 8 = 64 cm², périmètre 4 × 8 = 32 cm. Le carré a la plus grande aire, mais le rectangle a le plus grand périmètre.",
+      "success_criterion": "Calculer les deux grandeurs pour chaque figure et ne pas les confondre."
+    },
+    {
+      "prompt": "Explique pourquoi 1 m² vaut 100 dm² et non 10 dm².",
+      "solution": "1 m = 10 dm. Un carré de 1 m de côté a donc 10 dm de côté : il se découpe en 10 rangées de 10 carrés de 1 dm de côté. Cela fait 10 × 10 = 100 carrés de 1 dm², donc 1 m² = 100 dm².",
+      "success_criterion": "Raisonner sur le quadrillage en 10 par 10, et non sur le seul rapport des longueurs."
+    }
+  ],
+  "audio_transcript": "L’aire mesure la surface d’une figure. Un centimètre carré est l’aire d’un carré d’un centimètre de côté. Comme un décimètre vaut dix centimètres, un décimètre carré vaut dix fois dix, soit cent centimètres carrés. De même, un mètre carré vaut cent décimètres carrés. L’aire d’un rectangle est sa longueur multipliée par sa largeur, dans la même unité : huit centimètres fois cinq centimètres, cela fait quarante centimètres carrés. Attention à ne pas confondre l’aire, qui mesure la surface, et le périmètre, qui est la longueur du contour.",
+  "guided_explanation": "Dessine un carré de 10 cm de côté sur du papier quadrillé : il contient 10 rangées de 10 petits carreaux d’un centimètre, soit 100 carreaux. Ce grand carré mesure 1 dm de côté, donc 1 dm² = 100 cm². Pour l’aire d’un rectangle de 8 cm sur 5 cm, imagine 5 rangées de 8 carreaux : 5 × 8 = 40 carreaux, soit 40 cm². Pour le périmètre, au contraire, tu fais le tour avec ton doigt : 8 + 5 + 8 + 5 = 26 cm. Pour convertir, demande-toi toujours : un carré de l’unité la plus grande contient combien de carrés de la plus petite ? Ici, 100."
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ce1-b-classes-de-mots",
+  "title": "Les classes de mots : déterminant, nom, adjectif, verbe et pronom",
+  "chapter_id": "ce1-b-classes-de-mots",
+  "program_id": "CE1-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaitre et nommer le déterminant, le nom commun, le nom propre, l’adjectif, le verbe et le pronom personnel sujet.",
+    "Utiliser des critères pour reconnaitre chaque classe (majuscule, place devant le nom, remplacement par un pronom).",
+    "Classer des mots par classe grammaticale."
+  ],
+  "skill_ids": [
+    "ce1-b-classes-de-mots-skill",
+    "ce1-b-classes-de-mots-trier"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CE1 (Cours élémentaire première année) / Grammaire et orthographe – Se repérer dans la phrase simple, page 21 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le nom commun et le nom propre",
+      "text": "Un nom commun désigne un animal, une personne, un objet, un lieu, mais aussi un sentiment ou une émotion : chat, élève, table, école, joie. Il est souvent précédé d’un déterminant. Un nom propre désigne une personne ou un lieu en particulier : Astérix, Léa, Marseille. Il commence toujours par une majuscule."
+    },
+    {
+      "title": "Le déterminant",
+      "text": "Le déterminant se place devant le nom commun : le, la, les, un, une, des, mon, cette… Dans « un chat » ou « cette école », un et cette sont des déterminants. Astuce : si je peux mettre un mot comme « le » ou « un » devant, c’est probablement un nom commun et le petit mot qui est devant est un déterminant."
+    },
+    {
+      "title": "L’adjectif et le verbe",
+      "text": "L’adjectif apporte une information sur un nom : il dit comment il est. Dans « un petit chat » et « la mer bleue », petit et bleue sont des adjectifs. Le verbe dit souvent ce que l’on fait (une action) : le chat dort, nous mangeons. Il se conjugue : il change quand le sujet ou le moment change (je mange, nous mangeons ; il dort, ils dorment). Le verbe être est aussi un verbe : Il est content."
+    },
+    {
+      "title": "Le pronom personnel sujet",
+      "text": "Le pronom personnel sujet remplace le groupe sujet : je, tu, il, elle, on, nous, vous, ils, elles. Léa mange devient Elle mange. Les garçons jouent devient Ils jouent. Les filles dansent devient Elles dansent. Pour classer les mots d’une phrase : Le (déterminant) petit (adjectif) chat (nom commun) boit (verbe) le (déterminant) lait (nom commun). Léa (nom propre) regarde (verbe) la (déterminant) grande (adjectif) maison (nom commun)."
+    }
+  ],
+  "revision_sheet": [
+    "Nom commun : animal, personne, objet, lieu, sentiment (chat, école, joie). Nom propre : une personne ou un lieu en particulier, avec une majuscule (Léa, Marseille).",
+    "Le déterminant est devant le nom : le, la, les, un, une, des, mon, cette…",
+    "L’adjectif dit comment est le nom : un petit chat, la mer bleue.",
+    "Le verbe dit souvent une action et se conjugue : il dort, nous mangeons ; être est un verbe.",
+    "Le pronom personnel sujet remplace le groupe sujet : je, tu, il, elle, on, nous, vous, ils, elles."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « Marseille est une grande ville », quel mot est un nom propre ?",
+      "choices": [
+        "ville",
+        "Marseille",
+        "grande"
+      ],
+      "correct_index": 1,
+      "explanation": "Marseille désigne un lieu en particulier et commence par une majuscule : c’est un nom propre. Ville est un nom commun et grande est un adjectif."
+    },
+    {
+      "prompt": "Dans « Le chat dort », quel mot est un déterminant ?",
+      "choices": [
+        "dort",
+        "chat",
+        "Le"
+      ],
+      "correct_index": 2,
+      "explanation": "Le est placé devant le nom chat : c’est un déterminant. Chat est un nom commun et dort est un verbe."
+    },
+    {
+      "prompt": "Dans « Un petit chien aboie », quel mot est un adjectif ?",
+      "choices": [
+        "petit",
+        "chien",
+        "aboie"
+      ],
+      "correct_index": 0,
+      "explanation": "Petit dit comment est le chien : c’est un adjectif. Chien est un nom commun et aboie est un verbe."
+    },
+    {
+      "prompt": "Par quel pronom peut-on remplacer « Les garçons » dans « Les garçons jouent » ?",
+      "choices": [
+        "Il",
+        "Ils",
+        "Elles"
+      ],
+      "correct_index": 1,
+      "explanation": "Les garçons est au pluriel et masculin : on le remplace par Ils. Il est au singulier et Elles est au féminin pluriel."
+    },
+    {
+      "prompt": "Dans « La petite fille chante », quel mot est un verbe ?",
+      "choices": [
+        "petite",
+        "fille",
+        "chante"
+      ],
+      "correct_index": 2,
+      "explanation": "Chante dit ce que fait la petite fille : c’est un verbe. Petite est un adjectif et fille est un nom commun."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Range ces mots dans trois boîtes (nom commun, nom propre, adjectif) : Paul, joli, table, Paris, grand, lapin, joie, rouge.",
+      "solution": "Noms communs : table, lapin, joie. Noms propres : Paul, Paris. Adjectifs : joli, grand, rouge.",
+      "success_criterion": "Classer correctement les 8 mots (3 noms communs, 2 noms propres, 3 adjectifs) en justifiant par la majuscule ou le sens."
+    },
+    {
+      "prompt": "Recopie la phrase « Le petit chat boit le lait. » et écris sous chaque mot sa classe.",
+      "solution": "Le : déterminant ; petit : adjectif ; chat : nom commun ; boit : verbe ; le : déterminant ; lait : nom commun.",
+      "success_criterion": "Identifier les 6 mots (2 déterminants, 1 adjectif, 2 noms communs, 1 verbe)."
+    },
+    {
+      "prompt": "Remplace le groupe sujet par un pronom personnel : a) Ma sœur lit un livre. b) Les oiseaux chantent. c) Mes amies rient.",
+      "solution": "a) Elle lit un livre. b) Ils chantent. c) Elles rient.",
+      "success_criterion": "Choisir Elle, Ils et Elles selon le genre et le nombre du groupe sujet."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Donne la classe de chaque mot de la phrase : « Léa regarde la grande maison. »",
+      "solution": "Léa : nom propre ; regarde : verbe ; la : déterminant ; grande : adjectif ; maison : nom commun.",
+      "success_criterion": "Trouver les cinq classes sans erreur."
+    },
+    {
+      "prompt": "Écris une phrase contenant au moins un déterminant, un nom commun, un adjectif et un verbe. Indique la classe de chacun de ces mots.",
+      "solution": "Exemple : « Le chat noir dort. » Le : déterminant ; chat : nom commun ; noir : adjectif ; dort : verbe. (Toute phrase correcte avec ces quatre classes est acceptée.)",
+      "success_criterion": "Écrire une phrase complète (majuscule, point) contenant les quatre classes demandées, correctement nommées."
+    },
+    {
+      "prompt": "Tom dit : « Un nom propre commence par une minuscule, comme un nom commun. » A-t-il raison ? Explique et donne deux exemples de noms propres.",
+      "solution": "Non. Un nom propre désigne une personne ou un lieu en particulier et commence toujours par une majuscule. Exemples : Astérix, Marseille (ou Léa, Paris).",
+      "success_criterion": "Répondre « non », expliquer la majuscule et donner deux noms propres avec une majuscule."
+    }
+  ],
+  "audio_transcript": "Les mots d’une phrase se rangent dans des boîtes qu’on appelle des classes de mots. Dans la boîte des noms communs, il y a des animaux, des personnes, des objets, et aussi des sentiments : chat, école, joie. Les noms propres désignent une personne ou un lieu en particulier, comme Léa ou Marseille, et ils commencent par une majuscule. Devant un nom commun, on trouve souvent un déterminant : le, la, un, une, des. L’adjectif dit comment est le nom : un petit chat. Le verbe dit souvent une action : le chat dort. Enfin, le pronom personnel sujet remplace le groupe sujet : Léa mange, elle mange. Les garçons jouent, ils jouent. Dans la phrase : le petit chat boit le lait, le est un déterminant, petit est un adjectif, chat est un nom commun et boit est un verbe.",
+  "guided_explanation": "Pense à une boîte de rangement pour chaque classe. Pour savoir où ranger un mot, pose-toi des questions. Est-ce un nom ? Je peux mettre « un » ou « le » devant, et il désigne un animal, une personne, une chose ou un sentiment. S’il commence par une majuscule parce qu’il désigne une personne ou un lieu en particulier, c’est un nom propre. Est-ce le petit mot devant le nom, comme « le » ou « une » ? C’est un déterminant. Est-ce un mot qui dit comment est quelqu’un ou quelque chose, comme « petit » ou « rouge » ? C’est un adjectif. Est-ce un mot qui change quand je change de personne, comme « il mange », « nous mangeons » ? C’est un verbe. Et si je peux remplacer le début de la phrase par « il », « elle », « ils » ou « elles », ce mot de remplacement est un pronom personnel sujet."
+}

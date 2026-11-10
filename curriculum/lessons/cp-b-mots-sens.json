@@ -1,0 +1,102 @@
+{
+  "id": "cp-b-mots-sens",
+  "title": "Ranger les mots, contraires et familles de mots",
+  "chapter_id": "cp-b-mots-sens",
+  "program_id": "CP-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Ranger des mots par thème.",
+    "Trouver des mots de sens contraire.",
+    "Reconnaître des mots de la même famille."
+  ],
+  "skill_ids": [
+    "cp-b-mots-sens-skill-themes",
+    "cp-b-mots-sens-skill-contraires",
+    "cp-b-mots-sens-skill-familles"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2, annexe 3, CP (Cours préparatoire) / Vocabulaire — Établir des relations entre les mots, page 16 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Des mots qui vont ensemble",
+      "text": "À l’école, il y a une trousse, une colle, un bureau, une ardoise. Ces mots vont ensemble : ils parlent de l’école. On peut ranger les mots par thème."
+    },
+    {
+      "title": "Des mots de sens contraire",
+      "text": "« Lourd » et « léger » ont des sens contraires. « Visible » et « invisible » aussi."
+    },
+    {
+      "title": "Des mots de la même famille",
+      "text": "« Chant » et « chanter » sont de la même famille. « Dormeur » et « dormir » aussi. « Coller », « décoller » et « recoller » : on retrouve « coller » dans chaque mot."
+    }
+  ],
+  "revision_sheet": [
+    "Je range les mots par thème : trousse, colle, bureau, ardoise = l’école.",
+    "Contraires : lourd/léger, visible/invisible.",
+    "Familles : chant/chanter, dormeur/dormir, coller/décoller/recoller."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quel mot est le contraire de « lourd » ?",
+      "choices": [
+        "léger",
+        "grand",
+        "lent"
+      ],
+      "correct_index": 0,
+      "explanation": "Lourd et léger sont de sens contraire."
+    },
+    {
+      "prompt": "Quel mot va avec « trousse », « colle » et « bureau » ?",
+      "choices": [
+        "ardoise",
+        "fourchette",
+        "ballon"
+      ],
+      "correct_index": 0,
+      "explanation": "Ce sont des mots de l’école."
+    },
+    {
+      "prompt": "Quel mot est de la même famille que « chant » ?",
+      "choices": [
+        "chanter",
+        "chapeau",
+        "chat"
+      ],
+      "correct_index": 0,
+      "explanation": "On retrouve « chant » dans « chanter »."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Écris le contraire de : lourd ; visible.",
+      "solution": "léger ; invisible.",
+      "success_criterion": "Trouver les deux contraires."
+    },
+    {
+      "prompt": "Quels mots parlent de l’école ? trousse, pomme, colle, banane.",
+      "solution": "trousse et colle. (Pomme et banane sont des fruits.)",
+      "success_criterion": "Choisir trousse et colle."
+    },
+    {
+      "prompt": "Trouve un verbe de la même famille que « chant » et un autre pour « dormeur ».",
+      "solution": "chanter ; dormir.",
+      "success_criterion": "Donner les deux verbes."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Quel mot n’est pas de la famille de « coller » ? coller, décoller, cadeau, recoller",
+      "solution": "cadeau.",
+      "success_criterion": "Repérer l’intrus et dire qu’on ne retrouve pas « coller »."
+    },
+    {
+      "prompt": "Explique pourquoi « lourd » et « léger » sont de sens contraire.",
+      "solution": "Un objet lourd pèse beaucoup, un objet léger pèse peu : le sens est opposé.",
+      "success_criterion": "Donner une explication avec le sens des mots."
+    }
+  ],
+  "audio_transcript": "Les mots peuvent aller ensemble. Trousse, colle, bureau, ardoise : ce sont des mots de l’école. Lourd et léger ont des sens contraires. Chant et chanter sont de la même famille. Coller, décoller et recoller aussi.",
+  "guided_explanation": "Pense à des boîtes à ranger. Dans la boîte de l’école, tu mets trousse, colle, ardoise. Pour les contraires, pense à deux amis qui disent l’inverse : lourd et léger. Pour les familles, cherche le petit mot qu’on retrouve : dans décoller, il y a coller."
+}

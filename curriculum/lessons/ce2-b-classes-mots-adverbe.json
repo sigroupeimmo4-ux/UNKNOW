@@ -1,0 +1,133 @@
+{
+  "id": "ce2-b-classes-mots-adverbe",
+  "title": "Les classes de mots et l’adverbe",
+  "chapter_id": "ce2-b-classes-mots-adverbe",
+  "program_id": "CE2-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Nommer la classe de chaque mot dans une phrase simple.",
+    "Distinguer mots variables et mots invariables.",
+    "Reconnaitre l’adverbe et écrire correctement les adverbes fréquents et en -ment."
+  ],
+  "skill_ids": [
+    "ce2-b-classes-mots-adverbe-skill-classes",
+    "ce2-b-classes-mots-adverbe-skill-adverbe"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 2 (annexe 3 de l’arrêté du 22 octobre 2024), CE2 / Grammaire et orthographe : Se repérer dans la phrase simple, page 22 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les classes de mots",
+      "text": "Chaque mot d’une phrase appartient à une classe. Le déterminant (le, la, un, des, mon…) accompagne le nom commun (chat, école). Le nom propre commence par une majuscule (Léa, Paris). L’adjectif donne des précisions sur le nom (petit, joyeuse). Le verbe dit ce que l’on fait ou ce qui se passe (mange, sont). Le pronom personnel sujet (je, tu, il, elle, nous, vous, ils, elles) remplace un groupe sujet. Exemple : dans « Le petit chat dort. », le est un déterminant, petit un adjectif, chat un nom commun et dort un verbe."
+    },
+    {
+      "title": "Mots variables et mots invariables",
+      "text": "Un mot variable change de forme : un déterminant (le, les), un nom (chat, chats), un adjectif (petit, petite), un verbe (je chante, nous chantons), un pronom (il, ils). Un mot invariable ne change jamais. L’adverbe est invariable : « Je m’amuse bien. » ; « Nous nous amusons bien. » Le verbe change, mais bien reste le même."
+    },
+    {
+      "title": "Reconnaitre et écrire les adverbes fréquents",
+      "text": "L’adverbe donne une précision sur un verbe ou un adjectif : « Elle chante bien. » ; « Il est très gentil. » Il faut savoir écrire les adverbes les plus fréquents : très, si, bien, assez (avec un z), aujourd’hui (avec une apostrophe), demain. Ils ne prennent ni -s ni -e."
+    },
+    {
+      "title": "Les adverbes en -ment",
+      "text": "Beaucoup d’adverbes se terminent par -ment. On les forme souvent à partir de l’adjectif au féminin : lente → lentement ; douce → doucement ; rapide → rapidement ; heureuse → heureusement. Exemple : « Tom parle doucement. » L’adverbe doucement ne change pas, même si on écrit « Les enfants parlent doucement. »"
+    }
+  ],
+  "revision_sheet": [
+    "Classes de mots : déterminant, nom commun, nom propre, adjectif, verbe, pronom personnel sujet, adverbe.",
+    "Le nom propre commence par une majuscule ; le déterminant accompagne le nom commun.",
+    "Un mot variable change de forme (genre, nombre, personne, temps) ; un mot invariable ne change jamais.",
+    "L’adverbe est invariable : Je m’amuse bien. Nous nous amusons bien.",
+    "Adverbes fréquents à savoir écrire : très, si, bien, assez, aujourd’hui, demain.",
+    "Adverbes en -ment : lente → lentement ; douce → doucement ; heureuse → heureusement."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « Le petit chat dort. », quelle est la classe du mot petit ?",
+      "choices": [
+        "Nom commun",
+        "Adjectif",
+        "Déterminant"
+      ],
+      "correct_index": 1,
+      "explanation": "Petit donne une précision sur le nom chat : c’est un adjectif."
+    },
+    {
+      "prompt": "Dans « Tom parle doucement. », quel mot est un adverbe ?",
+      "choices": [
+        "Tom",
+        "parle",
+        "doucement"
+      ],
+      "correct_index": 2,
+      "explanation": "Doucement précise comment Tom parle et ne change jamais : c’est un adverbe. Tom est un nom propre et parle est un verbe."
+    },
+    {
+      "prompt": "Quel mot est invariable ?",
+      "choices": [
+        "aujourd’hui",
+        "grandes",
+        "mangent"
+      ],
+      "correct_index": 0,
+      "explanation": "Aujourd’hui est un adverbe : il ne change jamais. Grandes (féminin pluriel) et mangent (verbe conjugué) peuvent changer de forme."
+    },
+    {
+      "prompt": "Quel pronom personnel sujet peut remplacer « Les filles » dans « Les filles chantent. » ?",
+      "choices": [
+        "Il",
+        "Ils",
+        "Elles"
+      ],
+      "correct_index": 2,
+      "explanation": "Les filles est un groupe sujet féminin pluriel : on le remplace par elles."
+    },
+    {
+      "prompt": "Comment s’écrit l’adverbe formé à partir de l’adjectif « lente » ?",
+      "choices": [
+        "lentment",
+        "lentement",
+        "lentemment"
+      ],
+      "correct_index": 1,
+      "explanation": "On ajoute -ment à lente : lentement."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Donne la classe de chaque mot de la phrase : « La petite Léa mange très vite. »",
+      "solution": "La : déterminant ; petite : adjectif ; Léa : nom propre ; mange : verbe ; très : adverbe ; vite : adverbe.",
+      "success_criterion": "Nommer correctement les 6 mots, en reconnaissant Léa comme nom propre et très et vite comme adverbes."
+    },
+    {
+      "prompt": "Remplace le groupe sujet par un pronom personnel sujet : « Mes cousins arrivent demain. » ; « Ma tante arrive demain. »",
+      "solution": "« Ils arrivent demain. » ; « Elle arrive demain. »",
+      "success_criterion": "Choisir ils pour le pluriel masculin et elle pour le féminin singulier, en gardant l’adverbe demain."
+    },
+    {
+      "prompt": "Forme un adverbe en -ment à partir de chaque adjectif : doux (douce) ; lent (lente) ; rapide ; heureux (heureuse).",
+      "solution": "doucement ; lentement ; rapidement ; heureusement.",
+      "success_criterion": "Écrire les quatre adverbes sans faute, en partant du féminin de l’adjectif."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Donne la classe de chaque mot : « Demain, nous mangeons bien. »",
+      "solution": "Demain : adverbe ; nous : pronom personnel sujet ; mangeons : verbe ; bien : adverbe.",
+      "success_criterion": "Nommer correctement les quatre mots."
+    },
+    {
+      "prompt": "Explique pourquoi on écrit toujours bien de la même façon dans « Je chante bien. » et « Nous chantons bien. »",
+      "solution": "Bien est un adverbe : c’est un mot invariable. Le verbe change (chante, chantons) selon le sujet, mais bien ne change pas.",
+      "success_criterion": "Dire que l’adverbe est invariable et que seul le verbe change."
+    },
+    {
+      "prompt": "Écris une phrase avec un adverbe en -ment, puis recopie l’adverbe.",
+      "solution": "Par exemple : « Le chat marche doucement. » L’adverbe est doucement.",
+      "success_criterion": "Écrire une phrase correcte avec un adverbe en -ment bien orthographié et le recopier."
+    }
+  ],
+  "audio_transcript": "Les mots d’une phrase appartiennent à des classes : le déterminant, le nom commun, le nom propre, l’adjectif, le verbe, le pronom personnel sujet et l’adverbe. Certains mots sont variables : ils changent de forme, comme petit, petite ou chante, chantons. D’autres sont invariables : ils ne changent jamais. L’adverbe est invariable. Dans « Je m’amuse bien » et « Nous nous amusons bien », le verbe change mais bien reste le même. Les adverbes à bien connaitre sont très, si, bien, assez, aujourd’hui et demain. Beaucoup d’adverbes se terminent par ment, comme doucement ou lentement.",
+  "guided_explanation": "Pour trouver la classe d’un mot, pose-toi des questions. Est-ce que ce mot peut changer quand je modifie le sujet ou le nombre ? Si oui, c’est un mot variable : un verbe, un nom, un adjectif, un déterminant ou un pronom. Si le mot ne change jamais, comme bien, très ou doucement, c’est un adverbe. Pour un mot en -ment, regarde s’il précise un verbe : « Tom parle doucement » dit comment il parle. Pour écrire l’adverbe, cherche l’adjectif féminin : lente donne lentement."
+}

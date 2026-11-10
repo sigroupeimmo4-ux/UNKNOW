@@ -1,0 +1,144 @@
+{
+  "id": "3e-b-fonctions-phrase-simple",
+  "title": "Identifier le COD, le COI, l’attribut du COD et l’apposition",
+  "chapter_id": "3e-b-fonctions-phrase-simple",
+  "program_id": "3e-francais-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Identifier le COD et le COI d’un verbe, y compris lorsqu’ils sont remplacés par un pronom.",
+    "Identifier l’attribut du COD dans une phrase avec des verbes comme rendre, trouver ou juger.",
+    "Reconnaître l’apposition et la distinguer de l’épithète et du complément du nom."
+  ],
+  "skill_ids": [
+    "3e-b-fonctions-phrase-simple-skill-cod-coi",
+    "3e-b-fonctions-phrase-simple-skill-attribut-cod",
+    "3e-b-fonctions-phrase-simple-skill-apposition"
+  ],
+  "source_locators": [
+    "Programme de français du cycle 4 (BO n° 31 du 30 juillet 2020, annexe 3 ; texte archivé sous l’identifiant 6f0365b6a54fc983), Étude de la langue / Analyser le fonctionnement de la phrase simple et de la phrase complexe (« Approfondir la connaissance du COD et du COI », « Identifier l’attribut du COD », « Identifier l’apposition »), page 22 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Le COD : complément d’objet direct",
+      "text": "Le COD complète le verbe sans préposition. On le trouve en posant la question « qui ? » ou « quoi ? » après le verbe. « Léa lit un roman. » (Léa lit quoi ? un roman). « Le jardinier arrose les rosiers. » Le COD peut être un nom, un groupe nominal ou un pronom (le, la, l’, les, que) ; il peut être placé avant le verbe : « Je les ai vus. » « Le livre que tu lis est passionnant. » (que remplace « le livre » et est COD de « lis »). Contrairement à un complément circonstanciel (« Hier, Léa lit un roman »), le COD ne se déplace pas librement dans la phrase et on ne le supprime pas sans changer la construction du verbe."
+    },
+    {
+      "title": "Le COI : complément d’objet indirect",
+      "text": "Le COI complète le verbe par l’intermédiaire d’une préposition (le plus souvent à ou de). On pose la question « à qui ? », « à quoi ? », « de qui ? », « de quoi ? » après le verbe. « Elle téléphone à sa grand-mère. » « Nous parlons de notre projet. » « Il pense à ses vacances. » Le COI peut être remplacé par un pronom : lui, leur (« Je lui parle »), y (« J’y pense »), en (« Nous en parlons »). Une phrase peut avoir un COD et un COI : « Tom offre un livre à sa sœur. » (COD : un livre ; COI : à sa sœur)."
+    },
+    {
+      "title": "L’attribut du COD",
+      "text": "Certains verbes (rendre, trouver, juger, nommer, élire, appeler, croire…) construisent un COD suivi d’un attribut du COD, qui exprime une qualité ou un titre du COD. « Cette nouvelle a rendu Léa joyeuse. » (COD : Léa ; attribut du COD : joyeuse). « Je trouve ce film passionnant. » (COD : ce film ; attribut : passionnant). « Les élèves ont élu Tom délégué. » (attribut : délégué). Test : on peut dire « ce film est passionnant » ; l’attribut qualifie le COD. Il s’accorde avec le COD : « Elle trouve ses amies sympathiques. »"
+    },
+    {
+      "title": "L’apposition",
+      "text": "L’apposition est une expansion du nom : un nom, un adjectif ou un participe, séparé du nom auquel il se rapporte par une ou plusieurs virgules. Elle apporte une précision et on peut la supprimer. « Paris, capitale de la France, accueille de nombreux touristes. » « Fatiguée, Léa s’est assise. » « Épuisés par la montée, les randonneurs se sont arrêtés. » Ne la confonds pas avec l’épithète, qui est collée au nom sans virgule (« une ville ancienne »), ni avec le complément du nom, introduit par une préposition (« la capitale de la France »)."
+    }
+  ],
+  "revision_sheet": [
+    "COD : complète le verbe sans préposition ; question « qui ? / quoi ? » ; peut être un pronom (le, la, les, que) ; peut être placé avant le verbe.",
+    "COI : complète le verbe avec une préposition (à, de) ; question « à qui ? / de quoi ? » ; pronoms lui, leur, y, en.",
+    "Un verbe peut avoir un COD et un COI : « Tom offre un livre à sa sœur. »",
+    "Attribut du COD : qualifie le COD après rendre, trouver, juger, nommer, élire… ; il s’accorde avec le COD.",
+    "Apposition : nom, adjectif ou participe séparé du nom par une virgule ; supprimable.",
+    "Épithète : sans virgule, collée au nom. Complément du nom : introduit par une préposition."
+  ],
+  "quiz": [
+    {
+      "prompt": "Dans « Mon frère répare son vélo. », quel est le COD du verbe « répare » ?",
+      "choices": [
+        "mon frère",
+        "son vélo",
+        "répare"
+      ],
+      "correct_index": 1,
+      "explanation": "On pose la question : mon frère répare quoi ? son vélo. C’est un COD, sans préposition. « Mon frère » est le sujet."
+    },
+    {
+      "prompt": "Dans « Je parle à mes voisins. », quelle est la fonction de « à mes voisins » ?",
+      "choices": [
+        "COD",
+        "complément circonstanciel de lieu",
+        "COI"
+      ],
+      "correct_index": 2,
+      "explanation": "Le verbe parler se construit ici avec la préposition à : je parle à qui ? à mes voisins. C’est un COI."
+    },
+    {
+      "prompt": "Dans « Ce retard rend le directeur furieux. », quel mot est l’attribut du COD ?",
+      "choices": [
+        "furieux",
+        "le directeur",
+        "ce retard"
+      ],
+      "correct_index": 0,
+      "explanation": "Le COD est « le directeur » (ce retard rend qui ?). « Furieux » dit comment est le directeur : c’est l’attribut du COD."
+    },
+    {
+      "prompt": "Dans « Lucie, ma meilleure amie, habite à côté. », quelle est la fonction de « ma meilleure amie » ?",
+      "choices": [
+        "COD",
+        "apposition",
+        "attribut du COD"
+      ],
+      "correct_index": 1,
+      "explanation": "Ce groupe nominal est séparé du nom « Lucie » par des virgules, apporte une précision et peut être supprimé : c’est une apposition."
+    },
+    {
+      "prompt": "Dans « Je les ai vus. », quelle est la fonction du pronom « les » ?",
+      "choices": [
+        "sujet",
+        "COI",
+        "COD"
+      ],
+      "correct_index": 2,
+      "explanation": "« Les » remplace des personnes ou des choses vues (j’ai vu qui ? les) ; il n’y a pas de préposition : c’est un COD placé avant le verbe."
+    },
+    {
+      "prompt": "Par quel pronom remplace-t-on le COI dans « Elle téléphone à sa grand-mère. » ?",
+      "choices": [
+        "Elle la téléphone.",
+        "Elle lui téléphone.",
+        "Elle le téléphone."
+      ],
+      "correct_index": 1,
+      "explanation": "Le COI désignant une personne est remplacé par « lui » : elle lui téléphone. Les pronoms la et le remplacent un COD."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Relève et nomme la fonction des groupes soulignés : a) Le jardinier arrose <les rosiers> <chaque matin>. b) Les élèves obéissent <à leur professeur>. c) Le jury a jugé <cette performance> <remarquable>.",
+      "solution": "a) « les rosiers » : COD (arrose quoi ?) ; « chaque matin » : complément circonstanciel de temps. b) « à leur professeur » : COI (obéir à qui ?). c) « cette performance » : COD ; « remarquable » : attribut du COD.",
+      "success_criterion": "Nommer correctement les quatre fonctions et justifier par la question posée ou la présence de la préposition."
+    },
+    {
+      "prompt": "Remplace les compléments soulignés par un pronom : a) Il lit <un roman>. b) Elle téléphone <à sa grand-mère>. c) Nous parlons <de ce projet>.",
+      "solution": "a) Il le lit (COD remplacé par le). b) Elle lui téléphone (COI remplacé par lui). c) Nous en parlons (COI introduit par de remplacé par en).",
+      "success_criterion": "Utiliser le, lui et en, et reconnaître un COD dans a) et un COI dans b) et c)."
+    },
+    {
+      "prompt": "a) Repère l’apposition : « Mon voisin, un ancien pilote, raconte des histoires. » b) Réécris en une seule phrase avec une apposition : « Marie Curie était physicienne et chimiste. Elle a reçu deux prix Nobel. »",
+      "solution": "a) « un ancien pilote » est une apposition au nom « voisin » (placée entre virgules). b) « Marie Curie, physicienne et chimiste, a reçu deux prix Nobel. »",
+      "success_criterion": "Identifier l’apposition grâce aux virgules et construire une phrase correcte avec apposition."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Analyse la phrase « Tom a offert un livre à sa sœur. » : sujet, verbe, COD, COI.",
+      "solution": "Sujet : Tom. Verbe : a offert. COD : un livre (offrir quoi ?). COI : à sa sœur (offrir à qui ?).",
+      "success_criterion": "Identifier les quatre constituants et distinguer COD (sans préposition) et COI (avec la préposition à)."
+    },
+    {
+      "prompt": "Dans « Le public a trouvé la pièce émouvante. », identifie le COD et l’attribut du COD. Puis réécris la phrase avec « les pièces » et accorde ce qui doit l’être.",
+      "solution": "COD : la pièce ; attribut du COD : émouvante. Avec le pluriel : « Le public a trouvé les pièces émouvantes. » L’attribut du COD s’accorde avec le COD (féminin pluriel).",
+      "success_criterion": "Trouver le COD et l’attribut et accorder l’attribut au féminin pluriel."
+    },
+    {
+      "prompt": "Dans « Mon chat, un siamois curieux, observe la petite souris du jardin. », identifie : l’apposition, une épithète et un complément du nom. Quel est le COD de « observe » ?",
+      "solution": "Apposition : « un siamois curieux » (entre virgules, se rapporte à « chat »). Épithète : « petite » (de « souris »), et aussi « curieux » (de « siamois »). Complément du nom : « du jardin » (de « souris »). COD de « observe » : « la petite souris du jardin ».",
+      "success_criterion": "Distinguer les trois expansions du nom et le COD, en justifiant par les virgules et la préposition."
+    }
+  ],
+  "audio_transcript": "Dans une phrase, le COD complète le verbe sans préposition : dans « Léa lit un roman », le COD est « un roman ». Le COI complète le verbe avec une préposition, comme à ou de : dans « Il parle à son frère », le COI est « à son frère ». On peut les remplacer par des pronoms : le, la, les pour le COD ; lui, leur, y, en pour le COI. L’attribut du COD qualifie le COD après des verbes comme rendre ou trouver : dans « Je trouve ce film passionnant », « passionnant » est l’attribut de « ce film ». Enfin, l’apposition est un groupe de mots séparé du nom par une virgule, par exemple « Paris, capitale de la France ».",
+  "guided_explanation": "Pour trouver le COD, pose la question « qui ? » ou « quoi ? » juste après le verbe. Pour le COI, pose « à qui ? », « de quoi ? » : si une préposition apparaît, c’est un COI. Un bon test : remplace par un pronom. Si c’est « le, la, les », c’était un COD. Si c’est « lui, leur, y, en », c’était un COI. Pour l’attribut du COD, regarde après des verbes comme rendre, trouver, juger : un mot qui dit comment est le COD. Pour l’apposition, cherche les virgules : ce que tu peux enlever sans casser la phrase et qui complète un nom. N’oublie pas l’accord : l’attribut du COD s’accorde avec le COD."
+}

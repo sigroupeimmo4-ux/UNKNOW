@@ -1,0 +1,1388 @@
+{
+  "programs": [
+    {
+      "id": "CM2-mathematiques-commun",
+      "domains": [
+        {
+          "id": "nombres-calcul-problemes",
+          "title": "Nombres, calcul et résolution de problèmes",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année, pages 9–11 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm2-b-operations-decimaux",
+              "title": "Les quatre opérations : parenthèses, multiplication et division avec des décimaux",
+              "title_type": "editorial",
+              "official_section": "Les quatre opérations",
+              "notions": [
+                "Estimer le résultat d’une opération",
+                "Calcul contenant une ou deux paires de parenthèses",
+                "Multiplication d’un nombre décimal par un nombre entier",
+                "Division décimale avec un diviseur à un chiffre (dividende entier ou décimal)"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-b-operations-decimaux-knowledge",
+                  "text": "On estime un résultat avant de calculer pour contrôler qu’il est vraisemblable ; dans un calcul, on effectue d’abord ce qui est entre parenthèses ; on peut multiplier un nombre décimal par un entier et diviser par un nombre à un chiffre en poursuivant la division après la virgule.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-b-operations-decimaux-estimation",
+                  "text": "Estimer le résultat d’une opération et réaliser un calcul contenant une ou deux paires de parenthèses.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-operations-decimaux-multiplication",
+                  "text": "Poser et effectuer la multiplication d’un nombre décimal par un nombre entier.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-operations-decimaux-division",
+                  "text": "Poser et effectuer des divisions décimales avec un diviseur à un chiffre, le dividende étant entier ou décimal.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "grandeurs-mesures",
+          "title": "Grandeurs et mesures",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures, page 18 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm2-b-aires",
+              "title": "Les aires : unités, conversions, carré et rectangle",
+              "title_type": "editorial",
+              "official_section": "Les aires",
+              "notions": [
+                "Comparer et déterminer des aires",
+                "Unités cm², dm² et m²",
+                "Conversions d’aires",
+                "Aire d’un carré et d’un rectangle"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-b-aires-knowledge",
+                  "text": "L’aire mesure la surface d’une figure ; on l’exprime en cm², dm² ou m² (aire d’un carré de 1 cm, 1 dm ou 1 m de côté) et on détermine l’aire d’un carré ou d’un rectangle.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-b-aires-comparer",
+                  "text": "Comparer et déterminer des aires, par exemple en comptant des carreaux, et utiliser les unités cm², dm² et m².",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-aires-conversion",
+                  "text": "Convertir des aires entre cm², dm² et m².",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-aires-rectangle",
+                  "text": "Déterminer l’aire d’un carré ou d’un rectangle.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+            },
+            {
+              "id": "cm2-b-durees",
+              "title": "Les durées : heures, minutes et secondes",
+              "title_type": "editorial",
+              "official_section": "Le repérage dans le temps et les durées",
+              "notions": [
+                "Unités heure, minute et seconde",
+                "Conversion de durées",
+                "Durée écoulée entre deux instants",
+                "Problèmes à une ou plusieurs étapes sur les durées"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-b-durees-knowledge",
+                  "text": "Les durées s’expriment en heures, minutes et secondes selon un système en base soixante (1 h = 60 min, 1 min = 60 s) ; on calcule des durées écoulées et des horaires, et on résout des problèmes en une ou plusieurs étapes.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-b-durees-conversion",
+                  "text": "Connaître les relations entre heure, minute et seconde et convertir des durées.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-durees-calcul",
+                  "text": "Mesurer une durée écoulée entre deux instants exprimés en heures, minutes et secondes, et calculer des horaires.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-durees-problemes",
+                  "text": "Résoudre des problèmes à une ou plusieurs étapes impliquant des durées.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CM2-francais-commun",
+      "domains": [
+        {
+          "id": "grammaire-orthographe-grammaticale",
+          "title": "Grammaire et orthographe grammaticale",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année, pages 19–20 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm2-b-attribut-complement-objet",
+              "title": "L’attribut du sujet, le complément d’objet direct et indirect",
+              "title_type": "editorial",
+              "official_section": "Analyser une phrase simple",
+              "notions": [
+                "Attribut du sujet et verbes d’état",
+                "Différence entre attribut du sujet et complément d’objet",
+                "Complément d’objet direct et complément d’objet indirect",
+                "Accord de l’attribut du sujet avec le sujet"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-b-attribut-complement-objet-knowledge",
+                  "text": "L’attribut du sujet, relié au sujet par un verbe d’état, se distingue du complément d’objet, qui complète un verbe d’action ; on distingue aussi le complément d’objet direct (sans préposition) du complément d’objet indirect (avec une préposition), et l’attribut s’accorde avec le sujet.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-b-attribut-complement-objet-attribut",
+                  "text": "Différencier l’attribut du sujet et le complément d’objet dans une phrase simple.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-attribut-complement-objet-cod-coi",
+                  "text": "Différencier le complément d’objet direct et le complément d’objet indirect.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-attribut-complement-objet-accord",
+                  "text": "Accorder l’attribut du sujet avec le sujet.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe, page 19 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+            },
+            {
+              "id": "cm2-b-plus-que-parfait-passe-simple",
+              "title": "Le plus-que-parfait et le passé simple",
+              "title_type": "editorial",
+              "official_section": "Approfondir sa maîtrise de la conjugaison",
+              "notions": [
+                "Composition du plus-que-parfait (auxiliaire + participe passé)",
+                "Accord du participe passé avec le sujet pour l’auxiliaire être",
+                "Forme négative d’un temps composé",
+                "Passé simple à la troisième personne"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-b-plus-que-parfait-passe-simple-knowledge",
+                  "text": "Le plus-que-parfait est un temps composé formé de l’auxiliaire avoir ou être à l’imparfait suivi du participe passé ; le passé simple est un temps du récit dont on apprend les formes des verbes étudiés.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-b-plus-que-parfait-passe-simple-composition",
+                  "text": "Former le plus-que-parfait (auxiliaire à l’imparfait + participe passé), accorder le participe passé avec le sujet pour l’auxiliaire être et le mettre à la forme négative.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Approfondir sa maîtrise de la conjugaison, page 20 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-plus-que-parfait-passe-simple-passe-simple",
+                  "text": "Reconnaître et écrire le passé simple à la troisième personne de verbes étudiés.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe (conjugaisons à mémoriser : passé simple, plus-que-parfait), page 19 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "vocabulaire",
+          "title": "Vocabulaire",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm2-b-vocabulaire-sens-des-mots",
+              "title": "Le vocabulaire : comprendre un mot, sa famille et ses sens",
+              "title_type": "editorial",
+              "official_section": "Enrichir son vocabulaire dans toutes les disciplines",
+              "notions": [
+                "Contexte et morphologie pour comprendre un mot inconnu",
+                "Famille de mots, préfixes et suffixes",
+                "Polysémie",
+                "Synonymes, antonymes, hyperonymes et dictionnaire"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm2-b-vocabulaire-sens-des-mots-knowledge",
+                  "text": "Pour comprendre un mot inconnu, on s’appuie sur le contexte et sur la morphologie du mot ; les mots entretiennent des relations morphologiques (famille de mots) et sémantiques (polysémie, synonymie, antonymie, hyperonymie), et le dictionnaire aide à vérifier leur sens.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm2-b-vocabulaire-sens-des-mots-contexte",
+                  "text": "Se servir du contexte et de la morphologie (famille de mots, préfixes, suffixes) pour comprendre un mot inconnu.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-vocabulaire-sens-des-mots-polysemie",
+                  "text": "Comprendre la polysémie : repérer le sens d’un mot selon le contexte.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+                },
+                {
+                  "id": "cm2-b-vocabulaire-sens-des-mots-relations",
+                  "text": "Établir des relations entre les mots (synonymes, antonymes, hyperonymes) et utiliser un dictionnaire.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Principes, page 13 et Cours moyen deuxième année, page 14 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "cm2-b-operations-decimaux-course",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-operations-decimaux"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Estimer le résultat d’une opération avant de la calculer.",
+        "Calculer une expression contenant une ou deux paires de parenthèses.",
+        "Multiplier un nombre décimal par un nombre entier.",
+        "Diviser un nombre entier ou décimal par un nombre à un chiffre, avec un quotient décimal."
+      ],
+      "skill_ids": [
+        "cm2-b-operations-decimaux-estimation",
+        "cm2-b-operations-decimaux-multiplication",
+        "cm2-b-operations-decimaux-division"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-operations-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-operations-decimaux-revision_sheet",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-operations-decimaux"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Estimer le résultat d’une opération avant de la calculer.",
+        "Calculer une expression contenant une ou deux paires de parenthèses.",
+        "Multiplier un nombre décimal par un nombre entier.",
+        "Diviser un nombre entier ou décimal par un nombre à un chiffre, avec un quotient décimal."
+      ],
+      "skill_ids": [
+        "cm2-b-operations-decimaux-estimation",
+        "cm2-b-operations-decimaux-multiplication",
+        "cm2-b-operations-decimaux-division"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-operations-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-operations-decimaux-quiz",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-operations-decimaux"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Estimer le résultat d’une opération avant de la calculer.",
+        "Calculer une expression contenant une ou deux paires de parenthèses.",
+        "Multiplier un nombre décimal par un nombre entier.",
+        "Diviser un nombre entier ou décimal par un nombre à un chiffre, avec un quotient décimal."
+      ],
+      "skill_ids": [
+        "cm2-b-operations-decimaux-estimation",
+        "cm2-b-operations-decimaux-multiplication",
+        "cm2-b-operations-decimaux-division"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-operations-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-operations-decimaux-exercise",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-operations-decimaux"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Estimer le résultat d’une opération avant de la calculer.",
+        "Calculer une expression contenant une ou deux paires de parenthèses.",
+        "Multiplier un nombre décimal par un nombre entier.",
+        "Diviser un nombre entier ou décimal par un nombre à un chiffre, avec un quotient décimal."
+      ],
+      "skill_ids": [
+        "cm2-b-operations-decimaux-estimation",
+        "cm2-b-operations-decimaux-multiplication",
+        "cm2-b-operations-decimaux-division"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-operations-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-operations-decimaux-assessment",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-operations-decimaux"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Estimer le résultat d’une opération avant de la calculer.",
+        "Calculer une expression contenant une ou deux paires de parenthèses.",
+        "Multiplier un nombre décimal par un nombre entier.",
+        "Diviser un nombre entier ou décimal par un nombre à un chiffre, avec un quotient décimal."
+      ],
+      "skill_ids": [
+        "cm2-b-operations-decimaux-estimation",
+        "cm2-b-operations-decimaux-multiplication",
+        "cm2-b-operations-decimaux-division"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-operations-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-operations-decimaux-audio",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-operations-decimaux"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Estimer le résultat d’une opération avant de la calculer.",
+        "Calculer une expression contenant une ou deux paires de parenthèses.",
+        "Multiplier un nombre décimal par un nombre entier.",
+        "Diviser un nombre entier ou décimal par un nombre à un chiffre, avec un quotient décimal."
+      ],
+      "skill_ids": [
+        "cm2-b-operations-decimaux-estimation",
+        "cm2-b-operations-decimaux-multiplication",
+        "cm2-b-operations-decimaux-division"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-operations-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-operations-decimaux-assistant_explanation",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-operations-decimaux"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Estimer le résultat d’une opération avant de la calculer.",
+        "Calculer une expression contenant une ou deux paires de parenthèses.",
+        "Multiplier un nombre décimal par un nombre entier.",
+        "Diviser un nombre entier ou décimal par un nombre à un chiffre, avec un quotient décimal."
+      ],
+      "skill_ids": [
+        "cm2-b-operations-decimaux-estimation",
+        "cm2-b-operations-decimaux-multiplication",
+        "cm2-b-operations-decimaux-division"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Les quatre opérations, page 11 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-operations-decimaux.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-aires-course",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-aires"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Comparer et déterminer des aires, notamment sur un quadrillage.",
+        "Connaître les unités cm², dm² et m² et leurs relations.",
+        "Convertir des aires entre ces unités.",
+        "Calculer l’aire d’un carré ou d’un rectangle."
+      ],
+      "skill_ids": [
+        "cm2-b-aires-comparer",
+        "cm2-b-aires-conversion",
+        "cm2-b-aires-rectangle"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-aires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-aires-revision_sheet",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-aires"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Comparer et déterminer des aires, notamment sur un quadrillage.",
+        "Connaître les unités cm², dm² et m² et leurs relations.",
+        "Convertir des aires entre ces unités.",
+        "Calculer l’aire d’un carré ou d’un rectangle."
+      ],
+      "skill_ids": [
+        "cm2-b-aires-comparer",
+        "cm2-b-aires-conversion",
+        "cm2-b-aires-rectangle"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-aires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-aires-quiz",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-aires"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Comparer et déterminer des aires, notamment sur un quadrillage.",
+        "Connaître les unités cm², dm² et m² et leurs relations.",
+        "Convertir des aires entre ces unités.",
+        "Calculer l’aire d’un carré ou d’un rectangle."
+      ],
+      "skill_ids": [
+        "cm2-b-aires-comparer",
+        "cm2-b-aires-conversion",
+        "cm2-b-aires-rectangle"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-aires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-aires-exercise",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-aires"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Comparer et déterminer des aires, notamment sur un quadrillage.",
+        "Connaître les unités cm², dm² et m² et leurs relations.",
+        "Convertir des aires entre ces unités.",
+        "Calculer l’aire d’un carré ou d’un rectangle."
+      ],
+      "skill_ids": [
+        "cm2-b-aires-comparer",
+        "cm2-b-aires-conversion",
+        "cm2-b-aires-rectangle"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-aires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-aires-assessment",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-aires"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Comparer et déterminer des aires, notamment sur un quadrillage.",
+        "Connaître les unités cm², dm² et m² et leurs relations.",
+        "Convertir des aires entre ces unités.",
+        "Calculer l’aire d’un carré ou d’un rectangle."
+      ],
+      "skill_ids": [
+        "cm2-b-aires-comparer",
+        "cm2-b-aires-conversion",
+        "cm2-b-aires-rectangle"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-aires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-aires-audio",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-aires"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Comparer et déterminer des aires, notamment sur un quadrillage.",
+        "Connaître les unités cm², dm² et m² et leurs relations.",
+        "Convertir des aires entre ces unités.",
+        "Calculer l’aire d’un carré ou d’un rectangle."
+      ],
+      "skill_ids": [
+        "cm2-b-aires-comparer",
+        "cm2-b-aires-conversion",
+        "cm2-b-aires-rectangle"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-aires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-aires-assistant_explanation",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-aires"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Comparer et déterminer des aires, notamment sur un quadrillage.",
+        "Connaître les unités cm², dm² et m² et leurs relations.",
+        "Convertir des aires entre ces unités.",
+        "Calculer l’aire d’un carré ou d’un rectangle."
+      ],
+      "skill_ids": [
+        "cm2-b-aires-comparer",
+        "cm2-b-aires-conversion",
+        "cm2-b-aires-rectangle"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Les aires, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-aires.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-durees-course",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-durees"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Connaître les relations entre heure, minute et seconde.",
+        "Convertir des durées.",
+        "Calculer une durée écoulée entre deux instants et déterminer un horaire d’arrivée ou de départ.",
+        "Résoudre des problèmes à plusieurs étapes avec des durées."
+      ],
+      "skill_ids": [
+        "cm2-b-durees-conversion",
+        "cm2-b-durees-calcul",
+        "cm2-b-durees-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-durees-revision_sheet",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-durees"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Connaître les relations entre heure, minute et seconde.",
+        "Convertir des durées.",
+        "Calculer une durée écoulée entre deux instants et déterminer un horaire d’arrivée ou de départ.",
+        "Résoudre des problèmes à plusieurs étapes avec des durées."
+      ],
+      "skill_ids": [
+        "cm2-b-durees-conversion",
+        "cm2-b-durees-calcul",
+        "cm2-b-durees-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-durees-quiz",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-durees"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Connaître les relations entre heure, minute et seconde.",
+        "Convertir des durées.",
+        "Calculer une durée écoulée entre deux instants et déterminer un horaire d’arrivée ou de départ.",
+        "Résoudre des problèmes à plusieurs étapes avec des durées."
+      ],
+      "skill_ids": [
+        "cm2-b-durees-conversion",
+        "cm2-b-durees-calcul",
+        "cm2-b-durees-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-durees-exercise",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-durees"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Connaître les relations entre heure, minute et seconde.",
+        "Convertir des durées.",
+        "Calculer une durée écoulée entre deux instants et déterminer un horaire d’arrivée ou de départ.",
+        "Résoudre des problèmes à plusieurs étapes avec des durées."
+      ],
+      "skill_ids": [
+        "cm2-b-durees-conversion",
+        "cm2-b-durees-calcul",
+        "cm2-b-durees-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-durees-assessment",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-durees"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Connaître les relations entre heure, minute et seconde.",
+        "Convertir des durées.",
+        "Calculer une durée écoulée entre deux instants et déterminer un horaire d’arrivée ou de départ.",
+        "Résoudre des problèmes à plusieurs étapes avec des durées."
+      ],
+      "skill_ids": [
+        "cm2-b-durees-conversion",
+        "cm2-b-durees-calcul",
+        "cm2-b-durees-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-durees-audio",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-durees"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Connaître les relations entre heure, minute et seconde.",
+        "Convertir des durées.",
+        "Calculer une durée écoulée entre deux instants et déterminer un horaire d’arrivée ou de départ.",
+        "Résoudre des problèmes à plusieurs étapes avec des durées."
+      ],
+      "skill_ids": [
+        "cm2-b-durees-conversion",
+        "cm2-b-durees-calcul",
+        "cm2-b-durees-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-durees-assistant_explanation",
+      "program_id": "CM2-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-durees"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Connaître les relations entre heure, minute et seconde.",
+        "Convertir des durées.",
+        "Calculer une durée écoulée entre deux instants et déterminer un horaire d’arrivée ou de départ.",
+        "Résoudre des problèmes à plusieurs étapes avec des durées."
+      ],
+      "skill_ids": [
+        "cm2-b-durees-conversion",
+        "cm2-b-durees-calcul",
+        "cm2-b-durees-problemes"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen deuxième année / Grandeurs et mesures / Le repérage dans le temps et les durées, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-durees.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-attribut-complement-objet-course",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-attribut-complement-objet"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Reconnaître l’attribut du sujet après un verbe d’état.",
+        "Distinguer l’attribut du sujet et le complément d’objet.",
+        "Distinguer le complément d’objet direct et le complément d’objet indirect.",
+        "Accorder l’attribut du sujet avec le sujet."
+      ],
+      "skill_ids": [
+        "cm2-b-attribut-complement-objet-attribut",
+        "cm2-b-attribut-complement-objet-cod-coi",
+        "cm2-b-attribut-complement-objet-accord"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-attribut-complement-objet.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-attribut-complement-objet-revision_sheet",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-attribut-complement-objet"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Reconnaître l’attribut du sujet après un verbe d’état.",
+        "Distinguer l’attribut du sujet et le complément d’objet.",
+        "Distinguer le complément d’objet direct et le complément d’objet indirect.",
+        "Accorder l’attribut du sujet avec le sujet."
+      ],
+      "skill_ids": [
+        "cm2-b-attribut-complement-objet-attribut",
+        "cm2-b-attribut-complement-objet-cod-coi",
+        "cm2-b-attribut-complement-objet-accord"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-attribut-complement-objet.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-attribut-complement-objet-quiz",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-attribut-complement-objet"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Reconnaître l’attribut du sujet après un verbe d’état.",
+        "Distinguer l’attribut du sujet et le complément d’objet.",
+        "Distinguer le complément d’objet direct et le complément d’objet indirect.",
+        "Accorder l’attribut du sujet avec le sujet."
+      ],
+      "skill_ids": [
+        "cm2-b-attribut-complement-objet-attribut",
+        "cm2-b-attribut-complement-objet-cod-coi",
+        "cm2-b-attribut-complement-objet-accord"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-attribut-complement-objet.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-attribut-complement-objet-exercise",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-attribut-complement-objet"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Reconnaître l’attribut du sujet après un verbe d’état.",
+        "Distinguer l’attribut du sujet et le complément d’objet.",
+        "Distinguer le complément d’objet direct et le complément d’objet indirect.",
+        "Accorder l’attribut du sujet avec le sujet."
+      ],
+      "skill_ids": [
+        "cm2-b-attribut-complement-objet-attribut",
+        "cm2-b-attribut-complement-objet-cod-coi",
+        "cm2-b-attribut-complement-objet-accord"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-attribut-complement-objet.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-attribut-complement-objet-assessment",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-attribut-complement-objet"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Reconnaître l’attribut du sujet après un verbe d’état.",
+        "Distinguer l’attribut du sujet et le complément d’objet.",
+        "Distinguer le complément d’objet direct et le complément d’objet indirect.",
+        "Accorder l’attribut du sujet avec le sujet."
+      ],
+      "skill_ids": [
+        "cm2-b-attribut-complement-objet-attribut",
+        "cm2-b-attribut-complement-objet-cod-coi",
+        "cm2-b-attribut-complement-objet-accord"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-attribut-complement-objet.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-attribut-complement-objet-audio",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-attribut-complement-objet"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Reconnaître l’attribut du sujet après un verbe d’état.",
+        "Distinguer l’attribut du sujet et le complément d’objet.",
+        "Distinguer le complément d’objet direct et le complément d’objet indirect.",
+        "Accorder l’attribut du sujet avec le sujet."
+      ],
+      "skill_ids": [
+        "cm2-b-attribut-complement-objet-attribut",
+        "cm2-b-attribut-complement-objet-cod-coi",
+        "cm2-b-attribut-complement-objet-accord"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-attribut-complement-objet.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-attribut-complement-objet-assistant_explanation",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-attribut-complement-objet"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Reconnaître l’attribut du sujet après un verbe d’état.",
+        "Distinguer l’attribut du sujet et le complément d’objet.",
+        "Distinguer le complément d’objet direct et le complément d’objet indirect.",
+        "Accorder l’attribut du sujet avec le sujet."
+      ],
+      "skill_ids": [
+        "cm2-b-attribut-complement-objet-attribut",
+        "cm2-b-attribut-complement-objet-cod-coi",
+        "cm2-b-attribut-complement-objet-accord"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Analyser une phrase simple, page 19 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-attribut-complement-objet.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-plus-que-parfait-passe-simple-course",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-plus-que-parfait-passe-simple"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Former le plus-que-parfait avec l’auxiliaire avoir ou être à l’imparfait.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être et placer la négation.",
+        "Employer le plus-que-parfait pour une action antérieure à une autre action passée.",
+        "Écrire le passé simple à la troisième personne de quelques verbes fréquents."
+      ],
+      "skill_ids": [
+        "cm2-b-plus-que-parfait-passe-simple-composition",
+        "cm2-b-plus-que-parfait-passe-simple-passe-simple"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-plus-que-parfait-passe-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-plus-que-parfait-passe-simple-revision_sheet",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-plus-que-parfait-passe-simple"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Former le plus-que-parfait avec l’auxiliaire avoir ou être à l’imparfait.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être et placer la négation.",
+        "Employer le plus-que-parfait pour une action antérieure à une autre action passée.",
+        "Écrire le passé simple à la troisième personne de quelques verbes fréquents."
+      ],
+      "skill_ids": [
+        "cm2-b-plus-que-parfait-passe-simple-composition",
+        "cm2-b-plus-que-parfait-passe-simple-passe-simple"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-plus-que-parfait-passe-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-plus-que-parfait-passe-simple-quiz",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-plus-que-parfait-passe-simple"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Former le plus-que-parfait avec l’auxiliaire avoir ou être à l’imparfait.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être et placer la négation.",
+        "Employer le plus-que-parfait pour une action antérieure à une autre action passée.",
+        "Écrire le passé simple à la troisième personne de quelques verbes fréquents."
+      ],
+      "skill_ids": [
+        "cm2-b-plus-que-parfait-passe-simple-composition",
+        "cm2-b-plus-que-parfait-passe-simple-passe-simple"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-plus-que-parfait-passe-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-plus-que-parfait-passe-simple-exercise",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-plus-que-parfait-passe-simple"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Former le plus-que-parfait avec l’auxiliaire avoir ou être à l’imparfait.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être et placer la négation.",
+        "Employer le plus-que-parfait pour une action antérieure à une autre action passée.",
+        "Écrire le passé simple à la troisième personne de quelques verbes fréquents."
+      ],
+      "skill_ids": [
+        "cm2-b-plus-que-parfait-passe-simple-composition",
+        "cm2-b-plus-que-parfait-passe-simple-passe-simple"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-plus-que-parfait-passe-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-plus-que-parfait-passe-simple-assessment",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-plus-que-parfait-passe-simple"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Former le plus-que-parfait avec l’auxiliaire avoir ou être à l’imparfait.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être et placer la négation.",
+        "Employer le plus-que-parfait pour une action antérieure à une autre action passée.",
+        "Écrire le passé simple à la troisième personne de quelques verbes fréquents."
+      ],
+      "skill_ids": [
+        "cm2-b-plus-que-parfait-passe-simple-composition",
+        "cm2-b-plus-que-parfait-passe-simple-passe-simple"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-plus-que-parfait-passe-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-plus-que-parfait-passe-simple-audio",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-plus-que-parfait-passe-simple"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Former le plus-que-parfait avec l’auxiliaire avoir ou être à l’imparfait.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être et placer la négation.",
+        "Employer le plus-que-parfait pour une action antérieure à une autre action passée.",
+        "Écrire le passé simple à la troisième personne de quelques verbes fréquents."
+      ],
+      "skill_ids": [
+        "cm2-b-plus-que-parfait-passe-simple-composition",
+        "cm2-b-plus-que-parfait-passe-simple-passe-simple"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-plus-que-parfait-passe-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-plus-que-parfait-passe-simple-assistant_explanation",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-plus-que-parfait-passe-simple"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Former le plus-que-parfait avec l’auxiliaire avoir ou être à l’imparfait.",
+        "Accorder le participe passé avec le sujet quand l’auxiliaire est être et placer la négation.",
+        "Employer le plus-que-parfait pour une action antérieure à une autre action passée.",
+        "Écrire le passé simple à la troisième personne de quelques verbes fréquents."
+      ],
+      "skill_ids": [
+        "cm2-b-plus-que-parfait-passe-simple-composition",
+        "cm2-b-plus-que-parfait-passe-simple-passe-simple"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Grammaire et orthographe grammaticale / Cours moyen deuxième année / Accorder le sujet et le verbe ; Approfondir sa maîtrise de la conjugaison, pages 19–20 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-plus-que-parfait-passe-simple.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-vocabulaire-sens-des-mots-course",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-vocabulaire-sens-des-mots"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Deviner le sens d’un mot inconnu grâce au contexte et à sa construction.",
+        "Reconnaître une famille de mots, des préfixes et des suffixes.",
+        "Repérer les différents sens d’un mot polysémique.",
+        "Utiliser les synonymes, les contraires, les hyperonymes et le dictionnaire."
+      ],
+      "skill_ids": [
+        "cm2-b-vocabulaire-sens-des-mots-contexte",
+        "cm2-b-vocabulaire-sens-des-mots-polysemie",
+        "cm2-b-vocabulaire-sens-des-mots-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-vocabulaire-sens-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-vocabulaire-sens-des-mots-revision_sheet",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-vocabulaire-sens-des-mots"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Deviner le sens d’un mot inconnu grâce au contexte et à sa construction.",
+        "Reconnaître une famille de mots, des préfixes et des suffixes.",
+        "Repérer les différents sens d’un mot polysémique.",
+        "Utiliser les synonymes, les contraires, les hyperonymes et le dictionnaire."
+      ],
+      "skill_ids": [
+        "cm2-b-vocabulaire-sens-des-mots-contexte",
+        "cm2-b-vocabulaire-sens-des-mots-polysemie",
+        "cm2-b-vocabulaire-sens-des-mots-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-vocabulaire-sens-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-vocabulaire-sens-des-mots-quiz",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-vocabulaire-sens-des-mots"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Deviner le sens d’un mot inconnu grâce au contexte et à sa construction.",
+        "Reconnaître une famille de mots, des préfixes et des suffixes.",
+        "Repérer les différents sens d’un mot polysémique.",
+        "Utiliser les synonymes, les contraires, les hyperonymes et le dictionnaire."
+      ],
+      "skill_ids": [
+        "cm2-b-vocabulaire-sens-des-mots-contexte",
+        "cm2-b-vocabulaire-sens-des-mots-polysemie",
+        "cm2-b-vocabulaire-sens-des-mots-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-vocabulaire-sens-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-vocabulaire-sens-des-mots-exercise",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-vocabulaire-sens-des-mots"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Deviner le sens d’un mot inconnu grâce au contexte et à sa construction.",
+        "Reconnaître une famille de mots, des préfixes et des suffixes.",
+        "Repérer les différents sens d’un mot polysémique.",
+        "Utiliser les synonymes, les contraires, les hyperonymes et le dictionnaire."
+      ],
+      "skill_ids": [
+        "cm2-b-vocabulaire-sens-des-mots-contexte",
+        "cm2-b-vocabulaire-sens-des-mots-polysemie",
+        "cm2-b-vocabulaire-sens-des-mots-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-vocabulaire-sens-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-vocabulaire-sens-des-mots-assessment",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-vocabulaire-sens-des-mots"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Deviner le sens d’un mot inconnu grâce au contexte et à sa construction.",
+        "Reconnaître une famille de mots, des préfixes et des suffixes.",
+        "Repérer les différents sens d’un mot polysémique.",
+        "Utiliser les synonymes, les contraires, les hyperonymes et le dictionnaire."
+      ],
+      "skill_ids": [
+        "cm2-b-vocabulaire-sens-des-mots-contexte",
+        "cm2-b-vocabulaire-sens-des-mots-polysemie",
+        "cm2-b-vocabulaire-sens-des-mots-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-vocabulaire-sens-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-vocabulaire-sens-des-mots-audio",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-vocabulaire-sens-des-mots"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Deviner le sens d’un mot inconnu grâce au contexte et à sa construction.",
+        "Reconnaître une famille de mots, des préfixes et des suffixes.",
+        "Repérer les différents sens d’un mot polysémique.",
+        "Utiliser les synonymes, les contraires, les hyperonymes et le dictionnaire."
+      ],
+      "skill_ids": [
+        "cm2-b-vocabulaire-sens-des-mots-contexte",
+        "cm2-b-vocabulaire-sens-des-mots-polysemie",
+        "cm2-b-vocabulaire-sens-des-mots-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-vocabulaire-sens-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm2-b-vocabulaire-sens-des-mots-assistant_explanation",
+      "program_id": "CM2-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm2-b-vocabulaire-sens-des-mots"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Deviner le sens d’un mot inconnu grâce au contexte et à sa construction.",
+        "Reconnaître une famille de mots, des préfixes et des suffixes.",
+        "Repérer les différents sens d’un mot polysémique.",
+        "Utiliser les synonymes, les contraires, les hyperonymes et le dictionnaire."
+      ],
+      "skill_ids": [
+        "cm2-b-vocabulaire-sens-des-mots-contexte",
+        "cm2-b-vocabulaire-sens-des-mots-polysemie",
+        "cm2-b-vocabulaire-sens-des-mots-relations"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Vocabulaire / Cours moyen deuxième année, pages 14–15 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm2-b-vocabulaire-sens-des-mots.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}

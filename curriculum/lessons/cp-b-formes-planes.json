@@ -1,0 +1,102 @@
+{
+  "id": "cp-b-formes-planes",
+  "title": "Reconnaître le disque, le carré, le rectangle et le triangle",
+  "chapter_id": "cp-b-formes-planes",
+  "program_id": "CP-mathematiques-commun",
+  "program_version": "cycle2-maths-2024-cp-v1",
+  "learning_objectives": [
+    "Nommer le disque, le carré, le rectangle et le triangle.",
+    "Compter les côtés et les sommets.",
+    "Repérer les côtés de même longueur."
+  ],
+  "skill_ids": [
+    "cp-b-formes-planes-skill-reconnaitre",
+    "cp-b-formes-planes-skill-decrire"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CP / Espace et géométrie — La géométrie plane, page 32 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Les quatre formes",
+      "text": "Le disque est tout rond. Le triangle a 3 côtés. Le carré a 4 côtés. Le rectangle a aussi 4 côtés."
+    },
+    {
+      "title": "Côtés et sommets",
+      "text": "Un côté est un bord de la forme. Un sommet est un coin, là où deux côtés se rencontrent. Un triangle a 3 côtés et 3 sommets. Un carré a 4 côtés et 4 sommets."
+    },
+    {
+      "title": "Des côtés de même longueur",
+      "text": "Dans un carré, les 4 côtés ont la même longueur. Dans un rectangle, les côtés qui sont en face l’un de l’autre ont la même longueur."
+    }
+  ],
+  "revision_sheet": [
+    "Disque : tout rond.",
+    "Triangle : 3 côtés, 3 sommets.",
+    "Carré : 4 côtés de même longueur, 4 sommets.",
+    "Rectangle : 4 côtés, 4 sommets."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle forme a 4 côtés de même longueur ?",
+      "choices": [
+        "le triangle",
+        "le carré",
+        "le disque"
+      ],
+      "correct_index": 1,
+      "explanation": "Le carré a 4 côtés de même longueur."
+    },
+    {
+      "prompt": "Combien de sommets a un triangle ?",
+      "choices": [
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_index": 1,
+      "explanation": "Un triangle a 3 sommets."
+    },
+    {
+      "prompt": "Quelle forme est toute ronde ?",
+      "choices": [
+        "le disque",
+        "le rectangle",
+        "le triangle"
+      ],
+      "correct_index": 0,
+      "explanation": "Le disque est rond."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Combien de côtés ont le triangle, le carré et le rectangle ?",
+      "solution": "Triangle : 3 ; carré : 4 ; rectangle : 4.",
+      "success_criterion": "Donner les trois nombres."
+    },
+    {
+      "prompt": "Combien de sommets a un rectangle ?",
+      "solution": "4 sommets.",
+      "success_criterion": "Compter les coins."
+    },
+    {
+      "prompt": "Trouve des objets en forme de disque, de carré ou de rectangle dans la classe.",
+      "solution": "Exemples : une horloge ronde (disque), une fenêtre ou un cahier (rectangle).",
+      "success_criterion": "Nommer des objets dont la face visible a la bonne forme."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Décris un carré avec les mots « côté » et « sommet ».",
+      "solution": "Un carré a 4 côtés de même longueur et 4 sommets.",
+      "success_criterion": "Donner le nombre de côtés, de sommets et dire que les côtés sont égaux."
+    },
+    {
+      "prompt": "Je suis une forme avec 3 côtés et 3 sommets. Qui suis-je ?",
+      "solution": "Un triangle.",
+      "success_criterion": "Nommer le triangle."
+    }
+  ],
+  "audio_transcript": "Le disque est tout rond. Le triangle a trois côtés et trois sommets. Le carré a quatre côtés de même longueur et quatre sommets. Le rectangle a quatre côtés et quatre sommets. Un sommet est un coin.",
+  "guided_explanation": "Prends une feuille de papier et découpe un triangle. Passe ton doigt sur ses bords : ce sont les côtés. Touche ses coins : ce sont les sommets. Compte-les. Fais pareil avec un carré et un rectangle. Un disque, lui, est tout rond."
+}

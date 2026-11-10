@@ -1,0 +1,130 @@
+{
+  "id": "5e-b-angles-triangle",
+  "title": "Triangles : somme des angles et triangles particuliers",
+  "chapter_id": "5e-b-angles-triangle",
+  "program_id": "5e-mathematiques-commun",
+  "program_version": "2026-2027-reference-1",
+  "learning_objectives": [
+    "Reconnaitre un triangle isocèle, équilatéral ou rectangle sur un schéma codé.",
+    "Connaitre la somme des angles d’un triangle et en donner une justification.",
+    "Calculer le troisième angle d’un triangle connaissant les deux autres.",
+    "Calculer les angles d’un triangle rectangle, isocèle ou équilatéral."
+  ],
+  "skill_ids": [
+    "5e-b-angles-triangle-types",
+    "5e-b-angles-triangle-somme",
+    "5e-b-angles-triangle-particuliers"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 4, annexe 2 (BO n° 10 du 5 mars 2026), Cinquième / Espace et géométrie — Triangles, page 13 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Reconnaitre les triangles particuliers",
+      "text": "Sur un schéma, les codages donnent les informations. Un triangle isocèle a deux côtés de même longueur (marqués du même petit trait). Un triangle équilatéral a ses trois côtés de même longueur ; il est aussi isocèle. Un triangle rectangle a un angle droit, repéré par un petit carré, et cet angle mesure 90°. Les deux triangles de l’équerre sont des triangles rectangles : l’un a des angles de 45°, 45° et 90° (il est aussi isocèle), l’autre des angles de 30°, 60° et 90°."
+    },
+    {
+      "title": "La somme des angles d’un triangle",
+      "text": "Dans un triangle, la somme des mesures des trois angles est toujours égale à 180°. Pour le constater, on découpe les trois coins d’un triangle en papier et on les place côte à côte : ils forment un angle plat, qui mesure 180°. Pour le démontrer, on trace par un sommet la parallèle au côté opposé : les angles alternes internes ainsi formés sont égaux deux à deux, et les trois angles du triangle se retrouvent côte à côte le long de cette droite, formant un angle plat."
+    },
+    {
+      "title": "Calculer le troisième angle",
+      "text": "Si deux angles d’un triangle ABC mesurent 52° et 71°, le troisième vaut 180° − (52° + 71°) = 180° − 123° = 57°. Dans un triangle rectangle, un angle mesure 90° : les deux autres ont donc pour somme 180° − 90° = 90°. Si l’un des angles aigus mesure 35°, l’autre mesure 90° − 35° = 55°."
+    },
+    {
+      "title": "Isocèle et équilatéral",
+      "text": "Dans un triangle équilatéral, les trois angles sont égaux : chacun mesure 180° ÷ 3 = 60°. Dans un triangle isocèle, les deux angles situés à la base (les angles opposés aux côtés égaux) ont la même mesure. Si l’angle au sommet principal mesure 40°, les deux autres mesurent ensemble 180° − 40° = 140°, donc 140° ÷ 2 = 70° chacun."
+    }
+  ],
+  "revision_sheet": [
+    "Isocèle : deux côtés égaux. Équilatéral : trois côtés égaux. Rectangle : un angle droit (90°).",
+    "La somme des angles d’un triangle est 180°.",
+    "Troisième angle = 180° − (somme des deux autres).",
+    "Dans un triangle rectangle, les deux angles aigus ont pour somme 90°.",
+    "Dans un triangle équilatéral, chaque angle mesure 60°.",
+    "Dans un triangle isocèle, les deux angles à la base sont égaux."
+  ],
+  "quiz": [
+    {
+      "prompt": "Quelle est la somme des angles d’un triangle ?",
+      "choices": [
+        "90°",
+        "180°",
+        "360°"
+      ],
+      "correct_index": 1,
+      "explanation": "Les trois angles d’un triangle, mis côte à côte, forment un angle plat : leur somme est 180°."
+    },
+    {
+      "prompt": "Un triangle a deux angles de 48° et de 67°. Combien mesure le troisième ?",
+      "choices": [
+        "55°",
+        "65°",
+        "115°"
+      ],
+      "correct_index": 1,
+      "explanation": "48° + 67° = 115° et 180° − 115° = 65°. Le nombre 115° est la somme des deux angles connus, pas le troisième angle."
+    },
+    {
+      "prompt": "Un triangle rectangle a un angle aigu de 28°. Combien mesure l’autre angle aigu ?",
+      "choices": [
+        "152°",
+        "28°",
+        "62°"
+      ],
+      "correct_index": 2,
+      "explanation": "Les deux angles aigus d’un triangle rectangle ont pour somme 90° : 90° − 28° = 62°."
+    },
+    {
+      "prompt": "Combien mesure chaque angle d’un triangle équilatéral ?",
+      "choices": [
+        "60°",
+        "90°",
+        "45°"
+      ],
+      "correct_index": 0,
+      "explanation": "Les trois angles sont égaux et leur somme est 180° : 180° ÷ 3 = 60°."
+    },
+    {
+      "prompt": "Un triangle isocèle a un angle de 50° au sommet principal. Combien mesure chacun des angles à la base ?",
+      "choices": [
+        "130°",
+        "65°",
+        "80°"
+      ],
+      "correct_index": 1,
+      "explanation": "Les deux angles à la base sont égaux et ont pour somme 180° − 50° = 130° ; chacun mesure donc 130° ÷ 2 = 65°."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Calcule le troisième angle d’un triangle dont deux angles mesurent : a) 35° et 85° ; b) 90° et 37° ; c) 104° et 38°.",
+      "solution": "a) 180° − (35° + 85°) = 180° − 120° = 60° ; b) 180° − (90° + 37°) = 180° − 127° = 53° ; c) 180° − (104° + 38°) = 180° − 142° = 38°.",
+      "success_criterion": "Additionner d’abord les deux angles connus, puis les soustraire de 180°."
+    },
+    {
+      "prompt": "Le triangle ABC est isocèle en A et l’angle ∠BAC mesure 112°. Calcule les angles ∠ABC et ∠ACB.",
+      "solution": "Les angles à la base sont égaux. Leur somme est 180° − 112° = 68°, donc ∠ABC = ∠ACB = 68° ÷ 2 = 34°.",
+      "success_criterion": "Utiliser l’égalité des angles à la base et la somme de 180°."
+    },
+    {
+      "prompt": "Un triangle peut-il avoir des angles de 70°, 60° et 55° ? Justifie.",
+      "solution": "Non : 70° + 60° + 55° = 185°, alors que la somme des angles d’un triangle est toujours 180°.",
+      "success_criterion": "Calculer la somme des trois angles et la comparer à 180°."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Explique pourquoi la somme des angles d’un triangle ABC est égale à 180°.",
+      "solution": "On trace par A la parallèle à (BC). Les angles alternes internes formés avec les côtés [AB] et [AC] sont égaux aux angles ∠B et ∠C du triangle. Les angles ∠A, ∠B et ∠C se trouvent donc côte à côte en A, le long de la parallèle : ils forment un angle plat, qui mesure 180°.",
+      "success_criterion": "Citer la parallèle tracée, les angles alternes internes égaux et la conclusion de l’angle plat."
+    },
+    {
+      "prompt": "Le triangle DEF est rectangle en E et isocèle. Quelles sont les mesures de ses angles ? Quel instrument de géométrie a cette forme ?",
+      "solution": "L’angle en E mesure 90°. Les deux autres angles ont pour somme 90° et sont égaux (triangle isocèle) : 90° ÷ 2 = 45° chacun. Les angles sont 90°, 45° et 45° : c’est l’un des triangles de l’équerre.",
+      "success_criterion": "Combiner la somme de 180° (ou de 90° pour les angles aigus) avec l’égalité des angles à la base."
+    }
+  ],
+  "audio_transcript": "Dans un triangle, la somme des trois angles est toujours égale à cent quatre-vingts degrés. Si l’on connait deux angles, on trouve le troisième en soustrayant leur somme à cent quatre-vingts. Par exemple, avec cinquante-deux et soixante et onze degrés, le troisième angle mesure cent quatre-vingts moins cent vingt-trois, soit cinquante-sept degrés. Un triangle rectangle possède un angle droit de quatre-vingt-dix degrés, donc ses deux autres angles ont pour somme quatre-vingt-dix degrés. Un triangle équilatéral a trois angles égaux de soixante degrés. Dans un triangle isocèle, les deux angles de la base sont égaux.",
+  "guided_explanation": "Prends un triangle en papier et colorie ses trois coins de trois couleurs. Déchire-les et pose-les côte à côte, pointes vers le même point : ils forment une ligne droite, c’est-à-dire un angle plat de 180°. C’est pour cela que la somme des angles est toujours 180°. Si tu connais deux coins, le troisième est ce qu’il manque pour arriver à 180°. Pour un triangle rectangle, un coin vaut déjà 90°, donc il ne reste que 90° à partager entre les deux autres. Pour un triangle équilatéral, on partage 180° en trois parts égales, soit 60° chacune."
+}

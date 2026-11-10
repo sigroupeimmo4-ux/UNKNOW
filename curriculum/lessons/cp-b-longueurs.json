@@ -1,0 +1,102 @@
+{
+  "id": "cp-b-longueurs",
+  "title": "Comparer et mesurer des longueurs",
+  "chapter_id": "cp-b-longueurs",
+  "program_id": "CP-mathematiques-commun",
+  "program_version": "cycle2-maths-2024-cp-v1",
+  "learning_objectives": [
+    "Comparer des longueurs.",
+    "Mesurer un segment avec une règle graduée.",
+    "Connaître le centimètre et le mètre."
+  ],
+  "skill_ids": [
+    "cp-b-longueurs-skill-comparer",
+    "cp-b-longueurs-skill-regle",
+    "cp-b-longueurs-skill-unites"
+  ],
+  "source_locators": [
+    "Programme de mathématiques du cycle 2, annexe 4, CP / Grandeurs et mesures — Les longueurs et les masses, Les longueurs, pages 25–26 (pagination du PDF)."
+  ],
+  "course": [
+    {
+      "title": "Long ou court",
+      "text": "Une baguette peut être plus longue ou plus courte qu’une autre. Pour comparer deux objets, pose-les l’un à côté de l’autre et fais coïncider un bout. Pour un objet qui ne bouge pas, utilise une ficelle pour reporter la longueur."
+    },
+    {
+      "title": "Mesurer avec une règle",
+      "text": "Place le 0 de la règle au début du trait. Lis le nombre au bout du trait. La règle est graduée en centimètres. On écrit cm."
+    },
+    {
+      "title": "Le mètre",
+      "text": "Une longueur plus grande se mesure en mètres. On écrit m. Un mètre est égal à 100 centimètres. Une trousse mesure plutôt 20 cm qu’un mètre."
+    }
+  ],
+  "revision_sheet": [
+    "Pour comparer : bouts alignés, on voit le plus long.",
+    "Je mesure avec une règle graduée : le 0 au début du trait.",
+    "cm = centimètre ; m = mètre ; 1 m = 100 cm."
+  ],
+  "quiz": [
+    {
+      "prompt": "Combien de centimètres y a-t-il dans 1 mètre ?",
+      "choices": [
+        "10",
+        "100",
+        "1 000"
+      ],
+      "correct_index": 1,
+      "explanation": "Un mètre est égal à cent centimètres."
+    },
+    {
+      "prompt": "Comment comparer deux crayons ?",
+      "choices": [
+        "en alignant un de leurs bouts",
+        "en les comptant",
+        "en les pesant"
+      ],
+      "correct_index": 0,
+      "explanation": "On les pose côte à côte en faisant coïncider une extrémité."
+    },
+    {
+      "prompt": "Quelle est la longueur la plus probable d’une trousse ?",
+      "choices": [
+        "2 cm",
+        "20 cm",
+        "1 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Une trousse mesure plutôt 20 cm."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Range de la plus courte à la plus longue : une baguette de 3 cm, une de 8 cm, une de 5 cm.",
+      "solution": "3 cm, 5 cm, 8 cm.",
+      "success_criterion": "Ranger dans l’ordre croissant."
+    },
+    {
+      "prompt": "Un trait va de 0 à 6 sur la règle. Quelle est sa longueur ?",
+      "solution": "6 cm.",
+      "success_criterion": "Lire 6 et écrire l’unité cm."
+    },
+    {
+      "prompt": "Complète : 1 m = … cm.",
+      "solution": "100.",
+      "success_criterion": "Écrire 100."
+    }
+  ],
+  "assessment": [
+    {
+      "prompt": "Mesure ton crayon avec une règle. Écris la longueur.",
+      "solution": "Réponse personnelle, en cm, avec le 0 de la règle au bout du crayon.",
+      "success_criterion": "Placer le 0 correctement, lire le nombre et écrire cm."
+    },
+    {
+      "prompt": "Que dis-tu : une porte mesure plutôt 2 cm, 2 m ou 20 cm ?",
+      "solution": "2 m.",
+      "success_criterion": "Choisir une longueur réaliste et justifier avec la taille d’une porte."
+    }
+  ],
+  "audio_transcript": "Pour comparer deux longueurs, je pose les objets côte à côte et je fais coïncider un bout. Pour mesurer un trait, je place le zéro de la règle au début du trait. Je lis le nombre en centimètres. Un mètre est égal à cent centimètres.",
+  "guided_explanation": "Prends deux crayons. Pose-les côte à côte, bouts alignés. Le plus long dépasse. Pour mesurer, utilise ta règle : mets le zéro au début du crayon et lis le nombre à la fin. C’est la longueur en centimètres. Pour de grandes longueurs, on utilise le mètre : 1 m, c’est 100 cm."
+}

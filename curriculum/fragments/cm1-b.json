@@ -1,0 +1,1353 @@
+{
+  "programs": [
+    {
+      "id": "CM1-mathematiques-commun",
+      "domains": [
+        {
+          "id": "grandeurs-mesures",
+          "title": "Grandeurs et mesures",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures, pages 16–18 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm1-b-longueurs-perimetre",
+              "title": "Mesurer des longueurs et calculer un périmètre",
+              "title_type": "editorial",
+              "official_section": "Grandeurs et mesures — Les longueurs",
+              "notions": [
+                "Unités de longueur du millimètre au kilomètre et relations entre elles",
+                "Choisir une unité adaptée, comparer et estimer des longueurs",
+                "Périmètre d’un polygone et problèmes sur les longueurs des côtés"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-b-longueurs-perimetre-knowledge",
+                  "text": "Les unités de longueur (mm, cm, m, km) sont liées par des relations connues (1 m = 100 cm, 1 km = 1 000 m) qui permettent de convertir et de comparer ; le périmètre d’un polygone est la longueur de son contour, c’est-à-dire la somme des longueurs de ses côtés.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-b-longueurs-perimetre-unites-skill",
+                  "text": "Connaître les unités de longueur du millimètre au kilomètre et leurs relations, choisir une unité adaptée et comparer des longueurs.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-longueurs-perimetre-perimetre-skill",
+                  "text": "Savoir ce qu’est le périmètre d’une figure plane et déterminer le périmètre d’un polygone en utilisant une règle graduée.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-longueurs-perimetre-problemes-skill",
+                  "text": "Résoudre des problèmes mettant en jeu les longueurs des côtés d’un polygone et son périmètre.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+            },
+            {
+              "id": "cm1-b-durees-heures-minutes",
+              "title": "Lire l’heure et calculer des durées en heures et minutes",
+              "title_type": "editorial",
+              "official_section": "Grandeurs et mesures — Le repérage dans le temps et les durées",
+              "notions": [
+                "Lecture de l’heure sur une horloge à aiguilles en heures et minutes",
+                "Relation entre heures et minutes",
+                "Durée écoulée entre deux instants et problèmes à une ou deux étapes"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-b-durees-heures-minutes-knowledge",
+                  "text": "Une heure vaut 60 minutes ; l’heure se lit sur une horloge à aiguilles en heures et minutes, et une durée est le temps écoulé entre deux instants, que l’on calcule en heures et minutes.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-b-durees-heures-minutes-lire-heure-skill",
+                  "text": "Lire l’heure sur une horloge à aiguilles et positionner les aiguilles pour une heure donnée en heure et minute.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+                  "text": "Comparer et mesurer des durées écoulées entre deux instants affichés sur une horloge, exprimés en heure et minute.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-durees-heures-minutes-problemes-duree-skill",
+                  "text": "Résoudre des problèmes à une ou deux étapes impliquant des durées.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "nombres-calcul-problemes",
+          "title": "Nombres, calcul et résolution de problèmes",
+          "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Nombres, calcul et résolution de problèmes, pages 5–6 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm1-b-calcul-mental-procedures",
+              "title": "Calculer mentalement : multiplier par 10, 100, 1 000, par 4 et par 5, ajouter 9 ou 19",
+              "title_type": "editorial",
+              "official_section": "Le calcul mental — Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental",
+              "notions": [
+                "Multiplier un nombre entier par 10, 100 ou 1 000",
+                "Ajouter ou soustraire 9 ou 19 à un nombre",
+                "Multiplier un nombre entier par 4 ou par 5"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-b-calcul-mental-procedures-knowledge",
+                  "text": "Multiplier par 10, 100 ou 1 000 décale chaque chiffre de un, deux ou trois rangs vers la gauche ; on ajoute ou soustrait 9 ou 19 en passant par 10 ou 20 puis en corrigeant ; on multiplie par 4 en doublant deux fois et par 5 en multipliant par 10 puis en prenant la moitié.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+                  "text": "Multiplier un nombre entier par 10, 100 ou 1 000.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+                  "text": "Ajouter ou soustraire 9 ou 19 à un nombre.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-calcul-mental-procedures-multiplier-4-5-skill",
+                  "text": "Multiplier un nombre entier par 4 ou par 5.",
+                  "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CM1-francais-commun",
+      "domains": [
+        {
+          "id": "vocabulaire",
+          "title": "Vocabulaire",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire, pages 13–14 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm1-b-synonymes-antonymes-familles",
+              "title": "Enrichir son vocabulaire : synonymes, antonymes et familles de mots",
+              "title_type": "editorial",
+              "official_section": "Vocabulaire — Établir des relations entre les mots",
+              "notions": [
+                "Synonymie : mots de sens proche",
+                "Antonymie : mots de sens opposé",
+                "Relations morphologiques : famille de mots et sens d’un mot inconnu"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-b-synonymes-antonymes-familles-knowledge",
+                  "text": "Les mots sont reliés entre eux par leur sens (synonymes : sens proches ; antonymes : sens opposés) et par leur formation (mots de la même famille, bâtis sur un radical commun) ; ces relations aident à comprendre un mot inconnu et à bien l’employer.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+                  "text": "Comprendre et utiliser la notion de synonymie.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+                  "text": "Comprendre et utiliser la notion d’antonymie.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-synonymes-antonymes-familles-famille-skill",
+                  "text": "Établir des relations morphologiques entre les mots et s’appuyer sur la morphologie et le contexte pour comprendre un mot inconnu.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+            }
+          ]
+        },
+        {
+          "id": "grammaire-orthographe-grammaticale",
+          "title": "Grammaire et orthographe grammaticale",
+          "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale, pages 17–18 (pagination du PDF).",
+          "chapters": [
+            {
+              "id": "cm1-b-imparfait",
+              "title": "Conjuguer à l’imparfait : marque de temps et marque de personne",
+              "title_type": "editorial",
+              "official_section": "Acquérir l’orthographe grammaticale — Approfondir sa maîtrise de la conjugaison",
+              "notions": [
+                "Imparfait de l’indicatif : marque de temps (-ai-, -i-) et marque de personne",
+                "Imparfait des verbes être, avoir, du premier groupe, du deuxième groupe et de quelques verbes irréguliers",
+                "Variations du radical des verbes en -cer et en -ger"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-b-imparfait-knowledge",
+                  "text": "À l’imparfait, la terminaison se compose de la marque de temps (-ai- ou -i-) suivie de la marque de personne (-s, -s, -t, -ons, -ez, -ent) ; les verbes du premier groupe en -cer et en -ger font varier leur radical (ç, ge) pour garder le même son.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-b-imparfait-personne-skill",
+                  "text": "Connaître les marques de personne à l’imparfait pour accorder le verbe avec son sujet.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-imparfait-temps-skill",
+                  "text": "Isoler la marque de temps de l’imparfait (-ai-, -i-) dans la terminaison d’un verbe.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-imparfait-cer-ger-skill",
+                  "text": "Écrire correctement l’imparfait des verbes en -cer et en -ger en tenant compte des variations du radical.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+            },
+            {
+              "id": "cm1-b-complement-circonstanciel",
+              "title": "Reconnaître le complément circonstanciel grâce au déplacement et à la suppression",
+              "title_type": "editorial",
+              "official_section": "Grammaire et orthographe grammaticale — Identifier les constituants d’une phrase simple / Analyser une phrase simple",
+              "notions": [
+                "Verbe conjugué et groupe sujet dans la phrase simple",
+                "Groupes circonstanciels : repérage et caractère facultatif",
+                "Manipulations syntaxiques : déplacement, suppression, encadrement",
+                "Complément d’objet et complément circonstanciel"
+              ],
+              "knowledge": [
+                {
+                  "id": "cm1-b-complement-circonstanciel-knowledge",
+                  "text": "Dans une phrase simple, le groupe sujet et le groupe verbal sont indispensables ; un groupe circonstanciel est facultatif : on peut le supprimer ou le déplacer sans rendre la phrase incorrecte, alors qu’un complément d’objet reste lié au verbe.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+                }
+              ],
+              "skills": [
+                {
+                  "id": "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+                  "text": "Consolider l’identification du verbe conjugué et du groupe sujet dans une phrase simple.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-complement-circonstanciel-circonstanciel-skill",
+                  "text": "Identifier les groupes circonstanciels en utilisant les manipulations de déplacement et de suppression.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+                },
+                {
+                  "id": "cm1-b-complement-circonstanciel-objet-circonstanciel-skill",
+                  "text": "Distinguer le complément d’objet du complément circonstanciel.",
+                  "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+                }
+              ],
+              "source_locator": "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "cm1-b-longueurs-perimetre-course",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-longueurs-perimetre"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Utiliser les unités de longueur (mm, cm, m, km) et leurs relations pour convertir et comparer des longueurs.",
+        "Choisir une unité adaptée et estimer une longueur.",
+        "Calculer le périmètre d’un polygone et résoudre des problèmes avec les côtés et le périmètre."
+      ],
+      "skill_ids": [
+        "cm1-b-longueurs-perimetre-unites-skill",
+        "cm1-b-longueurs-perimetre-perimetre-skill",
+        "cm1-b-longueurs-perimetre-problemes-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-longueurs-perimetre-revision_sheet",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-longueurs-perimetre"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Utiliser les unités de longueur (mm, cm, m, km) et leurs relations pour convertir et comparer des longueurs.",
+        "Choisir une unité adaptée et estimer une longueur.",
+        "Calculer le périmètre d’un polygone et résoudre des problèmes avec les côtés et le périmètre."
+      ],
+      "skill_ids": [
+        "cm1-b-longueurs-perimetre-unites-skill",
+        "cm1-b-longueurs-perimetre-perimetre-skill",
+        "cm1-b-longueurs-perimetre-problemes-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-longueurs-perimetre-quiz",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-longueurs-perimetre"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Utiliser les unités de longueur (mm, cm, m, km) et leurs relations pour convertir et comparer des longueurs.",
+        "Choisir une unité adaptée et estimer une longueur.",
+        "Calculer le périmètre d’un polygone et résoudre des problèmes avec les côtés et le périmètre."
+      ],
+      "skill_ids": [
+        "cm1-b-longueurs-perimetre-unites-skill",
+        "cm1-b-longueurs-perimetre-perimetre-skill",
+        "cm1-b-longueurs-perimetre-problemes-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-longueurs-perimetre-exercise",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-longueurs-perimetre"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Utiliser les unités de longueur (mm, cm, m, km) et leurs relations pour convertir et comparer des longueurs.",
+        "Choisir une unité adaptée et estimer une longueur.",
+        "Calculer le périmètre d’un polygone et résoudre des problèmes avec les côtés et le périmètre."
+      ],
+      "skill_ids": [
+        "cm1-b-longueurs-perimetre-unites-skill",
+        "cm1-b-longueurs-perimetre-perimetre-skill",
+        "cm1-b-longueurs-perimetre-problemes-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-longueurs-perimetre-assessment",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-longueurs-perimetre"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Utiliser les unités de longueur (mm, cm, m, km) et leurs relations pour convertir et comparer des longueurs.",
+        "Choisir une unité adaptée et estimer une longueur.",
+        "Calculer le périmètre d’un polygone et résoudre des problèmes avec les côtés et le périmètre."
+      ],
+      "skill_ids": [
+        "cm1-b-longueurs-perimetre-unites-skill",
+        "cm1-b-longueurs-perimetre-perimetre-skill",
+        "cm1-b-longueurs-perimetre-problemes-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-longueurs-perimetre-audio",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-longueurs-perimetre"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Utiliser les unités de longueur (mm, cm, m, km) et leurs relations pour convertir et comparer des longueurs.",
+        "Choisir une unité adaptée et estimer une longueur.",
+        "Calculer le périmètre d’un polygone et résoudre des problèmes avec les côtés et le périmètre."
+      ],
+      "skill_ids": [
+        "cm1-b-longueurs-perimetre-unites-skill",
+        "cm1-b-longueurs-perimetre-perimetre-skill",
+        "cm1-b-longueurs-perimetre-problemes-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-longueurs-perimetre-assistant_explanation",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-longueurs-perimetre"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Utiliser les unités de longueur (mm, cm, m, km) et leurs relations pour convertir et comparer des longueurs.",
+        "Choisir une unité adaptée et estimer une longueur.",
+        "Calculer le périmètre d’un polygone et résoudre des problèmes avec les côtés et le périmètre."
+      ],
+      "skill_ids": [
+        "cm1-b-longueurs-perimetre-unites-skill",
+        "cm1-b-longueurs-perimetre-perimetre-skill",
+        "cm1-b-longueurs-perimetre-problemes-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Les longueurs, pages 16–17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-longueurs-perimetre.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-durees-heures-minutes-course",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-durees-heures-minutes"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Lire l’heure sur une horloge à aiguilles et placer les aiguilles pour une heure donnée.",
+        "Convertir des minutes en heures et minutes (1 h = 60 min) et calculer une durée écoulée entre deux instants.",
+        "Résoudre des problèmes de durée en une ou deux étapes."
+      ],
+      "skill_ids": [
+        "cm1-b-durees-heures-minutes-lire-heure-skill",
+        "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+        "cm1-b-durees-heures-minutes-problemes-duree-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-durees-heures-minutes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-durees-heures-minutes-revision_sheet",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-durees-heures-minutes"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Lire l’heure sur une horloge à aiguilles et placer les aiguilles pour une heure donnée.",
+        "Convertir des minutes en heures et minutes (1 h = 60 min) et calculer une durée écoulée entre deux instants.",
+        "Résoudre des problèmes de durée en une ou deux étapes."
+      ],
+      "skill_ids": [
+        "cm1-b-durees-heures-minutes-lire-heure-skill",
+        "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+        "cm1-b-durees-heures-minutes-problemes-duree-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-durees-heures-minutes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-durees-heures-minutes-quiz",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-durees-heures-minutes"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Lire l’heure sur une horloge à aiguilles et placer les aiguilles pour une heure donnée.",
+        "Convertir des minutes en heures et minutes (1 h = 60 min) et calculer une durée écoulée entre deux instants.",
+        "Résoudre des problèmes de durée en une ou deux étapes."
+      ],
+      "skill_ids": [
+        "cm1-b-durees-heures-minutes-lire-heure-skill",
+        "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+        "cm1-b-durees-heures-minutes-problemes-duree-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-durees-heures-minutes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-durees-heures-minutes-exercise",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-durees-heures-minutes"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Lire l’heure sur une horloge à aiguilles et placer les aiguilles pour une heure donnée.",
+        "Convertir des minutes en heures et minutes (1 h = 60 min) et calculer une durée écoulée entre deux instants.",
+        "Résoudre des problèmes de durée en une ou deux étapes."
+      ],
+      "skill_ids": [
+        "cm1-b-durees-heures-minutes-lire-heure-skill",
+        "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+        "cm1-b-durees-heures-minutes-problemes-duree-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-durees-heures-minutes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-durees-heures-minutes-assessment",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-durees-heures-minutes"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Lire l’heure sur une horloge à aiguilles et placer les aiguilles pour une heure donnée.",
+        "Convertir des minutes en heures et minutes (1 h = 60 min) et calculer une durée écoulée entre deux instants.",
+        "Résoudre des problèmes de durée en une ou deux étapes."
+      ],
+      "skill_ids": [
+        "cm1-b-durees-heures-minutes-lire-heure-skill",
+        "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+        "cm1-b-durees-heures-minutes-problemes-duree-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-durees-heures-minutes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-durees-heures-minutes-audio",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-durees-heures-minutes"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Lire l’heure sur une horloge à aiguilles et placer les aiguilles pour une heure donnée.",
+        "Convertir des minutes en heures et minutes (1 h = 60 min) et calculer une durée écoulée entre deux instants.",
+        "Résoudre des problèmes de durée en une ou deux étapes."
+      ],
+      "skill_ids": [
+        "cm1-b-durees-heures-minutes-lire-heure-skill",
+        "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+        "cm1-b-durees-heures-minutes-problemes-duree-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-durees-heures-minutes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-durees-heures-minutes-assistant_explanation",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-durees-heures-minutes"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Lire l’heure sur une horloge à aiguilles et placer les aiguilles pour une heure donnée.",
+        "Convertir des minutes en heures et minutes (1 h = 60 min) et calculer une durée écoulée entre deux instants.",
+        "Résoudre des problèmes de durée en une ou deux étapes."
+      ],
+      "skill_ids": [
+        "cm1-b-durees-heures-minutes-lire-heure-skill",
+        "cm1-b-durees-heures-minutes-duree-ecoulee-skill",
+        "cm1-b-durees-heures-minutes-problemes-duree-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grandeurs et mesures / Le repérage dans le temps et les durées, pages 17–18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-durees-heures-minutes.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-calcul-mental-procedures-course",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-calcul-mental-procedures"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Multiplier un nombre entier par 10, 100 ou 1 000 en s’appuyant sur la position des chiffres.",
+        "Ajouter ou soustraire 9 ou 19 à un nombre en passant par 10 ou 20.",
+        "Multiplier un nombre entier par 4 ou par 5 avec une procédure de calcul mental."
+      ],
+      "skill_ids": [
+        "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+        "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+        "cm1-b-calcul-mental-procedures-multiplier-4-5-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-calcul-mental-procedures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-calcul-mental-procedures-revision_sheet",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-calcul-mental-procedures"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Multiplier un nombre entier par 10, 100 ou 1 000 en s’appuyant sur la position des chiffres.",
+        "Ajouter ou soustraire 9 ou 19 à un nombre en passant par 10 ou 20.",
+        "Multiplier un nombre entier par 4 ou par 5 avec une procédure de calcul mental."
+      ],
+      "skill_ids": [
+        "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+        "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+        "cm1-b-calcul-mental-procedures-multiplier-4-5-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-calcul-mental-procedures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-calcul-mental-procedures-quiz",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-calcul-mental-procedures"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Multiplier un nombre entier par 10, 100 ou 1 000 en s’appuyant sur la position des chiffres.",
+        "Ajouter ou soustraire 9 ou 19 à un nombre en passant par 10 ou 20.",
+        "Multiplier un nombre entier par 4 ou par 5 avec une procédure de calcul mental."
+      ],
+      "skill_ids": [
+        "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+        "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+        "cm1-b-calcul-mental-procedures-multiplier-4-5-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-calcul-mental-procedures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-calcul-mental-procedures-exercise",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-calcul-mental-procedures"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Multiplier un nombre entier par 10, 100 ou 1 000 en s’appuyant sur la position des chiffres.",
+        "Ajouter ou soustraire 9 ou 19 à un nombre en passant par 10 ou 20.",
+        "Multiplier un nombre entier par 4 ou par 5 avec une procédure de calcul mental."
+      ],
+      "skill_ids": [
+        "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+        "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+        "cm1-b-calcul-mental-procedures-multiplier-4-5-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-calcul-mental-procedures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-calcul-mental-procedures-assessment",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-calcul-mental-procedures"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Multiplier un nombre entier par 10, 100 ou 1 000 en s’appuyant sur la position des chiffres.",
+        "Ajouter ou soustraire 9 ou 19 à un nombre en passant par 10 ou 20.",
+        "Multiplier un nombre entier par 4 ou par 5 avec une procédure de calcul mental."
+      ],
+      "skill_ids": [
+        "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+        "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+        "cm1-b-calcul-mental-procedures-multiplier-4-5-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-calcul-mental-procedures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-calcul-mental-procedures-audio",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-calcul-mental-procedures"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Multiplier un nombre entier par 10, 100 ou 1 000 en s’appuyant sur la position des chiffres.",
+        "Ajouter ou soustraire 9 ou 19 à un nombre en passant par 10 ou 20.",
+        "Multiplier un nombre entier par 4 ou par 5 avec une procédure de calcul mental."
+      ],
+      "skill_ids": [
+        "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+        "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+        "cm1-b-calcul-mental-procedures-multiplier-4-5-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-calcul-mental-procedures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-calcul-mental-procedures-assistant_explanation",
+      "program_id": "CM1-mathematiques-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-calcul-mental-procedures"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Multiplier un nombre entier par 10, 100 ou 1 000 en s’appuyant sur la position des chiffres.",
+        "Ajouter ou soustraire 9 ou 19 à un nombre en passant par 10 ou 20.",
+        "Multiplier un nombre entier par 4 ou par 5 avec une procédure de calcul mental."
+      ],
+      "skill_ids": [
+        "cm1-b-calcul-mental-procedures-multiplier-10-100-1000-skill",
+        "cm1-b-calcul-mental-procedures-ajouter-9-19-skill",
+        "cm1-b-calcul-mental-procedures-multiplier-4-5-skill"
+      ],
+      "source_locators": [
+        "Programme de mathématiques du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Le calcul mental / Utiliser ses connaissances en numération pour calculer mentalement ; Apprendre des procédures de calcul mental, page 7 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-calcul-mental-procedures.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-synonymes-antonymes-familles-course",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-synonymes-antonymes-familles"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Trouver et utiliser des synonymes de la même classe grammaticale.",
+        "Trouver et utiliser des antonymes, y compris ceux formés avec un préfixe.",
+        "Reconnaître des mots d’une même famille et s’en servir pour comprendre un mot inconnu."
+      ],
+      "skill_ids": [
+        "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-famille-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-synonymes-antonymes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-synonymes-antonymes-familles-revision_sheet",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-synonymes-antonymes-familles"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Trouver et utiliser des synonymes de la même classe grammaticale.",
+        "Trouver et utiliser des antonymes, y compris ceux formés avec un préfixe.",
+        "Reconnaître des mots d’une même famille et s’en servir pour comprendre un mot inconnu."
+      ],
+      "skill_ids": [
+        "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-famille-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-synonymes-antonymes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-synonymes-antonymes-familles-quiz",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-synonymes-antonymes-familles"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Trouver et utiliser des synonymes de la même classe grammaticale.",
+        "Trouver et utiliser des antonymes, y compris ceux formés avec un préfixe.",
+        "Reconnaître des mots d’une même famille et s’en servir pour comprendre un mot inconnu."
+      ],
+      "skill_ids": [
+        "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-famille-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-synonymes-antonymes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-synonymes-antonymes-familles-exercise",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-synonymes-antonymes-familles"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Trouver et utiliser des synonymes de la même classe grammaticale.",
+        "Trouver et utiliser des antonymes, y compris ceux formés avec un préfixe.",
+        "Reconnaître des mots d’une même famille et s’en servir pour comprendre un mot inconnu."
+      ],
+      "skill_ids": [
+        "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-famille-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-synonymes-antonymes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-synonymes-antonymes-familles-assessment",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-synonymes-antonymes-familles"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Trouver et utiliser des synonymes de la même classe grammaticale.",
+        "Trouver et utiliser des antonymes, y compris ceux formés avec un préfixe.",
+        "Reconnaître des mots d’une même famille et s’en servir pour comprendre un mot inconnu."
+      ],
+      "skill_ids": [
+        "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-famille-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-synonymes-antonymes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-synonymes-antonymes-familles-audio",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-synonymes-antonymes-familles"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Trouver et utiliser des synonymes de la même classe grammaticale.",
+        "Trouver et utiliser des antonymes, y compris ceux formés avec un préfixe.",
+        "Reconnaître des mots d’une même famille et s’en servir pour comprendre un mot inconnu."
+      ],
+      "skill_ids": [
+        "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-famille-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-synonymes-antonymes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-synonymes-antonymes-familles-assistant_explanation",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-synonymes-antonymes-familles"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Trouver et utiliser des synonymes de la même classe grammaticale.",
+        "Trouver et utiliser des antonymes, y compris ceux formés avec un préfixe.",
+        "Reconnaître des mots d’une même famille et s’en servir pour comprendre un mot inconnu."
+      ],
+      "skill_ids": [
+        "cm1-b-synonymes-antonymes-familles-synonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-antonymes-skill",
+        "cm1-b-synonymes-antonymes-familles-famille-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Vocabulaire / Enrichir son vocabulaire dans toutes les disciplines ; Établir des relations entre les mots, page 14 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-synonymes-antonymes-familles.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-imparfait-course",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-imparfait"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Conjuguer à l’imparfait les verbes être, avoir et des verbes courants des trois groupes.",
+        "Repérer dans une terminaison la marque de temps (-ai-, -i-) et la marque de personne.",
+        "Écrire correctement l’imparfait des verbes en -cer et en -ger."
+      ],
+      "skill_ids": [
+        "cm1-b-imparfait-personne-skill",
+        "cm1-b-imparfait-temps-skill",
+        "cm1-b-imparfait-cer-ger-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-imparfait-revision_sheet",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-imparfait"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Conjuguer à l’imparfait les verbes être, avoir et des verbes courants des trois groupes.",
+        "Repérer dans une terminaison la marque de temps (-ai-, -i-) et la marque de personne.",
+        "Écrire correctement l’imparfait des verbes en -cer et en -ger."
+      ],
+      "skill_ids": [
+        "cm1-b-imparfait-personne-skill",
+        "cm1-b-imparfait-temps-skill",
+        "cm1-b-imparfait-cer-ger-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-imparfait-quiz",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-imparfait"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Conjuguer à l’imparfait les verbes être, avoir et des verbes courants des trois groupes.",
+        "Repérer dans une terminaison la marque de temps (-ai-, -i-) et la marque de personne.",
+        "Écrire correctement l’imparfait des verbes en -cer et en -ger."
+      ],
+      "skill_ids": [
+        "cm1-b-imparfait-personne-skill",
+        "cm1-b-imparfait-temps-skill",
+        "cm1-b-imparfait-cer-ger-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-imparfait-exercise",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-imparfait"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Conjuguer à l’imparfait les verbes être, avoir et des verbes courants des trois groupes.",
+        "Repérer dans une terminaison la marque de temps (-ai-, -i-) et la marque de personne.",
+        "Écrire correctement l’imparfait des verbes en -cer et en -ger."
+      ],
+      "skill_ids": [
+        "cm1-b-imparfait-personne-skill",
+        "cm1-b-imparfait-temps-skill",
+        "cm1-b-imparfait-cer-ger-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-imparfait-assessment",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-imparfait"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Conjuguer à l’imparfait les verbes être, avoir et des verbes courants des trois groupes.",
+        "Repérer dans une terminaison la marque de temps (-ai-, -i-) et la marque de personne.",
+        "Écrire correctement l’imparfait des verbes en -cer et en -ger."
+      ],
+      "skill_ids": [
+        "cm1-b-imparfait-personne-skill",
+        "cm1-b-imparfait-temps-skill",
+        "cm1-b-imparfait-cer-ger-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-imparfait-audio",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-imparfait"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Conjuguer à l’imparfait les verbes être, avoir et des verbes courants des trois groupes.",
+        "Repérer dans une terminaison la marque de temps (-ai-, -i-) et la marque de personne.",
+        "Écrire correctement l’imparfait des verbes en -cer et en -ger."
+      ],
+      "skill_ids": [
+        "cm1-b-imparfait-personne-skill",
+        "cm1-b-imparfait-temps-skill",
+        "cm1-b-imparfait-cer-ger-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-imparfait-assistant_explanation",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-imparfait"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Conjuguer à l’imparfait les verbes être, avoir et des verbes courants des trois groupes.",
+        "Repérer dans une terminaison la marque de temps (-ai-, -i-) et la marque de personne.",
+        "Écrire correctement l’imparfait des verbes en -cer et en -ger."
+      ],
+      "skill_ids": [
+        "cm1-b-imparfait-personne-skill",
+        "cm1-b-imparfait-temps-skill",
+        "cm1-b-imparfait-cer-ger-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Approfondir sa maîtrise de la conjugaison, page 18 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-imparfait.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-complement-circonstanciel-course",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-complement-circonstanciel"
+      ],
+      "kind": "course",
+      "learning_objectives": [
+        "Identifier le verbe conjugué et le groupe sujet d’une phrase simple.",
+        "Repérer un groupe circonstanciel par la suppression et le déplacement.",
+        "Distinguer un complément d’objet d’un complément circonstanciel."
+      ],
+      "skill_ids": [
+        "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+        "cm1-b-complement-circonstanciel-circonstanciel-skill",
+        "cm1-b-complement-circonstanciel-objet-circonstanciel-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-complement-circonstanciel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-complement-circonstanciel-revision_sheet",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-complement-circonstanciel"
+      ],
+      "kind": "revision_sheet",
+      "learning_objectives": [
+        "Identifier le verbe conjugué et le groupe sujet d’une phrase simple.",
+        "Repérer un groupe circonstanciel par la suppression et le déplacement.",
+        "Distinguer un complément d’objet d’un complément circonstanciel."
+      ],
+      "skill_ids": [
+        "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+        "cm1-b-complement-circonstanciel-circonstanciel-skill",
+        "cm1-b-complement-circonstanciel-objet-circonstanciel-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-complement-circonstanciel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-complement-circonstanciel-quiz",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-complement-circonstanciel"
+      ],
+      "kind": "quiz",
+      "learning_objectives": [
+        "Identifier le verbe conjugué et le groupe sujet d’une phrase simple.",
+        "Repérer un groupe circonstanciel par la suppression et le déplacement.",
+        "Distinguer un complément d’objet d’un complément circonstanciel."
+      ],
+      "skill_ids": [
+        "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+        "cm1-b-complement-circonstanciel-circonstanciel-skill",
+        "cm1-b-complement-circonstanciel-objet-circonstanciel-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-complement-circonstanciel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-complement-circonstanciel-exercise",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-complement-circonstanciel"
+      ],
+      "kind": "exercise",
+      "learning_objectives": [
+        "Identifier le verbe conjugué et le groupe sujet d’une phrase simple.",
+        "Repérer un groupe circonstanciel par la suppression et le déplacement.",
+        "Distinguer un complément d’objet d’un complément circonstanciel."
+      ],
+      "skill_ids": [
+        "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+        "cm1-b-complement-circonstanciel-circonstanciel-skill",
+        "cm1-b-complement-circonstanciel-objet-circonstanciel-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-complement-circonstanciel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-complement-circonstanciel-assessment",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-complement-circonstanciel"
+      ],
+      "kind": "assessment",
+      "learning_objectives": [
+        "Identifier le verbe conjugué et le groupe sujet d’une phrase simple.",
+        "Repérer un groupe circonstanciel par la suppression et le déplacement.",
+        "Distinguer un complément d’objet d’un complément circonstanciel."
+      ],
+      "skill_ids": [
+        "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+        "cm1-b-complement-circonstanciel-circonstanciel-skill",
+        "cm1-b-complement-circonstanciel-objet-circonstanciel-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-complement-circonstanciel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-complement-circonstanciel-audio",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-complement-circonstanciel"
+      ],
+      "kind": "audio",
+      "learning_objectives": [
+        "Identifier le verbe conjugué et le groupe sujet d’une phrase simple.",
+        "Repérer un groupe circonstanciel par la suppression et le déplacement.",
+        "Distinguer un complément d’objet d’un complément circonstanciel."
+      ],
+      "skill_ids": [
+        "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+        "cm1-b-complement-circonstanciel-circonstanciel-skill",
+        "cm1-b-complement-circonstanciel-objet-circonstanciel-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-complement-circonstanciel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    },
+    {
+      "id": "cm1-b-complement-circonstanciel-assistant_explanation",
+      "program_id": "CM1-francais-commun",
+      "program_version": "2026-2027-reference-1",
+      "chapter_ids": [
+        "cm1-b-complement-circonstanciel"
+      ],
+      "kind": "assistant_explanation",
+      "learning_objectives": [
+        "Identifier le verbe conjugué et le groupe sujet d’une phrase simple.",
+        "Repérer un groupe circonstanciel par la suppression et le déplacement.",
+        "Distinguer un complément d’objet d’un complément circonstanciel."
+      ],
+      "skill_ids": [
+        "cm1-b-complement-circonstanciel-sujet-verbe-skill",
+        "cm1-b-complement-circonstanciel-circonstanciel-skill",
+        "cm1-b-complement-circonstanciel-objet-circonstanciel-skill"
+      ],
+      "source_locators": [
+        "Programme de français du cycle 3 (BO n° 16 du 17 avril 2025), Cours moyen première année / Grammaire et orthographe grammaticale / Analyser une phrase simple, page 17 (pagination du PDF)."
+      ],
+      "asset_path": "curriculum/lessons/cm1-b-complement-circonstanciel.json",
+      "review_status": "verified",
+      "reviewed_on": "2026-11-10",
+      "review_method": "Rédigé par un assistant IA et relu automatiquement (calculs, cohérence avec le programme cité) ; validation par un enseignant NON réalisée."
+    }
+  ]
+}
